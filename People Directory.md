@@ -12,6 +12,8 @@ tags:
 
 > Generational notation follows the project convention from G23 to G28 as used in the strategy and appendices.
 
+> Phase 1A profile pages are now available in [[People/_People Directory|People/_People Directory]] and the `People/` folder.
+
 ## G23 — Foundational Ancestors and Siblings
 
 ### [[Michael Copley]] (1813–1897)
@@ -21,10 +23,11 @@ tags:
 - Key event: 1843 land agreement with brother Patrick.
 - Research gaps: Q1 (parentage), Q3 (marriage), Q19 (naturalization).
 
-### [[Ann Elizabeth Munday Copley]] (1823–1909)
-- Born: Kinawley, County Fermanagh.
+### [[Ann Copley]] (1823–1909)
+- Born: Kinawley, County Fermanagh (reported in family narrative).
 - Family tradition: father drowned in Potomac.
-- Research gaps: Q11/Q14 (father identity + wider Munday reconstruction).
+- Maiden surname recorded as "Munday" in secondary family sources, still requiring primary-record verification.
+- Research gaps: Q3, Q11/Q14 (marriage documentation, father identity, wider Munday reconstruction).
 
 ### [[Patrick Copley]]
 - Michael’s brother; co-purchaser in 1843 land agreement.
@@ -46,6 +49,15 @@ tags:
 ---
 
 ## G24 — Lewis County Continuity
+### Immediate children of [[Michael Copley]] + [[Ann Copley]] (new Phase 1A pages)
+- [[Mary Copley Quinn]]
+- [[John Copley]]
+- [[Catherine Kitty Copley Hannon|Catherine "Kitty" Copley Hannon]]
+- [[Anne Copley]]
+- [[Bridget Bitty Copley Gillooly|Bridget "Bitty" Copley Gillooly]]
+- [[Margaret Copley]]
+- [[Thomas Tom Copley|Thomas "Tom" Copley]]
+- [[Sarah Copley]]
 
 ### [[John Copley]] (1843–1925)
 - Son of Michael/Ann; inherited family farm.

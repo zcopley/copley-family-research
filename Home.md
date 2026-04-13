@@ -34,6 +34,7 @@ The research focus includes:
 ### Core Pages
 - [[Phase 1 Questions and Answers]]
 - [[People Directory]]
+- [[People/_People Directory|People Directory (Individual Profiles)]]
 - [[Topics and Themes]]
 - [[The Copley Family Narrative]]
 - [[Bibliography and Acquisition Guide]]
@@ -59,7 +60,7 @@ All uncertain claims are labeled and paired with targeted acquisition strategies
 ## Quick Links to Key Anchors
 
 - [[Michael Copley]]
-- [[Ann Elizabeth Munday Copley]]
+- [[Ann Copley]]
 - [[John Copley]]
 - [[Mary Ellen Dolan Copley]]
 - [[Ellen Bernadine "Nelle" Copley Sardo]]
