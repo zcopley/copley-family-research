@@ -10,7 +10,7 @@ tags:
 
 **Start here:** [[Family Tree]]
 
-This index points to profile pages in `People/` and is organized by generation. Use [[Family Tree]] as a visual reference to quickly understand branch relationships across generations.
+This index points to profile pages in `People/` and is organized by generation. Use [[Family Tree]] as the visual reference for branch structure.
 
 ## G23 — Core Patriarch/Matriarch
 - [[Michael Copley]]
@@ -26,15 +26,26 @@ This index points to profile pages in `People/` and is organized by generation. 
 - [[Thomas Tom Copley|Thomas "Tom" Copley]]
 - [[Sarah Copley]]
 
-## G25 — Children of John + Mary Ellen (mentioned in source narratives)
+## G24 — Children of John + Mary Ellen (branch parents for current G25 work)
 - [[Thomas Eugene Copley (Tom)]]
 - [[Mary Copley Flesch]]
 - [[Anne Copley]]
 - [[Ellen Bernadine "Nelle" Copley Sardo]]
 - [[Michael Joseph Copley]]
 
-## G25–G28 — Social Media Research Profiles
-- [[Stephen Michael Copley]]
+## G25 — Children of John Copley’s children (Phase 1B scope)
+
+### Confirmed members
+- [[Stephen Michael Copley]] (child of [[Michael Joseph Copley]])
+- [[Thomas Partlow Copley]] (child of [[Michael Joseph Copley]])
+- [[Sarah Ellen Sardo Arena]] (child of [[Ellen Bernadine "Nelle" Copley Sardo]])
+- [[Mary Carmella Sardo Ruland]] (child of [[Ellen Bernadine "Nelle" Copley Sardo]])
+
+### Tentative / possible additions (clearly unverified)
+- **Possible additional G25 descendants through [[Thomas Eugene Copley (Tom)]], [[Mary Copley Flesch]], or [[Anne Copley]]:**
+  current narrative states no documented descendants in those lines, but this remains a verification target pending primary-record confirmation.
+
+## G26–G28 — Social Media Research Profiles (existing)
 - [[Peter Copley]]
 - [[Amy E. Copley Geist]]
 - [[Erin E. Copley Bird]]
@@ -52,5 +63,6 @@ This index points to profile pages in `People/` and is organized by generation. 
 - [[Dolan Family]]
 
 ## Notes
-- This directory is a Phase 1A index for core family pages.
+- Phase 1B adds comprehensive pages for all currently identified G25 members in scope.
+- Living-person coverage intentionally excludes sensitive personal data and uses high-level, source-backed biography only.
 - See the root-level [[People Directory]] for broader multi-generation narrative context.

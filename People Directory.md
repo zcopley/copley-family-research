@@ -73,7 +73,7 @@ tags:
 
 ---
 
-## G25 — Children of John + Mary Ellen
+## G25 — Children of John + Mary Ellen (branch-parent generation for Phase 1B)
 
 ### [[Thomas Eugene Copley (Tom)]]
 - Born 1892 (reported).
@@ -90,34 +90,34 @@ tags:
 
 ### [[Ellen Bernadine "Nelle" Copley Sardo]] (1897–1977)
 - Registered nurse and educator; key Maryland branch matriarch.
-- Gap: Q45 birth-year reconciliation.
+- Parent of Phase 1B G25 descendants: [[Sarah Ellen Sardo Arena]], [[Mary Carmella Sardo Ruland]].
 
 ### [[Michael Joseph Copley]] (1898–1988)
 - Research chemist; BS Catholic University; PhD University of Illinois; USDA leadership.
-- Strongly documented modernization figure in family trajectory.
+- Parent of Phase 1B G25 descendants: [[Stephen Michael Copley]], [[Thomas Partlow Copley]].
 
 ---
 
-## G26 — Sardo / Professional Branches
-
-### [[Robert Samuel Sardo]]
-- EENT physician; spouse of Nelle.
-- Gap: verify practice locations and institutional affiliations.
+## Phase 1B G25 — Children of John Copley's children (new comprehensive pages)
 
 ### [[Sarah Ellen Sardo Arena]]
-- Daughter of Nelle; social work/education/chaplaincy pathway.
+- Child of [[Ellen Bernadine "Nelle" Copley Sardo]] and Robert Samuel Sardo.
+- Arena branch connector; profile expanded with evidence gaps/strategies.
 
-### [[Carmella Sardo Ruland]]
-- Daughter of Nelle; matriarch of Ruland line.
-
-### [[Marion Elizabeth Partlow Copley]]
-- Wife of Michael Joseph Copley; teacher/homemaker.
+### [[Mary Carmella Sardo Ruland]]
+- Child of [[Ellen Bernadine "Nelle" Copley Sardo]] and Robert Samuel Sardo.
+- Ruland branch matriarch; profile expanded with evidence gaps/strategies.
 
 ### [[Stephen Michael Copley]]
-- Engineer/professor/administrator; co-author of family history.
+- Child of [[Michael Joseph Copley]] and Marion Elizabeth Partlow.
+- Physicist/professor/administrator; expanded professional biography and source map.
 
 ### [[Thomas Partlow Copley]]
-- Business/marketing academic and practitioner; co-author.
+- Child of [[Michael Joseph Copley]] and Marion Elizabeth Partlow.
+- Marketing/academia profile expanded from Appendix 1 biographical material.
+
+### Tentative / possible additions (explicitly unverified)
+- Possible additional G25 descendants through [[Thomas Eugene Copley (Tom)]], [[Mary Copley Flesch]], or [[Anne Copley]] remain unconfirmed in currently available records.
 
 ---
 

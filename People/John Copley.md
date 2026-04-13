@@ -22,12 +22,17 @@ John’s household sat at the center of the family’s economic transformation f
 ## Family Relationships
 - Parents: [[Michael Copley]], [[Ann Copley]]
 - Spouse: [[Mary Ellen Dolan Copley]]
-- Children (G25 in this branch convention):
+- Children (G24 in this branch convention):
   - [[Thomas Eugene Copley (Tom)]]
   - [[Mary Copley Flesch]]
   - [[Anne Copley]]
   - [[Ellen Bernadine "Nelle" Copley Sardo]]
   - [[Michael Joseph Copley]]
+- Grandchildren (G25 in Phase 1B scope):
+  - [[Stephen Michael Copley]]
+  - [[Thomas Partlow Copley]]
+  - [[Sarah Ellen Sardo Arena]]
+  - [[Mary Carmella Sardo Ruland]]
 - Siblings:
   - [[Mary Copley Quinn]]
   - [[Catherine Kitty Copley Hannon|Catherine "Kitty" Copley Hannon]]
