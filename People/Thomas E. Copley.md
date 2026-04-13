@@ -17,7 +17,7 @@ tags:
 - **Parents:** [[John Copley]], [[Mary Ellen Dolan Copley]]
 - **Siblings:**
   - [[Mary Copley Flesch]]
-  - [[Anne Copley]]
+  - [[Anne Copley (daughter of John Copley)|Anne Copley]]
   - [[Ellen Bernadine Nelle Copley Sardo|Ellen Bernadine "Nelle" Copley Sardo]]
   - [[Michael Joseph Copley]]
 - **Spouse:** Drusilla (last name unknown)

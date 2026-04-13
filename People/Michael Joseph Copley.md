@@ -30,11 +30,11 @@ tags:
 
 ## Family Relationships
 - **Parents:** [[John Copley]], [[Mary Ellen Dolan Copley]]
-- **Grandparents:** [[Michael Copley]], [[Ann Copley]]
+- **Grandparents:** [[Michael Copley Sr|Michael Copley]], [[Ann Copley]]
 - **Siblings:**
   - [[Thomas E. Copley]]
   - [[Mary Copley Flesch]]
-  - [[Anne Copley]]
+  - [[Anne Copley (daughter of John Copley)|Anne Copley]]
   - [[Ellen Bernadine Nelle Copley Sardo|Ellen Bernadine "Nelle" Copley Sardo]]
 - **Spouse:** Marion Elizabeth Partlow
 - **Children (G25):**

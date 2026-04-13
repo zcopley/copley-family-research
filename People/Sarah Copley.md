@@ -11,19 +11,19 @@ tags:
 📊 View [[Family Tree]] for visual context.
 
 ## Biographical Profile
-[[Sarah Copley]] is the youngest reported daughter in the eight-child set of [[Michael Copley]] and [[Ann Copley]], born in **1859**. Family narrative indicates she **never married** and died in **1939**.
+[[Sarah Copley]] is the youngest reported daughter in the eight-child set of [[Michael Copley Sr|Michael Copley]] and [[Ann Copley]], born in **1859**. Family narrative indicates she **never married** and died in **1939**.
 
 A labeled photograph is referenced in the family history materials.
 
 ## Family Relationships
-- Parents: [[Michael Copley]], [[Ann Copley]]
+- Parents: [[Michael Copley Sr|Michael Copley]], [[Ann Copley]]
 - Spouse: none reported
 - Children: none reported
 - Siblings:
   - [[Mary Copley Quinn]]
   - [[John Copley]]
   - [[Catherine Kitty Copley Hannon|Catherine "Kitty" Copley Hannon]]
-  - [[Anne Copley]]
+  - [[Anne Copley (b. 1850)|Anne Copley]]
   - [[Bridget Bitty Copley Gillooly|Bridget "Bitty" Copley Gillooly]]
   - [[Margaret Copley]]
   - [[Thomas Tom Copley|Thomas "Tom" Copley]]

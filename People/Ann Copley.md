@@ -15,17 +15,17 @@ tags:
 ## Biographical Profile
 [[Ann Copley]] is the matriarch of the West Virginia Copley line. Family narratives identify her as **Ann Elizabeth Munday**, born in **1823** in **Kinawley, County Fermanagh** (now in Northern Ireland), with immigration to the United States in childhood. However, because the primary marriage and birth records have not yet been located, her maiden surname remains a **high-priority documentary verification gap**.
 
-She married [[Michael Copley]] (date/place unknown) and lived in Lewis County after the family’s 1843 land settlement. The 1850 census framework and family reconstruction identify her as mother of eight known children.
+She married [[Michael Copley Sr|Michael Copley]] (date/place unknown) and lived in Lewis County after the family’s 1843 land settlement. The 1850 census framework and family reconstruction identify her as mother of eight known children.
 
 A persistent family tradition states that her father drowned in the Potomac River. This is plausible in context but currently unverified by contemporary records.
 
 ## Family Relationships
-- Husband: [[Michael Copley]]
+- Husband: [[Michael Copley Sr|Michael Copley]]
 - Children (G24):
   - [[Mary Copley Quinn]]
   - [[John Copley]]
   - [[Catherine Kitty Copley Hannon|Catherine "Kitty" Copley Hannon]]
-  - [[Anne Copley]]
+  - [[Anne Copley (b. 1850)|Anne Copley]]
   - [[Bridget Bitty Copley Gillooly|Bridget "Bitty" Copley Gillooly]]
   - [[Margaret Copley]]
   - [[Thomas Tom Copley|Thomas "Tom" Copley]]
@@ -34,7 +34,7 @@ A persistent family tradition states that her father drowned in the Potomac Rive
 ## Known/Reported Life Data
 - **Born:** 1823, Kinawley parish, Fermanagh (reported in family narrative)
 - **Died:** 1909 (family narrative)
-- **Marriage:** to [[Michael Copley]], likely c.1838-1839 (inferred from first child birth year)
+- **Marriage:** to [[Michael Copley Sr|Michael Copley]], likely c.1838-1839 (inferred from first child birth year)
 
 ## Research Gaps
 1. **Maiden-name proof:** “Munday” is widely used in family material but requires direct primary-record confirmation.

@@ -34,7 +34,7 @@ This person is distinct from [[Thomas E. Copley]] (1892–1968), his uncle in th
 ## Family Relationships
 - **Parents:** [[Michael Joseph Copley]], [[Marion Elizabeth Partlow]]
 - **Grandparents:** [[John Copley]], [[Mary Ellen Dolan Copley]]
-- **Great-grandparents (branch root):** [[Michael Copley]], [[Ann Copley]]
+- **Great-grandparents (branch root):** [[Michael Copley Sr|Michael Copley]], [[Ann Copley]]
 - **Sibling:** [[Stephen Michael Copley]]
 - **Spouse:** Barbara Dee LaForce
 - **Children (G26):**

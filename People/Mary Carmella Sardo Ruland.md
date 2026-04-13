@@ -23,7 +23,7 @@ tags:
 ## Family Relationships
 - **Parents (G24):** [[Ellen Bernadine Nelle Copley Sardo|Ellen Bernadine "Nelle" Copley Sardo]], Robert Samuel Sardo
 - **Grandparents:** [[John Copley]], [[Mary Ellen Dolan Copley]]
-- **Great-grandparents (branch root):** [[Michael Copley]], [[Ann Copley]]
+- **Great-grandparents (branch root):** [[Michael Copley Sr|Michael Copley]], [[Ann Copley]]
 - **Sibling:** [[Sarah Ellen Sardo Arena]]
 - **Spouse:** Louis Ruland
 - **Children (G26):**

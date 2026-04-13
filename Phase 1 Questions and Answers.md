@@ -112,7 +112,7 @@ Parents are identified as Michael and Elizabeth Dolan in compiled materials, but
 
 ---
 
-## Q19 — Naturalization date/place for [[Michael Copley]]
+## Q19 — Naturalization date/place for [[Michael Copley Sr|Michael Copley]]
 
 ### Current answer
 No naturalization document has been found yet; likely jurisdictions include early B&O corridor counties in MD/VA/WV.
@@ -173,7 +173,7 @@ Biographies for some modern descendants are uneven in depth. Core lines are know
 
 ## Linked Research Entities
 
-People and lines: [[Michael Copley]], [[Ann Elizabeth Munday Copley]], [[John Copley]], [[Mary Ellen Dolan Copley]], [[Ellen Bernadine Nelle Copley Sardo|Ellen Bernadine "Nelle" Copley Sardo]], [[Michael Joseph Copley]], [[Dolan Family]]
+People and lines: [[Michael Copley Sr|Michael Copley]], [[Ann Elizabeth Munday Copley]], [[John Copley]], [[Mary Ellen Dolan Copley]], [[Ellen Bernadine Nelle Copley Sardo|Ellen Bernadine "Nelle" Copley Sardo]], [[Michael Joseph Copley]], [[Dolan Family]]
 
 Places and topics: [[Kilgefin, Roscommon]], [[Lewis County, West Virginia]], [[B&O Railroad Labor]], [[Copley No. 1 Oil Strike]]
 

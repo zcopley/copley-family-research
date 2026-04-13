@@ -61,7 +61,7 @@ All uncertain claims are labeled and paired with targeted acquisition strategies
 
 ## Quick Links to Key Anchors
 
-- [[Michael Copley]]
+- [[Michael Copley Sr|Michael Copley]]
 - [[Ann Copley]]
 - [[John Copley]]
 - [[Mary Ellen Dolan Copley]]

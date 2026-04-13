@@ -32,11 +32,11 @@ tags:
 ## Family Relationships
 - **Parents:** [[Michael Joseph Copley]], Marion Elizabeth Partlow
 - **Grandparents:** [[John Copley]], [[Mary Ellen Dolan Copley]]
-- **Great-grandparents (branch root):** [[Michael Copley]], [[Ann Copley]]
+- **Great-grandparents (branch root):** [[Michael Copley Sr|Michael Copley]], [[Ann Copley]]
 - **Sibling:** [[Thomas Partlow Copley]]
 - **Spouses:** Marcia Thornton (first marriage), Judith "Judy" Todd (second marriage)
 - **Children (G26):**
-  - [[Michael Copley descendant|Michael Copley (descendant)]]
+  - [[Michael Copley (b. 1959)]]
   - [[Sara Copley Cox]]
   - [[Philip Copley]]
   - [[Paul Copley]]

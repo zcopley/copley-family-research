@@ -104,7 +104,7 @@ This guide consolidates source targets from internal analysis and external findi
 
 ## E) Diocesan/Catholic parish archives (MD/VA/WV corridor)
 - Priority records:
-  - Sacramental marriage entries for [[Michael Copley]] + [[Ann Elizabeth Munday Copley]] and [[John Copley]] + [[Mary Ellen Dolan Copley]].
+  - Sacramental marriage entries for [[Michael Copley Sr|Michael Copley]] + [[Ann Elizabeth Munday Copley]] and [[John Copley]] + [[Mary Ellen Dolan Copley]].
 - Request strategy:
   1. Contact diocesan archivist with narrow date windows.
   2. Include witness name possibilities and settlement clues.

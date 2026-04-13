@@ -16,9 +16,15 @@ tags:
 
 > 📊 Start with [[Family Tree]] for the fastest visual orientation across generations and branches.
 
+
+## Name Disambiguation Notes
+- **Michael Copley:** use [[Michael Copley Sr|Michael Copley]] (1813–1897), [[Michael Joseph Copley]] (1898–1988), or [[Michael Copley (b. 1959)]].
+- **Anne Copley:** use [[Anne Copley (b. 1850)|Anne Copley (b. 1850)]] or [[Anne Copley (daughter of John Copley)|Anne Copley (daughter of John)]].
+- **Ann/Anne distinction:** [[Ann Copley]] is the matriarch (1823–1909); both Anne pages are daughters in later generations.
+
 ## G23 — Foundational Ancestors and Siblings
 
-### [[Michael Copley]] (1813–1897)
+### [[Michael Copley Sr|Michael Copley]] (1813–1897)
 - Born: [[Kilgefin, Roscommon]] (per gravestone tradition).
 - Died: [[Lewis County, West Virginia]].
 - Roles: immigrant laborer/farmer; probable [[B&O Railroad Labor]] phase before settlement.
@@ -51,11 +57,11 @@ tags:
 ---
 
 ## G24 — Lewis County Continuity
-### Immediate children of [[Michael Copley]] + [[Ann Copley]] (new Phase 1A pages)
+### Immediate children of [[Michael Copley Sr|Michael Copley]] + [[Ann Copley]] (new Phase 1A pages)
 - [[Mary Copley Quinn]]
 - [[John Copley]]
 - [[Catherine Kitty Copley Hannon|Catherine "Kitty" Copley Hannon]]
-- [[Anne Copley]]
+- [[Anne Copley (b. 1850)|Anne Copley (b. 1850)]]
 - [[Bridget Bitty Copley Gillooly|Bridget "Bitty" Copley Gillooly]]
 - [[Margaret Copley]]
 - [[Thomas Tom Copley|Thomas "Tom" Copley]]
@@ -84,7 +90,7 @@ tags:
 - Daughter; later associated with Albuquerque.
 - Gap: fuller household/career timeline.
 
-### [[Anne Copley]]
+### [[Anne Copley (daughter of John Copley)|Anne Copley (daughter of John)]]
 - Daughter; reportedly unmarried; relocated to Albuquerque.
 - Gap: census and city-directory continuity.
 
@@ -117,7 +123,7 @@ tags:
 - Marketing/academia profile expanded from Appendix 1 biographical material.
 
 ### Tentative / possible additions (explicitly unverified)
-- Possible additional G25 descendants through [[Mary Copley Flesch]] or [[Anne Copley]] remain unconfirmed in currently available records.
+- Possible additional G25 descendants through [[Mary Copley Flesch]] or [[Anne Copley (daughter of John Copley)|Anne Copley (daughter of John)]] remain unconfirmed in currently available records.
 
 ---
 
@@ -130,7 +136,7 @@ tags:
 - Spouse connection in Stephen line.
 
 ### Children identified in appendices
-- [[Michael Copley descendant|Michael Copley (descendant)]], [[Sara Copley Cox]], [[Philip Copley]], [[Paul Copley]], [[Peter Copley]], [[Susan Copley]], [[Stephen Joseph Copley]], [[Amy E. Copley Geist]]
+- [[Michael Copley (b. 1959)]], [[Sara Copley Cox]], [[Philip Copley]], [[Paul Copley]], [[Peter Copley]], [[Susan Copley]], [[Stephen Joseph Copley]], [[Amy E. Copley Geist]]
 
 Gaps for this generation:
 - Standardized biographies (Q33–Q35 scope)

@@ -11,19 +11,19 @@ tags:
 📊 View [[Family Tree]] for visual context.
 
 ## Biographical Profile
-[[Bridget Bitty Copley Gillooly|Bridget "Bitty" Copley Gillooly]] was born in **1851** to [[Michael Copley]] and [[Ann Copley]]. She married **Patrick Gillooly**. Family narrative states the couple had **no children**.
+[[Bridget Bitty Copley Gillooly|Bridget "Bitty" Copley Gillooly]] was born in **1851** to [[Michael Copley Sr|Michael Copley]] and [[Ann Copley]]. She married **Patrick Gillooly**. Family narrative states the couple had **no children**.
 
 A family photograph context includes Bridget with niece Ann (daughter of [[John Copley]]), indicating close multi-generational contact in the Lewis County branch.
 
 ## Family Relationships
-- Parents: [[Michael Copley]], [[Ann Copley]]
+- Parents: [[Michael Copley Sr|Michael Copley]], [[Ann Copley]]
 - Spouse: Patrick Gillooly
 - Children: none reported
 - Siblings:
   - [[Mary Copley Quinn]]
   - [[John Copley]]
   - [[Catherine Kitty Copley Hannon|Catherine "Kitty" Copley Hannon]]
-  - [[Anne Copley]]
+  - [[Anne Copley (b. 1850)|Anne Copley]]
   - [[Margaret Copley]]
   - [[Thomas Tom Copley|Thomas "Tom" Copley]]
   - [[Sarah Copley]]

@@ -14,7 +14,7 @@ tags:
 
 ## [[B&O Railroad Labor]]
 
-Irish immigrants in the 1840s–1850s were heavily recruited into difficult rail construction work, including westward B&O expansion through the Mid-Atlantic and what became West Virginia. This gives strong contextual support to the claim that [[Michael Copley]] worked in rail labor before permanent settlement.
+Irish immigrants in the 1840s–1850s were heavily recruited into difficult rail construction work, including westward B&O expansion through the Mid-Atlantic and what became West Virginia. This gives strong contextual support to the claim that [[Michael Copley Sr|Michael Copley]] worked in rail labor before permanent settlement.
 
 - **Historical context:** infrastructure boom, dangerous manual labor, immigrant labor camps.
 - **What is sourced:** broad pattern is well documented in regional history.
@@ -46,7 +46,7 @@ The strongest family-origin anchor is Michael’s gravestone claim of birth in K
 
 - **Historical context:** Catholic households under tithe pressure and land insecurity.
 - **What is sourced:** place-origin claim and available record systems.
-- **What remains open:** parentage proof for [[Michael Copley]] (Q1), confirmation of sibling cluster in parish records.
+- **What remains open:** parentage proof for [[Michael Copley Sr|Michael Copley]] (Q1), confirmation of sibling cluster in parish records.
 
 Sources:
 - National Library of Ireland registers portal: <https://registers.nli.ie>

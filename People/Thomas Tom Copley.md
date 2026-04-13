@@ -11,19 +11,19 @@ tags:
 📊 View [[Family Tree]] for visual context.
 
 ## Biographical Profile
-[[Thomas Tom Copley|Thomas "Tom" Copley]] was born in **1857** to [[Michael Copley]] and [[Ann Copley]]. Family narrative states he married **Ida McKee** and that the couple had **no children**. He is represented in surviving family photographs and is reported to have died in **1932**.
+[[Thomas Tom Copley|Thomas "Tom" Copley]] was born in **1857** to [[Michael Copley Sr|Michael Copley]] and [[Ann Copley]]. Family narrative states he married **Ida McKee** and that the couple had **no children**. He is represented in surviving family photographs and is reported to have died in **1932**.
 
 This individual should be distinguished from later [[Thomas E. Copley]], John’s son.
 
 ## Family Relationships
-- Parents: [[Michael Copley]], [[Ann Copley]]
+- Parents: [[Michael Copley Sr|Michael Copley]], [[Ann Copley]]
 - Spouse: Ida McKee
 - Children: none reported
 - Siblings:
   - [[Mary Copley Quinn]]
   - [[John Copley]]
   - [[Catherine Kitty Copley Hannon|Catherine "Kitty" Copley Hannon]]
-  - [[Anne Copley]]
+  - [[Anne Copley (b. 1850)|Anne Copley]]
   - [[Bridget Bitty Copley Gillooly|Bridget "Bitty" Copley Gillooly]]
   - [[Margaret Copley]]
   - [[Sarah Copley]]

@@ -12,18 +12,18 @@ tags:
 📊 View [[Family Tree]] for visual context.
 
 ## Biographical Profile
-[[Catherine Kitty Copley Hannon|Catherine "Kitty" Copley Hannon]] is listed among the daughters of [[Michael Copley]] and [[Ann Copley]], with reported birth year **1848**. She married **Mathew Hannon** (surname also seen in variant forms Hanly/Hannon in broader family material).
+[[Catherine Kitty Copley Hannon|Catherine "Kitty" Copley Hannon]] is listed among the daughters of [[Michael Copley Sr|Michael Copley]] and [[Ann Copley]], with reported birth year **1848**. She married **Mathew Hannon** (surname also seen in variant forms Hanly/Hannon in broader family material).
 
 The Part 1 narrative reports that Catherine and Mathew had **two children**.
 
 ## Family Relationships
-- Parents: [[Michael Copley]], [[Ann Copley]]
+- Parents: [[Michael Copley Sr|Michael Copley]], [[Ann Copley]]
 - Spouse: Mathew Hannon
 - Children: two (names pending confirmation)
 - Siblings:
   - [[Mary Copley Quinn]]
   - [[John Copley]]
-  - [[Anne Copley]]
+  - [[Anne Copley (b. 1850)|Anne Copley]]
   - [[Bridget Bitty Copley Gillooly|Bridget "Bitty" Copley Gillooly]]
   - [[Margaret Copley]]
   - [[Thomas Tom Copley|Thomas "Tom" Copley]]

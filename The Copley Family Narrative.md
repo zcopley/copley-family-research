@@ -14,7 +14,7 @@ tags:
 
 ## Chapter 1 — Irish Roots
 
-The wind moved low and cold over the fields of [[Kilgefin, Roscommon]], and the Copley children learned early that land could be both cradle and trial. In this parish world of chapel bells and tenancy pressure, [[Michael Copley]] came of age with siblings who would become part of the family’s migration story: [[Patrick Copley]], [[Bridget Copley Reynolds]], [[Catherine Kitty Copley Hannon]], and [[William Copley]].
+The wind moved low and cold over the fields of [[Kilgefin, Roscommon]], and the Copley children learned early that land could be both cradle and trial. In this parish world of chapel bells and tenancy pressure, [[Michael Copley Sr|Michael Copley]] came of age with siblings who would become part of the family’s migration story: [[Patrick Copley]], [[Bridget Copley Reynolds]], [[Catherine Kitty Copley Hannon]], and [[William Copley]].
 
 The records are thin, but the pressure is visible in the era itself—tithe disputes, agrarian strain, and uncertainty for Catholic families in the 1820s and 1830s.[^irish-context]
 
@@ -34,7 +34,7 @@ The ships reached New York, but New York was not the destination. Work was. Rail
 
 In the shadow of expanding track and timbered hills, the family’s center of gravity shifted to [[Lewis County, West Virginia]] (then Virginia). The 1843 agreement with [[Weeden Hoffman]]—200 acres tied to long-term payment—was not just a contract; it was a declaration of intention.[^land]
 
-If rail labor gave them entry, land gave them permanence. The Copleys built around field seasons, church routines, and hard winters. [[Michael Copley]] and [[Ann Elizabeth Munday Copley]] raised a large family, and one son, [[John Copley]], would hold the line into the next century.
+If rail labor gave them entry, land gave them permanence. The Copleys built around field seasons, church routines, and hard winters. [[Michael Copley Sr|Michael Copley]] and [[Ann Elizabeth Munday Copley]] raised a large family, and one son, [[John Copley]], would hold the line into the next century.
 
 The oral tradition of camp labor and settlement along the B&O corridor fits the broader history of Irish workers in the region, even as the payroll proof for Michael remains elusive.[^bo]
 

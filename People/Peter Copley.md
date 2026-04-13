@@ -16,7 +16,7 @@ tags:
 
 ## Family Context
 - Father: [[Stephen Michael Copley]]
-- Siblings (selected): [[Michael Copley]], [[Sarah Copley]], [[Philip Copley]], [[Paul Copley]], [[Susan Copley]], [[Stephen Copley]], [[Amy E. Copley Geist]]
+- Siblings (selected): [[Michael Copley (b. 1959)|Michael Copley (b. 1959)]], [[Sara Copley Cox]], [[Philip Copley]], [[Paul Copley]], [[Susan Copley]], [[Stephen Joseph Copley]], [[Amy E. Copley Geist]]
 
 ## Social Media & Online Presence
 - 💼 **LinkedIn:** [Peter Copley](https://www.linkedin.com/in/peter-copley-2a956729/) *(Possible match - verify)*

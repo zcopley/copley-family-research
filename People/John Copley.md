@@ -13,19 +13,19 @@ tags:
 📊 View [[Family Tree]] for visual context.
 
 ## Biographical Profile
-[[John Copley]] was born **3 Nov 1843** near Weston, West Virginia (then Virginia), the son of [[Michael Copley]] and [[Ann Copley]]. He became the principal successor to the family farm established through the 1843 Hoffman agreement.
+[[John Copley]] was born **3 Nov 1843** near Weston, West Virginia (then Virginia), the son of [[Michael Copley Sr|Michael Copley]] and [[Ann Copley]]. He became the principal successor to the family farm established through the 1843 Hoffman agreement.
 
-He married [[Mary Ellen Dolan Copley]] (date/place unresolved) and the couple had five children: [[Thomas E. Copley]], [[Mary Copley Flesch]], [[Anne Copley]], [[Ellen Bernadine Nelle Copley Sardo|Ellen Bernadine "Nelle" Copley Sardo]], and [[Michael Joseph Copley]].
+He married [[Mary Ellen Dolan Copley]] (date/place unresolved) and the couple had five children: [[Thomas E. Copley]], [[Mary Copley Flesch]], [[Anne Copley (daughter of John Copley)|Anne Copley]], [[Ellen Bernadine Nelle Copley Sardo|Ellen Bernadine "Nelle" Copley Sardo]], and [[Michael Joseph Copley]].
 
 John’s household sat at the center of the family’s economic transformation following the 1900 **[[Copley No. 1 Oil Strike]]**. Probate/lease details remain to be fully documented, but his generation is the key bridge between immigrant agrarian roots and later professional mobility of descendants.
 
 ## Family Relationships
-- Parents: [[Michael Copley]], [[Ann Copley]]
+- Parents: [[Michael Copley Sr|Michael Copley]], [[Ann Copley]]
 - Spouse: [[Mary Ellen Dolan Copley]]
 - Children (G24 in this branch convention):
   - [[Thomas E. Copley]]
   - [[Mary Copley Flesch]]
-  - [[Anne Copley]]
+  - [[Anne Copley (daughter of John Copley)|Anne Copley]]
   - [[Ellen Bernadine Nelle Copley Sardo|Ellen Bernadine "Nelle" Copley Sardo]]
   - [[Michael Joseph Copley]]
 - Grandchildren (G25 in Phase 1B scope):
@@ -36,7 +36,7 @@ John’s household sat at the center of the family’s economic transformation f
 - Siblings:
   - [[Mary Copley Quinn]]
   - [[Catherine Kitty Copley Hannon|Catherine "Kitty" Copley Hannon]]
-  - [[Anne Copley]]
+  - [[Anne Copley (b. 1850)|Anne Copley]]
   - [[Bridget Bitty Copley Gillooly|Bridget "Bitty" Copley Gillooly]]
   - [[Margaret Copley]]
   - [[Thomas Tom Copley|Thomas "Tom" Copley]]

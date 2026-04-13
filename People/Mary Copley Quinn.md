@@ -12,18 +12,18 @@ tags:
 📊 View [[Family Tree]] for visual context.
 
 ## Biographical Profile
-[[Mary Copley Quinn]] is identified as the eldest known child of [[Michael Copley]] and [[Ann Copley]], born in **1839**. She appears in family reconstruction from census-era context and later married **Michael Quinn**.
+[[Mary Copley Quinn]] is identified as the eldest known child of [[Michael Copley Sr|Michael Copley]] and [[Ann Copley]], born in **1839**. She appears in family reconstruction from census-era context and later married **Michael Quinn**.
 
 The narrative records that Mary and Michael Quinn had **five children**, though their names and full life chronology are not yet standardized in the vault.
 
 ## Family Relationships
-- Parents: [[Michael Copley]], [[Ann Copley]]
+- Parents: [[Michael Copley Sr|Michael Copley]], [[Ann Copley]]
 - Spouse: Michael Quinn (create dedicated person page in later phase)
 - Children: five (names to be documented)
 - Siblings:
   - [[John Copley]]
   - [[Catherine Kitty Copley Hannon|Catherine "Kitty" Copley Hannon]]
-  - [[Anne Copley]]
+  - [[Anne Copley (b. 1850)|Anne Copley]]
   - [[Bridget Bitty Copley Gillooly|Bridget "Bitty" Copley Gillooly]]
   - [[Margaret Copley]]
   - [[Thomas Tom Copley|Thomas "Tom" Copley]]
