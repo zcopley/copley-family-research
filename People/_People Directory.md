@@ -33,6 +33,17 @@ This index points to profile pages in `People/` and is organized by generation. 
 - [[Ellen Bernadine "Nelle" Copley Sardo]]
 - [[Michael Joseph Copley]]
 
+## G25–G28 — Social Media Research Profiles
+- [[Stephen Michael Copley]]
+- [[Peter Copley]]
+- [[Amy E. Copley Geist]]
+- [[Erin E. Copley Bird]]
+- [[Charles H. Copley]]
+- [[Georgia Leonhardt]]
+- [[William S. Geist]]
+- [[Evelyn Bird]]
+- [[Rowan Meier]]
+
 ## Related/Contextual People Mentioned in Existing Vault
 - [[Patrick Copley]]
 - [[Bridget Copley Reynolds]]
