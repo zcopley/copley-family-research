@@ -25,14 +25,14 @@ tags:
 ## G23 — Foundational Ancestors and Siblings
 
 ### [[Michael Copley Sr|Michael Copley]] (1813–1897)
-- Born: [[Kilgefin, Roscommon]] (per gravestone tradition).
-- Died: [[Lewis County, West Virginia]].
+- Born: [[Places/Kilgefin Ireland|Kilgefin, Ireland]] (per gravestone tradition).
+- Died: [[Places/Lewis County West Virginia|Lewis County, West Virginia]].
 - Roles: immigrant laborer/farmer; probable [[B&O Railroad Labor]] phase before settlement.
 - Key event: 1843 land agreement with brother Patrick.
 - Research gaps: Q1 (parentage), Q3 (marriage), Q19 (naturalization).
 
 ### [[Ann Copley]] (1823–1909)
-- Born: Kinawley, County Fermanagh (reported in family narrative).
+- Born: [[Places/Kinawley Ireland|Kinawley, Ireland]] (County Fermanagh context; reported in family narrative).
 - Family tradition: father drowned in Potomac.
 - Maiden surname recorded as "Munday" in secondary family sources, still requiring primary-record verification.
 - Research gaps: Q3, Q11/Q14 (marriage documentation, father identity, wider Munday reconstruction).

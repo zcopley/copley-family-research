@@ -1,10 +1,13 @@
 ---
 title: "Kilgefin, Roscommon"
-tags: [copley-family, stub, research-topic]
+date: 2026-04-13
+tags: [copley-family, place, ireland]
 ---
 
 # Kilgefin, Roscommon
 
-> Stub page created to prevent broken links.
+This legacy page now points to the Phase 1C place profile:
 
-This page is a placeholder and needs source-backed content.
+- [[Places/Kilgefin Ireland|Kilgefin, Ireland]]
+- [[Places/County Roscommon Ireland|County Roscommon, Ireland]]
+- [[Places/_Places Index|Places Index]]

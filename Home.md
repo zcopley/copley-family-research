@@ -37,6 +37,7 @@ The research focus includes:
 - [[People Directory]]
 - [[People/People Directory|People Directory (Individual Profiles)]]
 - [[Topics and Themes]]
+- [[Places/_Places Index|Places Index]]
 - [[The Copley Family Narrative]]
 - [[Bibliography and Acquisition Guide]]
 
@@ -45,8 +46,9 @@ The research focus includes:
 2. Continue to [[Phase 1 Questions and Answers]] for active research priorities.
 3. Use [[People Directory]] to orient people and generations.
 4. Read [[Topics and Themes]] for historical context.
-5. Enjoy [[The Copley Family Narrative]] for a synthesized story.
-6. Use [[Bibliography and Acquisition Guide]] to acquire records/books and plan archival work.
+5. Open [[Places/_Places Index|Places Index]] for location-by-location research planning.
+6. Enjoy [[The Copley Family Narrative]] for a synthesized story.
+7. Use [[Bibliography and Acquisition Guide]] to acquire records/books and plan archival work.
 
 ## Research Methodology
 
@@ -67,8 +69,9 @@ All uncertain claims are labeled and paired with targeted acquisition strategies
 - [[Mary Ellen Dolan Copley]]
 - [[Ellen Bernadine Nelle Copley Sardo|Ellen Bernadine "Nelle" Copley Sardo]]
 - [[Michael Joseph Copley]]
-- [[Lewis County, West Virginia]]
-- [[Kilgefin, Roscommon]]
+- [[Places/Lewis County West Virginia|Lewis County, West Virginia]]
+- [[Places/Kilgefin Ireland|Kilgefin, Ireland]]
+- [[Places/Baltimore Maryland|Baltimore, Maryland]]
 - [[B&O Railroad Labor]]
 - [[Copley No. 1 Oil Strike]]
 

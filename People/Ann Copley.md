@@ -13,11 +13,16 @@ tags:
 📊 View [[Family Tree]] for visual context.
 
 ## Biographical Profile
-[[Ann Copley]] is the matriarch of the West Virginia Copley line. Family narratives identify her as **Ann Elizabeth Munday**, born in **1823** in **Kinawley, County Fermanagh** (now in Northern Ireland), with immigration to the United States in childhood. However, because the primary marriage and birth records have not yet been located, her maiden surname remains a **high-priority documentary verification gap**.
+[[Ann Copley]] is the matriarch of the West Virginia Copley line. Family narratives identify her as **Ann Elizabeth Munday**, born in **1823** in **[[Places/Kinawley Ireland|Kinawley, Ireland]]** (County Fermanagh context), with immigration to the United States in childhood. However, because the primary marriage and birth records have not yet been located, her maiden surname remains a **high-priority documentary verification gap**.
 
-She married [[Michael Copley Sr|Michael Copley]] (date/place unknown) and lived in Lewis County after the family’s 1843 land settlement. The 1850 census framework and family reconstruction identify her as mother of eight known children.
+She married [[Michael Copley Sr|Michael Copley]] (date/place unknown) and lived in [[Places/Lewis County West Virginia|Lewis County]] after the family’s 1843 land settlement. The 1850 census framework and family reconstruction identify her as mother of eight known children.
 
 A persistent family tradition states that her father drowned in the Potomac River. This is plausible in context but currently unverified by contemporary records.
+
+## Key Place Links
+- Birthplace context: [[Places/Kinawley Ireland|Kinawley, Ireland]]
+- Settlement context: [[Places/Lewis County West Virginia|Lewis County, West Virginia]] and [[Places/Weston West Virginia|Weston, West Virginia]]
+- Migration-corridor research hub: [[Places/Baltimore Maryland|Baltimore, Maryland]]
 
 ## Family Relationships
 - Husband: [[Michael Copley Sr|Michael Copley]]

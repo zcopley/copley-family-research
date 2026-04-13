@@ -12,6 +12,11 @@ tags:
 
 📊 Keep [[Family Tree]] open while reading this page to connect each theme to the relevant generations and branches.
 
+## Place Reference Hub
+
+For location-specific research plans, use [[Places/_Places Index|Places Index]]. Core anchors include [[Places/Kilgefin Ireland|Kilgefin]], [[Places/Kinawley Ireland|Kinawley]], [[Places/Lewis County West Virginia|Lewis County]], [[Places/Weston West Virginia|Weston]], and [[Places/Baltimore Maryland|Baltimore]].
+
+---
 ## [[B&O Railroad Labor]]
 
 Irish immigrants in the 1840s–1850s were heavily recruited into difficult rail construction work, including westward B&O expansion through the Mid-Atlantic and what became West Virginia. This gives strong contextual support to the claim that [[Michael Copley Sr|Michael Copley]] worked in rail labor before permanent settlement.
@@ -40,7 +45,7 @@ Sources:
 
 ---
 
-## Irish Origins in [[Kilgefin, Roscommon]]
+## Irish Origins in [[Places/Kilgefin Ireland|Kilgefin, Ireland]]
 
 The strongest family-origin anchor is Michael’s gravestone claim of birth in Kilgefin parish, Roscommon. This places the lineage in a region where parish records, tithe books, and valuation materials are key to pre-Famine reconstruction.
 
@@ -69,7 +74,7 @@ Sources:
 
 ---
 
-## [[Lewis County, West Virginia]] Settlement and Land Tenure
+## [[Places/Lewis County West Virginia|Lewis County, West Virginia]] Settlement and Land Tenure
 
 The 1843 agreement with [[Weeden Hoffman]] marks the family’s shift from mobile labor to rooted landholding. Long-horizon payment and eventual title completion mirror frontier-capital constraints of immigrant households.
 
@@ -100,9 +105,9 @@ Sources:
 ## Cross-Theme Linkage
 
 These themes are interdependent:
-- [[Kilgefin, Roscommon]] origin uncertainty drives Q1.
+- [[Places/Kilgefin Ireland|Kilgefin, Ireland]] origin uncertainty drives Q1.
 - [[B&O Railroad Labor]] context explains migration-to-settlement mechanics.
 - [[Copley No. 1 Oil Strike]] likely underwrites transition to advanced professions.
 - Unresolved documentary points (marriages, naturalization, service records) define the next archival phase.
 
-See also: [[Family Tree]], [[Phase 1 Questions and Answers]], [[People Directory]], [[Bibliography and Acquisition Guide]].
+See also: [[Family Tree]], [[Phase 1 Questions and Answers]], [[People Directory]], [[Places/_Places Index|Places Index]], [[Bibliography and Acquisition Guide]].

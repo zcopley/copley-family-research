@@ -19,11 +19,11 @@ aliases:
 - Not to be confused with [[Michael Copley (b. 1959)]], his great-great-grandson in the Stephen branch.
 
 ## Biographical Profile
-[[Michael Copley Sr|Michael Copley]] is the documented immigrant patriarch of the Copley family branch that settled in Lewis County, West Virginia. Family history and grave-marker evidence identify him as born **29 Sep 1813** in the parish of **Kilgefin, County Roscommon, Ireland**, and deceased in **Lewis County, West Virginia** in **January 1897** (gravestone: 19 Jan 1897; narrative text includes 18 Jan 1897, a minor discrepancy to track).
+[[Michael Copley Sr|Michael Copley]] is the documented immigrant patriarch of the Copley family branch that settled in [[Places/Lewis County West Virginia|Lewis County, West Virginia]]. Family history and grave-marker evidence identify him as born **29 Sep 1813** in the parish of **[[Places/Kilgefin Ireland|Kilgefin]], [[Places/County Roscommon Ireland|County Roscommon]], Ireland**, and deceased in **[[Places/Lewis County West Virginia|Lewis County, West Virginia]]** in **January 1897** (gravestone: 19 Jan 1897; narrative text includes 18 Jan 1897, a minor discrepancy to track).
 
-He emigrated in the late 1830s and is strongly associated with the passenger record of **Michael “Copely”** arriving in New York on the *Powhatan* in August 1838. Family narrative and contextual evidence indicate an early labor phase connected to the **Baltimore & Ohio Railroad (B&O)** corridor along the Potomac, followed by transition to settled agriculture.
+He emigrated in the late 1830s and is strongly associated with the passenger record of **Michael “Copely”** arriving in New York on the *Powhatan* in August 1838. Family narrative and contextual evidence indicate an early labor phase connected to the **Baltimore & Ohio Railroad (B&O)** corridor, especially around [[Places/Baltimore Maryland|Baltimore, Maryland]] and Potomac-route communities, followed by transition to settled agriculture.
 
-In 1843, Michael and his brother [[Patrick Copley]] entered a purchase agreement for a **200-acre tract** from Weeden Hoffman in what became the Copley Road/Cove Lick area near Weston. This transaction marks the family’s permanent establishment in the region.
+In 1843, Michael and his brother [[Patrick Copley]] entered a purchase agreement for a **200-acre tract** from Weeden Hoffman in what became the [[Places/Cove Lick West Virginia|Copley Road/Cove Lick area]] near [[Places/Weston West Virginia|Weston]]. This transaction marks the family’s permanent establishment in the region.
 
 ## Family Relationships
 - Spouse: [[Ann Copley]] (family tradition/secondary narratives identify her as Ann Elizabeth Munday)

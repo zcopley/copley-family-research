@@ -1,10 +1,14 @@
 ---
 title: "Lewis County, West Virginia"
-tags: [copley-family, stub, research-topic]
+date: 2026-04-13
+tags: [copley-family, place, west-virginia]
 ---
 
 # Lewis County, West Virginia
 
-> Stub page created to prevent broken links.
+This legacy page now points to the Phase 1C place profile:
 
-This page is a placeholder and needs source-backed content.
+- [[Places/Lewis County West Virginia|Lewis County, West Virginia]]
+- [[Places/Weston West Virginia|Weston, West Virginia]]
+- [[Places/Cove Lick West Virginia|Cove Lick, West Virginia]]
+- [[Places/_Places Index|Places Index]]

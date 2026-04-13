@@ -14,9 +14,9 @@ tags:
 📊 View [[Family Tree]] for visual context.
 
 ## Biographical Profile
-[[Michael Joseph Copley]] is a central G24 figure connecting the Weston/Lewis County generation to later scientific and academic branches.
+[[Michael Joseph Copley]] is a central G24 figure connecting the [[Places/Weston West Virginia|Weston]] / [[Places/Lewis County West Virginia|Lewis County]] generation to later scientific and academic branches.
 
-- **Birth:** 16 Sep 1898, on/near the Copley farm in Lewis County, West Virginia (reported in family appendix)
+- **Birth:** 16 Sep 1898, on/near the Copley farm in [[Places/Lewis County West Virginia|Lewis County, West Virginia]] (reported in family appendix)
 - **Death:** 17 Sep 1988
 - **Parents:** [[John Copley]] and [[Mary Ellen Dolan Copley]]
 - **Education (reported):**
@@ -27,6 +27,11 @@ tags:
   - USDA leadership at Eastern Regional Research Laboratory (Wyndmoor)
   - USDA Director role at Western Regional Research Laboratory (Albany)
 - **Marriage:** Marion Elizabeth Partlow (married 1933)
+
+## Key Place Links
+- [[Places/Lewis County West Virginia|Lewis County, West Virginia]]
+- [[Places/Weston West Virginia|Weston, West Virginia]]
+- [[Places/Baltimore Maryland|Baltimore, Maryland]] (family migration/labor corridor context)
 
 ## Family Relationships
 - **Parents:** [[John Copley]], [[Mary Ellen Dolan Copley]]
