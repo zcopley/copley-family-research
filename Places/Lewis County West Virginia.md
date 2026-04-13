@@ -27,7 +27,13 @@ Lewis County combined frontier agriculture with later oil-era economic shifts. I
 - Long-term residence for [[Michael Copley Sr]] and [[Ann Copley]].
 - 1843 land transaction with [[Weeden Hoffman]] anchors settlement chronology.
 - Multigenerational continuity through [[John Copley]] and descendants.
-- Central to [[Copley No. 1 Oil Strike]] context.
+- Central to [[Topics/1900 Copley Oil Strike|1900 Copley Oil Strike]] context.
+- Core destination in [[Topics/Irish Immigration to West Virginia|Irish Immigration to West Virginia]].
+
+## Related Topic Pages
+- [[Topics/1900 Copley Oil Strike|1900 Copley Oil Strike]]
+- [[Topics/Irish Immigration to West Virginia|Irish Immigration to West Virginia]]
+- [[Topics/Genealogical Research Methods|Genealogical Research Methods]]
 
 ## Research Resources
 - Lewis County Clerk (Weston): deeds, probate, marriage records.

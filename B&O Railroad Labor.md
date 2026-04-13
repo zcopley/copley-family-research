@@ -1,10 +1,13 @@
 ---
 title: "B&O Railroad Labor"
-tags: [copley-family, stub, research-topic]
+date: 2026-04-13
+tags: [copley-family, topic-redirect, railroad]
 ---
 
 # B&O Railroad Labor
 
-> Stub page created to prevent broken links.
+This legacy page has moved to:
 
-This page is a placeholder and needs source-backed content.
+- [[Topics/B&O Railroad Labor History|B&O Railroad Labor History]]
+
+Use the detailed topic page above for labor-history context, Copley linkage, sources, and open research gaps.

@@ -33,6 +33,10 @@ tags:
 - [[Places/Weston West Virginia|Weston, West Virginia]]
 - [[Places/Baltimore Maryland|Baltimore, Maryland]] (family migration/labor corridor context)
 
+## Related Topic Pages
+- [[Topics/Academic and Scientific Achievement|Academic and Scientific Achievement]]
+- [[Topics/1900 Copley Oil Strike|1900 Copley Oil Strike]]
+
 ## Family Relationships
 - **Parents:** [[John Copley]], [[Mary Ellen Dolan Copley]]
 - **Grandparents:** [[Michael Copley Sr|Michael Copley]], [[Ann Copley]]

@@ -45,6 +45,10 @@ tags:
   - [[Stephen Joseph Copley]]
   - [[Amy E. Copley Geist]]
 
+## Related Topic Pages
+- [[Topics/Academic and Scientific Achievement|Academic and Scientific Achievement]]
+- [[Topics/1900 Copley Oil Strike|1900 Copley Oil Strike]]
+
 ## Research Gaps
 1. Exact university degree metadata (department names, dissertation title, year-confirmed records).
 2. Complete publication list and institutional chronology with primary references.

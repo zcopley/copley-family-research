@@ -17,12 +17,17 @@ tags:
 
 He married [[Mary Ellen Dolan Copley]] (date/place unresolved) and the couple had five children: [[Thomas E. Copley]], [[Mary Copley Flesch]], [[Anne Copley (daughter of John Copley)|Anne Copley]], [[Ellen Bernadine Nelle Copley Sardo|Ellen Bernadine "Nelle" Copley Sardo]], and [[Michael Joseph Copley]].
 
-John’s household sat at the center of the family’s economic transformation following the 1900 **[[Copley No. 1 Oil Strike]]**. Probate/lease details remain to be fully documented, but his generation is the key bridge between immigrant agrarian roots and later professional mobility of descendants.
+John’s household sat at the center of the family’s economic transformation following the 1900 **[[Topics/1900 Copley Oil Strike|1900 Copley Oil Strike]]**. Probate/lease details remain to be fully documented, but his generation is the key bridge between immigrant agrarian roots and later professional mobility of descendants.
 
 ## Key Place Links
 - [[Places/Lewis County West Virginia|Lewis County, West Virginia]]
 - [[Places/Weston West Virginia|Weston, West Virginia]]
 - [[Places/Cove Lick West Virginia|Cove Lick, West Virginia]]
+
+## Related Topic Pages
+- [[Topics/1900 Copley Oil Strike|1900 Copley Oil Strike]]
+- [[Topics/Irish Immigration to West Virginia|Irish Immigration to West Virginia]]
+- [[Topics/Academic and Scientific Achievement|Academic and Scientific Achievement]]
 
 ## Family Relationships
 - Parents: [[Michael Copley Sr|Michael Copley]], [[Ann Copley]]

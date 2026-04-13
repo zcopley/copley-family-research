@@ -26,7 +26,7 @@ Cove Lick represents land-based settlement geography: roads, tract lines, and de
 ## Copley Family Connection
 - Directly tied to [[Michael Copley Sr]] and [[Patrick Copley]] through the reported 1843 200-acre agreement with [[Weeden Hoffman]].
 - Near-origin point for later continuity through [[John Copley]] and descendants.
-- Geographic backdrop to [[Copley No. 1 Oil Strike]] lease and land-history questions.
+- Geographic backdrop to [[Topics/1900 Copley Oil Strike|1900 Copley Oil Strike]] lease and land-history questions.
 
 ## Research Resources
 - Lewis County Clerk deed and plat books.

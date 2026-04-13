@@ -24,9 +24,15 @@ Baltimore was a major immigrant port and the strategic hub of the B&O Railroad s
 - **Record significance:** rich Catholic and civil archival systems.
 
 ## Copley Family Connection
-- Key context point for [[B&O Railroad Labor]] and inferred early labor phase of [[Michael Copley Sr]].
+- Key context point for [[Topics/B&O Railroad Labor History|B&O Railroad Labor History]] and inferred early labor phase of [[Michael Copley Sr]].
+- Important migration node for [[Topics/Irish Famine and Emigration|Irish Famine and Emigration]].
 - High-priority location for locating potential marriage records for [[Michael Copley Sr]] and [[Ann Copley]].
 - Also part of broader Maryland branch context for descendants like [[Ellen Bernadine Nelle Copley Sardo]].
+
+## Related Topic Pages
+- [[Topics/B&O Railroad Labor History|B&O Railroad Labor History]]
+- [[Topics/Irish Famine and Emigration|Irish Famine and Emigration]]
+- [[Topics/Irish Immigration to West Virginia|Irish Immigration to West Virginia]]
 
 ## Research Resources
 - Archdiocese of Baltimore Archives (parish marriages/baptisms).

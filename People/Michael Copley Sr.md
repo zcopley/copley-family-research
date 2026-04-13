@@ -45,6 +45,11 @@ In 1843, Michael and his brother [[Patrick Copley]] entered a purchase agreement
 - **1843**: 200-acre agreement with Weeden Hoffman, Lewis County.
 - **1897-01**: Death in Lewis County, WV.
 
+## Related Topic Pages
+- [[Topics/Irish Famine and Emigration|Irish Famine and Emigration]]
+- [[Topics/B&O Railroad Labor History|B&O Railroad Labor History]]
+- [[Topics/Irish Immigration to West Virginia|Irish Immigration to West Virginia]]
+
 ## Research Gaps
 1. **Parents in Kilgefin (Q1):** No direct parish record chain yet linking Michael to named parents.
 2. **Marriage record (Q3):** Date/place for marriage to Ann remains unlocated.

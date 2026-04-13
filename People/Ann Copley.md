@@ -24,6 +24,11 @@ A persistent family tradition states that her father drowned in the Potomac Rive
 - Settlement context: [[Places/Lewis County West Virginia|Lewis County, West Virginia]] and [[Places/Weston West Virginia|Weston, West Virginia]]
 - Migration-corridor research hub: [[Places/Baltimore Maryland|Baltimore, Maryland]]
 
+## Related Topic Pages
+- [[Topics/Irish Famine and Emigration|Irish Famine and Emigration]]
+- [[Topics/Irish Immigration to West Virginia|Irish Immigration to West Virginia]]
+- [[Topics/B&O Railroad Labor History|B&O Railroad Labor History]]
+
 ## Family Relationships
 - Husband: [[Michael Copley Sr|Michael Copley]]
 - Children (G24):

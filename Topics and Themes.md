@@ -12,12 +12,22 @@ tags:
 
 📊 Keep [[Family Tree]] open while reading this page to connect each theme to the relevant generations and branches.
 
+For the full event/topic directory, use [[Topics/_Topics Index|Topics Index]].
+
 ## Place Reference Hub
 
 For location-specific research plans, use [[Places/_Places Index|Places Index]]. Core anchors include [[Places/Kilgefin Ireland|Kilgefin]], [[Places/Kinawley Ireland|Kinawley]], [[Places/Lewis County West Virginia|Lewis County]], [[Places/Weston West Virginia|Weston]], and [[Places/Baltimore Maryland|Baltimore]].
+## Detailed Topic Pages
+
+- [[Topics/1900 Copley Oil Strike|1900 Copley Oil Strike]]
+- [[Topics/Irish Famine and Emigration|Irish Famine and Emigration]]
+- [[Topics/B&O Railroad Labor History|B&O Railroad Labor History]]
+- [[Topics/Irish Immigration to West Virginia|Irish Immigration to West Virginia]]
+- [[Topics/Academic and Scientific Achievement|Academic and Scientific Achievement]]
+- [[Topics/Genealogical Research Methods|Genealogical Research Methods]]
 
 ---
-## [[B&O Railroad Labor]]
+## [[Topics/B&O Railroad Labor History|B&O Railroad Labor History]]
 
 Irish immigrants in the 1840s–1850s were heavily recruited into difficult rail construction work, including westward B&O expansion through the Mid-Atlantic and what became West Virginia. This gives strong contextual support to the claim that [[Michael Copley Sr|Michael Copley]] worked in rail labor before permanent settlement.
 
@@ -31,7 +41,7 @@ Sources:
 
 ---
 
-## [[Copley No. 1 Oil Strike]] (1900)
+## [[Topics/1900 Copley Oil Strike|1900 Copley Oil Strike]]
 
 In September 1900, South Penn Oil’s Copley No. 1 well on family land reportedly flowed at roughly 4,800 barrels/day, becoming a landmark event in West Virginia petroleum history and a turning point in family wealth.
 
@@ -61,6 +71,8 @@ Sources:
 ---
 
 ## Immigration to [[West Virginia]] via New York and the Potomac Corridor
+
+Detailed page: [[Topics/Irish Immigration to West Virginia|Irish Immigration to West Virginia]]
 
 Passenger records suggest staggered arrivals: Patrick/Bridget (1837, *Kutusoff*) and Michael (1838, *Powhatan* as “Copely”). Subsequent movement likely followed labor corridors toward rail and settlement zones.
 
@@ -106,8 +118,9 @@ Sources:
 
 These themes are interdependent:
 - [[Places/Kilgefin Ireland|Kilgefin, Ireland]] origin uncertainty drives Q1.
-- [[B&O Railroad Labor]] context explains migration-to-settlement mechanics.
-- [[Copley No. 1 Oil Strike]] likely underwrites transition to advanced professions.
+- [[Topics/B&O Railroad Labor History|B&O Railroad Labor History]] context explains migration-to-settlement mechanics.
+- [[Topics/1900 Copley Oil Strike|1900 Copley Oil Strike]] likely underwrites transition to advanced professions.
+- [[Topics/Academic and Scientific Achievement|Academic and Scientific Achievement]] documents professional outcomes.
 - Unresolved documentary points (marriages, naturalization, service records) define the next archival phase.
 
-See also: [[Family Tree]], [[Phase 1 Questions and Answers]], [[People Directory]], [[Places/_Places Index|Places Index]], [[Bibliography and Acquisition Guide]].
+See also: [[Family Tree]], [[Phase 1 Questions and Answers]], [[People Directory]], [[Topics/_Topics Index|Topics Index]], [[Places/_Places Index|Places Index]], [[Bibliography and Acquisition Guide]].
