@@ -8,6 +8,8 @@ tags:
 
 # Bridget "Bitty" Copley Gillooly (b. 1851; d. 1941)
 
+📊 View [[Family Tree]] for visual context.
+
 ## Biographical Profile
 [[Bridget Bitty Copley Gillooly|Bridget "Bitty" Copley Gillooly]] was born in **1851** to [[Michael Copley]] and [[Ann Copley]]. She married **Patrick Gillooly**. Family narrative states the couple had **no children**.
 

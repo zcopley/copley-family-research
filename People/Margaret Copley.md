@@ -8,6 +8,8 @@ tags:
 
 # Margaret Copley (b. 1855; d. 1910)
 
+📊 View [[Family Tree]] for visual context.
+
 ## Biographical Profile
 [[Margaret Copley]] is identified as a daughter of [[Michael Copley]] and [[Ann Copley]], born in **1855**. Family narrative reports she **never married** and died in **1910**.
 

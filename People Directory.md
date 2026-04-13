@@ -14,6 +14,8 @@ tags:
 
 > Phase 1A profile pages are now available in [[People/_People Directory|People/_People Directory]] and the `People/` folder.
 
+> 📊 Start with [[Family Tree]] for the fastest visual orientation across generations and branches.
+
 ## G23 — Foundational Ancestors and Siblings
 
 ### [[Michael Copley]] (1813–1897)

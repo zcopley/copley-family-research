@@ -10,6 +10,8 @@ tags:
 
 # Topics and Themes
 
+📊 Keep [[Family Tree]] open while reading this page to connect each theme to the relevant generations and branches.
+
 ## [[B&O Railroad Labor]]
 
 Irish immigrants in the 1840s–1850s were heavily recruited into difficult rail construction work, including westward B&O expansion through the Mid-Atlantic and what became West Virginia. This gives strong contextual support to the claim that [[Michael Copley]] worked in rail labor before permanent settlement.
@@ -103,4 +105,4 @@ These themes are interdependent:
 - [[Copley No. 1 Oil Strike]] likely underwrites transition to advanced professions.
 - Unresolved documentary points (marriages, naturalization, service records) define the next archival phase.
 
-See also: [[Phase 1 Questions and Answers]], [[People Directory]], [[Bibliography and Acquisition Guide]].
+See also: [[Family Tree]], [[Phase 1 Questions and Answers]], [[People Directory]], [[Bibliography and Acquisition Guide]].

@@ -8,6 +8,8 @@ tags:
 
 # Anne Copley (b. 1850; d. 1923)
 
+📊 View [[Family Tree]] for visual context.
+
 ## Biographical Profile
 [[Anne Copley]] is a daughter of [[Michael Copley]] and [[Ann Copley]], reported born in **1850** (appears as 6 months old in 1850 household context). Family narrative states she **never married** and died in **1923**.
 

@@ -10,6 +10,8 @@ tags:
 
 # The Copley Family Narrative
 
+📊 For a generation-by-generation visual guide to the people in this story, see [[Family Tree]].
+
 ## Chapter 1 — Irish Roots
 
 The wind moved low and cold over the fields of [[Kilgefin, Roscommon]], and the Copley children learned early that land could be both cradle and trial. In this parish world of chapel bells and tenancy pressure, [[Michael Copley]] came of age with siblings who would become part of the family’s migration story: [[Patrick Copley]], [[Bridget Copley Reynolds]], [[Catherine "Kitty" Copley Hanly/Hannon]], and [[William Copley]].
@@ -63,4 +65,4 @@ So the narrative closes where good genealogy always opens—at the archive door.
 [^bo]: Irish labor context in WV and B&O era: <https://www.wvencyclopedia.org/entries/830>.
 [^oil]: Oil well documentation and marker context: <https://www.hmdb.org/results.asp?Search=County&State=West%20Virginia&County=Lewis%20County>; period publication: <https://archive.org/stream/oilwelldrillerhi00whitrich/oilwelldrillerhi00whitrich_djvu.txt>.
 
-See also: [[People Directory]], [[Topics and Themes]], [[Bibliography and Acquisition Guide]].
+See also: [[Family Tree]], [[People Directory]], [[Topics and Themes]], [[Bibliography and Acquisition Guide]].

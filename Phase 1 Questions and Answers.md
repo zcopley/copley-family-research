@@ -12,6 +12,8 @@ tags:
 
 This page addresses all **Phase 1 quick-win questions** from the strategy analysis and documents what is known, unknown, and the next action.
 
+📊 Use [[Family Tree]] as the visual reference when mapping each research question to specific people and branches.
+
 ## Q23 — Who was the “Tom” at Chancellorsville?
 
 ### Current answer
@@ -174,3 +176,5 @@ Biographies for some modern descendants are uneven in depth. Core lines are know
 People and lines: [[Michael Copley]], [[Ann Elizabeth Munday Copley]], [[John Copley]], [[Mary Ellen Dolan Copley]], [[Ellen Bernadine "Nelle" Copley Sardo]], [[Michael Joseph Copley]], [[Dolan Family]]
 
 Places and topics: [[Kilgefin, Roscommon]], [[Lewis County, West Virginia]], [[B&O Railroad Labor]], [[Copley No. 1 Oil Strike]]
+
+See also: [[Family Tree]], [[People Directory]], [[The Copley Family Narrative]]

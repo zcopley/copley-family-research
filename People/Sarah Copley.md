@@ -8,6 +8,8 @@ tags:
 
 # Sarah Copley (b. 1859; d. 1939)
 
+📊 View [[Family Tree]] for visual context.
+
 ## Biographical Profile
 [[Sarah Copley]] is the youngest reported daughter in the eight-child set of [[Michael Copley]] and [[Ann Copley]], born in **1859**. Family narrative indicates she **never married** and died in **1939**.
 

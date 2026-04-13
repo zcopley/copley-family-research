@@ -9,6 +9,8 @@ tags:
 
 # Mary Copley Quinn (b. 1839; d. unknown)
 
+📊 View [[Family Tree]] for visual context.
+
 ## Biographical Profile
 [[Mary Copley Quinn]] is identified as the eldest known child of [[Michael Copley]] and [[Ann Copley]], born in **1839**. She appears in family reconstruction from census-era context and later married **Michael Quinn**.
 

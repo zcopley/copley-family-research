@@ -10,6 +10,8 @@ tags:
 
 # John Copley (1843–1925)
 
+📊 View [[Family Tree]] for visual context.
+
 ## Biographical Profile
 [[John Copley]] was born **3 Nov 1843** near Weston, West Virginia (then Virginia), the son of [[Michael Copley]] and [[Ann Copley]]. He became the principal successor to the family farm established through the 1843 Hoffman agreement.
 

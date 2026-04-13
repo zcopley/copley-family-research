@@ -10,6 +10,8 @@ tags:
 
 # Ann Copley (1823–1909)
 
+📊 View [[Family Tree]] for visual context.
+
 ## Biographical Profile
 [[Ann Copley]] is the matriarch of the West Virginia Copley line. Family narratives identify her as **Ann Elizabeth Munday**, born in **1823** in **Kinawley, County Fermanagh** (now in Northern Ireland), with immigration to the United States in childhood. However, because the primary marriage and birth records have not yet been located, her maiden surname remains a **high-priority documentary verification gap**.
 

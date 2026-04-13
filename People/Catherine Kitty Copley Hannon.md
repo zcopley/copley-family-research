@@ -9,6 +9,8 @@ tags:
 
 # Catherine "Kitty" Copley Hannon (b. 1848; d. 1878)
 
+📊 View [[Family Tree]] for visual context.
+
 ## Biographical Profile
 [[Catherine Kitty Copley Hannon|Catherine "Kitty" Copley Hannon]] is listed among the daughters of [[Michael Copley]] and [[Ann Copley]], with reported birth year **1848**. She married **Mathew Hannon** (surname also seen in variant forms Hanly/Hannon in broader family material).
 

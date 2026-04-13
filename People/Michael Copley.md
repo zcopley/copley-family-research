@@ -10,6 +10,8 @@ tags:
 
 # Michael Copley (1813–1897)
 
+📊 View [[Family Tree]] for visual context.
+
 ## Biographical Profile
 [[Michael Copley]] is the documented immigrant patriarch of the Copley family branch that settled in Lewis County, West Virginia. Family history and grave-marker evidence identify him as born **29 Sep 1813** in the parish of **Kilgefin, County Roscommon, Ireland**, and deceased in **Lewis County, West Virginia** in **January 1897** (gravestone: 19 Jan 1897; narrative text includes 18 Jan 1897, a minor discrepancy to track).
 

@@ -8,6 +8,8 @@ tags:
 
 # Thomas "Tom" Copley (b. 1857; d. 1932)
 
+📊 View [[Family Tree]] for visual context.
+
 ## Biographical Profile
 [[Thomas Tom Copley|Thomas "Tom" Copley]] was born in **1857** to [[Michael Copley]] and [[Ann Copley]]. Family narrative states he married **Ida McKee** and that the couple had **no children**. He is represented in surviving family photographs and is reported to have died in **1932**.
 
