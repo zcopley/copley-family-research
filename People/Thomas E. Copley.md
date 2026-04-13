@@ -18,7 +18,7 @@ tags:
 - **Siblings:**
   - [[Mary Copley Flesch]]
   - [[Anne Copley]]
-  - [[Ellen Bernadine "Nelle" Copley Sardo]]
+  - [[Ellen Bernadine Nelle Copley Sardo|Ellen Bernadine "Nelle" Copley Sardo]]
   - [[Michael Joseph Copley]]
 - **Spouse:** Drusilla (last name unknown)
 - **Children:** none (no issue)

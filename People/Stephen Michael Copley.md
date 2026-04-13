@@ -36,7 +36,7 @@ tags:
 - **Sibling:** [[Thomas Partlow Copley]]
 - **Spouses:** Marcia Thornton (first marriage), Judith "Judy" Todd (second marriage)
 - **Children (G26):**
-  - [[Michael Copley (descendant)]]
+  - [[Michael Copley descendant|Michael Copley (descendant)]]
   - [[Sara Copley Cox]]
   - [[Philip Copley]]
   - [[Paul Copley]]

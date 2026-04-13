@@ -13,15 +13,15 @@ tags:
 📊 View [[Family Tree]] for visual context.
 
 ## Biographical Profile
-[[Sarah Ellen Sardo Arena]] is a G25 descendant in the [[Ellen Bernadine "Nelle" Copley Sardo]] branch.
+[[Sarah Ellen Sardo Arena]] is a G25 descendant in the [[Ellen Bernadine Nelle Copley Sardo|Ellen Bernadine "Nelle" Copley Sardo]] branch.
 
 - **Birth:** 19 Dec 1933 (family tree / family narrative)
-- **Parents:** [[Ellen Bernadine "Nelle" Copley Sardo]] and Robert Samuel Sardo
+- **Parents:** [[Ellen Bernadine Nelle Copley Sardo|Ellen Bernadine "Nelle" Copley Sardo]] and Robert Samuel Sardo
 - **Career/occupation (reported in synthesis):** social work / education / chaplain-adjacent trajectory (requires primary-source corroboration)
 - **Marriage:** Matthew Paul Arena (reported marriage: Nov 1956)
 
 ## Family Relationships
-- **Parents (G24):** [[Ellen Bernadine "Nelle" Copley Sardo]], Robert Samuel Sardo
+- **Parents (G24):** [[Ellen Bernadine Nelle Copley Sardo|Ellen Bernadine "Nelle" Copley Sardo]], Robert Samuel Sardo
 - **Grandparents:** [[John Copley]], [[Mary Ellen Dolan Copley]]
 - **Great-grandparents (branch root):** [[Michael Copley]], [[Ann Copley]]
 - **Sibling:** [[Mary Carmella Sardo Ruland]]

@@ -1,5 +1,5 @@
 ---
-title: Ellen Bernadine "Nelle" Copley Sardo
+title: Ellen Bernadine Nelle Copley Sardo
 date: 2026-04-13
 tags:
   - "#copley-family"
@@ -8,12 +8,12 @@ tags:
   - "#sardo-branch"
 ---
 
-# Ellen Bernadine "Nelle" Copley Sardo (1897–1977)
+# Ellen Bernadine Nelle Copley Sardo ("Nelle") (1897–1977)
 
 📊 View [[Family Tree]] for visual context.
 
 ## Biographical Profile
-[[Ellen Bernadine "Nelle" Copley Sardo]] is a G24 daughter of [[John Copley]] and [[Mary Ellen Dolan Copley]], and an anchor for the Sardo/Arena/Ruland branch.
+[[Ellen Bernadine Nelle Copley Sardo|Ellen Bernadine "Nelle" Copley Sardo]] is a G24 daughter of [[John Copley]] and [[Mary Ellen Dolan Copley]], and an anchor for the Sardo/Arena/Ruland branch.
 
 - **Birth:** commonly reported as 23 Dec 1897 (some source conflict notes 1896 vs 1897)
 - **Death:** 11 Feb 1977

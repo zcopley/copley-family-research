@@ -61,7 +61,7 @@ Passenger records suggest staggered arrivals: Patrick/Bridget (1837, *Kutusoff*)
 
 - **Historical context:** chain migration and labor-following settlement.
 - **What is sourced:** manifests and local settlement chronology.
-- **What remains open:** arrival route for [[Catherine "Kitty" Copley Hanly/Hannon]] (Q8/Q10).
+- **What remains open:** arrival route for [[Catherine Kitty Copley Hannon]] (Q8/Q10).
 
 Sources:
 - NARA immigration research hub: <https://www.archives.gov/research/immigration>
@@ -86,7 +86,7 @@ Sources:
 
 ## From Frontier Farming to Professional Careers
 
-Across generations, the family transitions from immigrant labor and agrarian life to medicine, nursing, chemistry, engineering, and academic leadership. [[Ellen Bernadine "Nelle" Copley Sardo]] and [[Michael Joseph Copley]] are central bridge figures.
+Across generations, the family transitions from immigrant labor and agrarian life to medicine, nursing, chemistry, engineering, and academic leadership. [[Ellen Bernadine Nelle Copley Sardo|Ellen Bernadine "Nelle" Copley Sardo]] and [[Michael Joseph Copley]] are central bridge figures.
 
 - **Historical context:** education as mobility engine in 20th-century America.
 - **What is sourced:** educational/professional identities in family reports and public profiles.

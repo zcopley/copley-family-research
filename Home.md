@@ -65,7 +65,7 @@ All uncertain claims are labeled and paired with targeted acquisition strategies
 - [[Ann Copley]]
 - [[John Copley]]
 - [[Mary Ellen Dolan Copley]]
-- [[Ellen Bernadine "Nelle" Copley Sardo]]
+- [[Ellen Bernadine Nelle Copley Sardo|Ellen Bernadine "Nelle" Copley Sardo]]
 - [[Michael Joseph Copley]]
 - [[Lewis County, West Virginia]]
 - [[Kilgefin, Roscommon]]

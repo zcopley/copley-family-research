@@ -44,7 +44,7 @@ tags:
 - Sister, born c.1808; reportedly immigrant.
 - Gap: U.S. residence and descendants need systematic reconstruction.
 
-### [[Catherine "Kitty" Copley Hanly/Hannon]]
+### [[Catherine Kitty Copley Hannon]]
 - Sister, born c.1811.
 - Gap: Q8/Q10 unresolved immigration details and surname variants.
 
@@ -88,7 +88,7 @@ tags:
 - Daughter; reportedly unmarried; relocated to Albuquerque.
 - Gap: census and city-directory continuity.
 
-### [[Ellen Bernadine "Nelle" Copley Sardo]] (1897–1977)
+### [[Ellen Bernadine Nelle Copley Sardo|Ellen Bernadine "Nelle" Copley Sardo]] (1897–1977)
 - Registered nurse and educator; key Maryland branch matriarch.
 - Parent of Phase 1B G25 descendants: [[Sarah Ellen Sardo Arena]], [[Mary Carmella Sardo Ruland]].
 
@@ -101,11 +101,11 @@ tags:
 ## Phase 1B G25 — Children of John Copley's children (new comprehensive pages)
 
 ### [[Sarah Ellen Sardo Arena]]
-- Child of [[Ellen Bernadine "Nelle" Copley Sardo]] and Robert Samuel Sardo.
+- Child of [[Ellen Bernadine Nelle Copley Sardo|Ellen Bernadine "Nelle" Copley Sardo]] and Robert Samuel Sardo.
 - Arena branch connector; profile expanded with evidence gaps/strategies.
 
 ### [[Mary Carmella Sardo Ruland]]
-- Child of [[Ellen Bernadine "Nelle" Copley Sardo]] and Robert Samuel Sardo.
+- Child of [[Ellen Bernadine Nelle Copley Sardo|Ellen Bernadine "Nelle" Copley Sardo]] and Robert Samuel Sardo.
 - Ruland branch matriarch; profile expanded with evidence gaps/strategies.
 
 ### [[Stephen Michael Copley]]
@@ -130,7 +130,7 @@ tags:
 - Spouse connection in Stephen line.
 
 ### Children identified in appendices
-- [[Michael Copley (descendant)]], [[Sara Copley Cox]], [[Philip Copley]], [[Paul Copley]], [[Peter Copley]], [[Susan Copley]], [[Stephen Joseph Copley]], [[Amy Elizabeth Copley Geist]]
+- [[Michael Copley descendant|Michael Copley (descendant)]], [[Sara Copley Cox]], [[Philip Copley]], [[Paul Copley]], [[Peter Copley]], [[Susan Copley]], [[Stephen Joseph Copley]], [[Amy E. Copley Geist]]
 
 Gaps for this generation:
 - Standardized biographies (Q33–Q35 scope)

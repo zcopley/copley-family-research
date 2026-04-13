@@ -30,7 +30,7 @@ In 1843, Michael and his brother [[Patrick Copley]] entered a purchase agreement
   - [[Margaret Copley]]
   - [[Thomas Tom Copley|Thomas "Tom" Copley]]
   - [[Sarah Copley]]
-- Siblings (Ireland/U.S. migration context): [[Patrick Copley]], [[Bridget Copley Reynolds]], [[Catherine "Kitty" Copley Hanly/Hannon]], [[William Copley]]
+- Siblings (Ireland/U.S. migration context): [[Patrick Copley]], [[Bridget Copley Reynolds]], [[Catherine Kitty Copley Hannon]], [[William Copley]]
 
 ## Timeline Anchors
 - **1813-09-29**: Born, Kilgefin parish, Roscommon (per gravestone tradition).

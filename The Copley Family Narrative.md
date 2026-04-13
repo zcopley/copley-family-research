@@ -14,7 +14,7 @@ tags:
 
 ## Chapter 1 — Irish Roots
 
-The wind moved low and cold over the fields of [[Kilgefin, Roscommon]], and the Copley children learned early that land could be both cradle and trial. In this parish world of chapel bells and tenancy pressure, [[Michael Copley]] came of age with siblings who would become part of the family’s migration story: [[Patrick Copley]], [[Bridget Copley Reynolds]], [[Catherine "Kitty" Copley Hanly/Hannon]], and [[William Copley]].
+The wind moved low and cold over the fields of [[Kilgefin, Roscommon]], and the Copley children learned early that land could be both cradle and trial. In this parish world of chapel bells and tenancy pressure, [[Michael Copley]] came of age with siblings who would become part of the family’s migration story: [[Patrick Copley]], [[Bridget Copley Reynolds]], [[Catherine Kitty Copley Hannon]], and [[William Copley]].
 
 The records are thin, but the pressure is visible in the era itself—tithe disputes, agrarian strain, and uncertainty for Catholic families in the 1820s and 1830s.[^irish-context]
 
@@ -48,7 +48,7 @@ For [[John Copley]] and [[Mary Ellen Dolan Copley]], this was opportunity temper
 
 ## Chapter 5 — New Generations
 
-The children of John and Mary Ellen carried the family into professional America. [[Ellen Bernadine "Nelle" Copley Sardo]] moved into nursing and education; [[Michael Joseph Copley]] moved into advanced chemistry and federal scientific leadership. Their lines spread through medicine, engineering, academia, business, social work, and policy.
+The children of John and Mary Ellen carried the family into professional America. [[Ellen Bernadine Nelle Copley Sardo|Ellen Bernadine "Nelle" Copley Sardo]] moved into nursing and education; [[Michael Joseph Copley]] moved into advanced chemistry and federal scientific leadership. Their lines spread through medicine, engineering, academia, business, social work, and policy.
 
 From Roscommon fields to laboratories and lecture halls, the family arc widened across states and decades. Yet the old questions remain at the edge of the page: Who were Michael’s parents in Kilgefin? Where is the record of Michael and Ann’s marriage? What documents settle the Quartermaster claim, the Dolan reconstruction, the oil royalty story?
 

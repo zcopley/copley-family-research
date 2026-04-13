@@ -13,15 +13,15 @@ tags:
 📊 View [[Family Tree]] for visual context.
 
 ## Biographical Profile
-[[Mary Carmella Sardo Ruland]] is a G25 descendant in the [[Ellen Bernadine "Nelle" Copley Sardo]] branch.
+[[Mary Carmella Sardo Ruland]] is a G25 descendant in the [[Ellen Bernadine Nelle Copley Sardo|Ellen Bernadine "Nelle" Copley Sardo]] branch.
 
 - **Birth:** 3 May 1936 (family tree / family narrative)
-- **Parents:** [[Ellen Bernadine "Nelle" Copley Sardo]] and Robert Samuel Sardo
+- **Parents:** [[Ellen Bernadine Nelle Copley Sardo|Ellen Bernadine "Nelle" Copley Sardo]] and Robert Samuel Sardo
 - **Marriage:** Louis Ruland
 - **Role in branch history:** matriarch of the Ruland descendant branch documented in family appendices
 
 ## Family Relationships
-- **Parents (G24):** [[Ellen Bernadine "Nelle" Copley Sardo]], Robert Samuel Sardo
+- **Parents (G24):** [[Ellen Bernadine Nelle Copley Sardo|Ellen Bernadine "Nelle" Copley Sardo]], Robert Samuel Sardo
 - **Grandparents:** [[John Copley]], [[Mary Ellen Dolan Copley]]
 - **Great-grandparents (branch root):** [[Michael Copley]], [[Ann Copley]]
 - **Sibling:** [[Sarah Ellen Sardo Arena]]

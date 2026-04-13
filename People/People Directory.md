@@ -33,7 +33,7 @@ This index points to profile pages in `People/` and is organized by generation. 
 - [[Thomas E. Copley]]
 - [[Mary Copley Flesch]]
 - [[Anne Copley]]
-- [[Ellen Bernadine "Nelle" Copley Sardo]]
+- [[Ellen Bernadine Nelle Copley Sardo|Ellen Bernadine "Nelle" Copley Sardo]]
 - [[Michael Joseph Copley]]
 
 ## G25 — Children of John Copley’s children (Phase 1B scope)
@@ -41,8 +41,8 @@ This index points to profile pages in `People/` and is organized by generation. 
 ### Confirmed members
 - [[Stephen Michael Copley]] (child of [[Michael Joseph Copley]])
 - [[Thomas Partlow Copley]] (child of [[Michael Joseph Copley]])
-- [[Sarah Ellen Sardo Arena]] (child of [[Ellen Bernadine "Nelle" Copley Sardo]])
-- [[Mary Carmella Sardo Ruland]] (child of [[Ellen Bernadine "Nelle" Copley Sardo]])
+- [[Sarah Ellen Sardo Arena]] (child of [[Ellen Bernadine Nelle Copley Sardo|Ellen Bernadine "Nelle" Copley Sardo]])
+- [[Mary Carmella Sardo Ruland]] (child of [[Ellen Bernadine Nelle Copley Sardo|Ellen Bernadine "Nelle" Copley Sardo]])
 
 ### Tentative / possible additions (clearly unverified)
 - **Possible additional G25 descendants through [[Mary Copley Flesch]] or [[Anne Copley]]:**
