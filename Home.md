@@ -32,6 +32,7 @@ The research focus includes:
 ## Vault Navigation
 
 ### Core Pages
+- [[Family Tree]] ⭐
 - [[Phase 1 Questions and Answers]]
 - [[People Directory]]
 - [[People/_People Directory|People Directory (Individual Profiles)]]
@@ -40,11 +41,12 @@ The research focus includes:
 - [[Bibliography and Acquisition Guide]]
 
 ### Recommended Reading Path
-1. Start with [[Phase 1 Questions and Answers]] for active research priorities.
-2. Use [[People Directory]] to orient people and generations.
-3. Read [[Topics and Themes]] for historical context.
-4. Enjoy [[The Copley Family Narrative]] for a synthesized story.
-5. Use [[Bibliography and Acquisition Guide]] to acquire records/books and plan archival work.
+1. Start with [[Family Tree]] for a visual map of family relationships and generations.
+2. Continue to [[Phase 1 Questions and Answers]] for active research priorities.
+3. Use [[People Directory]] to orient people and generations.
+4. Read [[Topics and Themes]] for historical context.
+5. Enjoy [[The Copley Family Narrative]] for a synthesized story.
+6. Use [[Bibliography and Acquisition Guide]] to acquire records/books and plan archival work.
 
 ## Research Methodology
 

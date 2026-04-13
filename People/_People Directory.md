@@ -8,7 +8,9 @@ tags:
 
 # People Directory (Individual Profile Index)
 
-This index points to profile pages in `People/` and is organized by generation.
+**Start here:** [[Family Tree]]
+
+This index points to profile pages in `People/` and is organized by generation. Use [[Family Tree]] as a visual reference to quickly understand branch relationships across generations.
 
 ## G23 — Core Patriarch/Matriarch
 - [[Michael Copley]]
