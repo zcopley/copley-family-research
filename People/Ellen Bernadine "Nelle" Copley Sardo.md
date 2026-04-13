@@ -25,7 +25,7 @@ tags:
 - **Parents:** [[John Copley]], [[Mary Ellen Dolan Copley]]
 - **Grandparents:** [[Michael Copley]], [[Ann Copley]]
 - **Siblings:**
-  - [[Thomas Eugene Copley (Tom)]]
+  - [[Thomas E. Copley]]
   - [[Mary Copley Flesch]]
   - [[Anne Copley]]
   - [[Michael Joseph Copley]]

@@ -73,12 +73,12 @@ tags:
 
 ---
 
-## G25 — Children of John + Mary Ellen (branch-parent generation for Phase 1B)
+## G24 — Children of John + Mary Ellen (branch-parent generation for Phase 1B)
 
-### [[Thomas Eugene Copley (Tom)]]
-- Born 1892 (reported).
-- Later associated with St. Louis and IRS employment in family records.
-- Gap: verify service/career chronology with city directories and federal records.
+### [[Thomas E. Copley]]
+- Born 1892; died 1968 (reported).
+- Son of [[John Copley]] and [[Mary Ellen Dolan Copley]]; married Drusilla.
+- No children are documented in current family records.
 
 ### [[Mary Copley Flesch]]
 - Daughter; later associated with Albuquerque.
@@ -117,7 +117,7 @@ tags:
 - Marketing/academia profile expanded from Appendix 1 biographical material.
 
 ### Tentative / possible additions (explicitly unverified)
-- Possible additional G25 descendants through [[Thomas Eugene Copley (Tom)]], [[Mary Copley Flesch]], or [[Anne Copley]] remain unconfirmed in currently available records.
+- Possible additional G25 descendants through [[Mary Copley Flesch]] or [[Anne Copley]] remain unconfirmed in currently available records.
 
 ---
 

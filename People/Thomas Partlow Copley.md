@@ -16,7 +16,7 @@ tags:
 [[Thomas Partlow Copley]] ("Tom") is a G25 descendant in the [[Michael Joseph Copley]] line. Family documents describe a career that combines business education, marketing scholarship/practice, and later technology-enabled education work.
 
 - **Birth:** 29 Oct 1944, Philadelphia, Pennsylvania (reported in Appendix 1)
-- **Parents:** [[Michael Joseph Copley]] and Marion Elizabeth Partlow
+- **Parents:** [[Michael Joseph Copley]] and [[Marion Elizabeth Partlow]]
 - **Education (reported):**
   - BS (Managerial Economics), UC Berkeley (1966)
   - MBA (International Business and Finance), UC Berkeley
@@ -29,8 +29,10 @@ tags:
 - **Marriage:** Barbara Dee LaForce (married 19 Mar 1967)
 - **Current location (broad, reported):** East Bay / Berkeley-area context in recent family narrative
 
+This person is distinct from [[Thomas E. Copley]] (1892–1968), his uncle in the prior generation.
+
 ## Family Relationships
-- **Parents:** [[Michael Joseph Copley]], Marion Elizabeth Partlow
+- **Parents:** [[Michael Joseph Copley]], [[Marion Elizabeth Partlow]]
 - **Grandparents:** [[John Copley]], [[Mary Ellen Dolan Copley]]
 - **Great-grandparents (branch root):** [[Michael Copley]], [[Ann Copley]]
 - **Sibling:** [[Stephen Michael Copley]]

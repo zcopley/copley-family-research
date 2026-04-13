@@ -17,7 +17,7 @@ This page addresses all **Phase 1 quick-win questions** from the strategy analys
 ## Q23 — Who was the “Tom” at Chancellorsville?
 
 ### Current answer
-Family tradition references a “Tom” who fought at Chancellorsville, but this appears to be an **identity mismatch** in the current compiled narrative. No reliable documentary chain yet links the story to a clearly identified [[Thomas Eugene Copley (Tom)]].
+Family tradition references a “Tom” who fought at Chancellorsville, but this appears to be an **identity mismatch** in the current compiled narrative. No reliable documentary chain yet links the story to a clearly identified person in this line (including [[Thomas E. Copley]]).
 
 ### Gap analysis
 - **Known:** A family memory exists; narrative inconsistency has been flagged.

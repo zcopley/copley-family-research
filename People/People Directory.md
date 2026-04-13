@@ -30,7 +30,7 @@ This index points to profile pages in `People/` and is organized by generation. 
 - [[Sarah Copley]]
 
 ## G24 — Children of John + Mary Ellen (branch parents for current G25 work)
-- [[Thomas Eugene Copley (Tom)]]
+- [[Thomas E. Copley]]
 - [[Mary Copley Flesch]]
 - [[Anne Copley]]
 - [[Ellen Bernadine "Nelle" Copley Sardo]]
@@ -45,7 +45,7 @@ This index points to profile pages in `People/` and is organized by generation. 
 - [[Mary Carmella Sardo Ruland]] (child of [[Ellen Bernadine "Nelle" Copley Sardo]])
 
 ### Tentative / possible additions (clearly unverified)
-- **Possible additional G25 descendants through [[Thomas Eugene Copley (Tom)]], [[Mary Copley Flesch]], or [[Anne Copley]]:**
+- **Possible additional G25 descendants through [[Mary Copley Flesch]] or [[Anne Copley]]:**
   current narrative states no documented descendants in those lines, but this remains a verification target pending primary-record confirmation.
 
 ## G26–G28 — Social Media Research Profiles (existing)
