@@ -13,7 +13,7 @@ Welcome to the published Quartz site for the Copley family Obsidian vault.
 - ⭐ **Visual overview:** [[Family Tree]]
 - Main landing page: [[Home]]
 - People index: [[People Directory]]
-- Individual profiles: [[People/_People Directory|People Directory (Individual Profiles)]]
+- Individual profiles: [[People/People Directory|People Directory (Individual Profiles)]]
 
 ## Key Pages
 
@@ -30,5 +30,5 @@ Welcome to the published Quartz site for the Copley family Obsidian vault.
 ## Navigation Tips
 
 - Use [[Family Tree]] to understand relationships before diving into biographies.
-- Use [[People Directory]] and [[People/_People Directory|People Directory (Individual Profiles)]] for person-level lookup.
+- Use [[People Directory]] and [[People/People Directory|People Directory (Individual Profiles)]] for person-level lookup.
 - Use [[Phase 1 Questions and Answers]] to track unresolved evidence gaps and next actions.

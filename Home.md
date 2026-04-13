@@ -35,7 +35,7 @@ The research focus includes:
 - [[Family Tree]] ⭐
 - [[Phase 1 Questions and Answers]]
 - [[People Directory]]
-- [[People/_People Directory|People Directory (Individual Profiles)]]
+- [[People/People Directory|People Directory (Individual Profiles)]]
 - [[Topics and Themes]]
 - [[The Copley Family Narrative]]
 - [[Bibliography and Acquisition Guide]]

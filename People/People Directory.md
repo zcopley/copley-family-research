@@ -1,6 +1,9 @@
 ---
 title: People Directory (Individual Profiles)
 date: 2026-04-13
+aliases:
+  - "People/_People Directory"
+  - "People/_People-Directory"
 tags:
   - "#copley-family"
   - "#people-index"
