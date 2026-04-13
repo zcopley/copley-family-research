@@ -40,7 +40,7 @@ classDef stephenLine fill:#4a2800,stroke:#e89a3c,stroke-width:2px,color:#f0f0f0
 classDef tomLine fill:#5a1a2a,stroke:#e06080,stroke-width:2px,color:#f0f0f0
 classDef grandchild fill:#4a3a10,stroke:#d4b850,stroke-width:2px,color:#f0f0f0
 classDef greatgrand fill:#5a2050,stroke:#e070a0,stroke-width:2px,color:#f0f0f0
-classDef spouse fill:#2d1a4a,stroke:#a77bda,stroke-width:1px,color:#f0f0f0,stroke-dasharray:5 5
+classDef spouse fill:#2d1a4a,stroke:#a77bda,stroke-width:1px,color:#f0f0f0,stroke-dasharray:5,5
 classDef marriage fill:none,stroke:#d4a843,stroke-width:2px,color:#d4a843
 
 %% ============================================================
@@ -49,7 +49,7 @@ classDef marriage fill:none,stroke:#d4a843,stroke-width:2px,color:#d4a843
 MICHAEL_SR["🍀 Michael Copley<br/>b. 1813, Kilgefin, Ireland<br/>d. 1897"]:::irish
 ANN_MUNDAY["🍀 Ann Elizabeth Munday<br/>b. 1823, Kinawley, Ireland<br/>d. 1909"]:::irish
 
-MICHAEL_SR --- M1{ }:::marriage
+MICHAEL_SR --- M1{"◇"}:::marriage
 M1 --- JOHN
 
 %% ============================================================
@@ -58,7 +58,7 @@ M1 --- JOHN
 JOHN["John Copley<br/>b. Nov 3, 1843<br/>d. Sep 6, 1925"]:::g23
 MARY_DOLAN["Mary Ellen Dolan<br/>b. Nov 28, 1855<br/>d. Dec 5, 1901"]:::g23
 
-JOHN --- M2{ }:::marriage
+JOHN --- M2{"◇"}:::marriage
 M2 --- THOMAS_E
 M2 --- MARY_FLESCH
 M2 --- ANNE_C
@@ -76,7 +76,7 @@ ANNE_C["Anne Copley<br/>b. 1895 · d. 1970<br/><i>never married</i>"]:::g24sibli
 NELLE["Ellen B. 'Nelle' Copley<br/>b. Dec 23, 1897<br/>d. Feb 11, 1977"]:::sardoBranch
 ROBERT_SARDO["Robert Samuel Sardo<br/>physician<br/><i>m. Aug 16, 1931</i>"]:::spouse
 
-NELLE --- M3{ }:::marriage
+NELLE --- M3{"◇"}:::marriage
 M3 --- SARAH_SARDO
 M3 --- MARY_SARDO
 
@@ -84,7 +84,7 @@ M3 --- MARY_SARDO
 MICHAEL_JR["Michael Joseph Copley<br/>b. Sep 16, 1898<br/>d. Sep 17, 1988<br/><i>chemist, USDA Director</i>"]:::g24sibling
 MARION["Marion Elizabeth Partlow<br/><i>m. 1933</i> · d. 1977"]:::spouse
 
-MICHAEL_JR --- M4{ }:::marriage
+MICHAEL_JR --- M4{"◇"}:::marriage
 M4 --- STEPHEN
 M4 --- TOM
 
@@ -94,7 +94,7 @@ M4 --- TOM
 SARAH_SARDO["Sarah Ellen Sardo<br/>b. Dec 19, 1933"]:::sardoBranch
 MATT_ARENA["Matthew Paul Arena<br/><i>m. Nov 1956</i>"]:::spouse
 
-SARAH_SARDO --- M5{ }:::marriage
+SARAH_SARDO --- M5{"◇"}:::marriage
 M5 --- CATHY_A
 M5 --- ANNMARIE_A
 M5 --- JIM_A
@@ -104,7 +104,7 @@ M5 --- JOHN_A
 MARY_SARDO["Mary Carmella Sardo<br/>b. May 3, 1936"]:::sardoBranch
 LOUIS_RULAND["Louis Ruland"]:::spouse
 
-MARY_SARDO --- M6{ }:::marriage
+MARY_SARDO --- M6{"◇"}:::marriage
 M6 --- LOUIS_III
 M6 --- ROBERT_R
 M6 --- CHARLES_R
@@ -118,7 +118,7 @@ STEPHEN["Stephen Michael Copley<br/>b. Apr 29, 1936<br/><i>physicist, professor<
 MARCIA["Marcia Thornton<br/><i>1st wife · div. 1983</i>"]:::spouse
 JUDY["Judith 'Judy' Todd<br/><i>2nd wife · m. 1984</i>"]:::spouse
 
-STEPHEN --- M7{ }:::marriage
+STEPHEN --- M7{"◇"}:::marriage
 M7 --- MC
 M7 --- SARA_C
 M7 --- PHILIP
@@ -127,13 +127,13 @@ M7 --- PETER
 M7 --- SUSAN_C
 M7 --- STEPHEN_J
 
-STEPHEN --- M7B{ }:::marriage
+STEPHEN --- M7B{"◇"}:::marriage
 M7B --- AMY
 
 TOM["Thomas Partlow Copley<br/>b. Oct 29, 1944<br/><i>marketing, PhD</i>"]:::tomLine
 BARBARA["Barbara Dee LaForce<br/><i>m. Mar 19, 1967</i>"]:::spouse
 
-TOM --- M8{ }:::marriage
+TOM --- M8{"◇"}:::marriage
 M8 --- ZACH
 M8 --- ERIN
 M8 --- CHARLES_C
@@ -264,3 +264,4 @@ style M8 fill:#d4a843,stroke:#d4a843,width:8px,height:8px
 ## Usage Note
 
 Use this family tree together with [[People Directory]] and [[People/_People Directory|People Directory (Individual Profiles)]] for full biographical and source context.
+
