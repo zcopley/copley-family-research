@@ -1,5 +1,10 @@
 ---
 title: Ellen Bernadine Nelle Copley Sardo
+aliases:
+  - Nelle
+  - Nelle Sardo
+  - Nelle Copley
+  - Ellen Sardo
 date: 2026-04-13
 tags:
   - "#copley-family"

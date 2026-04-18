@@ -1,5 +1,9 @@
 ---
 title: Catherine Kitty Copley Hannon
+aliases:
+  - Kitty
+  - Kitty Hannon
+  - Catherine Hannon
 date: 2026-04-13
 tags:
   - "#copley-family"

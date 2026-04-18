@@ -1,5 +1,8 @@
 ---
 title: Thomas Tom Copley
+aliases:
+  - Tom Copley
+  - Tom
 date: 2026-04-13
 tags:
   - "#copley-family"

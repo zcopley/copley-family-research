@@ -1,5 +1,7 @@
 ---
 title: Mary Copley Quinn
+aliases:
+  - Mary Quinn
 date: 2026-04-13
 tags:
   - "#copley-family"

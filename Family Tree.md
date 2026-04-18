@@ -35,12 +35,14 @@ MICHAEL_SR["Michael Copley<br>b. 1813, Kilgefin, Ireland<br>d. 1897"]:::irish
 ANN_MUNDAY["Ann Elizabeth Munday<br>b. 1823, Kinawley, Ireland<br>d. 1909"]:::irish
 
 MICHAEL_SR --- M1{"◇"}:::marriage
+ANN_MUNDAY --- M1
 M1 --- JOHN
 
 JOHN["John Copley<br>b. Nov 3, 1843<br>d. Sep 6, 1925"]:::g23
 MARY_DOLAN["Mary Ellen Dolan<br>b. Nov 28, 1855<br>d. Dec 5, 1901"]:::g23
 
 JOHN --- M2{"◇"}:::marriage
+MARY_DOLAN --- M2
 M2 --- THOMAS_E
 M2 --- MARY_FLESCH
 M2 --- ANNE_C
@@ -55,6 +57,7 @@ NELLE["Ellen B. 'Nelle' Copley<br>b. Dec 23, 1897<br>d. Feb 11, 1977"]:::sardoBr
 ROBERT_SARDO["Robert Samuel Sardo<br>physician<br><i>m. Aug 16, 1931</i>"]:::spouse
 
 NELLE --- M3{"◇"}:::marriage
+ROBERT_SARDO --- M3
 M3 --- SARAH_SARDO
 M3 --- MARY_SARDO
 
@@ -62,6 +65,7 @@ MICHAEL_JR["Michael Joseph Copley<br>b. Sep 16, 1898<br>d. Sep 17, 1988<br><i>ch
 MARION["Marion Elizabeth Partlow<br><i>m. 1933</i> · d. 1977"]:::spouse
 
 MICHAEL_JR --- M4{"◇"}:::marriage
+MARION --- M4
 M4 --- STEPHEN
 M4 --- TOM
 
@@ -69,6 +73,7 @@ SARAH_SARDO["Sarah Ellen Sardo<br>b. Dec 19, 1933"]:::sardoBranch
 MATT_ARENA["Matthew Paul Arena<br><i>m. Nov 1956</i>"]:::spouse
 
 SARAH_SARDO --- M5{"◇"}:::marriage
+MATT_ARENA --- M5
 M5 --- CATHY_A
 M5 --- ANNMARIE_A
 M5 --- JIM_A
@@ -79,6 +84,7 @@ MARY_SARDO["Mary Carmella Sardo<br>b. May 3, 1936"]:::sardoBranch
 LOUIS_RULAND["Louis Ruland"]:::spouse
 
 MARY_SARDO --- M6{"◇"}:::marriage
+LOUIS_RULAND --- M6
 M6 --- LOUIS_III
 M6 --- ROBERT_R
 M6 --- CHARLES_R
@@ -90,6 +96,7 @@ MARCIA["Marcia Thornton<br><i>1st wife · div. 1983</i>"]:::spouse
 JUDY["Judith 'Judy' Todd<br><i>2nd wife · m. 1984</i>"]:::spouse
 
 STEPHEN --- M7{"◇"}:::marriage
+MARCIA --- M7
 M7 --- MC
 M7 --- SARA_C
 M7 --- PHILIP
@@ -99,12 +106,14 @@ M7 --- SUSAN_C
 M7 --- STEPHEN_J
 
 STEPHEN --- M7B{"◇"}:::marriage
+JUDY --- M7B
 M7B --- AMY
 
 TOM["Thomas Partlow Copley<br>b. Oct 29, 1944<br><i>marketing, PhD</i>"]:::tomLine
 BARBARA["Barbara Dee LaForce<br><i>m. Mar 19, 1967</i>"]:::spouse
 
 TOM --- M8{"◇"}:::marriage
+BARBARA --- M8
 M8 --- ZACH
 M8 --- ERIN
 M8 --- CHARLES_C

@@ -1,5 +1,9 @@
 ---
 title: Bridget Bitty Copley Gillooly
+aliases:
+  - Bitty
+  - Bitty Gillooly
+  - Bridget Gillooly
 date: 2026-04-13
 tags:
   - "#copley-family"
