@@ -16,6 +16,8 @@ tags:
 
 📊 View [[Family Tree]] for visual context.
 
+![Wendy Thorpe Copley](https://images.gr-assets.com/authors/1390315817p8/7224574.jpg)
+
 ## Biographical Profile
 
 [[Wendolyn Lorelie Thorpe Copley]] ("Wendy") is the spouse of [[Zachary R. Copley]], a published author and bento lunch expert, and mother of Wyatt and August Copley.
