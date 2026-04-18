@@ -133,8 +133,8 @@ Full-text searchable index of everyone and everything in this vault. Use Ctrl+K 
 | [[People/Robert Cox\|Robert Cox]] | Oct 3, 1988, Sacramento CA | Bobby Cox; Robert Anthony Cox; landscaping; Granite Bay CA |
 | [[People/Georgia Leonhardt\|Georgia Leonhardt]] | 1996 | Georgia Marie Copley Leonhardt; daughter of Paul Copley & Anne Marie Leonhardt |
 | [[People/William S. Geist\|William S. Geist]] | Dec 9, 2023 | William Stephen Geist; son of Amy Geist & Nathan Geist; Upper Marlboro MD |
-| Wyatt Copley | 2004 | son of Zach & Wendy Copley; Cedar Rapids IA |
-| August "Augie" Copley | 2008 | son of Zach & Wendy Copley; Cedar Rapids IA |
+| Wyatt Copley | Oct 2, 2004, Berkeley CA | son of Zach & Wendy Copley; Cedar Rapids IA |
+| August "Augie" Copley | Aug 31, 2008, Oakland CA | son of Zach & Wendy Copley; Cedar Rapids IA |
 | [[People/Evelyn Bird\|Evelyn Bird]] | 2010 | Evy Bird; daughter of Erin & Bryan Bird; Berkeley CA |
 | [[People/Samuel Bird\|Samuel Bird]] | 2014 | Sam Bird; son of Erin & Bryan Bird; Berkeley CA |
 

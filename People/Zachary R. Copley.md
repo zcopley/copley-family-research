@@ -25,7 +25,7 @@ tags:
 - **Marriage:** Wendolyn Lorelie Thorpe Copley ("Wendy"), September 2001, Las Vegas, Nevada
 - **Current location:** Cedar Rapids, Iowa (relocated from El Cerrito, California)
 - **Work:** Unite Us (based in New York City)
-- **Children:** Wyatt Copley (b. 2004), August "Augie" Copley (b. 2008)
+- **Children:** Wyatt Copley (b. October 2, 2004, Berkeley CA), August "Augie" Copley (b. August 31, 2008, Oakland CA)
 
 ## Family Relationships
 
@@ -35,9 +35,8 @@ tags:
 - **Great-great-grandparents:** [[Michael Copley Sr|Michael Copley]], [[Ann Copley]]
 - **Siblings:** [[Erin E. Copley Bird]], [[Charles H. Copley]]
 - **Spouse:** [[Wendolyn Lorelie Thorpe Copley|Wendolyn Lorelie Thorpe Copley ("Wendy")]]
-- **Children (G27):** Wyatt Copley (b. 2004), August "Augie" Copley (b. 2008)
+- **Children (G27):** Wyatt Copley (b. October 2, 2004, Berkeley CA), August "Augie" Copley (b. August 31, 2008, Oakland CA)
 
 ## Research Gaps
 
 1. Wendy Thorpe's biographical details.
-2. Full birth dates for Wyatt and Augie.
