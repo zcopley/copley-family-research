@@ -119,12 +119,38 @@ Two commits pushed to `main`:
 
 ---
 
-## 7) Recommended Next-Agent Actions
+## 7) G26–G27 Profile Work (Tom Line) — Completed in This Session
+
+The following profiles were fleshed out from direct family knowledge provided by Zach Copley (the user and site maintainer):
+
+| Person | Status | Key Facts Added |
+|--------|--------|-----------------|
+| Zachary R. Copley | ✅ Complete | Born Bellefonte PA (May 1969), Cedar Rapids IA, works at Unite Us NYC, married Wendy Thorpe Sep 2001 Las Vegas, children Wyatt (2004) and Augie (2008) |
+| Wendolyn Lorelie Thorpe Copley | ✅ New page | Born Cedar Rapids IA, published author (2 bento books, Tuttle Publishing), brother Lance Thorpe (Iowa City IA) |
+| Erin E. Copley Bird | ✅ Updated | Lives Berkeley CA with husband Bryan Bird (note: Bryan not Brian) |
+| Charles H. Copley | ✅ Updated | Born Dayton OH (Oct 1985, Antioch College connection), lives Napa CA, wife Audrey |
+| Evelyn Bird | ✅ Updated | Born 2010, nickname "Evy", Berkeley CA |
+| Samuel Bird | ✅ Updated | Born 2014, nickname "Sam", Berkeley CA |
+| Family Tree.md | ✅ Updated | Birth years, nicknames, Bryan Bird spelling |
+
+**Wendy's published books** (fully documented with ISBNs):
+1. *Every Day Bento: 50 Cute and Yummy Lunches to Go* — Tuttle, Mar 4 2014, ISBN 978-4805312612
+2. *Fresh Bento: Affordable, Healthy Box Lunches Your Kids Will Adore* — Tuttle, Kindle Aug 2021 (ISBN 978-1462922666) / Paperback May 2025 (ISBN 978-0804858786)
+
+**Still stub/thin — Stephen line (no family knowledge available yet):**
+- Michael Copley (b. 1959), Sara Copley Cox, Philip Copley, Paul Copley, Peter Copley, Susan Copley, Stephen Joseph Copley (d. 2023), Amy E. Copley Geist
+- Lauren Copley Meier, Rowan Meier, William S. Geist, Robert Cox, Georgia Leonhardt
+- Zach may be able to upload documents with cousin information in a future session
+
+---
+
+## 8) Recommended Next-Agent Actions
 
 1. Verify Mermaid diagram renders correctly in browser — all spouses should now appear connected to their marriage diamonds (◇), not floating.
 2. Verify Search Index page is live and all links resolve.
-3. Consider adding `aliases` frontmatter to remaining person pages that lack them (most G25+ pages have no aliases).
-4. Consider Phase 2B: standardize and complete G27–G28 living family profiles (flagged as "uneven depth" in review).
+3. If Zach uploads family documents, use them to flesh out the Stephen line stubs.
+4. Consider adding `aliases` frontmatter to remaining person pages that lack them (most G25+ pages have no aliases).
+5. Consider updating Search Index with newly added people (Wendy, Lance Thorpe).
 
 ---
 
