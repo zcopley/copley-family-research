@@ -140,8 +140,8 @@ STEPHEN_J["Stephen J. Copley<br>b. 1970 · d. 2023"]:::stephenLine
 
 AMY["Amy E. Copley Geist<br>b. Jul 11, 1990<br><i>m. Nathan Geist 2021</i>"]:::stephenLine
 
-ZACH["Zachary R. Copley<br>b. May 1969<br><i>m. Wendy Thorpe</i>"]:::tomLine
-ERIN["Erin E. Copley Bird<br>b. Apr 1973<br><i>m. Brian Bird</i>"]:::tomLine
+ZACH["Zachary R. Copley<br>b. May 1969, State College PA<br><i>m. Wendy Thorpe, Sep 2001</i>"]:::tomLine
+ERIN["Erin E. Copley Bird<br>b. Apr 1973<br><i>m. Bryan Bird</i>"]:::tomLine
 CHARLES_C["Charles H. Copley<br>b. Oct 1985"]:::tomLine
 
 MC --- LAUREN
@@ -161,13 +161,13 @@ WILLIAM_G["William S. Geist<br>b. Dec 9, 2023"]:::grandchild
 
 ZACH --- WYATT
 ZACH --- AUGUST
-WYATT["Wyatt Copley"]:::grandchild
-AUGUST["August Copley"]:::grandchild
+WYATT["Wyatt Copley<br>b. 2004"]:::grandchild
+AUGUST["August 'Augie' Copley<br>b. 2008"]:::grandchild
 
 ERIN --- EVELYN
 ERIN --- SAMUEL
-EVELYN["Evelyn Bird"]:::grandchild
-SAMUEL["Samuel Bird"]:::grandchild
+EVELYN["Evelyn 'Evy' Bird<br>b. 2010"]:::grandchild
+SAMUEL["Samuel Bird<br>b. 2014"]:::grandchild
 
 LAUREN --- ROWAN
 LAUREN --- ELIZABETH_M

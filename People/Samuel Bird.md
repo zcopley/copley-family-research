@@ -1,15 +1,23 @@
 ---
-title: "Samuel Bird"
-tags: [copley-family, people, stub]
+title: Samuel Bird
+aliases:
+  - Sam Bird
+  - Sam
+date: 2026-04-17
+tags:
+  - "#copley-family"
+  - "#generation-G27"
+  - "#tom-line"
 ---
 
-# Samuel Bird
+# Samuel Bird (b. 2014)
 
-> Stub person profile created to prevent broken links.
+📊 View [[Family Tree]] for visual context.
 
-## Known Information
-- Name: Samuel Bird
-- Status: Placeholder page pending research verification.
+## Biographical Profile
 
-## Research Notes
-- Add sourced biographical details, dates, relationships, and citations.
+[[Samuel Bird]] ("Sam") is a G27 descendant in the [[Erin E. Copley Bird]] branch, raised in Berkeley, California.
+
+- **Birth:** 2014
+- **Parents:** [[Erin E. Copley Bird]] and Bryan Bird
+- **Sibling:** [[Evelyn Bird|Evelyn "Evy" Bird]]

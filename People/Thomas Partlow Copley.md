@@ -21,8 +21,10 @@ tags:
   - BS (Managerial Economics), UC Berkeley (1966)
   - MBA (International Business and Finance), UC Berkeley
   - PhD (Marketing and International Economics), Penn State (awarded 1977; dissertation noted as "Consumer Confidence and Image")
+    - Family was resident in State College, PA during this doctoral period; son [[Zachary R. Copley]] born May 1969 at Bellefonte hospital (nearest to State College)
 - **Career/occupation (reported):**
-  - Academic roles (Wilkes College; Washington State University; Antioch College)
+  - Academic roles (Wilkes College; Washington State University; Antioch College, Yellow Springs OH)
+    - Son [[Charles H. Copley]] born October 1985 in Dayton, OH during this period
   - Research/business roles (Bank of America; NCR)
   - Online learning and courseware work (Electronic University; consulting/product roles)
   - Independent/contract and later semi-retired work

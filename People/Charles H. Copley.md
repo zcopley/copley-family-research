@@ -1,22 +1,34 @@
 ---
 title: Charles H. Copley
-date: 2026-04-13
+aliases:
+  - Charlie Copley
+  - Charlie
+date: 2026-04-17
 tags:
   - "#copley-family"
   - "#generation-G26"
-  - "#social-media"
+  - "#tom-line"
 ---
 
-# Charles H. Copley (b. 1985)
+# Charles H. Copley (b. October 1985)
 
 📊 View [[Family Tree]] for visual context.
 
-## Biographical Snapshot
-[[Charles H. Copley]] is listed in the family tree as born **October 1985**.
+## Biographical Profile
 
-## Family Context
-- Parents: [[Thomas Partlow Copley]] and Barbara Dee LaForce (family tree)
-- Siblings: [[Zachary R. Copley]], [[Erin E. Copley Bird]]
+[[Charles H. Copley]] ("Charlie") is a G26 descendant in the [[Thomas Partlow Copley|Thomas Partlow "Tom" Copley]] line.
+
+- **Birth:** October 1985, Dayton, Ohio
+  - Born while the family was in the Dayton area, likely connected to Tom Copley's role at Antioch College (Yellow Springs, OH, adjacent to Dayton)
+- **Parents:** [[Thomas Partlow Copley]] and Barbara Dee LaForce
+- **Spouse:** Audrey
+- **Current location:** Napa, California
+
+## Family Relationships
+
+- **Parents:** [[Thomas Partlow Copley]], Barbara Dee LaForce
+- **Grandparents:** [[Michael Joseph Copley]], [[Marion Elizabeth Partlow]]
+- **Siblings:** [[Zachary R. Copley]], [[Erin E. Copley Bird]]
 
 ## Social Media & Online Presence
 - 💼 **LinkedIn:** [Charles Copley](https://www.linkedin.com/in/charlescopley/)
@@ -24,5 +36,8 @@ tags:
 - 🐦 **Twitter/X:** [@Charles_Copley](https://twitter.com/charles_copley?lang=en)
 - 📘 **Facebook:** [Charles Copley](https://www.facebook.com/charles.copley.921/) *(Likely match)*
 
-## Notes
-- LinkedIn/Instagram/Twitter were high-confidence in research; Facebook was medium-confidence.
+## Research Gaps
+1. Confirm birth month/day.
+2. Audrey's last name (maiden and/or married).
+3. Marriage date and location.
+4. Professional background.
