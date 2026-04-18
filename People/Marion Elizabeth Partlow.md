@@ -20,16 +20,18 @@ tags:
 [[Marion Elizabeth Partlow]] was the wife of [[Michael Joseph Copley]] and mother of [[Stephen Michael Copley]] and [[Thomas Partlow Copley]]. Before marriage she had been an elementary school teacher. She was known as a devoted homemaker, excellent hostess (during Michael's years as USDA lab director), and enthusiastic gardener who wrote a weekly wildflower column for a local California newspaper.
 
 - **Birth:** ~1905, Casey, Illinois (midway between Indianapolis and St. Louis)
-- **Death:** 1977 (age approximately 72)
+- **Death:** 26 Mar 1977, Berkeley, California (Ancestry.com tree, unverified)
 - **Marriage:** [[Michael Joseph Copley]], 1933
-- **Burial:** Sunset View Cemetery, El Cerrito, California (with Michael)
+- **Burial:** ⚠️ Conflict — current family account: Sunset View Cemetery, El Cerrito, California (with Michael); Ancestry.com tree: Oak Point, Clark County, Illinois (family plot, with her parents). Needs verification.
 - **Occupation (pre-marriage):** Elementary school teacher
 - **Residence:** Champaign IL → Wyndmoor PA → Berkeley / El Cerrito CA
 
 ## Family of Origin
 
-The Partlow family immigrated from **Wales** to Virginia before the Revolutionary War, then moved west to Indiana, then Illinois. They owned a large farm near **Casey, Illinois**.
+The Partlow family immigrated from **Wales** to Virginia before the Revolutionary War, then moved west to Indiana, then Illinois. They owned a large farm near **Casey, Illinois**. A Revolutionary War ancestor, **[[Benjamin Partlow]]**, served in the Virginia militia under Capt. Coxen and Capt. Rogers, guarding British prisoners at the Albemarle Barracks (Culpeper County, VA).
 
+- **Father:** Nollie Franklin Partlow (b. 8 Oct 1874, Johnson Township, Clark County, IL; d. 21 Nov 1956, Terre Haute, IN; buried Oak Point, Clark County, IL) — per Ancestry.com tree, unverified
+- **Mother:** Mary Alice Partlow (née unknown; b. 11 Oct 1880; d. 20 Jan 1962; buried Oak Point, Clark County, IL) — per Ancestry.com tree, unverified
 - **Brothers:** Harry Partlow, Raymond Partlow, Lester ("Leck") Partlow
 - **Sisters:** Laura Partlow, Doris Partlow, Genevieve ("Gen") Partlow
 

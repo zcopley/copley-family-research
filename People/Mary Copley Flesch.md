@@ -17,8 +17,8 @@ tags:
 
 [[Mary Copley Flesch]] is a G24 descendant, the second child of [[John Copley]] and [[Mary Ellen Dolan Copley]], born on the Copley farm in [[Places/Lewis County West Virginia|Lewis County, West Virginia]].
 
-- **Birth:** 1893, Lewis County, West Virginia
-- **Death:** 1971
+- **Birth:** 13 Apr 1893, West Virginia (Ancestry.com tree, unverified; day/month not confirmed by primary source)
+- **Death:** 4 Jul 1971, Albuquerque, New Mexico (Ancestry.com tree, unverified)
 - **Parents:** [[John Copley]] and [[Mary Ellen Dolan Copley]]
 - **Spouse:** Edward Flesch
 - **Later residence:** Albuquerque, New Mexico — relocated after Edward died; eventually joined by her sister [[Anne Copley (daughter of John Copley)|Anne Copley]]
@@ -40,7 +40,7 @@ tags:
 
 ## Research Gaps
 
-1. Full birth date (day/month) not confirmed.
+1. Full birth date (day/month) not confirmed by primary source — Ancestry.com tree gives 13 Apr 1893.
 2. Edward Flesch's background, occupation, and death date unknown.
 3. Whether she and Edward had children is unconfirmed.
 

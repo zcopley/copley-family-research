@@ -44,8 +44,9 @@ A persistent family tradition states that her father drowned in the Potomac Rive
   - [[Sarah Copley]]
 
 ## Known/Reported Life Data
-- **Born:** 1823, Kinawley parish, Fermanagh (reported in family narrative)
-- **Died:** 1909 (family narrative)
+- **Born:** 1823, Kinawley parish, Fermanagh (reported in family narrative) — note: Ancestry.com tree gives Sep 1824; discrepancy unresolved
+- **Died:** 2 Nov 1909, Lewis County, West Virginia (Ancestry.com tree, unverified)
+- **Burial:** Weston, Lewis County, West Virginia (Ancestry.com tree, unverified)
 - **Marriage:** to [[Michael Copley Sr|Michael Copley]], likely c.1838-1839 (inferred from first child birth year)
 
 ## Research Gaps

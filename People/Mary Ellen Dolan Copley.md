@@ -21,13 +21,13 @@ tags:
 
 - **Birth:** November 28, 1855, Moundsville, West Virginia
 - **Death:** December 5, 1901 (age 46)
-- **Parents:** Michael Dolan (1824–1888) and Elizabeth Dolan (1829–1913)
+- **Parents:** Michael Patrick Dolan (b. 1824 Cork, Ireland; d. 9 Nov 1888 Lewis Co. WV) and Elizabeth Mullooly Dolan (b. May 1829 Co. Roscommon, Ireland; d. 3 May 1913 Weston WV) — Ancestry.com tree, unverified; maiden name Mullooly unconfirmed by primary record
 - **Marriage:** [[John Copley]]
 - **Children:** 5 (Thomas E., Mary, Anne, Nelle, Michael Joseph)
 
 ## Family Relationships
 
-- **Parents:** Michael Dolan (1824–1888), Elizabeth Dolan (1829–1913)
+- **Parents:** Michael Patrick Dolan (1824–1888), Elizabeth Mullooly Dolan (1829–1913)
 - **Spouse:** [[John Copley]]
 - **Children (G24):**
   - [[Thomas E. Copley]] (b. Feb 19, 1892)

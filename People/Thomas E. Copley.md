@@ -13,8 +13,8 @@ tags:
 ## Biographical Profile
 [[Thomas E. Copley]] was born **February 19, 1892** and died **January 28, 1968**. He was a son of [[John Copley]] and [[Mary Ellen Dolan Copley]]. He spent his career with the **U.S. Internal Revenue Service**, rising to **Chief of the Collection Office, St. Louis District**. He lived in **St. Louis, Missouri** with his wife Drusilla. They had no children.
 
-- **Birth:** February 19, 1892
-- **Death:** January 28, 1968
+- **Birth:** February 19, 1892, Bealls Mill, Lewis County, West Virginia (birthplace per Ancestry.com tree, unverified)
+- **Death:** January 28, 1968 (family appendix) — note: Ancestry.com tree gives 30 Jan 1967; discrepancy unresolved
 - **Occupation:** U.S. Internal Revenue Service — Chief of Collection Office, St. Louis District
 - **Residence:** St. Louis, Missouri
 - **Spouse:** Drusilla (surname not yet confirmed)
