@@ -22,7 +22,7 @@ tags:
 - **Birth:** ~1905, Casey, Illinois (midway between Indianapolis and St. Louis)
 - **Death:** 26 Mar 1977, Berkeley, California (Ancestry.com tree, unverified)
 - **Marriage:** [[Michael Joseph Copley]], 1933
-- **Burial:** ⚠️ Conflict — current family account: Sunset View Cemetery, El Cerrito, California (with Michael); Ancestry.com tree: Oak Point, Clark County, Illinois (family plot, with her parents). Needs verification.
+- **Burial:** Sunset View Cemetery, El Cerrito, California (with Michael) — confirmed by family; Ancestry.com tree incorrectly lists Oak Point, Clark County, IL
 - **Occupation (pre-marriage):** Elementary school teacher
 - **Residence:** Champaign IL → Wyndmoor PA → Berkeley / El Cerrito CA
 
