@@ -12,7 +12,7 @@ tags:
   - "#spouse"
 ---
 
-# Wendolyn Lorelie Thorpe Copley ("Wendy")
+# Wendolyn Lorelie Thorpe Copley ("Wendy") (b. September 14, 1972)
 
 📊 View [[Family Tree]] for visual context.
 
@@ -23,7 +23,7 @@ tags:
 [[Wendolyn Lorelie Thorpe Copley]] ("Wendy") is the spouse of [[Zachary R. Copley]], a published author and bento lunch expert, and mother of Wyatt and August Copley.
 
 - **Full name:** Wendolyn Lorelie Thorpe Copley
-- **Birthplace:** Cedar Rapids, Iowa
+- **Birth:** September 14, 1972, Cedar Rapids, Iowa
 - **Marriage:** [[Zachary R. Copley]], September 2001, Las Vegas, Nevada
 - **Current location:** Cedar Rapids, Iowa (previously El Cerrito / Bay Area, CA)
 - **Occupation:** Author
