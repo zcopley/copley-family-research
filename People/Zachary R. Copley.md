@@ -18,11 +18,10 @@ tags:
 
 [[Zachary R. Copley]] ("Zach") is a G26 descendant in the [[Thomas Partlow Copley|Thomas Partlow "Tom" Copley]] line.
 
-- **Birth:** May 1969, Bellefonte, Pennsylvania (hospital); family resided in State College, PA
+- **Birth:** May 1969, Bellefonte, Pennsylvania
   - Born while his father was completing his doctoral studies at Penn State University (PhD awarded 1977)
-  - Bellefonte is the Centre County seat and nearest hospital to State College
 - **Parents:** [[Thomas Partlow Copley]] and Barbara Dee LaForce
-- **Marriage:** Wendy Thorpe, September 2001, Las Vegas, Nevada
+- **Marriage:** Wendolyn Lorelie Thorpe Copley ("Wendy"), September 2001, Las Vegas, Nevada
 - **Current location:** Cedar Rapids, Iowa (relocated from El Cerrito, California, August 2026)
 - **Work:** Unite Us (based in New York City)
 - **Children:** Wyatt Copley (b. 2004), August "Augie" Copley (b. 2008)
@@ -34,7 +33,7 @@ tags:
 - **Great-grandparents:** [[John Copley]], [[Mary Ellen Dolan Copley]]
 - **Great-great-grandparents:** [[Michael Copley Sr|Michael Copley]], [[Ann Copley]]
 - **Siblings:** [[Erin E. Copley Bird]], [[Charles H. Copley]]
-- **Spouse:** Wendy Thorpe Copley
+- **Spouse:** [[Wendolyn Lorelie Thorpe Copley|Wendolyn Lorelie Thorpe Copley ("Wendy")]]
 - **Children (G27):** Wyatt Copley (b. 2004), August "Augie" Copley (b. 2008)
 
 ## Research Gaps
