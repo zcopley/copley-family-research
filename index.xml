@@ -6,17 +6,17 @@
       <description>Last 10 notes on Copley Family Research Vault</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>GEMINI</title>
-    <link>https://zcopley.github.io/copley-family-research/GEMINI</link>
-    <guid>https://zcopley.github.io/copley-family-research/GEMINI</guid>
-    <description><![CDATA[ Gemini Agent Protocol — Copley Family Research Vault This document provides foundational mandates for AI agents working on the Copley Family Research Vault. ]]></description>
-    <pubDate>Sat, 18 Apr 2026 16:20:30 GMT</pubDate>
-  </item><item>
     <title>CLAUDE</title>
     <link>https://zcopley.github.io/copley-family-research/CLAUDE</link>
     <guid>https://zcopley.github.io/copley-family-research/CLAUDE</guid>
     <description><![CDATA[ CLAUDE.md — Copley Family Research Vault This file gives AI agents instant orientation for working on this project. ]]></description>
-    <pubDate>Sat, 18 Apr 2026 04:55:24 GMT</pubDate>
+    <pubDate>Sat, 18 Apr 2026 17:26:05 GMT</pubDate>
+  </item><item>
+    <title>GEMINI</title>
+    <link>https://zcopley.github.io/copley-family-research/GEMINI</link>
+    <guid>https://zcopley.github.io/copley-family-research/GEMINI</guid>
+    <description><![CDATA[ Gemini Agent Protocol — Copley Family Research Vault This document provides foundational mandates for AI agents working on the Copley Family Research Vault. ]]></description>
+    <pubDate>Sat, 18 Apr 2026 17:26:05 GMT</pubDate>
   </item><item>
     <title>Phase 2C Handoff Summary</title>
     <link>https://zcopley.github.io/copley-family-research/AGENT_HANDOFF_PHASE_2C</link>
@@ -28,6 +28,12 @@
     <link>https://zcopley.github.io/copley-family-research/AGENT_HANDOFF_PHASE_2D</link>
     <guid>https://zcopley.github.io/copley-family-research/AGENT_HANDOFF_PHASE_2D</guid>
     <description><![CDATA[ Phase 2D Handoff Summary (for next agent) 1) Work Completed This Session Image Catalog Completed All 11 previously unnamed images have been renamed, identified, and embedded in the appropriate pages. ]]></description>
+    <pubDate>Sat, 18 Apr 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Phase 2E Handoff Summary</title>
+    <link>https://zcopley.github.io/copley-family-research/AGENT_HANDOFF_PHASE_2E</link>
+    <guid>https://zcopley.github.io/copley-family-research/AGENT_HANDOFF_PHASE_2E</guid>
+    <description><![CDATA[ Phase 2E Handoff Summary (for next agent) 1) Critical Site Fix The site was serving an empty RSS feed at the root URL — no content pages at all. ]]></description>
     <pubDate>Sat, 18 Apr 2026 00:00:00 GMT</pubDate>
   </item><item>
     <title>Ann Marie Arena</title>
@@ -58,12 +64,6 @@
     <link>https://zcopley.github.io/copley-family-research/People/Jim-Arena</link>
     <guid>https://zcopley.github.io/copley-family-research/People/Jim-Arena</guid>
     <description><![CDATA[ Jim Arena 📊 View Family Tree for visual context. ]]></description>
-    <pubDate>Sat, 18 Apr 2026 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>John Arena</title>
-    <link>https://zcopley.github.io/copley-family-research/People/John-Arena</link>
-    <guid>https://zcopley.github.io/copley-family-research/People/John-Arena</guid>
-    <description><![CDATA[ John Arena 📊 View Family Tree for visual context. ]]></description>
     <pubDate>Sat, 18 Apr 2026 00:00:00 GMT</pubDate>
   </item>
     </channel>
