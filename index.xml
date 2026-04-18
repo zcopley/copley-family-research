@@ -10,13 +10,13 @@
     <link>https://zcopley.github.io/copley-family-research/CLAUDE</link>
     <guid>https://zcopley.github.io/copley-family-research/CLAUDE</guid>
     <description><![CDATA[ CLAUDE.md — Copley Family Research Vault This file gives AI agents instant orientation for working on this project. ]]></description>
-    <pubDate>Sat, 18 Apr 2026 17:26:05 GMT</pubDate>
+    <pubDate>Sat, 18 Apr 2026 17:57:14 GMT</pubDate>
   </item><item>
     <title>GEMINI</title>
     <link>https://zcopley.github.io/copley-family-research/GEMINI</link>
     <guid>https://zcopley.github.io/copley-family-research/GEMINI</guid>
     <description><![CDATA[ Gemini Agent Protocol — Copley Family Research Vault This document provides foundational mandates for AI agents working on the Copley Family Research Vault. ]]></description>
-    <pubDate>Sat, 18 Apr 2026 17:26:05 GMT</pubDate>
+    <pubDate>Sat, 18 Apr 2026 17:57:14 GMT</pubDate>
   </item><item>
     <title>Phase 2C Handoff Summary</title>
     <link>https://zcopley.github.io/copley-family-research/AGENT_HANDOFF_PHASE_2C</link>
@@ -34,6 +34,12 @@
     <link>https://zcopley.github.io/copley-family-research/AGENT_HANDOFF_PHASE_2E</link>
     <guid>https://zcopley.github.io/copley-family-research/AGENT_HANDOFF_PHASE_2E</guid>
     <description><![CDATA[ Phase 2E Handoff Summary (for next agent) 1) Critical Site Fix The site was serving an empty RSS feed at the root URL — no content pages at all. ]]></description>
+    <pubDate>Sat, 18 Apr 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Phase 2F Handoff Summary</title>
+    <link>https://zcopley.github.io/copley-family-research/AGENT_HANDOFF_PHASE_2F</link>
+    <guid>https://zcopley.github.io/copley-family-research/AGENT_HANDOFF_PHASE_2F</guid>
+    <description><![CDATA[ Phase 2F Handoff Summary (for next agent) 1) GEDCOM Data Incorporated An Ancestry.com GEDCOM export (Copley Family Tree.ged) from a Discord contact (“sp_edward_iv”) was found in C:\Users\zach\Desktop\cleanup\Copley Family Geneology. ]]></description>
     <pubDate>Sat, 18 Apr 2026 00:00:00 GMT</pubDate>
   </item><item>
     <title>Ann Marie Arena</title>
@@ -58,12 +64,6 @@
     <link>https://zcopley.github.io/copley-family-research/People/Cathy-Arena</link>
     <guid>https://zcopley.github.io/copley-family-research/People/Cathy-Arena</guid>
     <description><![CDATA[ Cathy Arena (Barthelme) 📊 View Family Tree for visual context. ]]></description>
-    <pubDate>Sat, 18 Apr 2026 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>Charles Ruland</title>
-    <link>https://zcopley.github.io/copley-family-research/People/Charles-Ruland</link>
-    <guid>https://zcopley.github.io/copley-family-research/People/Charles-Ruland</guid>
-    <description><![CDATA[ Charles Ruland 📊 View Family Tree for visual context. ]]></description>
     <pubDate>Sat, 18 Apr 2026 00:00:00 GMT</pubDate>
   </item>
     </channel>
