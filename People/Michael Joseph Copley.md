@@ -19,7 +19,8 @@ tags:
 [[Michael Joseph Copley]] is a central G24 figure connecting the [[Places/Weston West Virginia|Weston]] / [[Places/Lewis County West Virginia|Lewis County]] generation to later scientific and academic branches.
 
 - **Birth:** 16 Sep 1898, on/near the Copley farm in [[Places/Lewis County West Virginia|Lewis County, West Virginia]] (reported in family appendix)
-- **Death:** 17 Sep 1988
+- **Death:** 17 Sep 1988 (his 90th birthday + one day)
+- **Burial:** Sunset View Cemetery, El Cerrito, California (with Marion)
 - **Parents:** [[John Copley]] and [[Mary Ellen Dolan Copley]]
 - **Education (reported):**
   - BS in Chemical Engineering, Catholic University (1922)

@@ -19,7 +19,7 @@ tags:
 [[Zachary R. Copley]] ("Zach") is a G26 descendant in the [[Thomas Partlow Copley|Thomas Partlow "Tom" Copley]] line.
 
 - **Full name:** Zachary Robertson Copley
-- **Birth:** May 1969, Bellefonte, Pennsylvania
+- **Birth:** May 22, 1969, Bellefonte, Pennsylvania
   - Born while his father was completing his doctoral studies at Penn State University (PhD awarded 1977)
 - **Parents:** [[Thomas Partlow Copley]] and Barbara Dee LaForce
 - **Marriage:** Wendolyn Lorelie Thorpe Copley ("Wendy"), September 2001, Las Vegas, Nevada

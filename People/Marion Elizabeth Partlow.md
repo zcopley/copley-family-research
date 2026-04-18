@@ -1,15 +1,51 @@
 ---
-title: "Marion Elizabeth Partlow"
-tags: [copley-family, people, stub]
+title: Marion Elizabeth Partlow
+aliases:
+  - Marion Partlow
+  - Marion Copley
+  - Dee Partlow
+date: 2026-04-17
+tags:
+  - "#copley-family"
+  - "#generation-G24"
+  - "#spouse"
 ---
 
-# Marion Elizabeth Partlow
+# Marion Elizabeth Partlow (1905–1977)
 
-> Stub person profile created to prevent broken links.
+📊 View [[Family Tree]] for visual context.
 
-## Known Information
-- Name: Marion Elizabeth Partlow
-- Status: Placeholder page pending research verification.
+## Biographical Profile
 
-## Research Notes
-- Add sourced biographical details, dates, relationships, and citations.
+[[Marion Elizabeth Partlow]] was the wife of [[Michael Joseph Copley]] and mother of [[Stephen Michael Copley]] and [[Thomas Partlow Copley]]. Before marriage she had been an elementary school teacher. She was known as a devoted homemaker, excellent hostess (during Michael's years as USDA lab director), and enthusiastic gardener who wrote a weekly wildflower column for a local California newspaper.
+
+- **Birth:** ~1905, Casey, Illinois (midway between Indianapolis and St. Louis)
+- **Death:** 1977 (age approximately 72)
+- **Marriage:** [[Michael Joseph Copley]], 1933
+- **Burial:** Sunset View Cemetery, El Cerrito, California (with Michael)
+- **Occupation (pre-marriage):** Elementary school teacher
+- **Residence:** Champaign IL → Wyndmoor PA → Berkeley / El Cerrito CA
+
+## Family of Origin
+
+The Partlow family immigrated from **Wales** to Virginia before the Revolutionary War, then moved west to Indiana, then Illinois. They owned a large farm near **Casey, Illinois**.
+
+- **Brothers:** Harry Partlow, Raymond Partlow, Lester ("Leck") Partlow
+- **Sisters:** Laura Partlow, Doris Partlow, Genevieve ("Gen") Partlow
+
+## Family Relationships
+
+- **Spouse:** [[Michael Joseph Copley]] (married 1933; Michael died Sep 17 1988)
+- **Children (G25):**
+  - [[Stephen Michael Copley]] (b. Apr 29, 1936, Champaign IL)
+  - [[Thomas Partlow Copley]] (b. Oct 29, 1944, Philadelphia PA)
+
+## Notes
+
+- Thomas Partlow Copley's middle name "Partlow" honors her maiden name.
+- After Michael's retirement in 1968, Tom's family moved back to Berkeley to help care for their parents after Marion's death.
+
+## Sources
+
+1. `~/Downloads/Part 1 Appendices .pdf` — Michael Joseph Copley, Stephen Copley, and Tom Copley biographical sketches.
+2. [[Family Tree]] — internal branch mapping.

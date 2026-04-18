@@ -1,24 +1,34 @@
 ---
 title: William S. Geist
-date: 2026-04-13
+aliases:
+  - William Stephen Geist
+  - Willie Geist
+date: 2026-04-17
 tags:
   - "#copley-family"
   - "#generation-G27"
-  - "#social-media"
+  - "#stephen-line"
 ---
 
-# William S. Geist (b. 2023)
+# William Stephen Geist (b. December 9, 2023)
 
 📊 View [[Family Tree]] for visual context.
 
-## Biographical Snapshot
-[[William S. Geist]] is listed in the family tree as born **Dec 9, 2023**.
+## Biographical Profile
 
-## Family Context
-- Parent: [[Amy E. Copley Geist]]
+[[William S. Geist|William Stephen Geist]] is a G27 descendant in the [[Stephen Michael Copley]] line — the son of [[Amy E. Copley Geist]] and Nathan Geist.
 
-## Social Media & Online Presence
-- 📸 **Instagram:** [@williegeist](https://www.instagram.com/williegeist/?hl=en)
+- **Full name:** William Stephen Geist (middle name Stephen honors grandfather [[Stephen Michael Copley]])
+- **Birth:** December 9, 2023
+- **Parents:** [[Amy E. Copley Geist]] and Nathan ("Nate") Geist
+- **Current location:** Upper Marlboro, Maryland
 
-## Notes
-- Research marked this as a high-confidence match to public figure Willie Geist and noted potential family linkage.
+## Family Relationships
+
+- **Parents:** [[Amy E. Copley Geist]], Nathan Geist
+- **Maternal grandparents:** [[Stephen Michael Copley]], [[Judith Ann Todd Copley]]
+- **Maternal great-grandparents:** [[Michael Joseph Copley]], [[Marion Elizabeth Partlow]]
+
+## Sources
+
+1. `~/Downloads/Part 1 Appendices .pdf` — Amy Copley Geist biographical sketch (primary, first-person).

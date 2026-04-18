@@ -140,7 +140,7 @@ STEPHEN_J["Stephen J. Copley<br>b. 1970 · d. 2023"]:::stephenLine
 
 AMY["Amy E. Copley Geist<br>b. Jul 11, 1990<br><i>m. Nathan Geist 2021</i>"]:::stephenLine
 
-ZACH["Zachary R. Copley<br>b. May 1969, Bellefonte PA<br><i>m. Wendy Thorpe, Sep 2001</i>"]:::tomLine
+ZACH["Zachary R. Copley<br>b. May 22, 1969, Bellefonte PA<br><i>m. Wendy Thorpe, Sep 2001</i>"]:::tomLine
 ERIN["Erin E. Copley Bird<br>b. Apr 1973<br><i>m. Bryan Bird</i>"]:::tomLine
 CHARLES_C["Charles H. Copley<br>b. Oct 1985"]:::tomLine
 
