@@ -8,6 +8,8 @@ tags:
   - "#social-work"
 ---
 
+![Sarah Ellen Sardo Arena](../static/images/sarah-sardo-arena-portrait.jpg)
+
 # Sarah Ellen Sardo Arena (b. 19 Dec 1933)
 
 📊 View [[Family Tree]] for visual context.

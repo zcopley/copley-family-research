@@ -18,6 +18,7 @@ tags:
 
 [[Charles H. Copley]] ("Charlie") is a G26 descendant in the [[Thomas Partlow Copley|Thomas Partlow "Tom" Copley]] line.
 
+- **Full name:** Charles Hewetson Copley
 - **Birth:** October 1985, Dayton, Ohio
   - Born while the family was in the Dayton area, likely connected to Tom Copley's role at Antioch College (Yellow Springs, OH, adjacent to Dayton)
 - **Parents:** [[Thomas Partlow Copley]] and Barbara Dee LaForce

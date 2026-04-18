@@ -14,7 +14,13 @@ tags:
 - Not to be confused with [[Anne Copley (b. 1850)]], her aunt in the prior generation.
 
 ## Biographical Profile
-[[Anne Copley (daughter of John Copley)|Anne Copley]] is listed as a daughter of [[John Copley]] and [[Mary Ellen Dolan Copley]], born **1895** and deceased **1970** (per family tree/appendix narrative). Family notes describe her as never married, with roots in [[Places/Lewis County West Virginia|Lewis County, West Virginia]] and later-life association to Albuquerque.
+[[Anne Copley (daughter of John Copley)|Anne Copley]] was born **June 6, 1895** and died **July 28, 1970**. She was a daughter of [[John Copley]] and [[Mary Ellen Dolan Copley]]. She never married. She relocated to **Albuquerque, New Mexico** for health reasons later in life, and was later joined there by her sister [[Mary Copley Flesch]] after Mary's husband Edward died.
+
+- **Birth:** June 6, 1895
+- **Death:** July 28, 1970
+- **Residence:** [[Places/Lewis County West Virginia|Lewis County, West Virginia]]; later Albuquerque, New Mexico
+- **Spouse:** none
+- **Children:** none
 
 ## Key Place Links
 - [[Places/Lewis County West Virginia|Lewis County, West Virginia]]

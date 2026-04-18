@@ -10,6 +10,8 @@ aliases:
   - "Michael Copley (immigrant)"
 ---
 
+![Michael Copley Sr. grave marker](../static/images/michael-copley-sr-grave.jpg)
+
 # Michael Copley Sr. (1813–1897)
 
 📊 View [[Family Tree]] for visual context.

@@ -15,6 +15,7 @@ tags:
 
 [[Erin E. Copley Bird]] is a G26 descendant in the [[Thomas Partlow Copley|Thomas Partlow "Tom" Copley]] line.
 
+- **Full name:** Erin Elizabeth Copley Bird
 - **Birth:** April 1973
 - **Parents:** [[Thomas Partlow Copley]] and Barbara Dee LaForce
 - **Spouse:** Bryan Bird

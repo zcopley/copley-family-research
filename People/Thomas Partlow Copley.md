@@ -1,68 +1,82 @@
 ---
 title: Thomas Partlow Copley
-date: 2026-04-13
+aliases:
+  - Tom Copley
+  - Tom
+date: 2026-04-17
 tags:
   - "#copley-family"
   - "#generation-G25"
   - "#marketing"
   - "#academia"
+  - "#tom-line"
 ---
 
-# Thomas Partlow Copley (b. 29 Oct 1944)
+![Tom Copley](../static/images/tom-copley-portrait.jpg)
+
+# Thomas Partlow Copley ("Tom") (b. October 29, 1944)
 
 📊 View [[Family Tree]] for visual context.
 
 ## Biographical Profile
-[[Thomas Partlow Copley]] ("Tom") is a G25 descendant in the [[Michael Joseph Copley]] line. Family documents describe a career that combines business education, marketing scholarship/practice, and later technology-enabled education work.
 
-- **Birth:** 29 Oct 1944, Philadelphia, Pennsylvania (reported in Appendix 1)
+[[Thomas Partlow Copley]] ("Tom") is a G25 descendant in the [[Michael Joseph Copley]] line and the father of [[Zachary R. Copley]], [[Erin E. Copley Bird]], and [[Charles H. Copley]].
+
+- **Full name:** Thomas Partlow Copley (childhood nickname "Tommy"; went by "Tom" from about age 7–8)
+- **Birth:** October 29, 1944, Philadelphia, Pennsylvania (born while his father worked at the USDA Eastern Regional Research Laboratory in Wyndmoor, PA)
 - **Parents:** [[Michael Joseph Copley]] and [[Marion Elizabeth Partlow]]
-- **Education (reported):**
-  - BS (Managerial Economics), UC Berkeley (1966)
-  - MBA (International Business and Finance), UC Berkeley
-  - PhD (Marketing and International Economics), Penn State (awarded 1977; dissertation noted as "Consumer Confidence and Image")
-    - Son [[Zachary R. Copley]] born May 1969 in Bellefonte, PA during this doctoral period
-- **Career/occupation (reported):**
-  - Academic roles (Wilkes College; Washington State University; Antioch College, Yellow Springs OH)
-    - Son [[Charles H. Copley]] born October 1985 in Dayton, OH during this period
-  - Research/business roles (Bank of America; NCR)
-  - Online learning and courseware work (Electronic University; consulting/product roles)
-  - Independent/contract and later semi-retired work
-- **Marriage:** Barbara Dee LaForce (married 19 Mar 1967)
-- **Current location (broad, reported):** East Bay / Berkeley-area context in recent family narrative
+- **Marriage:** Barbara Dee LaForce ("Dee"), March 19, 1967
+- **Current location:** Richmond Annex, near Berkeley, California (apartment)
 
-This person is distinct from [[Thomas E. Copley]] (1892–1968), his uncle in the prior generation.
+His interest in marketing and consumer behavior was sparked as a teenager watching his father's lab develop ambitious but ultimately unsuccessful food products like "Wurld Wheat" — modified wheat designed to look like rice. This paradox of a good product failing in the market became his life's intellectual quest.
+
+## Education
+
+- **Elementary/Secondary:** Oxford Elementary School (Berkeley); Thousand Oaks School (Berkeley, from 2nd grade); Garfield Junior High; Berkeley High School
+  - Skipped 2 grades; graduated high school at 16
+  - Senior year: Editor-in-Chief of the *Daily Jacket* (Berkeley High School newspaper)
+- **BS**, Managerial Economics — UC Berkeley, 1966
+- **MBA**, International Business and Finance — UC Berkeley
+- **PhD**, Marketing and International Economics — Penn State University
+  - Coursework completed 1970 (ABD)
+  - Dissertation: *"Consumer Confidence and Image"*
+  - Degree awarded 1977
+
+## Career Timeline
+
+| Period | Role | Location |
+|--------|------|----------|
+| 1970–71 | Instructor | Wilkes College, Wilkes-Barre, PA |
+| ~1971–72 | Assistant Professor of Business Administration | Washington State University, Pullman, WA |
+| ~1972–76 | Research Officer | Bank of America, San Francisco, CA |
+| 1976–~1980 | Staff | NCR Corporation, Dayton, OH |
+| ~1980–85 | Business instructor | Antioch College, Yellow Springs, OH |
+| 1985–~87 | Program Manager, Business Courses | The Electronic University, San Francisco, CA |
+| ~1987–90 | Contractor | Apple Computer |
+| ~1990–2001 | Co-founder | Arlington Courseware (with son Zach; ceased 2001) |
+| ~2001–06 | Webmaster | drtoy.com |
+| 2006– | Semi-retired; various gig roles | Richmond Annex, CA |
 
 ## Family Relationships
+
 - **Parents:** [[Michael Joseph Copley]], [[Marion Elizabeth Partlow]]
 - **Grandparents:** [[John Copley]], [[Mary Ellen Dolan Copley]]
-- **Great-grandparents (branch root):** [[Michael Copley Sr|Michael Copley]], [[Ann Copley]]
+- **Great-grandparents:** [[Michael Copley Sr|Michael Copley]], [[Ann Copley]]
 - **Sibling:** [[Stephen Michael Copley]]
-- **Spouse:** Barbara Dee LaForce
+- **Spouse:** Barbara Dee LaForce (met fall 1964 at fraternity mixer; Tom was in Alpha Tau Omega, Dee in Zeta Tau Alpha; "pinned" 1965; married March 19, 1967)
 - **Children (G26):**
-  - [[Zachary R. Copley]]
-  - [[Erin E. Copley Bird]]
-  - [[Charles H. Copley]]
+  - [[Zachary R. Copley]] (Zachary Robertson Copley, b. May 1969)
+  - [[Erin E. Copley Bird]] (Erin Elizabeth Copley, b. April 1973)
+  - [[Charles H. Copley]] (Charles Hewetson Copley, b. October 1985)
 
-## Notable Life Events
-- Co-author of *Copley History Part 1* with [[Stephen Michael Copley]].
-- Family narrative links his professional interests in consumer behavior/marketing to observing innovation successes and failures around USDA research culture.
+## Notes
 
-## Research Gaps
-1. Confirm all degree years and dissertation metadata with university records.
-2. Build a verified employment timeline (titles, dates, locations) from primary sources.
-3. Add publication list and teaching portfolio references where available.
-
-## Acquisition Strategy
-- Request/locate Penn State dissertation catalog entry and UC Berkeley alumni confirmations.
-- Search archival city directories/newspapers/professional databases for career chronology.
-- Add oral-history provenance notes distinguishing first-person recollection from externally verified records.
-
-## Social Media & Online Presence
-- No high-confidence public profile identified in prior social-media sweep.
+- Tom and Dee's former home on "the Arlington" in Berkeley now belongs to daughter [[Erin E. Copley Bird|Erin]] and her husband Bryan Bird.
+- Not to be confused with [[Thomas E. Copley]] (1892–1968), his uncle in the prior generation.
+- Co-author of the *Copley History Part 1* with his brother [[Stephen Michael Copley]].
 
 ## Sources
-1. `/home/ubuntu/Uploads/P1APPENDICES.pdf` (Appendix 1 biographical sketch: Thomas Copley).
-2. `/home/ubuntu/Uploads/COPLEY HISTORY PART 1 final 2.pdf` (generation and family structure references).
-3. [[Family Tree]] (internal branch mapping).
-4. [[References/copley_social_media_profiles|copley_social_media_profiles.md]] (social profile status).
+
+1. `~/Downloads/Part 1 Appendices .pdf` — Tom Copley biographical sketch (primary, first-person).
+2. `~/Downloads/COPLEY HISTORY PART 1 final 2.pdf` — family structure and generation context.
+3. [[Family Tree]] — internal branch mapping.

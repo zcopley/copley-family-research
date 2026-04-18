@@ -11,7 +11,14 @@ tags:
 📊 View [[Family Tree]] for visual context.
 
 ## Biographical Profile
-[[Thomas E. Copley]] was born in **1892** and died in **1968**. He was a son of [[John Copley]] and [[Mary Ellen Dolan Copley]]. Family records identify his spouse as **Drusilla** (surname not yet confirmed) and indicate that he and Drusilla had **no children**.
+[[Thomas E. Copley]] was born **February 19, 1892** and died **January 28, 1968**. He was a son of [[John Copley]] and [[Mary Ellen Dolan Copley]]. He spent his career with the **U.S. Internal Revenue Service**, rising to **Chief of the Collection Office, St. Louis District**. He lived in **St. Louis, Missouri** with his wife Drusilla. They had no children.
+
+- **Birth:** February 19, 1892
+- **Death:** January 28, 1968
+- **Occupation:** U.S. Internal Revenue Service — Chief of Collection Office, St. Louis District
+- **Residence:** St. Louis, Missouri
+- **Spouse:** Drusilla (surname not yet confirmed)
+- **Children:** none (no issue)
 
 ## Family Relationships
 - **Parents:** [[John Copley]], [[Mary Ellen Dolan Copley]]
@@ -28,5 +35,4 @@ tags:
 
 ## Sources
 1. [[Family Tree]] (internal branch mapping).
-2. `/home/ubuntu/Uploads/COPLEY HISTORY PART 1 final 2.pdf` (family chronology context).
-3. `/home/ubuntu/Uploads/P1APPENDICES.pdf` (lineage context).
+2. `~/Downloads/COPLEY HISTORY PART 1 final 2.pdf` — exact birth/death dates, IRS career, St. Louis residency.

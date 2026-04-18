@@ -13,6 +13,8 @@ tags:
   - "#sardo-branch"
 ---
 
+![Ellen "Nelle" Copley Sardo](../static/images/nelle-copley-sardo-portrait.jpg)
+
 # Ellen Bernadine Nelle Copley Sardo ("Nelle") (1897–1977)
 
 📊 View [[Family Tree]] for visual context.
@@ -20,7 +22,10 @@ tags:
 ## Biographical Profile
 [[Ellen Bernadine Nelle Copley Sardo|Ellen Bernadine "Nelle" Copley Sardo]] is a G24 daughter of [[John Copley]] and [[Mary Ellen Dolan Copley]], and an anchor for the Sardo/Arena/Ruland branch.
 
-- **Birth:** commonly reported as 23 Dec 1897 (some source conflict notes 1896 vs 1897)
+- **Birth:** December 23, 1897, Copley, West Virginia — per family biography written by her grandchildren (Cathy Barthelme, Jim Arena, Carmella Ruland, Sara Arena). Note: 1910 census age of 13 implies 1896; discrepancy (Q45) remains open.
+- **Named after:** Her mother Ellen Dolan, and her aunt [[Bridget Bitty Copley Gillooly|"Bitty" (Bernadine)]]
+- **Education:** DeSales Heights Academy (boarding school, Parkersburg WV); University of West Virginia (2 years); taught in a one-room schoolhouse; St. Joseph Hospital nursing school, Baltimore — RN 1926
+- **Career:** By age 35 (1932), Director of Nursing Education, St. Joseph Hospital, Baltimore; past president of the St. Joseph Nursing School Alumnae Association; director of volunteers (10 years); 1976: awarded 50-year service pin
 - **Death:** 11 Feb 1977
 - **Parents:** [[John Copley]], [[Mary Ellen Dolan Copley]]
 - **Career/occupation:** Registered nurse and nursing educator (reported in family narrative synthesis)

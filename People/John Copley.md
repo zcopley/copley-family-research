@@ -8,6 +8,8 @@ tags:
   - "#oil-history"
 ---
 
+![John Copley and Mary Ellen Dolan Copley](../static/images/john-and-mary-ellen-copley.jpg)
+
 # John Copley (1843–1925)
 
 📊 View [[Family Tree]] for visual context.
