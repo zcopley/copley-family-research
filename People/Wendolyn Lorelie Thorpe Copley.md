@@ -18,13 +18,15 @@ tags:
 
 ## Biographical Profile
 
-[[Wendolyn Lorelie Thorpe Copley]] ("Wendy") is the spouse of [[Zachary R. Copley]], a published author, and mother of Wyatt and August Copley.
+[[Wendolyn Lorelie Thorpe Copley]] ("Wendy") is the spouse of [[Zachary R. Copley]], a published author and bento lunch expert, and mother of Wyatt and August Copley.
 
 - **Full name:** Wendolyn Lorelie Thorpe Copley
 - **Birthplace:** Cedar Rapids, Iowa
 - **Marriage:** [[Zachary R. Copley]], September 2001, Las Vegas, Nevada
-- **Current location:** Cedar Rapids, Iowa
+- **Current location:** Cedar Rapids, Iowa (previously El Cerrito / Bay Area, CA)
 - **Occupation:** Author
+
+Wendy was introduced to the art of bento when her husband gave her a bento box for Christmas. Since then, she has packed thousands of bento boxes for her family and written extensively about these lunches. Her work has been featured in **Martha Stewart**, **The Washington Post**, **Huffington Post**, and dozens of other publications.
 
 ## Family of Origin
 
