@@ -7,6 +7,8 @@ tags:
   - "#stephen-line"
 ---
 
+![Stephen Joseph Copley, portrait](../static/images/stephen-joseph-copley-portrait.jpg)
+
 # Stephen Joseph Copley (1970–2023)
 
 📊 View [[Family Tree]] for visual context.

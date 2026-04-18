@@ -23,7 +23,7 @@ tags:
   - Born while his father was completing his doctoral studies at Penn State University (PhD awarded 1977)
 - **Parents:** [[Thomas Partlow Copley]] and Barbara Dee LaForce
 - **Marriage:** Wendolyn Lorelie Thorpe Copley ("Wendy"), September 2001, Las Vegas, Nevada
-- **Current location:** Cedar Rapids, Iowa (relocated from El Cerrito, California, August 2026)
+- **Current location:** Cedar Rapids, Iowa (relocated from El Cerrito, California)
 - **Work:** Unite Us (based in New York City)
 - **Children:** Wyatt Copley (b. 2004), August "Augie" Copley (b. 2008)
 

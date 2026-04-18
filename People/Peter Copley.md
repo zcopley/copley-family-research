@@ -48,11 +48,6 @@ tags:
 - **First spouse:** Zhenia (divorced ~1998)
 - **Second spouse:** Karen VanderMolen RN (married 2012)
 
-## Social Media & Online Presence
-
-- 💼 **LinkedIn:** [Peter Copley](https://www.linkedin.com/in/peter-copley-2a956729/) *(possible match — verify)*
-- 🐦 **Twitter/X:** [@petergcopley](https://twitter.com/petergcopley?lang=en) *(possible match — verify)*
-
 ## Sources
 
 1. `~/Downloads/Part 1 Appendices .pdf` — Peter Copley biographical sketch (primary, first-person).

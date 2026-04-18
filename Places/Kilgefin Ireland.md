@@ -16,6 +16,10 @@ tags:
 - **Current administration:** County Roscommon, Connacht, Republic of Ireland.
 - **Historical names/boundaries:** Kilgefin/Kilgeffan spellings appear in older ecclesiastical records.
 
+![Kilgefin Cemetery, map/aerial](../static/images/kilgefin-cemetery-map.jpg)
+![Kilgefin Cemetery, entrance](../static/images/kilgefin-cemetery-entrance.jpg)
+![Kilgefin Cemetery, aerial view](../static/images/kilgefin-cemetery-aerial.jpg)
+
 ## Historical Context (1800s-1900s)
 Kilgefin sat in a rural tenant-farming economy shaped by tithe pressure, insecure tenure, and heavy emigration. In this period, Roscommon families often left through chain migration before and after the Famine.
 

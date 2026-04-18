@@ -11,6 +11,8 @@ tags:
 
 This page provides a visual, multi-generation map of the Copley family line from the Irish immigrant ancestors through G28 descendants. The diagram is organized top-to-bottom by generation and uses branch color-coding to make lineage groups easier to follow.
 
+![Copley Family Tree Diagram](../static/images/copley-family-tree-diagram.jpg)
+
 > [!tip] Navigation
 > In Quartz and Obsidian, use this diagram as a visual reference alongside individual profile pages. Where clickable labels are enabled, you can click names to navigate to related person pages.
 

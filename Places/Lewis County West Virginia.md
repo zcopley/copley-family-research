@@ -10,6 +10,8 @@ tags:
 
 # Lewis County, West Virginia
 
+![White wooden church, West Virginia](../static/images/west-virginia-church.jpg)
+
 ## Geographic Information
 - 🗺️ **Google Maps:** [View on Google Maps](https://www.google.com/maps/search/?api=1&query=Lewis+County+West+Virginia)
 - **Approx. center coordinates:** 38.99, -80.45

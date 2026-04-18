@@ -11,6 +11,8 @@ tags:
   - "#stephen-line"
 ---
 
+![Amy E. Copley Geist, portrait](../static/images/amy-copley-geist-portrait.jpg)
+
 # Amy Elizabeth Copley Geist (b. July 11, 1990)
 
 📊 View [[Family Tree]] for visual context.

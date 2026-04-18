@@ -15,20 +15,21 @@ tags:
 - Not to be confused with [[Michael Copley Sr]] (1813–1897), the Irish immigrant patriarch.
 - Not to be confused with [[Michael Joseph Copley]] (1898–1988), USDA chemist and director.
 
-## Biographical Snapshot
-[[Michael Copley (b. 1959)]] is listed in family materials as a G26 descendant in the [[Stephen Michael Copley]] line.
+## Biographical Profile
+[[Michael Copley (b. 1959)]] is the oldest son of [[Stephen Michael Copley]] and his first wife [[Marcia Thornton Copley]].
 
-## Family Context
-- Father: [[Stephen Michael Copley]]
-- Mother: Marcia Thornton (first-marriage branch context in the family tree)
-- Spouse: Patti Inman
-- Siblings (selected): [[Sara Copley Cox]], [[Philip Copley]], [[Paul Copley]], [[Peter Copley]], [[Susan Copley]], [[Stephen Joseph Copley]], [[Amy E. Copley Geist]]
+- **Birth:** 1959
+- **Parents:** [[Stephen Michael Copley]] and [[Marcia Thornton Copley]]
+- **Spouse:** Patti Inman (married Oct 1984)
+- **Children (G27):**
+  - Michael Stephen Copley (b. 1986)
+  - Sara Marie Copley (b. 1988)
 
-## Research Notes
-- Current public-profile matching is low confidence; no verified social profile has been attached.
-- Keep living-person details high-level unless primary, consent-appropriate sources are added.
+## Family Relationships
+- **Parents:** [[Stephen Michael Copley]], [[Marcia Thornton Copley]]
+- **Siblings:** [[Sara Copley Cox]], [[Philip Copley]], [[Paul Copley]], [[Peter Copley]], [[Susan Copley]], [[Stephen Joseph Copley]]
+- **Half-sibling:** [[Amy E. Copley Geist]]
 
 ## Sources
 1. [[Family Tree]] (node label: Michael Copley, b. 1959, spouse Patti Inman).
-2. [[References/copley_social_media_profiles|copley_social_media_profiles.md]] (G26 profile search notes).
-3. `/home/ubuntu/Uploads/P1APPENDICES.pdf` (lineage context).
+2. `~/Downloads/Part 1 Appendices .pdf` — Stephen Copley biographical sketch and lineage context.

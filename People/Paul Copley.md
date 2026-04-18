@@ -7,6 +7,8 @@ tags:
   - "#stephen-line"
 ---
 
+![Paul Copley's house, Fresno](../static/images/paul-copley-house-fresno.jpg)
+
 # Paul Copley (b. 1964)
 
 📊 View [[Family Tree]] for visual context.
@@ -17,12 +19,17 @@ tags:
 
 - **Birth:** 1964, Berkeley, California
 - **Parents:** [[Stephen Michael Copley]] and [[Marcia Thornton Copley]]
+- **Spouse:** Anne Marie Leonhardt (married July 1989)
+- **Children (G27):**
+  - James Stephen Copley (b. 1991)
+  - John William Copley (b. 1994)
+  - Georgia Marie Copley Leonhardt (b. 1996)
 - **Current location:** Fresno, California (moved 2012; owns a fixer-upper house)
 - **Occupation:** Works for Social Vocational Services (SVS)
 - **Education:** University of Southern California (USC) — BS, Exercise Science
 
 ## Career
-
+...
 - Various early jobs including coach/counselor for incorrigible youths, care provider for developmentally disabled adults
 - Teacher, Phineas Banning High School, Wilmington, CA (Los Angeles Unified School District)
 - Pre-press image specialist, Office Depot

@@ -1,15 +1,31 @@
 ---
-title: "Philip Copley"
-tags: [copley-family, people, stub]
+title: Philip Copley
+date: 2026-04-13
+tags:
+  - "#copley-family"
+  - "#generation-G26"
+  - "#stephen-branch"
 ---
 
-# Philip Copley
+# Philip Copley (b. 1962)
 
-> Stub person profile created to prevent broken links.
+📊 View [[Family Tree]] for visual context.
 
-## Known Information
-- Name: Philip Copley
-- Status: Placeholder page pending research verification.
+## Biographical Profile
+[[Philip Copley]] is the second son of [[Stephen Michael Copley]] and his first wife [[Marcia Thornton Copley]].
 
-## Research Notes
-- Add sourced biographical details, dates, relationships, and citations.
+- **Birth:** 1962
+- **Parents:** [[Stephen Michael Copley]] and [[Marcia Thornton Copley]]
+- **Spouse:** Tracy Siler (married Jan 1989)
+- **Children (G27):**
+  - Philip Michael Copley (b. 1990)
+  - John William Copley (b. 1992)
+
+## Family Relationships
+- **Parents:** [[Stephen Michael Copley]], [[Marcia Thornton Copley]]
+- **Siblings:** [[Michael Copley (b. 1959)]], [[Sara Copley Cox]], [[Paul Copley]], [[Peter Copley]], [[Susan Copley]], [[Stephen Joseph Copley]]
+- **Half-sibling:** [[Amy E. Copley Geist]]
+
+## Sources
+1. [[Family Tree]] (node label: Philip Copley, b. 1962, spouse Tracy Siler).
+2. `~/Downloads/Part 1 Appendices .pdf` — Stephen Copley biographical sketch and lineage context.

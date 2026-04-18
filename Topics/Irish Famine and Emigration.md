@@ -23,6 +23,9 @@ For this project, famine-era context matters because it explains:
 - Family origin anchors tied to pre-/famine-era Ireland:
   - [[Michael Copley Sr]] (Kilgefin, Roscommon tradition)
   - [[Ann Copley]] (Kinawley/Fermanagh tradition)
+
+![Ship Powhatan Passenger List, August 20, 1838. Lists Michael Copely (22) and Pat Copely (20).](../static/images/ship-powhatan-passenger-list-1838.jpg)
+
 - Place links:
   - [[Places/County Roscommon Ireland|County Roscommon, Ireland]]
   - [[Places/Kilgefin Ireland|Kilgefin, Ireland]]

@@ -2,7 +2,6 @@
 title: William S. Geist
 aliases:
   - William Stephen Geist
-  - Willie Geist
 date: 2026-04-17
 tags:
   - "#copley-family"

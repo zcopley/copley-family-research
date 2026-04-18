@@ -10,6 +10,8 @@ tags:
 
 # Ann Copley (1823–1909)
 
+![Older woman B&W portrait, possibly Ann Copley](../static/images/ann-copley-portrait.jpg)
+
 📊 View [[Family Tree]] for visual context.
 
 ## Biographical Profile

@@ -14,10 +14,15 @@ tags:
 ## Historical Context
 The **Copley No. 1 well** (South Penn Oil) was drilled on Copley-associated land in [[Places/Lewis County West Virginia|Lewis County, West Virginia]] and reportedly came in during September 1900 at roughly **4,800 barrels/day**. Within Appalachian petroleum history, this is treated as a major local strike and a turning point in the county’s oil economy.
 
+![Copley No. 1 Oil Well, vintage derrick.](../static/images/copley-no-1-oil-well-derrick.jpg)
+![Copley No. 1 Well historical marker, West Virginia.](../static/images/copley-no-1-historical-marker.jpg)
+
 Broader forces shaping the event:
 - Rapid late-19th/early-20th century expansion of Appalachian oil leasing and drilling.
 - Increasing value of private mineral rights in agrarian counties.
 - Transition from household farming economies to royalty-linked cash flow.
+
+![Copley farm/settlement in 1928, showing the oil derrick and several buildings.](../static/images/copley-settlement-1928.jpg)
 
 ## Copley Family Connection
 - Core family figures tied to the event context:

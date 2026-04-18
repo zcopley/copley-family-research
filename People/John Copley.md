@@ -9,6 +9,8 @@ tags:
 ---
 
 ![John Copley and Mary Ellen Dolan Copley](../static/images/john-and-mary-ellen-copley.jpg)
+![John Copley's children, Victorian era](../static/images/john-copley-children-victorian.jpg)
+![Victorian woman, Copley family](../static/images/copley-ancestor-woman-victorian.jpg)
 
 # John Copley (1843–1925)
 

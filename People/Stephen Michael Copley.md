@@ -14,6 +14,7 @@ tags:
 ---
 
 ![Stephen Michael Copley with Judy and Amy, Hinsdale 1990](../static/images/stephen-judy-amy-copley-1990.jpg)
+![Stephen Michael Copley, portrait](../static/images/stephen-michael-copley-portrait.jpg)
 
 # Stephen Michael Copley (b. April 29, 1936)
 

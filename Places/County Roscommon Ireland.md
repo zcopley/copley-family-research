@@ -10,6 +10,8 @@ tags:
 
 # County Roscommon, Ireland
 
+![Ireland Counties and Provinces map](../static/images/ireland-counties-map.jpg)
+
 ## Geographic Information
 - 🗺️ **Google Maps:** [View on Google Maps](https://www.google.com/maps/search/?api=1&query=County+Roscommon+Ireland)
 - **Approx. center coordinates:** 53.76, -8.27
