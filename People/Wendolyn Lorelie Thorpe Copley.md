@@ -58,6 +58,10 @@ Wendy is a published author specializing in bento box lunches for children, with
    - **Kindle edition** (August 3, 2021), 125 pages — ASIN: B091B6MTYJ — [View on Amazon](https://www.amazon.com/dp/B091B6MTYJ)
    - **Paperback** (May 27, 2025), 120 pages, 7.5 × 9 in — ISBN-10: 0804858780 — ISBN-13: 978-0804858786 — [View on Amazon](https://www.amazon.com/dp/0804858780)
 
+## Online Presence
+
+- 🌐 **Blog:** [Wendolonia](https://www.wendolonia.com) *(currently under maintenance)*
+
 ## Research Gaps
 
 1. Full birth date.
