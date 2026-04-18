@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "en-US",
-    baseUrl: "https://zcopley.github.io/copley-family-research",
+    baseUrl: "zcopley.github.io/copley-family-research",
     ignorePatterns: [
       "private",
       "templates",
