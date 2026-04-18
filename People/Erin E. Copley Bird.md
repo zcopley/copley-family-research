@@ -21,16 +21,13 @@ tags:
 - **Spouse:** Bryan Bird
 - **Current location:** Berkeley, California
 - **Children:** [[Evelyn Bird]], [[Samuel Bird]]
+- **Home:** Tom and Dee Copley's former family home "on the Arlington" in Berkeley, now owned by Erin and Bryan.
 
 ## Family Relationships
 
 - **Parents:** [[Thomas Partlow Copley]], Barbara Dee LaForce
 - **Siblings:** [[Zachary R. Copley]], [[Charles H. Copley]]
 - **Children (G27):** [[Evelyn Bird]], [[Samuel Bird]]
-
-## Social Media & Online Presence
-- 🌐 **Public Record:** Mendocino, CA listing for Erin E. Copley Bird *(prior record; current location confirmed Berkeley, CA)*
-- 💼 **LinkedIn:** [Erin Bird, P.Eng](https://www.linkedin.com/in/erin-bird-p-eng-0644751a/) *(not a match — Calgary-based engineer)*
 
 ## Research Gaps
 1. Birth city.

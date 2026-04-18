@@ -101,12 +101,12 @@ Full-text searchable index of everyone and everything in this vault. Use Ctrl+K 
 
 | Name | Born | Died | Also Known As |
 |------|------|------|---------------|
-| [[People/Michael Copley (b. 1959)\|Michael Copley (b. 1959)]] | 1959 | — | Mike Copley; married Patti Inman |
+| [[People/Michael Copley (b. 1959)\|Michael Copley (b. 1959)]] | 1959 | — | Mike Copley; married Patti Inman Oct 1984; children Michael Stephen b.1986, Sara Marie b.1988 |
 | [[People/Sara Copley Cox\|Sara Copley Cox]] | Feb 3, 1961, Alta Bates Hospital, Berkeley CA | — | Sara Marie Cox; Verizon 1989–2018; SVS itinerant; Granite Bay CA |
-| [[People/Philip Copley\|Philip Copley]] | 1962 | — | — |
-| [[People/Paul Copley\|Paul Copley]] | 1964, Berkeley CA | — | USC BS Exercise Science; SVS Fresno CA |
+| [[People/Philip Copley\|Philip Copley]] | 1962 | — | married Tracy Siler Jan 1989; children Philip Michael b.1990, John William b.1992 |
+| [[People/Paul Copley\|Paul Copley]] | 1964, Berkeley CA | — | USC BS Exercise Science; married Anne Marie Leonhardt Jul 1989; children James Stephen b.1991, John William b.1994, Georgia Marie b.1996; SVS Fresno CA |
 | [[People/Peter Copley\|Peter Copley]] | Jan 12, 1966, New Haven CT | — | Peter G. Copley; married Karen VanderMolen RN 2012; Fillmore CA; musician |
-| [[People/Susan Copley\|Susan Copley]] | 1967, Madison CT | — | married A. Leonhardt |
+| [[People/Susan Copley\|Susan Copley]] | 1967 | — | b. likely CT (family in Madison/New Haven area); details unconfirmed |
 | [[People/Stephen Joseph Copley\|Stephen Joseph Copley]] | May 1, 1970, Yale-New Haven Hospital | Jun 10, 2023 | Stephen J. Copley; autistic/developmentally disabled; ward of CA; buried San Juan Bautista CA |
 
 ### G26 — Stephen Copley's Child (with Judy Todd)
@@ -121,7 +121,7 @@ Full-text searchable index of everyone and everything in this vault. Use Ctrl+K 
 |------|------|---------------|
 | [[People/Zachary R. Copley\|Zachary R. Copley]] | May 22, 1969, Bellefonte PA | Zach Copley; Zachary Robertson Copley; Unite Us; Cedar Rapids IA |
 | [[People/Wendolyn Lorelie Thorpe Copley\|Wendolyn Lorelie Thorpe Copley]] | Sep 14, 1972, Cedar Rapids IA | Wendy Copley; Wendy Thorpe; bento author; Tuttle Publishing |
-| [[People/Erin E. Copley Bird\|Erin E. Copley Bird]] | Apr 1973 | Erin Elizabeth Copley Bird; Erin Bird; Berkeley CA |
+| [[People/Erin E. Copley Bird\|Erin E. Copley Bird]] | Apr 1973 | Erin Elizabeth Copley Bird; Erin Bird; Berkeley CA; owns Tom Copley's former Arlington home |
 | [[People/Charles H. Copley\|Charles H. Copley]] | Oct 1985, Dayton OH | Charlie Copley; Charles Hewetson Copley; Napa CA |
 
 ### G27 — Grandchildren
@@ -131,7 +131,7 @@ Full-text searchable index of everyone and everything in this vault. Use Ctrl+K 
 | [[People/Lauren Copley Meier\|Lauren Copley Meier]] | — | Lauren Meier; married Lane Meier |
 | [[People/Stephen Copley\|Stephen Copley]] (G27, son of Michael b.1959) | — | — |
 | [[People/Robert Cox\|Robert Cox]] | Oct 3, 1988, Sacramento CA | Bobby Cox; Robert Anthony Cox; landscaping; Granite Bay CA |
-| [[People/Georgia Leonhardt\|Georgia Leonhardt]] | — | daughter of Susan Copley |
+| [[People/Georgia Leonhardt\|Georgia Leonhardt]] | 1996 | Georgia Marie Copley Leonhardt; daughter of Paul Copley & Anne Marie Leonhardt |
 | [[People/William S. Geist\|William S. Geist]] | Dec 9, 2023 | William Stephen Geist; son of Amy Geist & Nathan Geist; Upper Marlboro MD |
 | Wyatt Copley | 2004 | son of Zach & Wendy Copley; Cedar Rapids IA |
 | August "Augie" Copley | 2008 | son of Zach & Wendy Copley; Cedar Rapids IA |
