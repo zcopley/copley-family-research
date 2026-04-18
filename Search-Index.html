@@ -1,0 +1,1120 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr"><head><title>Search Index</title><meta charset="utf-8"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Schibsted Grotesk:wght@400;700&amp;family=Source Sans Pro:ital,wght@0,400;0,600;1,400;1,600&amp;family=IBM Plex Mono:wght@400;600&amp;display=swap"/><link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin="anonymous"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="og:site_name" content="Copley Family Research Vault"/><meta property="og:title" content="Search Index"/><meta property="og:type" content="website"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="Search Index"/><meta name="twitter:description" content="Comprehensive searchable index of all people, places, topics, and dates in the Copley Family Research Vault."/><meta property="og:description" content="Comprehensive searchable index of all people, places, topics, and dates in the Copley Family Research Vault."/><meta property="og:image:alt" content="Comprehensive searchable index of all people, places, topics, and dates in the Copley Family Research Vault."/><meta property="og:image" content="https://zcopley.github.io/copley-family-research/static/og-image.png"/><meta property="og:image:url" content="https://zcopley.github.io/copley-family-research/static/og-image.png"/><meta name="twitter:image" content="https://zcopley.github.io/copley-family-research/static/og-image.png"/><meta property="og:image:type" content="image/.png"/><meta property="twitter:domain" content="zcopley.github.io/copley-family-research"/><meta property="og:url" content="https://zcopley.github.io/copley-family-research/Search-Index"/><meta property="twitter:url" content="https://zcopley.github.io/copley-family-research/Search-Index"/><link rel="icon" href="./static/icon.png"/><meta name="description" content="Comprehensive searchable index of all people, places, topics, and dates in the Copley Family Research Vault."/><meta name="generator" content="Quartz"/><link href="./index.css" rel="stylesheet" type="text/css" data-persist="true"/><style>.expand-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  right: 0;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.expand-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.expand-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.expand-button:focus {
+  outline: 0;
+}
+
+pre:hover > .expand-button {
+  opacity: 1;
+  transition: 0.2s;
+}
+
+#mermaid-container {
+  position: fixed;
+  contain: layout;
+  z-index: 999;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: none;
+  backdrop-filter: blur(4px);
+  background: rgba(0, 0, 0, 0.5);
+}
+#mermaid-container.active {
+  display: inline-block;
+}
+#mermaid-container > #mermaid-space {
+  border: 1px solid var(--lightgray);
+  background-color: var(--light);
+  border-radius: 5px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 80vh;
+  width: 80vw;
+  overflow: hidden;
+}
+#mermaid-container > #mermaid-space > .mermaid-content {
+  position: relative;
+  transform-origin: 0 0;
+  transition: transform 0.1s ease;
+  overflow: visible;
+  min-height: 200px;
+  min-width: 200px;
+}
+#mermaid-container > #mermaid-space > .mermaid-content pre {
+  margin: 0;
+  border: none;
+}
+#mermaid-container > #mermaid-space > .mermaid-content svg {
+  max-width: none;
+  height: auto;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  gap: 8px;
+  padding: 8px;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 2;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  color: var(--dark);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: var(--bodyFont);
+  transition: all 0.2s ease;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:hover {
+  background: var(--lightgray);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:active {
+  transform: translateY(1px);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:nth-child(2) {
+  width: auto;
+  padding: 0 12px;
+  font-size: 14px;
+}
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VSb290IjoiL2hvbWUvcnVubmVyL3dvcmsvY29wbGV5LWZhbWlseS1yZXNlYXJjaC9jb3BsZXktZmFtaWx5LXJlc2VhcmNoL3F1YXJ0ei9jb21wb25lbnRzL3N0eWxlcyIsInNvdXJjZXMiOlsibWVybWFpZC5pbmxpbmUuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTs7QUFHRjtFQUNFO0VBQ0E7O0FBR0Y7RUFDRTs7O0FBS0Y7RUFDRTtFQUNBOzs7QUFJSjtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7O0FBRUE7RUFDRTs7QUFHRjtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTs7QUFHRjtFQUNFO0VBQ0E7O0FBSUo7RUFDRTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTs7QUFFQTtFQUNFOztBQUdGO0VBQ0U7O0FBSUY7RUFDRTtFQUNBO0VBQ0EiLCJzb3VyY2VzQ29udGVudCI6WyIuZXhwYW5kLWJ1dHRvbiB7XG4gIHBvc2l0aW9uOiBhYnNvbHV0ZTtcbiAgZGlzcGxheTogZmxleDtcbiAgZmxvYXQ6IHJpZ2h0O1xuICBwYWRkaW5nOiAwLjRyZW07XG4gIG1hcmdpbjogMC4zcmVtO1xuICByaWdodDogMDsgLy8gTk9URTogcmlnaHQgd2lsbCBiZSBzZXQgaW4gbWVybWFpZC5pbmxpbmUudHNcbiAgY29sb3I6IHZhcigtLWdyYXkpO1xuICBib3JkZXItY29sb3I6IHZhcigtLWRhcmspO1xuICBiYWNrZ3JvdW5kLWNvbG9yOiB2YXIoLS1saWdodCk7XG4gIGJvcmRlcjogMXB4IHNvbGlkO1xuICBib3JkZXItcmFkaXVzOiA1cHg7XG4gIG9wYWNpdHk6IDA7XG4gIHRyYW5zaXRpb246IDAuMnM7XG5cbiAgJiA+IHN2ZyB7XG4gICAgZmlsbDogdmFyKC0tbGlnaHQpO1xuICAgIGZpbHRlcjogY29udHJhc3QoMC4zKTtcbiAgfVxuXG4gICY6aG92ZXIge1xuICAgIGN1cnNvcjogcG9pbnRlcjtcbiAgICBib3JkZXItY29sb3I6IHZhcigtLXNlY29uZGFyeSk7XG4gIH1cblxuICAmOmZvY3VzIHtcbiAgICBvdXRsaW5lOiAwO1xuICB9XG59XG5cbnByZSB7XG4gICY6aG92ZXIgPiAuZXhwYW5kLWJ1dHRvbiB7XG4gICAgb3BhY2l0eTogMTtcbiAgICB0cmFuc2l0aW9uOiAwLjJzO1xuICB9XG59XG5cbiNtZXJtYWlkLWNvbnRhaW5lciB7XG4gIHBvc2l0aW9uOiBmaXhlZDtcbiAgY29udGFpbjogbGF5b3V0O1xuICB6LWluZGV4OiA5OTk7XG4gIGxlZnQ6IDA7XG4gIHRvcDogMDtcbiAgd2lkdGg6IDEwMHZ3O1xuICBoZWlnaHQ6IDEwMHZoO1xuICBvdmVyZmxvdzogaGlkZGVuO1xuICBkaXNwbGF5OiBub25lO1xuICBiYWNrZHJvcC1maWx0ZXI6IGJsdXIoNHB4KTtcbiAgYmFja2dyb3VuZDogcmdiYSgwLCAwLCAwLCAwLjUpO1xuXG4gICYuYWN0aXZlIHtcbiAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7XG4gIH1cblxuICAmID4gI21lcm1haWQtc3BhY2Uge1xuICAgIGJvcmRlcjogMXB4IHNvbGlkIHZhcigtLWxpZ2h0Z3JheSk7XG4gICAgYmFja2dyb3VuZC1jb2xvcjogdmFyKC0tbGlnaHQpO1xuICAgIGJvcmRlci1yYWRpdXM6IDVweDtcbiAgICBwb3NpdGlvbjogZml4ZWQ7XG4gICAgdG9wOiA1MCU7XG4gICAgbGVmdDogNTAlO1xuICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlKC01MCUsIC01MCUpO1xuICAgIGhlaWdodDogODB2aDtcbiAgICB3aWR0aDogODB2dztcbiAgICBvdmVyZmxvdzogaGlkZGVuO1xuXG4gICAgJiA+IC5tZXJtYWlkLWNvbnRlbnQge1xuICAgICAgcG9zaXRpb246IHJlbGF0aXZlO1xuICAgICAgdHJhbnNmb3JtLW9yaWdpbjogMCAwO1xuICAgICAgdHJhbnNpdGlvbjogdHJhbnNmb3JtIDAuMXMgZWFzZTtcbiAgICAgIG92ZXJmbG93OiB2aXNpYmxlO1xuICAgICAgbWluLWhlaWdodDogMjAwcHg7XG4gICAgICBtaW4td2lkdGg6IDIwMHB4O1xuXG4gICAgICBwcmUge1xuICAgICAgICBtYXJnaW46IDA7XG4gICAgICAgIGJvcmRlcjogbm9uZTtcbiAgICAgIH1cblxuICAgICAgc3ZnIHtcbiAgICAgICAgbWF4LXdpZHRoOiBub25lO1xuICAgICAgICBoZWlnaHQ6IGF1dG87XG4gICAgICB9XG4gICAgfVxuXG4gICAgJiA+IC5tZXJtYWlkLWNvbnRyb2xzIHtcbiAgICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTtcbiAgICAgIGJvdHRvbTogMjBweDtcbiAgICAgIHJpZ2h0OiAyMHB4O1xuICAgICAgZGlzcGxheTogZmxleDtcbiAgICAgIGdhcDogOHB4O1xuICAgICAgcGFkZGluZzogOHB4O1xuICAgICAgYmFja2dyb3VuZDogdmFyKC0tbGlnaHQpO1xuICAgICAgYm9yZGVyOiAxcHggc29saWQgdmFyKC0tbGlnaHRncmF5KTtcbiAgICAgIGJvcmRlci1yYWRpdXM6IDZweDtcbiAgICAgIGJveC1zaGFkb3c6IDAgMnB4IDRweCByZ2JhKDAsIDAsIDAsIDAuMSk7XG4gICAgICB6LWluZGV4OiAyO1xuXG4gICAgICAubWVybWFpZC1jb250cm9sLWJ1dHRvbiB7XG4gICAgICAgIGRpc3BsYXk6IGZsZXg7XG4gICAgICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7XG4gICAgICAgIGp1c3RpZnktY29udGVudDogY2VudGVyO1xuICAgICAgICB3aWR0aDogMzJweDtcbiAgICAgICAgaGVpZ2h0OiAzMnB4O1xuICAgICAgICBwYWRkaW5nOiAwO1xuICAgICAgICBib3JkZXI6IDFweCBzb2xpZCB2YXIoLS1saWdodGdyYXkpO1xuICAgICAgICBiYWNrZ3JvdW5kOiB2YXIoLS1saWdodCk7XG4gICAgICAgIGNvbG9yOiB2YXIoLS1kYXJrKTtcbiAgICAgICAgYm9yZGVyLXJhZGl1czogNHB4O1xuICAgICAgICBjdXJzb3I6IHBvaW50ZXI7XG4gICAgICAgIGZvbnQtc2l6ZTogMTZweDtcbiAgICAgICAgZm9udC1mYW1pbHk6IHZhcigtLWJvZHlGb250KTtcbiAgICAgICAgdHJhbnNpdGlvbjogYWxsIDAuMnMgZWFzZTtcblxuICAgICAgICAmOmhvdmVyIHtcbiAgICAgICAgICBiYWNrZ3JvdW5kOiB2YXIoLS1saWdodGdyYXkpO1xuICAgICAgICB9XG5cbiAgICAgICAgJjphY3RpdmUge1xuICAgICAgICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlWSgxcHgpO1xuICAgICAgICB9XG5cbiAgICAgICAgLy8gU3R5bGUgdGhlIHJlc2V0IGJ1dHRvbiBkaWZmZXJlbnRseVxuICAgICAgICAmOm50aC1jaGlsZCgyKSB7XG4gICAgICAgICAgd2lkdGg6IGF1dG87XG4gICAgICAgICAgcGFkZGluZzogMCAxMnB4O1xuICAgICAgICAgIGZvbnQtc2l6ZTogMTRweDtcbiAgICAgICAgfVxuICAgICAgfVxuICAgIH1cbiAgfVxufVxuIl19 */</style><link href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" rel="stylesheet" type="text/css" data-persist="true"/><script src="./prescript.js" type="application/javascript" data-persist="true"></script><script type="application/javascript" data-persist="true">const fetchData = fetch("./static/contentIndex.json").then(data => data.json())</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://zcopley.github.io/copley-family-research/index.xml"/></head><body data-slug="Search-Index"><div id="quartz-root" class="page"><div id="quartz-body"><div class="left sidebar"><h2 class="page-title"><a href=".">Copley Family Research Vault</a></h2><div class="spacer mobile-only"></div><div class="flex-component" style="flex-direction: row; flex-wrap: nowrap; gap: 1rem;"><div style="flex-grow: 1; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><div class="search"><button class="search-button"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title>Search</title><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg><p>Search</p></button><div class="search-container"><div class="search-space"><input autocomplete="off" class="search-bar" name="search" type="text" aria-label="Search for something" placeholder="Search for something"/><div class="search-layout" data-preview="true"></div></div></div></div></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="darkmode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve" aria-label="Dark mode"><title>Dark mode</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve" aria-label="Light mode"><title>Light mode</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></button></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="readermode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="readerIcon" fill="currentColor" stroke="currentColor" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round" width="64px" height="64px" viewBox="0 0 24 24" aria-label="Reader mode"><title>Reader mode</title><g transform="translate(-1.8, -1.8) scale(1.15, 1.2)"><path d="M8.9891247,2.5 C10.1384702,2.5 11.2209868,2.96705384 12.0049645,3.76669482 C12.7883914,2.96705384 13.8709081,2.5 15.0202536,2.5 L18.7549359,2.5 C19.1691495,2.5 19.5049359,2.83578644 19.5049359,3.25 L19.5046891,4.004 L21.2546891,4.00457396 C21.6343849,4.00457396 21.9481801,4.28672784 21.9978425,4.6528034 L22.0046891,4.75457396 L22.0046891,20.25 C22.0046891,20.6296958 21.7225353,20.943491 21.3564597,20.9931534 L21.2546891,21 L2.75468914,21 C2.37499337,21 2.06119817,20.7178461 2.01153575,20.3517706 L2.00468914,20.25 L2.00468914,4.75457396 C2.00468914,4.37487819 2.28684302,4.061083 2.65291858,4.01142057 L2.75468914,4.00457396 L4.50368914,4.004 L4.50444233,3.25 C4.50444233,2.87030423 4.78659621,2.55650904 5.15267177,2.50684662 L5.25444233,2.5 L8.9891247,2.5 Z M4.50368914,5.504 L3.50468914,5.504 L3.50468914,19.5 L10.9478955,19.4998273 C10.4513189,18.9207296 9.73864328,18.5588115 8.96709342,18.5065584 L8.77307039,18.5 L5.25444233,18.5 C4.87474657,18.5 4.56095137,18.2178461 4.51128895,17.8517706 L4.50444233,17.75 L4.50368914,5.504 Z M19.5049359,17.75 C19.5049359,18.1642136 19.1691495,18.5 18.7549359,18.5 L15.2363079,18.5 C14.3910149,18.5 13.5994408,18.8724714 13.0614828,19.4998273 L20.5046891,19.5 L20.5046891,5.504 L19.5046891,5.504 L19.5049359,17.75 Z M18.0059359,3.999 L15.0202536,4 L14.8259077,4.00692283 C13.9889509,4.06666544 13.2254227,4.50975805 12.7549359,5.212 L12.7549359,17.777 L12.7782651,17.7601316 C13.4923805,17.2719483 14.3447024,17 15.2363079,17 L18.0059359,16.999 L18.0056891,4.798 L18.0033792,4.75457396 L18.0056891,4.71 L18.0059359,3.999 Z M8.9891247,4 L6.00368914,3.999 L6.00599909,4.75457396 L6.00599909,4.75457396 L6.00368914,4.783 L6.00368914,16.999 L8.77307039,17 C9.57551536,17 10.3461406,17.2202781 11.0128313,17.6202194 L11.2536891,17.776 L11.2536891,5.211 C10.8200889,4.56369974 10.1361548,4.13636104 9.37521067,4.02745763 L9.18347055,4.00692283 L8.9891247,4 Z"></path></g></svg></button></div></div><div class="explorer" data-behavior="link" data-collapsed="collapsed" data-savestate="true" data-data-fns="{&quot;order&quot;:[&quot;filter&quot;,&quot;map&quot;,&quot;sort&quot;],&quot;sortFn&quot;:&quot;(a,b)=>!a.isFolder&amp;&amp;!b.isFolder||a.isFolder&amp;&amp;b.isFolder?a.displayName.localeCompare(b.displayName,void 0,{numeric:!0,sensitivity:\&quot;base\&quot;}):!a.isFolder&amp;&amp;b.isFolder?1:-1&quot;,&quot;filterFn&quot;:&quot;node=>node.slugSegment!==\&quot;tags\&quot;&quot;,&quot;mapFn&quot;:&quot;node=>node&quot;}"><button type="button" class="explorer-toggle mobile-explorer hide-until-loaded" data-mobile="true" aria-controls="explorer-174"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-menu"><line x1="4" x2="20" y1="12" y2="12"></line><line x1="4" x2="20" y1="6" y2="6"></line><line x1="4" x2="20" y1="18" y2="18"></line></svg></button><button type="button" class="title-button explorer-toggle desktop-explorer" data-mobile="false" aria-expanded="true"><h2>Explorer</h2><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="explorer-174" class="explorer-content" aria-expanded="false" role="group"><ul class="explorer-ul overflow" id="list-0"><li class="overflow-end"></li></ul></div><template id="template-file"><li><a href="#"></a></li></template><template id="template-folder"><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div><button class="folder-button"><span class="folder-title"></span></button></div></div><div class="folder-outer"><ul class="content"></ul></div></li></template></div></div><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container" aria-label="breadcrumbs"><div class="breadcrumb-element"><a href="./">Home</a><p> ❯ </p></div><div class="breadcrumb-element"><a href>Search Index</a></div></nav><h1 class="article-title">Search Index</h1><p show-comma="true" class="content-meta"><time datetime="2026-04-18T00:00:00.000Z">Apr 18, 2026</time><span>10 min read</span></p><ul class="tags"><li><a href="./tags/" class="internal tag-link">index</a></li><li><a href="./tags/copley-family" class="internal tag-link">copley-family</a></li><li><a href="./tags/genealogy" class="internal tag-link">genealogy</a></li></ul></div></div><article class="popover-hint"><h1 id="search-index">Search Index<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#search-index" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>Full-text searchable index of everyone and everything in this vault. Use Ctrl+K (or Cmd+K) to search by name, date, location, or keyword.</p>
+<hr/>
+<h2 id="people">People<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#people" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h3 id="g23--immigrant-generation-ireland--west-virginia">G23 — Immigrant Generation (Ireland → West Virginia)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#g23--immigrant-generation-ireland--west-virginia" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>Name</th><th>Born</th><th>Died</th><th>Also Known As</th></tr></thead><tbody><tr><td><a href="./People/Michael-Copley-Sr" class="internal alias" data-slug="People/Michael-Copley-Sr">Michael Copley Sr.</a></td><td>Sep 29, 1813, Kilgefin, Co. Roscommon, Ireland</td><td>Jan 19, 1897, Lewis Co. WV</td><td>Michael Copley (immigrant)</td></tr><tr><td><a href="./People/Ann-Elizabeth-Munday-Copley" class="internal alias" data-slug="People/Ann-Elizabeth-Munday-Copley">Ann Elizabeth Munday Copley</a></td><td>1823, Kinawley, Ireland</td><td>Nov 2, 1909</td><td>Ann Munday</td></tr><tr><td><a href="./People/Patrick-Copley" class="internal alias" data-slug="People/Patrick-Copley">Patrick Copley</a></td><td>c.1810s, Ireland</td><td>unknown</td><td>—</td></tr><tr><td><a href="./People/William-Copley" class="internal alias" data-slug="People/William-Copley">William Copley</a></td><td>c.1820s, Ireland</td><td>unknown</td><td>possibly emigrated to Australia</td></tr><tr><td><a href="./People/Bridget-Copley-Reynolds" class="internal alias" data-slug="People/Bridget-Copley-Reynolds">Bridget Copley Reynolds</a></td><td>unknown</td><td>unknown</td><td>Bridget Reynolds</td></tr><tr><td><a href="./People/Catherine-Kitty-Copley-Hannon" class="internal alias" data-slug="People/Catherine-Kitty-Copley-Hannon">Catherine “Kitty” Copley Hannon</a></td><td>c.1848</td><td>1878</td><td>Kitty, Kitty Hannon</td></tr></tbody></table></div>
+<h3 id="g23g24--lewis-county-core-line-john-copleys-siblings">G23/G24 — Lewis County Core Line (John Copley’s Siblings)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#g23g24--lewis-county-core-line-john-copleys-siblings" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>Name</th><th>Born</th><th>Died</th><th>Also Known As</th></tr></thead><tbody><tr><td><a href="./People/John-Copley" class="internal alias" data-slug="People/John-Copley">John Copley</a></td><td>Nov 3, 1843, Lewis County, WV</td><td>Sep 6, 1925</td><td>—</td></tr><tr><td><a href="./People/Mary-Ellen-Dolan-Copley" class="internal alias" data-slug="People/Mary-Ellen-Dolan-Copley">Mary Ellen Dolan Copley</a></td><td>Nov 28, 1855, Moundsville, WV</td><td>Dec 5, 1901</td><td>Mary Dolan, Mary Ellen Dolan</td></tr><tr><td><a href="./People/Mary-Copley-Quinn" class="internal alias" data-slug="People/Mary-Copley-Quinn">Mary Copley Quinn</a></td><td>c.1839</td><td>unknown</td><td>Mary Quinn</td></tr><tr><td><a href="./People/Bridget-Bitty-Copley-Gillooly" class="internal alias" data-slug="People/Bridget-Bitty-Copley-Gillooly">Bridget “Bitty” Copley Gillooly</a></td><td>c.1851</td><td>1941</td><td>Bitty, Bitty Gillooly, Bernadine</td></tr><tr><td><a href="./People/Thomas-Tom-Copley" class="internal alias" data-slug="People/Thomas-Tom-Copley">Thomas “Tom” Copley</a></td><td>c.1857</td><td>1932</td><td>Tom Copley (G23/G24); married Ida McKee</td></tr><tr><td><a href="./People/Sarah-Copley" class="internal alias" data-slug="People/Sarah-Copley">Sarah Copley</a></td><td>unknown</td><td>unknown</td><td>John’s unmarried sister; 108 Cottage Ave, Weston WV</td></tr><tr><td><a href="./People/Margaret-Copley" class="internal alias" data-slug="People/Margaret-Copley">Margaret Copley</a></td><td>unknown</td><td>unknown</td><td>—</td></tr><tr><td><a href="./People/Anne-Copley-(b.-1850)" class="internal alias" data-slug="People/Anne-Copley-(b.-1850)">Anne Copley (b. 1850)</a></td><td>c.1850</td><td>unknown</td><td>—</td></tr></tbody></table></div>
+<h3 id="g24--john--mary-ellens-children">G24 — John &amp; Mary Ellen’s Children<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#g24--john--mary-ellens-children" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>Name</th><th>Born</th><th>Died</th><th>Also Known As</th></tr></thead><tbody><tr><td><a href="./People/Thomas-E.-Copley" class="internal alias" data-slug="People/Thomas-E.-Copley">Thomas E. Copley</a></td><td>Feb 19, 1892</td><td>Jan 28, 1968</td><td>T.E. Copley; IRS Chief, St. Louis; married Drusilla</td></tr><tr><td><a href="./People/Mary-Copley-Flesch" class="internal alias" data-slug="People/Mary-Copley-Flesch">Mary Copley Flesch</a></td><td>1893</td><td>1971</td><td>Mary Flesch; married Edward Flesch; moved to Albuquerque NM</td></tr><tr><td><a href="./People/Anne-Copley-(daughter-of-John-Copley)" class="internal alias" data-slug="People/Anne-Copley-(daughter-of-John-Copley)">Anne Copley (daughter of John)</a></td><td>Jun 6, 1895</td><td>Jul 28, 1970</td><td>never married; moved to Albuquerque NM for health</td></tr><tr><td><a href="./People/Ellen-Bernadine-Nelle-Copley-Sardo" class="internal alias" data-slug="People/Ellen-Bernadine-Nelle-Copley-Sardo">Ellen Bernadine “Nelle” Copley Sardo</a></td><td>Dec 23, 1897</td><td>Feb 11, 1977</td><td>Nelle, Nelle Sardo, Nelle Copley; RN, Dir. Nursing Ed., Baltimore</td></tr><tr><td><a href="./People/Michael-Joseph-Copley" class="internal alias" data-slug="People/Michael-Joseph-Copley">Michael Joseph Copley</a></td><td>Sep 16, 1898</td><td>Sep 17, 1988</td><td>M.J. Copley; chemist, USDA Director; buried Sunset View Cemetery, El Cerrito CA</td></tr></tbody></table></div>
+<h3 id="g25--sardo-branch-nelles-children">G25 — Sardo Branch (Nelle’s Children)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#g25--sardo-branch-nelles-children" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>Name</th><th>Born</th><th>Died</th><th>Also Known As</th></tr></thead><tbody><tr><td><a href="./People/Sarah-Ellen-Sardo-Arena" class="internal alias" data-slug="People/Sarah-Ellen-Sardo-Arena">Sarah Ellen Sardo Arena</a></td><td>Dec 19, 1933, Baltimore MD</td><td>—</td><td>Sarah Arena; Notre Dame College; hospital chaplain; John Muir Medical Center</td></tr><tr><td><a href="./People/Mary-Carmella-Sardo-Ruland" class="internal alias" data-slug="People/Mary-Carmella-Sardo-Ruland">Mary Carmella Sardo Ruland</a></td><td>May 3, 1936</td><td>—</td><td>Mary Ruland, Carmella</td></tr></tbody></table></div>
+<h3 id="g25--michael-josephs-children">G25 — Michael Joseph’s Children<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#g25--michael-josephs-children" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>Name</th><th>Born</th><th>Died</th><th>Also Known As</th></tr></thead><tbody><tr><td><a href="./People/Stephen-Michael-Copley" class="internal alias" data-slug="People/Stephen-Michael-Copley">Stephen Michael Copley</a></td><td>Apr 29, 1936, Champaign IL</td><td>—</td><td>Steve Copley; physicist; USC, IIT, PSU; Palos Verdes, Hinsdale IL, State College PA</td></tr><tr><td><a href="./People/Thomas-Partlow-Copley" class="internal alias" data-slug="People/Thomas-Partlow-Copley">Thomas Partlow Copley</a></td><td>Oct 29, 1944, Philadelphia PA</td><td>—</td><td>Tom Copley; marketing PhD; UC Berkeley, Penn State; Richmond Annex CA</td></tr></tbody></table></div>
+<h3 id="g25--spouses-of-michael-josephs-children">G25 — Spouses of Michael Joseph’s Children<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#g25--spouses-of-michael-josephs-children" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>Name</th><th>Married</th><th>Also Known As</th></tr></thead><tbody><tr><td><a href="./People/Marion-Elizabeth-Partlow" class="internal alias" data-slug="People/Marion-Elizabeth-Partlow">Marion Elizabeth Partlow</a></td><td>1933</td><td>Marion Copley; from Casey IL; Welsh-origin Partlow family; buried Sunset View Cemetery El Cerrito CA</td></tr><tr><td><a href="./People/Marcia-Thornton-Copley" class="internal alias" data-slug="People/Marcia-Thornton-Copley">Marcia Thornton</a></td><td>~1958 (UC Berkeley)</td><td>1st wife of Stephen; divorced 1983; remarried Ed Dawson (SVS); Cal State Dominguez Hills BA; Harbor Regional Center</td></tr><tr><td><a href="./People/Judith-Ann-Todd-Copley" class="internal alias" data-slug="People/Judith-Ann-Todd-Copley">Judith “Judy” Todd</a></td><td>1984</td><td>2nd wife of Stephen; from Wakefield Yorkshire England; Cambridge PhD; IIT→PSU; ASMI President</td></tr><tr><td>Barbara Dee LaForce</td><td>Mar 19, 1967</td><td>”Dee”; wife of Thomas Partlow Copley; Zeta Tau Alpha sorority</td></tr></tbody></table></div>
+<h3 id="g26--arena-line-sarahs-children">G26 — Arena Line (Sarah’s Children)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#g26--arena-line-sarahs-children" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>Name</th><th>Also Known As</th></tr></thead><tbody><tr><td><a href="./People/Cathy-Arena" class="internal alias" data-slug="People/Cathy-Arena">Cathy Arena</a></td><td>Cathy Barthelme</td></tr><tr><td><a href="./People/Ann-Marie-Arena" class="internal alias" data-slug="People/Ann-Marie-Arena">Ann Marie Arena</a></td><td>AnnMarie Arena; married Jeff Swett</td></tr><tr><td><a href="./People/Jim-Arena" class="internal alias" data-slug="People/Jim-Arena">Jim Arena</a></td><td>James Arena; married Kathy Luchetta</td></tr><tr><td><a href="./People/Matt-Jr.-Arena" class="internal alias" data-slug="People/Matt-Jr.-Arena">Matt Jr. Arena</a></td><td>Matthew Arena Jr.</td></tr><tr><td><a href="./People/John-Arena" class="internal alias" data-slug="People/John-Arena">John Arena</a></td><td>married Jenny Gothard</td></tr></tbody></table></div>
+<h3 id="g26--ruland-line-marys-children">G26 — Ruland Line (Mary’s Children)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#g26--ruland-line-marys-children" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>Name</th><th>Also Known As</th></tr></thead><tbody><tr><td><a href="./People/Louis-III-Ruland" class="internal alias" data-slug="People/Louis-III-Ruland">Louis III Ruland</a></td><td>married Beth Lawson</td></tr><tr><td><a href="./People/Robert-Ruland" class="internal alias" data-slug="People/Robert-Ruland">Robert Ruland</a></td><td>married Dianne Rynkowski</td></tr><tr><td><a href="./People/Charles-Ruland" class="internal alias" data-slug="People/Charles-Ruland">Charles Ruland</a></td><td>married Heather Powers</td></tr><tr><td><a href="./People/John-Ruland" class="internal alias" data-slug="People/John-Ruland">John Ruland</a></td><td>married Marlena Delgado</td></tr><tr><td><a href="./People/Michael-Ruland" class="internal alias" data-slug="People/Michael-Ruland">Michael Ruland</a></td><td>married Leanne Hotter</td></tr></tbody></table></div>
+<h3 id="g26--stephen-copleys-children-with-marcia-thornton">G26 — Stephen Copley’s Children (with Marcia Thornton)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#g26--stephen-copleys-children-with-marcia-thornton" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>Name</th><th>Born</th><th>Died</th><th>Also Known As</th></tr></thead><tbody><tr><td><a href="./People/Michael-Copley-(b.-1959)" class="internal alias" data-slug="People/Michael-Copley-(b.-1959)">Michael Copley (b. 1959)</a></td><td>1959</td><td>—</td><td>Mike Copley; married Patti Inman Oct 1984; children Michael Stephen b.1986, Sara Marie b.1988</td></tr><tr><td><a href="./People/Sara-Copley-Cox" class="internal alias" data-slug="People/Sara-Copley-Cox">Sara Copley Cox</a></td><td>Feb 3, 1961, Alta Bates Hospital, Berkeley CA</td><td>—</td><td>Sara Marie Cox; Verizon 1989–2018; SVS itinerant; Granite Bay CA</td></tr><tr><td><a href="./People/Philip-Copley" class="internal alias" data-slug="People/Philip-Copley">Philip Copley</a></td><td>1962</td><td>—</td><td>married Tracy Siler Jan 1989; children Philip Michael b.1990, John William b.1992</td></tr><tr><td><a href="./People/Paul-Copley" class="internal alias" data-slug="People/Paul-Copley">Paul Copley</a></td><td>1964, Berkeley CA</td><td>—</td><td>USC BS Exercise Science; married Anne Marie Leonhardt Jul 1989; children James Stephen b.1991, John William b.1994, Georgia Marie b.1996; SVS Fresno CA</td></tr><tr><td><a href="./People/Peter-Copley" class="internal alias" data-slug="People/Peter-Copley">Peter Copley</a></td><td>Jan 12, 1966, New Haven CT</td><td>—</td><td>Peter G. Copley; married Karen VanderMolen RN 2012; Fillmore CA; musician</td></tr><tr><td><a href="./People/Susan-Copley" class="internal alias" data-slug="People/Susan-Copley">Susan Copley</a></td><td>1967</td><td>—</td><td>b. likely CT (family in Madison/New Haven area); details unconfirmed</td></tr><tr><td><a href="./People/Stephen-Joseph-Copley" class="internal alias" data-slug="People/Stephen-Joseph-Copley">Stephen Joseph Copley</a></td><td>May 1, 1970, Yale-New Haven Hospital</td><td>Jun 10, 2023</td><td>Stephen J. Copley; autistic/developmentally disabled; ward of CA; buried San Juan Bautista CA</td></tr></tbody></table></div>
+<h3 id="g26--stephen-copleys-child-with-judy-todd">G26 — Stephen Copley’s Child (with Judy Todd)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#g26--stephen-copleys-child-with-judy-todd" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>Name</th><th>Born</th><th>Also Known As</th></tr></thead><tbody><tr><td><a href="./People/Amy-E.-Copley-Geist" class="internal alias" data-slug="People/Amy-E.-Copley-Geist">Amy Elizabeth Copley Geist</a></td><td>Jul 11, 1990, Hinsdale IL</td><td>Amy Geist; Penn State; LSE; Brookings; World Bank; Upper Marlboro MD</td></tr></tbody></table></div>
+<h3 id="g26--thomas-partlow-copleys-children">G26 — Thomas Partlow Copley’s Children<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#g26--thomas-partlow-copleys-children" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>Name</th><th>Born</th><th>Also Known As</th></tr></thead><tbody><tr><td><a href="./People/Zachary-R.-Copley" class="internal alias" data-slug="People/Zachary-R.-Copley">Zachary R. Copley</a></td><td>May 22, 1969, Bellefonte PA</td><td>Zach Copley; Zachary Robertson Copley; Unite Us; Cedar Rapids IA</td></tr><tr><td><a href="./People/Wendolyn-Lorelie-Thorpe-Copley" class="internal alias" data-slug="People/Wendolyn-Lorelie-Thorpe-Copley">Wendolyn Lorelie Thorpe Copley</a></td><td>Sep 14, 1972, Cedar Rapids IA</td><td>Wendy Copley; Wendy Thorpe; bento author; Tuttle Publishing</td></tr><tr><td><a href="./People/Erin-E.-Copley-Bird" class="internal alias" data-slug="People/Erin-E.-Copley-Bird">Erin E. Copley Bird</a></td><td>Apr 1973</td><td>Erin Elizabeth Copley Bird; Erin Bird; Berkeley CA; owns Tom Copley’s former Arlington home</td></tr><tr><td><a href="./People/Charles-H.-Copley" class="internal alias" data-slug="People/Charles-H.-Copley">Charles H. Copley</a></td><td>Oct 1985, Dayton OH</td><td>Charlie Copley; Charles Hewetson Copley; Napa CA</td></tr></tbody></table></div>
+<h3 id="g27--grandchildren">G27 — Grandchildren<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#g27--grandchildren" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>Name</th><th>Born</th><th>Also Known As</th></tr></thead><tbody><tr><td><a href="./People/Lauren-Copley-Meier" class="internal alias" data-slug="People/Lauren-Copley-Meier">Lauren Copley Meier</a></td><td>—</td><td>Lauren Meier; married Lane Meier</td></tr><tr><td><a href="./People/Stephen-Copley" class="internal alias" data-slug="People/Stephen-Copley">Stephen Copley</a> (G27, son of Michael b.1959)</td><td>—</td><td>—</td></tr><tr><td><a href="./People/Robert-Cox" class="internal alias" data-slug="People/Robert-Cox">Robert Cox</a></td><td>Oct 3, 1988, Sacramento CA</td><td>Bobby Cox; Robert Anthony Cox; landscaping; Granite Bay CA</td></tr><tr><td><a href="./People/Georgia-Leonhardt" class="internal alias" data-slug="People/Georgia-Leonhardt">Georgia Leonhardt</a></td><td>1996</td><td>Georgia Marie Copley Leonhardt; daughter of Paul Copley &amp; Anne Marie Leonhardt</td></tr><tr><td><a href="./People/William-S.-Geist" class="internal alias" data-slug="People/William-S.-Geist">William S. Geist</a></td><td>Dec 9, 2023</td><td>William Stephen Geist; son of Amy Geist &amp; Nathan Geist; Upper Marlboro MD</td></tr><tr><td>Wyatt Copley</td><td>Oct 2, 2004, Berkeley CA</td><td>son of Zach &amp; Wendy Copley; Cedar Rapids IA</td></tr><tr><td>August “Augie” Copley</td><td>Aug 31, 2008, Oakland CA</td><td>son of Zach &amp; Wendy Copley; Cedar Rapids IA</td></tr><tr><td><a href="./People/Evelyn-Bird" class="internal alias" data-slug="People/Evelyn-Bird">Evelyn Bird</a></td><td>2010</td><td>Evy Bird; daughter of Erin &amp; Bryan Bird; Berkeley CA</td></tr><tr><td><a href="./People/Samuel-Bird" class="internal alias" data-slug="People/Samuel-Bird">Samuel Bird</a></td><td>2014</td><td>Sam Bird; son of Erin &amp; Bryan Bird; Berkeley CA</td></tr></tbody></table></div>
+<h3 id="g28--great-grandchildren">G28 — Great-Grandchildren<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#g28--great-grandchildren" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>Name</th><th>Also Known As</th></tr></thead><tbody><tr><td><a href="./People/Rowan-Meier" class="internal alias" data-slug="People/Rowan-Meier">Rowan Meier</a></td><td>daughter of Lauren Meier</td></tr><tr><td>Elizabeth Meier</td><td>daughter of Lauren Meier</td></tr></tbody></table></div>
+<h3 id="spouses--in-laws-not-copleys">Spouses &amp; In-Laws (Not Copleys)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#spouses--in-laws-not-copleys" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>Name</th><th>Family Connection</th></tr></thead><tbody><tr><td>Robert Samuel Sardo</td><td>husband of Nelle Copley; EENT physician; Army Air Corps WWII</td></tr><tr><td>Matthew Paul Arena</td><td>husband of Sarah Sardo; married Nov 1956</td></tr><tr><td>Louis Ruland</td><td>husband of Mary Sardo</td></tr><tr><td>Bryan Bird</td><td>husband of Erin Copley; Berkeley CA</td></tr><tr><td><a href="./People/Wendolyn-Lorelie-Thorpe-Copley" class="internal alias" data-slug="People/Wendolyn-Lorelie-Thorpe-Copley">Wendolyn “Wendy” Thorpe</a></td><td>wife of Zach Copley; bento author</td></tr><tr><td>Audrey Copley</td><td>wife of Charlie Copley; Napa CA</td></tr><tr><td>Nathan Geist</td><td>husband of Amy Copley; married Jun 19 2021 State College PA</td></tr><tr><td>Robert Austin Cox</td><td>ex-husband of Sara Copley Cox; married 1986, div. 1996</td></tr><tr><td>Ed Dawson</td><td>husband of Marcia Thornton (after Stephen Copley); founder SVS</td></tr><tr><td>Karen VanderMolen</td><td>wife of Peter Copley; RN; married 2012</td></tr><tr><td>Nicole Brune</td><td>partner of Bobby Cox (since Jul 2022)</td></tr><tr><td>Lance Thorpe</td><td>brother of Wendy Copley; Iowa City IA</td></tr></tbody></table></div>
+<h3 id="historical--contextual-figures">Historical / Contextual Figures<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#historical--contextual-figures" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>Name</th><th>Role</th></tr></thead><tbody><tr><td><a href="./People/Weeden-Hoffman" class="internal alias" data-slug="People/Weeden-Hoffman">Weeden Hoffman</a></td><td>Land deed counterparty (1843)</td></tr><tr><td><a href="./People/Gideon-D.-Camden" class="internal alias" data-slug="People/Gideon-D.-Camden">Gideon D. Camden</a></td><td>Lewis County political figure</td></tr><tr><td><a href="./People/Richard-P.-Camden" class="internal alias" data-slug="People/Richard-P.-Camden">Richard P. Camden</a></td><td>Related figure</td></tr><tr><td><a href="./People/Minter-Bailey" class="internal alias" data-slug="People/Minter-Bailey">Minter Bailey</a></td><td>Historical context</td></tr><tr><td><a href="./People/Thomas-Pickering" class="internal alias" data-slug="People/Thomas-Pickering">Thomas Pickering</a></td><td>Historical context</td></tr><tr><td><a href="./People/Octavius-Pickering" class="internal alias" data-slug="People/Octavius-Pickering">Octavius Pickering</a></td><td>Historical context</td></tr><tr><td>Michael Dolan</td><td>father of Mary Ellen Dolan Copley; b. 1824, d. 1888</td></tr><tr><td>Elizabeth Dolan</td><td>mother of Mary Ellen Dolan Copley; b. 1829, d. 1913</td></tr></tbody></table></div>
+<hr/>
+<h2 id="places">Places<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#places" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>Place</th><th>State/Country</th><th>Significance</th></tr></thead><tbody><tr><td><a href="./Places/Kilgefin-Ireland" class="internal alias" data-slug="Places/Kilgefin-Ireland">Kilgefin, Co. Roscommon</a></td><td>Ireland</td><td>Birthplace of Michael Copley Sr.</td></tr><tr><td><a href="./Places/Kinawley-Ireland" class="internal alias" data-slug="Places/Kinawley-Ireland">Kinawley</a></td><td>Ireland</td><td>Birthplace of Ann Munday</td></tr><tr><td><a href="./Places/County-Roscommon-Ireland" class="internal alias" data-slug="Places/County-Roscommon-Ireland">County Roscommon</a></td><td>Ireland</td><td>Irish ancestral county</td></tr><tr><td><a href="./Places/Lewis-County-West-Virginia" class="internal alias" data-slug="Places/Lewis-County-West-Virginia">Lewis County, WV</a></td><td>West Virginia</td><td>Core family settlement; Copley farm &amp; oil strike</td></tr><tr><td><a href="./Places/Cove-Lick-West-Virginia" class="internal alias" data-slug="Places/Cove-Lick-West-Virginia">Cove Lick</a></td><td>Lewis County, WV</td><td>Copley farm location; Copley Road</td></tr><tr><td><a href="./Places/Weston-West-Virginia" class="internal alias" data-slug="Places/Weston-West-Virginia">Weston, WV</a></td><td>Lewis County, WV</td><td>County seat; family hub; 108 Cottage Ave (Sarah Copley)</td></tr><tr><td><a href="./Places/Jane-Lew-West-Virginia" class="internal alias" data-slug="Places/Jane-Lew-West-Virginia">Jane Lew, WV</a></td><td>Lewis County, WV</td><td>Nearby community</td></tr><tr><td>Moundsville, WV</td><td>West Virginia</td><td>Birthplace of Mary Ellen Dolan (1855)</td></tr><tr><td>Parkersburg, WV</td><td>West Virginia</td><td>DeSales Heights Academy (Nelle’s boarding school)</td></tr><tr><td>Albuquerque, NM</td><td>New Mexico</td><td>Anne Copley and Mary Flesch relocated here</td></tr><tr><td><a href="./Places/Baltimore-Maryland" class="internal alias" data-slug="Places/Baltimore-Maryland">Baltimore, MD</a></td><td>Maryland</td><td>St. Joseph Hospital (Nelle’s nursing career); Sardo family home</td></tr><tr><td>Clarksville, MD</td><td>Maryland</td><td>Robert Sardo’s medical practice; Nelle &amp; Robert’s home</td></tr><tr><td>Champaign, IL</td><td>Illinois</td><td>Birthplace of Stephen Michael Copley (UIUC period)</td></tr><tr><td>Wyndmoor, PA</td><td>Pennsylvania</td><td>USDA ERRL; Stephen’s childhood home 1939–47</td></tr><tr><td>Philadelphia, PA</td><td>Pennsylvania</td><td>Birthplace of Thomas Partlow Copley</td></tr><tr><td>Bellefonte, PA</td><td>Pennsylvania</td><td>Birthplace of Zachary R. Copley (Penn State/Bellefonte hospital)</td></tr><tr><td>Madison, CT</td><td>Connecticut</td><td>Stephen Copley at Pratt &amp; Whitney; Neck Road house</td></tr><tr><td>Palos Verdes Estates, CA</td><td>California</td><td>4029 Via Nivel; Stephen Copley at USC</td></tr><tr><td>Albany, CA</td><td>California</td><td>USDA Western Regional Research Laboratory (Michael Joseph)</td></tr><tr><td>El Cerrito / Berkeley, CA</td><td>California</td><td>Tom Copley family home “on the Arlington”; Richmond Annex</td></tr><tr><td>Hinsdale, IL</td><td>Illinois</td><td>Stephen &amp; Judy Copley at IIT; Amy’s childhood</td></tr><tr><td>State College, PA</td><td>Pennsylvania</td><td>Penn State; Judy Todd as dept head; Amy’s high school</td></tr><tr><td>Cedar Rapids, IA</td><td>Iowa</td><td>Zach &amp; Wendy Copley’s current home; Wendy’s birthplace</td></tr><tr><td>Yellow Springs, OH</td><td>Ohio</td><td>Tom Copley at Antioch College; Charlie born nearby (Dayton)</td></tr></tbody></table></div>
+<hr/>
+<h2 id="topics--themes">Topics &amp; Themes<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#topics--themes" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>Topic</th><th>Description</th></tr></thead><tbody><tr><td><a href="./Topics/1900-Copley-Oil-Strike" class="internal alias" data-slug="Topics/1900-Copley-Oil-Strike">1900 Copley Oil Strike</a></td><td>Copley No. 1 well, South Penn Oil, ~4,800 bbl/day, Lewis County</td></tr><tr><td><a href="./Topics/Irish-Famine-and-Emigration" class="internal alias" data-slug="Topics/Irish-Famine-and-Emigration">Irish Famine &amp; Emigration</a></td><td>1840s–50s emigration context for Copley/Munday families</td></tr><tr><td><a href="./Topics/Irish-Immigration-to-West-Virginia" class="internal alias" data-slug="Topics/Irish-Immigration-to-West-Virginia">Irish Immigration to WV</a></td><td>Settlement patterns in Lewis/Marshall counties</td></tr><tr><td><a href="./Topics/B-and-O-Railroad-Labor-History" class="internal alias" data-slug="Topics/B-and-O-Railroad-Labor-History">B&amp;O Railroad Labor History</a></td><td>Railroad labor context for Baltimore and WV connections</td></tr><tr><td><a href="./Topics/Academic-and-Scientific-Achievement" class="internal alias" data-slug="Topics/Academic-and-Scientific-Achievement">Academic &amp; Scientific Achievement</a></td><td>Michael Joseph Copley’s USDA career; Stephen’s materials science; Judy Todd’s engineering leadership</td></tr><tr><td><a href="./Topics/Genealogical-Research-Methods" class="internal alias" data-slug="Topics/Genealogical-Research-Methods">Genealogical Research Methods</a></td><td>Methods, archives, and research strategy</td></tr><tr><td><a href="./Topics/_Topics-Index" class="internal alias" data-slug="Topics/_Topics-Index">Topics Index</a></td><td>Full list of thematic pages</td></tr></tbody></table></div>
+<hr/>
+<h2 id="key-dates--events">Key Dates &amp; Events<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#key-dates--events" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>Date</th><th>Event</th></tr></thead><tbody><tr><td>Sep 29, 1813</td><td>Michael Copley Sr. born, Kilgefin, Co. Roscommon, Ireland</td></tr><tr><td>c.1823</td><td>Ann Elizabeth Munday born, Kinawley, Ireland</td></tr><tr><td>Jun 13, 1837</td><td>Michael &amp; Patrick Copley arrive New York aboard the <em>Kutusoff</em></td></tr><tr><td>Jan 5, 1843</td><td>Hoffman–Copley land deed signed; 200 acres in Lewis County WV</td></tr><tr><td>Nov 3, 1843</td><td>John Copley born, Lewis County WV</td></tr><tr><td>c.1845–55</td><td>Irish Famine emigration period</td></tr><tr><td>Nov 28, 1855</td><td>Mary Ellen Dolan born, Moundsville WV</td></tr><tr><td>Feb 19, 1892</td><td>Thomas E. Copley born</td></tr><tr><td>1893</td><td>Mary Copley Flesch born</td></tr><tr><td>Jun 6, 1895</td><td>Anne Copley (John’s daughter) born</td></tr><tr><td>Dec 23, 1897</td><td>Ellen “Nelle” Copley born</td></tr><tr><td>Sep 16, 1898</td><td>Michael Joseph Copley born on Copley farm, Lewis County WV</td></tr><tr><td>Sep 1900</td><td>Copley No. 1 oil well strikes (~4,800 bbl/day), South Penn Oil Co.</td></tr><tr><td>Dec 5, 1901</td><td>Mary Ellen Dolan Copley dies (age 46)</td></tr><tr><td>Nov 2, 1909</td><td>Ann Elizabeth Munday Copley dies</td></tr><tr><td>1918</td><td>Michael Joseph Copley enlists Army (Oct 1); discharged (Dec 3); never saw combat</td></tr><tr><td>1922</td><td>Michael Joseph Copley earns BS Chemical Engineering, Catholic University DC</td></tr><tr><td>1925</td><td>John Copley dies Sep 6</td></tr><tr><td>1926</td><td>Nelle Copley earns RN, St. Joseph Hospital nursing school, Baltimore</td></tr><tr><td>1929</td><td>Michael Joseph Copley earns PhD, University of Illinois (UIUC)</td></tr><tr><td>Aug 16, 1931</td><td>Nelle Copley marries Robert Samuel Sardo</td></tr><tr><td>1933</td><td>Michael Joseph Copley marries Marion Partlow; Sarah Sardo born (Dec 19)</td></tr><tr><td>Apr 29, 1936</td><td>Stephen Michael Copley born, Champaign IL</td></tr><tr><td>May 3, 1936</td><td>Mary Carmella Sardo born</td></tr><tr><td>1939</td><td>Michael Joseph Copley joins USDA Eastern Regional Research Laboratory, Wyndmoor PA</td></tr><tr><td>Oct 29, 1944</td><td>Thomas Partlow Copley born, Philadelphia PA</td></tr><tr><td>1947</td><td>Michael Joseph Copley becomes Director, USDA Western Regional Research Lab, Albany CA</td></tr><tr><td>Nov 1956</td><td>Sarah Sardo marries Matthew Paul Arena</td></tr><tr><td>1964</td><td>Stephen Copley earns PhD, UC Berkeley; joins Pratt &amp; Whitney, Madison CT</td></tr><tr><td>1966</td><td>Thomas Partlow Copley earns BS Managerial Economics, UC Berkeley</td></tr><tr><td>Mar 19, 1967</td><td>Thomas Partlow Copley marries Barbara Dee LaForce</td></tr><tr><td>1968</td><td>Michael Joseph Copley retires; Thomas E. Copley dies (Jan 28)</td></tr><tr><td>May 22, 1969</td><td>Zachary Robertson Copley born, Bellefonte PA</td></tr><tr><td>May 1, 1970</td><td>Stephen Joseph Copley born, Yale-New Haven Hospital</td></tr><tr><td>1970</td><td>Stephen Copley joins USC as Associate Professor; family moves to Palos Verdes Estates</td></tr><tr><td>Apr 1973</td><td>Erin Elizabeth Copley born</td></tr><tr><td>Feb 11, 1977</td><td>Nelle Copley Sardo dies (unexpected); Marion Partlow Copley dies</td></tr><tr><td>1977</td><td>Thomas Partlow Copley earns PhD, Penn State (“Consumer Confidence and Image”)</td></tr><tr><td>1983</td><td>Stephen &amp; Marcia Copley divorce</td></tr><tr><td>1984</td><td>Stephen Copley marries Judith Ann Todd</td></tr><tr><td>Jun 6, 1895</td><td>Anne Copley born</td></tr><tr><td>Oct 1985</td><td>Charles Hewetson Copley born, Dayton OH</td></tr><tr><td>1986</td><td>Sara Copley marries Robert Austin Cox</td></tr><tr><td>Sep 17, 1988</td><td>Michael Joseph Copley dies (age 90, El Cerrito CA)</td></tr><tr><td>Oct 3, 1988</td><td>Robert “Bobby” Cox born, Sacramento CA</td></tr><tr><td>Jul 11, 1990</td><td>Amy Elizabeth Copley born, Hinsdale IL</td></tr><tr><td>Sep 2001</td><td>Zachary Copley marries Wendolyn Thorpe, Las Vegas NV</td></tr><tr><td>2004</td><td>Wyatt Copley born (son of Zach &amp; Wendy)</td></tr><tr><td>2008</td><td>August “Augie” Copley born (son of Zach &amp; Wendy)</td></tr><tr><td>2010</td><td>Evelyn “Evy” Bird born (daughter of Erin &amp; Bryan)</td></tr><tr><td>2014</td><td>Samuel “Sam” Bird born (son of Erin &amp; Bryan)</td></tr><tr><td>Jun 19, 2021</td><td>Amy Copley marries Nathan Geist, ReFarm Café, State College PA</td></tr><tr><td>Jun 10, 2023</td><td>Stephen Joseph Copley dies (age 53)</td></tr><tr><td>Aug 8, 2023</td><td>Stephen Joseph Copley buried, San Juan Bautista CA</td></tr><tr><td>Dec 9, 2023</td><td>William Stephen Geist born (son of Amy &amp; Nathan Geist)</td></tr></tbody></table></div>
+<hr/>
+<h2 id="research-keywords">Research Keywords<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#research-keywords" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Civil War · Union Army · Quartermaster · NARA · naturalization · B&amp;O Railroad · South Penn Oil · Lewis County deed · probate · County Roscommon · Kilgefin · Kinawley · Famine · emigration · immigration · Kutusoff · passenger manifest · USDA · Eastern Regional Research Laboratory · Western Regional Research Laboratory · ERRL · WRRL · Catholic University · University of Illinois · UIUC · UC Berkeley · Penn State · Pratt &amp; Whitney · USC · IIT · Illinois Institute of Technology · ASM International · ASMI · Society of Engineering Science · SES · Tuttle Publishing · bento · Wendolonia · Unite Us · Social Vocational Services · SVS · Harbor Regional Center · World Bank · Brookings Institution · London School of Economics · LSE · genealogy · census · vital records · baptism · marriage certificate · Irish ancestry · Copley Road · Cove Lick · Weston · Jane Lew · Clarksburg · Sardo · Arena · Ruland · Dolan · Munday · Partlow · LaForce · Gillooly · Hannon · Reynolds · Quinn · Flesch · Meier · Geist · Bird · Cox · Todd · Thornton · Dawson · Thorpe · Barthelme · VanderMolen · Leonhardt · Brune · Breen · Donner Party · San Juan Bautista · materials science · hydrogen bonding · frozen food · food dehydration · synthetic rubber · marketing · consumer behavior · Antioch College · Arlington Courseware · drtoy.com · Electronic University</p></article><hr/><div class="page-footer"></div></div><div class="right sidebar"><div class="graph"><h3>Graph View</h3><div class="graph-outer"><div class="graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:1,&quot;scale&quot;:1.1,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:false,&quot;enableRadial&quot;:false}"></div><button class="global-graph-icon" aria-label="Global Graph"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 55 55" fill="currentColor" xml:space="preserve"><path d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17
+                s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4
+                c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562
+                C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829
+                c1.106,0.86,2.44,1.436,3.898,1.619v10.16c-2.833,0.478-5,2.942-5,5.91c0,3.309,2.691,6,6,6s6-2.691,6-6c0-2.967-2.167-5.431-5-5.91
+                v-10.16c1.458-0.183,2.792-0.759,3.898-1.619l7.669,7.669C41.215,39.576,41,40.26,41,41c0,2.206,1.794,4,4,4s4-1.794,4-4
+                s-1.794-4-4-4c-0.74,0-1.424,0.215-2.019,0.567l-7.669-7.669C36.366,28.542,37,26.846,37,25s-0.634-3.542-1.688-4.897l9.665-9.665
+                C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2
+                S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4
+                s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2
+                s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"></path></svg></button></div><div class="global-graph-outer"><div class="global-graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:-1,&quot;scale&quot;:0.9,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.2,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:true,&quot;enableRadial&quot;:true}"></div></div></div><div class="toc desktop-only"><button type="button" class="toc-header" aria-controls="toc-86" aria-expanded="true"><h3>Table of Contents</h3><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><ul id="list-1" class="toc-content overflow"><li class="depth-0"><a href="#search-index" data-for="search-index">Search Index</a></li><li class="depth-1"><a href="#people" data-for="people">People</a></li><li class="depth-2"><a href="#g23--immigrant-generation-ireland--west-virginia" data-for="g23--immigrant-generation-ireland--west-virginia">G23 — Immigrant Generation (Ireland → West Virginia)</a></li><li class="depth-2"><a href="#g23g24--lewis-county-core-line-john-copleys-siblings" data-for="g23g24--lewis-county-core-line-john-copleys-siblings">G23/G24 — Lewis County Core Line (John Copley’s Siblings)</a></li><li class="depth-2"><a href="#g24--john--mary-ellens-children" data-for="g24--john--mary-ellens-children">G24 — John &amp; Mary Ellen’s Children</a></li><li class="depth-2"><a href="#g25--sardo-branch-nelles-children" data-for="g25--sardo-branch-nelles-children">G25 — Sardo Branch (Nelle’s Children)</a></li><li class="depth-2"><a href="#g25--michael-josephs-children" data-for="g25--michael-josephs-children">G25 — Michael Joseph’s Children</a></li><li class="depth-2"><a href="#g25--spouses-of-michael-josephs-children" data-for="g25--spouses-of-michael-josephs-children">G25 — Spouses of Michael Joseph’s Children</a></li><li class="depth-2"><a href="#g26--arena-line-sarahs-children" data-for="g26--arena-line-sarahs-children">G26 — Arena Line (Sarah’s Children)</a></li><li class="depth-2"><a href="#g26--ruland-line-marys-children" data-for="g26--ruland-line-marys-children">G26 — Ruland Line (Mary’s Children)</a></li><li class="depth-2"><a href="#g26--stephen-copleys-children-with-marcia-thornton" data-for="g26--stephen-copleys-children-with-marcia-thornton">G26 — Stephen Copley’s Children (with Marcia Thornton)</a></li><li class="depth-2"><a href="#g26--stephen-copleys-child-with-judy-todd" data-for="g26--stephen-copleys-child-with-judy-todd">G26 — Stephen Copley’s Child (with Judy Todd)</a></li><li class="depth-2"><a href="#g26--thomas-partlow-copleys-children" data-for="g26--thomas-partlow-copleys-children">G26 — Thomas Partlow Copley’s Children</a></li><li class="depth-2"><a href="#g27--grandchildren" data-for="g27--grandchildren">G27 — Grandchildren</a></li><li class="depth-2"><a href="#g28--great-grandchildren" data-for="g28--great-grandchildren">G28 — Great-Grandchildren</a></li><li class="depth-2"><a href="#spouses--in-laws-not-copleys" data-for="spouses--in-laws-not-copleys">Spouses &amp; In-Laws (Not Copleys)</a></li><li class="depth-2"><a href="#historical--contextual-figures" data-for="historical--contextual-figures">Historical / Contextual Figures</a></li><li class="depth-1"><a href="#places" data-for="places">Places</a></li><li class="depth-1"><a href="#topics--themes" data-for="topics--themes">Topics &amp; Themes</a></li><li class="depth-1"><a href="#key-dates--events" data-for="key-dates--events">Key Dates &amp; Events</a></li><li class="depth-1"><a href="#research-keywords" data-for="research-keywords">Research Keywords</a></li><li class="overflow-end"></li></ul></div><div class="backlinks"><h3>Backlinks</h3><ul id="list-2" class="overflow"><li><a href="./" class="internal">Copley Family Research Vault</a></li><li class="overflow-end"></li></ul></div></div><footer class><p>Created with <a href="https://quartz.jzhao.xyz/">Quartz v4.5.2</a> © 2026</p><ul><li><a href="https://github.com/jackyzha0/quartz">GitHub</a></li><li><a href="https://discord.gg/cRFFHYye7t">Discord Community</a></li></ul></footer></div></div></body><script type="application/javascript" data-persist="true">function n(){let t=this.parentElement;t.classList.toggle("is-collapsed");let e=t.getElementsByClassName("callout-content")[0];if(!e)return;let l=t.classList.contains("is-collapsed");e.style.gridTemplateRows=l?"0fr":"1fr"}function c(){let t=document.getElementsByClassName("callout is-collapsible");for(let e of t){let l=e.getElementsByClassName("callout-title")[0],s=e.getElementsByClassName("callout-content")[0];if(!l||!s)continue;l.addEventListener("click",n),window.addCleanup(()=>l.removeEventListener("click",n));let o=e.classList.contains("is-collapsed");s.style.gridTemplateRows=o?"0fr":"1fr"}}document.addEventListener("nav",c);
+</script><script type="module" data-persist="true">function E(a,e){if(!a)return;function t(o){o.target===this&&(o.preventDefault(),o.stopPropagation(),e())}function n(o){o.key.startsWith("Esc")&&(o.preventDefault(),e())}a?.addEventListener("click",t),window.addCleanup(()=>a?.removeEventListener("click",t)),document.addEventListener("keydown",n),window.addCleanup(()=>document.removeEventListener("keydown",n))}function f(a){for(;a.firstChild;)a.removeChild(a.firstChild)}var m=class{constructor(e,t){this.container=e;this.content=t;this.setupEventListeners(),this.setupNavigationControls(),this.resetTransform()}isDragging=!1;startPan={x:0,y:0};currentPan={x:0,y:0};scale=1;MIN_SCALE=.5;MAX_SCALE=3;cleanups=[];setupEventListeners(){let e=this.onMouseDown.bind(this),t=this.onMouseMove.bind(this),n=this.onMouseUp.bind(this),o=this.onTouchStart.bind(this),r=this.onTouchMove.bind(this),i=this.onTouchEnd.bind(this),s=this.resetTransform.bind(this);this.container.addEventListener("mousedown",e),document.addEventListener("mousemove",t),document.addEventListener("mouseup",n),this.container.addEventListener("touchstart",o,{passive:!1}),document.addEventListener("touchmove",r,{passive:!1}),document.addEventListener("touchend",i),window.addEventListener("resize",s),this.cleanups.push(()=>this.container.removeEventListener("mousedown",e),()=>document.removeEventListener("mousemove",t),()=>document.removeEventListener("mouseup",n),()=>this.container.removeEventListener("touchstart",o),()=>document.removeEventListener("touchmove",r),()=>document.removeEventListener("touchend",i),()=>window.removeEventListener("resize",s))}cleanup(){for(let e of this.cleanups)e()}setupNavigationControls(){let e=document.createElement("div");e.className="mermaid-controls";let t=this.createButton("+",()=>this.zoom(.1)),n=this.createButton("-",()=>this.zoom(-.1)),o=this.createButton("Reset",()=>this.resetTransform());e.appendChild(n),e.appendChild(o),e.appendChild(t),this.container.appendChild(e)}createButton(e,t){let n=document.createElement("button");return n.textContent=e,n.className="mermaid-control-button",n.addEventListener("click",t),window.addCleanup(()=>n.removeEventListener("click",t)),n}onMouseDown(e){e.button===0&&(this.isDragging=!0,this.startPan={x:e.clientX-this.currentPan.x,y:e.clientY-this.currentPan.y},this.container.style.cursor="grabbing")}onMouseMove(e){this.isDragging&&(e.preventDefault(),this.currentPan={x:e.clientX-this.startPan.x,y:e.clientY-this.startPan.y},this.updateTransform())}onMouseUp(){this.isDragging=!1,this.container.style.cursor="grab"}onTouchStart(e){if(e.touches.length!==1)return;this.isDragging=!0;let t=e.touches[0];this.startPan={x:t.clientX-this.currentPan.x,y:t.clientY-this.currentPan.y}}onTouchMove(e){if(!this.isDragging||e.touches.length!==1)return;e.preventDefault();let t=e.touches[0];this.currentPan={x:t.clientX-this.startPan.x,y:t.clientY-this.startPan.y},this.updateTransform()}onTouchEnd(){this.isDragging=!1}zoom(e){let t=Math.min(Math.max(this.scale+e,this.MIN_SCALE),this.MAX_SCALE),n=this.content.getBoundingClientRect(),o=n.width/2,r=n.height/2,i=t-this.scale;this.currentPan.x-=o*i,this.currentPan.y-=r*i,this.scale=t,this.updateTransform()}updateTransform(){this.content.style.transform=`translate(${this.currentPan.x}px, ${this.currentPan.y}px) scale(${this.scale})`}resetTransform(){let t=this.content.querySelector("svg").getBoundingClientRect(),n=t.width/this.scale,o=t.height/this.scale;this.scale=1,this.currentPan={x:(this.container.clientWidth-n)/2,y:(this.container.clientHeight-o)/2},this.updateTransform()}},T=["--secondary","--tertiary","--gray","--light","--lightgray","--highlight","--dark","--darkgray","--codeFont"],y;document.addEventListener("nav",async()=>{let e=document.querySelector(".center").querySelectorAll("code.mermaid");if(e.length===0)return;y||=await import("https://cdnjs.cloudflare.com/ajax/libs/mermaid/11.4.0/mermaid.esm.min.mjs");let t=y.default,n=new WeakMap;for(let r of e)n.set(r,r.innerText);async function o(){for(let s of e){s.removeAttribute("data-processed");let c=n.get(s);c&&(s.innerHTML=c)}let r=T.reduce((s,c)=>(s[c]=window.getComputedStyle(document.documentElement).getPropertyValue(c),s),{}),i=document.documentElement.getAttribute("saved-theme")==="dark";t.initialize({startOnLoad:!1,securityLevel:"loose",theme:i?"dark":"base",themeVariables:{fontFamily:r["--codeFont"],primaryColor:r["--light"],primaryTextColor:r["--darkgray"],primaryBorderColor:r["--tertiary"],lineColor:r["--darkgray"],secondaryColor:r["--secondary"],tertiaryColor:r["--tertiary"],clusterBkg:r["--light"],edgeLabelBackground:r["--highlight"]}}),await t.run({nodes:e})}await o(),document.addEventListener("themechange",o),window.addCleanup(()=>document.removeEventListener("themechange",o));for(let r=0;r<e.length;r++){let v=function(){let g=l.querySelector("#mermaid-space"),h=l.querySelector(".mermaid-content");if(!h)return;f(h);let w=i.querySelector("svg").cloneNode(!0);h.appendChild(w),l.classList.add("active"),g.style.cursor="grab",u=new m(g,h)},M=function(){l.classList.remove("active"),u?.cleanup(),u=null},i=e[r],s=i.parentElement,c=s.querySelector(".clipboard-button"),d=s.querySelector(".expand-button"),p=window.getComputedStyle(c),L=c.offsetWidth+parseFloat(p.marginLeft||"0")+parseFloat(p.marginRight||"0");d.style.right=`calc(${L}px + 0.3rem)`,s.prepend(d);let l=s.querySelector("#mermaid-container");if(!l)return;let u=null;d.addEventListener("click",v),E(l,M),window.addCleanup(()=>{u?.cleanup(),d.removeEventListener("click",v)})}});
+</script><script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/copy-tex.min.js" type="application/javascript" data-persist="true"></script><script src="./postscript.js" type="module" data-persist="true"></script></html>
