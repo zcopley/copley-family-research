@@ -102,30 +102,29 @@ Also updated `index.md` (homepage) to link to `Search Index` in navigation.
 
 ## 5) Build / Deployment Status
 
-- ⚠️ `npm run build` **not yet run** in this session — changes are committed and pushed to `main` but not built/deployed to `gh-pages`.
-- Next agent should pull, build, and deploy.
+- ✅ GitHub Actions workflow added: `.github/workflows/deploy.yml`
+  - Triggers on every push to `main`
+  - Installs Node 22, runs `npx quartz build`, pushes `public/` to `gh-pages`
+  - Replaces manual build+deploy permanently
+- ✅ First CI run succeeded (both "Build and Deploy Quartz Site" and "pages build and deployment" completed successfully)
+- ✅ Site is live at https://zcopley.github.io/copley-family-research/
 
 ---
 
 ## 6) Git Status
 
-Changes committed to `main` and pushed. Commit message: `Phase 2A: Fix Mermaid diagram, add search index and aliases`
+Two commits pushed to `main`:
+1. `8b5fcbb` — `Phase 2A: Fix Mermaid diagram, add search index and aliases`
+2. `d6ec6e7` — `Add GitHub Actions workflow to auto-build and deploy on push to main`
 
 ---
 
 ## 7) Recommended Next-Agent Actions
 
-1. Pull latest main and rebuild:
-   ```bash
-   cd /path/to/copley-family-research
-   git pull origin main
-   npm run build
-   npx quartz sync
-   ```
-2. Verify Mermaid diagram renders correctly in browser — all spouses should now appear connected to their marriage diamonds (◇), not floating.
-3. Verify Search Index page is live and searchable.
-4. Consider adding aliases to remaining person pages that lack them (most G25+ pages have no aliases).
-5. Consider Phase 2B: standardize and complete G27–G28 living family profiles (flagged as "uneven depth" in review).
+1. Verify Mermaid diagram renders correctly in browser — all spouses should now appear connected to their marriage diamonds (◇), not floating.
+2. Verify Search Index page is live and all links resolve.
+3. Consider adding `aliases` frontmatter to remaining person pages that lack them (most G25+ pages have no aliases).
+4. Consider Phase 2B: standardize and complete G27–G28 living family profiles (flagged as "uneven depth" in review).
 
 ---
 
