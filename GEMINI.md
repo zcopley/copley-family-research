@@ -56,4 +56,4 @@ Do NOT link the following individuals to these incorrect social media profiles:
 - **Oil Strike:** The "Copley No. 1" strike occurred in 1900 on the family farm.
 
 ## Last Known Handoff
-Refer to `AGENT_HANDOFF_PHASE_2E.md` for the latest session summary.
+Refer to `AGENT_HANDOFF_PHASE_2F.md` for the latest session summary.

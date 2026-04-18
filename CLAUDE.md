@@ -217,3 +217,4 @@ For prior session context, read in order:
 4. `AGENT_HANDOFF_PHASE_2C.md` — Site config fixes, social media corrections
 5. `AGENT_HANDOFF_PHASE_2D.md` — Image catalog complete, Stephen line profiles rebuilt
 6. `AGENT_HANDOFF_PHASE_2E.md` — Stubs cleared, deploy fixed, SSH documented
+7. `AGENT_HANDOFF_PHASE_2F.md` — GEDCOM data incorporated, Family Tree Georgia/Susan bug fixed, Benjamin Partlow page created

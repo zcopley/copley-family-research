@@ -135,9 +135,9 @@ MICHAEL_R["Michael Ruland"]:::sardoBranch
 MC["Michael Copley<br>b. 1959<br><i>m. Patti Inman</i>"]:::stephenLine
 SARA_C["Sara Copley<br>b. 1961<br><i>m. R. Cox '86</i>"]:::stephenLine
 PHILIP["Philip Copley<br>b. 1962"]:::stephenLine
-PAUL["Paul Copley<br>b. 1964"]:::stephenLine
+PAUL["Paul Copley<br>b. 1964<br><i>m. A.M. Leonhardt</i>"]:::stephenLine
 PETER["Peter Copley<br>b. 1966<br><i>m. K. VanderMolen</i>"]:::stephenLine
-SUSAN_C["Susan Copley<br>b. 1967<br><i>m. A. Leonhardt</i>"]:::stephenLine
+SUSAN_C["Susan Copley<br>b. 1967"]:::stephenLine
 STEPHEN_J["Stephen J. Copley<br>b. 1970 · d. 2023"]:::stephenLine
 
 AMY["Amy E. Copley Geist<br>b. Jul 11, 1990<br><i>m. Nathan Geist 2021</i>"]:::stephenLine
@@ -155,7 +155,7 @@ STEPHEN_GC["Stephen Copley"]:::grandchild
 SARA_C --- BOBBY_COX
 BOBBY_COX["Robert 'Bobby' Cox<br>b. Oct 3, 1988"]:::grandchild
 
-SUSAN_C --- GEORGIA
+PAUL --- GEORGIA
 GEORGIA["Georgia Leonhardt"]:::grandchild
 
 AMY --- WILLIAM_G

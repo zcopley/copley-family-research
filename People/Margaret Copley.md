@@ -11,9 +11,13 @@ tags:
 📊 View [[Family Tree]] for visual context.
 
 ## Biographical Profile
-[[Margaret Copley]] is identified as a daughter of [[Michael Copley Sr|Michael Copley]] and [[Ann Copley]], born in **1855**. Family narrative reports she **never married** and died in **1910**.
+[[Margaret Copley]] is identified as a daughter of [[Michael Copley Sr|Michael Copley]] and [[Ann Copley]], born in **1854/1855**. Family narrative reports she **never married** and died in **1910**.
 
 Photographic evidence in family compilations includes a portrait labeled as John’s sister Margaret.
+
+- **Birth:** 25 Dec 1854, Lewis County, WV (Ancestry.com tree, unverified; family narrative gives 1855)
+- **Death:** 18 Jan 1910 (Ancestry.com tree, unverified)
+- **Burial:** Weston, Lewis County, WV (Ancestry.com tree, unverified)
 
 ## Family Relationships
 - Parents: [[Michael Copley Sr|Michael Copley]], [[Ann Copley]]

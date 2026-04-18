@@ -11,9 +11,14 @@ tags:
 📊 View [[Family Tree]] for visual context.
 
 ## Biographical Profile
-[[Sarah Copley]] is the youngest reported daughter in the eight-child set of [[Michael Copley Sr|Michael Copley]] and [[Ann Copley]], born in **1859**. Family narrative indicates she **never married** and died in **1939**.
+[[Sarah Copley]] is the youngest reported daughter in the eight-child set of [[Michael Copley Sr|Michael Copley]] and [[Ann Copley]], born in **1859**. Family narrative indicates she **never married** and died in **1939**. She is reported to have lived at **108 Cottage Ave, Weston, WV** in her later years.
 
 A labeled photograph is referenced in the family history materials.
+
+- **Birth:** 10 Oct 1859, Lewis County, WV (Ancestry.com tree, unverified; year confirmed by family narrative)
+- **Death:** January 1939, Weston, Lewis County, WV (Ancestry.com tree, unverified)
+- **Burial:** Weston, Lewis County, WV (Ancestry.com tree, unverified)
+- **Residence:** 108 Cottage Ave, Weston, WV (family sources)
 
 ## Family Relationships
 - Parents: [[Michael Copley Sr|Michael Copley]], [[Ann Copley]]
