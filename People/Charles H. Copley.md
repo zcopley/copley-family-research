@@ -34,8 +34,6 @@ tags:
 ## Social Media & Online Presence
 - 💼 **LinkedIn:** [Charles Copley](https://www.linkedin.com/in/charlescopley/)
 - 📸 **Instagram:** [@charlescopley](https://www.instagram.com/charlescopley/)
-- 🐦 **Twitter/X:** [@Charles_Copley](https://twitter.com/charles_copley?lang=en)
-- 📘 **Facebook:** [Charles Copley](https://www.facebook.com/charles.copley.921/) *(Likely match)*
 
 ## Research Gaps
 1. Confirm birth month/day.

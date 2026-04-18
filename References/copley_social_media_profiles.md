@@ -45,7 +45,7 @@ tags:
 - **Note:** No public profiles found. Numerous profiles for "Paul Copley" exist, but none could be confidently matched to the birth year and other details.
 
 ### Peter Copley (b. 1966)
-- **Note:** A British composer named Peter Copley is a strong candidate, but his birth year is 1962, which is a discrepancy. His [Twitter/X profile is @petergcopley](https://twitter.com/petergcopley?lang=en) and his [LinkedIn profile](https://www.linkedin.com/in/peter-copley-2a956729/).
+- **Note:** No verified public profiles found. A British composer named Peter Copley exists, but he is a different person.
 
 ### Susan Copley (b. 1967)
 - **Note:** No public profiles found. Two Instagram profiles exist, but with no information to verify the birth year.
@@ -64,8 +64,7 @@ tags:
 ### Charles H. Copley (b. 1985)
 - **LinkedIn:** [Charles Copley](https://www.linkedin.com/in/charlescopley/) - **Confidence:** High (Cross-functional tech leader from Oxford, which aligns with a professional background).
 - **Instagram:** [@charlescopley](https://www.instagram.com/charlescopley/) - **Confidence:** High (Linked from other profiles).
-- **Twitter/X:** [@Charles_Copley](https://twitter.com/charles_copley?lang=en) - **Confidence:** High (Linked from other profiles).
-- **Facebook:** [Charles Copley](https://www.facebook.com/charles.copley.921/) - **Confidence:** Medium (Common name, but likely the same person given other profiles).
+- **Note:** No verified Twitter/X or Facebook profiles found.
 
 ### Lauren Copley Meier
 - **Note:** No public profiles found.
@@ -82,7 +81,7 @@ tags:
 - **Facebook:** [georgleo.leonhardt](https://facebook.com/georgleo.leonhardt) - **Confidence:** Low (Similar name, but no other information to confirm).
 
 ### William Geist
-- **Instagram:** [@williegeist](https://www.instagram.com/williegeist/?hl=en) - **Confidence:** High (Willie Geist is a well-known journalist and the son of Bill Geist. This is a strong candidate for a family connection).
+- **Note:** No public profiles found for G27 William Stephen Geist (b. 2023). Profiles for "Willie Geist" (journalist) are for a different person.
 
 ### Wyatt Copley
 - **Note:** No public profiles found.
