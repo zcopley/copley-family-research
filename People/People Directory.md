@@ -70,6 +70,10 @@ This index points to profile pages in `People/` and is organized by generation. 
 - [[Mary Ellen Dolan Copley]]
 - [[Dolan Family]]
 
+## Historical Figures (Partlow / Contextual)
+- [[Benjamin Partlow]] — Revolutionary War veteran (c.1762); Culpeper Co. VA; ancestor of Marion Partlow
+- [[Weeden Hoffman]] — 1843 land deed counterparty
+
 ## Notes
 - Phase 1B adds comprehensive pages for all currently identified G25 members in scope.
 - Living-person coverage intentionally excludes sensitive personal data and uses high-level, source-backed biography only.

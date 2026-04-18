@@ -48,10 +48,10 @@ Full-text searchable index of everyone and everything in this vault. Use Ctrl+K 
 
 | Name | Born | Died | Also Known As |
 |------|------|------|---------------|
-| [[People/Thomas E. Copley\|Thomas E. Copley]] | Feb 19, 1892 | Jan 28, 1968 | T.E. Copley; IRS Chief, St. Louis; married Drusilla |
-| [[People/Mary Copley Flesch\|Mary Copley Flesch]] | 1893 | 1971 | Mary Flesch; married Edward Flesch; moved to Albuquerque NM |
-| [[People/Anne Copley (daughter of John Copley)\|Anne Copley (daughter of John)]] | Jun 6, 1895 | Jul 28, 1970 | never married; moved to Albuquerque NM for health |
-| [[People/Ellen Bernadine Nelle Copley Sardo\|Ellen Bernadine "Nelle" Copley Sardo]] | Dec 23, 1897 | Feb 11, 1977 | Nelle, Nelle Sardo, Nelle Copley; RN, Dir. Nursing Ed., Baltimore |
+| [[People/Thomas E. Copley\|Thomas E. Copley]] | Feb 19, 1892, Bealls Mill, Lewis Co. WV | Jan 28, 1968 (appendix); 30 Jan 1967 (Ancestry—conflict) | T.E. Copley; IRS Chief, St. Louis; married Drusilla |
+| [[People/Mary Copley Flesch\|Mary Copley Flesch]] | 13 Apr 1893, WV (Ancestry, unverified) | 4 Jul 1971, Albuquerque NM (Ancestry, unverified) | Mary Flesch; married Edward Flesch; moved to Albuquerque NM |
+| [[People/Anne Copley (daughter of John Copley)\|Anne Copley (daughter of John)]] | Jun 6, 1895, Camden, Lewis Co. WV | Jul 28, 1970, Albuquerque NM | never married; moved to Albuquerque NM for health |
+| [[People/Ellen Bernadine Nelle Copley Sardo\|Ellen Bernadine "Nelle" Copley Sardo]] | Q45 conflict: Dec 23 1897 (family bio) / 1896 (census) / 25 Dec 1896 Sand Fork Gilmer Co WV (Ancestry) | Feb 11, 1977, Baltimore MD | Nelle, Nelle Sardo, Nelle Copley; RN, Dir. Nursing Ed., Baltimore |
 | [[People/Michael Joseph Copley\|Michael Joseph Copley]] | Sep 16, 1898 | Sep 17, 1988 | M.J. Copley; chemist, USDA Director; buried Sunset View Cemetery, El Cerrito CA |
 
 ### G25 — Sardo Branch (Nelle's Children)
@@ -72,7 +72,7 @@ Full-text searchable index of everyone and everything in this vault. Use Ctrl+K 
 
 | Name | Married | Also Known As |
 |------|---------|---------------|
-| [[People/Marion Elizabeth Partlow\|Marion Elizabeth Partlow]] | 1933 | Marion Copley; from Casey IL; Welsh-origin Partlow family; buried Sunset View Cemetery El Cerrito CA |
+| [[People/Marion Elizabeth Partlow\|Marion Elizabeth Partlow]] | 1933 | Marion Copley; from Casey IL; Welsh-origin Partlow family; d. 26 Mar 1977; buried Sunset View Cemetery El Cerrito CA; parents: Nollie Franklin Partlow (1874–1956) and Mary Alice Partlow (1880–1962) |
 | [[People/Marcia Thornton Copley\|Marcia Thornton]] | ~1958 (UC Berkeley) | 1st wife of Stephen; divorced 1983; remarried Ed Dawson (SVS); Cal State Dominguez Hills BA; Harbor Regional Center |
 | [[People/Judith Ann Todd Copley\|Judith "Judy" Todd]] | 1984 | 2nd wife of Stephen; from Wakefield Yorkshire England; Cambridge PhD; IIT→PSU; ASMI President |
 | Barbara Dee LaForce | Mar 19, 1967 | "Dee"; wife of Thomas Partlow Copley; Zeta Tau Alpha sorority |
@@ -172,8 +172,10 @@ Full-text searchable index of everyone and everything in this vault. Use Ctrl+K 
 | [[People/Minter Bailey\|Minter Bailey]] | Historical context |
 | [[People/Thomas Pickering\|Thomas Pickering]] | Historical context |
 | [[People/Octavius Pickering\|Octavius Pickering]] | Historical context |
-| Michael Dolan | father of Mary Ellen Dolan Copley; b. 1824, d. 1888 |
-| Elizabeth Dolan | mother of Mary Ellen Dolan Copley; b. 1829, d. 1913 |
+| Michael Patrick Dolan | father of Mary Ellen Dolan Copley; b. 1824 Cork, Ireland; d. 9 Nov 1888 Lewis Co. WV (Ancestry, unverified) |
+| Elizabeth Mullooly Dolan | mother of Mary Ellen Dolan Copley; b. May 1829 Co. Roscommon, Ireland; d. 3 May 1913 Weston WV; maiden name Mullooly (Ancestry, unverified) |
+| [[People/Benjamin Partlow\|Benjamin Partlow]] | Revolutionary War veteran (c.1762); Culpeper Co. VA; Virginia militia; ancestor of Marion Partlow; pension 1834 |
+| Nollie Franklin Partlow | father of Marion Partlow; b. 8 Oct 1874 Clark Co. IL; d. 21 Nov 1956 Terre Haute IN; buried Oak Point IL (Ancestry, unverified) |
 
 ---
 
