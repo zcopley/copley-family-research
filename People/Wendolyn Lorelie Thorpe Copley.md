@@ -64,6 +64,5 @@ Wendy is a published author specializing in bento box lunches for children, with
 
 ## Research Gaps
 
-1. Full birth date.
-2. ISBNs for both books.
-3. Additional biographical details.
+1. Full birth dates for Wyatt and Augie.
+2. Additional biographical details.

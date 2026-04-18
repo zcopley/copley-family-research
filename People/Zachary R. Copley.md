@@ -10,7 +10,7 @@ tags:
   - "#tom-line"
 ---
 
-# Zachary R. Copley (b. May 1969)
+# Zachary R. Copley (b. May 22, 1969)
 
 📊 View [[Family Tree]] for visual context.
 
@@ -39,6 +39,5 @@ tags:
 
 ## Research Gaps
 
-1. Confirm full birth date (month/day).
-2. Wendy Thorpe's biographical details.
-3. Full birth dates for Wyatt and Augie.
+1. Wendy Thorpe's biographical details.
+2. Full birth dates for Wyatt and Augie.
