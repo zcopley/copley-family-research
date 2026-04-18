@@ -199,9 +199,21 @@ See `Phase 1 Questions and Answers.md` for the full list. Key unresolved questio
 
 ---
 
+## Build & Deployment (Critical)
+
+- **Build command:** `npm run build` — do NOT use `npx quartz build` alone (missing `-d .` flag produces empty output)
+- **Deploy:** `peaceiris/actions-gh-pages@v4` in `.github/workflows/deploy.yml`
+- **SSH for push:** uses `~/.ssh/id_rsa`; run `ssh-add ~/.ssh/id_rsa` if key drops from agent
+- **Known hosts issue:** if push fails with "Host key verification failed", run `ssh-keygen -R <ip>` to remove stale IP-based entries
+
+---
+
 ## Handoff Documents
 
 For prior session context, read in order:
 1. `AGENT_HANDOFF_PHASE_1E.md` — Topics section creation
 2. `AGENT_HANDOFF_PHASE_2A.md` — Site improvements, Mermaid fix, search index, Tom line profiles
 3. `AGENT_HANDOFF_PHASE_2B.md` — Appendices bio-sketches, images extracted, G26 Stephen line profiles rebuilt
+4. `AGENT_HANDOFF_PHASE_2C.md` — Site config fixes, social media corrections
+5. `AGENT_HANDOFF_PHASE_2D.md` — Image catalog complete, Stephen line profiles rebuilt
+6. `AGENT_HANDOFF_PHASE_2E.md` — Stubs cleared, deploy fixed, SSH documented

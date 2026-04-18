@@ -45,13 +45,10 @@ Do NOT link the following individuals to these incorrect social media profiles:
 
 ## Development & Deployment
 - **Node Version:** Requires Node v22+.
-- **Build Command:** `npm run build`
-- **Deployment:** Handled by GitHub Actions (`.github/workflows/deploy.yml`) on push to `main`.
-- **Manual Recovery:** If the `gh-pages` branch falls out of sync or the site breaks, use this command to force-push the `public` folder:
-  ```bash
-  git subtree split --prefix public -b tmp-gh-pages && git push origin tmp-gh-pages:gh-pages --force && git branch -D tmp-gh-pages
-  ```
+- **Build Command:** `npm run build` — this includes the required `-d .` flag. Do NOT use `npx quartz build` alone; it produces empty output (no content pages).
+- **Deployment:** `peaceiris/actions-gh-pages@v4` in `.github/workflows/deploy.yml` — deploys on every push to `main`.
 - **Site Config:** Ensure `baseUrl` in `quartz.config.ts` does NOT include the `https://` protocol prefix, as Quartz handles this automatically.
+- **SSH:** GitHub pushes use `~/.ssh/id_rsa`. Run `ssh-add ~/.ssh/id_rsa` if the key drops from agent. If "Host key verification failed", run `ssh-keygen -R <offending-ip>` to clear stale IP entries from `~/.ssh/known_hosts`.
 
 ## Historical Research Context
 - **Immigration:** Michael and Patrick Copley arrived in NY on the *Kutusoff* in 1837.
@@ -59,4 +56,4 @@ Do NOT link the following individuals to these incorrect social media profiles:
 - **Oil Strike:** The "Copley No. 1" strike occurred in 1900 on the family farm.
 
 ## Last Known Handoff
-Refer to `AGENT_HANDOFF_PHASE_2C.md` for the latest session summary.
+Refer to `AGENT_HANDOFF_PHASE_2E.md` for the latest session summary.
