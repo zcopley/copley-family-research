@@ -1,6 +1,6 @@
 # Quartz
 node_modules
-# public (temporarily unignored for manual deploy)
+public
 .quartz-cache
 .obsidian
 .DS_Store
