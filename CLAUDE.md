@@ -204,3 +204,4 @@ See `Phase 1 Questions and Answers.md` for the full list. Key unresolved questio
 For prior session context, read in order:
 1. `AGENT_HANDOFF_PHASE_1E.md` — Topics section creation
 2. `AGENT_HANDOFF_PHASE_2A.md` — Site improvements, Mermaid fix, search index, Tom line profiles
+3. `AGENT_HANDOFF_PHASE_2B.md` — Appendices bio-sketches, images extracted, G26 Stephen line profiles rebuilt
