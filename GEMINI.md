@@ -85,7 +85,10 @@ Tom and Steve Copley (G25) conducted research into the English/Irish origins of 
 **New top priority:** Establish relationship between William Copely of Fairymount and Michael Copley Sr. of Lewis County WV.
 
 ## Changelog
-A human-readable `CHANGELOG.md` now exists at the vault root. Update it at the start of each new session.
+A human-readable `CHANGELOG.md` exists at the vault root. Update it at the end of each session. Every entry must include WikiLinks to every page added or changed (see Linking & Structure above).
+
+## README
+A `README.md` exists at the repo root for GitHub visitors. It covers the live site URL, directory structure, tech stack, local dev instructions, and deployment. Update it if the tech stack or repo structure changes significantly.
 
 ## Last Known Handoff
-Refer to `AGENT_HANDOFF_PHASE_2G.md` for the latest session summary.
+Refer to `AGENT_HANDOFF_PHASE_2H.md` for the latest session summary.
