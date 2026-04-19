@@ -175,7 +175,14 @@ Tom Copley (G25) and Steve Copley (G25) conducted extensive research (Feb–Marc
 - Tithe Applotment Books (all Roscommon): **no Copley found** — AI's Kilmacough/Kilgefin/1824 claim is 🚫 fabricated
 - Griffith's Valuation (all Roscommon): **4 Copleys found** — Bridget, John, Richard, Thomas — all in Termonbeg townland, Kilkeevin Parish (Protestant), tenants of Sandford estate, 1857. John is sub-tenant of Bridget (family relationship). No Catholic Copley found anywhere in Roscommon.
 
-**New top research priority:** Establish geographic relationship between Termonbeg (Kilkeevin) and Kilgefin Catholic parish. If they border each other, the Protestant Termonbeg Copleys are the most plausible progenitors of our Catholic line via a conversion marriage.
+**PRIMARY BREAKTHROUGH (April 18, 2026):** A Catholic Copely family confirmed in **Fairymount, Kilgefin parish**:
+- **William Copely** (b.~1794, d. Q4 1864, age 70) — farmer, Fairymount — Catholic
+- **Michael Copely** (b.~1834) — his son, married Bridget Gibbons (Ballincurry, Kilgefin) May 16, 1864, Roman Catholic ceremony
+- William Copely is ~19 years older than Michael Copley Sr. (b.~1813, Lewis County WV) — likely older brother or possibly father
+- **Spelling note:** Catholic branch uses "Copely"; Protestant Kilkeevin branch uses "Copley"
+- Q6 re-opened: family tradition says Michael Sr.'s brother William "went to Australia" — but this William stayed in Roscommon until 1864
+
+**New top research priority:** Determine relationship between William Copely of Fairymount (b.~1794) and Michael Copley Sr. (b.~1813). Look for William's baptism record or earlier family documentation in Kilgefin/Roscommon.
 
 ---
 

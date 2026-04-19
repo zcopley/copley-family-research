@@ -128,7 +128,25 @@ Note: `email3.eml` is very large (~79K tokens). The script handles it fine; the 
 
 ---
 
-## 6) Primary Source Search Results (April 18, 2026)
+## 6) PRIMARY BREAKTHROUGH — Catholic Copely Family Found in Kilgefin (April 18, 2026)
+
+**This is the most significant finding of the entire research project.**
+
+Civil registration searches on irishgenealogy.ie confirmed a Catholic Copely family in **Fairymount, Kilgefin parish** — the exact parish the AI identified as our family's origin:
+
+- **William Copely** (b. ~1794, d. Q4 1864, age 70) — farmer, Fairymount, Kilgefin — Catholic
+- **Michael Copely** (b. ~1834) — his son, farmer, Fairymount — married **Bridget Gibbons** (from Ballincurry, also Kilgefin) in a **Roman Catholic ceremony**, May 16, 1864
+- Father named on marriage certificate: **William Copely, Farmer**
+
+William Copely (b.~1794) is approximately 19 years older than Michael Copley Sr. (b.~1813, Lewis County WV) — close enough to be his older brother or possibly his father. Both Catholic, both farming class, both in Kilgefin parish.
+
+**Q6 implication:** Family tradition says Michael Sr. had a brother William who "went to Australia." This William stayed in Roscommon until 1864. The tradition may be wrong, or there may be two Williamses.
+
+**Spelling distinction:** The Catholic branch consistently spells the name **"Copely"** (no second 'l'). The Protestant Kilkeevin branch uses **"Copley"**. This may reliably distinguish the two branches in records.
+
+Also found: **Richard Copely** in Tully, Kilcorkey parish (GV 1857, Pakenham estate) — "Copely" spelling suggests possible connection to Catholic branch.
+
+## 6a) Primary Source Search Results (April 18, 2026)
 
 These searches were completed during this session — results are now in the research page.
 

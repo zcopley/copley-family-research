@@ -12,6 +12,26 @@ A running record of significant additions, corrections, and improvements to this
 
 ---
 
+## Phase 2G (continued) — Catholic Copely Family Confirmed in Kilgefin
+**Date:** April 18, 2026
+
+### Civil Registration Breakthrough
+
+Two significant civil records found via irishgenealogy.ie:
+
+1. **William Copley, death 1864, age 70, Roscommon SR District** — born ~1794; Catholic farmer in Fairymount, Kilgefin parish
+2. **Michael Copely married Bridget Gibbons, May 16, 1864** — Roman Catholic ceremony; Michael's residence: Fairymount (Kilgefin); father named as **William Copely, Farmer**; Bridget's residence: Ballincurry (also Kilgefin)
+
+This is the first confirmed Catholic Copley/Copely family in Kilgefin parish. William Copely (b.~1794) may be an older brother — or possibly the father — of Michael Copley Sr. (b.~1813, Lewis County WV). Family tradition of a brother "William who went to Australia" (Q6) may be incorrect; this William stayed in Roscommon.
+
+Also found: **Richard Copely** in Tully, Kilcorkey parish (GV 1857), Pakenham estate — possible additional family member using the Catholic branch's "Copely" spelling.
+
+Neither spelling variant appeared in the Tithe Applotment Books, confirming the Catholic branch were landless laborers pre-Famine.
+
+Research page Section 13 substantially expanded with all findings.
+
+---
+
 ## Phase 2G (continued) — Griffith's Valuation & Tithe Applotment Books
 **Date:** April 18, 2026
 

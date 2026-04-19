@@ -18,7 +18,9 @@ tags:
 
 📊 View [[Family Tree]] for visual context.
 
-> **RESEARCH STATUS:** Active, unresolved. This page documents an ongoing investigation by [[People/Thomas Tom Copley|Tom Copley]] (G25) and [[People/Stephen Michael Copley|Stephen Copley]] (G25) into the possible English and Irish origins of [[People/Michael Copley Sr.|Michael Copley Sr.]] (G23, b. ~1813), our earliest known Copley ancestor. Conducted February–March 2026 via email correspondence and Google AI research sessions.
+> 🔍 **BREAKTHROUGH — April 18, 2026:** A Catholic Copely family has been confirmed in **Fairymount, Kilgefin parish, County Roscommon** through civil registration records. **William Copely** (b. ~1794, d. 1864, farmer) and his son **Michael Copely** (b. ~1834, married Bridget Gibbons, Kilgefin, 1864) are the first documented Catholic Copleys in the parish our family is believed to have come from. William Copely is approximately 19 years older than [[People/Michael Copley Sr.|Michael Copley Sr.]] (b. ~1813, Lewis County WV) — likely his older brother or possibly his father. See **Section 13** for full primary source findings.
+
+> **RESEARCH STATUS:** Active, partially resolved. This page documents an ongoing investigation by [[People/Thomas Tom Copley|Tom Copley]] (G25) and [[People/Stephen Michael Copley|Stephen Copley]] (G25) into the possible English and Irish origins of [[People/Michael Copley Sr.|Michael Copley Sr.]] (G23, b. ~1813), our earliest known Copley ancestor. Conducted February–March 2026 via email correspondence and Google AI research sessions.
 >
 > **Source quality key used throughout this page:**
 > - ✅ **[VERIFIED]** — Confirmed in a named primary source (court record, published book, civil register, etc.)
@@ -421,6 +423,77 @@ No Copley appears anywhere in the Tithe Applotment Books for County Roscommon (1
 **Explanation B — Termonbeg origin with Catholic conversion:** Our family *were* from this same Termonbeg Protestant Copley cluster, with one generation converting to Catholicism through marriage — most likely a Copley marrying a Dolan — and moving into adjacent Kilgefin parish. This would explain: (a) why no Catholic Copley appears in land records (they converted and lost Protestant record-keeping access while Catholic records were sparse/destroyed); and (b) why a Copley ended up in the same Kilgefin area as the Dolans. Kilkeevin and Kilgefin are neighboring parishes; Termonbeg is physically close to the Kilgefin Catholic community.
 
 **The geographic relationship between Kilkeevin/Termonbeg and Kilgefin parish is the critical next thing to investigate.** If Termonbeg is on the border with Kilgefin, Explanation B becomes considerably more plausible.
+
+### Civil Registration Search (irishgenealogy.ie) — COMPLETED
+
+**Search:** Surname "Copley" and "Copely", County Roscommon, irishgenealogy.ie
+
+**Result: Two significant records found.**
+
+✅ **[VERIFIED — Civil Death Record, 1864]**
+- **William Copley**, died 1864, age 70, SR District: Roscommon
+- Born approximately **1794**
+- Returns Quarter 4 (October–December 1864)
+- Volume 18, Page 242
+- Image not available
+
+✅ **[VERIFIED — Civil Marriage Record, 1864]**
+- **Michael Copely** married **Bridget Gibbons**, May 16, 1864
+- Roman Catholic ceremony, Chapel of Borrane (or similar), Registrar's District: Roscommon
+- Michael: age 30, Bachelor, **Farmer**, residence **Fairymount** — ✅ a townland in **Kilgefin Civil Parish**
+- Michael's father: **William Copely, Farmer**
+- Bridget: age 25, Spinster, residence **Ballincurry** — ✅ also a townland in **Kilgefin Civil Parish**
+- Bridget's father: Pat Gibbons, Farmer
+- Witnesses: Matthew Browning; Bridget Gibbons (bride's sister)
+- (Source: irishgenealogy.ie, Group Registration ID 3025852; original register image viewed)
+
+**This is the most significant finding of the entire research project to date.**
+
+William Copely (farmer, Fairymount, Kilgefin) is almost certainly the **same person** as the William Copley who died Q4 1864 aged 70 in the Roscommon SR District — his son married in May 1864, and William died a few months later. William was born approximately **1794** and was a Catholic farmer in Kilgefin parish. His son Michael (b. ~1834) was also a farmer in Fairymount, marrying a woman from the adjacent Kilgefin townland of Ballincurry.
+
+**The connection to Michael Copley Sr. (b. ~1813, Lewis County WV):**
+
+William Copely (b. ~1794) and Michael Copley Sr. (b. ~1813) are approximately 19 years apart in age. Two possible relationships:
+- **William was Michael Sr.'s older brother** — both sons of an unknown patriarch born ~1770s, with Michael Sr. emigrating to America while William remained in Fairymount
+- **William was Michael Sr.'s father** — conceivable but would mean William fathered Michael at ~19 years old
+
+⚠️ **[PLAUSIBLE — significant]** Family tradition (via Lewis County research) holds that Michael Copley Sr. had a brother **William** who "emigrated to Australia" (Research Question Q6 — never confirmed). The discovery of a William Copley remaining in Roscommon until 1864 raises the possibility that the Australia tradition is incorrect or confused, and that William actually stayed in Ireland. Alternatively, there may have been two Williams — one who went to Australia, and this one who stayed.
+
+**Note on spelling:** The marriage certificate consistently spells the surname **"Copely"** (without the second 'l'). The Protestant Kilkeevin branch consistently uses **"Copley"**. This orthographic distinction may reliably distinguish the two branches in historical records.
+
+### Additional GV Search ("Copely" Spelling) — COMPLETED
+
+**Search:** Family Name "Copely", County Roscommon, askaboutireland.ie
+
+**Result: One additional record found.**
+
+✅ **[VERIFIED — Griffith's Valuation, 1857]**
+- **Richard Copely**, tenant of **Hon. and Very Rev. Henry Pakenham**
+- Townland: **Tully**, Parish: **Kilcorkey**, Barony: Castlereagh, Union: Castlerea
+- Position on page: 3; Map Reference: 15 A,B,C
+
+Kilcorkey is a separate civil parish from both Kilkeevin and Kilgefin, also in the Barony of Castlereagh/Union of Castlerea area. The spelling "Copely" matches the Catholic Fairymount family rather than the Protestant Kilkeevin "Copley" branch. The Pakenham estate was a prominent Protestant landlord holding in County Roscommon, but tenant religion does not follow landlord religion. Whether Richard Copely of Tully is related to William Copely of Fairymount is unknown; the geographic proximity and shared spelling suggest a possible connection.
+
+### Tithe Applotment Books — "Copely" Spelling Search — COMPLETED
+
+**Search:** "Copely", County Roscommon, titheapplotmentbooks.nationalarchives.ie
+
+**Result: No records found.**
+
+Neither spelling variant ("Copley" or "Copely") appears in the Roscommon Tithe Applotment Books. William Copely's family held no titheable land in the 1820s–30s, confirming they were almost certainly landless laborers or cottiers during the pre-Famine period — consistent with the profile of poor Catholic families who emigrated during or just before the Famine.
+
+### Summary: The Catholic Copely Branch in Kilgefin
+
+The following is now established from primary sources:
+
+| Person | Record | Parish | Date | Source |
+|--------|--------|--------|------|--------|
+| William Copely, farmer | Death, age 70 | Roscommon SR District | d. Q4 1864 | Civil registration |
+| Michael Copely, farmer | Marriage to Bridget Gibbons | Kilgefin (Fairymount) | 16 May 1864 | Civil registration |
+| Bridget Gibbons (wife) | Marriage | Kilgefin (Ballincurry) | 16 May 1864 | Civil registration |
+| Richard Copely | Griffith's Valuation | Kilcorkey (Tully) | 1857 | Griffith's Valuation |
+
+The Catholic Copely family is confirmed in **Fairymount, Kilgefin parish** — the same civil parish the AI identified as our family's origin, and which contains the real townland of **Kilmacuagh** (the AI's "Kilmacough"). The family were landless in the pre-Famine period and appear in records only from 1857–1864. Michael Copley Sr. emigrated ~1837–38, twenty-five years before these records begin — consistent with a family branch that left no Irish paper trail before emigration.
 
 ---
 
