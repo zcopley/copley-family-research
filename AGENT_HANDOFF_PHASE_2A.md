@@ -7,6 +7,7 @@ tags:
   - site-improvements
   - mermaid
   - search
+draft: true
 ---
 
 # Phase 2A Handoff Summary (for next agent)
@@ -20,7 +21,6 @@ Perform site improvements following Phase 1E review:
 Working from local clone at: `/mnt/c/Users/zach/Projects/copley-family-research`
 Published at: https://zcopley.github.io/copley-family-research/
 
----
 
 ## 2) Review Findings (Phase 1E Audit)
 
@@ -33,7 +33,6 @@ Before making changes, a full site review was performed. Key findings:
 - **No `aliases` frontmatter** on any pages — nicknames unsearchable.
 - **No search index page** — `index.md` was a simple nav page with no searchable content.
 
----
 
 ## 3) What Was Completed
 
@@ -82,7 +81,6 @@ New comprehensive page at the vault root with:
 
 Also updated `index.md` (homepage) to link to `Search Index` in navigation.
 
----
 
 ## 4) Files Changed
 
@@ -98,7 +96,6 @@ Also updated `index.md` (homepage) to link to `Search Index` in navigation.
 | `index.md` | Added Search Index link to nav |
 | `AGENT_HANDOFF_PHASE_2A.md` | **This file** |
 
----
 
 ## 5) Build / Deployment Status
 
@@ -109,7 +106,6 @@ Also updated `index.md` (homepage) to link to `Search Index` in navigation.
 - ✅ First CI run succeeded (both "Build and Deploy Quartz Site" and "pages build and deployment" completed successfully)
 - ✅ Site is live at https://zcopley.github.io/copley-family-research/
 
----
 
 ## 6) Git Status
 
@@ -117,7 +113,6 @@ Two commits pushed to `main`:
 1. `8b5fcbb` — `Phase 2A: Fix Mermaid diagram, add search index and aliases`
 2. `d6ec6e7` — `Add GitHub Actions workflow to auto-build and deploy on push to main`
 
----
 
 ## 7) G26–G27 Profile Work (Tom Line) — Completed in This Session
 
@@ -142,7 +137,6 @@ The following profiles were fleshed out from direct family knowledge provided by
 - Lauren Copley Meier, Rowan Meier, William S. Geist, Robert Cox, Georgia Leonhardt
 - Zach may be able to upload documents with cousin information in a future session
 
----
 
 ## 8) Recommended Next-Agent Actions
 
@@ -152,7 +146,6 @@ The following profiles were fleshed out from direct family knowledge provided by
 4. Consider adding `aliases` frontmatter to remaining person pages that lack them (most G25+ pages have no aliases).
 5. Consider updating Search Index with newly added people (Wendy, Lance Thorpe).
 
----
 
 ## 8) Open Research Gaps (from Phase 1 Q&A)
 
@@ -169,7 +162,6 @@ For reference — not addressed in Phase 2A:
 | Q6 | William Copley's Australian fate | No direct confirmation |
 | Q33–35 | Living-family biographical sketches | Incomplete |
 
----
 
 ## 9) Fast File Checklist
 

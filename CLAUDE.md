@@ -1,3 +1,8 @@
+---
+title: CLAUDE.md — AI Agent Instructions
+draft: true
+---
+
 # CLAUDE.md — Copley Family Research Vault
 
 This file gives AI agents instant orientation for working on this project. Read it before doing anything else.

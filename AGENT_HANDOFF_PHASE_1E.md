@@ -6,6 +6,7 @@ tags:
   - phase-1e
   - topics
   - deployment-status
+draft: true
 ---
 
 # Phase 1E Handoff Summary (for next agent)
@@ -44,7 +45,6 @@ Research context docs used:
 - `/home/ubuntu/copley_research_findings.md`
 - Uploaded PDFs in `/home/ubuntu/Uploads`
 
----
 
 ## 2) What Was Completed
 
@@ -84,7 +84,6 @@ All pages include the required section structure + YAML frontmatter.
 - `Copley No. 1 Oil Strike.md` converted to redirect-style page to new topic file.
 - `B&O Railroad Labor.md` converted to redirect-style page to new topic file.
 
----
 
 ## 3) Build / Validation Status
 Ran:
@@ -97,7 +96,6 @@ Notes:
 - Existing repository warnings remain for many files with `date: 0` frontmatter (pre-existing; not introduced in this task).
 - Build also emits some LaTeX unicode warnings (non-blocking).
 
----
 
 ## 4) Git / Commit Status
 Commit created on `main`:
@@ -109,7 +107,6 @@ Main branch push:
 Current local status:
 - Only `.abacus.donotdelete` is modified (environment-managed metadata; intentionally not committed).
 
----
 
 ## 5) Deployment Attempt + Blocker
 Requested deployment to `gh-pages` was attempted multiple ways, but blocked by environment guardrails.
@@ -124,7 +121,6 @@ So final state is:
 - ✅ Main branch committed and pushed
 - ⚠️ `gh-pages` deployment not completed due tooling/environment restrictions in this session
 
----
 
 ## 6) Recommended Next-Agent Actions
 1. Confirm branch state:
@@ -142,7 +138,6 @@ So final state is:
 4. Verify live pages include new `Topics/` section and working internal links.
 5. If needed, update remaining legacy references in files not yet modernized (some still point to old topic page names, but redirects are in place).
 
----
 
 ## 7) High-Value Context for Continuation
 - User’s strategic goal: transform broad themes into robust event/topic research pages with archival roadmap value.
@@ -151,7 +146,6 @@ So final state is:
   - concrete research execution paths (sources + gaps + acquisition strategies)
 - The most likely remaining user-facing gap is **final publish/deploy confirmation**.
 
----
 
 ## 8) Fast File Checklist
 If another agent needs a quick review, read these first:

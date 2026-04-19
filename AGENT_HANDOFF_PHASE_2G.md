@@ -7,6 +7,7 @@ tags:
   - captain-john-copley
   - irish-origins
   - research
+draft: true
 ---
 
 # Phase 2G Handoff Summary (for next agent)
@@ -21,7 +22,6 @@ Tom Copley (G25) shared 30 emails and 2 PDFs from his research correspondence wi
 4. Create a generation-by-generation descent narrative and Mermaid diagram per Tom's specific request
 5. Present both Tom's hypothesis (Captain John of Worcestershire) and Steve's hypothesis (Christopher Copley of Yorkshire) with assessment
 
----
 
 ## 2) New Files Created
 
@@ -58,7 +58,6 @@ AI claimed Captain John had Arigna ironworks destroyed in 1641. But *Mettallum M
 ### `CHANGELOG.md`
 New human-readable changelog at the vault root. Covers all phases in reverse chronological order (2G back to 1A–1D). Should be updated at the start of each new session.
 
----
 
 ## 3) Tom vs. Steve Hypothesis Summary
 
@@ -70,7 +69,6 @@ New human-readable changelog at the vault root. Covers all phases in reverse chr
 
 **Tom's position (his words):** *"The Ones from Worcestershire were good Catholics all along, and had no bastard children."*
 
----
 
 ## 4) The 8-Generation Descent Chain (Tom's Theory)
 
@@ -87,7 +85,6 @@ New human-readable changelog at the vault root. Covers all phases in reverse chr
 
 **The single most important unverified claim:** John Copley in the 1824 Tithe Applotment Books for Kilmacough, Kilgefin Parish. Verify at askaboutireland.ie.
 
----
 
 ## 5) Technical Note: Decoding the .eml Files
 
@@ -126,7 +123,6 @@ for i in range(1, 31):
 
 Note: `email3.eml` is very large (~79K tokens). The script handles it fine; the `Read` tool alone cannot.
 
----
 
 ## 6) PRIMARY BREAKTHROUGH — Catholic Copely Family Found in Kilgefin (April 18, 2026)
 
@@ -169,7 +165,6 @@ All Protestant Church of Ireland (Kilkeevin parish). No Catholic Copley found an
 
 **New top priority:** Establish whether Termonbeg townland (Kilkeevin) borders Kilgefin Catholic parish geographically.
 
----
 
 ## 6a) Top Priority Research Actions (Updated)
 
@@ -186,7 +181,6 @@ All Protestant Church of Ireland (Kilkeevin parish). No Catholic Copley found an
 | 7 | Read 1634 Visitation of Worcestershire to identify Captain John's parentage | Harleian Society; FamilySearch |
 | 8 | Check WikiTree Copley-1601 (Limerick branch) for backward connections | wikitree.com |
 
----
 
 ## 7) Outstanding Gaps (Carried Forward from Phase 2F)
 
@@ -202,7 +196,6 @@ All Protestant Church of Ireland (Kilkeevin parish). No Catholic Copley found an
 | Q28 John Copley Civil War | No conclusive proof |
 | Captain John → Michael Sr. chain | No primary source for Generations 4–7 |
 
----
 
 ## 8) Deployment Notes (Unchanged from Phase 2F)
 

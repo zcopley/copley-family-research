@@ -1,6 +1,6 @@
 ---
 title: Home
-date: 2026-04-13
+date: 2026-04-18
 tags:
   - copley-family
   - genealogy
@@ -10,79 +10,53 @@ tags:
 
 # Copley Family Research Vault
 
-Welcome to the Copley family Obsidian vault. This vault consolidates evidence, hypotheses, open questions, and narrative history for the family line from **Michael Copley (b. 1813)** through modern descendants.
+Welcome to the Copley family research vault. This project consolidates evidence, narrative history, open questions, and biographical profiles for the family line from **Michael Copley Sr. (b. ~1813, County Roscommon, Ireland)** through modern descendants in G27–G28.
 
 ## Project Overview
 
-This project is based on:
-- Internal analysis: `/home/ubuntu/copley_research_analysis.md`
-- External findings: `/home/ubuntu/copley_research_findings.md`
-- Source PDFs:
-  - `Copley_Research_Strategy.pdf`
-  - `P1APPENDICES.pdf`
-  - `COPLEY HISTORY PART 1 final 2.pdf`
-
-The research focus includes:
-- Irish origins in Roscommon/Fermanagh
-- Immigration to the United States (1830s)
-- Settlement and land acquisition in Lewis County, WV
-- Industrial turning point: the 1900 [[Topics/1900 Copley Oil Strike|1900 Copley Oil Strike]]
-- Intergenerational mobility from farming to professional careers
+The research covers:
+- Irish origins in County Roscommon (active investigation — see [[Topics/Captain John Copley Research|Captain John Copley Research]])
+- Immigration to the United States (1837–38) via New York
+- Settlement and land acquisition in Lewis County, WV (1843)
+- The [[Topics/1900 Copley Oil Strike|1900 Copley Oil Strike]] — industrial turning point
+- Intergenerational mobility from farming to professional careers across the 20th century
 
 ## Vault Navigation
 
 ### Core Pages
 - [[Family Tree]] ⭐
-- [[Phase 1 Questions and Answers]]
 - [[People Directory]]
-- [[People/People Directory|People Directory (Individual Profiles)]]
-- [[Topics and Themes]]
-- [[Topics/_Topics Index|Topics Index]]
-- [[Places/_Places Index|Places Index]]
 - [[The Copley Family Narrative]]
-- [[Bibliography and Acquisition Guide]]
+- [[Topics and Themes]]
+- [[Phase 1 Questions and Answers]]
+- [[Search Index]]
 
 ### Recommended Reading Path
-1. Start with [[Family Tree]] for a visual map of family relationships and generations.
-2. Continue to [[Phase 1 Questions and Answers]] for active research priorities.
-3. Use [[People Directory]] to orient people and generations.
-4. Read [[Topics and Themes]] for historical context.
-5. Open [[Topics/_Topics Index|Topics Index]] for detailed event/theme pages.
-6. Open [[Places/_Places Index|Places Index]] for location-by-location research planning.
-7. Enjoy [[The Copley Family Narrative]] for a synthesized story.
-8. Use [[Bibliography and Acquisition Guide]] to acquire records/books and plan archival work.
+1. [[Family Tree]] — visual map of all relationships and generations
+2. [[People Directory]] — orient yourself to people and generations
+3. [[The Copley Family Narrative]] — synthesized prose history
+4. [[Topics and Themes]] — historical context and thematic research
+5. [[Phase 1 Questions and Answers]] — active research priorities and evidence gaps
 
 ## Research Methodology
 
 This vault uses an evidence-tier framework:
 
-1. **Primary evidence**: manifests, deeds, census, parish records, military files.
-2. **Secondary synthesis**: county histories, compiled genealogies, historical essays.
-3. **Oral history**: family tradition requiring corroboration.
-4. **Speculative hypotheses**: clearly marked with italics and bracketed notes.
+1. **Primary evidence** — manifests, deeds, census, parish records, military files
+2. **Secondary synthesis** — county histories, compiled genealogies, historical essays
+3. **Oral history** — family tradition requiring corroboration
+4. **Speculative hypotheses** — clearly marked with ❓ and bracketed notes
 
-All uncertain claims are labeled and paired with targeted acquisition strategies (archive, repository, or database actions).
+## Quick Links
 
-## Quick Links to Key Anchors
-
-- [[Michael Copley Sr|Michael Copley]]
-- [[Ann Copley]]
-- [[John Copley]]
-- [[Mary Ellen Dolan Copley]]
-- [[Ellen Bernadine Nelle Copley Sardo|Ellen Bernadine "Nelle" Copley Sardo]]
-- [[Michael Joseph Copley]]
+- [[People/Michael Copley Sr.|Michael Copley Sr.]] — G23 ancestor
+- [[People/Ann Copley|Ann Copley]] — née Munday
+- [[People/John Copley|John Copley]] — G23/G24
+- [[People/Mary Ellen Dolan|Mary Ellen Dolan Copley]]
+- [[People/Ellen Bernadine Nelle Copley Sardo|Ellen "Nelle" Copley Sardo]]
+- [[People/Michael Joseph Copley|Michael Joseph Copley]]
 - [[Places/Lewis County West Virginia|Lewis County, West Virginia]]
-- [[Places/Kilgefin Ireland|Kilgefin, Ireland]]
-- [[Places/Baltimore Maryland|Baltimore, Maryland]]
-- [[Topics/B&O Railroad Labor History|B&O Railroad Labor History]]
+- [[Places/Kilgefin Ireland|Kilgefin, County Roscommon]]
+- [[Topics/Captain John Copley Research|Captain John Copley Research]]
 - [[Topics/1900 Copley Oil Strike|1900 Copley Oil Strike]]
 - [[Topics/Irish Famine and Emigration|Irish Famine and Emigration]]
-- [[Topics/Academic and Scientific Achievement|Academic and Scientific Achievement]]
-
-## Current Status Snapshot
-
-- Core migration and settlement chronology: **well-supported**.
-- Irish parentage and key marriage records: **still open**.
-- Civil War quartermaster claim and oil lease economics: **high-priority evidence gaps**.
-
-Use [[Phase 1 Questions and Answers]] for immediate actions and progress tracking.

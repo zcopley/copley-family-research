@@ -6,6 +6,7 @@ tags:
   - phase-2b
   - bio-sketches
   - images
+draft: true
 ---
 
 # Phase 2B Handoff Summary (for next agent)
@@ -18,7 +19,6 @@ Two new PDFs gleaned:
 - `~/Downloads/P1APPENDICES.pdf` — earlier version of same appendix; mostly identical but Part 1 Appendices .pdf is the canonical version
 - `~/Downloads/homstead.pdf` — Iowa Homestead Tax Credit application (Zach & Wendy's personal document; not genealogy; revealed Zach's full birth date: **May 22, 1969**)
 
----
 
 ## 2) Person Pages Updated/Rebuilt
 
@@ -40,7 +40,6 @@ Two new PDFs gleaned:
 | Peter Copley | ✅ Rebuilt | b. Jan 12 1966 New Haven CT; USC Economics; married Karen VanderMolen RN 2012; lives Fillmore CA; software developer/musician |
 | Family Tree | ✅ Updated | Nelle birth year corrected 1896→1897 |
 
----
 
 ## 3) Images: 35 JPEGs Extracted into `static/images/`
 
@@ -71,7 +70,6 @@ Two new PDFs gleaned:
 
 **Unnamed originals** also in `static/images/` (appendix_jpeg_002/006/009/010 and history_jpeg_004/005/006/010/012/016/017/018/019/021/022) — not yet identified or cataloged; a future agent should view and label these.
 
----
 
 ## 4) Key Facts Still Pending (Not Yet Updated in Wiki)
 
@@ -86,7 +84,6 @@ Two new PDFs gleaned:
 - **Michael Joseph Copley burial**: Sunset View Cemetery, El Cerrito, CA (with Marion). Update Michael Joseph's page.
 - **Sara Copley Cox's mother** (Marcia) earned BA in Human Services from Cal State Dominguez Hills; became Client Service Coordinator at Harbor Regional Center. Update Marcia's page.
 
----
 
 ## 5) Git Status
 
@@ -95,7 +92,6 @@ One commit pushed to `main`:
 
 CI auto-deployed via GitHub Actions on push.
 
----
 
 ## 6) Uncataloged / Unidentified Images (Future Work)
 
@@ -111,7 +107,6 @@ These images in `static/images/` have not been identified or linked to pages yet
 
 A future agent can view these with the Read tool to identify and catalog them.
 
----
 
 ## 7) Recommended Next-Agent Actions
 
@@ -126,7 +121,6 @@ A future agent can view these with the Read tool to identify and catalog them.
 9. Add unlinked images to relevant person pages (Bobby Cox, Paul Copley house, etc.)
 10. Consider whether `~/Downloads/P1APPENDICES.pdf` (older version) can be deleted; `Part 1 Appendices .pdf` is canonical
 
----
 
 ## 8) Fast File Checklist
 

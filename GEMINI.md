@@ -1,3 +1,8 @@
+---
+title: GEMINI.md — AI Agent Instructions
+draft: true
+---
+
 # Gemini Agent Protocol — Copley Family Research Vault
 
 This document provides foundational mandates for AI agents working on the Copley Family Research Vault. These instructions take absolute precedence over general defaults.

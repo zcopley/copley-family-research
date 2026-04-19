@@ -4,13 +4,13 @@ date: 2026-04-18
 tags:
   - "#copley-family"
   - "#index"
+draft: true
 ---
 
 # Copley Family Research — Changelog
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
----
 
 ## Phase 2G (continued) — Catholic Copely Family Confirmed in Kilgefin
 **Date:** April 18, 2026
@@ -30,7 +30,6 @@ Neither spelling variant appeared in the Tithe Applotment Books, confirming the 
 
 Research page Section 13 substantially expanded with all findings.
 
----
 
 ## Phase 2G (continued) — Griffith's Valuation & Tithe Applotment Books
 **Date:** April 18, 2026
@@ -51,7 +50,6 @@ These are the Protestant Church of Ireland Castlerea branch. No Catholic Copley 
 
 **Key open question:** Geographic relationship between Termonbeg (Kilkeevin) and Kilgefin parish — if they border each other, the Protestant Termonbeg Copleys are the most plausible progenitors of our Catholic line via a conversion marriage.
 
----
 
 ## Phase 2G — Captain John Copley Research
 **Date:** April 18, 2026
@@ -67,7 +65,6 @@ These are the Protestant Church of Ireland Castlerea branch. No Catholic Copley 
   - 8-priority research vetting strategy
   - 20 open research questions organized in 4 tiers
 
----
 
 ## Phase 2F — GEDCOM Data, Family Tree Fix, Benjamin Partlow
 **Date:** April 18, 2026
@@ -83,7 +80,6 @@ These are the Protestant Church of Ireland Castlerea branch. No Catholic Copley 
 - **Family Tree bug:** Georgia Leonhardt had been connected to Susan Copley in the Mermaid diagram. Corrected to Paul Copley (her actual parent). Susan Copley's node label corrected accordingly.
 - **Search Index & People Directory** updated with all GEDCOM-sourced facts and new pages.
 
----
 
 ## Phase 2E — Stubs Cleared, Deployment Fixed
 **Date:** April 18, 2026
@@ -98,7 +94,6 @@ These are the Protestant Church of Ireland Castlerea branch. No Catholic Copley 
 - **Wyatt Copley**: birth date confirmed — October 2, 2004, Berkeley CA
 - **Augie Copley**: birth date confirmed — August 31, 2008, Oakland CA
 
----
 
 ## Phase 2D — Image Catalog Complete, Stephen Line Profiles
 **Date:** April 18, 2026
@@ -114,7 +109,6 @@ All 11 previously unnamed images in `static/images/` have been identified, renam
 - **William S. Geist**: removed "Willie Geist" alias (NBC journalist mismatch)
 - **Peter Copley**: removed mismatched British composer social media links
 
----
 
 ## Phase 2C — Site Config Fixes, Social Media Corrections
 **Date:** April 18, 2026
@@ -134,7 +128,6 @@ Removed incorrect links where AI had found people with the same name but differe
 - Peter Copley: removed mismatched LinkedIn/Twitter (British composer)
 - William S. Geist: removed Willie Geist Instagram (NBC journalist, not our G27 infant)
 
----
 
 ## Phase 2B — Biographical Sketches, 35 Images, G26 Profiles
 **Date:** April 17, 2026
@@ -154,7 +147,6 @@ Major rewrites with primary-source biographical detail: Thomas Partlow Copley ("
 - Children's full middle names: Zachary **Robertson**, Erin **Elizabeth**, Charles **Hewetson**
 - Amy Copley Geist: LSE MA, Brookings, World Bank Africa Gender Innovation Lab; married Nathan Geist Jun 19, 2021; son William Stephen Geist b. Dec 9, 2023
 
----
 
 ## Phase 2A — Mermaid Fix, Aliases, Search Index
 **Date:** April 17, 2026
@@ -166,7 +158,6 @@ Major rewrites with primary-source biographical detail: Thomas Partlow Copley ("
 - Added `aliases` frontmatter (nicknames, maiden names) to key person pages so they appear in Quartz search
 - Created **`Search Index.md`** — comprehensive keyword/name/date index covering all people by generation, all places, all topics, and a chronological events table (1813–2023)
 
----
 
 ## Phase 1E — Topics Section Created
 **Date:** April 13, 2026
@@ -183,7 +174,6 @@ Seven thematic research pages created:
 
 Each page includes: Historical Context, Copley Family Connection, Timeline, Primary Sources, Research Gaps, and YAML frontmatter. Cross-linked from `Home.md`, relevant person pages, and place pages.
 
----
 
 ## Phases 1A–1D — Foundation Work
 **Dates:** Prior to April 13, 2026
@@ -198,6 +188,5 @@ The initial build of this wiki, covering:
 - **Topics and Themes.md**: thematic overview
 - Deployment to GitHub Pages via Quartz v4 and GitHub Actions CI/CD
 
----
 
 *This changelog is maintained manually. For full technical detail on any phase, see the corresponding `AGENT_HANDOFF_PHASE_*.md` file in the vault root.*

@@ -6,6 +6,7 @@ tags:
   - phase-2e
   - stubs
   - deployment
+draft: true
 ---
 
 # Phase 2E Handoff Summary (for next agent)
@@ -24,7 +25,6 @@ The site was serving an empty RSS feed at the root URL — no content pages at a
 
 **Site is now healthy:** 357 files, 245 HTML pages, deploying correctly on every push to `main`.
 
----
 
 ## 2) Profiles Upgraded From Stubs
 
@@ -48,7 +48,6 @@ The site was serving an empty RSS feed at the root URL — no content pages at a
 | John Ruland | G26 | Child of Mary Sardo Ruland; married Marlena Delgado |
 | Michael Ruland | G26 | Child of Mary Sardo Ruland; married Leanne Hotter |
 
----
 
 ## 3) Other Updates
 
@@ -58,7 +57,6 @@ The site was serving an empty RSS feed at the root URL — no content pages at a
 - **Search Index**: updated with Wyatt/Augie birth details, Georgia Leonhardt corrected (Paul's daughter, not Susan's), Philip/Michael/Paul spouse and child details, Susan Copley note corrected
 - **Georgia Leonhardt**: corrected parent branch from Susan → Paul Copley in both her page and Search Index
 
----
 
 ## 4) Remaining Stubs (Low Priority — No Source Data)
 
@@ -72,7 +70,6 @@ These stubs remain but have no family data to add without external research:
 | Thomas Pickering | Same |
 | Octavius Pickering | Same |
 
----
 
 ## 5) Outstanding Gaps (Need Zach or External Records)
 
@@ -87,7 +84,6 @@ These stubs remain but have no family data to add without external research:
 | Q19 Michael Sr. naturalization | No record located |
 | Q28 John Copley Civil War | No conclusive proof |
 
----
 
 ## 6) Deployment Notes
 
@@ -96,7 +92,6 @@ These stubs remain but have no family data to add without external research:
 - **SSH:** Use `~/.ssh/id_rsa` for GitHub pushes (registered key). `AddKeysToAgent yes` is set in `~/.ssh/config`. Run `ssh-add ~/.ssh/id_rsa` if key drops from agent.
 - **Known hosts issue:** If push fails with "Host key verification failed", run `ssh-keygen -R <offending-ip>` to remove stale IP-based entries, then retry.
 
----
 
 ## 7) Fast File Checklist
 

@@ -6,6 +6,7 @@ tags:
   - phase-2f
   - gedcom
   - consistency
+draft: true
 ---
 
 # Phase 2F Handoff Summary (for next agent)
@@ -28,7 +29,6 @@ Key data incorporated:
 | Margaret Copley | Birth: 25 Dec 1854; death: 18 Jan 1910; burial Weston WV |
 | Sarah Copley | Birth: 10 Oct 1859; death: Jan 1939 Weston WV; added 108 Cottage Ave address |
 
----
 
 ## 2) New Page Created
 
@@ -38,7 +38,6 @@ Key data incorporated:
 
 Partlow family tradition: emigrated from Wales to Virginia before the Revolutionary War; later moved to Clark County, Illinois.
 
----
 
 ## 3) Critical Family Tree Bug Fixed
 
@@ -47,14 +46,12 @@ Partlow family tradition: emigrated from Wales to Virginia before the Revolution
 - `SUSAN_C` node label: removed incorrect `m. A. Leonhardt`
 - `PAUL` node label: added `m. A.M. Leonhardt`
 
----
 
 ## 4) Search Index & People Directory Updated
 
 - Search Index: all GEDCOM-sourced facts propagated; Thomas E. death conflict flagged; Elizabeth Mullooly maiden name added; Benjamin Partlow and Nollie Partlow added to Historical/Contextual Figures
 - People Directory: added Historical Figures section (Benjamin Partlow, Weeden Hoffman)
 
----
 
 ## 5) Outstanding Gaps (Unchanged from Phase 2E)
 
@@ -69,7 +66,6 @@ Partlow family tradition: emigrated from Wales to Virginia before the Revolution
 | Q19 Michael Sr. naturalization | No record located |
 | Q28 John Copley Civil War | No conclusive proof |
 
----
 
 ## 6) Deployment Notes (Unchanged)
 
@@ -78,7 +74,6 @@ Partlow family tradition: emigrated from Wales to Virginia before the Revolution
 - **SSH:** Use `~/.ssh/id_rsa` for GitHub pushes. Run `ssh-add ~/.ssh/id_rsa` if key drops from agent.
 - **Known hosts issue:** If push fails with "Host key verification failed", run `ssh-keygen -R <offending-ip>` to remove stale IP-based entries.
 
----
 
 ## 7) Fast File Checklist
 

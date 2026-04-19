@@ -1,37 +1,67 @@
 ---
-title: Copley Family Research Vault
-description: Obsidian-based genealogy research vault for the Copley family, including timelines, people profiles, themes, and source-guided investigation notes.
-date: 2026-04-13
+title: Copley Family History
+description: A genealogical research website documenting the Copley family from County Roscommon, Ireland (c.1813) to the present day.
+date: 2026-04-18
 ---
 
-# Copley Family Research Vault
+# The Copley Family
 
-Welcome to the published Quartz site for the Copley family Obsidian vault.
+This site documents the history and genealogy of the Copley family — from their origins in **County Roscommon, Ireland** in the early 19th century, through immigration to **Lewis County, West Virginia** in the 1830s, and across six generations of American life spanning oil strikes, academic achievement, and a family now spread across the United States.
 
-## Start Here
+Maintained by **Zach Copley** (G26) with contributions from family members.
 
-- ⭐ **Visual overview:** [[Family Tree]]
-- Main landing page: [[Home]]
-- People index: [[People Directory]]
-- Individual profiles: [[People/People Directory|People Directory (Individual Profiles)]]
-- 🔍 **Full name & date index:** [[Search Index]]
+---
 
-## Key Pages
+## Where to Start
 
-- [[Family Tree]]
-- [[Phase 1 Questions and Answers]]
-- [[The Copley Family Narrative]]
-- [[Topics and Themes]]
-- [[Bibliography and Acquisition Guide]]
-- [[Search Index]]
+**New to the family history?**
+→ [[The Copley Family Narrative]] — the full story told in prose
+→ [[Family Tree]] — visual overview of all generations at a glance
 
-## Visual Resources
+**Looking for a specific person?**
+→ [[People Directory]] — every family member organized by generation
 
-- [[Family Tree]] (Mermaid-based lineage map)
+**Curious about our Irish roots?**
+→ [[Topics/Captain John Copley Research|Captain John Copley Research]] — our ongoing investigation into the Roscommon origins
+→ [[Places/Kilgefin Ireland|Kilgefin, County Roscommon]] — the parish the family likely came from
 
-## Navigation Tips
+**Want to explore a theme or historical event?**
+→ [[Topics and Themes]] — oil strikes, Irish immigration, the B&O Railroad, Civil War, and more
 
-- Use [[Family Tree]] to understand relationships before diving into biographies.
-- Use [[People Directory]] and [[People/People Directory|People Directory (Individual Profiles)]] for person-level lookup.
-- Use [[Search Index]] to search across all names, dates, places, and keywords.
-- Use [[Phase 1 Questions and Answers]] to track unresolved evidence gaps and next actions.
+**Want to see what's still being researched?**
+→ [[Phase 1 Questions and Answers]] — open questions and evidence gaps
+
+---
+
+## The Family at a Glance
+
+| Generation | Who | Where |
+|---|---|---|
+| **G23** | Michael Copley Sr. (b. ~1813) & Ann Munday | County Roscommon, Ireland → Lewis County, WV |
+| **G23/G24** | John Copley (1843–1925) & Mary Ellen Dolan | Lewis County, WV |
+| **G24** | Nelle, Michael Joseph, Thomas E., Mary, Anne | Lewis County → Baltimore, St. Louis, Albuquerque |
+| **G25** | Tom Copley · Stephen Copley · Sardo & Ruland families | California, Pennsylvania, Maryland |
+| **G26** | Zach, Erin, Charlie · Mike, Sara, Phil, Paul, Peter, Susan, Amy | Across the US |
+| **G27–G28** | Wyatt, Augie, Evy, Sam, Lauren, Bobby, Georgia, William, and more | — |
+
+---
+
+## Latest Research
+
+> **April 2026 — Breakthrough in Irish Origins**
+> A Catholic Copely family has been confirmed in **Fairymount, Kilgefin parish, County Roscommon** through civil registration records. William Copely (b. ~1794, d. 1864) and his son Michael are the first documented Catholic Copleys in the parish our family is believed to have come from — a significant step toward connecting our American ancestor Michael Copley Sr. to his Irish roots.
+>
+> → Full investigation: [[Topics/Captain John Copley Research|Captain John Copley Research]]
+
+---
+
+## About This Site
+
+This is a living research project, not a finished document. Evidence is labeled throughout by confidence level:
+
+- ✅ **Verified** — confirmed in a named primary source
+- ⚠️ **Plausible** — reasonable inference, not yet sourced
+- ❓ **Speculative** — working hypothesis, treat with caution
+- 🚫 **Likely incorrect** — contradicted by evidence
+
+Open research questions are tracked in [[Phase 1 Questions and Answers]].

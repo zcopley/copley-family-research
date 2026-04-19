@@ -6,6 +6,7 @@ tags:
   - phase-2d
   - images
   - stephen-line
+draft: true
 ---
 
 # Phase 2D Handoff Summary (for next agent)
@@ -55,7 +56,6 @@ Previously unlinked images now embedded:
 
 **Note:** SSH push failed in WSL session. Run `git push origin main` in a terminal with SSH access to deploy.
 
----
 
 ## 2) Still Remaining (Known Gaps)
 
@@ -69,14 +69,12 @@ Previously unlinked images now embedded:
 | Tom Copley family home | "on the Arlington" in Berkeley now owned by Erin & Bryan Bird — not yet added to Tom's or Erin's pages |
 | Nelle's birth year Q45 | 1897 (family bio) vs 1896 (1910 census) — still open |
 
----
 
 ## 3) Images Still in `static/images/` but Low-Confidence Identity
 
 These remain in the image folder but don't have certain page assignments:
 - None — all images are now linked to at least one page.
 
----
 
 ## 4) Fast File Checklist
 
