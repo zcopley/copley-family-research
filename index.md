@@ -32,7 +32,7 @@ Maintained by **Zach Copley** (G26) with contributions from family members.
 → [[Phase 1 Questions and Answers]] — open questions and evidence gaps
 
 **Want to follow along with new discoveries?**
-→ [[CHANGELOG]] — a running log of everything added or updated, newest first
+→ [[CHANGELOG|Changelog]] — a running log of everything added or updated, newest first
 
 ---
 
