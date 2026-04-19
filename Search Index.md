@@ -120,7 +120,7 @@ Full-text searchable index of everyone and everything in this vault. Use Ctrl+K 
 | Name | Born | Also Known As |
 |------|------|---------------|
 | [[People/Zachary R. Copley\|Zachary R. Copley]] | May 22, 1969, Bellefonte PA | Zach Copley; Zachary Robertson Copley; Unite Us; Cedar Rapids IA |
-| [[People/Wendolyn Lorelie Thorpe Copley\|Wendolyn Lorelie Thorpe Copley]] | Sep 14, 1972, Cedar Rapids IA | Wendy Copley; Wendy Thorpe; bento author; Tuttle Publishing |
+| [[People/Wendolyn Lorelei Thorpe Copley\|Wendolyn Lorelei Thorpe Copley]] | Sep 14, 1972, Cedar Rapids IA | Wendy Copley; Wendy Thorpe; bento author; Tuttle Publishing |
 | [[People/Erin E. Copley Bird\|Erin E. Copley Bird]] | Apr 1973 | Erin Elizabeth Copley Bird; Erin Bird; Berkeley CA; owns Tom Copley's former Arlington home |
 | [[People/Charles H. Copley\|Charles H. Copley]] | Oct 1985, Dayton OH | Charlie Copley; Charles Hewetson Copley; Napa CA |
 
@@ -153,7 +153,7 @@ Full-text searchable index of everyone and everything in this vault. Use Ctrl+K 
 | Matthew Paul Arena | husband of Sarah Sardo; married Nov 1956 |
 | Louis Ruland | husband of Mary Sardo |
 | Bryan Bird | husband of Erin Copley; Berkeley CA |
-| [[People/Wendolyn Lorelie Thorpe Copley\|Wendolyn "Wendy" Thorpe]] | wife of Zach Copley; bento author |
+| [[People/Wendolyn Lorelei Thorpe Copley\|Wendolyn "Wendy" Thorpe]] | wife of Zach Copley; bento author |
 | Audrey Copley | wife of Charlie Copley; Napa CA |
 | Nathan Geist | husband of Amy Copley; married Jun 19 2021 State College PA |
 | Robert Austin Cox | ex-husband of Sara Copley Cox; married 1986, div. 1996 |

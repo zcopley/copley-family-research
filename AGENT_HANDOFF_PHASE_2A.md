@@ -121,7 +121,7 @@ The following profiles were fleshed out from direct family knowledge provided by
 | Person | Status | Key Facts Added |
 |--------|--------|-----------------|
 | Zachary R. Copley | ✅ Complete | Born Bellefonte PA (May 1969), Cedar Rapids IA, works at Unite Us NYC, married Wendy Thorpe Sep 2001 Las Vegas, children Wyatt (2004) and Augie (2008) |
-| Wendolyn Lorelie Thorpe Copley | ✅ New page | Born Cedar Rapids IA, published author (2 bento books, Tuttle Publishing), brother Lance Thorpe (Iowa City IA) |
+| Wendolyn Lorelei Thorpe Copley | ✅ New page | Born Cedar Rapids IA, published author (2 bento books, Tuttle Publishing), brother Lance Thorpe (Iowa City IA) |
 | Erin E. Copley Bird | ✅ Updated | Lives Berkeley CA with husband Bryan Bird (note: Bryan not Brian) |
 | Charles H. Copley | ✅ Updated | Born Dayton OH (Oct 1985, Antioch College connection), lives Napa CA, wife Audrey |
 | Evelyn Bird | ✅ Updated | Born 2010, nickname "Evy", Berkeley CA |

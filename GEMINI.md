@@ -64,9 +64,9 @@ Do NOT link the following individuals to these incorrect social media profiles:
 
 Tom and Steve Copley (G25) conducted research into the English/Irish origins of Michael Copley Sr. (G23). Full details in `Topics/Captain John Copley Research.md`.
 
-**Tom's hypothesis (preferred):** Descent from Captain John Copley, grandson of Thomas Copley Sr. of Bredon's Norton, Worcestershire — documented moving to Ireland in 1657.
+**Tom's hypothesis (preferred):** Descent from Captain John Copley, **younger son of Thomas Copley Jr.** of Bredon's Norton, Worcestershire — documented moving to Ireland in 1657. (Corrected April 2026: son of Thomas Jr., not grandson of Thomas Sr.) Four primary sources: 1634 Visitation (names him, "in Italy"), 1642 Parliament petition, 1651 Youghal council book, 1665 *Mettallum Martis*.
 
-**Steve's hypothesis (disputed by Tom):** Descent from a bastard son of Christopher Copley of Wadsworth, West Yorkshire. Tom rejects this; the Worcestershire Copleys had no bastard children.
+**Steve's hypothesis (disputed by Tom):** Descent from a son of Christopher Copley of Wadsworth, West Yorkshire. Tom corrected April 2026: Christopher and Mary Jones were actually married (his 2nd marriage); they had only one documented child — daughter Francis, who married Thomas Coote. No son documented. If a son existed, he was by another woman.
 
 **Critical AI hallucination — do not repeat:** AI claimed Captain John had Arigna ironworks destroyed in 1641. Impossible — he was in England until 1657. The 1641 Depositions contain no Copley entry.
 

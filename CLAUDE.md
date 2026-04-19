@@ -40,7 +40,8 @@ A genealogical research wiki for the Copley family, spanning Irish immigrant anc
 ├── quartz.layout.ts       ← Quartz layout config
 ├── AGENT_HANDOFF_PHASE_1E.md  ← prior phase context
 ├── AGENT_HANDOFF_PHASE_2A.md  ← prior phase context
-├── AGENT_HANDOFF_PHASE_2G.md  ← current phase context
+├── AGENT_HANDOFF_PHASE_2G.md  ← prior phase context
+├── AGENT_HANDOFF_PHASE_2H.md  ← current phase context
 ├── CHANGELOG.md               ← human-readable changelog (all phases)
 └── CLAUDE.md              ← this file
 ```
@@ -165,14 +166,17 @@ tags:
 
 Tom Copley (G25) and Steve Copley (G25) conducted extensive research (Feb–March 2026) into the English/Irish origins of Michael Copley Sr. (G23). The full analysis is in `Topics/Captain John Copley Research.md`.
 
-**Tom's hypothesis:** Michael Sr. descends from Captain John Copley, grandson of **Thomas Copley Sr. of Bredon's Norton, Worcestershire** — a 17th-century ironworks entrepreneur who moved to Ireland in 1657.
+**Tom's hypothesis:** Michael Sr. descends from Captain John Copley, **younger son of Thomas Copley Jr. of Bredon's Norton, Worcestershire** — a 17th-century ironworks entrepreneur who moved to Ireland in 1657. (Corrected April 2026: Captain John was son of Thomas Jr., not grandson of Thomas Sr.)
 
-**Steve's hypothesis (disputed by Tom):** Descent from a bastard son of Christopher Copley (Wadsworth, West Yorkshire) and Mary Jones.
+**Steve's hypothesis (disputed by Tom):** Descent from a son of Christopher Copley (Wadsworth, West Yorkshire) and Mary Jones — but Tom corrected this April 2026: Christopher and Mary Jones were actually married (Christopher's 2nd marriage); they had only one documented child, a daughter Francis who married Thomas Coote. No son documented. If a son existed, he was by another woman.
 
-**Three verified primary sources for Captain John:**
-1. *Journal of the House of Commons* (1642) — John Copley petitioned Parliament re: Ireland
-2. *Council Book of Youghal* (1651) — "Captain Copley" as Clerk of the Market
-3. Dud Dudley, *Mettallum Martis* (1665) — Kingswood ironworks 1656–57; moved to Ireland 1657
+**Four verified primary sources for Captain John:**
+1. Visitations of Worcestershire (1634) — names "Captain John Copley," records him "in Italy" (both 1569 and 1634 Visitations available online as PDFs)
+2. *Journal of the House of Commons* (1642) — John Copley petitioned Parliament re: Ireland
+3. *Council Book of Youghal* (1651) — "Captain Copley" as Clerk of the Market
+4. Dud Dudley, *Mettallum Martis* (1665) — Kingswood ironworks 1656–57; moved to Ireland 1657
+
+**Alternate name spellings (with Irish brogue):** "Coplet" and "Coplay" — watch for these variants in records. Catholic branch uses "Copely"; Protestant branch uses "Copley". **The "Copley Name from Castlerea" report was compiled by Mary Skelly** (not "Shelly").
 
 **Key AI hallucination to remember:** AI claimed Captain John had Arigna ironworks destroyed in 1641. This is chronologically impossible — *Mettallum Martis* confirms he was in England until 1657. A 1641 Depositions specialist confirmed no Copley deposition exists. Do not repeat this claim.
 
@@ -256,3 +260,4 @@ For prior session context, read in order:
 6. `AGENT_HANDOFF_PHASE_2E.md` — Stubs cleared, deploy fixed, SSH documented
 7. `AGENT_HANDOFF_PHASE_2F.md` — GEDCOM data incorporated, Family Tree Georgia/Susan bug fixed, Benjamin Partlow page created
 8. `AGENT_HANDOFF_PHASE_2G.md` — Captain John Copley research page, descent narrative, Tom vs. Steve hypothesis, CHANGELOG created
+9. `AGENT_HANDOFF_PHASE_2H.md` — Wendy middle name fix (Lorelei); Tom's corrections: Mary Skelly, Captain John as son of Thomas Jr., 1634 Visitation as 4th source (Italy), William/Challoner from Sussex, Raleigh-Hoo connection, Southwell cousinage, Christopher/Mary Jones married (one daughter Francis), alternate spellings Coplet/Coplay

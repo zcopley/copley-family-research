@@ -44,15 +44,17 @@ The central figure in the proposed connection is **Captain John Copley**, a 17th
 
 ### 2a. The Copley Family of Bredon's Norton
 
-✅ **[VERIFIED]** The Copley family held the manor of **Bredon's Norton**, a small village in Worcestershire, England, from the 16th century. Their lineage is documented in the **Visitations of Worcestershire for 1569 and 1634**, which confirm descent from **William Copley** and his wife **Bennett Chaloner**. (Source: Visitations of Worcestershire; bredonsnorton.co.uk)
+✅ **[VERIFIED]** The Copley family held the manor of **Bredon's Norton**, a small village in Worcestershire, England, from the 16th century. Their lineage is documented in the **Visitations of Worcestershire for 1569 and 1634**. The family traces back to **William Copley** who married **Bennett Chaloner** — but William's seat was at **"Wool Bedding"** (likely **Woolbedding**, Co. Sussex), not Bredon's Norton. Both **Thomas Copley Sr.** (son of William) and **Thomas Copley Jr.** (grandson) are confirmed living in the manor house at Bredon's Norton. (Source: Visitations of Worcestershire; bredonsnorton.co.uk; Tom Copley, April 2026)
 
-✅ **[VERIFIED]** **Thomas Copley of Bredon's Norton** (d. May 20, 1593) was a notable member of this branch. An inscription in Bredon Church commemorates his death. He is associated in local tradition with Sir Walter Raleigh and is said to have introduced tobacco and potatoes to the Vale of Evesham, though the latter claim is local legend. (Source: bredonsnorton.co.uk; British History Online)
+✅ **[VERIFIED]** **Thomas Copley Sr. of Bredon's Norton** (d. May 20, 1593) was a notable member of this branch. An inscription in Bredon Church commemorates his death. He is associated in local tradition with Sir Walter Raleigh and is said to have introduced tobacco and potatoes to the Vale of Evesham, though the latter claim is local legend. (Source: bredonsnorton.co.uk; British History Online)
 
 ✅ **[VERIFIED]** The manor house at Bredon's Norton was sold in **1649** following the death of **Thomas Copley Jr.** in **1647**, ending the family's direct presence in the village. (Source: bredonsnorton.co.uk)
 
 ⚠️ **[PLAUSIBLE]** The Bredon's Norton Copleys had **Catholic recusant** connections. A related branch — the **Thomas Copley** who died in exile in the Netherlands — was a prominent Catholic recusant. The Bredon branch's Catholic sympathies may have influenced their descendants' decisions and movements in Ireland. (Source: bredonsnorton.co.uk)
 
-❓ **[SPECULATIVE]** AI research sessions proposed that Thomas Copley of Bredon's Norton was "a cousin to Sir Walter Raleigh" through shared "Hoo and Carew ancestry." This claim appeared in multiple AI responses but no primary genealogical source confirming this specific kinship was cited. The association of this family with Raleigh is documented in local tradition but the precise cousinship requires verification.
+⚠️ **[PLAUSIBLE — Tom's assessment: "more or less confirmed"]** The Copley family was connected to **Sir Walter Raleigh** through shared **Hoo family** descent. A Copley married a daughter of the Hoo family; the same Hoo line links to **Anne Boleyn** (and thus Queen Elizabeth I) and to a **Carew** (a relative of Raleigh's wife). Tom Copley (April 2026) considers this cousinship "more or less confirmed." Local tradition also records Thomas Copley Sr. of Bredon's Norton as having sailed with Raleigh.
+
+⚠️ **[PLAUSIBLE]** Tom identifies a broader **"cousinage"** — an interconnected social network of Copleys, Raleigh, Boleyns, and **Southwells**, all distantly related to Queen Elizabeth I, who collectively leveraged their family connections to obtain royal favor and Irish land grants. The **Bridget Copley–Sir Richard Southwell** marriage is "well documented" (Tom Copley, April 2026): Bridget served as Queen Elizabeth's **Latin tutor** for several decades and was considered a "very learned lady." Their son was the poet and Jesuit priest **Robert Southwell** (c. 1561–1595), executed as a Catholic martyr, best known for his poem *"The Burning Babe"* written while imprisoned in the Tower of London. Later generations of Southwells held military and naval offices in Ireland; one Southwell is credited with introducing the potato to Ireland, almost certainly having sailed with Raleigh. Tom notes this entire Copley-Raleigh-Southwell network gradually lost track of its shared connections over time. (Source: Tom Copley, April 2026)
 
 ### 2b. Captain John Copley and Dud Dudley
 
@@ -71,7 +73,9 @@ The central figure in the proposed connection is **Captain John Copley**, a 17th
 
 ⚠️ **[PLAUSIBLE]** Captain John was likely a **younger son** of the family — a second or third son who could not inherit the Bredon's Norton estate (which passed to Thomas Copley Jr. and was sold after his death in 1647). Younger sons of English gentry commonly sought fortune through military service and colonial ventures. His entrepreneurial iron-making attempt and subsequent emigration to Ireland fit this pattern exactly.
 
-❓ **[SPECULATIVE]** AI sessions proposed that Captain John's father was **Thomas Copley of Bredon's Norton** (i.e., he was a son of that Thomas). This is plausible given the family and timing, but no primary source confirms his specific parentage. Some AI sessions instead proposed his father was "William Copley of Sprotbrough, Yorkshire" — a completely different branch of the family — which Tom regards as a likely hallucination.
+⚠️ **[PLAUSIBLE — Tom's conclusion from the Visitations]** Tom Copley (April 2026) concludes from the Visitations that Captain John was most likely a **younger son of Thomas Copley Jr.** — not Thomas Sr. Tom notes the record is "a little muddled up" but says the Visitations make this clear. This is consistent with the timing: Thomas Jr. died in 1647 and the manor was sold in 1649, leaving younger sons without inheritance and free to seek their fortunes abroad.
+
+✅ **[VERIFIED — 1634 Visitation of Worcestershire]** The **1634 Visitation of Worcestershire** mentions **"Captain John Copley"** by name and records that he was **"in Italy"** at the time. Tom notes that Google AI suggested he may have been studying **Italian iron smelting techniques** — consistent with his later iron-making ventures at Kingswood and his evident ambition to modernize iron production. Both the **1569** and **1634 Visitations of Worcestershire** are available online as PDFs (searchable via Google; Tom has copies). This makes the 1634 Visitation a fourth independent primary source for Captain John, and the only one that names him in direct connection with the Bredon's Norton family. Some AI sessions proposed his father was "William Copley of Sprotbrough, Yorkshire" — a completely different branch — which Tom regards as a likely hallucination.
 
 ---
 
@@ -135,7 +139,7 @@ Youghal, County Cork, is historically significant as the Irish home of **Sir Wal
 
 ```
 Captain John Copley (c.1610s–1660s+)
-  [Son of Thomas Copley of Bredon's Norton; moved to Ireland 1657]
+  [Younger son of Thomas Copley Jr. of Bredon's Norton; moved to Ireland 1657]
     ↓
 Thomas Copley (late 17th century)
   [AI proposes: settled in central Roscommon after Arigna, transitioning 
@@ -172,7 +176,7 @@ Michael Copley (b. ~1813) × Ann Munday (b. ~1823)
 
 ## 6. The Castlerea Copleys: Primary Source Research
 
-> ✅ This section is based on *"The Copley Name from Castlerea"*, a 11-page genealogical report (likely compiled by researcher **Mary Shelly**, referenced in Steve Copley's letter of February 2026), with 158 footnoted primary source citations from Kilkeevan Church of Ireland records, Castlerea Civil Records, Roscommon Civil births/deaths/marriages, passenger lists, and census records. This is the most rigorously sourced material in the entire Captain John research project.
+> ✅ This section is based on *"The Copley Name from Castlerea"*, a 11-page genealogical report (likely compiled by researcher **Mary Skelly**, referenced in Steve Copley's letter of February 2026), with 158 footnoted primary source citations from Kilkeevan Church of Ireland records, Castlerea Civil Records, Roscommon Civil births/deaths/marriages, passenger lists, and census records. This is the most rigorously sourced material in the entire Captain John research project.
 
 ### What the Report Establishes
 
@@ -231,7 +235,7 @@ In Tom's own words, from his email of February 19, 2026 ("Sheriff Charles Copley
 
 Steve Copley (letter, ~Feb 2026) identifies three hypothetical routes by which English Copleys might have reached County Roscommon:
 
-1. **Christopher Copley** ❓ — Referenced in earlier correspondence but not documented in these files. Requires separate investigation.
+1. **Christopher Copley** ❓ — Christopher Copley (of Wadsworth, West Yorkshire) is a real historical figure — a Parliamentarian of the English Civil War era from a prominent West Riding Yorkshire family. Steve proposed our line descends from a bastard son of Christopher and Mary Jones. However, Tom Copley (April 2026) clarifies: **Christopher and Mary Jones were actually married** — this was Christopher's *second* marriage (Mary outlived him). They had **only one documented child: a daughter, Francis**, who married **Thomas Coote** from a prominent Anglo-Irish family. There is no record of any son from this union. If a son existed, he must have been by another woman. Christopher had several children in England by his first wife (who died before he moved to Ireland). See Section 14 for full assessment.
 
 2. **Captain John Copley** ⚠️ — The main focus of this research. The verified evidence establishes him in Ireland after 1657; the Roscommon connection is plausible but unproven.
 
@@ -297,13 +301,13 @@ If a Copley family was in Kilgefin in the early 19th century (Michael's generati
 - **Note:** Earlier Catholic registers for this period are sparse due to Penal Laws destruction, but fragmentary records may survive
 - **Search terms:** "Copley," "Munday," "Dolan" — and their households in adjacent townlands
 
-### Priority 6: Search the Visitation of Worcestershire, 1634
+### Priority 6: Read the Visitations of Worcestershire (1569 and 1634)
 
-Tom mentions this document confirms the Bredon's Norton Copley genealogy. Reading it directly would establish who Captain John Copley's parents and siblings were, which is currently unconfirmed.
+Tom Copley (April 2026) reports that **both the 16th century (1569) and 17th century (1634) Visitations of Worcestershire are available online as PDFs** — simply Google them. Tom has copies if needed. The 1634 Visitation already names **"Captain John Copley"** directly and records him as being **"in Italy"** — making it the fourth independent primary source for Captain John. Tom's reading of the Visitations also leads to his conclusion that Captain John was a younger son of Thomas Copley Jr.
 
-- **Action:** The 1634 Visitation of Worcestershire is held at the College of Arms, London; a transcript was published by the Harleian Society
-- **Search via:** Harleian Society publications (available at major genealogical libraries or via FamilySearch)
-- **Key question:** Does the 1634 Visitation list a "John Copley" as a son of Thomas or William of Bredon's Norton?
+- **Action:** Download and read both Visitation PDFs directly
+- **Key questions remaining:** Exact sibling structure of Thomas Jr.'s family; any other children who might have also gone to Ireland; whether William Copley of Sussex (Bennett Chaloner's husband) is explicitly identified as the ancestor of the Bredon's Norton branch
+- **Note:** Tom considers the question of Captain John's parentage (Thomas Jr., not Sr.) now largely settled by the Visitations
 
 ### Priority 7: WikiTree and Other Genealogical Databases
 
@@ -330,7 +334,7 @@ The AI's claim about a "Southwell/Copley network" (a marriage alliance between a
 | RQ-1 | Is there any Copley entry in the 1824 Tithe Applotment Books for Kilgefin Parish or adjacent townlands? | Would directly place a Copley in Michael's parish at the right time | askaboutireland.ie |
 | RQ-2 | Is there any Copley entry in Griffith's Valuation (1847–64) for Kilgefin or Kilkeevin Parish, Roscommon? | Would confirm 19th-century Copley land presence in this area | askaboutireland.ie / irishgenealogy.ie |
 | RQ-3 | Does the Calendar of State Papers, Ireland, 1633–1647 contain any entry naming a John Copley in connection with ironworks in Connaught or Roscommon? | Would confirm or refute the single most specific AI claim | british-history.ac.uk; National Archives of Ireland |
-| RQ-4 | Who were Captain John Copley's parents and siblings, per the 1634 Visitation of Worcestershire? | Would establish whether he was from Bredon's Norton branch with certainty, and give siblings who might also have gone to Ireland | Harleian Society publications; College of Arms |
+| RQ-4 | What is the full sibling structure of Thomas Copley Jr.'s family per the Visitations? | Tom has concluded from the Visitations that Captain John was Thomas Jr.'s younger son; siblings who also went to Ireland would help trace collateral lines | Both Visitations available online as PDFs — Google them; Tom has copies |
 
 ### Tier 2: Connecting the Chain
 
@@ -340,14 +344,14 @@ The AI's claim about a "Southwell/Copley network" (a marriage alliance between a
 | RQ-6 | Does "Captain Copley, Clerk of the Market, Youghal 1651" refer to the same man as the *Mettallum Martis* Copley? Or a different Copley? | Youghal is in Cork/Munster, far from Roscommon; knowing which Copley this is matters | Caulfield's *Council Book of Youghal* |
 | RQ-7 | Who was John Copley of Kilgefin who (per AI) married Catherine Dolan? Can this be verified in any primary source? | He is proposed as Michael's father; this is the most critical generational link | Kilgefin Catholic registers; NLI microfilms |
 | RQ-8 | What is the earliest documented Copley in Kilgefin or Kilkeevin Parish, and when do they first appear? | Would define the floor of how far back the Roscommon presence goes | Church registers; Tithe Books; Griffith's |
-| RQ-9 | Can the Castlerea (Protestant, Church of Ireland) Copleys be connected to the Kilgefin (Catholic) Copleys through any documentary evidence? | Steve and Mary Shelly's research found no link; a link here would be major | The "Copley Name from Castlerea" report already covers Protestant branch; need Catholic branch records |
+| RQ-9 | Can the Castlerea (Protestant, Church of Ireland) Copleys be connected to the Kilgefin (Catholic) Copleys through any documentary evidence? | Steve and Mary Skelly's research found no link; a link here would be major | The "Copley Name from Castlerea" report already covers Protestant branch; need Catholic branch records |
 | RQ-10 | What was the religious affiliation of the Copleys in Kilgefin before the Dolan marriage? Is there a Protestant-to-Catholic conversion event documented? | Tom's theory requires a conversion; Steve's letter explains why it would be hard to find | Church of Ireland records for the area; Catholic registers |
 
 ### Tier 3: The English Origins
 
 | # | Question | Why It Matters | Where to Look |
 |---|----------|---------------|---------------|
-| RQ-11 | What is the specific genealogical connection, if any, between the Bredon's Norton Copleys and Sir Walter Raleigh? | AI claimed "cousin" but no primary source was cited; Raleigh connection would explain Irish plantation access | Visitations of Worcestershire; DNB; Raleigh biographies |
+| RQ-11 | Can the Copley-Hoo-Raleigh cousinship be documented in primary sources? | Tom considers it "more or less confirmed" via Hoo family descent (a Copley, a Boleyn, and a Carew all married Hoo daughters); primary source confirmation would solidify this | Visitations of Worcestershire; DNB; Hoo family genealogy |
 | RQ-12 | Was there a royal patent or Crown grant to a John Copley for ironworks or mineral rights in Connaught at any point from 1637–1680? | Would be the "smoking gun" connecting Captain John to Roscommon | Calendar of Patent Rolls Ireland; Calendar of State Papers Ireland |
 | RQ-13 | What happened to Captain John Copley after he moved to Ireland in 1657? Did he die there? Are there probate records? | Knowing when and where he died would help identify his descendants | Irish probate records (National Archives of Ireland); PRONI |
 | RQ-14 | Who were the children of Captain John Copley (and wife "Jane," name unverified)? | Without knowing his children, the descent chain cannot be constructed | Same as RQ-13; also any Copley wills or estate records in Roscommon or Limerick |
@@ -459,7 +463,7 @@ William Copely (b. ~1794) and Michael Copley Sr. (b. ~1813) are approximately 19
 
 ⚠️ **[PLAUSIBLE — significant]** Family tradition (via Lewis County research) holds that Michael Copley Sr. had a brother **William** who "emigrated to Australia" (Research Question Q6 — never confirmed). The discovery of a William Copley remaining in Roscommon until 1864 raises the possibility that the Australia tradition is incorrect or confused, and that William actually stayed in Ireland. Alternatively, there may have been two Williams — one who went to Australia, and this one who stayed.
 
-**Note on spelling:** The marriage certificate consistently spells the surname **"Copely"** (without the second 'l'). The Protestant Kilkeevin branch consistently uses **"Copley"**. This orthographic distinction may reliably distinguish the two branches in historical records.
+**Note on spelling:** The marriage certificate consistently spells the surname **"Copely"** (without the second 'l'). The Protestant Kilkeevin branch consistently uses **"Copley"**. This orthographic distinction may reliably distinguish the two branches in historical records. Tom Copley (April 2026) also notes that when said with a heavy Irish brogue, the name could be rendered as **"Coplet"** or **"Coplay"** — additional spelling variants to watch for in records.
 
 ### Additional GV Search ("Copely" Spelling) — COMPLETED
 
@@ -503,7 +507,7 @@ Tom and Steve Copley (both G25) hold different views on which English ancestor b
 
 ### Tom's Hypothesis: Captain John Copley of Bredon's Norton, Worcestershire
 
-Tom holds that our family descends in a direct male line from **Captain John Copley**, grandson of **Thomas Copley Sr. of Bredon's Norton, Worcestershire**. Under this theory:
+Tom holds that our family descends in a direct male line from **Captain John Copley**, younger son of **Thomas Copley Jr. of Bredon's Norton, Worcestershire** (and thus great-grandson of William Copley of Sussex). Under this theory:
 
 - The Bredon's Norton Copleys maintained **Catholic sympathies** throughout their English tenure — consistent with their documented recusant connections and the exile of a related Thomas Copley as a Catholic recusant
 - Captain John, as a younger son after the manor was sold (1649), sought his fortune through military service and industrial venture, ultimately emigrating to Ireland in 1657
@@ -516,23 +520,24 @@ In Tom's own words: *"The Ones from Worcestershire were good Catholics all along
 
 ### Steve's Hypothesis: Christopher Copley of Wadsworth, West Yorkshire
 
-Steve has proposed as an alternative that our line descends from a **bastard son of Christopher Copley** (an English Civil War figure from Wadsworth, West Yorkshire) and **Mary Jones**. Under this theory, a descendant of that illegitimate line eventually converted to Catholicism and settled in County Roscommon.
+Steve has proposed as an alternative that our line descends from a **son of Christopher Copley** (an English Civil War figure from Wadsworth, West Yorkshire) and **Mary Jones**. Under this theory, a descendant of that line eventually converted to Catholicism and settled in County Roscommon.
 
-❓ **Assessment:** Christopher Copley of Wadsworth is a real historical figure — a Parliamentarian of the English Civil War era from a prominent West Riding Yorkshire family. However:
+❓ **Assessment:** Christopher Copley of Wadsworth is a real historical figure — a Parliamentarian of the English Civil War era from a prominent West Riding Yorkshire family. However, Tom Copley (April 2026) has clarified and corrected the original characterization:
 
-1. The specific claim of a bastard son by Mary Jones has **not been verified in any primary source** cited in the research correspondence
-2. The Yorkshire Copleys of Sprotbrough and Wadsworth are an **entirely different branch** from the Worcestershire Copleys of Bredon's Norton — they share the Copley surname but are not closely related
-3. Tom explicitly rejects this hypothesis: the Worcestershire line, in his view, is the correct one, and they had no bastard children
-4. Both hypotheses require a Protestant-to-Catholic conversion; the Christopher hypothesis adds the additional complication of illegitimacy, making documentary tracing still harder
+1. **Christopher and Mary Jones were actually married** — this was Christopher's *second* marriage (his first wife, who had several children with him in England, died before he moved to Ireland). Mary Jones outlived Christopher.
+2. **Christopher and Mary had only one documented child together: a daughter, Francis**, who married **Thomas Coote** from a prominent Anglo-Irish family. There is no record of any son from this marriage.
+3. If a son existed who could be our ancestor, he would have to have been by **another woman** — not by Mary Jones.
+4. The Yorkshire Copleys of Sprotbrough and Wadsworth are an **entirely different branch** from the Worcestershire Copleys of Bredon's Norton — they share the Copley surname but are not closely related.
+5. Tom explicitly rejects this hypothesis: the Worcestershire line, in his view, is the correct one.
 
-The Christopher Copley hypothesis has **not been developed with primary source citations** in the surviving email correspondence. It appears in Steve's letter as one of three possible routes, but without the research investment that has gone into the Captain John hypothesis. It remains open but is the least-evidenced of the three routes identified.
+The Christopher Copley hypothesis has **not been developed with primary source citations** in the surviving research correspondence. It appears in Steve's letter as one of three possible routes, but without the research investment that has gone into the Captain John hypothesis. It remains open but is the least-evidenced of the three routes identified.
 
 ### The Three Routes Compared
 
 | Route | Proponent | Status | Key Problem |
 |-------|-----------|--------|-------------|
 | Captain John Copley (Worcestershire) | Tom | ⚠️ Plausible; best-evidenced | No documented descendants in Ireland |
-| Christopher Copley, bastard son (Yorkshire) | Steve | ❓ Speculative; no primary sources | Unverified; Tom rejects it |
+| Christopher Copley of Yorkshire (son by unknown woman) | Steve | ❓ Speculative; no primary sources | Christopher's only documented child with Mary Jones was a daughter; Tom rejects it |
 | Lord Baltimore / Thomas Copley (Jesuit) | Steve | ❓ Speculative | Maryland connection; relevance to Roscommon unclear |
 
 ---
@@ -559,13 +564,15 @@ The Christopher Copley hypothesis has **not been developed with primary source c
 
 ⚠️ **[PLAUSIBLE]** Thomas Jr. died in 1647 — at the height of the English Civil War. His sons would have inherited nothing: the manor was gone, the family's social position was precarious, and England was in political upheaval. This is exactly the generation that produced the Irish adventurers and Cromwellian settlers of the 1650s. Younger sons of dispossessed gentry commonly sought fortune through military service or colonial venture.
 
-❓ **[SPECULATIVE]** AI sessions proposed that Thomas Jr. had multiple sons, of whom Captain John was one — a younger son who could not inherit and therefore set out on his own. No primary source names Thomas Jr.'s children. The **1634 Visitation of Worcestershire** may document his family and is the key record to consult.
+⚠️ **[PLAUSIBLE — Tom's conclusion from the Visitations]** Tom Copley (April 2026) concludes from the Visitations that Thomas Jr. had at least one younger son — **Captain John** — who could not inherit the manor and set out on his own. The **1634 Visitation of Worcestershire** (available online as a PDF) names "Captain John Copley" directly, recording him as "in Italy" at the time — consistent with studying the iron-working techniques he would later attempt to deploy at Kingswood. Tom notes the record is "a little muddled" but the Visitations support Captain John's parentage as Thomas Jr.
 
 ---
 
 ### Generation 3: Captain John Copley (c. 1610–post 1657)
 
-This is the best-documented generation in the entire proposed descent. Three independent primary sources place a John Copley in England and Ireland across a 15-year period, painting a portrait of an ambitious, repeatedly frustrated entrepreneur.
+This is the best-documented generation in the entire proposed descent. **Four independent primary sources** place a John Copley across a 23-year period, painting a portrait of an ambitious, repeatedly frustrated entrepreneur who traveled widely before settling in Ireland.
+
+✅ **[VERIFIED — 1634 Visitation of Worcestershire]** The **1634 Visitation of Worcestershire** names **"Captain John Copley"** and records him as being **"in Italy"** at the time of the Visitation. Tom Copley (April 2026) notes that Google AI suggested he was there to study **Italian iron smelting techniques** — consistent with his later Kingswood venture. This source also establishes his connection to the Bredon's Norton family as a younger son of Thomas Copley Jr. (Visitations of Worcestershire, 1634; PDF available online)
 
 ✅ **[VERIFIED — Parliament, 1642]** A **John Copley** petitioned the **House of Commons** in 1642, requesting consideration of *"some strange brave Exploits he would undertake in Ireland"* — during the Irish Rebellion of 1641. His petition was referred to the Lieutenant of the Tower and the Lieutenant of the Ordnance. He may have been proposing military or engineering operations; no record of acceptance survives. (*Journal of the House of Commons*, Vol. 2, 1640–1643; British History Online)
 
@@ -699,7 +706,8 @@ graph TD
 2. ✅ *Journal of the House of Commons, Volume 2, 1640–1643* (London: HMSO, 1802). "Petition of John Copley." Available: British History Online.
 3. ✅ Richard Caulfield, ed., *Council Book of the Corporation of Youghal from 1610 to 1659, from 1666 to 1687 and from 1690 to 1800* — "Captain Copley, Clerk of the Market, 1651." Available: Google Books.
 4. ✅ P.W. King, "Dud Dudley's Contribution to Metallurgy," *Historical Metallurgy* (peer-reviewed journal) — confirms Copley reference in Dudley's account.
-5. ✅ "The Copley Name from Castlerea" — genealogical report, likely compiled by Mary Shelly, 2026. 11 pages, 158 footnotes. Primary sources: Kilkeevan Church of Ireland records, Castlerea Civil Records, Roscommon civil registers, census records, passenger lists.
+5. ✅ "The Copley Name from Castlerea" — genealogical report compiled by **Mary Skelly**, 2026. 11 pages, 158 footnotes. Primary sources: Kilkeevan Church of Ireland records, Castlerea Civil Records, Roscommon civil registers, census records, passenger lists. (Confirmed: Tom Copley, April 2026)
+10a. ✅ Visitations of Worcestershire, 1569 and 1634 — both available online as PDFs. The 1634 Visitation names "Captain John Copley" and records him as "in Italy." Establishes descent from Thomas Copley Jr. of Bredon's Norton. (Tom Copley, April 2026; PDFs searchable via Google)
 6. ✅ Steve Copley, letter to Tom Copley (PDF, dated ~Feb 2026, filename 26TOM0207.pdf). Analysis of research findings and religious conversion question.
 7. ⚠️ Tom Copley, email correspondence with Stephen Copley, February–March 2026 (30 emails). Largely consists of forwarded Google AI (Gemini) research session outputs, explicitly flagged by Tom as potentially containing AI hallucinations.
 8. ❓ Google AI (Gemini) — multiple research sessions, February 2026. All AI-derived claims flagged as speculative throughout this document.

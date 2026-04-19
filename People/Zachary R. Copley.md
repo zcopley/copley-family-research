@@ -22,7 +22,7 @@ tags:
 - **Birth:** May 22, 1969, Bellefonte, Pennsylvania
   - Born while his father was completing his doctoral studies at Penn State University (PhD awarded 1977)
 - **Parents:** [[Thomas Partlow Copley]] and Barbara Dee LaForce
-- **Marriage:** Wendolyn Lorelie Thorpe Copley ("Wendy"), September 2001, Las Vegas, Nevada
+- **Marriage:** Wendolyn Lorelei Thorpe Copley ("Wendy"), September 2001, Las Vegas, Nevada
 - **Current location:** Cedar Rapids, Iowa (relocated from El Cerrito, California)
 - **Work:** Unite Us (based in New York City)
 - **Children:** Wyatt Copley (b. October 2, 2004, Berkeley CA), August "Augie" Copley (b. August 31, 2008, Oakland CA)
@@ -34,7 +34,7 @@ tags:
 - **Great-grandparents:** [[John Copley]], [[Mary Ellen Dolan Copley]]
 - **Great-great-grandparents:** [[Michael Copley Sr|Michael Copley]], [[Ann Copley]]
 - **Siblings:** [[Erin E. Copley Bird]], [[Charles H. Copley]]
-- **Spouse:** [[Wendolyn Lorelie Thorpe Copley|Wendolyn Lorelie Thorpe Copley ("Wendy")]]
+- **Spouse:** [[Wendolyn Lorelei Thorpe Copley|Wendolyn Lorelei Thorpe Copley ("Wendy")]]
 - **Children (G27):** Wyatt Copley (b. October 2, 2004, Berkeley CA), August "Augie" Copley (b. August 31, 2008, Oakland CA)
 
 ## Research Gaps

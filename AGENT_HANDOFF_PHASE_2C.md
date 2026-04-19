@@ -24,7 +24,7 @@ The site was "broken" due to environment and configuration issues.
 
 ## 2) Profile & Index Updates
 - **Zachary R. Copley:** Updated title with full birth date (**May 22, 1969**) and resolved the corresponding research gap.
-- **Wendolyn Lorelie Thorpe Copley:** Resolved birth date and ISBN research gaps as they are fully documented in the profile.
+- **Wendolyn Lorelei Thorpe Copley:** Resolved birth date and ISBN research gaps as they are fully documented in the profile.
 - **Search Index:** Pushed a large update to `Search Index.md` that was previously unstaged, syncing it with Phase 2B biographical sketches.
 
 ## 3) Social Media Corrections (Same-Name Mismatches)

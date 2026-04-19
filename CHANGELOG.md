@@ -11,6 +11,52 @@ tags:
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
 
+## Phase 2H — Tom's Research Notes Incorporated; Wendy Name Fix
+**Date:** April 19, 2026
+
+### Corrections
+
+**Wendolyn Lorelei Thorpe Copley — middle name spelling corrected:**
+"Lorelie" → "Lorelei" everywhere. Five files updated plus file renamed:
+- `People/Wendolyn Lorelei Thorpe Copley.md` (renamed from `Wendolyn Lorelie...`)
+- `People/Zachary R. Copley.md`
+- `Search Index.md`
+- `AGENT_HANDOFF_PHASE_2A.md`
+- `AGENT_HANDOFF_PHASE_2C.md`
+
+**Mary Skelly — researcher name corrected:**
+"Mary Shelly" → "Mary Skelly" throughout `Topics/Captain John Copley Research.md` (3 occurrences). Tom confirmed she compiled the *"Copley Name from Castlerea"* 11-page report.
+
+### New Information from Tom Copley (April 19, 2026)
+
+All of the following incorporated into `Topics/Captain John Copley Research.md`, `CLAUDE.md`, `GEMINI.md`, and `AGENT_HANDOFF_PHASE_2G.md`:
+
+**Captain John's parentage clarified:**
+Tom concludes from the Visitations that Captain John was a **younger son of Thomas Copley Jr.** — not grandson of Thomas Sr. as previously stated. The record is "a little muddled" but the Visitations make this clear. All descent chain references updated.
+
+**1634 Visitation of Worcestershire — 4th primary source added:**
+The 1634 Visitation names "Captain John Copley" directly and records him as **"in Italy"** at the time. Google AI suggested he was studying Italian iron smelting techniques — consistent with his later Kingswood venture. Both the 1569 and 1634 Visitations are available online as PDFs (searchable via Google; Tom has copies). This makes Captain John the subject of four independent primary sources, not three.
+
+**William Copley / Bennett Challoner — origin corrected:**
+William Copley (who married Bennett Challoner) was from **"Wool Bedding"** in Co. Sussex (possibly Woolbedding/Beddingfield) — **not** Bredon's Norton. Thomas Copley Sr. (son of William) and Thomas Copley Jr. (grandson) are the confirmed Bredon's Norton residents.
+
+**Raleigh-Copley connection — upgraded from speculative to plausible:**
+The connection runs through the **Hoo family**: a Copley married a Hoo daughter; so did a Boleyn and a Carew (relative of Raleigh's wife). Tom considers this "more or less confirmed."
+
+**Southwell cousinage — new section added:**
+Tom describes a broader "cousinage" of Copleys, Raleigh, Boleyns, and Southwells, all distantly related to Queen Elizabeth I. Key details:
+- **Bridget Copley–Sir Richard Southwell** marriage is "well documented"
+- Bridget was Queen Elizabeth's **Latin tutor** for several decades — a "very learned lady"
+- Their son was **Robert Southwell** (c. 1561–1595), Jesuit priest, Catholic martyr, author of *"The Burning Babe"* (written in the Tower before his execution)
+- Later Southwells held military/naval offices in Ireland; one introduced the potato to Ireland (having sailed with Raleigh)
+
+**Christopher Copley / Mary Jones — relationship corrected:**
+Tom clarifies: Christopher and Mary Jones were **actually married** (Christopher's second marriage; his first wife died in England, leaving several children). They had **only one documented child: a daughter, Francis**, who married **Thomas Coote** of a prominent Anglo-Irish family. No son is documented. If a son existed who could be our ancestor, he was by another woman. Mary outlived Christopher. The "bastard son" framing in prior research is incorrect.
+
+**Alternate name spellings added:**
+When said with a heavy Irish brogue, the name may appear as **"Coplet"** or **"Coplay"** in records. These join "Copely" (Catholic branch) and "Copley" (Protestant branch) as spelling variants to watch for.
+
+
 ## Phase 2G (continued) — Catholic Copely Family Confirmed in Kilgefin
 **Date:** April 18, 2026
 
@@ -55,11 +101,11 @@ These are the Protestant Church of Ireland Castlerea branch. No Catholic Copley 
 
 ### New Pages
 - **`Topics/Captain John Copley Research.md`** — comprehensive new research page documenting Tom and Steve Copley's February–March 2026 investigation into the English and Irish origins of [[People/Michael Copley Sr.|Michael Copley Sr.]] (G23). Based on 30 decoded emails and 2 PDFs from the research correspondence. Includes:
-  - Three verified primary sources (1642 Parliament petition, 1651 Youghal council book, 1665 *Mettallum Martis*)
+  - Four verified primary sources (1634 Visitation naming "Captain John Copley" in Italy; 1642 Parliament petition; 1651 Youghal council book; 1665 *Mettallum Martis*)
   - AI-generated claims explicitly flagged and source-quality labeled throughout (✅/⚠️/❓/🚫)
   - Chronological contradiction identified: AI claim that Captain John had 1641 ironworks is impossible; verified sources place him in England until 1657
-  - Full speculative 8-generation descent chain: Thomas Copley Sr. (Worcestershire) → Captain John Copley → [4 speculative generations] → Michael Copley Sr. (Lewis County WV)
-  - Tom vs. Steve hypothesis comparison: Tom favors Bredon's Norton / Captain John line; Steve favors Christopher Copley (Yorkshire) bastard-son theory
+  - Full speculative 8-generation descent chain: Thomas Copley Jr. (Worcestershire) → Captain John Copley → [4 speculative generations] → Michael Copley Sr. (Lewis County WV)
+  - Tom vs. Steve hypothesis comparison: Tom favors Bredon's Norton / Captain John line (son of Thomas Jr.); Steve favors Christopher Copley (Yorkshire) — but Christopher and Mary Jones were married with only one documented child (daughter Francis, married Thomas Coote); no son documented
   - Mermaid descent diagram with color-coded source quality
   - 8-priority research vetting strategy
   - 20 open research questions organized in 4 tiers

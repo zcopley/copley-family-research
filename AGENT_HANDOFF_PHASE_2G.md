@@ -63,8 +63,8 @@ New human-readable changelog at the vault root. Covers all phases in reverse chr
 
 | Hypothesis | Proponent | Core Claim | Status |
 |---|---|---|---|
-| Captain John Copley of Bredon's Norton, Worcestershire | Tom | Grandson of Thomas Copley Sr. (d. 1593); moved to Ireland 1657; Protestant descendants converted Catholic via Dolan marriage | ⚠️ Plausible; best-evidenced |
-| Christopher Copley of Wadsworth, West Yorkshire (bastard son) | Steve | Christopher had a bastard son by Mary Jones whose descendants settled in Roscommon | ❓ Speculative; no primary sources cited |
+| Captain John Copley of Bredon's Norton, Worcestershire | Tom | Younger son of Thomas Copley Jr. (d. 1647); moved to Ireland 1657; Protestant descendants converted Catholic via Dolan marriage | ⚠️ Plausible; best-evidenced |
+| Christopher Copley of Wadsworth, West Yorkshire (son by unknown woman) | Steve | Christopher married Mary Jones (2nd marriage) — only one documented child: daughter Francis who married Thomas Coote. No son documented. If a son existed, he was by another woman | ❓ Speculative; Tom corrected the "bastard son" characterization April 2026 |
 | Lord Baltimore / Thomas Copley (Jesuit) | Steve | Maryland Colony Jesuit, separate route | ❓ Speculative |
 
 **Tom's position (his words):** *"The Ones from Worcestershire were good Catholics all along, and had no bastard children."*
@@ -76,7 +76,7 @@ New human-readable changelog at the vault root. Covers all phases in reverse chr
 |-----|--------|--------|----------|
 | 1 | Thomas Copley Sr., Bredon's Norton (d. 1593) | ✅ Verified | Visitations of Worcestershire 1569; Bredon Church inscription |
 | 2 | Thomas Copley Jr., Bredon's Norton (d. 1647; manor sold 1649) | ✅ Verified | bredonsnorton.co.uk |
-| 3 | Captain John Copley (c.1610–post 1657) | ✅ Verified | 3 primary sources (see above) |
+| 3 | Captain John Copley (c.1610–post 1657) | ✅ Verified | 4 primary sources: 1634 Visitation (names him, "in Italy"), 1642 Parliament petition, 1651 Youghal Council Book, 1665 Mettallum Martis |
 | 4 | [Elder son → Limerick branch] / [Younger son → Roscommon] | ❓ Speculative | No source |
 | 5 | Roscommon Copley (c.1670–c.1740) | ❓ Speculative | No source |
 | 6 | Thomas Copley, Cloonshee/Castlerea (c.1769–c.1842) | ❓ Speculative | Griffith's Valuation (unverified claim) |
