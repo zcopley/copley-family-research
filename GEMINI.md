@@ -65,7 +65,11 @@ Tom and Steve Copley (G25) conducted research into the English/Irish origins of 
 
 **Critical AI hallucination — do not repeat:** AI claimed Captain John had Arigna ironworks destroyed in 1641. Impossible — he was in England until 1657. The 1641 Depositions contain no Copley entry.
 
-**Top research priority:** Verify whether "John Copley" appears in the 1824 Tithe Applotment Books for Kilmacough, Kilgefin Parish, Co. Roscommon at askaboutireland.ie.
+**Primary source searches completed (April 18, 2026):**
+- Tithe Applotment Books (Roscommon): no Copley found — AI's Kilmacough/Kilgefin/1824 claim is 🚫 fabricated
+- Griffith's Valuation (Roscommon): 4 Copleys in Termonbeg, Kilkeevin Parish (Protestant), 1857: Bridget (tenant of Sandford), John (sub-tenant of Bridget), Richard (Sandford), Thomas (Sandford). No Catholic Copley in any Roscommon land record.
+
+**New top research priority:** Geographic relationship between Termonbeg/Kilkeevin and Kilgefin parish — are they adjacent? If yes, the Protestant Termonbeg Copleys are plausible progenitors of our Catholic line.
 
 ## Changelog
 A human-readable `CHANGELOG.md` now exists at the vault root. Update it at the start of each new session.

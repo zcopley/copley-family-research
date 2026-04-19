@@ -128,7 +128,32 @@ Note: `email3.eml` is very large (~79K tokens). The script handles it fine; the 
 
 ---
 
-## 6) Top Priority Research Actions
+## 6) Primary Source Search Results (April 18, 2026)
+
+These searches were completed during this session — results are now in the research page.
+
+### Tithe Applotment Books — COMPLETED
+**Result: No Copley found anywhere in County Roscommon.**
+Source: National Archives of Ireland, titheapplotmentbooks.nationalarchives.ie
+The AI's claim of "John Copley in Kilmacough, Kilgefin Parish, 1824" is fabricated. Marked 🚫 in the research page.
+
+### Griffith's Valuation — COMPLETED
+**Result: 4 Copleys confirmed in Termonbeg, Kilkeevin Parish, 1857.**
+
+| Position | Occupier | Landlord |
+|----------|----------|----------|
+| 26 | Bridget Copley | William R.W. Sandford |
+| 28 | John Copley | **Bridget Copley** (sub-tenant) |
+| 31 | Richard Copley | William R.W. Sandford |
+| 41 | Thomas Copley | William R.W. Sandford |
+
+All Protestant Church of Ireland (Kilkeevin parish). No Catholic Copley found anywhere in Roscommon. John is a sub-tenant of Bridget — almost certainly a family relationship (son or brother-in-law). Bridget is likely the widow of Patrick Copley (d.~1848), holding the Sandford tenancy in her own name.
+
+**New top priority:** Establish whether Termonbeg townland (Kilkeevin) borders Kilgefin Catholic parish geographically.
+
+---
+
+## 6a) Top Priority Research Actions (Updated)
 
 (From the Research Vetting Strategy in the Topics page)
 

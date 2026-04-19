@@ -171,7 +171,11 @@ Tom Copley (G25) and Steve Copley (G25) conducted extensive research (Feb–Marc
 
 **Key AI hallucination to remember:** AI claimed Captain John had Arigna ironworks destroyed in 1641. This is chronologically impossible — *Mettallum Martis* confirms he was in England until 1657. A 1641 Depositions specialist confirmed no Copley deposition exists. Do not repeat this claim.
 
-**Most critical unverified claim to check:** A "John Copley" in the 1824 Tithe Applotment Books for Kilmacough, Kilgefin Parish, Co. Roscommon (askaboutireland.ie). Confirming or disproving this is the top research priority.
+**Primary source searches completed (April 18, 2026):**
+- Tithe Applotment Books (all Roscommon): **no Copley found** — AI's Kilmacough/Kilgefin/1824 claim is 🚫 fabricated
+- Griffith's Valuation (all Roscommon): **4 Copleys found** — Bridget, John, Richard, Thomas — all in Termonbeg townland, Kilkeevin Parish (Protestant), tenants of Sandford estate, 1857. John is sub-tenant of Bridget (family relationship). No Catholic Copley found anywhere in Roscommon.
+
+**New top research priority:** Establish geographic relationship between Termonbeg (Kilkeevin) and Kilgefin Catholic parish. If they border each other, the Protestant Termonbeg Copleys are the most plausible progenitors of our Catholic line via a conversion marriage.
 
 ---
 

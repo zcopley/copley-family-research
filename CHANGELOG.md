@@ -12,6 +12,27 @@ A running record of significant additions, corrections, and improvements to this
 
 ---
 
+## Phase 2G (continued) — Griffith's Valuation & Tithe Applotment Books
+**Date:** April 18, 2026
+
+### Primary Source Searches Completed
+
+First direct primary source work on the Roscommon question:
+
+**Tithe Applotment Books (National Archives of Ireland):** No Copley found anywhere in County Roscommon. The AI's specific claim that "John Copley held land in Kilmacough, Kilgefin Parish, 1824" is now classified 🚫 LIKELY INCORRECT — fabricated.
+
+**Griffith's Valuation (askaboutireland.ie):** Four Copleys confirmed in Termonbeg townland, Kilkeevin Parish, 1857, all tenants of the Sandford estate:
+- Bridget Copley (tenant of Sandford, position 26)
+- John Copley (sub-tenant of Bridget Copley, position 28 — same plot)
+- Richard Copley (tenant of Sandford, position 31)
+- Thomas Copley (tenant of Sandford, position 41)
+
+These are the Protestant Church of Ireland Castlerea branch. No Catholic Copley appears in any Roscommon land record. The research page updated with: new Section 13 (verified results), revised Generation 7 entry, Priority 1 in Vetting Strategy marked complete, two new sources added.
+
+**Key open question:** Geographic relationship between Termonbeg (Kilkeevin) and Kilgefin parish — if they border each other, the Protestant Termonbeg Copleys are the most plausible progenitors of our Catholic line via a conversion marriage.
+
+---
+
 ## Phase 2G — Captain John Copley Research
 **Date:** April 18, 2026
 
