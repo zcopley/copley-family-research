@@ -54,7 +54,7 @@ Before making changes, a full site review was performed. Key findings:
 | `MARCIA` | `M7` (Stephen × first-marriage children) |
 | `JUDY` | `M7B` (Stephen × Amy) |
 | `BARBARA` | `M8` (Tom × children) |
-
+  
 ### Fix 2: Aliases Added to Key Person Pages
 
 Added `aliases` frontmatter to pages where people are commonly referred to by nicknames, making them findable via Quartz search:

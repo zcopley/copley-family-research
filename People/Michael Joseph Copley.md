@@ -8,7 +8,7 @@ tags:
   - "#usda"
   - "#academia"
 ---
-
+ 
 ![Michael Joseph Copley](../static/images/michael-joseph-copley-portrait.jpg)
 
 # Michael Joseph Copley (1898–1988)

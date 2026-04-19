@@ -8,8 +8,8 @@ tags:
   - "#copley-family"
   - "#people-index"
 ---
-
-# People Directory (Individual Profile Index)
+ 
+# People Directory (Individual Profile I ndex)
 
 **Start here:** [[Family Tree]]
 

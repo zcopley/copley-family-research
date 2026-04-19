@@ -51,9 +51,24 @@ Do NOT link the following individuals to these incorrect social media profiles:
 - **SSH:** GitHub pushes use `~/.ssh/id_rsa`. Run `ssh-add ~/.ssh/id_rsa` if the key drops from agent. If "Host key verification failed", run `ssh-keygen -R <offending-ip>` to clear stale IP entries from `~/.ssh/known_hosts`.
 
 ## Historical Research Context
-- **Immigration:** Michael and Patrick Copley arrived in NY on the *Kutusoff* in 1837.
-- **West Virginia:** The family settled in Lewis County (Cove Lick) in 1843.
+- **Immigration:** Michael and Patrick Copley arrived in NY on the *Kutusoff* in 1837, and on the *Powhatan* in 1838.
+- **West Virginia:** The family settled in Lewis County (Cove Lick) in 1843 via the Hoffman land deed.
 - **Oil Strike:** The "Copley No. 1" strike occurred in 1900 on the family farm.
 
+## Irish Origins Research (Phase 2G — Active)
+
+Tom and Steve Copley (G25) conducted research into the English/Irish origins of Michael Copley Sr. (G23). Full details in `Topics/Captain John Copley Research.md`.
+
+**Tom's hypothesis (preferred):** Descent from Captain John Copley, grandson of Thomas Copley Sr. of Bredon's Norton, Worcestershire — documented moving to Ireland in 1657.
+
+**Steve's hypothesis (disputed by Tom):** Descent from a bastard son of Christopher Copley of Wadsworth, West Yorkshire. Tom rejects this; the Worcestershire Copleys had no bastard children.
+
+**Critical AI hallucination — do not repeat:** AI claimed Captain John had Arigna ironworks destroyed in 1641. Impossible — he was in England until 1657. The 1641 Depositions contain no Copley entry.
+
+**Top research priority:** Verify whether "John Copley" appears in the 1824 Tithe Applotment Books for Kilmacough, Kilgefin Parish, Co. Roscommon at askaboutireland.ie.
+
+## Changelog
+A human-readable `CHANGELOG.md` now exists at the vault root. Update it at the start of each new session.
+
 ## Last Known Handoff
-Refer to `AGENT_HANDOFF_PHASE_2F.md` for the latest session summary.
+Refer to `AGENT_HANDOFF_PHASE_2G.md` for the latest session summary.

@@ -9,7 +9,7 @@ tags:
   - "#generation-G26"
   - "#tom-line"
 ---
-
+ 
 # Zachary R. Copley (b. May 22, 1969)
 
 📊 View [[Family Tree]] for visual context.

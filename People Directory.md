@@ -7,7 +7,7 @@ tags:
   - people
   - west-virginia
 ---
-
+ 
 # People Directory
 
 > Generational notation follows the project convention from G23 to G28 as used in the strategy and appendices.

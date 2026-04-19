@@ -34,7 +34,9 @@ A genealogical research wiki for the Copley family, spanning Irish immigrant anc
 ├── quartz.config.ts       ← Quartz site config (fonts, colors, plugins)
 ├── quartz.layout.ts       ← Quartz layout config
 ├── AGENT_HANDOFF_PHASE_1E.md  ← prior phase context
-├── AGENT_HANDOFF_PHASE_2A.md  ← current phase context
+├── AGENT_HANDOFF_PHASE_2A.md  ← prior phase context
+├── AGENT_HANDOFF_PHASE_2G.md  ← current phase context
+├── CHANGELOG.md               ← human-readable changelog (all phases)
 └── CLAUDE.md              ← this file
 ```
 
@@ -150,7 +152,26 @@ tags:
 
 **Stephen Line** (Stephen Michael Copley, b.1936):
 - 8 children: Michael (b.1959), Sara, Philip, Paul, Peter, Susan, Stephen J. (d.2023), Amy (b.1990)
-- Most G26 Stephen line pages are stubs — priority for future work
+- G26 Stephen line profiles are now built out (Phases 2B–2E); some remain thin on detail
+
+---
+
+## Irish Origins Research (Phase 2G — Active)
+
+Tom Copley (G25) and Steve Copley (G25) conducted extensive research (Feb–March 2026) into the English/Irish origins of Michael Copley Sr. (G23). The full analysis is in `Topics/Captain John Copley Research.md`.
+
+**Tom's hypothesis:** Michael Sr. descends from Captain John Copley, grandson of **Thomas Copley Sr. of Bredon's Norton, Worcestershire** — a 17th-century ironworks entrepreneur who moved to Ireland in 1657.
+
+**Steve's hypothesis (disputed by Tom):** Descent from a bastard son of Christopher Copley (Wadsworth, West Yorkshire) and Mary Jones.
+
+**Three verified primary sources for Captain John:**
+1. *Journal of the House of Commons* (1642) — John Copley petitioned Parliament re: Ireland
+2. *Council Book of Youghal* (1651) — "Captain Copley" as Clerk of the Market
+3. Dud Dudley, *Mettallum Martis* (1665) — Kingswood ironworks 1656–57; moved to Ireland 1657
+
+**Key AI hallucination to remember:** AI claimed Captain John had Arigna ironworks destroyed in 1641. This is chronologically impossible — *Mettallum Martis* confirms he was in England until 1657. A 1641 Depositions specialist confirmed no Copley deposition exists. Do not repeat this claim.
+
+**Most critical unverified claim to check:** A "John Copley" in the 1824 Tithe Applotment Books for Kilmacough, Kilgefin Parish, Co. Roscommon (askaboutireland.ie). Confirming or disproving this is the top research priority.
 
 ---
 
@@ -218,3 +239,4 @@ For prior session context, read in order:
 5. `AGENT_HANDOFF_PHASE_2D.md` — Image catalog complete, Stephen line profiles rebuilt
 6. `AGENT_HANDOFF_PHASE_2E.md` — Stubs cleared, deploy fixed, SSH documented
 7. `AGENT_HANDOFF_PHASE_2F.md` — GEDCOM data incorporated, Family Tree Georgia/Susan bug fixed, Benjamin Partlow page created
+8. `AGENT_HANDOFF_PHASE_2G.md` — Captain John Copley research page, descent narrative, Tom vs. Steve hypothesis, CHANGELOG created
