@@ -1,7 +1,8 @@
 ---
 title: Copley Family History
-description: A genealogical research website documenting the Copley family from County Roscommon, Ireland (c.1813) to the present day.
+description: Six generations of an Irish-American family — from County Roscommon, Ireland to Lewis County, West Virginia and across the United States. An active genealogical research project.
 date: 2026-04-18
+socialImage: images/john-and-mary-ellen-copley.jpg
 ---
 
 # The Copley Family

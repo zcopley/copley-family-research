@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Copley Family Research Vault",
+    pageTitle: "Copley Family History",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
