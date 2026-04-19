@@ -4,7 +4,6 @@ date: 2026-04-18
 tags:
   - "#copley-family"
   - "#index"
-draft: true
 ---
 
 # Copley Family Research — Changelog
