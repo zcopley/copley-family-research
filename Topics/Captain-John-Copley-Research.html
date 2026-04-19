@@ -1,0 +1,731 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr"><head><title>Captain John Copley Research</title><meta charset="utf-8"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Schibsted Grotesk:wght@400;700&amp;family=Source Sans Pro:ital,wght@0,400;0,600;1,400;1,600&amp;family=IBM Plex Mono:wght@400;600&amp;display=swap"/><link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin="anonymous"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="og:site_name" content="Copley Family Research Vault"/><meta property="og:title" content="Captain John Copley Research"/><meta property="og:type" content="website"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="Captain John Copley Research"/><meta name="twitter:description" content="Captain John Copley Research 📊 View Family Tree for visual context. RESEARCH STATUS: Active, unresolved."/><meta property="og:description" content="Captain John Copley Research 📊 View Family Tree for visual context. RESEARCH STATUS: Active, unresolved."/><meta property="og:image:alt" content="Captain John Copley Research 📊 View Family Tree for visual context. RESEARCH STATUS: Active, unresolved."/><meta property="og:image" content="https://zcopley.github.io/copley-family-research/static/og-image.png"/><meta property="og:image:url" content="https://zcopley.github.io/copley-family-research/static/og-image.png"/><meta name="twitter:image" content="https://zcopley.github.io/copley-family-research/static/og-image.png"/><meta property="og:image:type" content="image/.png"/><meta property="twitter:domain" content="zcopley.github.io/copley-family-research"/><meta property="og:url" content="https://zcopley.github.io/copley-family-research/Topics/Captain-John-Copley-Research"/><meta property="twitter:url" content="https://zcopley.github.io/copley-family-research/Topics/Captain-John-Copley-Research"/><link rel="icon" href="../static/icon.png"/><meta name="description" content="Captain John Copley Research 📊 View Family Tree for visual context. RESEARCH STATUS: Active, unresolved."/><meta name="generator" content="Quartz"/><link href="../index.css" rel="stylesheet" type="text/css" data-persist="true"/><style>.expand-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  right: 0;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.expand-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.expand-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.expand-button:focus {
+  outline: 0;
+}
+
+pre:hover > .expand-button {
+  opacity: 1;
+  transition: 0.2s;
+}
+
+#mermaid-container {
+  position: fixed;
+  contain: layout;
+  z-index: 999;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: none;
+  backdrop-filter: blur(4px);
+  background: rgba(0, 0, 0, 0.5);
+}
+#mermaid-container.active {
+  display: inline-block;
+}
+#mermaid-container > #mermaid-space {
+  border: 1px solid var(--lightgray);
+  background-color: var(--light);
+  border-radius: 5px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 80vh;
+  width: 80vw;
+  overflow: hidden;
+}
+#mermaid-container > #mermaid-space > .mermaid-content {
+  position: relative;
+  transform-origin: 0 0;
+  transition: transform 0.1s ease;
+  overflow: visible;
+  min-height: 200px;
+  min-width: 200px;
+}
+#mermaid-container > #mermaid-space > .mermaid-content pre {
+  margin: 0;
+  border: none;
+}
+#mermaid-container > #mermaid-space > .mermaid-content svg {
+  max-width: none;
+  height: auto;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  gap: 8px;
+  padding: 8px;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 2;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  color: var(--dark);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: var(--bodyFont);
+  transition: all 0.2s ease;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:hover {
+  background: var(--lightgray);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:active {
+  transform: translateY(1px);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:nth-child(2) {
+  width: auto;
+  padding: 0 12px;
+  font-size: 14px;
+}
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VSb290IjoiL2hvbWUvcnVubmVyL3dvcmsvY29wbGV5LWZhbWlseS1yZXNlYXJjaC9jb3BsZXktZmFtaWx5LXJlc2VhcmNoL3F1YXJ0ei9jb21wb25lbnRzL3N0eWxlcyIsInNvdXJjZXMiOlsibWVybWFpZC5pbmxpbmUuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTs7QUFHRjtFQUNFO0VBQ0E7O0FBR0Y7RUFDRTs7O0FBS0Y7RUFDRTtFQUNBOzs7QUFJSjtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7O0FBRUE7RUFDRTs7QUFHRjtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTs7QUFHRjtFQUNFO0VBQ0E7O0FBSUo7RUFDRTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTs7QUFFQTtFQUNFOztBQUdGO0VBQ0U7O0FBSUY7RUFDRTtFQUNBO0VBQ0EiLCJzb3VyY2VzQ29udGVudCI6WyIuZXhwYW5kLWJ1dHRvbiB7XG4gIHBvc2l0aW9uOiBhYnNvbHV0ZTtcbiAgZGlzcGxheTogZmxleDtcbiAgZmxvYXQ6IHJpZ2h0O1xuICBwYWRkaW5nOiAwLjRyZW07XG4gIG1hcmdpbjogMC4zcmVtO1xuICByaWdodDogMDsgLy8gTk9URTogcmlnaHQgd2lsbCBiZSBzZXQgaW4gbWVybWFpZC5pbmxpbmUudHNcbiAgY29sb3I6IHZhcigtLWdyYXkpO1xuICBib3JkZXItY29sb3I6IHZhcigtLWRhcmspO1xuICBiYWNrZ3JvdW5kLWNvbG9yOiB2YXIoLS1saWdodCk7XG4gIGJvcmRlcjogMXB4IHNvbGlkO1xuICBib3JkZXItcmFkaXVzOiA1cHg7XG4gIG9wYWNpdHk6IDA7XG4gIHRyYW5zaXRpb246IDAuMnM7XG5cbiAgJiA+IHN2ZyB7XG4gICAgZmlsbDogdmFyKC0tbGlnaHQpO1xuICAgIGZpbHRlcjogY29udHJhc3QoMC4zKTtcbiAgfVxuXG4gICY6aG92ZXIge1xuICAgIGN1cnNvcjogcG9pbnRlcjtcbiAgICBib3JkZXItY29sb3I6IHZhcigtLXNlY29uZGFyeSk7XG4gIH1cblxuICAmOmZvY3VzIHtcbiAgICBvdXRsaW5lOiAwO1xuICB9XG59XG5cbnByZSB7XG4gICY6aG92ZXIgPiAuZXhwYW5kLWJ1dHRvbiB7XG4gICAgb3BhY2l0eTogMTtcbiAgICB0cmFuc2l0aW9uOiAwLjJzO1xuICB9XG59XG5cbiNtZXJtYWlkLWNvbnRhaW5lciB7XG4gIHBvc2l0aW9uOiBmaXhlZDtcbiAgY29udGFpbjogbGF5b3V0O1xuICB6LWluZGV4OiA5OTk7XG4gIGxlZnQ6IDA7XG4gIHRvcDogMDtcbiAgd2lkdGg6IDEwMHZ3O1xuICBoZWlnaHQ6IDEwMHZoO1xuICBvdmVyZmxvdzogaGlkZGVuO1xuICBkaXNwbGF5OiBub25lO1xuICBiYWNrZHJvcC1maWx0ZXI6IGJsdXIoNHB4KTtcbiAgYmFja2dyb3VuZDogcmdiYSgwLCAwLCAwLCAwLjUpO1xuXG4gICYuYWN0aXZlIHtcbiAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7XG4gIH1cblxuICAmID4gI21lcm1haWQtc3BhY2Uge1xuICAgIGJvcmRlcjogMXB4IHNvbGlkIHZhcigtLWxpZ2h0Z3JheSk7XG4gICAgYmFja2dyb3VuZC1jb2xvcjogdmFyKC0tbGlnaHQpO1xuICAgIGJvcmRlci1yYWRpdXM6IDVweDtcbiAgICBwb3NpdGlvbjogZml4ZWQ7XG4gICAgdG9wOiA1MCU7XG4gICAgbGVmdDogNTAlO1xuICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlKC01MCUsIC01MCUpO1xuICAgIGhlaWdodDogODB2aDtcbiAgICB3aWR0aDogODB2dztcbiAgICBvdmVyZmxvdzogaGlkZGVuO1xuXG4gICAgJiA+IC5tZXJtYWlkLWNvbnRlbnQge1xuICAgICAgcG9zaXRpb246IHJlbGF0aXZlO1xuICAgICAgdHJhbnNmb3JtLW9yaWdpbjogMCAwO1xuICAgICAgdHJhbnNpdGlvbjogdHJhbnNmb3JtIDAuMXMgZWFzZTtcbiAgICAgIG92ZXJmbG93OiB2aXNpYmxlO1xuICAgICAgbWluLWhlaWdodDogMjAwcHg7XG4gICAgICBtaW4td2lkdGg6IDIwMHB4O1xuXG4gICAgICBwcmUge1xuICAgICAgICBtYXJnaW46IDA7XG4gICAgICAgIGJvcmRlcjogbm9uZTtcbiAgICAgIH1cblxuICAgICAgc3ZnIHtcbiAgICAgICAgbWF4LXdpZHRoOiBub25lO1xuICAgICAgICBoZWlnaHQ6IGF1dG87XG4gICAgICB9XG4gICAgfVxuXG4gICAgJiA+IC5tZXJtYWlkLWNvbnRyb2xzIHtcbiAgICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTtcbiAgICAgIGJvdHRvbTogMjBweDtcbiAgICAgIHJpZ2h0OiAyMHB4O1xuICAgICAgZGlzcGxheTogZmxleDtcbiAgICAgIGdhcDogOHB4O1xuICAgICAgcGFkZGluZzogOHB4O1xuICAgICAgYmFja2dyb3VuZDogdmFyKC0tbGlnaHQpO1xuICAgICAgYm9yZGVyOiAxcHggc29saWQgdmFyKC0tbGlnaHRncmF5KTtcbiAgICAgIGJvcmRlci1yYWRpdXM6IDZweDtcbiAgICAgIGJveC1zaGFkb3c6IDAgMnB4IDRweCByZ2JhKDAsIDAsIDAsIDAuMSk7XG4gICAgICB6LWluZGV4OiAyO1xuXG4gICAgICAubWVybWFpZC1jb250cm9sLWJ1dHRvbiB7XG4gICAgICAgIGRpc3BsYXk6IGZsZXg7XG4gICAgICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7XG4gICAgICAgIGp1c3RpZnktY29udGVudDogY2VudGVyO1xuICAgICAgICB3aWR0aDogMzJweDtcbiAgICAgICAgaGVpZ2h0OiAzMnB4O1xuICAgICAgICBwYWRkaW5nOiAwO1xuICAgICAgICBib3JkZXI6IDFweCBzb2xpZCB2YXIoLS1saWdodGdyYXkpO1xuICAgICAgICBiYWNrZ3JvdW5kOiB2YXIoLS1saWdodCk7XG4gICAgICAgIGNvbG9yOiB2YXIoLS1kYXJrKTtcbiAgICAgICAgYm9yZGVyLXJhZGl1czogNHB4O1xuICAgICAgICBjdXJzb3I6IHBvaW50ZXI7XG4gICAgICAgIGZvbnQtc2l6ZTogMTZweDtcbiAgICAgICAgZm9udC1mYW1pbHk6IHZhcigtLWJvZHlGb250KTtcbiAgICAgICAgdHJhbnNpdGlvbjogYWxsIDAuMnMgZWFzZTtcblxuICAgICAgICAmOmhvdmVyIHtcbiAgICAgICAgICBiYWNrZ3JvdW5kOiB2YXIoLS1saWdodGdyYXkpO1xuICAgICAgICB9XG5cbiAgICAgICAgJjphY3RpdmUge1xuICAgICAgICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlWSgxcHgpO1xuICAgICAgICB9XG5cbiAgICAgICAgLy8gU3R5bGUgdGhlIHJlc2V0IGJ1dHRvbiBkaWZmZXJlbnRseVxuICAgICAgICAmOm50aC1jaGlsZCgyKSB7XG4gICAgICAgICAgd2lkdGg6IGF1dG87XG4gICAgICAgICAgcGFkZGluZzogMCAxMnB4O1xuICAgICAgICAgIGZvbnQtc2l6ZTogMTRweDtcbiAgICAgICAgfVxuICAgICAgfVxuICAgIH1cbiAgfVxufVxuIl19 */</style><link href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" rel="stylesheet" type="text/css" data-persist="true"/><script src="../prescript.js" type="application/javascript" data-persist="true"></script><script type="application/javascript" data-persist="true">const fetchData = fetch("../static/contentIndex.json").then(data => data.json())</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://zcopley.github.io/copley-family-research/index.xml"/></head><body data-slug="Topics/Captain-John-Copley-Research"><div id="quartz-root" class="page"><div id="quartz-body"><div class="left sidebar"><h2 class="page-title"><a href="..">Copley Family Research Vault</a></h2><div class="spacer mobile-only"></div><div class="flex-component" style="flex-direction: row; flex-wrap: nowrap; gap: 1rem;"><div style="flex-grow: 1; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><div class="search"><button class="search-button"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title>Search</title><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg><p>Search</p></button><div class="search-container"><div class="search-space"><input autocomplete="off" class="search-bar" name="search" type="text" aria-label="Search for something" placeholder="Search for something"/><div class="search-layout" data-preview="true"></div></div></div></div></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="darkmode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve" aria-label="Dark mode"><title>Dark mode</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve" aria-label="Light mode"><title>Light mode</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></button></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="readermode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="readerIcon" fill="currentColor" stroke="currentColor" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round" width="64px" height="64px" viewBox="0 0 24 24" aria-label="Reader mode"><title>Reader mode</title><g transform="translate(-1.8, -1.8) scale(1.15, 1.2)"><path d="M8.9891247,2.5 C10.1384702,2.5 11.2209868,2.96705384 12.0049645,3.76669482 C12.7883914,2.96705384 13.8709081,2.5 15.0202536,2.5 L18.7549359,2.5 C19.1691495,2.5 19.5049359,2.83578644 19.5049359,3.25 L19.5046891,4.004 L21.2546891,4.00457396 C21.6343849,4.00457396 21.9481801,4.28672784 21.9978425,4.6528034 L22.0046891,4.75457396 L22.0046891,20.25 C22.0046891,20.6296958 21.7225353,20.943491 21.3564597,20.9931534 L21.2546891,21 L2.75468914,21 C2.37499337,21 2.06119817,20.7178461 2.01153575,20.3517706 L2.00468914,20.25 L2.00468914,4.75457396 C2.00468914,4.37487819 2.28684302,4.061083 2.65291858,4.01142057 L2.75468914,4.00457396 L4.50368914,4.004 L4.50444233,3.25 C4.50444233,2.87030423 4.78659621,2.55650904 5.15267177,2.50684662 L5.25444233,2.5 L8.9891247,2.5 Z M4.50368914,5.504 L3.50468914,5.504 L3.50468914,19.5 L10.9478955,19.4998273 C10.4513189,18.9207296 9.73864328,18.5588115 8.96709342,18.5065584 L8.77307039,18.5 L5.25444233,18.5 C4.87474657,18.5 4.56095137,18.2178461 4.51128895,17.8517706 L4.50444233,17.75 L4.50368914,5.504 Z M19.5049359,17.75 C19.5049359,18.1642136 19.1691495,18.5 18.7549359,18.5 L15.2363079,18.5 C14.3910149,18.5 13.5994408,18.8724714 13.0614828,19.4998273 L20.5046891,19.5 L20.5046891,5.504 L19.5046891,5.504 L19.5049359,17.75 Z M18.0059359,3.999 L15.0202536,4 L14.8259077,4.00692283 C13.9889509,4.06666544 13.2254227,4.50975805 12.7549359,5.212 L12.7549359,17.777 L12.7782651,17.7601316 C13.4923805,17.2719483 14.3447024,17 15.2363079,17 L18.0059359,16.999 L18.0056891,4.798 L18.0033792,4.75457396 L18.0056891,4.71 L18.0059359,3.999 Z M8.9891247,4 L6.00368914,3.999 L6.00599909,4.75457396 L6.00599909,4.75457396 L6.00368914,4.783 L6.00368914,16.999 L8.77307039,17 C9.57551536,17 10.3461406,17.2202781 11.0128313,17.6202194 L11.2536891,17.776 L11.2536891,5.211 C10.8200889,4.56369974 10.1361548,4.13636104 9.37521067,4.02745763 L9.18347055,4.00692283 L8.9891247,4 Z"></path></g></svg></button></div></div><div class="explorer" data-behavior="link" data-collapsed="collapsed" data-savestate="true" data-data-fns="{&quot;order&quot;:[&quot;filter&quot;,&quot;map&quot;,&quot;sort&quot;],&quot;sortFn&quot;:&quot;(a,b)=>!a.isFolder&amp;&amp;!b.isFolder||a.isFolder&amp;&amp;b.isFolder?a.displayName.localeCompare(b.displayName,void 0,{numeric:!0,sensitivity:\&quot;base\&quot;}):!a.isFolder&amp;&amp;b.isFolder?1:-1&quot;,&quot;filterFn&quot;:&quot;node=>node.slugSegment!==\&quot;tags\&quot;&quot;,&quot;mapFn&quot;:&quot;node=>node&quot;}"><button type="button" class="explorer-toggle mobile-explorer hide-until-loaded" data-mobile="true" aria-controls="explorer-198"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-menu"><line x1="4" x2="20" y1="12" y2="12"></line><line x1="4" x2="20" y1="6" y2="6"></line><line x1="4" x2="20" y1="18" y2="18"></line></svg></button><button type="button" class="title-button explorer-toggle desktop-explorer" data-mobile="false" aria-expanded="true"><h2>Explorer</h2><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="explorer-198" class="explorer-content" aria-expanded="false" role="group"><ul class="explorer-ul overflow" id="list-0"><li class="overflow-end"></li></ul></div><template id="template-file"><li><a href="#"></a></li></template><template id="template-folder"><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div><button class="folder-button"><span class="folder-title"></span></button></div></div><div class="folder-outer"><ul class="content"></ul></div></li></template></div></div><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container" aria-label="breadcrumbs"><div class="breadcrumb-element"><a href="../">Home</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../Topics/">Topics</a><p> ❯ </p></div><div class="breadcrumb-element"><a href>Captain John Copley Research</a></div></nav><h1 class="article-title">Captain John Copley Research</h1><p show-comma="true" class="content-meta"><time datetime="2026-04-18T00:00:00.000Z">Apr 18, 2026</time><span>38 min read</span></p><ul class="tags"><li><a href="../tags/copley-family" class="internal tag-link">copley-family</a></li><li><a href="../tags/irish-ancestors" class="internal tag-link">irish-ancestors</a></li><li><a href="../tags/immigration" class="internal tag-link">immigration</a></li><li><a href="../tags/genealogy" class="internal tag-link">genealogy</a></li><li><a href="../tags/research-in-progress" class="internal tag-link">research-in-progress</a></li></ul></div></div><article class="popover-hint"><h1 id="captain-john-copley-research">Captain John Copley Research<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#captain-john-copley-research" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>📊 View <a href="../Family-Tree" class="internal alias" data-slug="Family-Tree">Family Tree</a> for visual context.</p>
+<blockquote>
+<p><strong>RESEARCH STATUS:</strong> Active, unresolved. This page documents an ongoing investigation by <a href="../People/Thomas-Tom-Copley" class="internal alias" data-slug="People/Thomas-Tom-Copley">Tom Copley</a> (G25) and <a href="../People/Stephen-Michael-Copley" class="internal alias" data-slug="People/Stephen-Michael-Copley">Stephen Copley</a> (G25) into the possible English and Irish origins of <a href="../People/Michael-Copley-Sr." class="internal alias" data-slug="People/Michael-Copley-Sr.">Michael Copley Sr.</a> (G23, b. ~1813), our earliest known Copley ancestor. Conducted February–March 2026 via email correspondence and Google AI research sessions.</p>
+<p><strong>Source quality key used throughout this page:</strong></p>
+<ul>
+<li>✅ <strong>[VERIFIED]</strong> — Confirmed in a named primary source (court record, published book, civil register, etc.)</li>
+<li>⚠️ <strong>[PLAUSIBLE]</strong> — Reasonable inference consistent with known facts, but not directly sourced</li>
+<li>❓ <strong>[SPECULATIVE]</strong> — Proposed by AI or family tradition; no primary source located; treat with caution</li>
+<li>🚫 <strong>[LIKELY INCORRECT]</strong> — Contradicted by verified evidence or internal chronological impossibility</li>
+</ul>
+</blockquote>
+<hr/>
+<h2 id="1-background-and-motivation">1. Background and Motivation<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#1-background-and-motivation" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>The Copley family research has long hit a wall at <a href="../People/Michael-Copley-Sr." class="internal alias" data-slug="People/Michael-Copley-Sr.">Michael Copley Sr.</a> (b. ~1813, Ireland; d. ~1897, Lewis County, WV). He arrived in Lewis County, WV in the 1830s–1840s with his wife <a href="../People/Ann-Copley" class="internal alias" data-slug="People/Ann-Copley">Ann Copley</a> (née Munday, b. ~1823). Both were Irish Catholic immigrants, but their specific parish of origin, parents, and pre-emigration lives remained unknown until recently.</p>
+<p>The discovery that a group of emigrants from <strong>Kilgefin Parish, County Roscommon</strong> settled in Lewis County — in a community known as “Murray’s Settlement” or the “Irish Settlement” — provided the geographic lead. Tom and Steve’s 2026 research attempts to trace <em>why</em> a Copley family was in Kilgefin, County Roscommon, and whether they can be connected to a broader English Copley dynasty.</p>
+<p>The central figure in the proposed connection is <strong>Captain John Copley</strong>, a 17th-century English entrepreneur and military figure documented in multiple contemporaneous sources as having operated in Ireland.</p>
+<hr/>
+<h2 id="2-the-english-origins-bredons-norton-worcestershire">2. The English Origins: Bredon’s Norton, Worcestershire<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#2-the-english-origins-bredons-norton-worcestershire" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h3 id="2a-the-copley-family-of-bredons-norton">2a. The Copley Family of Bredon’s Norton<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#2a-the-copley-family-of-bredons-norton" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>✅ <strong>[VERIFIED]</strong> The Copley family held the manor of <strong>Bredon’s Norton</strong>, a small village in Worcestershire, England, from the 16th century. Their lineage is documented in the <strong>Visitations of Worcestershire for 1569 and 1634</strong>, which confirm descent from <strong>William Copley</strong> and his wife <strong>Bennett Chaloner</strong>. (Source: Visitations of Worcestershire; bredonsnorton.co.uk)</p>
+<p>✅ <strong>[VERIFIED]</strong> <strong>Thomas Copley of Bredon’s Norton</strong> (d. May 20, 1593) was a notable member of this branch. An inscription in Bredon Church commemorates his death. He is associated in local tradition with Sir Walter Raleigh and is said to have introduced tobacco and potatoes to the Vale of Evesham, though the latter claim is local legend. (Source: bredonsnorton.co.uk; British History Online)</p>
+<p>✅ <strong>[VERIFIED]</strong> The manor house at Bredon’s Norton was sold in <strong>1649</strong> following the death of <strong>Thomas Copley Jr.</strong> in <strong>1647</strong>, ending the family’s direct presence in the village. (Source: bredonsnorton.co.uk)</p>
+<p>⚠️ <strong>[PLAUSIBLE]</strong> The Bredon’s Norton Copleys had <strong>Catholic recusant</strong> connections. A related branch — the <strong>Thomas Copley</strong> who died in exile in the Netherlands — was a prominent Catholic recusant. The Bredon branch’s Catholic sympathies may have influenced their descendants’ decisions and movements in Ireland. (Source: bredonsnorton.co.uk)</p>
+<p>❓ <strong>[SPECULATIVE]</strong> AI research sessions proposed that Thomas Copley of Bredon’s Norton was “a cousin to Sir Walter Raleigh” through shared “Hoo and Carew ancestry.” This claim appeared in multiple AI responses but no primary genealogical source confirming this specific kinship was cited. The association of this family with Raleigh is documented in local tradition but the precise cousinship requires verification.</p>
+<h3 id="2b-captain-john-copley-and-dud-dudley">2b. Captain John Copley and Dud Dudley<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#2b-captain-john-copley-and-dud-dudley" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>✅ <strong>[VERIFIED]</strong> <strong>Captain John Copley</strong> is mentioned by name in <strong>Dud Dudley’s <em>Mettallum Martis: or, Iron Made with Pit-Coale and Sea-Coale</em> (published 1665)</strong>, pages 20–21. Dudley’s account describes a Captain John Copley who:</p>
+<ul>
+<li>Obtained a <strong>patent from Cromwell’s government</strong> (i.e., the Protectorate, 1653–1659) to make iron using coal rather than charcoal</li>
+<li>Established an <strong>iron-making venture at Kingswood Forest, near Bristol</strong> (~1656–1657) — approximately 40 miles south of Bredon’s Norton</li>
+<li>Invited Dud Dudley to assist him, whereupon Dudley improved the <strong>design of Copley’s bellows</strong></li>
+<li>Ultimately <strong>failed</strong> in his venture to produce iron profitably with coal</li>
+<li>Subsequently <strong>moved to Ireland in 1657</strong></li>
+</ul>
+<p>(Source: Dud Dudley, <em>Mettallum Martis</em>, 1665, pp. 20–21. Available: Internet Archive, <a href="https://dn721600.ca.archive.org/0/items/duddudleysmetta01dudlgoog/duddudleysmetta01dudlgoog.pdf" class="external">https://dn721600.ca.archive.org/0/items/duddudleysmetta01dudlgoog/duddudleysmetta01dudlgoog.pdf<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>)</p>
+<p>✅ <strong>[VERIFIED]</strong> An independent peer-reviewed scholarly source, <strong>P.W. King, “Dud Dudley’s Contribution to Metallurgy,” <em>Historical Metallurgy</em></strong> confirms the Copley reference: “Dudley got the bellows to blow ‘without those engines’, but told Copley that he ‘feared [Copley] could not make… iron or melting ironstone’ with the specific charcoal or fuel methods he was employing.” (Source: Historical Metallurgy journal)</p>
+<p>⚠️ <strong>[PLAUSIBLE]</strong> The Captain John Copley of the <em>Mettallum Martis</em> is very likely from the Bredon’s Norton branch, given the geographic proximity of Kingswood (near Bristol) to Bredon’s Norton, the timing (1656–57, consistent with the 1634 Visitation documenting the family, and the 1649 sale of the manor), and the Cromwell-era patent. Tom’s own assessment: “combined with the genealogy chart from the Visitation of Worcestershire of 1634, further leads to the presumption that Captain John Copley was from the Bredon family.”</p>
+<p>⚠️ <strong>[PLAUSIBLE]</strong> Captain John was likely a <strong>younger son</strong> of the family — a second or third son who could not inherit the Bredon’s Norton estate (which passed to Thomas Copley Jr. and was sold after his death in 1647). Younger sons of English gentry commonly sought fortune through military service and colonial ventures. His entrepreneurial iron-making attempt and subsequent emigration to Ireland fit this pattern exactly.</p>
+<p>❓ <strong>[SPECULATIVE]</strong> AI sessions proposed that Captain John’s father was <strong>Thomas Copley of Bredon’s Norton</strong> (i.e., he was a son of that Thomas). This is plausible given the family and timing, but no primary source confirms his specific parentage. Some AI sessions instead proposed his father was “William Copley of Sprotbrough, Yorkshire” — a completely different branch of the family — which Tom regards as a likely hallucination.</p>
+<hr/>
+<h2 id="3-captain-john-copley-in-ireland-verified-evidence">3. Captain John Copley in Ireland: Verified Evidence<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#3-captain-john-copley-in-ireland-verified-evidence" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h3 id="3a-the-1642-parliamentary-petition">3a. The 1642 Parliamentary Petition<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#3a-the-1642-parliamentary-petition" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>✅ <strong>[VERIFIED]</strong> The <strong>Journal of the House of Commons, Volume 2, 1640–1643</strong> (originally published by His Majesty’s Stationery Office, London, 1802) records:</p>
+<blockquote>
+<p><em>“THE humble Petition of John Copley, concerning some strange brave Exploits he would undertake in Ireland, was this Day read; and referred unto the Lieutenant of the Tower, and Sir Jo. Heydon Lieutenant of the Ordnance.”</em></p>
+</blockquote>
+<p>(Source: British History Online, <a href="https://www.british-history.ac.uk/commons-jrnl/vol2/pp604-607" class="external">https://www.british-history.ac.uk/commons-jrnl/vol2/pp604-607<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>)</p>
+<p>This establishes that a John Copley was petitioning Parliament about Ireland in <strong>1642</strong> — during the Irish Rebellion of 1641 — proposing military or engineering “exploits.” His petition was referred for evaluation but there is no record it was accepted. This is consistent with the <em>Mettallum Martis</em> account of a man who repeatedly attempted ambitious ventures and repeatedly failed to obtain lasting state support.</p>
+<p><strong>Note on chronology:</strong> This 1642 petition predates the Kingswood ironworks venture (~1656–57) by over a decade, suggesting Copley had already been interested in Irish ventures before his failed English ironmaking attempt. He may have had prior connections to Ireland, or this may be the same pattern of proposing grand schemes that characterized his career.</p>
+<h3 id="3b-captain-copley-in-youghal-1651">3b. Captain Copley in Youghal, 1651<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#3b-captain-copley-in-youghal-1651" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>✅ <strong>[VERIFIED]</strong> The <strong>Council Book of the Corporation of Youghal from 1610 to 1659</strong> (edited by Richard Caulfield) records a <strong>“Captain Copley”</strong> as <strong>Clerk of the Market in Youghal</strong>, Ireland, in <strong>1651</strong>.</p>
+<p>(Source: Richard Caulfield, ed., <em>Council Book of the Corporation of Youghal</em>, available Google Books: <a href="http://books.google.com/books?id=4cbkbQmWmWwC&amp;pg=RA3-PA290" class="external">http://books.google.com/books?id=4cbkbQmWmWwC&amp;pg=RA3-PA290<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>)</p>
+<p>Youghal, County Cork, is historically significant as the Irish home of <strong>Sir Walter Raleigh</strong> — who had received ~42,000 acres of confiscated Munster land and lived at Myrtle Grove in Youghal. The presence of a “Captain Copley” in Youghal in 1651 is circumstantially consistent with a man from a family with Raleigh connections, though this Copley cannot be definitively identified as the same man without further research.</p>
+<h3 id="3c-move-to-ireland-1657">3c. Move to Ireland, 1657<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#3c-move-to-ireland-1657" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>✅ <strong>[VERIFIED]</strong> Per Dud Dudley’s <em>Mettallum Martis</em> (above): Captain John Copley moved to Ireland in <strong>1657</strong>, after failing in his Kingswood ironmaking venture.</p>
+<hr/>
+<h2 id="4-the-proposed-irish-career-ai-generated-narrative-handle-with-caution">4. The Proposed Irish Career: AI-Generated Narrative (Handle with Caution)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#4-the-proposed-irish-career-ai-generated-narrative-handle-with-caution" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<blockquote>
+<p>⚠️ <strong>IMPORTANT WARNING:</strong> The following section synthesizes claims generated by Google AI (Gemini) during Tom’s research sessions in February 2026. Tom himself explicitly labeled several of these responses as potential “hallucinations.” When he pressed the AI for specific, verifiable citations — particularly for the Arigna connection — it could not produce them. A specialist in the <strong>1641 Depositions</strong> at Trinity College Dublin confirmed to Tom that there is no deposition from a Captain John Copley in those records, contradicting one AI claim. All items in this section are marked <strong>❓ [SPECULATIVE]</strong> unless otherwise noted.</p>
+</blockquote>
+<h3 id="4a-the-arigna-ironworks-claim">4a. The Arigna Ironworks Claim<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#4a-the-arigna-ironworks-claim" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>❓ <strong>[SPECULATIVE]</strong> The AI repeatedly claimed that Captain John Copley established <strong>ironworks in the Arigna Valley, County Roscommon</strong> in the <strong>1630s</strong>, holding a royal monopoly to manufacture iron ordnance (cannons), and that these works were <strong>destroyed in the 1641 Irish Rebellion</strong>.</p>
+<p><strong>Critical chronological problem:</strong> 🚫 <strong>[LIKELY INCORRECT AS STATED]</strong> The verified <em>Mettallum Martis</em> evidence establishes that Copley was still in England in 1656–57, working at Kingswood near Bristol. He moved to Ireland in 1657. He cannot have had ironworks in County Roscommon destroyed in 1641 — 16 years before he arrived in Ireland. The AI almost certainly conflated two separate figures or time periods. The Arigna Valley <em>did</em> have ironworks in the 17th century (established by <strong>Charles Coote</strong> in Elizabethan times according to historical records), but the attribution of these specifically to “Captain John Copley” in the 1630s–1641 period appears to be AI fabrication.</p>
+<p>❓ <strong>[SPECULATIVE]</strong> What <em>is</em> plausible — and consistent with verified evidence — is that after arriving in Ireland in 1657, Copley may have attempted another industrial venture (possibly in Roscommon, given its mineral resources), consistent with his pattern of entrepreneurial ambition. But no specific primary source has been found linking him to Arigna or Roscommon.</p>
+<p>❓ <strong>[SPECULATIVE]</strong> The AI cited a specific source — “Calendar of State Papers, Ireland, 1633–1647, p. 301” — as containing explicit reference to Captain John Copley and the Arigna mine. Tom has not yet verified whether this entry exists or whether the AI fabricated it. <strong>This specific reference must be checked before any weight can be placed on it.</strong></p>
+<h3 id="4b-the-1641-depositions">4b. The 1641 Depositions<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#4b-the-1641-depositions" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>❓ <strong>[SPECULATIVE / CONTRADICTED]</strong> The AI claimed that a <strong>1641 Deposition (MS 830)</strong> from Captain John Copley exists, describing the destruction of his Arigna smelting houses. A <strong>specialist in the 1641 Depositions confirmed to Tom</strong> that no such deposition from a Captain John Copley exists. The AI was hallucinating. The 1641 Depositions are fully digitized and searchable at Trinity College Dublin (1641.tcd.ie) and should be searched directly.</p>
+<h3 id="4c-cromwellian-land-grants-in-roscommon">4c. Cromwellian Land Grants in Roscommon<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#4c-cromwellian-land-grants-in-roscommon" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>❓ <strong>[SPECULATIVE]</strong> Multiple AI sessions proposed that Captain John Copley received extensive land grants in <strong>County Roscommon</strong> (specifically the barony of Ballintober) as payment for Cromwellian military service, under the Act for the Settlement of Ireland 1652. This is historically plausible as a mechanism — the Cromwellian Settlement did grant Irish land to soldiers and “adventurers” — but no specific grant record naming Captain John Copley has been located.</p>
+<p>❓ <strong>[SPECULATIVE]</strong> The AI proposed that his wife was named <strong>Jane</strong> (possibly Jane Lode or Jane Loftus), though Tom’s own assessment is that “Jane” as Captain John’s wife appears in the AI’s narrative without any confirmed source. There are other Jane Copleys in the historical record but none specifically identified as wife of this Captain John.</p>
+<hr/>
+<h2 id="5-the-proposed-descent-to-michael-copley-sr-full-speculative-chain">5. The Proposed Descent to Michael Copley Sr.: Full Speculative Chain<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#5-the-proposed-descent-to-michael-copley-sr-full-speculative-chain" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<blockquote>
+<p>❓ <strong>[ENTIRELY SPECULATIVE]</strong> The following generational descent is the AI’s proposed chain connecting Captain John Copley to our Michael Copley. It has <em>not</em> been verified in primary sources. It is presented here as a research framework to test, not as established family history.</p>
+</blockquote>
+<pre><code>Captain John Copley (c.1610s–1660s+)
+  [Son of Thomas Copley of Bredon's Norton; moved to Ireland 1657]
+    ↓
+Thomas Copley (late 17th century)
+  [AI proposes: settled in central Roscommon after Arigna, transitioning 
+   from industrialist to farmer/landowner; no source given]
+    ↓
+John Copley of Roscommon (early 18th century)
+  [AI proposes: near Lecarrow/Kilgefin; &quot;gentleman farmer&quot;; no source given]
+    ↓
+Thomas Copley (c.1769–c.1841/1850s)
+  [AI proposes: patriarch of the Cloonshee/Castlerea branch; 
+   per Griffith's Valuation (1857–58), Copley land in Cloonshee under
+   the Hartland family; AI claims this Thomas is in the Tithe 
+   Applotment Books — NOT VERIFIED]
+    ↓
+Patrick Copley (AI) OR John Copley (AI)
+  [AI gives conflicting accounts: sometimes says the father of Michael
+   was &quot;Patrick Copley&quot; and sometimes &quot;John Copley of Kilmacough&quot;]
+    ↓ ↕
+John Copley × Catherine Dolan  ← → Patrick Copley × Bridget
+  [AI: John held land in Kilmacough townland, Kilgefin Parish,
+   per Tithe Applotment Books (1824); adjacent to Dolan lands in 
+   Carrowintoher/Cloonshee — NOT VERIFIED]
+    ↓
+Michael Copley (b. ~1813) × Ann Munday (b. ~1823)
+  [✅ VERIFIED: emigrated to Lewis County, WV, 1830s–1840s]
+</code></pre>
+<p><strong>Critical gaps in this chain:</strong></p>
+<ul>
+<li>No primary source has been found for <em>any</em> individual between Captain John Copley (d. post-1657) and Michael Copley Sr. (b. ~1813)</li>
+<li>The AI’s specific claims about the Tithe Applotment Books (John Copley in Kilmacough, 1824) and Griffith’s Valuation (Patrick/Thomas Copley in Cloonshee) have <strong>not yet been verified</strong> by consulting those sources directly — they are accessible online (askaboutireland.ie / irishgenealogy.ie)</li>
+<li>The religious conversion from Protestant to Catholic is unaccounted for in primary sources</li>
+</ul>
+<hr/>
+<h2 id="6-the-castlerea-copleys-primary-source-research">6. The Castlerea Copleys: Primary Source Research<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#6-the-castlerea-copleys-primary-source-research" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<blockquote>
+<p>✅ This section is based on <em>“The Copley Name from Castlerea”</em>, a 11-page genealogical report (likely compiled by researcher <strong>Mary Shelly</strong>, referenced in Steve Copley’s letter of February 2026), with 158 footnoted primary source citations from Kilkeevan Church of Ireland records, Castlerea Civil Records, Roscommon Civil births/deaths/marriages, passenger lists, and census records. This is the most rigorously sourced material in the entire Captain John research project.</p>
+</blockquote>
+<h3 id="what-the-report-establishes">What the Report Establishes<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#what-the-report-establishes" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>The Castlerea/Kilkeevin Copleys were <strong>Protestant (Church of Ireland)</strong> and are documented from the mid-18th century onward. Key documented lines:</p>
+<p><strong>Line 1: John and Catherine Copley</strong></p>
+<ul>
+<li>✅ <strong>Robert Copley</strong>, baptized Feb 23, 1755 (Kilkeevan CoI)</li>
+<li>✅ <strong>Catherine Copley</strong>, baptized Jan 9, 1757 (Kilkeevan CoI)</li>
+<li>✅ <strong>Thomas Copley</strong>, baptized Dec 28, 1757 (Kilkeevan CoI)
+<ul>
+<li>✅ Thomas married <strong>Jane Timms</strong>, Apr 8, 1804 (Kilkeevan CoI Marriages)</li>
+<li>✅ Thomas died 1842, aged ~80; buried Jun 23, 1870</li>
+<li>Their children and grandchildren are extensively documented through the 1800s–early 1900s, including emigration to <strong>Seattle, Washington</strong> (1913), <strong>New York</strong> (1927), and <strong>Ontario, Canada</strong> (1904, 1913)</li>
+</ul>
+</li>
+<li>✅ <strong>Mary Copley</strong>, baptized Feb 19, 1809 (Kilkeevan CoI)</li>
+<li>✅ <strong>Robert Copley</strong>, baptized Aug 12, 1810; died 1890 in Termon aged 81, widower, “a Florist”</li>
+<li>✅ <strong>Thomas Copley</strong>, baptized Jul 12, 1812; schoolmaster; married Elizabeth Quigley Dec 1, 1836</li>
+<li>✅ <strong>Patrick Copley</strong>, baptized Oct 2, 1814; died 1848 aged 32</li>
+</ul>
+<p><strong>Line 2: Thomas and Catherine Copley</strong> (Thomas died 1842 aged 80; Catherine died 1846 aged 65)</p>
+<ul>
+<li>✅ <strong>Patrick Copley</strong> (son of Thomas), farmer, Tarmon — married <strong>Bridget Satchwell</strong>, Jan 25, 1867 (Kilkeevan CoI Marriages; witnesses: Hugh Satchwell and Hubert Copley)
+<ul>
+<li>Notable: Patrick Copley (baptized Oct 2, 1814, per another entry) married Bridget Satchwell in 1847 at the Kilkeevin Church of Ireland — the ceremony was conducted by <strong>Rev. John Orson Oldfield</strong>, identified as the grandfather of <strong>Dr. Douglas Hyde</strong>, first President of Ireland</li>
+<li>Patrick and Bridget’s son <strong>Thomas Copley</strong> (b. ~1848) married Maria Monson, Nov 22, 1881; they had nine children, many of whom emigrated to the US and Canada in the 1910s–1920s</li>
+</ul>
+</li>
+</ul>
+<p><strong>What the report does NOT establish:</strong></p>
+<ul>
+<li>⚠️ No connection is drawn between the Castlerea (Protestant) Copleys and the Kilgefin (Catholic) Copleys</li>
+<li>Steve’s letter explicitly states: <em>“The second bunch [of records] were disappointing in that they did not suggest a specific link between the Castlerea Copleys and our Copleys. Of course, Mary warned that they probably would not.”</em></li>
+</ul>
+<hr/>
+<h2 id="7-the-limerick-branch-and-john-singleton-copley">7. The Limerick Branch and John Singleton Copley<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#7-the-limerick-branch-and-john-singleton-copley" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>A separate and better-documented Irish Copley line provides context, even if the connection to our family is unproven.</p>
+<p>✅ <strong>[VERIFIED]</strong> <strong>Richard Copley</strong> (c. 1708–1748), an Anglo-Irishman from County Limerick, married <strong>Mary Singleton</strong> (from County Clare) and emigrated to Boston, Massachusetts in <strong>1736</strong>, where he became a tobacconist. (Source: Wikipedia, <em>John Singleton Copley</em>; Clare Library IE)</p>
+<p>✅ <strong>[VERIFIED]</strong> Their son <strong>John Singleton Copley</strong> (1738–1815) became one of the most celebrated portrait painters of the colonial era, known for works including <em>Watson and the Shark</em> and <em>The Copley Family</em>. He later moved to London. His son <strong>John Copley, 1st Baron Lyndhurst</strong> served as Lord Chancellor of England.</p>
+<p>❓ <strong>[SPECULATIVE]</strong> AI sessions proposed that this Limerick branch descended from the same Captain John Copley via: Captain John → (unnamed generation) → Anthony Copley of County Limerick (c.1670s–1740s) → John Copley of Newcastle, County Limerick → Richard Copley (emigrated to Boston). No primary source confirms this specific lineage, though the Limerick/Newcastle Copley family <em>is</em> documented at WikiTree (Copley-1601).</p>
+<p>⚠️ <strong>[PLAUSIBLE]</strong> If Captain John Copley (post-1657, Ireland) was indeed the progenitor of both the Limerick and the Roscommon Copleys, it would explain the geographic split Tom theorizes: older children inheriting the more prosperous Limerick Protestant line, younger or cadet branches settling in the rougher Connacht territory.</p>
+<hr/>
+<h2 id="8-toms-synthesis-theory">8. Tom’s Synthesis Theory<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#8-toms-synthesis-theory" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>In Tom’s own words, from his email of February 19, 2026 (“Sheriff Charles Copley”), his best current theory is:</p>
+<blockquote>
+<p><em>“The best explanation I’ve seen of our Roscommon Copleys is through the marriage of Captain John Copley and wife Jane, before Captain John joined the Parliamentary Army under Cromwell. John received his sizable land grants as a reward for his service, and his offspring — probably the oldest one — benefitted from the ensuing income generated from the large acreage granted in the Limerick area. The Roscommon ones, that is Thomas Copley of Castlerea who married Jane Timms, and John Copley of Kilgefin who married Catherine Dolan (presumably our Michael Copley’s parents) must have descended from Captain John Copley’s younger child/children.”</em></p>
+</blockquote>
+<blockquote>
+<p><em>“Our side of this family became Catholic through the Dolan marriage. The Dolans were definitely Catholic. Our ancestors essentially ‘went native’ since the vast majority of the rural population were Catholic. They were essentially the poor country cousins of the Limerick Copleys.”</em></p>
+</blockquote>
+<p>⚠️ This theory is internally consistent and historically plausible. It accounts for the Protestant-to-Catholic conversion (via marriage into the Catholic Dolan family), the geographic distribution, and the social divergence between the prosperous Limerick line and the farming Roscommon line. However, it remains unverified in primary sources.</p>
+<hr/>
+<h2 id="9-the-three-possible-routes-to-roscommon">9. The Three Possible Routes to Roscommon<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#9-the-three-possible-routes-to-roscommon" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Steve Copley (letter, ~Feb 2026) identifies three hypothetical routes by which English Copleys might have reached County Roscommon:</p>
+<ol>
+<li>
+<p><strong>Christopher Copley</strong> ❓ — Referenced in earlier correspondence but not documented in these files. Requires separate investigation.</p>
+</li>
+<li>
+<p><strong>Captain John Copley</strong> ⚠️ — The main focus of this research. The verified evidence establishes him in Ireland after 1657; the Roscommon connection is plausible but unproven.</p>
+</li>
+<li>
+<p><strong>Lord Baltimore</strong> ❓ — Cecil Calvert, 2nd Baron Baltimore, was associated with a <strong>Thomas Copley</strong> (a Jesuit priest) who helped establish the Maryland Colony in the 1630s–1640s. This connection is speculative and would represent a completely different branch. Its relevance to a County Roscommon presence is unclear.</p>
+</li>
+</ol>
+<hr/>
+<h2 id="10-the-murrays-settlement-question">10. The “Murray’s Settlement” Question<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#10-the-murrays-settlement-question" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>❓ <strong>[SPECULATIVE — Tom’s own query]</strong> Tom raises the question of whether <strong>Anne “Munday”</strong> (Michael Copley’s wife, b. ~1823) might actually be <strong>Anne Murray</strong>. He notes:</p>
+<ul>
+<li>The name “Munday” and “Murray” are phonetically similar</li>
+<li>Lewis County’s Irish immigrant community was known as <strong>“Murray’s Settlement”</strong></li>
+<li>A large group of immigrants from the Kilgefin area settled there</li>
+</ul>
+<p>This is unresolved speculation. Anne’s surname in the verified record is “Munday” (confirmed by GEDCOM and Partlow family sources in Phase 2F). However, if Munday is an anglicization or clerical variant of Murray, this could be significant. No evidence either way has been found.</p>
+<hr/>
+<h2 id="11-research-vetting-strategy">11. Research Vetting Strategy<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#11-research-vetting-strategy" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>The following is a prioritized, step-by-step plan for verifying or disproving the Captain John hypothesis using accessible primary sources.</p>
+<h3 id="priority-1-verify-the-tithe-applotment-and-griffiths-valuation-claims">Priority 1: Verify the Tithe Applotment and Griffith’s Valuation Claims<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#priority-1-verify-the-tithe-applotment-and-griffiths-valuation-claims" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>The AI’s claim that a “John Copley” held land in Kilmacough townland, Kilgefin Parish per the <strong>1824 Tithe Applotment Books</strong> is the single most important unverified claim in this entire research thread — because it would directly place a Copley in the right parish at the right time to be Michael’s father.</p>
+<ul>
+<li><strong>Action:</strong> Search the Tithe Applotment Books (1823–37) for County Roscommon at: <a href="https://www.askaboutireland.ie/griffith-valuation/" class="external">https://www.askaboutireland.ie/griffith-valuation/<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></li>
+<li><strong>Action:</strong> Search Griffith’s Valuation (1847–64) for County Roscommon at the same site</li>
+<li><strong>Search terms:</strong> “Copley,” “Kilgefin,” “Kilmacough,” “Cloonshee,” “Carrowintoher”</li>
+<li><strong>Expected outcome:</strong> Either confirms a Copley presence in Kilgefin (supporting the hypothesis) or finds nothing (undermining it)</li>
+<li><strong>Who can do this:</strong> Anyone with internet access; these records are fully digitized and free</li>
+</ul>
+<h3 id="priority-2-search-the-calendar-of-state-papers-ireland">Priority 2: Search the Calendar of State Papers, Ireland<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#priority-2-search-the-calendar-of-state-papers-ireland" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>The AI cited “Calendar of State Papers, Ireland, 1633–1647, p. 301” as containing an explicit reference to Captain John Copley and Arigna. This reference may be fabricated or it may be real.</p>
+<ul>
+<li><strong>Action:</strong> Access the Calendar of State Papers, Ireland at British History Online (british-history.ac.uk) — the relevant volumes are partially digitized</li>
+<li><strong>Action:</strong> Search for “Copley” in the Connaught/Roscommon sections of the 1633–1647 volume</li>
+<li><strong>Expected outcome:</strong> Either validates or definitively disproves the most specific AI claim about the Arigna link</li>
+<li><strong>Alternative:</strong> The Calendar is also held at the National Archives of Ireland (nationalarchives.ie) and the Public Record Office in London</li>
+</ul>
+<h3 id="priority-3-search-the-1641-depositions-directly">Priority 3: Search the 1641 Depositions Directly<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#priority-3-search-the-1641-depositions-directly" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>The expert consulted by Tom said there is no deposition <em>from</em> Captain John Copley. But Copley may appear in <em>other people’s</em> depositions as a named person.</p>
+<ul>
+<li><strong>Action:</strong> Search the fully digitized 1641 Depositions at: <a href="https://1641.tcd.ie/" class="external">https://1641.tcd.ie/<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></li>
+<li><strong>Search terms:</strong> “Copley,” “Arigna,” “Roscommon,” “ironworks”</li>
+<li><strong>Note:</strong> Also search under variant spellings: “Coppley,” “Coplee”</li>
+<li><strong>Expected outcome:</strong> Finding Copley named in another deponent’s account would constitute real evidence; finding nothing means the AI’s claims about the 1641 destruction of his works are unsupported</li>
+</ul>
+<h3 id="priority-4-verify-dud-dudleys-mettallum-martis-directly">Priority 4: Verify Dud Dudley’s Mettallum Martis Directly<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#priority-4-verify-dud-dudleys-mettallum-martis-directly" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>The <em>Mettallum Martis</em> reference is the single strongest verified link. Tom has cited it, but the full text should be read directly to extract every detail.</p>
+<ul>
+<li><strong>Action:</strong> Read the full text at: <a href="https://dn721600.ca.archive.org/0/items/duddudleysmetta01dudlgoog/duddudleysmetta01dudlgoog.pdf" class="external">https://dn721600.ca.archive.org/0/items/duddudleysmetta01dudlgoog/duddudleysmetta01dudlgoog.pdf<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> (pages 20–21 and surrounding context)</li>
+<li><strong>Key questions to answer:</strong> Does Dudley give any further detail about where in Ireland Copley went? Does he say anything about Copley’s family or fate? Is there any mention of Roscommon or Connaught specifically?</li>
+<li><strong>Also read:</strong> P.W. King’s academic article “Dud Dudley’s Contribution to Metallurgy” in <em>Historical Metallurgy</em> — which cites and interprets the Copley reference in scholarly context</li>
+</ul>
+<h3 id="priority-5-search-kilgefin-parish-catholic-registers">Priority 5: Search Kilgefin Parish Catholic Registers<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#priority-5-search-kilgefin-parish-catholic-registers" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>If a Copley family was in Kilgefin in the early 19th century (Michael’s generation), they may appear in Catholic parish registers.</p>
+<ul>
+<li><strong>Action:</strong> Search Kilgefin Catholic baptism/marriage registers (1865–1881 per DustyDocs) at: <a href="https://www.irishgenealogy.ie/" class="external">https://www.irishgenealogy.ie/<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></li>
+<li><strong>Action:</strong> Check the NLI microfilms for Kilgefin/Clontuskert (earlier records): <a href="https://registers.nli.ie/" class="external">https://registers.nli.ie/<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></li>
+<li><strong>Note:</strong> Earlier Catholic registers for this period are sparse due to Penal Laws destruction, but fragmentary records may survive</li>
+<li><strong>Search terms:</strong> “Copley,” “Munday,” “Dolan” — and their households in adjacent townlands</li>
+</ul>
+<h3 id="priority-6-search-the-visitation-of-worcestershire-1634">Priority 6: Search the Visitation of Worcestershire, 1634<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#priority-6-search-the-visitation-of-worcestershire-1634" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Tom mentions this document confirms the Bredon’s Norton Copley genealogy. Reading it directly would establish who Captain John Copley’s parents and siblings were, which is currently unconfirmed.</p>
+<ul>
+<li><strong>Action:</strong> The 1634 Visitation of Worcestershire is held at the College of Arms, London; a transcript was published by the Harleian Society</li>
+<li><strong>Search via:</strong> Harleian Society publications (available at major genealogical libraries or via FamilySearch)</li>
+<li><strong>Key question:</strong> Does the 1634 Visitation list a “John Copley” as a son of Thomas or William of Bredon’s Norton?</li>
+</ul>
+<h3 id="priority-7-wikitree-and-other-genealogical-databases">Priority 7: WikiTree and Other Genealogical Databases<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#priority-7-wikitree-and-other-genealogical-databases" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li><strong>Action:</strong> Review WikiTree entry <strong>Copley-1601</strong> (John Copley of Newcastle, County Limerick) for any backward-linked ancestors toward Captain John</li>
+<li><strong>Action:</strong> Search FamilySearch for Copley families in Kilgefin, County Roscommon</li>
+<li><strong>Action:</strong> Search Ancestry.com for Copley entries in County Roscommon; compare against the GEDCOM already incorporated in Phase 2F (which is from a different contact and covers different branches)</li>
+<li><strong>Note:</strong> WikiTree and Ancestry trees are user-contributed and may contain errors, but they can provide leads to actual sources</li>
+</ul>
+<h3 id="priority-8-the-southwellcopley-network">Priority 8: The Southwell/Copley Network<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#priority-8-the-southwellcopley-network" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>The AI’s claim about a “Southwell/Copley network” (a marriage alliance between a Bridget Copley and Sir Richard Southwell in the mid-16th century) appeared in multiple sessions and is historically plausible — the Southwells are a documented Irish noble family. However, this connection was not verified.</p>
+<ul>
+<li><strong>Action:</strong> Research Bridget Copley and Sir Richard Southwell in the Dictionary of National Biography or equivalent reference</li>
+<li><strong>Relevance:</strong> If this connection is real, it would explain how the Copley family had the social connections to receive Irish land grants in the first place</li>
+</ul>
+<hr/>
+<h2 id="12-open-research-questions">12. Open Research Questions<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#12-open-research-questions" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h3 id="tier-1-foundation-questions-must-be-answered-first">Tier 1: Foundation Questions (Must Be Answered First)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#tier-1-foundation-questions-must-be-answered-first" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>#</th><th>Question</th><th>Why It Matters</th><th>Where to Look</th></tr></thead><tbody><tr><td>RQ-1</td><td>Is there any Copley entry in the 1824 Tithe Applotment Books for Kilgefin Parish or adjacent townlands?</td><td>Would directly place a Copley in Michael’s parish at the right time</td><td>askaboutireland.ie</td></tr><tr><td>RQ-2</td><td>Is there any Copley entry in Griffith’s Valuation (1847–64) for Kilgefin or Kilkeevin Parish, Roscommon?</td><td>Would confirm 19th-century Copley land presence in this area</td><td>askaboutireland.ie / irishgenealogy.ie</td></tr><tr><td>RQ-3</td><td>Does the Calendar of State Papers, Ireland, 1633–1647 contain any entry naming a John Copley in connection with ironworks in Connaught or Roscommon?</td><td>Would confirm or refute the single most specific AI claim</td><td>british-history.ac.uk; National Archives of Ireland</td></tr><tr><td>RQ-4</td><td>Who were Captain John Copley’s parents and siblings, per the 1634 Visitation of Worcestershire?</td><td>Would establish whether he was from Bredon’s Norton branch with certainty, and give siblings who might also have gone to Ireland</td><td>Harleian Society publications; College of Arms</td></tr></tbody></table></div>
+<h3 id="tier-2-connecting-the-chain">Tier 2: Connecting the Chain<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#tier-2-connecting-the-chain" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>#</th><th>Question</th><th>Why It Matters</th><th>Where to Look</th></tr></thead><tbody><tr><td>RQ-5</td><td>Does the <em>Mettallum Martis</em> (Dud Dudley) contain any further details about where in Ireland Captain John Copley went in 1657?</td><td>Would narrow the Irish geography</td><td>Internet Archive PDF (read in full)</td></tr><tr><td>RQ-6</td><td>Does “Captain Copley, Clerk of the Market, Youghal 1651” refer to the same man as the <em>Mettallum Martis</em> Copley? Or a different Copley?</td><td>Youghal is in Cork/Munster, far from Roscommon; knowing which Copley this is matters</td><td>Caulfield’s <em>Council Book of Youghal</em></td></tr><tr><td>RQ-7</td><td>Who was John Copley of Kilgefin who (per AI) married Catherine Dolan? Can this be verified in any primary source?</td><td>He is proposed as Michael’s father; this is the most critical generational link</td><td>Kilgefin Catholic registers; NLI microfilms</td></tr><tr><td>RQ-8</td><td>What is the earliest documented Copley in Kilgefin or Kilkeevin Parish, and when do they first appear?</td><td>Would define the floor of how far back the Roscommon presence goes</td><td>Church registers; Tithe Books; Griffith’s</td></tr><tr><td>RQ-9</td><td>Can the Castlerea (Protestant, Church of Ireland) Copleys be connected to the Kilgefin (Catholic) Copleys through any documentary evidence?</td><td>Steve and Mary Shelly’s research found no link; a link here would be major</td><td>The “Copley Name from Castlerea” report already covers Protestant branch; need Catholic branch records</td></tr><tr><td>RQ-10</td><td>What was the religious affiliation of the Copleys in Kilgefin before the Dolan marriage? Is there a Protestant-to-Catholic conversion event documented?</td><td>Tom’s theory requires a conversion; Steve’s letter explains why it would be hard to find</td><td>Church of Ireland records for the area; Catholic registers</td></tr></tbody></table></div>
+<h3 id="tier-3-the-english-origins">Tier 3: The English Origins<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#tier-3-the-english-origins" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>#</th><th>Question</th><th>Why It Matters</th><th>Where to Look</th></tr></thead><tbody><tr><td>RQ-11</td><td>What is the specific genealogical connection, if any, between the Bredon’s Norton Copleys and Sir Walter Raleigh?</td><td>AI claimed “cousin” but no primary source was cited; Raleigh connection would explain Irish plantation access</td><td>Visitations of Worcestershire; DNB; Raleigh biographies</td></tr><tr><td>RQ-12</td><td>Was there a royal patent or Crown grant to a John Copley for ironworks or mineral rights in Connaught at any point from 1637–1680?</td><td>Would be the “smoking gun” connecting Captain John to Roscommon</td><td>Calendar of Patent Rolls Ireland; Calendar of State Papers Ireland</td></tr><tr><td>RQ-13</td><td>What happened to Captain John Copley after he moved to Ireland in 1657? Did he die there? Are there probate records?</td><td>Knowing when and where he died would help identify his descendants</td><td>Irish probate records (National Archives of Ireland); PRONI</td></tr><tr><td>RQ-14</td><td>Who were the children of Captain John Copley (and wife “Jane,” name unverified)?</td><td>Without knowing his children, the descent chain cannot be constructed</td><td>Same as RQ-13; also any Copley wills or estate records in Roscommon or Limerick</td></tr><tr><td>RQ-15</td><td>Is there a documented Copley in the Cromwellian land grants for County Roscommon (Act of Settlement 1652)?</td><td>Cromwellian grants are documented in the “Books of Survey and Distribution”; a Copley entry would confirm land presence</td><td>Books of Survey and Distribution (NLI); Civil Survey</td></tr></tbody></table></div>
+<h3 id="tier-4-collateral-questions">Tier 4: Collateral Questions<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#tier-4-collateral-questions" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>#</th><th>Question</th><th>Why It Matters</th><th>Where to Look</th></tr></thead><tbody><tr><td>RQ-16</td><td>Was Anne Munday’s surname possibly “Murray”?</td><td>Tom’s speculation; could connect to the named “Murray’s Settlement”</td><td>Lewis County WV records; emigrant ship manifests from Roscommon; Kilgefin registers</td></tr><tr><td>RQ-17</td><td>Who was Christopher Copley (the first proposed route to Roscommon)?</td><td>Steve mentioned him as one of three possible routes; he’s not discussed in the emails</td><td>Requires separate research thread</td></tr><tr><td>RQ-18</td><td>What is the Lord Baltimore / Thomas Copley (Jesuit) connection?</td><td>Third proposed route to Roscommon; potentially a different branch entirely</td><td>Maryland colonial records; Jesuit records</td></tr><tr><td>RQ-19</td><td>Can the WikiTree entry for John Copley of Newcastle, County Limerick (Copley-1601) be traced backward to connect with Captain John Copley?</td><td>Would validate or refute the “Limerick branch descended from Captain John” claim</td><td>WikiTree Copley-1601; Clare Library IE resources</td></tr><tr><td>RQ-20</td><td>Is “Stephen Copley (1830–1898) of Richmond, New York” (mentioned in the AI’s Castlerea branch narrative) a real documented person? Could he be connected to either the Castlerea or Kilgefin lines?</td><td>A Roscommon Copley emigrating to New York in this period might have information about the broader family</td><td>New York census records; emigration records; Find-A-Grave</td></tr></tbody></table></div>
+<hr/>
+<h2 id="13-the-two-competing-hypotheses-tom-vs-steve">13. The Two Competing Hypotheses: Tom vs. Steve<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#13-the-two-competing-hypotheses-tom-vs-steve" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Tom and Steve Copley (both G25) hold different views on which English ancestor brought the Copley name to County Roscommon. Their debate turns on two figures from different parts of England, different branches of the Copley family tree, and different religious histories.</p>
+<h3 id="toms-hypothesis-captain-john-copley-of-bredons-norton-worcestershire">Tom’s Hypothesis: Captain John Copley of Bredon’s Norton, Worcestershire<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#toms-hypothesis-captain-john-copley-of-bredons-norton-worcestershire" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Tom holds that our family descends in a direct male line from <strong>Captain John Copley</strong>, grandson of <strong>Thomas Copley Sr. of Bredon’s Norton, Worcestershire</strong>. Under this theory:</p>
+<ul>
+<li>The Bredon’s Norton Copleys maintained <strong>Catholic sympathies</strong> throughout their English tenure — consistent with their documented recusant connections and the exile of a related Thomas Copley as a Catholic recusant</li>
+<li>Captain John, as a younger son after the manor was sold (1649), sought his fortune through military service and industrial venture, ultimately emigrating to Ireland in 1657</li>
+<li>His Protestant descendants in Roscommon later converted to Catholicism <strong>through marriage</strong> — specifically a Copley-Dolan marriage in Kilgefin Parish that established the Catholic branch</li>
+<li>This accounts for both the Castlerea Copleys (Church of Ireland) and the Kilgefin Copleys (Catholic) descending from the same Protestant English ancestor via different branches</li>
+</ul>
+<p>In Tom’s own words: <em>“The Ones from Worcestershire were good Catholics all along, and had no bastard children.”</em></p>
+<p>⚠️ <strong>Assessment:</strong> This is the better-supported hypothesis. Three independent verified primary sources place a John Copley in England and Ireland across 1642–1657, and the geographic and chronological fit with the Bredon’s Norton family is strong. The weakness is the absence of any primary source linking Captain John’s post-1657 Irish life to County Roscommon, or documenting any of his descendants. The “Catholics all along” claim is somewhat overstated — the Bredon’s Norton branch had <em>recusant sympathies</em> but Captain John himself worked under Cromwell’s Protestant government — yet the core argument (a direct, legitimate male descent from Worcestershire to Roscommon, with conversion through a Catholic marriage) is historically plausible and worth pursuing.</p>
+<h3 id="steves-hypothesis-christopher-copley-of-wadsworth-west-yorkshire">Steve’s Hypothesis: Christopher Copley of Wadsworth, West Yorkshire<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#steves-hypothesis-christopher-copley-of-wadsworth-west-yorkshire" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Steve has proposed as an alternative that our line descends from a <strong>bastard son of Christopher Copley</strong> (an English Civil War figure from Wadsworth, West Yorkshire) and <strong>Mary Jones</strong>. Under this theory, a descendant of that illegitimate line eventually converted to Catholicism and settled in County Roscommon.</p>
+<p>❓ <strong>Assessment:</strong> Christopher Copley of Wadsworth is a real historical figure — a Parliamentarian of the English Civil War era from a prominent West Riding Yorkshire family. However:</p>
+<ol>
+<li>The specific claim of a bastard son by Mary Jones has <strong>not been verified in any primary source</strong> cited in the research correspondence</li>
+<li>The Yorkshire Copleys of Sprotbrough and Wadsworth are an <strong>entirely different branch</strong> from the Worcestershire Copleys of Bredon’s Norton — they share the Copley surname but are not closely related</li>
+<li>Tom explicitly rejects this hypothesis: the Worcestershire line, in his view, is the correct one, and they had no bastard children</li>
+<li>Both hypotheses require a Protestant-to-Catholic conversion; the Christopher hypothesis adds the additional complication of illegitimacy, making documentary tracing still harder</li>
+</ol>
+<p>The Christopher Copley hypothesis has <strong>not been developed with primary source citations</strong> in the surviving email correspondence. It appears in Steve’s letter as one of three possible routes, but without the research investment that has gone into the Captain John hypothesis. It remains open but is the least-evidenced of the three routes identified.</p>
+<h3 id="the-three-routes-compared">The Three Routes Compared<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#the-three-routes-compared" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>Route</th><th>Proponent</th><th>Status</th><th>Key Problem</th></tr></thead><tbody><tr><td>Captain John Copley (Worcestershire)</td><td>Tom</td><td>⚠️ Plausible; best-evidenced</td><td>No documented descendants in Ireland</td></tr><tr><td>Christopher Copley, bastard son (Yorkshire)</td><td>Steve</td><td>❓ Speculative; no primary sources</td><td>Unverified; Tom rejects it</td></tr><tr><td>Lord Baltimore / Thomas Copley (Jesuit)</td><td>Steve</td><td>❓ Speculative</td><td>Maryland connection; relevance to Roscommon unclear</td></tr></tbody></table></div>
+<hr/>
+<h2 id="14-descent-narrative-thomas-copley-sr-to-michael-copley-sr">14. Descent Narrative: Thomas Copley Sr. to Michael Copley Sr.<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#14-descent-narrative-thomas-copley-sr-to-michael-copley-sr" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<blockquote>
+<p><strong>Source quality applies throughout.</strong> Generations 1–3 rest on verified primary sources. Generations 4–8 are entirely speculative, representing Tom’s working hypothesis to be tested against primary sources — not established family history.</p>
+</blockquote>
+<h3 id="generation-1-thomas-copley-sr-of-bredons-norton-fl-mid-16th-century--d-may-20-1593">Generation 1: Thomas Copley Sr. of Bredon’s Norton (fl. mid-16th century — d. May 20, 1593)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#generation-1-thomas-copley-sr-of-bredons-norton-fl-mid-16th-century--d-may-20-1593" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>✅ <strong>[VERIFIED]</strong> The founding figure of the Worcestershire Copley line. Thomas Copley held the <strong>manor of Bredon’s Norton</strong> in the Vale of Evesham, Worcestershire, and is documented in the <strong>Visitations of Worcestershire for 1569</strong>. The family’s lineage is traced through William Copley and his wife Bennett Chaloner. An inscription in <strong>Bredon Church</strong> records Thomas’s death on May 20, 1593.</p>
+<p>✅ <strong>[VERIFIED]</strong> Local tradition associates Thomas with <strong>Sir Walter Raleigh</strong>, crediting the family with introducing tobacco and potatoes to the Vale of Evesham — occupations consistent with Raleigh’s circle. The specific cousinship proposed by AI is not confirmed in a primary source. (Source: bredonsnorton.co.uk)</p>
+<p>⚠️ <strong>[PLAUSIBLE]</strong> The Bredon’s Norton Copleys had documented <strong>Catholic recusant sympathies</strong>. A related branch — a Thomas Copley who surrendered his English lands and died in exile in the Netherlands — was a prominent Catholic recusant. Whether the Bredon’s Norton branch itself remained practicing Catholics or maintained looser Catholic sympathies is uncertain, but the recusant connection is real. Tom’s characterization of them as <em>“good Catholics all along”</em> reflects this recusant history.</p>
+<p><strong>What Thomas Sr. leaves behind:</strong> A family with gentry status, a manor house in Worcestershire, network ties to Raleigh (and thus to the Irish Munster Plantation), and a Catholic-leaning religious identity that would become increasingly difficult to maintain in post-Reformation England.</p>
+<hr/>
+<h3 id="generation-2-thomas-copley-jr-of-bredons-norton-c-15801647">Generation 2: Thomas Copley Jr. of Bredon’s Norton (c. 1580–1647)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#generation-2-thomas-copley-jr-of-bredons-norton-c-15801647" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>✅ <strong>[VERIFIED]</strong> Son of Thomas Sr. The <strong>manor of Bredon’s Norton was sold in 1649</strong>, two years after Thomas Jr.’s death in <strong>1647</strong>. The sale ends the family’s English landed presence entirely. (Source: bredonsnorton.co.uk)</p>
+<p>⚠️ <strong>[PLAUSIBLE]</strong> Thomas Jr. died in 1647 — at the height of the English Civil War. His sons would have inherited nothing: the manor was gone, the family’s social position was precarious, and England was in political upheaval. This is exactly the generation that produced the Irish adventurers and Cromwellian settlers of the 1650s. Younger sons of dispossessed gentry commonly sought fortune through military service or colonial venture.</p>
+<p>❓ <strong>[SPECULATIVE]</strong> AI sessions proposed that Thomas Jr. had multiple sons, of whom Captain John was one — a younger son who could not inherit and therefore set out on his own. No primary source names Thomas Jr.’s children. The <strong>1634 Visitation of Worcestershire</strong> may document his family and is the key record to consult.</p>
+<hr/>
+<h3 id="generation-3-captain-john-copley-c-1610post-1657">Generation 3: Captain John Copley (c. 1610–post 1657)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#generation-3-captain-john-copley-c-1610post-1657" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>This is the best-documented generation in the entire proposed descent. Three independent primary sources place a John Copley in England and Ireland across a 15-year period, painting a portrait of an ambitious, repeatedly frustrated entrepreneur.</p>
+<p>✅ <strong>[VERIFIED — Parliament, 1642]</strong> A <strong>John Copley</strong> petitioned the <strong>House of Commons</strong> in 1642, requesting consideration of <em>“some strange brave Exploits he would undertake in Ireland”</em> — during the Irish Rebellion of 1641. His petition was referred to the Lieutenant of the Tower and the Lieutenant of the Ordnance. He may have been proposing military or engineering operations; no record of acceptance survives. (<em>Journal of the House of Commons</em>, Vol. 2, 1640–1643; British History Online)</p>
+<p>✅ <strong>[VERIFIED — Youghal, 1651]</strong> A <strong>“Captain Copley”</strong> served as <strong>Clerk of the Market in Youghal</strong>, County Cork, in 1651, during Cromwellian consolidation of Ireland. Youghal was historically significant as the Irish seat of <strong>Sir Walter Raleigh</strong>, who had received the Munster estate — a Copley appearing in Youghal in 1651 is circumstantially consistent with a man from a family with Raleigh network ties. (<em>Council Book of the Corporation of Youghal</em>, ed. Caulfield)</p>
+<p>✅ <strong>[VERIFIED — Kingswood and Ireland, 1656–57]</strong> Dud Dudley’s <em>Mettallum Martis</em> (1665) documents Captain John Copley as: holding a <strong>Cromwellian patent</strong> to make iron with coal; operating an <strong>ironworks at Kingswood Forest, near Bristol</strong> (approximately 40 miles from Bredon’s Norton), c. 1656–57; engaging Dud Dudley to improve his bellows; <strong>failing</strong> in the venture; and subsequently <strong>moving to Ireland in 1657</strong>. (Dud Dudley, <em>Mettallum Martis</em>, 1665, pp. 20–21)</p>
+<p>⚠️ <strong>[PLAUSIBLE]</strong> All three references describe a consistent character across 1642–1657: a man with Irish interests dating back to the 1641 Rebellion, repeatedly proposing and attempting ambitious industrial and military schemes, and ultimately emigrating to Ireland after his English venture failed. This pattern — ambition, failure, Ireland — fits perfectly the biography of a younger son from a dispossessed Worcestershire gentry family.</p>
+<p>❓ <strong>[SPECULATIVE]</strong> His wife is named <strong>Jane</strong> in AI-generated narratives (possibly Jane Lode or Jane Loftus), but no primary source confirms her identity. AI sessions proposed he received Cromwellian land grants in County Roscommon — historically plausible under the Act of Settlement 1652, but no specific grant record has been located.</p>
+<p>🚫 <strong>[LIKELY INCORRECT]</strong> AI claims that Captain John had ironworks at Arigna, County Roscommon destroyed in the <strong>1641 Rebellion</strong> are chronologically impossible: <em>Mettallum Martis</em> confirms he was still in England until 1657 — sixteen years after the rebellion. The AI almost certainly conflated two different figures or time periods.</p>
+<p><strong>After 1657, Captain John disappears from the documented record.</strong> He was in Ireland; where exactly, what he did, and when he died are all open questions. A man with Cromwellian patent experience and engineering knowledge, arriving in 1657 as the land settlement was being administered, would have been well-positioned to receive a grant — but no record has yet been found.</p>
+<hr/>
+<h3 id="generation-4-son-of-captain-john--c-1640c-1710--speculative">Generation 4: [Son of Captain John — c. 1640–c. 1710] ❓ SPECULATIVE<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#generation-4-son-of-captain-john--c-1640c-1710--speculative" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>No primary source has been found for any child of Captain John Copley.</p>
+<p>Tom’s theory proposes at least two sons:</p>
+<ul>
+<li>An <strong>elder son</strong> who acquired land in the <strong>County Limerick</strong> area, becoming the progenitor of the prosperous Protestant line that eventually produced Richard Copley (emigrated to Boston, 1736) and his celebrated son <strong>John Singleton Copley</strong> (1738–1815), the colonial portrait painter</li>
+<li>A <strong>younger son</strong> (or sons) who settled in the rougher terrain of <strong>County Roscommon</strong> — Tom’s phrase: <em>“the poor country cousins”</em></li>
+</ul>
+<p>⚠️ <strong>[PLAUSIBLE]</strong> This division between a Limerick (prosperous Protestant) branch and a Roscommon (eventually Catholic, farming) branch is the central explanatory framework of Tom’s theory. It accounts for the documented geographic and social divergence between the two Irish Copley lines. It cannot be verified without documentary evidence of Captain John’s children.</p>
+<hr/>
+<h3 id="generation-5-roscommon-copley--c-1670c-1740--speculative">Generation 5: [Roscommon Copley — c. 1670–c. 1740] ❓ SPECULATIVE<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#generation-5-roscommon-copley--c-1670c-1740--speculative" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>AI sessions proposed a <strong>“John Copley of Roscommon”</strong> (early 18th century), described as a “gentleman farmer” near Lecarrow/Kilgefin. No primary source supports this individual.</p>
+<p>⚠️ <strong>[PLAUSIBLE — Historical context]</strong> This generation would have lived through the most intensive period of Irish Penal Law enforcement (c. 1695–1745). Protestant landholders in Connacht who intermarried with Catholic families risked losing land rights under the Popery Act of 1704 — but the same Act allowed an eldest Catholic son to inherit by converting to the Church of Ireland. The Penal Law era created enormous pressure on mixed or borderline Protestant families. Any religious shift in the Copley line most likely began in this period.</p>
+<hr/>
+<h3 id="generation-6-thomas-copley-of-cloonsheecastlerea-area-c-1769c-1842--speculative-partially-testable">Generation 6: Thomas Copley of Cloonshee/Castlerea area (c. 1769–c. 1842) ❓ SPECULATIVE (partially testable)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#generation-6-thomas-copley-of-cloonsheecastlerea-area-c-1769c-1842--speculative-partially-testable" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>AI sessions proposed a <strong>Thomas Copley</strong> (~1769–1841) as patriarch of the Kilgefin-area branch, said to appear in:</p>
+<ul>
+<li>The <strong>Tithe Applotment Books</strong> (1824) — <strong>NOT YET VERIFIED</strong></li>
+<li><strong>Griffith’s Valuation</strong> (1847–64) — <strong>NOT YET VERIFIED</strong></li>
+</ul>
+<p>The documented <strong>Thomas Copley of Castlerea</strong> (baptized Dec 28, 1757; married Jane Timms, Apr 8, 1804; died 1842, aged ~80) from the “Copley Name from Castlerea” report is a real, verified individual — but he belonged to the <strong>Church of Ireland</strong> (Protestant) branch. Steve’s letter confirms this Thomas and Jane Timms appear in Griffith’s Valuation, so a Copley land presence in the Castlerea area in the mid-19th century is confirmed. Whether a parallel <em>Catholic</em> Copley line existed nearby — possibly a cadet branch of the same family — is the key question.</p>
+<hr/>
+<h3 id="generation-7-john-copley-of-kilmacough--catherine-dolan-c-1785c-1845--speculative--critically-important">Generation 7: John Copley of Kilmacough × Catherine Dolan (c. 1785–c. 1845) ❓ SPECULATIVE — critically important<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#generation-7-john-copley-of-kilmacough--catherine-dolan-c-1785c-1845--speculative--critically-important" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>AI sessions proposed a <strong>John Copley</strong> who held land in <strong>Kilmacough townland, Kilgefin Parish</strong> per the 1824 Tithe Applotment Books, adjacent to Dolan family lands in Carrowintoher/Cloonshee. He married <strong>Catherine Dolan</strong> of a local Catholic family.</p>
+<p>This proposed marriage is the <strong>critical conversion event</strong> in Tom’s theory. Catholic priests required that a Protestant husband convert before a Catholic marriage; children would be raised Catholic. If John Copley (Protestant, descended from Captain John’s Roscommon line) married Catherine Dolan (Catholic), their son Michael would have been raised Catholic — and would have emigrated to Lewis County, West Virginia as a Catholic Irish immigrant.</p>
+<p>⚠️ <strong>[PLAUSIBLE]</strong> The Dolan connection is independently supported: <a href="../People/Mary-Ellen-Dolan" class="internal alias" data-slug="People/Mary-Ellen-Dolan">Mary Ellen Dolan</a> (Michael Sr.’s daughter-in-law, b. 1855) was from the same Kilgefin area, and the Dolan family is documented in the Lewis County Irish immigrant community. A Copley-Dolan marriage in this area, in this generation, is entirely consistent with what is known.</p>
+<p><strong>This is the single most important claim to verify in this entire research thread.</strong> If a John Copley appears in the 1824 Tithe Applotment Books for Kilmacough, Kilgefin Parish, the entire descent hypothesis gains its first documentary support in Ireland.</p>
+<hr/>
+<h3 id="generation-8-michael-copley-sr-b-1813-co-roscommon--d-1897-lewis-county-wv">Generation 8: Michael Copley Sr. (b. ~1813, Co. Roscommon — d. ~1897, Lewis County, WV)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#generation-8-michael-copley-sr-b-1813-co-roscommon--d-1897-lewis-county-wv" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>✅ <strong>[VERIFIED]</strong> The anchor of all Copley family research, and the terminus of this descent narrative. Michael Copley Sr. was born in Ireland around 1813, emigrated to <strong>Lewis County, West Virginia</strong> in the 1830s–1840s, and married <strong>Ann Munday</strong> (b. ~1823). He is the earliest documented Copley ancestor in the family’s American line.</p>
+<p>Per Tom’s hypothesis: Michael was raised Catholic in Kilgefin Parish, the son of John Copley (who converted through the Dolan marriage) and grandson of a Thomas Copley of the Cloonshee/Castlerea area — himself descended, through three or four generations, from Captain John Copley, who arrived in Ireland from Worcestershire in 1657.</p>
+<hr/>
+<h2 id="15-descent-diagram">15. Descent Diagram<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#15-descent-diagram" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<blockquote>
+<p><strong>Color key:</strong> Green = verified in primary sources · Brown/dashed = speculative (no primary source) · Blue = spouse · Orange = marriage node · Gray = collateral line</p>
+</blockquote>
+<pre><button class="expand-button" aria-label="Expand mermaid diagram" data-view-component="true"><svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor"><path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 1.06L2.56 7h10.88l-2.22-2.22a.75.75 0 011.06-1.06l3.5 3.5a.75.75 0 010 1.06l-3.5 3.5a.75.75 0 11-1.06-1.06l2.22-2.22H2.56l2.22 2.22a.75.75 0 11-1.06 1.06l-3.5-3.5a.75.75 0 010-1.06l3.5-3.5z"></path></svg></button><code class="mermaid" data-clipboard="&quot;graph TD\n    T1[\&quot;Thomas Copley Sr.&lt;br/>Bredon's Norton, Worcestershire&lt;br/>d. May 20, 1593 ✅\&quot;]:::verified\n    T2[\&quot;Thomas Copley Jr.&lt;br/>Bredon's Norton&lt;br/>d. 1647 · manor sold 1649 ✅\&quot;]:::verified\n    CJ[\&quot;Captain John Copley ✅&lt;br/>c. 1610–post 1657&lt;br/>Parliament petition: 1642&lt;br/>Youghal, Co. Cork: 1651&lt;br/>Kingswood ironworks: 1656–57&lt;br/>Moved to Ireland: 1657\&quot;]:::verified\n    JANE[\&quot;Jane (?)&lt;br/>wife of Captain John&lt;br/>name unverified\&quot;]:::spouse\n    MCJ{\&quot;◇\&quot;}:::marriage\n    ELDER[\&quot;Elder Son ❓&lt;br/>c. 1640–c. 1710&lt;br/>Limerick branch progenitor\&quot;]:::speculative\n    YOUNGER[\&quot;Younger Son ❓&lt;br/>c. 1640–c. 1710&lt;br/>Roscommon branch progenitor\&quot;]:::speculative\n    G5[\&quot;Roscommon Copley ❓&lt;br/>c. 1670–c. 1740\&quot;]:::speculative\n    G6[\&quot;Thomas Copley ❓&lt;br/>Cloonshee / Castlerea area&lt;br/>c. 1769–c. 1842\&quot;]:::speculative\n    JOHNK[\&quot;John Copley ❓&lt;br/>Kilmacough, Kilgefin Parish&lt;br/>c. 1785–c. 1845\&quot;]:::speculative\n    CATH[\&quot;Catherine Dolan&lt;br/>Catholic, Kilgefin Parish\&quot;]:::spouse\n    MJOHN{\&quot;◇\&quot;}:::marriage\n    MICHAEL[\&quot;Michael Copley Sr. ✅&lt;br/>b. ~1813, Co. Roscommon&lt;br/>d. ~1897, Lewis County WV&lt;br/>G23 — our proven ancestor\&quot;]:::verified\n    ANN[\&quot;Ann Munday&lt;br/>b. ~1823, Ireland\&quot;]:::spouse\n    MMICHAEL{\&quot;◇\&quot;}:::marriage\n    JSC[\&quot;John Singleton Copley&lt;br/>1738–1815&lt;br/>Boston/London painter&lt;br/>collateral Limerick branch ❓\&quot;]:::collateral\n\n    T1 --> T2\n    T2 --> CJ\n    CJ --- MCJ\n    JANE --- MCJ\n    MCJ --> ELDER\n    MCJ --> YOUNGER\n    ELDER -.->|\&quot;Limerick branch ❓\&quot;| JSC\n    YOUNGER --> G5\n    G5 --> G6\n    G6 --> JOHNK\n    JOHNK --- MJOHN\n    CATH --- MJOHN\n    MJOHN -->|\&quot;Catholic conversion&lt;br/>via Dolan marriage ❓\&quot;| MICHAEL\n    MICHAEL --- MMICHAEL\n    ANN --- MMICHAEL\n\n    classDef verified fill:#2d6a4f,stroke:#1b4332,color:#fff\n    classDef speculative fill:#6c584c,stroke:#4a3728,color:#fff,stroke-dasharray:5 5\n    classDef spouse fill:#457b9d,stroke:#1d3557,color:#fff\n    classDef marriage fill:#f4a261,stroke:#e76f51,color:#000\n    classDef collateral fill:#8d99ae,stroke:#2b2d42,color:#fff&quot;">graph TD
+    T1[&quot;Thomas Copley Sr.&lt;br/>Bredon's Norton, Worcestershire&lt;br/>d. May 20, 1593 ✅&quot;]:::verified
+    T2[&quot;Thomas Copley Jr.&lt;br/>Bredon's Norton&lt;br/>d. 1647 · manor sold 1649 ✅&quot;]:::verified
+    CJ[&quot;Captain John Copley ✅&lt;br/>c. 1610–post 1657&lt;br/>Parliament petition: 1642&lt;br/>Youghal, Co. Cork: 1651&lt;br/>Kingswood ironworks: 1656–57&lt;br/>Moved to Ireland: 1657&quot;]:::verified
+    JANE[&quot;Jane (?)&lt;br/>wife of Captain John&lt;br/>name unverified&quot;]:::spouse
+    MCJ{&quot;◇&quot;}:::marriage
+    ELDER[&quot;Elder Son ❓&lt;br/>c. 1640–c. 1710&lt;br/>Limerick branch progenitor&quot;]:::speculative
+    YOUNGER[&quot;Younger Son ❓&lt;br/>c. 1640–c. 1710&lt;br/>Roscommon branch progenitor&quot;]:::speculative
+    G5[&quot;Roscommon Copley ❓&lt;br/>c. 1670–c. 1740&quot;]:::speculative
+    G6[&quot;Thomas Copley ❓&lt;br/>Cloonshee / Castlerea area&lt;br/>c. 1769–c. 1842&quot;]:::speculative
+    JOHNK[&quot;John Copley ❓&lt;br/>Kilmacough, Kilgefin Parish&lt;br/>c. 1785–c. 1845&quot;]:::speculative
+    CATH[&quot;Catherine Dolan&lt;br/>Catholic, Kilgefin Parish&quot;]:::spouse
+    MJOHN{&quot;◇&quot;}:::marriage
+    MICHAEL[&quot;Michael Copley Sr. ✅&lt;br/>b. ~1813, Co. Roscommon&lt;br/>d. ~1897, Lewis County WV&lt;br/>G23 — our proven ancestor&quot;]:::verified
+    ANN[&quot;Ann Munday&lt;br/>b. ~1823, Ireland&quot;]:::spouse
+    MMICHAEL{&quot;◇&quot;}:::marriage
+    JSC[&quot;John Singleton Copley&lt;br/>1738–1815&lt;br/>Boston/London painter&lt;br/>collateral Limerick branch ❓&quot;]:::collateral
+
+    T1 --> T2
+    T2 --> CJ
+    CJ --- MCJ
+    JANE --- MCJ
+    MCJ --> ELDER
+    MCJ --> YOUNGER
+    ELDER -.->|&quot;Limerick branch ❓&quot;| JSC
+    YOUNGER --> G5
+    G5 --> G6
+    G6 --> JOHNK
+    JOHNK --- MJOHN
+    CATH --- MJOHN
+    MJOHN -->|&quot;Catholic conversion&lt;br/>via Dolan marriage ❓&quot;| MICHAEL
+    MICHAEL --- MMICHAEL
+    ANN --- MMICHAEL
+
+    classDef verified fill:#2d6a4f,stroke:#1b4332,color:#fff
+    classDef speculative fill:#6c584c,stroke:#4a3728,color:#fff,stroke-dasharray:5 5
+    classDef spouse fill:#457b9d,stroke:#1d3557,color:#fff
+    classDef marriage fill:#f4a261,stroke:#e76f51,color:#000
+    classDef collateral fill:#8d99ae,stroke:#2b2d42,color:#fff
+</code><div id="mermaid-container" role="dialog"><div id="mermaid-space"><div class="mermaid-content"></div></div></div></pre>
+<hr/>
+<h2 id="16-related-pages">16. Related Pages<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#16-related-pages" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<ul>
+<li><a href="../People/Michael-Copley-Sr." class="internal alias" data-slug="People/Michael-Copley-Sr.">Michael Copley Sr.</a> — G23 ancestor; the end-point of this research</li>
+<li><a href="../People/Ann-Copley" class="internal alias" data-slug="People/Ann-Copley">Ann Copley</a> — née Munday; wife of Michael; possibly née Murray (unresolved)</li>
+<li><a href="../People/John-Copley" class="internal alias" data-slug="People/John-Copley">John Copley</a> — G23/G24; Michael’s son; settled Lewis County, WV</li>
+<li><a href="../People/Mary-Ellen-Dolan" class="internal alias" data-slug="People/Mary-Ellen-Dolan">Mary Ellen Dolan</a> — the Dolan connection; Catholic family from same Kilgefin area</li>
+<li><a href="../Places/Lewis-County,-West-Virginia" class="internal alias" data-slug="Places/Lewis-County,-West-Virginia">Lewis County, West Virginia</a> — where the family settled</li>
+<li><a href="../Topics/Irish-Immigration" class="internal alias" data-slug="Topics/Irish-Immigration">Irish Immigration</a> — broader immigration context</li>
+<li><a href="../Phase-1-Questions-and-Answers" class="internal alias" data-slug="Phase-1-Questions-and-Answers">Phase 1 Questions and Answers.md</a> — Q19 (Michael Sr. naturalization), Q20 (John &amp; Mary Ellen marriage), Q22 (Dolan family)</li>
+</ul>
+<hr/>
+<h2 id="17-sources">17. Sources<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#17-sources" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<ol>
+<li>✅ Dud Dudley, <em>Mettallum Martis: or, Iron Made with Pit-Coale and Sea-Coale</em> (London, 1665), pp. 20–21. Available: Internet Archive.</li>
+<li>✅ <em>Journal of the House of Commons, Volume 2, 1640–1643</em> (London: HMSO, 1802). “Petition of John Copley.” Available: British History Online.</li>
+<li>✅ Richard Caulfield, ed., <em>Council Book of the Corporation of Youghal from 1610 to 1659, from 1666 to 1687 and from 1690 to 1800</em> — “Captain Copley, Clerk of the Market, 1651.” Available: Google Books.</li>
+<li>✅ P.W. King, “Dud Dudley’s Contribution to Metallurgy,” <em>Historical Metallurgy</em> (peer-reviewed journal) — confirms Copley reference in Dudley’s account.</li>
+<li>✅ “The Copley Name from Castlerea” — genealogical report, likely compiled by Mary Shelly, 2026. 11 pages, 158 footnotes. Primary sources: Kilkeevan Church of Ireland records, Castlerea Civil Records, Roscommon civil registers, census records, passenger lists.</li>
+<li>✅ Steve Copley, letter to Tom Copley (PDF, dated ~Feb 2026, filename 26TOM0207.pdf). Analysis of research findings and religious conversion question.</li>
+<li>⚠️ Tom Copley, email correspondence with Stephen Copley, February–March 2026 (30 emails). Largely consists of forwarded Google AI (Gemini) research session outputs, explicitly flagged by Tom as potentially containing AI hallucinations.</li>
+<li>❓ Google AI (Gemini) — multiple research sessions, February 2026. All AI-derived claims flagged as speculative throughout this document.</li>
+<li>✅ bredonsnorton.co.uk — village history page documenting the Copley family of Bredon’s Norton, Worcestershire.</li>
+</ol></article><hr/><div class="page-footer"></div></div><div class="right sidebar"><div class="graph"><h3>Graph View</h3><div class="graph-outer"><div class="graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:1,&quot;scale&quot;:1.1,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:false,&quot;enableRadial&quot;:false}"></div><button class="global-graph-icon" aria-label="Global Graph"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 55 55" fill="currentColor" xml:space="preserve"><path d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17
+                s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4
+                c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562
+                C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829
+                c1.106,0.86,2.44,1.436,3.898,1.619v10.16c-2.833,0.478-5,2.942-5,5.91c0,3.309,2.691,6,6,6s6-2.691,6-6c0-2.967-2.167-5.431-5-5.91
+                v-10.16c1.458-0.183,2.792-0.759,3.898-1.619l7.669,7.669C41.215,39.576,41,40.26,41,41c0,2.206,1.794,4,4,4s4-1.794,4-4
+                s-1.794-4-4-4c-0.74,0-1.424,0.215-2.019,0.567l-7.669-7.669C36.366,28.542,37,26.846,37,25s-0.634-3.542-1.688-4.897l9.665-9.665
+                C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2
+                S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4
+                s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2
+                s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"></path></svg></button></div><div class="global-graph-outer"><div class="global-graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:-1,&quot;scale&quot;:0.9,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.2,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:true,&quot;enableRadial&quot;:true}"></div></div></div><div class="toc desktop-only"><button type="button" class="toc-header" aria-controls="toc-97" aria-expanded="true"><h3>Table of Contents</h3><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><ul id="list-1" class="toc-content overflow"><li class="depth-0"><a href="#captain-john-copley-research" data-for="captain-john-copley-research">Captain John Copley Research</a></li><li class="depth-1"><a href="#1-background-and-motivation" data-for="1-background-and-motivation">1. Background and Motivation</a></li><li class="depth-1"><a href="#2-the-english-origins-bredons-norton-worcestershire" data-for="2-the-english-origins-bredons-norton-worcestershire">2. The English Origins: Bredon’s Norton, Worcestershire</a></li><li class="depth-2"><a href="#2a-the-copley-family-of-bredons-norton" data-for="2a-the-copley-family-of-bredons-norton">2a. The Copley Family of Bredon’s Norton</a></li><li class="depth-2"><a href="#2b-captain-john-copley-and-dud-dudley" data-for="2b-captain-john-copley-and-dud-dudley">2b. Captain John Copley and Dud Dudley</a></li><li class="depth-1"><a href="#3-captain-john-copley-in-ireland-verified-evidence" data-for="3-captain-john-copley-in-ireland-verified-evidence">3. Captain John Copley in Ireland: Verified Evidence</a></li><li class="depth-2"><a href="#3a-the-1642-parliamentary-petition" data-for="3a-the-1642-parliamentary-petition">3a. The 1642 Parliamentary Petition</a></li><li class="depth-2"><a href="#3b-captain-copley-in-youghal-1651" data-for="3b-captain-copley-in-youghal-1651">3b. Captain Copley in Youghal, 1651</a></li><li class="depth-2"><a href="#3c-move-to-ireland-1657" data-for="3c-move-to-ireland-1657">3c. Move to Ireland, 1657</a></li><li class="depth-1"><a href="#4-the-proposed-irish-career-ai-generated-narrative-handle-with-caution" data-for="4-the-proposed-irish-career-ai-generated-narrative-handle-with-caution">4. The Proposed Irish Career: AI-Generated Narrative (Handle with Caution)</a></li><li class="depth-2"><a href="#4a-the-arigna-ironworks-claim" data-for="4a-the-arigna-ironworks-claim">4a. The Arigna Ironworks Claim</a></li><li class="depth-2"><a href="#4b-the-1641-depositions" data-for="4b-the-1641-depositions">4b. The 1641 Depositions</a></li><li class="depth-2"><a href="#4c-cromwellian-land-grants-in-roscommon" data-for="4c-cromwellian-land-grants-in-roscommon">4c. Cromwellian Land Grants in Roscommon</a></li><li class="depth-1"><a href="#5-the-proposed-descent-to-michael-copley-sr-full-speculative-chain" data-for="5-the-proposed-descent-to-michael-copley-sr-full-speculative-chain">5. The Proposed Descent to Michael Copley Sr.: Full Speculative Chain</a></li><li class="depth-1"><a href="#6-the-castlerea-copleys-primary-source-research" data-for="6-the-castlerea-copleys-primary-source-research">6. The Castlerea Copleys: Primary Source Research</a></li><li class="depth-2"><a href="#what-the-report-establishes" data-for="what-the-report-establishes">What the Report Establishes</a></li><li class="depth-1"><a href="#7-the-limerick-branch-and-john-singleton-copley" data-for="7-the-limerick-branch-and-john-singleton-copley">7. The Limerick Branch and John Singleton Copley</a></li><li class="depth-1"><a href="#8-toms-synthesis-theory" data-for="8-toms-synthesis-theory">8. Tom’s Synthesis Theory</a></li><li class="depth-1"><a href="#9-the-three-possible-routes-to-roscommon" data-for="9-the-three-possible-routes-to-roscommon">9. The Three Possible Routes to Roscommon</a></li><li class="depth-1"><a href="#10-the-murrays-settlement-question" data-for="10-the-murrays-settlement-question">10. The “Murray’s Settlement” Question</a></li><li class="depth-1"><a href="#11-research-vetting-strategy" data-for="11-research-vetting-strategy">11. Research Vetting Strategy</a></li><li class="depth-2"><a href="#priority-1-verify-the-tithe-applotment-and-griffiths-valuation-claims" data-for="priority-1-verify-the-tithe-applotment-and-griffiths-valuation-claims">Priority 1: Verify the Tithe Applotment and Griffith’s Valuation Claims</a></li><li class="depth-2"><a href="#priority-2-search-the-calendar-of-state-papers-ireland" data-for="priority-2-search-the-calendar-of-state-papers-ireland">Priority 2: Search the Calendar of State Papers, Ireland</a></li><li class="depth-2"><a href="#priority-3-search-the-1641-depositions-directly" data-for="priority-3-search-the-1641-depositions-directly">Priority 3: Search the 1641 Depositions Directly</a></li><li class="depth-2"><a href="#priority-4-verify-dud-dudleys-mettallum-martis-directly" data-for="priority-4-verify-dud-dudleys-mettallum-martis-directly">Priority 4: Verify Dud Dudley’s Mettallum Martis Directly</a></li><li class="depth-2"><a href="#priority-5-search-kilgefin-parish-catholic-registers" data-for="priority-5-search-kilgefin-parish-catholic-registers">Priority 5: Search Kilgefin Parish Catholic Registers</a></li><li class="depth-2"><a href="#priority-6-search-the-visitation-of-worcestershire-1634" data-for="priority-6-search-the-visitation-of-worcestershire-1634">Priority 6: Search the Visitation of Worcestershire, 1634</a></li><li class="depth-2"><a href="#priority-7-wikitree-and-other-genealogical-databases" data-for="priority-7-wikitree-and-other-genealogical-databases">Priority 7: WikiTree and Other Genealogical Databases</a></li><li class="depth-2"><a href="#priority-8-the-southwellcopley-network" data-for="priority-8-the-southwellcopley-network">Priority 8: The Southwell/Copley Network</a></li><li class="depth-1"><a href="#12-open-research-questions" data-for="12-open-research-questions">12. Open Research Questions</a></li><li class="depth-2"><a href="#tier-1-foundation-questions-must-be-answered-first" data-for="tier-1-foundation-questions-must-be-answered-first">Tier 1: Foundation Questions (Must Be Answered First)</a></li><li class="depth-2"><a href="#tier-2-connecting-the-chain" data-for="tier-2-connecting-the-chain">Tier 2: Connecting the Chain</a></li><li class="depth-2"><a href="#tier-3-the-english-origins" data-for="tier-3-the-english-origins">Tier 3: The English Origins</a></li><li class="depth-2"><a href="#tier-4-collateral-questions" data-for="tier-4-collateral-questions">Tier 4: Collateral Questions</a></li><li class="depth-1"><a href="#13-the-two-competing-hypotheses-tom-vs-steve" data-for="13-the-two-competing-hypotheses-tom-vs-steve">13. The Two Competing Hypotheses: Tom vs. Steve</a></li><li class="depth-2"><a href="#toms-hypothesis-captain-john-copley-of-bredons-norton-worcestershire" data-for="toms-hypothesis-captain-john-copley-of-bredons-norton-worcestershire">Tom’s Hypothesis: Captain John Copley of Bredon’s Norton, Worcestershire</a></li><li class="depth-2"><a href="#steves-hypothesis-christopher-copley-of-wadsworth-west-yorkshire" data-for="steves-hypothesis-christopher-copley-of-wadsworth-west-yorkshire">Steve’s Hypothesis: Christopher Copley of Wadsworth, West Yorkshire</a></li><li class="depth-2"><a href="#the-three-routes-compared" data-for="the-three-routes-compared">The Three Routes Compared</a></li><li class="depth-1"><a href="#14-descent-narrative-thomas-copley-sr-to-michael-copley-sr" data-for="14-descent-narrative-thomas-copley-sr-to-michael-copley-sr">14. Descent Narrative: Thomas Copley Sr. to Michael Copley Sr.</a></li><li class="depth-2"><a href="#generation-1-thomas-copley-sr-of-bredons-norton-fl-mid-16th-century--d-may-20-1593" data-for="generation-1-thomas-copley-sr-of-bredons-norton-fl-mid-16th-century--d-may-20-1593">Generation 1: Thomas Copley Sr. of Bredon’s Norton (fl. mid-16th century — d. May 20, 1593)</a></li><li class="depth-2"><a href="#generation-2-thomas-copley-jr-of-bredons-norton-c-15801647" data-for="generation-2-thomas-copley-jr-of-bredons-norton-c-15801647">Generation 2: Thomas Copley Jr. of Bredon’s Norton (c. 1580–1647)</a></li><li class="depth-2"><a href="#generation-3-captain-john-copley-c-1610post-1657" data-for="generation-3-captain-john-copley-c-1610post-1657">Generation 3: Captain John Copley (c. 1610–post 1657)</a></li><li class="depth-2"><a href="#generation-4-son-of-captain-john--c-1640c-1710--speculative" data-for="generation-4-son-of-captain-john--c-1640c-1710--speculative">Generation 4: [Son of Captain John — c. 1640–c. 1710] ❓ SPECULATIVE</a></li><li class="depth-2"><a href="#generation-5-roscommon-copley--c-1670c-1740--speculative" data-for="generation-5-roscommon-copley--c-1670c-1740--speculative">Generation 5: [Roscommon Copley — c. 1670–c. 1740] ❓ SPECULATIVE</a></li><li class="depth-2"><a href="#generation-6-thomas-copley-of-cloonsheecastlerea-area-c-1769c-1842--speculative-partially-testable" data-for="generation-6-thomas-copley-of-cloonsheecastlerea-area-c-1769c-1842--speculative-partially-testable">Generation 6: Thomas Copley of Cloonshee/Castlerea area (c. 1769–c. 1842) ❓ SPECULATIVE (partially testable)</a></li><li class="depth-2"><a href="#generation-7-john-copley-of-kilmacough--catherine-dolan-c-1785c-1845--speculative--critically-important" data-for="generation-7-john-copley-of-kilmacough--catherine-dolan-c-1785c-1845--speculative--critically-important">Generation 7: John Copley of Kilmacough × Catherine Dolan (c. 1785–c. 1845) ❓ SPECULATIVE — critically important</a></li><li class="depth-2"><a href="#generation-8-michael-copley-sr-b-1813-co-roscommon--d-1897-lewis-county-wv" data-for="generation-8-michael-copley-sr-b-1813-co-roscommon--d-1897-lewis-county-wv">Generation 8: Michael Copley Sr. (b. ~1813, Co. Roscommon — d. ~1897, Lewis County, WV)</a></li><li class="depth-1"><a href="#15-descent-diagram" data-for="15-descent-diagram">15. Descent Diagram</a></li><li class="depth-1"><a href="#16-related-pages" data-for="16-related-pages">16. Related Pages</a></li><li class="depth-1"><a href="#17-sources" data-for="17-sources">17. Sources</a></li><li class="overflow-end"></li></ul></div></div><footer class><p>Created with <a href="https://quartz.jzhao.xyz/">Quartz v4.5.2</a> © 2026</p><ul><li><a href="https://github.com/jackyzha0/quartz">GitHub</a></li><li><a href="https://discord.gg/cRFFHYye7t">Discord Community</a></li></ul></footer></div></div></body><script type="application/javascript" data-persist="true">function n(){let t=this.parentElement;t.classList.toggle("is-collapsed");let e=t.getElementsByClassName("callout-content")[0];if(!e)return;let l=t.classList.contains("is-collapsed");e.style.gridTemplateRows=l?"0fr":"1fr"}function c(){let t=document.getElementsByClassName("callout is-collapsible");for(let e of t){let l=e.getElementsByClassName("callout-title")[0],s=e.getElementsByClassName("callout-content")[0];if(!l||!s)continue;l.addEventListener("click",n),window.addCleanup(()=>l.removeEventListener("click",n));let o=e.classList.contains("is-collapsed");s.style.gridTemplateRows=o?"0fr":"1fr"}}document.addEventListener("nav",c);
+</script><script type="module" data-persist="true">function E(a,e){if(!a)return;function t(o){o.target===this&&(o.preventDefault(),o.stopPropagation(),e())}function n(o){o.key.startsWith("Esc")&&(o.preventDefault(),e())}a?.addEventListener("click",t),window.addCleanup(()=>a?.removeEventListener("click",t)),document.addEventListener("keydown",n),window.addCleanup(()=>document.removeEventListener("keydown",n))}function f(a){for(;a.firstChild;)a.removeChild(a.firstChild)}var m=class{constructor(e,t){this.container=e;this.content=t;this.setupEventListeners(),this.setupNavigationControls(),this.resetTransform()}isDragging=!1;startPan={x:0,y:0};currentPan={x:0,y:0};scale=1;MIN_SCALE=.5;MAX_SCALE=3;cleanups=[];setupEventListeners(){let e=this.onMouseDown.bind(this),t=this.onMouseMove.bind(this),n=this.onMouseUp.bind(this),o=this.onTouchStart.bind(this),r=this.onTouchMove.bind(this),i=this.onTouchEnd.bind(this),s=this.resetTransform.bind(this);this.container.addEventListener("mousedown",e),document.addEventListener("mousemove",t),document.addEventListener("mouseup",n),this.container.addEventListener("touchstart",o,{passive:!1}),document.addEventListener("touchmove",r,{passive:!1}),document.addEventListener("touchend",i),window.addEventListener("resize",s),this.cleanups.push(()=>this.container.removeEventListener("mousedown",e),()=>document.removeEventListener("mousemove",t),()=>document.removeEventListener("mouseup",n),()=>this.container.removeEventListener("touchstart",o),()=>document.removeEventListener("touchmove",r),()=>document.removeEventListener("touchend",i),()=>window.removeEventListener("resize",s))}cleanup(){for(let e of this.cleanups)e()}setupNavigationControls(){let e=document.createElement("div");e.className="mermaid-controls";let t=this.createButton("+",()=>this.zoom(.1)),n=this.createButton("-",()=>this.zoom(-.1)),o=this.createButton("Reset",()=>this.resetTransform());e.appendChild(n),e.appendChild(o),e.appendChild(t),this.container.appendChild(e)}createButton(e,t){let n=document.createElement("button");return n.textContent=e,n.className="mermaid-control-button",n.addEventListener("click",t),window.addCleanup(()=>n.removeEventListener("click",t)),n}onMouseDown(e){e.button===0&&(this.isDragging=!0,this.startPan={x:e.clientX-this.currentPan.x,y:e.clientY-this.currentPan.y},this.container.style.cursor="grabbing")}onMouseMove(e){this.isDragging&&(e.preventDefault(),this.currentPan={x:e.clientX-this.startPan.x,y:e.clientY-this.startPan.y},this.updateTransform())}onMouseUp(){this.isDragging=!1,this.container.style.cursor="grab"}onTouchStart(e){if(e.touches.length!==1)return;this.isDragging=!0;let t=e.touches[0];this.startPan={x:t.clientX-this.currentPan.x,y:t.clientY-this.currentPan.y}}onTouchMove(e){if(!this.isDragging||e.touches.length!==1)return;e.preventDefault();let t=e.touches[0];this.currentPan={x:t.clientX-this.startPan.x,y:t.clientY-this.startPan.y},this.updateTransform()}onTouchEnd(){this.isDragging=!1}zoom(e){let t=Math.min(Math.max(this.scale+e,this.MIN_SCALE),this.MAX_SCALE),n=this.content.getBoundingClientRect(),o=n.width/2,r=n.height/2,i=t-this.scale;this.currentPan.x-=o*i,this.currentPan.y-=r*i,this.scale=t,this.updateTransform()}updateTransform(){this.content.style.transform=`translate(${this.currentPan.x}px, ${this.currentPan.y}px) scale(${this.scale})`}resetTransform(){let t=this.content.querySelector("svg").getBoundingClientRect(),n=t.width/this.scale,o=t.height/this.scale;this.scale=1,this.currentPan={x:(this.container.clientWidth-n)/2,y:(this.container.clientHeight-o)/2},this.updateTransform()}},T=["--secondary","--tertiary","--gray","--light","--lightgray","--highlight","--dark","--darkgray","--codeFont"],y;document.addEventListener("nav",async()=>{let e=document.querySelector(".center").querySelectorAll("code.mermaid");if(e.length===0)return;y||=await import("https://cdnjs.cloudflare.com/ajax/libs/mermaid/11.4.0/mermaid.esm.min.mjs");let t=y.default,n=new WeakMap;for(let r of e)n.set(r,r.innerText);async function o(){for(let s of e){s.removeAttribute("data-processed");let c=n.get(s);c&&(s.innerHTML=c)}let r=T.reduce((s,c)=>(s[c]=window.getComputedStyle(document.documentElement).getPropertyValue(c),s),{}),i=document.documentElement.getAttribute("saved-theme")==="dark";t.initialize({startOnLoad:!1,securityLevel:"loose",theme:i?"dark":"base",themeVariables:{fontFamily:r["--codeFont"],primaryColor:r["--light"],primaryTextColor:r["--darkgray"],primaryBorderColor:r["--tertiary"],lineColor:r["--darkgray"],secondaryColor:r["--secondary"],tertiaryColor:r["--tertiary"],clusterBkg:r["--light"],edgeLabelBackground:r["--highlight"]}}),await t.run({nodes:e})}await o(),document.addEventListener("themechange",o),window.addCleanup(()=>document.removeEventListener("themechange",o));for(let r=0;r<e.length;r++){let v=function(){let g=l.querySelector("#mermaid-space"),h=l.querySelector(".mermaid-content");if(!h)return;f(h);let w=i.querySelector("svg").cloneNode(!0);h.appendChild(w),l.classList.add("active"),g.style.cursor="grab",u=new m(g,h)},M=function(){l.classList.remove("active"),u?.cleanup(),u=null},i=e[r],s=i.parentElement,c=s.querySelector(".clipboard-button"),d=s.querySelector(".expand-button"),p=window.getComputedStyle(c),L=c.offsetWidth+parseFloat(p.marginLeft||"0")+parseFloat(p.marginRight||"0");d.style.right=`calc(${L}px + 0.3rem)`,s.prepend(d);let l=s.querySelector("#mermaid-container");if(!l)return;let u=null;d.addEventListener("click",v),E(l,M),window.addCleanup(()=>{u?.cleanup(),d.removeEventListener("click",v)})}});
+</script><script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/copy-tex.min.js" type="application/javascript" data-persist="true"></script><script src="../postscript.js" type="module" data-persist="true"></script></html>
