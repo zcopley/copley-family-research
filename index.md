@@ -11,6 +11,8 @@ This site documents the history and genealogy of the Copley family — from thei
 
 Maintained by **Zach Copley** (G26) with contributions from family members.
 
+> 📋 **New here or returning?** See what's been added or changed: [[CHANGELOG|→ View the Changelog]]
+
 ---
 
 ## Where to Start
