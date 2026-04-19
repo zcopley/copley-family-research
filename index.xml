@@ -6,52 +6,10 @@
       <description>Last 10 notes on Copley Family Research Vault</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>CLAUDE</title>
-    <link>https://zcopley.github.io/copley-family-research/CLAUDE</link>
-    <guid>https://zcopley.github.io/copley-family-research/CLAUDE</guid>
-    <description><![CDATA[ CLAUDE.md — Copley Family Research Vault This file gives AI agents instant orientation for working on this project. ]]></description>
-    <pubDate>Sun, 19 Apr 2026 04:46:33 GMT</pubDate>
-  </item><item>
-    <title>GEMINI</title>
-    <link>https://zcopley.github.io/copley-family-research/GEMINI</link>
-    <guid>https://zcopley.github.io/copley-family-research/GEMINI</guid>
-    <description><![CDATA[ Gemini Agent Protocol — Copley Family Research Vault This document provides foundational mandates for AI agents working on the Copley Family Research Vault. ]]></description>
-    <pubDate>Sun, 19 Apr 2026 04:46:33 GMT</pubDate>
-  </item><item>
-    <title>Phase 2C Handoff Summary</title>
-    <link>https://zcopley.github.io/copley-family-research/AGENT_HANDOFF_PHASE_2C</link>
-    <guid>https://zcopley.github.io/copley-family-research/AGENT_HANDOFF_PHASE_2C</guid>
-    <description><![CDATA[ Phase 2C Handoff Summary (for next agent) 1) Critical Site Fixes Performed The site was “broken” due to environment and configuration issues. ]]></description>
-    <pubDate>Sat, 18 Apr 2026 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>Phase 2D Handoff Summary</title>
-    <link>https://zcopley.github.io/copley-family-research/AGENT_HANDOFF_PHASE_2D</link>
-    <guid>https://zcopley.github.io/copley-family-research/AGENT_HANDOFF_PHASE_2D</guid>
-    <description><![CDATA[ Phase 2D Handoff Summary (for next agent) 1) Work Completed This Session Image Catalog Completed All 11 previously unnamed images have been renamed, identified, and embedded in the appropriate pages. ]]></description>
-    <pubDate>Sat, 18 Apr 2026 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>Phase 2E Handoff Summary</title>
-    <link>https://zcopley.github.io/copley-family-research/AGENT_HANDOFF_PHASE_2E</link>
-    <guid>https://zcopley.github.io/copley-family-research/AGENT_HANDOFF_PHASE_2E</guid>
-    <description><![CDATA[ Phase 2E Handoff Summary (for next agent) 1) Critical Site Fix The site was serving an empty RSS feed at the root URL — no content pages at all. ]]></description>
-    <pubDate>Sat, 18 Apr 2026 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>Phase 2F Handoff Summary</title>
-    <link>https://zcopley.github.io/copley-family-research/AGENT_HANDOFF_PHASE_2F</link>
-    <guid>https://zcopley.github.io/copley-family-research/AGENT_HANDOFF_PHASE_2F</guid>
-    <description><![CDATA[ Phase 2F Handoff Summary (for next agent) 1) GEDCOM Data Incorporated An Ancestry.com GEDCOM export (Copley Family Tree.ged) from a Discord contact (“sp_edward_iv”) was found in C:\Users\zach\Desktop\cleanup\Copley Family Geneology. ]]></description>
-    <pubDate>Sat, 18 Apr 2026 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>Phase 2G Handoff Summary</title>
-    <link>https://zcopley.github.io/copley-family-research/AGENT_HANDOFF_PHASE_2G</link>
-    <guid>https://zcopley.github.io/copley-family-research/AGENT_HANDOFF_PHASE_2G</guid>
-    <description><![CDATA[ Phase 2G Handoff Summary (for next agent) 1) User Request Tom Copley (G25) shared 30 emails and 2 PDFs from his research correspondence with Steve Copley (G25), conducted February–March 2026, investigating the English and Irish origins of Michael Copley Sr. ]]></description>
-    <pubDate>Sat, 18 Apr 2026 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>Changelog</title>
-    <link>https://zcopley.github.io/copley-family-research/CHANGELOG</link>
-    <guid>https://zcopley.github.io/copley-family-research/CHANGELOG</guid>
-    <description><![CDATA[ Copley Family Research — Changelog A running record of significant additions, corrections, and improvements to this wiki. ]]></description>
+    <title>Home</title>
+    <link>https://zcopley.github.io/copley-family-research/Home</link>
+    <guid>https://zcopley.github.io/copley-family-research/Home</guid>
+    <description><![CDATA[ Copley Family Research Vault Welcome to the Copley family research vault. ]]></description>
     <pubDate>Sat, 18 Apr 2026 00:00:00 GMT</pubDate>
   </item><item>
     <title>Ann Marie Arena</title>
@@ -64,6 +22,48 @@
     <link>https://zcopley.github.io/copley-family-research/People/Benjamin-Partlow</link>
     <guid>https://zcopley.github.io/copley-family-research/People/Benjamin-Partlow</guid>
     <description><![CDATA[ Benjamin Partlow (c. 1762–after 1834) 📊 View Family Tree for visual context. ]]></description>
+    <pubDate>Sat, 18 Apr 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Bridget Copley Reynolds</title>
+    <link>https://zcopley.github.io/copley-family-research/People/Bridget-Copley-Reynolds</link>
+    <guid>https://zcopley.github.io/copley-family-research/People/Bridget-Copley-Reynolds</guid>
+    <description><![CDATA[ Bridget Copley Reynolds (dates unknown) 📊 View Family Tree for visual context. ]]></description>
+    <pubDate>Sat, 18 Apr 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Cathy Arena</title>
+    <link>https://zcopley.github.io/copley-family-research/People/Cathy-Arena</link>
+    <guid>https://zcopley.github.io/copley-family-research/People/Cathy-Arena</guid>
+    <description><![CDATA[ Cathy Arena (Barthelme) 📊 View Family Tree for visual context. ]]></description>
+    <pubDate>Sat, 18 Apr 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Charles Ruland</title>
+    <link>https://zcopley.github.io/copley-family-research/People/Charles-Ruland</link>
+    <guid>https://zcopley.github.io/copley-family-research/People/Charles-Ruland</guid>
+    <description><![CDATA[ Charles Ruland 📊 View Family Tree for visual context. ]]></description>
+    <pubDate>Sat, 18 Apr 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Jim Arena</title>
+    <link>https://zcopley.github.io/copley-family-research/People/Jim-Arena</link>
+    <guid>https://zcopley.github.io/copley-family-research/People/Jim-Arena</guid>
+    <description><![CDATA[ Jim Arena 📊 View Family Tree for visual context. ]]></description>
+    <pubDate>Sat, 18 Apr 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>John Arena</title>
+    <link>https://zcopley.github.io/copley-family-research/People/John-Arena</link>
+    <guid>https://zcopley.github.io/copley-family-research/People/John-Arena</guid>
+    <description><![CDATA[ John Arena 📊 View Family Tree for visual context. ]]></description>
+    <pubDate>Sat, 18 Apr 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>John Ruland</title>
+    <link>https://zcopley.github.io/copley-family-research/People/John-Ruland</link>
+    <guid>https://zcopley.github.io/copley-family-research/People/John-Ruland</guid>
+    <description><![CDATA[ John Ruland 📊 View Family Tree for visual context. ]]></description>
+    <pubDate>Sat, 18 Apr 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Lauren Copley Meier</title>
+    <link>https://zcopley.github.io/copley-family-research/People/Lauren-Copley-Meier</link>
+    <guid>https://zcopley.github.io/copley-family-research/People/Lauren-Copley-Meier</guid>
+    <description><![CDATA[ Lauren Copley Meier 📊 View Family Tree for visual context. Biographical Profile Lauren Copley Meier is a G27 descendant in the Michael Copley (b. ]]></description>
     <pubDate>Sat, 18 Apr 2026 00:00:00 GMT</pubDate>
   </item>
     </channel>
