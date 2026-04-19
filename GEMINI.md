@@ -25,6 +25,7 @@ Always use the following tags and prose labels:
 - Use `[[WikiLink]]` syntax for all internal links.
 - Person pages reside in `People/`, Places in `Places/`, Topics in `Topics/`.
 - Maintain the `Search Index.md` with every new profile or key fact added.
+- **Changelog rule:** Every `CHANGELOG.md` entry must include WikiLinks to every page added or changed. Use `[[People/Full Name|Display Name]]`, `[[Topics/Page|Display Name]]`, etc. Mention specific sections by name in prose when only a section changed.
 
 ### 3. Frontmatter (Required)
 ```yaml

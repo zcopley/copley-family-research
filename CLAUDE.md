@@ -99,6 +99,11 @@ tags:
 - Place pages live in `Places/` — link as `[[Places/Place Name|Display Name]]`
 - Topic pages live in `Topics/` — link as `[[Topics/Topic Name|Display Name]]`
 
+### Changelog entries
+- **Always include WikiLinks** to every page that was added or changed in a CHANGELOG.md entry
+- Mention section names in prose when a specific section changed (e.g., "Section 13 of [[Topics/Captain John Copley Research|Captain John Copley Research]]")
+- Prefer `[[People/Full Name|Display Name]]` over bare names so readers can navigate directly from the changelog
+
 ### Person page structure
 ```markdown
 # Full Name (birth–death or b. YYYY)

@@ -117,7 +117,17 @@ These join the existing known variants: "Copley" (Protestant branch), "Copely" (
 | Captain John → Michael Sr. chain | No primary source for Generations 4–7 |
 
 
-## 6) Deployment Notes (Unchanged)
+## 6) Changelog Instructions
+
+**Every CHANGELOG.md entry must include WikiLinks to every page that was changed or created.** This makes the changelog useful for readers navigating the site.
+
+- Person pages: `[[People/Full Name|Display Name]]`
+- Topic pages: `[[Topics/Page Name|Display Name]]`
+- Other pages: `[[Page Name]]` or `[[Page Name|Display Name]]`
+- If a specific section of a page changed significantly, note the section name in the text (e.g., "Section 13 of [[Topics/Captain John Copley Research|Captain John Copley Research]]")
+- Quartz supports anchor links (`[[Page#heading-id|text]]`) but these are fragile — prefer linking to the page and naming the section in prose
+
+## 7) Deployment Notes (Unchanged)
 
 - **Build:** `npm run build` — do NOT use `npx quartz build` alone (missing `-d .`)
 - **Deploy:** `peaceiris/actions-gh-pages@v4` — auto-deploys on push to `main`
