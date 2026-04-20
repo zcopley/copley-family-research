@@ -20,7 +20,7 @@ Maintained by **Zach Copley** (G26) with contributions from family members.
 **New to the family history?**
 → [[The Copley Family Narrative]] — the full story told in prose
 → [[Family Tree]] — visual overview of all generations at a glance
-→ [Timeline](Copley%20Family%20Timeline.html) — family events in context of US, English & Irish history
+→ [[Topics/Copley Family Timeline|Timeline]] — family events in context of US, English & Irish history
 
 **Looking for a specific person?**
 → [[People Directory]] — every family member organized by generation
