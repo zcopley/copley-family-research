@@ -31,7 +31,9 @@ jobs:
         run: npm run build
 
       - name: Copy family timeline to public
-        run: cp -r family-timeline public/
+        run: |
+          mkdir -p public/family-timeline
+          cp -v family-timeline/index.html public/family-timeline/
 
       - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v4
