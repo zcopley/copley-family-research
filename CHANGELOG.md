@@ -59,6 +59,14 @@ Three new person pages created documenting the pre-G23 English ancestor line:
 - Section 15 (Descent Diagram): Updated JANE node to MARGARET_N
 - Section 17 (Sources): Updated source #10a with page numbers and comprehensive details
 
+### Interactive Timeline Added
+
+**[[Topics/Copley Family Timeline|Copley Family Timeline]]** — New interactive visualization:
+- Vertical timeline linking Copley family milestones with US, English, and Irish historical events
+- Standalone HTML file (interactive; requires JavaScript)
+- Linked from [[Home]] in Core Pages section for easy navigation
+- Provides visual context for family history narrative and migration patterns
+
 ---
 
 ## Phase 2H — Tom's Research Notes Incorporated; Wendy Name Fix
