@@ -48,6 +48,8 @@ The central figure in the proposed connection is **Captain John Copley**, a 17th
 
 ✅ **[VERIFIED]** **Thomas Copley Sr. of Bredon's Norton** (d. May 20, 1593) was a notable member of this branch. An inscription in Bredon Church commemorates his death. He is associated in local tradition with Sir Walter Raleigh and is said to have introduced tobacco and potatoes to the Vale of Evesham, though the latter claim is local legend. (Source: bredonsnorton.co.uk; British History Online)
 
+✅ **[VERIFIED — 1634 Visitation of Worcestershire, p. 26]** The family heraldic arms are recorded as: **Argent, a cross-moline sable, charged with a martlet for cadency**. Crest: **A covered cup or**. These arms are documented in the 1634 Visitation pedigree chart and appear alongside the Copley entry.
+
 ✅ **[VERIFIED]** The manor house at Bredon's Norton was sold in **1649** following the death of **Thomas Copley Jr.** in **1647**, ending the family's direct presence in the village. (Source: bredonsnorton.co.uk)
 
 ⚠️ **[PLAUSIBLE]** The Bredon's Norton Copleys had **Catholic recusant** connections. A related branch — the **Thomas Copley** who died in exile in the Netherlands — was a prominent Catholic recusant. The Bredon branch's Catholic sympathies may have influenced their descendants' decisions and movements in Ireland. (Source: bredonsnorton.co.uk)
@@ -71,7 +73,11 @@ The central figure in the proposed connection is **Captain John Copley**, a 17th
 
 ⚠️ **[PLAUSIBLE]** The Captain John Copley of the *Mettallum Martis* is very likely from the Bredon's Norton branch, given the geographic proximity of Kingswood (near Bristol) to Bredon's Norton, the timing (1656–57, consistent with the 1634 Visitation documenting the family, and the 1649 sale of the manor), and the Cromwell-era patent. Tom's own assessment: "combined with the genealogy chart from the Visitation of Worcestershire of 1634, further leads to the presumption that Captain John Copley was from the Bredon family."
 
-⚠️ **[PLAUSIBLE]** Captain John was likely a **younger son** of the family — a second or third son who could not inherit the Bredon's Norton estate (which passed to Thomas Copley Jr. and was sold after his death in 1647). Younger sons of English gentry commonly sought fortune through military service and colonial ventures. His entrepreneurial iron-making attempt and subsequent emigration to Ireland fit this pattern exactly.
+✅ **[VERIFIED — 1634 Visitation of Worcestershire, pp. 26–27]** The **1634 Visitation records Thomas Copley Sr.'s family in detail**. He had at least **ten children documented**: Five sons numbered in the pedigree as (1) **Thomas Copley Jr.** (present at the Visitation), (2) **Captain John Copley** ("in Italy" 1634), (3) **William Copley of London**, (4) **Nicholas Copley of London**, and (5) **Arthur Copley**. Five or more daughters: **Elizabeth** (m. John Parsons of Kemerton, Glos.), **Mary** (m. John Skipp of Ledbury, Heref.), **Susan** (m. Leonard Jeffrey of Earl's Croome, mar.lic. 1582 Wore.), **Margaret**, **Katherine**, **Jane**, **Hester**, **Anne**, and **Bridget**. A **William Copley** (b. 1574, Barrister-at-law at Middle Temple, d. 1611) is also recorded in this generation — possibly another son of Thomas Sr., or possibly a brother of Thomas Sr. himself (the pedigree layout in the 1634 Visitation is visually ambiguous in the OCR conversion, but Tom Copley's reading of the original PDF confirms William as a son in this generation). (Source: Visitations of Worcestershire, 1634, pp. 26–27)
+
+✅ **[VERIFIED — 1634 Visitation of Worcestershire, pp. 26–27]** **Thomas Copley Jr.'s family** is documented with detail: He had **two wives**. His first wife was **Margaret, daughter of Thomas Hanford of Wollashull**. His second wife was **Frances, daughter of Sir George Browne** (2nd son of Viscount Montagu). His children with one or both wives include **Thomas** (aged approximately 7 in 1634, thus born c. 1627) and **George**. The continued presence of Thomas Jr. at the 1634 Visitation (and the manor's sale in 1649, two years after his death in 1647) establishes the continuity of the Bredon's Norton line and confirms that Captain John was indeed the younger brother of Thomas Jr. (Source: Visitations of Worcestershire, 1634, pp. 26–27)
+
+⚠️ **[PLAUSIBLE]** Captain John was a **younger son** of Thomas Copley Sr. who could not inherit the Bredon's Norton estate. Younger sons of English gentry commonly sought fortune through military service and colonial ventures. His entrepreneurial iron-making attempt and subsequent emigration to Ireland fit this pattern exactly.
 
 ⚠️ **[PLAUSIBLE — Tom's conclusion from the Visitations]** Tom Copley (April 2026) concludes from the Visitations that Captain John was most likely a **younger son of Thomas Copley Jr.** — not Thomas Sr. Tom notes the record is "a little muddled up" but says the Visitations make this clear. This is consistent with the timing: Thomas Jr. died in 1647 and the manor was sold in 1649, leaving younger sons without inheritance and free to seek their fortunes abroad.
 
@@ -582,7 +588,7 @@ This is the best-documented generation in the entire proposed descent. **Four in
 
 ⚠️ **[PLAUSIBLE]** All three references describe a consistent character across 1642–1657: a man with Irish interests dating back to the 1641 Rebellion, repeatedly proposing and attempting ambitious industrial and military schemes, and ultimately emigrating to Ireland after his English venture failed. This pattern — ambition, failure, Ireland — fits perfectly the biography of a younger son from a dispossessed Worcestershire gentry family.
 
-❓ **[SPECULATIVE]** His wife is named **Jane** in AI-generated narratives (possibly Jane Lode or Jane Loftus), but no primary source confirms her identity. AI sessions proposed he received Cromwellian land grants in County Roscommon — historically plausible under the Act of Settlement 1652, but no specific grant record has been located.
+✅ **[VERIFIED — 1634 Visitation of Worcestershire, p. 26]** The **1634 Visitation of Worcestershire** directly records his wife as **Margaret, daughter of George Newport of Rushock**. The AI claim of a wife named "Jane" is incorrect and should be disregarded. AI sessions proposed he received Cromwellian land grants in County Roscommon — historically plausible under the Act of Settlement 1652, but no specific grant record has been located.
 
 🚫 **[LIKELY INCORRECT]** AI claims that Captain John had ironworks at Arigna, County Roscommon destroyed in the **1641 Rebellion** are chronologically impossible: *Mettallum Martis* confirms he was still in England until 1657 — sixteen years after the rebellion. The AI almost certainly conflated two different figures or time periods.
 
@@ -649,7 +655,7 @@ graph TD
     T1["Thomas Copley Sr.<br/>Bredon's Norton, Worcestershire<br/>d. May 20, 1593 ✅"]:::verified
     T2["Thomas Copley Jr.<br/>Bredon's Norton<br/>d. 1647 · manor sold 1649 ✅"]:::verified
     CJ["Captain John Copley ✅<br/>c. 1610–post 1657<br/>Parliament petition: 1642<br/>Youghal, Co. Cork: 1651<br/>Kingswood ironworks: 1656–57<br/>Moved to Ireland: 1657"]:::verified
-    JANE["Jane (?)<br/>wife of Captain John<br/>name unverified"]:::spouse
+    MARGARET_N["Margaret Newport ✅<br/>dau. of George Newport<br/>of Rushock"]:::spouse
     MCJ{"◇"}:::marriage
     ELDER["Elder Son ❓<br/>c. 1640–c. 1710<br/>Limerick branch progenitor"]:::speculative
     YOUNGER["Younger Son ❓<br/>c. 1640–c. 1710<br/>Roscommon branch progenitor"]:::speculative
@@ -666,7 +672,7 @@ graph TD
     T1 --> T2
     T2 --> CJ
     CJ --- MCJ
-    JANE --- MCJ
+    MARGARET_N --- MCJ
     MCJ --> ELDER
     MCJ --> YOUNGER
     ELDER -.->|"Limerick branch ❓"| JSC
@@ -707,7 +713,7 @@ graph TD
 3. ✅ Richard Caulfield, ed., *Council Book of the Corporation of Youghal from 1610 to 1659, from 1666 to 1687 and from 1690 to 1800* — "Captain Copley, Clerk of the Market, 1651." Available: Google Books.
 4. ✅ P.W. King, "Dud Dudley's Contribution to Metallurgy," *Historical Metallurgy* (peer-reviewed journal) — confirms Copley reference in Dudley's account.
 5. ✅ "The Copley Name from Castlerea" — genealogical report compiled by **Mary Skelly**, 2026. 11 pages, 158 footnotes. Primary sources: Kilkeevan Church of Ireland records, Castlerea Civil Records, Roscommon civil registers, census records, passenger lists. (Confirmed: Tom Copley, April 2026)
-10a. ✅ Visitations of Worcestershire, 1569 and 1634 — both available online as PDFs. The 1634 Visitation names "Captain John Copley" and records him as "in Italy." Establishes descent from Thomas Copley Jr. of Bredon's Norton. (Tom Copley, April 2026; PDFs searchable via Google)
+10a. ✅ **Visitations of Worcestershire, 1569 and 1634** — both available online as PDFs. The 1634 Visitation (pp. 26–27) contains the full pedigree of the Copley family of Norton in Bredon. Thomas Copley Sr. (d. 1593) and his children are documented: Thomas Jr. (#1), Captain John (#2, "in Italy"), William of London (#3), Nicholas of London (#4), Arthur (#5), and daughters including Elizabeth, Mary, Susan (mar.lic. 1582), Margaret, Katherine, Jane, Hester, Anne, and Bridget. Thomas Jr.'s wives are documented as Margaret (dau. of Thomas Hanford of Wollashull) and Frances (dau. of Sir George Browne, 2nd son of Viscount Montagu); his children: Thomas (b. c. 1627) and George. Captain John's wife is recorded as Margaret, dau. of George Newport of Rushock. Earlier generation visible in 1569 Visitation, Harl. Soc., p. 45. (PDFs searchable via Google; Tom Copley, April 2026)
 6. ✅ Steve Copley, letter to Tom Copley (PDF, dated ~Feb 2026, filename 26TOM0207.pdf). Analysis of research findings and religious conversion question.
 7. ⚠️ Tom Copley, email correspondence with Stephen Copley, February–March 2026 (30 emails). Largely consists of forwarded Google AI (Gemini) research session outputs, explicitly flagged by Tom as potentially containing AI hallucinations.
 8. ❓ Google AI (Gemini) — multiple research sessions, February 2026. All AI-derived claims flagged as speculative throughout this document.

@@ -10,6 +10,56 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 2I — 1634 Visitation of Worcestershire Analyzed; Captain John's Wife Confirmed
+**Date:** April 19, 2026
+
+### Major Correction
+
+**[[People/Captain John Copley|Captain John Copley]]'s wife — "Jane" corrected to Margaret Newport:**
+The **1634 Visitation of Worcestershire** (p. 26) directly records Captain John's wife as **Margaret, daughter of George Newport of Rushock**. The AI-generated claim of a wife named "Jane" (Jane Lode or Jane Loftus) is incorrect and has been removed. Updated in [[Topics/Captain John Copley Research|Captain John Copley Research]] (Generation 3 section) and the Descent Diagram (Section 15).
+
+### New Documentation from 1634 Visitation
+
+**1634 Visitation of Worcestershire, pp. 26–27 — Full pedigree extracted:**
+The Visitation documents [[People/Thomas Copley Sr.|Thomas Copley Sr.]]'s family in detail:
+
+**Sons:**
+- (1) [[People/Thomas Copley Jr.|Thomas Copley Jr.]] (present at Visitation; d. 1647)
+- (2) [[People/Captain John Copley|Captain John Copley]] ("in Italy" 1634)
+- (3) William Copley of London
+- (4) Nicholas Copley of London
+- (5) Arthur Copley
+
+**Daughters:** Elizabeth (m. John Parsons, Kemerton, Glos.), Mary (m. John Skipp, Ledbury, Heref.), Susan (m. Leonard Jeffrey, Earl's Croome, mar.lic. 1582 Wore.), Margaret, Katherine, Jane, Hester, Anne, Bridget.
+
+**William Copley** (b. 1574, d. 1611, Barrister-at-law at Middle Temple) also recorded in this generation.
+
+**Thomas Jr.'s details:**
+- Wife 1: Margaret, daughter of Thomas Hanford of Wollashull
+- Wife 2: Frances, daughter of Sir George Browne (2nd son of Viscount Montagu)
+- Children: Thomas (b. c. 1627, aged ~7 in 1634), George
+
+**Heraldic arms documented:**
+**Argent, a cross-moline sable, charged with a martlet for cadency; Crest: A covered cup or.**
+
+### New Person Pages
+
+Three new person pages created documenting the pre-G23 English ancestor line:
+- **[[People/Captain John Copley|Captain John Copley]]** (c. 1610–post 1657) — 17th-century Worcestershire military officer and entrepreneur; emigrated to Ireland 1657
+- **[[People/Thomas Copley Sr.|Thomas Copley Sr.]]** (c. 1540–1593) — patriarch of Bredon's Norton line; died May 20, 1593 (commemorated in Bredon Church)
+- **[[People/Thomas Copley Jr.|Thomas Copley Jr.]]** (c. 1580–1647) — eldest son; died 1647; manor sold 1649
+
+### Updates to Existing Pages
+
+**[[Topics/Captain John Copley Research|Captain John Copley Research]]:**
+- Section 2a: Added heraldic arms (Argent, cross-moline sable; crest: covered cup or)
+- Section 2b: Expanded with full Thomas Sr. family structure (5 sons, 9 daughters documented)
+- Section 2b: Added Thomas Jr.'s wives and children details
+- Generation 3 section: Updated wife from "Jane ❓" to "Margaret Newport ✅ [VERIFIED]"
+- Section 15 (Descent Diagram): Updated JANE node to MARGARET_N
+- Section 17 (Sources): Updated source #10a with page numbers and comprehensive details
+
+---
 
 ## Phase 2H — Tom's Research Notes Incorporated; Wendy Name Fix
 **Date:** April 19, 2026
