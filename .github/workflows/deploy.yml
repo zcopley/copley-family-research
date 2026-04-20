@@ -30,6 +30,9 @@ jobs:
       - name: Build Quartz
         run: npm run build
 
+      - name: Copy family timeline to public
+        run: cp -r family-timeline public/
+
       - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v4
         with:
