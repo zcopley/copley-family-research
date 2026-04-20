@@ -61,10 +61,10 @@ Three new person pages created documenting the pre-G23 English ancestor line:
 
 ### Interactive Timeline Added
 
-**[[Topics/Copley Family Timeline|Copley Family Timeline]]** — New interactive visualization:
+**Copley Family Timeline** — New interactive visualization:
 - Vertical timeline linking Copley family milestones with US, English, and Irish historical events
 - Standalone HTML file (interactive; requires JavaScript)
-- Linked from [[Home]] in Core Pages section for easy navigation
+- Linked from [[Home]] and [[index]] for easy access
 - Provides visual context for family history narrative and migration patterns
 
 ---
