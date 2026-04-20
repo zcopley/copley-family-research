@@ -41,7 +41,8 @@ A genealogical research wiki for the Copley family, spanning Irish immigrant anc
 ├── AGENT_HANDOFF_PHASE_1E.md  ← prior phase context
 ├── AGENT_HANDOFF_PHASE_2A.md  ← prior phase context
 ├── AGENT_HANDOFF_PHASE_2G.md  ← prior phase context
-├── AGENT_HANDOFF_PHASE_2H.md  ← current phase context
+├── AGENT_HANDOFF_PHASE_2H.md  ← prior phase context
+├── AGENT_HANDOFF_PHASE_2I.md  ← current phase context
 ├── CHANGELOG.md               ← human-readable changelog (all phases)
 └── CLAUDE.md              ← this file
 ```
@@ -266,3 +267,4 @@ For prior session context, read in order:
 7. `AGENT_HANDOFF_PHASE_2F.md` — GEDCOM data incorporated, Family Tree Georgia/Susan bug fixed, Benjamin Partlow page created
 8. `AGENT_HANDOFF_PHASE_2G.md` — Captain John Copley research page, descent narrative, Tom vs. Steve hypothesis, CHANGELOG created
 9. `AGENT_HANDOFF_PHASE_2H.md` — Wendy middle name fix (Lorelei); Tom's corrections: Mary Skelly, Captain John as son of Thomas Jr., 1634 Visitation as 4th source (Italy), William/Challoner from Sussex, Raleigh-Hoo connection, Southwell cousinage, Christopher/Mary Jones married (one daughter Francis), alternate spellings Coplet/Coplay
+10. `AGENT_HANDOFF_PHASE_2I.md` — 1634 Visitation of Worcestershire analyzed; Captain John's wife confirmed as Margaret Newport; heraldic arms documented; Thomas Copley Sr./Jr. family structure fully extracted; three new person pages created (Captain John, Thomas Sr., Thomas Jr.)
