@@ -25,7 +25,7 @@ The research covers:
 
 ### Core Pages
 - [[Family Tree]] ⭐
-- [[Topics/Copley Family Timeline|Timeline]] — family events & historical context
+- [Timeline](/family-timeline/) — family events & historical context
 - [[People Directory]]
 - [[The Copley Family Narrative]]
 - [[Topics and Themes]]
