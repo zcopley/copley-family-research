@@ -15,7 +15,7 @@ Explore how the family's migration from Ireland to Lewis County, West Virginia i
 
 ---
 
-<iframe src="../Copley Family Timeline.html" style="width: 100%; height: 800px; border: none; border-radius: 8px;"></iframe>
+<iframe src="/Copley%20Family%20Timeline.html" style="width: 100%; height: 800px; border: none; border-radius: 8px;"></iframe>
 
 ---
 
