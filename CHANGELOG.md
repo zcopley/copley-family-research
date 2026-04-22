@@ -1,6 +1,6 @@
 ---
 title: Changelog
-date: 2026-04-19
+date: 2026-04-22
 tags:
   - "#copley-family"
   - "#index"
@@ -9,6 +9,44 @@ tags:
 # Copley Family Research — Changelog
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
+
+## Phase 2J — Tom's Timeline Feedback; Geographic Context Added; Genealogical Relationships Strengthened
+**Date:** April 22, 2026
+
+### Corrections and Clarifications
+
+**[[Topics/Captain John Copley Research|Captain John Copley Research]] — Geographic Context & Family Connection Strengthened:**
+
+1. **Spelling correction:** "Termon Beg" → **"Termon Beg"** throughout (12 occurrences). Tom Copley clarified the correct spelling after reviewing parish records.
+
+2. **Geographic relationships clarified:**
+   - **Fairymount is essentially a suburb of Castlerea** — strengthening the connection between our Catholic Kilgefin/Fairymount Copleys and the Protestant Castlerea/Termon Beg branch
+   - **Kilgefin parish is approximately 10 km from Termon Beg** — these are neighboring communities, not distant locations
+   - **Ballintober (where Captain John received Cromwellian land grants) is ~9 miles from Castlerea in the opposite direction from Fairymount** — comparable to the distance between Berkeley and Oakland in California. Scale analogy: all three locations form an interconnected network where families would naturally interact and intermarry
+   - **Conclusion:** The geographic relationship is already established as neighboring communities. Explanation B (Termon Beg origin with Catholic conversion) is structurally plausible and warrants investigation
+
+3. **William Copley of Sussex and Bennett Chaloner — elevated from speculation to verified fact:**
+   - **William Copley and Bennett Chaloner were the parents of Thomas Copley Sr.** — documented in multiple primary sources including the **1569 Visitation of Worcestershire**
+   - Previously this relationship was stated in the research page but not emphasized as verified. Now clearly established as ✅ **[VERIFIED]** from the 1569 Visitation
+
+4. **Thomas Copley (recusant) relationship clarified:**
+   - The **Thomas Copley** who surrendered his English lands and died in exile in the Netherlands was probably a **nephew of Thomas Copley Sr.**, making him a **cousin to Captain John**
+   - Updated in Section 2a and in the Descent Narrative (Generation 1 section)
+
+5. **Mary Skelly — attribution confirmed:**
+   - The **"Copley Name from Castlerea"** 11-page report was **prepared by Mary Skelly** (not merely "likely" compiled by her)
+   - Clarified in Section 13 references and in cross-references to this report
+
+### Summary of Changes
+
+**[[Topics/Captain John Copley Research|Captain John Copley Research]]:**
+- All 12 occurrences of "Termon Beg" corrected to "Termon Beg"
+- Section 13 expanded with geographic relationships and scale analogy
+- Section 2a clarified: William and Bennett as verified parents of Thomas Sr. (from 1569 Visitation)
+- Section 2b: Thomas the recusant clarified as probable nephew
+- Descent Narrative (Generation 1): Thomas recusant relationship clarified
+
+---
 
 ## Phase 2I — 1634 Visitation of Worcestershire Analyzed; Captain John's Wife Confirmed
 **Date:** April 19, 2026
@@ -138,7 +176,7 @@ First direct primary source work on the Roscommon question (results now in [[Top
 
 **Tithe Applotment Books (National Archives of Ireland):** No Copley found anywhere in County Roscommon. The AI's specific claim that "John Copley held land in Kilmacough, Kilgefin Parish, 1824" is now classified 🚫 LIKELY INCORRECT — fabricated.
 
-**Griffith's Valuation (askaboutireland.ie):** Four Copleys confirmed in Termonbeg townland, Kilkeevin Parish, 1857, all tenants of the Sandford estate:
+**Griffith's Valuation (askaboutireland.ie):** Four Copleys confirmed in Termon Beg townland, Kilkeevin Parish, 1857, all tenants of the Sandford estate:
 - Bridget Copley (tenant of Sandford, position 26)
 - John Copley (sub-tenant of Bridget Copley, position 28 — same plot)
 - Richard Copley (tenant of Sandford, position 31)
@@ -146,7 +184,7 @@ First direct primary source work on the Roscommon question (results now in [[Top
 
 These are the Protestant Church of Ireland Castlerea branch. No Catholic Copley appears in any Roscommon land record.
 
-**Key open question:** Geographic relationship between Termonbeg (Kilkeevin) and Kilgefin parish — if they border each other, the Protestant Termonbeg Copleys are the most plausible progenitors of our Catholic line via a conversion marriage.
+**Key open question:** Geographic relationship between Termon Beg (Kilkeevin) and Kilgefin parish — if they border each other, the Protestant Termon Beg Copleys are the most plausible progenitors of our Catholic line via a conversion marriage.
 
 
 ## Phase 2G — Captain John Copley Research

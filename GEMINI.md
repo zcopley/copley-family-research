@@ -73,7 +73,7 @@ Tom and Steve Copley (G25) conducted research into the English/Irish origins of 
 
 **Primary source searches completed (April 18, 2026):**
 - Tithe Applotment Books (Roscommon): no Copley found — AI's Kilmacough/Kilgefin/1824 claim is 🚫 fabricated
-- Griffith's Valuation (Roscommon): 4 Copleys in Termonbeg, Kilkeevin Parish (Protestant), 1857: Bridget (tenant of Sandford), John (sub-tenant of Bridget), Richard (Sandford), Thomas (Sandford). No Catholic Copley in any Roscommon land record.
+- Griffith's Valuation (Roscommon): 4 Copleys in Termon Beg, Kilkeevin Parish (Protestant), 1857: Bridget (tenant of Sandford), John (sub-tenant of Bridget), Richard (Sandford), Thomas (Sandford). No Catholic Copley in any Roscommon land record.
 
 **PRIMARY BREAKTHROUGH (April 18, 2026):** Catholic Copely family confirmed in Fairymount, Kilgefin parish:
 - William Copely (b.~1794, d. Q4 1864, age 70), farmer — Catholic

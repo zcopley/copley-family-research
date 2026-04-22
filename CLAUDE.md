@@ -188,7 +188,7 @@ Tom Copley (G25) and Steve Copley (G25) conducted extensive research (Feb–Marc
 
 **Primary source searches completed (April 18, 2026):**
 - Tithe Applotment Books (all Roscommon): **no Copley found** — AI's Kilmacough/Kilgefin/1824 claim is 🚫 fabricated
-- Griffith's Valuation (all Roscommon): **4 Copleys found** — Bridget, John, Richard, Thomas — all in Termonbeg townland, Kilkeevin Parish (Protestant), tenants of Sandford estate, 1857. John is sub-tenant of Bridget (family relationship). No Catholic Copley found anywhere in Roscommon.
+- Griffith's Valuation (all Roscommon): **4 Copleys found** — Bridget, John, Richard, Thomas — all in Termon Beg townland, Kilkeevin Parish (Protestant), tenants of Sandford estate, 1857. John is sub-tenant of Bridget (family relationship). No Catholic Copley found anywhere in Roscommon.
 
 **PRIMARY BREAKTHROUGH (April 18, 2026):** A Catholic Copely family confirmed in **Fairymount, Kilgefin parish**:
 - **William Copely** (b.~1794, d. Q4 1864, age 70) — farmer, Fairymount — Catholic
