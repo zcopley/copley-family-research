@@ -51,6 +51,14 @@ Mary Copely was born in **1814**, the year after Michael Copley Sr. (b. ~1813). 
 
 **Research note:** The birth of Michael Giblin in County Roscommon in 1845 confirms that Mary and John remained in Ireland for several years after their 1831 marriage, emigrating to Iowa sometime after 1845. The name pattern (John, Thomas, Martin, Michael) in the children suggests strong Irish Catholic naming conventions and family continuity across the Atlantic.
 
+**Documented descendants (G27+):**
+- **[[People/Stephen Donald Copley|Stephen Donald Copley]]** (b. ~1880–1895) — likely son or grandson of one of Mary's children (John, Thomas, Martin, Michael, Mary, or Catharine); carries Copley surname
+  - **[[People/Fern Loretta Copley MayBee|Fern Loretta Copley MayBee]]** (b. 26 Dec 1913, Manila, Crawford County, Iowa; d. 27 Aug 1997) — great-great-granddaughter of Mary; documented through MayBee Society genealogy database
+    - Spouse: Edward Francis MayBee (b. 1900, d. 1982)
+    - Children: Richard Charles MayBee (b. 1934, d. 2004), Gerald E MayBee (b. 1935, d. 1996)
+
+This documented line extends Mary Copely Giblin's family tree into the 20th century and confirms the Iowa Copley branch's persistence and growth through multiple generations.
+
 ## Notable Life Events
 
 **Marriage (1831):**
