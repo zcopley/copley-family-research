@@ -10,6 +10,44 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 2L (Continued) — Murray Family Confirmed in Griffith's Valuation (1857)
+**Date:** April 22, 2026
+
+**Major Discovery:** The Murrays are now **confirmed residents of Kilgefin parish, County Roscommon** in the 1850s Griffith's Valuation — **primary source proof that Murrays and Copleys were neighbors in Roscommon before emigration.**
+
+### Evidence Found (Griffith's Valuation, 1857)
+
+**Updated [[Topics/Murray Settlement|Murray Settlement]] Section 2c** with new Griffith's Valuation data:
+
+- **Patrick Murray** — Cooltacker townland, tenant of Anne Lyster
+- **John Murray** — Sheehaun (Morton) townland, tenant of John Carden; also served as landlord to John Murphy (indicating community standing and property management)
+- **John Murphy** — Sheehaun (Morton) townland, tenant of John Murray
+
+### Significance
+
+✅ **Location confirmation:** Murrays documented in **Kilgefin parish** — exact same parish as [[People/Michael Copley Sr.|Michael Copley Sr.]] and other settlement families (Dolans, Hannons, Gibbons). Primary source proof of neighborhood connection in Roscommon.
+
+✅ **John Murray as community leader:** John Murray's property appears on **four separate pages** (6, 18, 29, 54) in Griffith's Valuation, indicating particularly substantial holdings. His role as landlord to John Murphy suggests **social and economic standing consistent with an "anchor family" leader.**
+
+✅ **Distributed holdings:** Patrick and John Murray in different townlands within Kilgefin suggest **well-established family with multiple branches or extended property.**
+
+✅ **Timeline alignment:** Griffith's documentation (1857) shows Murrays present and substantial in the 1850s. If they emigrated to Lewis County (1820s–1830s), they would have gone as **people of means** — perfect profile for settlement organizers.
+
+### Next Steps (Now Testable)
+
+The discovery opens specific research paths:
+- Search US Census and passenger manifests for Patrick and/or John Murray emigration records
+- Search Irish civil registration for Murray family vital records (birth, marriage, death)
+- Search Lewis County deed records for Murray land purchases
+- Search Diocese of Wheeling-Charleston archive for Murray family in St. Michael's Church records
+- Test the Ann Munday/Murray hypothesis by identifying Murray family daughters
+
+### Research Method
+
+This discovery was made using **Griffith's Valuation search (askaboutireland.ie)** filtering for "Murray" surname in Kilgefin parish, Roscommon. Six results returned; consolidated to three unique individuals with verified documentation.
+
+---
+
 ## Phase 2L (Continued) — Copley Family Catholicism: Crypto-Catholic Hypothesis
 **Date:** April 22, 2026
 

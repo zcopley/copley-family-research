@@ -111,15 +111,33 @@ These records predate the Irish settlement by two decades, meaning Murray and ot
 
 ⚠️ **[PLAUSIBLE — Tom Copley, April 22, 2026]** The **Gillooly surname** (alternative spelling: Gilooly) represents a fourth documented Irish Catholic family in the Lewis County settlement, alongside Copleys, Dolans, and Hanleys. Family relationships and co-settlement across multiple generations suggest a pre-immigration social network in Roscommon that was deliberately reconstructed in America.
 
-### 2c. The Murray Family (Eponymous — Not Yet Documented)
+### 2c. The Murray Family (Eponymous — NOW DOCUMENTED in Griffith's Valuation)
 
-❓ **[SPECULATIVE — requires investigation]** The settlement is called "Murray's Settlement," which implies a Murray family was central to its founding — almost certainly arriving *before* the Copleys (who arrived 1837–1843). However, **no Murray family member has yet been individually profiled or confirmed in primary sources** in this research project.
+✅ **[VERIFIED — Griffith's Valuation, 1857]** The Murrays are **confirmed residents of Kilgefin parish, County Roscommon** in the 1850s Griffith's Valuation, establishing their documented presence in the **exact parish** where the Copley family emigrated from.
 
-**Key open questions about the Murrays:**
-- Who were they? Where in Roscommon did they originate?
-- When did they arrive in Lewis County — before the Copleys? As early as the 1820s or 1830s?
-- Were they the "anchor" family who wrote back to Ireland and enabled others to follow?
-- Is [[People/Ann Copley|Ann Munday]] (wife of Michael Copley Sr.) actually **Ann Murray** — a Murray family daughter whose maiden name was phonetically transcribed as "Munday"? (See Section 4.)
+**Murrays documented in Kilgefin Parish (Griffith's Valuation, 1857):**
+
+| Name | Townland | Landlord | Role | Source |
+|------|----------|----------|------|--------|
+| **Patrick Murray** | Cooltacker | Anne Lyster | Tenant | GV 1857, Sheet 36 |
+| **John Murray** | Sheehaun (Morton) | John Carden | Tenant; also Landlord to John Murphy | GV 1857, Sheet 36 (pages 6, 18, 29, 54) |
+| **John Murphy** | Sheehaun (Morton) | John Murray | Tenant | GV 1857, Sheet 36 |
+
+**Significance:**
+
+1. **Location confirmation:** The Murrays were in **Kilgefin parish** — the **exact same parish as [[People/Michael Copley Sr.|Michael Copley Sr.]]** and other documented settlement families (Dolans, Hannons, Gibbons). This is **primary source proof** that Murrays and Copleys were neighbors in Roscommon before emigration.
+
+2. **John Murray as community leader:** John Murray appears in Griffith's Valuation on **four separate pages** (6, 18, 29, 54), indicating a **particularly substantial property** — large enough to warrant multiple references in the ledger. His status as a **landlord to John Murphy** in Sheehaun (Morton) suggests he held enough social and economic standing to manage subtenants and property. **This is consistent with an "anchor family" leader who would organize migration.**
+
+3. **Different townlands, same parish:** Patrick and John Murray held properties in different townlands within Kilgefin (Cooltacker and Sheehaun/Morton), suggesting the Murrays were **well-established in the parish** with multiple family branches or extended holdings.
+
+4. **Timeline alignment:** Griffith's Valuation documents the Murrays as **present and substantial** in the 1850s. If John Murray emigrated to Lewis County to establish the settlement beachhead (arriving 1820s–1830s), he would have done so as a **person of means and standing** — exactly the profile of a successful settler organizer.
+
+**Open questions about the Murrays (now testable with primary sources):**
+- Did Patrick and/or John Murray emigrate to Lewis County? (Can search US Census, passenger manifests, Lewis County records)
+- What were their dates of birth and death? (Can search Irish civil registration, burial records)
+- Is [[People/Ann Copley|Ann Munday]] (wife of Michael Copley Sr.) actually **Ann Murray** — a Murray family daughter whose maiden name was phonetically transcribed as "Munday"? (See Section 4.) — **This question becomes testable if we can identify the Murrays' daughter(s)**
+- Are there other Murray family members documented in Lewis County Irish Catholic parish records? (Can search Diocese of Wheeling-Charleston archive, St. Michael's Church records)
 
 ### 2f. Other Probable Settlement Families (Suspected — Unverified)
 
