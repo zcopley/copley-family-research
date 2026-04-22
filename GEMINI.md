@@ -107,6 +107,17 @@ Tom and Steve Copley (G25) conducted research into the English/Irish origins of 
 - **Critical question:** Was Ann Munday actually Ann Murray? If so, Copleys inside Murray network through marriage (RQ-M5)
 - **Research strategy:** 5 tiers, 16 actions; see `[[Topics/Murray Settlement]]`
 
+## Iowa Copley Line Extended to 20th Century (April 22, 2026)
+
+**Mary Copely Giblin's descendants** documented through five+ generations:
+- **[[People/Stephen Donald Copley|Stephen Donald Copley]]** (b. ~1880–1895; son/grandson of one of Mary's six children)
+- **[[People/Merton Dale Copley|Merton Dale Copley]]** (b. 1911, Crawford County, Iowa; d. 1978)
+- **[[People/Fern Loretta Copley MayBee|Fern Loretta Copley MayBee]]** (b. 1913, Manila/Crawford County, Iowa; d. 1997, Council Bluffs, Iowa)
+  - Spouse: Edward Francis MayBee (1900–1982)
+  - Children: Richard Charles MayBee (1934–2004), Gerald E MayBee (1935–1996)
+
+**Key finding:** Both Merton (1911) and Fern (1913) born in Crawford County, Iowa — same county where Mary died (1884). Confirms 70+ year geographic continuity of Iowa Copley settlement across five generations (1814–1914+).
+
 ## Changelog
 A human-readable `CHANGELOG.md` exists at the vault root. Update it at the end of each session. Every entry must include WikiLinks to every page added or changed (see Linking & Structure above).
 

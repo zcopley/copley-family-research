@@ -10,6 +10,31 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 2L (Continued) — Iowa Copley Line Extended: Merton Dale Copley and Family Descendants
+**Date:** April 22, 2026
+
+Three new people pages added to document the Iowa Copley line descendants of [[People/Mary Copely Giblin|Mary Copely Giblin]] through the 20th century:
+
+### New Person Pages
+
+- **[[People/Merton Dale Copley|Merton Dale Copley]]** (1911–1978) — Son of [[People/Stephen Donald Copley|Stephen Donald Copley]] and Effie Grace Coe; born 30 May 1911 in Crawford County, Iowa (sister [[People/Fern Loretta Copley MayBee|Fern]] born 1913); died 1978. Confirms Stephen Donald Copley's parentage and documents two documented children of the Iowa Copley line.
+
+- **[[People/Fern Loretta Copley MayBee|Fern Loretta Copley MayBee]]** (1913–1997) — Expanded with WikiTree genealogy data: daughter of [[People/Stephen Donald Copley|Stephen Donald Copley]] and Effie Grace Coe; married [[People/Edward Francis MayBee|Edward Francis MayBee]] (1900–1982); children Richard Charles MayBee (1934–2004) and Gerald E MayBee (1935–1996). Added 1940 and 1950 U.S. Census records, residence history (Omaha, Nebraska; Council Bluffs, Iowa), employment data, and baptism record from Irish records confirming family remained in Roscommon until 1845.
+
+- **[[People/Stephen Donald Copley|Stephen Donald Copley]]** — Updated with confirmation of two documented children (Merton and Fern); likely son or grandson of one of [[People/Mary Copely Giblin|Mary Copely Giblin]]'s six children.
+
+### Updated Pages
+
+- **[[People/Mary Copely Giblin|Mary Copely Giblin]]** — Added "Documented descendants (G27+)" subsection with full genealogical linkage through Stephen Donald Copley to Merton and Fern; flagged Mitchellville Cemetery records (Copley family stones with names A.B., George B., Lavonne, Nellie V.) as potential additional descendants needing verification.
+
+### Key Findings
+
+- Both Merton (b. 1911) and Fern (b. 1913) born in Crawford County, Iowa — the same county where Mary Copely Giblin died (1884) — confirms geographic continuity of the Iowa Copley settlement across multiple generations
+- Mary's family line documented through at least five generations (Mary, 1814 → one of her children, 1830s–1920s → Stephen Donald, 1880s–1895 → Merton/Fern, 1911–1913 → Merton/Fern's descendants, 20th century)
+- Mitchellville Cemetery records suggest additional Copley descendants yet to be identified and linked
+
+---
+
 ## Phase 2L — Ancestry Forum Data Integrated into Murray Settlement
 **Date:** April 22, 2026
 

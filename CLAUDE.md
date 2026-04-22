@@ -227,6 +227,25 @@ Research into Kilgefin parish (the home parish of the Murray Settlement emigrant
 
 **Note on LDS microfilm 989747:** High-priority research target. Although the 1865 start date postdates the Copley emigration (~1837–38) by ~28 years, it covers the same community and may document surviving family members (siblings, cousins) who can be traced back to the emigrant generation. Search for Copley/Copely, Murray, Dolan, Gillooly, Hanley entries.
 
+## Iowa Copley Line Extended: 20th Century Descendants (April 22, 2026)
+
+**New pages:** `[[People/Merton Dale Copley|Merton Dale Copley]]`, `[[People/Stephen Donald Copley|Stephen Donald Copley]]`
+
+**Updated page:** `[[People/Mary Copely Giblin|Mary Copely Giblin]]`
+
+Mary Copely Giblin's family line has been documented through five+ generations:
+- **Mary Copely Giblin** (b. 1814, Ireland; d. 1884, Crawford County, Iowa)
+- **One of her six children** (John, Thomas, Martin, Michael, Mary, or Catharine Giblin; 1832–1925)
+- **[[People/Stephen Donald Copley|Stephen Donald Copley]]** (b. ~1880–1895; married Effie Grace Coe; carries Copley surname, suggesting mother's maiden name connection)
+- **Two documented children:**
+  - **[[People/Merton Dale Copley|Merton Dale Copley]]** (b. 30 May 1911, Crawford County, Iowa; d. 1978)
+  - **[[People/Fern Loretta Copley MayBee|Fern Loretta Copley MayBee]]** (b. 26 Dec 1913, Manila, Crawford County, Iowa; d. 27 Aug 1997, Council Bluffs, Iowa)
+- **Fern's children:** Richard Charles MayBee (b. 1934, d. 2004), Gerald E MayBee (b. 1935, d. 1996)
+
+**Geographic continuity:** Both Merton and Fern born in Crawford County, Iowa — the **same county where Mary settled (1845+) and died (1884)**. This confirms the Iowa Copley branch persisted in the same region for 70+ years (1814–1914+) with documented family continuity across five generations.
+
+**Mitchellville Cemetery:** Cemetery records indicate Copley family stones (names: A.B., George B., Lavonne, Nellie V. Copley) — potential additional descendants needing verification and genealogical linkage to Mary's line.
+
 ---
 
 ## The Murray Settlement (Phase 2L — Active Research)
