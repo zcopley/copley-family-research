@@ -302,7 +302,9 @@ The *Mettallum Martis* reference is the single strongest verified link. Tom has 
 
 If a Copley family was in Kilgefin in the early 19th century (Michael's generation), they may appear in Catholic parish registers.
 
-- **Action:** Search Kilgefin Catholic baptism/marriage registers (1865–1881 per DustyDocs) at: https://www.irishgenealogy.ie/
+- **Action:** Search Kilgefin Catholic baptism/marriage registers (1865–1881) at: https://www.irishgenealogy.ie/
+   - **Key finding (Ancestry.com forum, "Hanley," 2004):** The Catholic parish for Kilgefin is formally named **Ballagh (aka Kilgefin)**; the church is in **Ballagh townland**, which adjoins the SE border of Ballincurry townland. The graveyard for Kilgefin Civil Parish is in **Cartron (Old Glebe)** townland, ~1 mile NW of Ballincurry and ~2 miles north of Kilroosky.
+   - **🔑 LDS microfilm 989747** — Catholic parochial records for Cloontuskert, Kilgefin, and Curraghroe, 1865–1881 (FamilySearch / Family History Library). High-priority resource for Kilgefin Catholic records.
 - **Action:** Check the NLI microfilms for Kilgefin/Clontuskert (earlier records): https://registers.nli.ie/
 - **Note:** Earlier Catholic registers for this period are sparse due to Penal Laws destruction, but fragmentary records may survive
 - **Search terms:** "Copley," "Munday," "Dolan" — and their households in adjacent townlands

@@ -10,6 +10,42 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 2L — Ancestry Forum Data Integrated into Murray Settlement
+**Date:** April 22, 2026
+
+Ancestry.com community forum posts (authors unknown) provided significant new detail about the Murray Settlement and Kilgefin parish, which has been integrated into [[Topics/Murray Settlement|Murray Settlement]] and [[Topics/Captain John Copley Research|Captain John Copley Research]]. All forum-sourced material is labeled ⚠️ pending primary source verification.
+
+### Murray Settlement — New Physical and Historical Context (Section 2)
+
+New Section 2 ("The Settlement: Physical Context and Religious Infrastructure") added to [[Topics/Murray Settlement|Murray Settlement]]:
+
+- **St. Michael's Church** — The "Little Cathedral of the Wilderness" is formally named **St. Michael's Church**, a simple white-painted frame structure near the Loveberry-Cove Lick-Camden area of southwestern Lewis County. This is the specific Catholic church of the Murray Settlement community.
+- **1849 land donation** — 100 acres donated to the **Roman Catholic Diocese of Richmond** for the local Catholic population, covering Loveberry, Cove Lick, and Camden. Target: Diocese of Wheeling-Charleston archive (the successor diocese).
+- **Bishop Richard Vincent Whelan** — Named bishop of the Diocese of Richmond (and later Wheeling, est. 1850) during the 1840s, directly overseeing the parish infrastructure establishment.
+- **Staunton-Parkersburg Turnpike** — Replaces the B&O Railroad as the primary identified labor draw into Lewis County. Irish immigrants arrived to build the turnpike in the 1830s, settled during construction, and established permanent community by the early 1840s. Updates the prior hypothesis in [[Topics/B&O Railroad Labor History|B&O Railroad Labor History]].
+- **Settlement cluster confirmed** — Camden, Cove Lick, and Loveberry in southwestern Lewis County — perfectly aligned with the Copleys' Hoffman deed tract location.
+- **Lewis County records** — Land deeds from 1817, marriage records from 1816, at Lewis County Clerk's Office (Weston, WV) and Lewis County WVGenWeb.
+
+### Captain John Copley Research — Kilgefin Parish Details (Section 13)
+
+Key new details added to [[Topics/Captain John Copley Research|Captain John Copley Research]] Section 13 (The Catholic Copely Branch in Kilgefin):
+
+- **Catholic parish name:** Kilgefin parish is formally called **Ballagh (aka Kilgefin)**; the church is in **Ballagh townland**, adjoining the SE border of Ballincurry
+- **Graveyard location:** Kilgefin Civil Parish graveyard is in **Cartron (Old Glebe)** townland, ~1 mile NW of Ballincurry and ~2 miles north of Kilroosky
+- **🔑 LDS microfilm 989747** — Catholic parochial records for Cloontuskert, Kilgefin, and Curraghroe, **1865–1881** (FamilySearch / Family History Library). Now flagged as a high-priority research target for finding Kilgefin Catholic parish records.
+
+*(Source: Ancestry.com forum respondent "Hanley," replying to James Regan, July 1, 2004.)*
+
+### Research Strategy Updated (Section 7)
+
+[[Topics/Murray Settlement|Murray Settlement]] Section 7 (Research Strategy) expanded with:
+- Tier 1 Action 3: Diocese of Wheeling-Charleston archive as primary source for St. Michael's Church records and 1849 land donation
+- Tier 1 Action 4 (new): Staunton-Parkersburg Turnpike contractor/payroll records (WV State Archives)
+- Tier 3 Action 9: LDS microfilm 989747 and Kilgefin parish/graveyard details added
+- Quick-Start table: Two new actions added (LDS microfilm 989747; diocesan archive inquiry)
+
+---
+
 ## Phase 2K — Murray Settlement Research Page Created
 **Date:** April 22, 2026
 

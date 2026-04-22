@@ -38,7 +38,41 @@ The settlement's name — **Murray's Settlement** — implies that a Murray fami
 
 ---
 
-## 2. What We Know: The Documented Settlement Families
+## 2. The Settlement: Physical Context and Religious Infrastructure
+
+> **Source note:** The following is drawn from anonymous posts on Ancestry.com community forums (date unknown). The information is internally consistent and specific enough to be plausible, but should be verified against primary sources before being treated as established fact. Individual claims are labeled accordingly.
+
+⚠️ **[PLAUSIBLE — Ancestry.com forum, author unknown]** The Murray Settlement was located in the **southwestern part of Lewis County**, in the vicinity of **Camden, Cove Lick, and Loveberry** — the same Cove Lick area where [[People/Michael Copley Sr.|Michael Copley Sr.]] and [[People/Patrick Copley|Patrick Copley]] purchased their 200-acre tract from [[People/Weeden Hoffman|Weeden Hoffman]] in 1843. This geographic alignment between the Copley land purchase and the reported settlement boundaries is a strong confirmation that the Copleys were core members of the Murray Settlement community.
+
+### 2a. The "Little Cathedral of the Wilderness" — St. Michael's Church
+
+⚠️ **[PLAUSIBLE — Ancestry.com forum, author unknown; verify against diocesan records]** The settlement's Catholic church was a simple white-painted frame structure known locally as the **"Little Cathedral of the Wilderness."** Its formal name was **St. Michael's Church**, and it was located near the Loveberry-Cove Lick-Camden area of southwestern Lewis County.
+
+⚠️ **[PLAUSIBLE — Ancestry.com forum, author unknown]** In **1849**, **100 acres of land were donated to the Roman Catholic Diocese of Richmond** to serve the growing Irish Catholic population of the settlement and surrounding areas, including Loveberry, Cove Lick, and Camden. This date — six years after the Copley land purchase — suggests the community had grown sufficiently by 1849 to warrant a formal diocesan land grant.
+
+⚠️ **[PLAUSIBLE — Ancestry.com forum, author unknown; verifiable against published diocesan history]** The settlement's religious development is tied to **Bishop Richard Vincent Whelan**, who led the **Roman Catholic Diocese of Richmond** (and later the Diocese of Wheeling, established 1850) in the 1840s. Bishop Whelan's era directly overlaps with the Irish settlement's formation, suggesting he may have been directly involved in establishing the parish infrastructure at St. Michael's.
+
+**Research note:** The Diocese of Wheeling-Charleston archive (Charleston, WV) should hold records of the 1849 land donation and the early history of St. Michael's Church. This is a high-priority primary source target.
+
+### 2b. The Labor Driver: The Staunton-Parkersburg Turnpike
+
+⚠️ **[PLAUSIBLE — Ancestry.com forum, author unknown; verifiable against state road records]** The Irish immigrants who formed the Murray Settlement were initially drawn to southwestern Lewis County by **construction work on the Staunton and Parkersburg Turnpike** — a major road project running through the region. This adds an important nuance to the B&O Railroad labor hypothesis previously held: while the B&O corridor brought immigrants from the Atlantic coast into the Appalachian interior generally, the *specific* labor draw into Lewis County may have been **turnpike construction**, not railroad work.
+
+⚠️ **[PLAUSIBLE]** The sequence implied: Irish laborers arrive to build the turnpike in the 1830s → they settle in the area during construction → they purchase land and establish permanent community by the early 1840s → the church infrastructure follows by 1849. This is a classic Irish immigrant settlement pattern in Appalachian America.
+
+**Update to prior hypothesis:** The earlier wiki framing described Michael and Patrick Copley's pre-1843 period as likely B&O Railroad labor (see [[Topics/B&O Railroad Labor History|B&O Railroad Labor History]]). The turnpike information does not necessarily contradict this — immigrants often worked multiple labor projects — but the Staunton-Parkersburg Turnpike is now the more specific and better-evidenced explanation for *why Lewis County specifically* became the destination.
+
+### 2c. Lewis County Record Access
+
+✅ **[VERIFIED — public records]** Lewis County records relevant to the settlement are held at the **Lewis County Clerk's Office** (Weston, WV) and are indexed through the **Lewis County WVGenWeb**:
+- **Land deeds:** Available from **1817**
+- **Marriage records:** Available from **1816**
+
+These records predate the Irish settlement by two decades, meaning Murray and other early settler family purchases should be fully documented in the deed record.
+
+---
+
+## 3. What We Know: The Documented Settlement Families
 
 ### 2a. The Copley Family (Verified Arrival)
 
@@ -86,7 +120,7 @@ The settlement's name — **Murray's Settlement** — implies that a Murray fami
 
 ---
 
-## 3. The Central Hypothesis: A Coordinated Community Transplant
+## 4. The Central Hypothesis: A Coordinated Community Transplant
 
 Tom Copley's core thesis is that the Murray Settlement was not a random accumulation of individual immigrants but a **deliberate, coordinated community relocation** — analogous to a social movement — in which:
 
@@ -104,7 +138,7 @@ Tom Copley's core thesis is that the Murray Settlement was not a random accumula
 
 ---
 
-## 4. The Ann Munday / Murray Question (RQ-16)
+## 5. The Ann Munday / Murray Question (RQ-16)
 
 This is the single most leveraged open question in the entire Murray Settlement investigation.
 
@@ -123,7 +157,7 @@ This is the single most leveraged open question in the entire Murray Settlement 
 
 ---
 
-## 5. Geographic Context: Roscommon Origins of the Settlement Families
+## 6. Geographic Context: Roscommon Origins of the Settlement Families
 
 The following Roscommon townlands and parishes are documented in relation to the emigrant families:
 
@@ -142,7 +176,7 @@ The following Roscommon townlands and parishes are documented in relation to the
 
 ---
 
-## 6. Research Strategy and Priorities
+## 7. Research Strategy and Priorities
 
 ### Tier 1 — Anchor the Murrays (Start Here)
 
@@ -152,9 +186,13 @@ The following Roscommon townlands and parishes are documented in relation to the
 
 2. **US Census 1840, 1850, 1860** — FAN-club method: extract every Irish-origin surname within the same township as the Copley parcels (Cove Lick/Copley Road area). This will enumerate the full settlement membership. The **1840 census is critical** — it catches Michael Sr. at his earliest possible moment in Lewis County.
 
-3. **Catholic parish records** — St. Patrick's / St. Bernard's, Weston, WV (Diocese of Wheeling-Charleston archive). Marriage, baptism, and death records: who appears as witnesses, godparents, and co-signers alongside the Copleys? Shared witnesses = confirmed social network. Also search Pittsburgh and Steubenville mission records (which covered pre-statehood WV).
+3. **Catholic parish records — St. Michael's Church and successors** — St. Michael's Church (the "Little Cathedral of the Wilderness") was the specific Murray Settlement parish. Marriage, baptism, and death records: who appears as witnesses, godparents, and co-signers alongside the Copleys? Shared witnesses = confirmed social network.
+   - Records likely held at the **Diocese of Wheeling-Charleston archive** (Charleston, WV) — also search Pittsburgh and Steubenville mission records (which covered pre-statehood WV)
+   - The **1849 land donation** to the Diocese of Richmond is a specific primary source target: diocesan land records from Bishop Richard Vincent Whelan's tenure (1840s)
 
-4. **Lewis County local histories** — The *History of Lewis County, West Virginia* (1881, and later editions) may contain first-person accounts of the Irish Settlement's founding. Archive.org and HathiTrust have many 19th-century county histories digitized. This is the fastest possible route to the origin story in the settlers' own words.
+4. **Staunton-Parkersburg Turnpike records** — The Ancestry forum material identifies turnpike construction (not B&O Railroad labor) as the specific draw into Lewis County. Search West Virginia State Archives for contractor or payroll records from the Staunton-Parkersburg Turnpike project in the 1830s. Irish names on a Lewis County turnpike crew = direct evidence of the labor-to-settlement pipeline.
+
+5. **Lewis County local histories** — The *History of Lewis County, West Virginia* (1881, and later editions) may contain first-person accounts of the Irish Settlement's founding. Archive.org and HathiTrust have many 19th-century county histories digitized. This is the fastest possible route to the origin story in the settlers' own words.
 
 ### Tier 2 — Work the Ships
 
@@ -173,6 +211,8 @@ The following Roscommon townlands and parishes are documented in relation to the
 8. **Griffith's Valuation — Murray, Dolan, Mullooly, Hannon searches in Roscommon** — We've already searched for Copley/Copely. Now run the same search on every other settlement family name in the Kilgefin / Kilcorkey / Kilkeevin area (askaboutireland.ie). If these surnames cluster in the same Roscommon townlands as the Copleys, the neighborhood-transplant hypothesis is confirmed.
 
 9. **Kilgefin, Kilcorkey, and Kilkeevin parish registers** — Search Catholic baptism/marriage records at NLI (registers.nli.ie) and irishgenealogy.ie for Murray and Copely appearing together. Shared witnesses or godparents in Ireland = confirmed pre-migration social bond.
+   - **Key research note (Ancestry.com forum, author unknown):** The Catholic parish for Ballincurry and Kilroosky townlands (both in Kilgefin) is **Ballagh (also known as Kilgefin)**; the church is in **Ballagh townland** (adjoining Ballincurry on the SE border). The graveyard for Kilgefin Civil Parish is in the townland of **Cartron (also called Old Glebe)**, approximately 1 mile NW of Ballincurry and 2 miles north of Kilroosky.
+   - **🔑 High-priority microfilm:** Catholic parochial records for **Cloontuskert, Kilgefin, and Curraghroe, 1865–1881**, are on **LDS microfilm 989747** (FamilySearch / Family History Library). This is the most direct access point for Kilgefin Catholic parish records in the emigration era's aftermath — though the 1865 start date means it postdates the Copley emigration (~1837–38) by ~28 years, it covers the same community and may document surviving family members who can be worked back to the emigrant generation.
 
 10. **What was the push factor?** — Was there a specific landlord event (Sandford estate evictions, estate consolidation) or an anti-tithe confrontation in the 1830s that triggered the collective move? Check:
     - Roscommon Journal newspaper archives (Irish Newspaper Archives, irishnewsarchive.com)
@@ -200,7 +240,7 @@ The following Roscommon townlands and parishes are documented in relation to the
 
 ---
 
-## 7. Formal Research Questions
+## 8. Formal Research Questions
 
 | ID | Question | Priority | Where to Look |
 |----|----------|----------|---------------|
@@ -215,7 +255,7 @@ The following Roscommon townlands and parishes are documented in relation to the
 
 ---
 
-## 8. Quick-Start Research Actions
+## 9. Quick-Start Research Actions
 
 The following can be done immediately with free online resources:
 
@@ -226,10 +266,12 @@ The following can be done immediately with free online resources:
 | Search 1840 and 1850 Lewis County WV census for Murray surname near Copley parcels | FamilySearch | 1 hr |
 | Search Archive.org / HathiTrust for "History of Lewis County West Virginia 1881" | archive.org | 30 min |
 | Search irishgenealogy.ie for "Murray" in County Roscommon | irishgenealogy.ie | 30 min |
+| Request LDS microfilm 989747 (Kilgefin/Cloontuskert/Curraghroe Catholic records, 1865–1881) | FamilySearch Family History Library | — |
+| Search Diocese of Wheeling-Charleston archive for St. Michael's Church / 1849 land donation | Diocese of Wheeling-Charleston (Charleston, WV) | — |
 
 ---
 
-## 9. Related Pages
+## 10. Related Pages
 
 - [[People/Michael Copley Sr.|Michael Copley Sr.]] — primary Copley emigrant; arrived Lewis County 1838–1843
 - [[People/Patrick Copley|Patrick Copley]] — co-emigrant on *Powhatan*; co-purchaser of 1843 Hoffman deed
@@ -244,7 +286,7 @@ The following can be done immediately with free online resources:
 
 ---
 
-## 10. Sources
+## 11. Sources
 
 1. ✅ *Powhatan* passenger manifest, August 20, 1838 — "Michael Copely" (22) and "Pat Copely" (20). FamilySearch / NARA.
 2. ✅ 1843 Hoffman deed — Lewis County Courthouse, Weston, WV. Michael and Patrick Copley purchase 200-acre tract from Weeden Hoffman.
@@ -253,3 +295,5 @@ The following can be done immediately with free online resources:
 5. ✅ Find a Grave Memorial #8468680 — [[People/Mary Copely Giblin|Mary Copely Giblin]] (1814–1884), Saint Ann's Cemetery, Vail, Crawford County, Iowa.
 6. ⚠️ Family biographical appendices (PDF) — Copley family narrative; Ann Copley profile; Munday maiden name tradition.
 7. ⚠️ Tom Copley, April 2026 — coordination hypothesis; Ann Munday / Murray phonetic speculation; Murray anchor family thesis.
+8. ⚠️ Ancestry.com community forum posts, author(s) unknown, date unknown — Murray Settlement overview; St. Michael's Church ("Little Cathedral of the Wilderness"); 100-acre land donation 1849 to Diocese of Richmond; Bishop Richard Vincent Whelan; Staunton-Parkersburg Turnpike as labor driver; Camden/Cove Lick/Loveberry settlement cluster; Lewis County deed and marriage record dates. **These claims are plausible and internally consistent but require verification against primary sources (diocesan records, Lewis County deeds, WV state road records).**
+9. ⚠️ Ancestry.com forum post, respondent identified as "Hanley" (surname), replying to James Regan, July 1, 2004 — Kilgefin Civil Parish graveyard located in Cartron (Old Glebe) townland; Catholic parish name is Ballagh (aka Kilgefin); church in Ballagh townland; LDS microfilm 989747 for Cloontuskert/Kilgefin/Curraghroe Catholic records 1865–1881. **Specific enough to verify directly; LDS microfilm number is a high-priority research lead.**
