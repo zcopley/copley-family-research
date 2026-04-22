@@ -84,6 +84,29 @@ Tom and Steve Copley (G25) conducted research into the English/Irish origins of 
 
 **New top priority:** Establish relationship between William Copely of Fairymount and Michael Copley Sr. of Lewis County WV.
 
+## Iowa Copley Family Connection (Phase 2L — April 2026)
+
+**Mary Copely Giblin** (1814–1884), born Tully, Kilcorkey, County Roscommon; died Crawford County, Iowa. Very likely Michael Copley Sr.'s sister. Zach Copley (G26) relocated to Iowa in 2025; an ancestral line is now documented there.
+
+## Kilgefin Parish Details (Phase 2L — April 2026)
+
+- **Formal name:** "Ballagh (aka Kilgefin)"
+- **Church:** Ballagh townland, SE border of Ballincurry
+- **Graveyard:** Cartron (Old Glebe) townland, ~1 mile NW of Ballincurry
+- **LDS microfilm 989747:** Catholic parochial records, Cloontuskert/Kilgefin/Curraghroe, 1865–1881 (high-priority research target at FamilySearch)
+
+## The Murray Settlement (Phase 2L — Active)
+
+**Tom Copley's thesis:** The Irish Settlement in Lewis County, WV was a **coordinated community transplant** from Kilgefin, County Roscommon — not random individual migration.
+
+**Key facts:**
+- St. Michael's Church ("Little Cathedral of the Wilderness"), Cove Lick area, southwestern Lewis County
+- 1849: 100 acres donated to Diocese of Richmond; Bishop Richard Vincent Whelan
+- Labor driver: Staunton-Parkersburg Turnpike construction
+- **Documented families:** Copleys (Michael Sr. + Patrick, likely among earliest arrivals), Dolans (Mullooly), Murrays (anchor family), **Hanleys (Bridget Copley married Hanley)**, **Giloolys**
+- **Critical question:** Was Ann Munday actually Ann Murray? If so, Copleys inside Murray network through marriage (RQ-M5)
+- **Research strategy:** 5 tiers, 16 actions; see `[[Topics/Murray Settlement]]`
+
 ## Changelog
 A human-readable `CHANGELOG.md` exists at the vault root. Update it at the end of each session. Every entry must include WikiLinks to every page added or changed (see Linking & Structure above).
 
@@ -91,4 +114,4 @@ A human-readable `CHANGELOG.md` exists at the vault root. Update it at the end o
 A `README.md` exists at the repo root for GitHub visitors. It covers the live site URL, directory structure, tech stack, local dev instructions, and deployment. Update it if the tech stack or repo structure changes significantly.
 
 ## Last Known Handoff
-Refer to `AGENT_HANDOFF_PHASE_2H.md` for the latest session summary.
+Refer to `AGENT_HANDOFF_PHASE_2L.md` for the latest session summary (Phases 2J–2L: Tom's corrections, Iowa discovery, Murray Settlement research page, Ancestry forum integration).

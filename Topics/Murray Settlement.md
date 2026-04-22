@@ -80,6 +80,8 @@ These records predate the Irish settlement by two decades, meaning Murray and ot
 
 ✅ **[VERIFIED — 1843 Hoffman deed]** [[People/Michael Copley Sr.|Michael Copley Sr.]] and [[People/Patrick Copley|Patrick Copley]] purchased a 200-acre tract from [[People/Weeden Hoffman|Weeden Hoffman]] in 1843, establishing the family's permanent Lewis County settlement at Cove Lick/Copley Road near [[Places/Weston West Virginia|Weston]].
 
+⚠️ **[PLAUSIBLE — Tom Copley, April 22, 2026]** Michael Copley Sr. and Patrick Copley were **probably among the earliest Roscommon emigrants to arrive in Lewis County** — a finding that reinforces the anchor-settler interpretation. Rather than opportunistic latecomers following the Murray trail, they may have been part of the initial beachhead settlement itself, or arrived early enough to establish themselves as core community members before the main wave.
+
 ⚠️ **[PLAUSIBLE]** Before the 1843 land purchase, Michael and Patrick likely spent 1838–1843 as B&O Railroad laborers along the Potomac corridor — a common pathway for Irish immigrants moving from Atlantic ports into the Appalachian interior. See [[Topics/B&O Railroad Labor History|B&O Railroad Labor History]].
 
 ✅ **[VERIFIED — brig *Kutusoff*, 1837]** A possible earlier sibling arrival on the *Kutusoff* (1837) is recorded, suggesting Copley family emigration was **staggered over at least two years** — consistent with chain migration rather than a single organized group departure.
@@ -87,7 +89,7 @@ These records predate the Irish settlement by two decades, meaning Murray and ot
 **Known Copley siblings who settled in the area:**
 - [[People/Michael Copley Sr.|Michael Copley Sr.]] (b. ~1813) — confirmed Lewis County
 - [[People/Patrick Copley|Patrick Copley]] (b. ~1818) — confirmed Lewis County; disappeared from records after 1843
-- [[People/Bridget Copley Reynolds|Bridget Copley Reynolds]] — believed to be a sibling; Lewis County; husband's first name unknown
+- [[People/Bridget Copley|Bridget Copley]] (Michael Sr.'s sister, probable *Kutusoff* 1837 passenger) — **married a Hanley**; family name connection to Kilgefin (2004 Ancestry forum poster "Hanley" described Kilgefin parish); integration into settlement network
 - [[People/Catherine Kitty Copley Hannon|Catherine "Kitty" Copley Hannon]] — believed to be a sibling; Lewis County
 - [[People/William Copley|William Copley]] — family tradition says he "went to Australia" (Research Question Q6 — unconfirmed; see also [[People/Mary Copely Giblin|Mary Copely Giblin]] for possible alternative)
 
@@ -99,6 +101,16 @@ These records predate the Irish settlement by two decades, meaning Murray and ot
 
 ❓ **[SPECULATIVE]** Tom Copley's working hypothesis: the Copley family's conversion from Protestant to Catholic was enabled by the **Copley-Dolan marriage** — that is, the Lewis County Dolans (Catholic, Roscommon origin) were the mechanism by which a Protestant Copley line became Catholic. This would mean the Dolans were not merely neighbors in Lewis County but were already socially connected to the Copleys through the Roscommon community network.
 
+### 2d. The Hanley Family (New Settlement Connection)
+
+⚠️ **[PLAUSIBLE — Tom Copley, April 22, 2026]** **Bridget Copley (Michael Sr.'s sister) married a Hanley.** The Hanley surname already appears in our research as a Kilgefin parish connection (an anonymous 2004 Ancestry.com forum poster with the surname "Hanley" provided detailed descriptions of Kilgefin parish geography and Catholic parochial records). This connection suggests the **Hanleys were part of the same Kilgefin social network** that produced the Copley and Dolan families — and were part of the transplanted settlement community in Lewis County. The Hanley-Copley marriage (through Bridget) represents another Roscommon social tie reproduced in America.
+
+### 2e. The Gillooly Family (Confirmed Settlement Connection)
+
+✅ **[VERIFIED]** **Bridget "Bitty" Copley Gillooly** — daughter of [[People/Michael Copley Sr.|Michael Copley Sr.]] and [[People/Ann Copley|Ann Munday]] — married into the **Gillooly family**, another part of the settlement community. The Gillooly connection is documented in Lewis County records and confirms this as an integrated settlement family.
+
+⚠️ **[PLAUSIBLE — Tom Copley, April 22, 2026]** The **Gillooly surname** (alternative spelling: Gilooly) represents a fourth documented Irish Catholic family in the Lewis County settlement, alongside Copleys, Dolans, and Hanleys. Family relationships and co-settlement across multiple generations suggest a pre-immigration social network in Roscommon that was deliberately reconstructed in America.
+
 ### 2c. The Murray Family (Eponymous — Not Yet Documented)
 
 ❓ **[SPECULATIVE — requires investigation]** The settlement is called "Murray's Settlement," which implies a Murray family was central to its founding — almost certainly arriving *before* the Copleys (who arrived 1837–1843). However, **no Murray family member has yet been individually profiled or confirmed in primary sources** in this research project.
@@ -109,7 +121,7 @@ These records predate the Irish settlement by two decades, meaning Murray and ot
 - Were they the "anchor" family who wrote back to Ireland and enabled others to follow?
 - Is [[People/Ann Copley|Ann Munday]] (wife of Michael Copley Sr.) actually **Ann Murray** — a Murray family daughter whose maiden name was phonetically transcribed as "Munday"? (See Section 4.)
 
-### 2d. Other Probable Settlement Families (Suspected — Unverified)
+### 2f. Other Probable Settlement Families (Suspected — Unverified)
 
 ❓ The following surnames appear in Lewis County Irish-immigrant context in family materials or period records but have not yet been individually profiled:
 - **Mulrooneys** — mentioned in family materials as part of the settlement community
@@ -117,6 +129,7 @@ These records predate the Irish settlement by two decades, meaning Murray and ot
 - **Hannons** — connected through Catherine "Kitty" Copley Hannon
 - **Reynolds** — connected through Bridget Copley Reynolds
 - **Gibbons** — Bridget Gibbons (Ballincurry, Kilgefin) married Michael Copely of Fairymount in 1864 (the remaining Roscommon branch); possible relative connection
+- **Murrays** — the eponymous anchor family; no individual members yet documented (Section 3c)
 
 ---
 

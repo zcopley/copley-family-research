@@ -201,6 +201,67 @@ Tom Copley (G25) and Steve Copley (G25) conducted extensive research (Feb–Marc
 
 ---
 
+## Iowa Copley Family Connection (Phase 2L — April 2026)
+
+**New person page:** `[[People/Mary Copely Giblin|Mary Copely Giblin]]`
+
+- **Born:** 1814, Tully townland, Kilcorkey Civil Parish, County Roscommon
+- **Death:** 27 October 1884 (age 69–70), Westside, Crawford County, Iowa
+- **Burial:** Saint Ann's Cemetery, Vail, Crawford County, Iowa
+- **Assessment:** Very likely **Michael Copley Sr.'s sister** — born one year after him (c.1813), same "Copely" spelling, same Roscommon parish cluster, same emigration era (1830s–1840s)
+- **Personal significance:** Zach Copley (G26) relocated to Iowa in 2025 with his family; his wife's family is from Iowa. An ancestral line is now documented in the same state.
+- **Implication:** The Roscommon Copely cluster dispersed to **multiple American destinations** (WV and Iowa), not just Lewis County — suggests organized chain migration network with branches in different regions
+
+---
+
+## Kilgefin Parish Details (Phase 2L — April 2026)
+
+Research into Kilgefin parish (the home parish of the Murray Settlement emigrants) has yielded:
+
+| Fact | Detail | Source |
+|---|---|---|
+| **Parish formal name** | "Ballagh (aka Kilgefin)" | Ancestry forum, "Hanley," 2004 |
+| **Church location** | Ballagh townland, adjoining SE border of Ballincurry | Ancestry forum, "Hanley," 2004 |
+| **Graveyard** | Cartron (Old Glebe) townland, ~1 mile NW of Ballincurry, ~2 miles N of Kilroosky | Ancestry forum, "Hanley," 2004 |
+| **LDS microfilm 989747** | Catholic parochial records: Cloontuskert/Kilgefin/Curraghroe, **1865–1881** | FamilySearch / Family History Library |
+
+**Note on LDS microfilm 989747:** High-priority research target. Although the 1865 start date postdates the Copley emigration (~1837–38) by ~28 years, it covers the same community and may document surviving family members (siblings, cousins) who can be traced back to the emigrant generation. Search for Copley/Copely, Murray, Dolan, Gillooly, Hanley entries.
+
+---
+
+## The Murray Settlement (Phase 2L — Active Research)
+
+Tom Copley's hypothesis: the Murray/Irish Settlement in Lewis County, WV was not a random cluster of individual immigrants but a **coordinated community transplant** — a Roscommon neighborhood (centered on Kilgefin parish) that organized itself to relocate collectively and reconstitute its social world in America.
+
+### Physical and Organizational Context
+
+| Fact | Detail | Verification Target |
+|---|---|---|
+| **Church name** | St. Michael's Church ("Little Cathedral of the Wilderness"), Cove Lick area | Diocese of Wheeling-Charleston archive |
+| **1849 land donation** | 100 acres donated to Roman Catholic Diocese of Richmond | Diocesan land records |
+| **Bishop** | Richard Vincent Whelan, Diocese of Richmond (later Wheeling, est. 1850) | Published diocesan history |
+| **Labor driver** | Staunton-Parkersburg Turnpike construction (not B&O Railroad) | WV State Archives; road contractor records |
+| **Settlement cluster** | Southwestern Lewis County: Camden, Cove Lick, Loveberry | Matches Copley Hoffman deed location |
+
+### Documented Settlement Families
+
+- **Copleys** — Michael Sr. + Patrick; **likely among the earliest Roscommon arrivals** (arrived ~1837–38); brig *Kutusoff* 1837, ship *Powhatan* Aug 20 1838
+- **Dolans** — Elizabeth Mullooly Dolan (b. May 1829, County Roscommon); married Michael Patrick Dolan (b. 1824, Cork)
+- **Murrays** — Eponymous settlement family; **central research target**; no individual arrivals yet documented
+- **Hanleys** — **Bridget Copley (Michael Sr.'s sister) married a Hanley**; Hanley family name appears in Ancestry forum (2004 poster "Hanley" described Kilgefin parish); integration into settlement social network
+- **Giloolys** — Connected settlement family; **Bridget "Bitty" Copley Gillooly** (Ann's daughter) married into this family; also documented in Lewis County records
+- **Mulrooneys, Mahons, Reynolds** — Other suspected settlement families, not yet individually profiled
+
+### Ann Munday / Murray Question (RQ-M5)
+
+Tom Copley notes "Munday" and "Murray" are phonetically similar. If Ann's surname is a transcription of "Murray," it would place Michael Copley Sr. **inside the Murray family network through marriage** — not merely as a neighbor. This is the single most leveraged open question in the Murray Settlement investigation and directly tests whether Michael Sr. arrived as part of the Murray anchor-family chain or independently.
+
+### Research Focus
+
+Full research page with 8 formal research questions (RQ-M1 through RQ-M8), 5-tier strategy, and 16 specific actions: see `[[Topics/Murray Settlement|Murray Settlement]]`.
+
+---
+
 ## Build & Deploy
 
 ```bash
@@ -231,6 +292,9 @@ See `Phase 1 Questions and Answers.md` for the full list. Key unresolved questio
 | Q28 | John Copley's Civil War service | No conclusive proof |
 | Q33–35 | Living family biographical sketches | Incomplete (Stephen line) |
 | Q45 | Nelle's birth year (1896 vs 1897) | Working conclusion: 1897 |
+| RQ-M5 | Was Ann Munday actually Ann Murray? | Critical — impacts understanding of Copley role in settlement |
+| RQ-M1–M8 | Murray Settlement research questions | 8 formal questions; see `[[Topics/Murray Settlement]]` |
+| Murray ID | Who were the Murray anchor family? | Central to settlement hypothesis; LDS microfilm 989747 promising |
 
 ---
 
@@ -268,3 +332,5 @@ For prior session context, read in order:
 8. `AGENT_HANDOFF_PHASE_2G.md` — Captain John Copley research page, descent narrative, Tom vs. Steve hypothesis, CHANGELOG created
 9. `AGENT_HANDOFF_PHASE_2H.md` — Wendy middle name fix (Lorelei); Tom's corrections: Mary Skelly, Captain John as son of Thomas Jr., 1634 Visitation as 4th source (Italy), William/Challoner from Sussex, Raleigh-Hoo connection, Southwell cousinage, Christopher/Mary Jones married (one daughter Francis), alternate spellings Coplet/Coplay
 10. `AGENT_HANDOFF_PHASE_2I.md` — 1634 Visitation of Worcestershire analyzed; Captain John's wife confirmed as Margaret Newport; heraldic arms documented; Thomas Copley Sr./Jr. family structure fully extracted; three new person pages created (Captain John, Thomas Sr., Thomas Jr.)
+11. `AGENT_HANDOFF_PHASE_2J.md` — Tom's corrections (Termon Beg spelling, William/Bennett verified, Thomas recusant relationship, Mary Skelly attribution); Iowa discovery: Mary Copely Giblin (1814–1884)
+12. `AGENT_HANDOFF_PHASE_2L.md` — Murray Settlement research page, Ancestry forum integration, Kilgefin parish details, LDS microfilm 989747, St. Michael's Church, Staunton-Parkersburg Turnpike

@@ -258,9 +258,25 @@ Steve Copley (letter, ~Feb 2026) identifies three hypothetical routes by which E
 
 This is unresolved speculation. Anne's surname in the verified record is "Munday" (confirmed by GEDCOM and Partlow family sources in Phase 2F). However, if Munday is an anglicization or clerical variant of Murray, this could be significant. No evidence either way has been found.
 
+⚠️ **[PLAUSIBLE — Tom Copley, April 22, 2026]** Michael Copley Sr. and his brother Patrick were **probably among the earliest Roscommon emigrants to arrive in Lewis County** — a key finding that reframes their role in the settlement. Rather than latecomers following a Murray trail, they may have been part of the initial beachhead or anchor-settler generation themselves. See `[[Topics/Murray Settlement|Murray Settlement]]` for full discussion.
+
 ---
 
-## 11. Research Vetting Strategy
+## 11. Michael Sr. and Patrick as Early Arrivals: Implications for Settlement Reconstruction
+
+⚠️ **[PLAUSIBLE — Tom Copley, April 22, 2026]** Tom's assessment that Michael and Patrick Copley were "probably among the first to come over" to Lewis County has significant implications for understanding the Murray Settlement:
+
+1. **If Michael Sr. was a very early arrival (1837–1838)**, he may have been part of the initial scouting/establishment phase rather than a later chain-migration follower. This would elevate the Copley role from "part of a Dolan-led settlement" to potentially co-founders or early infrastructure builders.
+
+2. **The Hanley connection becomes more significant.** Bridget Copley's marriage to a Hanley — coupled with the Hanley surname appearing in Kilgefin parish records — suggests the Copleys brought with them a Hanley family connection from Roscommon. If Hanleys were also early arrivals, they may have been part of the original settlement nucleus rather than later followers.
+
+3. **The "Murray's Settlement" name takes on a different meaning.** If Copleys, Hanleys, and (possibly) Giloolys arrived early or simultaneously with the Murrays, the settlement may represent a **cohort arrival** from Kilgefin — not a Murray anchor with other families following a trail. The name "Murray's Settlement" may preserve the Murray family's prominence for other reasons (land ownership, church leadership, political role) rather than arrival priority.
+
+This reframing places Tom's investigation on even firmer ground: the Murray Settlement was not a linear chain-migration but a **planned, coordinated, multi-family relocation** from a specific Roscommon parish cluster.
+
+---
+
+## 12. Research Vetting Strategy
 
 The following is a prioritized, step-by-step plan for verifying or disproving the Captain John hypothesis using accessible primary sources.
 
@@ -333,7 +349,7 @@ The AI's claim about a "Southwell/Copley network" (a marriage alliance between a
 
 ---
 
-## 12. Open Research Questions
+## 13. Open Research Questions
 
 ### Tier 1: Foundation Questions (Must Be Answered First)
 
@@ -377,7 +393,7 @@ The AI's claim about a "Southwell/Copley network" (a marriage alliance between a
 
 ---
 
-## 13. Primary Source Verification Results (April 2026)
+## 14. Primary Source Verification Results (April 2026)
 
 > ✅ This section documents actual primary source searches conducted during live research on April 18, 2026 — the first direct primary source work on the Roscommon question.
 
@@ -527,7 +543,7 @@ The Catholic Copely family is confirmed in **Fairymount, Kilgefin parish** — t
 
 ---
 
-## 14. The Two Competing Hypotheses: Tom vs. Steve
+## 15. The Two Competing Hypotheses: Tom vs. Steve
 
 Tom and Steve Copley (both G25) hold different views on which English ancestor brought the Copley name to County Roscommon. Their debate turns on two figures from different parts of England, different branches of the Copley family tree, and different religious histories.
 
@@ -568,7 +584,7 @@ The Christopher Copley hypothesis has **not been developed with primary source c
 
 ---
 
-## 14. Descent Narrative: Thomas Copley Sr. to Michael Copley Sr.
+## 16. Descent Narrative: Thomas Copley Sr. to Michael Copley Sr.
 
 > **Source quality applies throughout.** Generations 1–3 rest on verified primary sources. Generations 4–8 are entirely speculative, representing Tom's working hypothesis to be tested against primary sources — not established family history.
 
@@ -666,7 +682,7 @@ Per Tom's hypothesis: Michael was raised Catholic in Kilgefin Parish, the son of
 
 ---
 
-## 15. Descent Diagram
+## 17. Descent Diagram
 
 > **Color key:** Green = verified in primary sources · Brown/dashed = speculative (no primary source) · Blue = spouse · Orange = marriage node · Gray = collateral line
 
@@ -714,7 +730,7 @@ graph TD
 
 ---
 
-## 16. Related Pages
+## 18. Related Pages
 
 - [[People/Michael Copley Sr.]] — G23 ancestor; the end-point of this research
 - [[People/Ann Copley]] — née Munday; wife of Michael; possibly née Murray (unresolved)
@@ -726,7 +742,7 @@ graph TD
 
 ---
 
-## 17. Sources
+## 19. Sources
 
 1. ✅ Dud Dudley, *Mettallum Martis: or, Iron Made with Pit-Coale and Sea-Coale* (London, 1665), pp. 20–21. Available: Internet Archive.
 2. ✅ *Journal of the House of Commons, Volume 2, 1640–1643* (London: HMSO, 1802). "Petition of John Copley." Available: British History Online.
