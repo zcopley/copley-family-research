@@ -52,7 +52,8 @@ Mary Copely was born in **1814**, the year after Michael Copley Sr. (b. ~1813). 
 **Research note:** The birth of Michael Giblin in County Roscommon in 1845 confirms that Mary and John remained in Ireland for several years after their 1831 marriage, emigrating to Iowa sometime after 1845. The name pattern (John, Thomas, Martin, Michael) in the children suggests strong Irish Catholic naming conventions and family continuity across the Atlantic.
 
 **Documented descendants (G27+):**
-- **[[People/Stephen Donald Copley|Stephen Donald Copley]]** (b. ~1880–1895) — likely son or grandson of one of Mary's children (John, Thomas, Martin, Michael, Mary, or Catharine); carries Copley surname
+- **[[People/Stephen Donald Copley|Stephen Donald Copley]]** (b. ~1880–1895) — likely son or grandson of one of Mary's children (John, Thomas, Martin, Michael, Mary, or Catharine); carries Copley surname; married Effie Grace Coe
+  - **[[People/Merton Dale Copley|Merton Dale Copley]]** (b. 30 May 1911, Crawford County, Iowa; d. 1978) — great-great-grandson of Mary
   - **[[People/Fern Loretta Copley MayBee|Fern Loretta Copley MayBee]]** (b. 26 Dec 1913, Manila, Crawford County, Iowa; d. 27 Aug 1997) — great-great-granddaughter of Mary; documented through MayBee Society genealogy database
     - Spouse: Edward Francis MayBee (b. 1900, d. 1982)
     - Children: Richard Charles MayBee (b. 1934, d. 2004), Gerald E MayBee (b. 1935, d. 1996)
@@ -81,6 +82,7 @@ Mary's presence in Crawford County, Iowa establishes a documented Copley/Copely 
 5. **Settlement pattern in Iowa** — How did Mary and John end up in Crawford County? Did they follow family or community networks? Connection to other Irish Catholic families in the region?
 6. **Gravestone inscription** — Does her stone at Saint Ann's Cemetery provide spouse name, children names, or other biographical details?
 7. **Marriage record (1831)** — Location of Mary and John's 1831 marriage ceremony unknown; could be in Ireland or possibly in America if "1831" refers to something else.
+8. **Cemetery records — Mitchellville Cemetery** — Records indicate Copley family stones in Mitchellville Cemetery (names: A. B., George B., Lavonne, Nellie V. Copley). May be descendants of Mary Copely Giblin or related to the Iowa Copley line; needs verification.
 
 ## Sources
 

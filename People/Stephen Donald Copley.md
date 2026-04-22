@@ -21,9 +21,10 @@ tags:
 ## Family Relationships
 
 **Children:**
-- **Fern Loretta Copley** (b. 26 Dec 1913, Manila, Crawford County, Iowa; d. 27 Aug 1997, Council Bluffs, Iowa)
+- **[[People/Merton Dale Copley|Merton Dale Copley]]** (b. 30 May 1911, Crawford County, Iowa; d. 1978)
+- **[[People/Fern Loretta Copley MayBee|Fern Loretta Copley MayBee]]** (b. 26 Dec 1913, Manila, Crawford County, Iowa; d. 27 Aug 1997, Council Bluffs, Iowa)
   - Spouse: Edward Francis MayBee (b. 1900, d. 1982)
-  - Children: Richard Charles MayBee (b. 1934), Gerald E MayBee (b. 1935)
+  - Children: Richard Charles MayBee (b. 1934, d. 2004), Gerald E MayBee (b. 1935, d. 1996)
 
 **Mother (unknown):**
 - Likely surname: Coe (Fern's mother was Effie Grace Coe; family name pattern suggests mother may have been named Coe)
@@ -43,7 +44,7 @@ Stephen Donald Copley's daughter Fern was born in Manila, Crawford County, Iowa 
 3. **Mother's identity** — Relationship to Effie Grace Coe unknown; was she Stephen's wife or mother?
 4. **Occupation and residence history** — no documented records yet
 5. **Marriage record** — spouse and marriage date unknown
-6. **Other children** — Fern may have had siblings; not yet documented
+6. **Merton's details** — Death location, burial location, spouse, and children all unknown (1978 death documented but details sparse)
 
 ## Acquisition Strategy
 
