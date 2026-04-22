@@ -10,6 +10,51 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 2L (Continued) — Copley Family Catholicism: Crypto-Catholic Hypothesis
+**Date:** April 22, 2026
+
+### New Research Page
+
+**[[Topics/Copley Family Catholicism|Copley Family Catholicism]]** — A comprehensive page documenting Tom Copley's speculative but historically grounded hypothesis that some or all Protestant Copleys (Bredon/Woolbedding lines) may have been "crypto-Catholics" — secretly practicing their Catholic faith while publicly conforming to Protestantism for survival.
+
+**Page contents:**
+
+- **Section 1 — The Crypto-Catholic Hypothesis:** Overview of Tom's thesis with five interconnected observations: the "easy" conversion of Lewis County Copleys, the intense Catholicism of the Bredon line, the pattern of refuge migration to Ireland, multi-generational Catholic devotion in Lewis County, and the family's resistance to Protestantism.
+
+- **Section 2 — Bredon/Woolbedding Catholic Evidence:** Documented Catholics in the family tree ([[People/Robert Southwell|Robert Southwell]] — Jesuit priest and cousin, [[People/Thomas Copley|Thomas Copley]] — recusant who fled to Netherlands, [[People/Anthony Copley|Anthony Copley]] — participant in the Bye Plot, a Catholic conspiracy). Also notes proximity to the Southwell family (prominent Catholic recusant family) and questions about the sincerity of Protestant conversion.
+
+- **Section 3 — Irish Refuge Pattern:** How Catholics migrated to Ireland to blend into the heavily Catholic population and escape discrimination; implications for understanding the Copley family's Irish branch and eventual emigration.
+
+- **Section 4 — William of Woolbedding as Test Case:** Exploration of how to test the hypothesis using William of Woolbedding's documented religious practice and associations.
+
+- **Section 5 — Lewis County Evidence:** Analysis of the extraordinary Catholic devotion and multi-generational practice in the Lewis County line ([[People/Sarah Copley Arena|Sarah Copley]]'s chaplaincy, Tom's father's boarding school education, consistent family religious choices) as evidence supporting inherited (not converted) faith.
+
+- **Section 6 — Evidence to Actively Seek:** Detailed lists of specific evidence that would support (11 items: recusancy records, Catholic wills, priest-harboring, sympathetic correspondence, Catholic education, donations, marriages, network interaction), contradict (6 items: genuine Protestant practice, anti-Catholic activities, disinheritance), or clarify (3 questions: Southwell relationship, conforming Catholics, 1700s practice) the hypothesis.
+
+- **Section 7 — Related Pages:** Cross-links to [[Topics/Captain John Copley Research|Captain John Copley Research]], [[People/Robert Southwell|Robert Southwell]], [[People/Anthony Copley|Anthony Copley]], [[People/Thomas Copley|Thomas Copley]], [[People/Michael Copley Sr.|Michael Copley Sr.]], [[People/Sarah Copley Arena|Sarah Copley]], and others.
+
+- **Section 8 — 8 Formal Research Questions** (RQ-C1 through RQ-C8) with priority ratings and specific evidence targets.
+
+### Source Quality and Caution
+
+All claims are clearly labeled:
+- ✅ **[VERIFIED]** — Confirmed in named primary sources
+- ⚠️ **[PLAUSIBLE]** — Historically consistent with known facts
+- ❓ **[SPECULATIVE]** — Proposed but unverified
+- ⚠️ **[HIGHLY SPECULATIVE — REQUIRES EVIDENCE]** — Tom Copley's crypto-Catholic hypothesis
+
+The page explicitly states that this hypothesis is **testable but currently unproven**, with systematic evidence targets identified for future research.
+
+### Agent Instructions Updated
+
+Both [[CLAUDE.md|CLAUDE.md]] and [[GEMINI.md|GEMINI.md]] now contain watchlists for the crypto-Catholic hypothesis:
+- **Supporting evidence markers** that agents should actively flag when found
+- **Contradicting evidence markers** that would weaken or refute the hypothesis
+- **Clarification questions** that need investigation
+- Links to the full hypothesis page for reference
+
+---
+
 ## Phase 2L (Continued) — Iowa Copley Line Extended: Merton Dale Copley and Family Descendants
 **Date:** April 22, 2026
 
