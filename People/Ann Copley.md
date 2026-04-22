@@ -27,6 +27,7 @@ A persistent family tradition states that her father drowned in the Potomac Rive
 - Migration-corridor research hub: [[Places/Baltimore Maryland|Baltimore, Maryland]]
 
 ## Related Topic Pages
+- [[Topics/Murray Settlement|Murray Settlement]] — active research into whether "Munday" is a phonetic transcription of "Murray" (RQ-M5); Ann's maiden name is central to the Murray anchor-family hypothesis
 - [[Topics/Irish Famine and Emigration|Irish Famine and Emigration]]
 - [[Topics/Irish Immigration to West Virginia|Irish Immigration to West Virginia]]
 - [[Topics/B&O Railroad Labor History|B&O Railroad Labor History]]
@@ -50,7 +51,7 @@ A persistent family tradition states that her father drowned in the Potomac Rive
 - **Marriage:** to [[Michael Copley Sr|Michael Copley]], likely c.1838-1839 (inferred from first child birth year)
 
 ## Research Gaps
-1. **Maiden-name proof:** “Munday” is widely used in family material but requires direct primary-record confirmation.
+1. **Maiden-name proof:** “Munday” is widely used in family material but requires direct primary-record confirmation. Tom Copley (April 2026) has raised the possibility that “Munday” is a phonetic transcription of “Murray” — which would place Ann inside the Murray family that gave [[Topics/Murray Settlement|Murray's Settlement]] its name. See RQ-M5 in the Murray Settlement research page.
 2. **Marriage record (Q3):** No civil/church record yet found for Michael + Ann.
 3. **Immigration details:** Port/date/manifest for Ann not yet resolved.
 4. **Father identity + drowning event (Q11/Q14):** No coroner or newspaper confirmation yet found.

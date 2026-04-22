@@ -10,6 +10,52 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 2K — Murray Settlement Research Page Created
+**Date:** April 22, 2026
+
+### New Research Page
+
+**[[Topics/Murray Settlement|Murray Settlement]]** — A comprehensive new research Topics page documenting Tom Copley's investigation into the Lewis County Irish Settlement as a coordinated community transplant from County Roscommon.
+
+Tom's core thesis: the Murray Settlement was not a random cluster of individual immigrants but a **deliberate community relocation** — a Roscommon neighborhood that organized itself to reconstitute its social world in America. The page follows the [[Topics/Captain John Copley Research|Captain John Copley Research]] model with full source quality labeling (✅/⚠️/❓/🚫) and formal numbered research questions.
+
+**Page contents:**
+
+- **Section 1 — Overview and Research Motivation:** Frames the settlement as a social movement; introduces the anchor-family hypothesis and Tom's coordination thesis
+- **Section 2 — Documented Settlement Families:**
+  - [[People/Michael Copley Sr.|Michael Copley Sr.]] and [[People/Patrick Copley|Patrick Copley]] — verified arrival on *Powhatan*, Aug 20, 1838; 1843 Hoffman deed
+  - [[People/Bridget Copley Reynolds|Bridget Copley Reynolds]], [[People/Catherine Kitty Copley Hannon|Catherine "Kitty" Copley Hannon]], [[People/William Copley|William Copley]] — probable siblings in the settlement
+  - [[People/Mary Ellen Dolan Copley|Mary Ellen Dolan]] and Elizabeth Mullooly Dolan (b. 1829, County Roscommon) — confirmed Roscommon-origin Dolan family in Lewis County
+  - **The Murrays** — the eponymous family; no individual yet profiled; central research target
+  - Mulrooneys, Mahons, Hannons, Reynolds, Gibbons — suspected settlement families, unverified
+- **Section 3 — The Central Hypothesis:** The anchor-family model; staggered emigration as evidence of chain migration; the [[People/Mary Copely Giblin|Iowa parallel]] (two separate organized chains from same Roscommon cluster)
+- **Section 4 — The Ann Munday / Murray Question (RQ-M5):** Full analysis of whether [[People/Ann Copley|Ann Copley]]'s maiden name "Munday" is a phonetic transcription of "Murray" — the single most leveraged question in the investigation
+- **Section 5 — Geographic Context:** Table mapping all known emigrant families to their Roscommon townlands (Kilgefin, Tully/Kilcorkey, Termon Beg/Kilkeevin); geographic proximity argument for the neighborhood-transplant hypothesis
+- **Section 6 — Research Strategy (5 tiers, 16 research actions):**
+  - Tier 1: Anchor the Murrays in Lewis County — deed records, 1840 census, Catholic parish records, county histories
+  - Tier 2: Work the ships — full *Powhatan* and *Kutusoff* manifests, pre-1838 Murray emigration search
+  - Tier 3: Reverse-engineer the Roscommon end — Griffith's Valuation searches for Murray/Dolan/Mullooly; parish registers; push-factor investigation
+  - Tier 4: Organizational mechanism — land purchase sequence; Catholic Church role; Lewis County Historical Society
+  - Tier 5: Ann Munday / Murray — PRONI; Fermanagh registers; Lewis County Munday records
+- **Section 7 — 8 Formal Research Questions** (RQ-M1 through RQ-M8) with priority ratings and source targets
+- **Section 8 — Quick-Start Research Actions:** 5 tasks completable today with free online resources (askaboutireland.ie, FamilySearch, Archive.org, irishgenealogy.ie)
+- **Section 9 — Related Pages:** Full cross-link set to [[People/Michael Copley Sr.|Michael Copley Sr.]], [[People/Ann Copley|Ann Copley]], [[People/Weeden Hoffman|Weeden Hoffman]], [[People/Mary Copely Giblin|Mary Copely Giblin]], [[Topics/Irish Immigration to West Virginia|Irish Immigration to West Virginia]], [[Topics/B&O Railroad Labor History|B&O Railroad Labor History]], [[Topics/Captain John Copley Research|Captain John Copley Research]]
+- **Section 10 — Sources:** 7 sources cited with quality labels
+
+### Pages Updated
+
+**[[Topics/Irish Immigration to West Virginia|Irish Immigration to West Virginia]]:**
+- Added "The Murray Settlement" section with prominent link to [[Topics/Murray Settlement|Murray Settlement]]
+- Expanded Research Gaps to include Murray identity and Ann Munday/Murray question
+- Expanded Acquisition Strategies to include deed record and ship manifest searches
+- Updated See Also with [[Topics/Murray Settlement|Murray Settlement]] link
+
+**[[People/Ann Copley|Ann Copley]]:**
+- Added [[Topics/Murray Settlement|Murray Settlement]] to Related Topic Pages with note about RQ-M5
+- Expanded Research Gap #1 (Maiden-name proof) to explicitly reference Tom's Murray hypothesis and link to RQ-M5 in the Murray Settlement page
+
+---
+
 ## Phase 2J — Tom's Timeline Feedback; Geographic Context Added; Iowa Connection Discovered
 **Date:** April 22, 2026
 
