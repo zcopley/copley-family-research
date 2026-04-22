@@ -16,47 +16,43 @@ A running record of significant additions, corrections, and improvements to this
 ### Major Discovery: Iowa Copley Family Connection
 
 **[[People/Mary Copely Giblin|Mary Copely Giblin]]** (1814–1884) discovered in Crawford County, Iowa:
-- Born 1814 in Tully, Kilcorkey parish, County Roscommon (year after Michael Copley Sr., b. ~1813)
+- Born 1814 in Tully, Kilcorkey parish, County Roscommon (year after [[People/Michael Copley Sr.|Michael Copley Sr.]], b. ~1813)
 - Same "Copely" spelling variant (Catholic branch)
 - Same Roscommon parish cluster origin (Tully near Kilgefin/Fairymount)
 - Emigrated to America 1830s–1840s (same wave as Michael Sr.)
-- **Assessment:** Very likely Michael Sr.'s sister or close relative — first confirmed Copely emigrant from Roscommon cluster (other than Michael Sr.) to America
-- **Personal significance:** Zach Copley relocated to Iowa in 2025; his wife's family is from Iowa. Ancestral line now documented in same state.
+- **Assessment:** Very likely [[People/Michael Copley Sr.|Michael Copley Sr.]]'s sister or close relative — first confirmed Copely emigrant from Roscommon cluster (other than Michael Sr.) to America
+- **Personal significance:** [[People/Zachary R. Copley|Zach Copley]] relocated to Iowa in 2025; his wife's family is from Iowa. Ancestral line now documented in same state.
 
-New person page created: **[[People/Mary Copely Giblin|Mary Copely Giblin]]** with full research context, acquisition strategy, and relationship assessment.
+**Files updated:**
+- **New page:** [[People/Mary Copely Giblin|Mary Copely Giblin]] — Full person profile with biography, family relationships, research gaps, and acquisition strategy
+- **Section updated:** Section 13 (The Catholic Copely Branch) of [[Topics/Captain John Copley Research|Captain John Copley Research]] now includes "New Discovery: Mary Copely Giblin — Iowa Connection"
 
 ### Corrections and Clarifications
 
 **[[Topics/Captain John Copley Research|Captain John Copley Research]] — Geographic Context & Family Connection Strengthened:**
 
-1. **Spelling correction:** "Termon Beg" → **"Termon Beg"** throughout (12 occurrences). Tom Copley clarified the correct spelling after reviewing parish records.
+1. **Spelling correction (12 occurrences):** 
+   - "Termonbeg" → "Termon Beg" throughout [[Topics/Captain John Copley Research|Captain John Copley Research]], [[CLAUDE.md|CLAUDE.md]], and [[GEMINI.md|GEMINI.md]]
+   - Tom Copley clarified the correct spelling after reviewing parish records
 
-2. **Geographic relationships clarified:**
-   - **Fairymount is essentially a suburb of Castlerea** — strengthening the connection between our Catholic Kilgefin/Fairymount Copleys and the Protestant Castlerea/Termon Beg branch
+2. **Geographic relationships clarified (Section 13 — The Catholic Copely Branch):**
+   - **Fairymount is essentially a suburb of Castlerea** — strengthening connection between Catholic Kilgefin/Fairymount Copleys and Protestant Castlerea/Termon Beg branch
    - **Kilgefin parish is approximately 10 km from Termon Beg** — these are neighboring communities, not distant locations
-   - **Ballintober (where Captain John received Cromwellian land grants) is ~9 miles from Castlerea in the opposite direction from Fairymount** — comparable to the distance between Berkeley and Oakland in California. Scale analogy: all three locations form an interconnected network where families would naturally interact and intermarry
-   - **Conclusion:** The geographic relationship is already established as neighboring communities. Explanation B (Termon Beg origin with Catholic conversion) is structurally plausible and warrants investigation
+   - **Ballintober (where [[People/Captain John Copley|Captain John Copley]] received Cromwellian land grants) is ~9 miles from Castlerea** in opposite direction from Fairymount — Berkeley-Oakland scale analogy added
+   - **Conclusion:** The geographic relationship is already established. Explanation B (Termon Beg origin with Catholic conversion) is structurally plausible and warrants investigation
 
-3. **William Copley of Sussex and Bennett Chaloner — elevated from speculation to verified fact:**
-   - **William Copley and Bennett Chaloner were the parents of Thomas Copley Sr.** — documented in multiple primary sources including the **1569 Visitation of Worcestershire**
-   - Previously this relationship was stated in the research page but not emphasized as verified. Now clearly established as ✅ **[VERIFIED]** from the 1569 Visitation
+3. **William Copley of Sussex and Bennett Chaloner (Section 2a — The Copley Family of Bredon's Norton):**
+   - **[[People/William Copley|William Copley]] and Bennett Chaloner were the parents of [[People/Thomas Copley Sr.|Thomas Copley Sr.]]** — elevated from narrative to explicitly verified
+   - Documented in multiple primary sources including the **1569 Visitation of Worcestershire**
+   - Now clearly established as ✅ **[VERIFIED]**
 
-4. **Thomas Copley (recusant) relationship clarified:**
-   - The **Thomas Copley** who surrendered his English lands and died in exile in the Netherlands was probably a **nephew of Thomas Copley Sr.**, making him a **cousin to Captain John**
-   - Updated in Section 2a and in the Descent Narrative (Generation 1 section)
+4. **Thomas Copley (recusant) relationship clarified (Sections 2a and Descent Narrative):**
+   - The **Thomas Copley** who surrendered his English lands and died in exile in the Netherlands was probably a **nephew of [[People/Thomas Copley Sr.|Thomas Copley Sr.]]**, making him a cousin to [[People/Captain John Copley|Captain John Copley]]
+   - Updated in Section 2a and in Descent Narrative (Generation 1 section)
 
-5. **Mary Skelly — attribution confirmed:**
+5. **Mary Skelly — attribution confirmed (Section 13):**
    - The **"Copley Name from Castlerea"** 11-page report was **prepared by Mary Skelly** (not merely "likely" compiled by her)
-   - Clarified in Section 13 references and in cross-references to this report
-
-### Summary of Changes
-
-**[[Topics/Captain John Copley Research|Captain John Copley Research]]:**
-- All 12 occurrences of "Termon Beg" corrected to "Termon Beg"
-- Section 13 expanded with geographic relationships and scale analogy
-- Section 2a clarified: William and Bennett as verified parents of Thomas Sr. (from 1569 Visitation)
-- Section 2b: Thomas the recusant clarified as probable nephew
-- Descent Narrative (Generation 1): Thomas recusant relationship clarified
+   - Clarified in Section 13 references and cross-references throughout [[Topics/Captain John Copley Research|Captain John Copley Research]]
 
 ---
 
