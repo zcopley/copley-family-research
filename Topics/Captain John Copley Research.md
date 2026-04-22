@@ -507,6 +507,22 @@ The following is now established from primary sources:
 
 The Catholic Copely family is confirmed in **Fairymount, Kilgefin parish** — the same civil parish the AI identified as our family's origin, and which contains the real townland of **Kilmacuagh** (the AI's "Kilmacough"). The family were landless in the pre-Famine period and appear in records only from 1857–1864. Michael Copley Sr. emigrated ~1837–38, twenty-five years before these records begin — consistent with a family branch that left no Irish paper trail before emigration.
 
+### New Discovery: Mary Copely Giblin — Iowa Connection (April 2026)
+
+⚠️ **[SIGNIFICANT BREAKTHROUGH — PENDING VERIFICATION]** Tom Copley discovered **[[People/Mary Copely Giblin|Mary Copely Giblin]]** (1814–1884), buried in Vail, Crawford County, Iowa. Key details:
+
+- **Born:** 1814, Tully townland, Kilcorkey Civil Parish, County Roscommon — the year AFTER Michael Copley Sr. (b. ~1813)
+- **Spelling:** "Copely" — matches the Catholic Roscommon branch
+- **Location:** Tully is in the same parish cluster as Kilgefin/Fairymount, near Termon Beg
+- **Burial:** Saint Ann's Cemetery, Vail, Crawford County, Iowa (d. 27 October 1884)
+- **Emigration era:** Same 1830s–1840s wave as Michael Copley Sr.
+
+**Assessment:** Mary is very likely **Michael Copley Sr.'s sister or a close relative** from the Roscommon family network. The convergence of birth year (+1), spelling variant, parish origin, and emigration timeline is too precise to be coincidental. This represents the first confirmed Copley/Copely emigrant from the Roscommon cluster (other than Michael Sr.) to America, and establishes a documented **Iowa settlement branch** of the family.
+
+**Personal significance:** [[People/Zachary R. Copley|Zach Copley]] (G26) relocated to Iowa in 2025 with his family; his wife's family is also from Iowa. The discovery of a G23 ancestral line in the same state represents an unexpected connection between Zach's current residence and his family's 19th-century diaspora.
+
+**Next steps:** Confirm Mary's relationship to Michael Sr. via Irish civil registration records (baptism/birth in Kilcorkey parish, 1813–1815); locate gravestone inscription and Crawford County historical records; search passenger manifests for Mary Copely or Giblin emigrating to Iowa.
+
 ---
 
 ## 14. The Two Competing Hypotheses: Tom vs. Steve

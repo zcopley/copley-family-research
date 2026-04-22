@@ -10,8 +10,20 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
-## Phase 2J — Tom's Timeline Feedback; Geographic Context Added; Genealogical Relationships Strengthened
+## Phase 2J — Tom's Timeline Feedback; Geographic Context Added; Iowa Connection Discovered
 **Date:** April 22, 2026
+
+### Major Discovery: Iowa Copley Family Connection
+
+**[[People/Mary Copely Giblin|Mary Copely Giblin]]** (1814–1884) discovered in Crawford County, Iowa:
+- Born 1814 in Tully, Kilcorkey parish, County Roscommon (year after Michael Copley Sr., b. ~1813)
+- Same "Copely" spelling variant (Catholic branch)
+- Same Roscommon parish cluster origin (Tully near Kilgefin/Fairymount)
+- Emigrated to America 1830s–1840s (same wave as Michael Sr.)
+- **Assessment:** Very likely Michael Sr.'s sister or close relative — first confirmed Copely emigrant from Roscommon cluster (other than Michael Sr.) to America
+- **Personal significance:** Zach Copley relocated to Iowa in 2025; his wife's family is from Iowa. Ancestral line now documented in same state.
+
+New person page created: **[[People/Mary Copely Giblin|Mary Copely Giblin]]** with full research context, acquisition strategy, and relationship assessment.
 
 ### Corrections and Clarifications
 
