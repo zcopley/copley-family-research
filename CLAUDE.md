@@ -317,6 +317,41 @@ See `Phase 1 Questions and Answers.md` for the full list. Key unresolved questio
 
 ---
 
+## Active Research Hypotheses to Watch For
+
+**The Crypto-Catholic Hypothesis (April 2026 — Tom Copley)**
+
+Tom proposes that some or all Protestant Copleys (Bredon, Woolbedding lines) may have been "crypto-Catholics" — practicing Catholicism in private while conforming to Protestantism publicly. See `[[Topics/Copley Family Catholicism|Copley Family Catholicism]]` for full details.
+
+**As you research, actively flag evidence that:**
+
+✅ **Supports the hypothesis:**
+- Recusancy records (England, 1550–1700) listing Copley surname
+- Wills containing Catholic language, bequests, or mass requests
+- Priest-harboring records; hidden chapel evidence
+- Correspondence expressing Catholic sympathies
+- Evidence of children sent abroad for education (possibly Catholic schools)
+- Donations to Catholic causes
+- Marriages to Catholics or Catholic families
+- Contemporary accusations of Copley Catholic leanings
+- Estate records showing interaction with known Catholic networks (Southwells, Bedingfields, etc.)
+
+🚫 **Contradicts the hypothesis:**
+- Evidence of genuine Protestant religious practice or theological writing by Woolbedding Copleys
+- Anti-Catholic activities (not mere passive conformity)
+- Disinheritance of Catholic family members (suggesting real religious conflict)
+- Evidence that Lewis County Catholicism was adopted from outside, not inherited
+- Records of Woolbedding Copleys holding Protestant church offices
+- Theological writing defending Protestantism
+
+❓ **Requires clarification:**
+- Exact relationship between Woolbedding Copleys and Southwell family
+- Whether Copleys appear on lists of English Catholics who conformed
+- Religious practice of intermediate generations (1700s–early 1800s)
+- Connection of William Copely of Fairymount (b. ~1794, Catholic) to Woolbedding line
+
+---
+
 ## What Not To Do
 
 - Do not edit files in `quartz/` — that's the framework

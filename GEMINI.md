@@ -42,6 +42,22 @@ tags:
 ---
 ```
 
+## Active Research Hypotheses — Watch For Evidence
+
+**The Crypto-Catholic Hypothesis (April 2026 — Tom Copley)**
+
+Tom proposes that Protestant Copleys (Bredon, Woolbedding) may have practiced Catholicism privately while conforming to Protestantism publicly. See `[[Topics/Copley Family Catholicism|Copley Family Catholicism]]`.
+
+**Evidence markers to actively flag:**
+
+✅ **Supports:** Recusancy records, Catholic wills/bequests, priest-harboring, Catholic sympathies in correspondence, children sent abroad for education, donations to Catholic causes, marriages to Catholics, Catholic network interaction
+
+🚫 **Contradicts:** Genuine Protestant practice/theology, anti-Catholic activities, disinheritance of Catholics, outside-origin Lewis County Catholicism, Protestant church offices, Protestant theological writing
+
+❓ **Needs clarification:** Woolbedding-Southwell relationship, conforming Catholics in England, 1700s religious practice, William Copely of Fairymount origins
+
+---
+
 ## Known Pitfalls & "Same-Name" Mismatches
 Do NOT link the following individuals to these incorrect social media profiles:
 - **Charles H. Copley (b. 1985):** Avoid `@Charles_Copley` on Twitter/X; it is a mismatch.
