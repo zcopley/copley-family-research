@@ -18,7 +18,10 @@ A running record of significant additions, corrections, and improvements to this
 ### Evidence Summary
 
 **Hanleys in Roscommon (Griffith's Valuation, 1857):**
-- **Kilgefin Parish:** Edward Hanley (Clooncashel More, landlord status); multiple Hanleys in Fairymount under Anne Lyster
+- **Kilgefin Parish:** 
+  - Edward Hanley (Clooncashel More, **landlord status** — manages multiple tenants)
+  - Widow Hanley (Drumalough, **landlord status** — manages multiple tenants)
+  - **Multiple Hanleys in Fairymount under Anne Lyster** — **CRITICAL: exact same townland and landlord as [[People/William Copely|William Copely of Fairymount]] (the remaining Catholic Copely in Roscommon)**. The Hanleys were direct neighbors of the Catholic Copely branch, not merely acquaintances.
 - **Kilkeevin Parish:** Owen Hanley (Creggameen under Sandford); **Peter Hanley (Ballindrumlea under Sandford, W.R.W.)** — **CRITICAL: exact same townland and landlord as Murray/Dolan cluster**; other Hanleys under McDermott
 
 **Hannons in Roscommon (Griffith's Valuation, 1857):**

@@ -111,10 +111,18 @@ These records predate the Irish settlement by two decades, meaning Murray and ot
 
 | Name | Townland | Landlord | Notes | Source |
 |------|----------|----------|-------|--------|
-| **Edward Hanley** | Clooncashel More | Various | **Landlord status** (appears 5+ times in ledger managing tenants) | GV 1857 |
-| **Hanleys (multiple)** | Fairymount, Lyster area | Anne Lyster | Extended family cluster | GV 1857 |
+| **Edward Hanley** | Clooncashel More | Dillon, William | **Landlord status** (manages multiple tenants: Lyons, Lannon, Finneran, Unoccupied property) | GV 1857 |
+| **Widow Hanley** | Drumalough | — | **Landlord status** (manages tenants: Lannon, Mylett) | GV 1857 |
+| **Hanleys (multiple)** | Fairymount | Anne Lyster | Extended family cluster (John, Mary, Anne appear multiple times) | GV 1857 |
 
-**Significance (Kilgefin):** Edward Hanley's status as both tenant *and* landlord indicates **economic standing and property management experience** — similar to Bernard Dolan's profile. This suggests the Hanleys were part of the parish's middle-class Catholic community.
+**Critical Connection: Hanleys in Fairymount with William Copely of Fairymount**
+
+Hanleys in Fairymount are documented under **Anne Lyster** — the **exact same townland and landlord as [[People/William Copely|William Copely of Fairymount]]** (the remaining Catholic Copely in Roscommon). This means:
+- The Hanleys were **direct neighbors of the Catholic Copely branch**, not just acquaintances
+- The Fairymount Hanley cluster had sustained contact with William Copely's family
+- The Bridget Copley who married a Hanley may have strengthened an existing neighborhood bond, not initiated a new one
+
+**Significance (Kilgefin):** Edward Hanley and Widow Hanley both held landlord status — managing multiple subtenants — indicating **significant economic standing and property management experience** in the parish. This positions the Hanleys as part of the parish's prosperous Catholic middle class, exactly the social stratum that would organize emigration.
 
 **Hanleys documented in Kilkeevin Parish (Griffith's Valuation, 1857):**
 

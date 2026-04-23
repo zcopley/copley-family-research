@@ -123,7 +123,7 @@ Tom and Steve Copley (G25) conducted research into the English/Irish origins of 
   - **Copleys** — Michael Sr. + Patrick (likely among earliest arrivals)
   - **Dolans** — Elizabeth Mullooly Dolan (Roscommon origin); Edward Dolan documented on Sandford estate
   - **Murrays** — Anchor family confirmed in Kilgefin and Kilkeevin parishes; multiple on Sandford estate
-  - **Hanleys** — **BREAKTHROUGH (April 22, 2026):** Peter Hanley documented in Ballindrumlea on Sandford estate — **same townland and landlord as Murrays, Dolans, Copleys**. Bridget Copley married Hanley (estate-mate marriage)
+  - **Hanleys** — **BREAKTHROUGH (April 22, 2026):** Peter Hanley documented in Ballindrumlea on Sandford estate — **same townland and landlord as Murrays, Dolans, Copleys**. **Also:** Hanleys in Fairymount under Anne Lyster (same townland as William Copely of Fairymount, the remaining Catholic Copely) — Hanleys were direct neighbors of the Catholic Copely branch. Bridget Copley married Hanley (estate-mate marriage reproduced)
   - **Hannons** — **BREAKTHROUGH (April 22, 2026):** Thomas Hannon documented on Sandford estate (Longford, same landlord). Catherine "Kitty" Copley married Hannon (estate-mate marriage)
   - **Giloolys** — Connected family; no Griffith's Valuation entries found (possibly different parish origin or marriage connection)
 - **Critical question:** Was Ann Munday actually Ann Murray? If so, Copleys inside Murray network through marriage (RQ-M5)
