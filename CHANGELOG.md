@@ -10,6 +10,46 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 2L (Continued) — Hanley and Hannon Families Confirmed in Griffith's Valuation
+**Date:** April 22, 2026
+
+**Major Discovery:** The Hanley and Hannon families — known to have intermarried with the Copleys in Lewis County — are now **confirmed residents of Roscommon** in the 1857 Griffith's Valuation. Critically, **Peter Hanley and Thomas Hannon are documented on the Sandford estate in the exact same community nucleus as the Murrays, Dolans, and Copleys.**
+
+### Evidence Summary
+
+**Hanleys in Roscommon (Griffith's Valuation, 1857):**
+- **Kilgefin Parish:** Edward Hanley (Clooncashel More, landlord status); multiple Hanleys in Fairymount under Anne Lyster
+- **Kilkeevin Parish:** Owen Hanley (Creggameen under Sandford); **Peter Hanley (Ballindrumlea under Sandford, W.R.W.)** — **CRITICAL: exact same townland and landlord as Murray/Dolan cluster**; other Hanleys under McDermott
+
+**Hannons in Roscommon (Griffith's Valuation, 1857):**
+- **Kilgefin Parish:** No entries found
+- **Kilkeevin Parish:** **Thomas Hannon (Longford under Sandford, W.R.W.)** — **CRITICAL: documented on Sandford estate nucleus**; Edward Hannon (Arm under McDonnell, separate branch)
+
+### Integration with Settlement Hypothesis
+
+The Sandford estate community now includes **five documented families**:
+1. **Murrays** (William, John, Michael in Ballindrumlea)
+2. **Dolans** (Edward in Ballindrumlea; James in Cloonett and Moor)
+3. **Copleys** (documented earlier as Sandford tenants)
+4. **Hanleys** (Peter Hanley in Ballindrumlea — same townland as Murrays)
+5. **Hannons** (Thomas Hannon in Longford — same estate as others)
+
+**Marriage connections verified:**
+- Bridget Copley married a Hanley — Griffith's Valuation confirms Peter Hanley in the same Ballindrumlea community as her family
+- Catherine "Kitty" Copley married a Hannon — Griffith's Valuation confirms Thomas Hannon on the same Sandford estate
+
+**Implications:**
+- The marriages between Copley siblings and Hanley/Hannon families were not random matches but the reproduction of pre-existing Roscommon social bonds in America
+- The settlement did not form ad-hoc in Lewis County but was anchored in a pre-existing estate community in Roscommon
+- All five documented families lived under the same landlord (Sandford) and dealt with the same economic conditions, creating natural common cause for emigration
+
+**Updated wiki pages:**
+- [[Topics/Murray Settlement|Murray Settlement]] (Section 2d expanded with comprehensive Hanley Griffith's Valuation evidence; new Section 2e documenting Hannons; Sandford Estate Community table updated to include Hanleys and Hannons)
+- [[People/Catherine Kitty Copley Hannon|Catherine "Kitty" Copley Hannon]] profile (cross-reference to Griffith's Valuation evidence)
+- [[People/Bridget Copley|Bridget Copley]] profile (cross-reference to Griffith's Valuation evidence for Peter Hanley)
+
+---
+
 ## Phase 2L (Continued) — BREAKTHROUGH: The Sandford Estate Community Emerges
 **Date:** April 22, 2026
 

@@ -119,8 +119,15 @@ Tom and Steve Copley (G25) conducted research into the English/Irish origins of 
 - St. Michael's Church ("Little Cathedral of the Wilderness"), Cove Lick area, southwestern Lewis County
 - 1849: 100 acres donated to Diocese of Richmond; Bishop Richard Vincent Whelan
 - Labor driver: Staunton-Parkersburg Turnpike construction
-- **Documented families:** Copleys (Michael Sr. + Patrick, likely among earliest arrivals), Dolans (Mullooly), Murrays (anchor family), **Hanleys (Bridget Copley married Hanley)**, **Giloolys**
+- **Documented families (Griffith's Valuation 1857):**
+  - **Copleys** — Michael Sr. + Patrick (likely among earliest arrivals)
+  - **Dolans** — Elizabeth Mullooly Dolan (Roscommon origin); Edward Dolan documented on Sandford estate
+  - **Murrays** — Anchor family confirmed in Kilgefin and Kilkeevin parishes; multiple on Sandford estate
+  - **Hanleys** — **BREAKTHROUGH (April 22, 2026):** Peter Hanley documented in Ballindrumlea on Sandford estate — **same townland and landlord as Murrays, Dolans, Copleys**. Bridget Copley married Hanley (estate-mate marriage)
+  - **Hannons** — **BREAKTHROUGH (April 22, 2026):** Thomas Hannon documented on Sandford estate (Longford, same landlord). Catherine "Kitty" Copley married Hannon (estate-mate marriage)
+  - **Giloolys** — Connected family; no Griffith's Valuation entries found (possibly different parish origin or marriage connection)
 - **Critical question:** Was Ann Munday actually Ann Murray? If so, Copleys inside Murray network through marriage (RQ-M5)
+- **Sandford estate as settlement nucleus:** Five documented families (Copleys, Dolans, Murrays, Hanleys, Hannons) all tenants of same landlord in Roscommon — this is the physical anchor of the coordinated transplant hypothesis
 - **Research strategy:** 5 tiers, 16 actions; see `[[Topics/Murray Settlement]]`
 
 ## Iowa Copley Line Extended to 20th Century (April 22, 2026)

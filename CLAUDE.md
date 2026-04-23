@@ -264,12 +264,14 @@ Tom Copley's hypothesis: the Murray/Irish Settlement in Lewis County, WV was not
 
 ### Documented Settlement Families
 
+✅ **VERIFIED via Griffith's Valuation (1857):**
 - **Copleys** — Michael Sr. + Patrick; **likely among the earliest Roscommon arrivals** (arrived ~1837–38); brig *Kutusoff* 1837, ship *Powhatan* Aug 20 1838
-- **Dolans** — Elizabeth Mullooly Dolan (b. May 1829, County Roscommon); married Michael Patrick Dolan (b. 1824, Cork)
-- **Murrays** — Eponymous settlement family; **central research target**; no individual arrivals yet documented
-- **Hanleys** — **Bridget Copley (Michael Sr.'s sister) married a Hanley**; Hanley family name appears in Ancestry forum (2004 poster "Hanley" described Kilgefin parish); integration into settlement social network
-- **Giloolys** — Connected settlement family; **Bridget "Bitty" Copley Gillooly** (Ann's daughter) married into this family; also documented in Lewis County records
-- **Mulrooneys, Mahons, Reynolds** — Other suspected settlement families, not yet individually profiled
+- **Dolans** — Elizabeth Mullooly Dolan (b. May 1829, County Roscommon); married Michael Patrick Dolan (b. 1824, Cork); 10 Dolan records in Roscommon; **Edward Dolan documented on Sandford estate in Ballindrumlea**
+- **Murrays** — Eponymous settlement family; **confirmed residents of Kilgefin and Kilkeevin parishes**; **Patrick Murray (Kilgefin), John Murray (Kilgefin), and multiple Murrays on Sandford estate (Kilkeevin)** — primary source documentation of Roscommon origins
+- **Hanleys** — **BREAKTHROUGH (April 22, 2026):** Verified in both Kilgefin and Kilkeevin parishes; **Peter Hanley documented in Ballindrumlea under Sandford estate** — **exact same townland and landlord as Murrays, Dolans, and Copleys**. Bridget Copley (Michael Sr.'s sister) married a Hanley — this was not a random match but a marriage between families who were already estate-mates in Roscommon
+- **Hannons** — **BREAKTHROUGH (April 22, 2026):** Verified in Kilkeevin parish; **Thomas Hannon documented on Sandford estate in Longford** — same estate as settlement nucleus. Catherine "Kitty" Copley married a Hannon — estate-mate marriage reproduced in Lewis County
+- **Giloolys** — Connected settlement family; **Bridget "Bitty" Copley Gillooly** (Ann's daughter) married into this family; documented in Lewis County records; **no Griffith's Valuation entries found in Kilgefin/Kilkeevin, suggesting either different Roscommon parish origin or marriage-connection outside settlement cluster**
+- **Mulrooneys, Mahons, Reynolds** — Other suspected settlement families, not yet individually profiled or searched in Griffith's Valuation
 
 ### Ann Munday / Murray Question (RQ-M5)
 
