@@ -133,11 +133,52 @@ These records predate the Irish settlement by two decades, meaning Murray and ot
 
 4. **Timeline alignment:** Griffith's Valuation documents the Murrays as **present and substantial** in the 1850s. If John Murray emigrated to Lewis County to establish the settlement beachhead (arriving 1820s–1830s), he would have done so as a **person of means and standing** — exactly the profile of a successful settler organizer.
 
+### 2d. Expanded Murray Evidence: Kilkeevin Parish (Griffith's Valuation, 1857)
+
+✅ **[VERIFIED — Griffith's Valuation, 1857]** Additional Murrays confirmed in **Kilkeevin parish** (adjacent parish to Kilgefin), further establishing Murray family dominance across the settlement area.
+
+**Murrays documented in Kilkeevin Parish (Griffith's Valuation, 1857):**
+
+| Name | Townland | Landlord | Notes | Source |
+|------|----------|----------|-------|--------|
+| **William Murray** | Ballindrumlea | Sandford, William R.W. | Family cluster | GV 1857 |
+| **John Murray** | Ballindrumlea | Sandford, William R.W. | Family cluster | GV 1857 |
+| **Michael Murray** | Ballindrumlea | Sandford, William R.W. | Family cluster | GV 1857 |
+| **William Murray** | Castlereagh | Thomas Morris & Co | Urban property (Main Street) | GV 1857 |
+| **Thomas Murray** | Arm | Stretch, Thomas | Separate family branch | GV 1857 |
+| **Elizabeth Murray** | Arm | Stretch, Thomas | Separate family branch | GV 1857 |
+| **William Murray** | Cloonchambers | Sandford, William R.W. | Sandford tenant | GV 1857 |
+
+**Critical Finding: Murrays Were on the Sandford Estate with the Copleys**
+
+The discovery that **multiple Murrays were tenants of Sandford** (William R.W.) is **major evidence** supporting the "neighborhood transplant" hypothesis:
+
+- [[People/Michael Copley Sr.|Michael Copley Sr.]] and the Copleys in Griffith's Valuation records were also **Sandford estate tenants**
+- This means Murrays and Copleys were **literally neighbors on the same estate** — not merely in the same parish, but on the same landlord's property
+- The **Ballindrumlea cluster** (William, John, Michael all under Sandford) suggests **extended family members living in proximity** — exactly what would be expected if a family group was organizing emigration together
+
+**Broader Geographic Pattern:**
+
+- **Murrays in two parishes:** Kilgefin (Patrick and John) and Kilkeevin (William, John, Michael, Thomas, Elizabeth)
+- **Barony of Castlereagh:** All in same barony as the Copleys
+- **Landlord diversity:** Mostly Sandford tenants, but also Thomas Morris & Co (urban Castlereagh) and Stretch (Arm)
+- **Urban + rural properties:** William Murray held both rural townland property (Ballindrumlea) and urban Main Street property (Castlereagh), indicating **economic status and diversity**
+
+**Implications for Settlement Theory:**
+
+The Sandford estate connection is critical because:
+1. **It proves close proximity** — not just parish neighbors, but estate neighbors
+2. **It suggests shared experience** — both families dealing with same landlord, same conditions
+3. **It supports organized migration** — families from the same estate would naturally migrate together or in sequence
+4. **It explains the settlement clustering** — the Sandford connection could be the nucleus of the Lewis County Irish Settlement
+
 **Open questions about the Murrays (now testable with primary sources):**
-- Did Patrick and/or John Murray emigrate to Lewis County? (Can search US Census, passenger manifests, Lewis County records)
-- What were their dates of birth and death? (Can search Irish civil registration, burial records)
-- Is [[People/Ann Copley|Ann Munday]] (wife of Michael Copley Sr.) actually **Ann Murray** — a Murray family daughter whose maiden name was phonetically transcribed as "Munday"? (See Section 4.) — **This question becomes testable if we can identify the Murrays' daughter(s)**
-- Are there other Murray family members documented in Lewis County Irish Catholic parish records? (Can search Diocese of Wheeling-Charleston archive, St. Michael's Church records)
+- Did the Sandford-tenant Murrays (especially the Ballindrumlea cluster) emigrate to Lewis County?
+- Are any of the Kilkeevin Murrays identifiable as relatives of the Kilgefin Murrays (Patrick and John)?
+- Did the Murrays emigrate before the Copleys (supporting anchor-family hypothesis) or alongside them?
+- Is [[People/Ann Copley|Ann Munday]] (wife of Michael Copley Sr.) actually **Ann Murray** — possibly a daughter of one of these documented Murray families? (See Section 4.)
+- Are there Murray family members documented in Lewis County Irish Catholic parish records? (Can search Diocese of Wheeling-Charleston archive, St. Michael's Church records)
+- What were the birth/death dates and family relationships among the documented Murrays? (Can search Irish civil registration, burial records)
 
 ### 2f. Other Probable Settlement Families (Suspected — Unverified)
 

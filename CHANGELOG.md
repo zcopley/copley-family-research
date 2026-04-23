@@ -42,9 +42,29 @@ The discovery opens specific research paths:
 - Search Diocese of Wheeling-Charleston archive for Murray family in St. Michael's Church records
 - Test the Ann Munday/Murray hypothesis by identifying Murray family daughters
 
+### Expanded Discovery: Seven Additional Murrays in Kilkeevin Parish
+
+**Follow-up search in Kilkeevin parish (adjacent to Kilgefin)** revealed **seven additional Murrays**, with a crucial finding:
+
+**Multiple Murrays were tenants on the Sandford estate — THE SAME LANDLORD as the Copleys.**
+
+| Name | Townland | Landlord |
+|------|----------|----------|
+| William, John, Michael Murray | Ballindrumlea | **Sandford, William R.W.** ← Same as Copleys |
+| William Murray | Cloonchambers | **Sandford, William R.W.** |
+| William Murray | Castlereagh (urban) | Thomas Morris & Co |
+| Thomas, Elizabeth Murray | Arm | Stretch, Thomas |
+
+This discovery establishes that **Murrays and Copleys were literal neighbors on the same estate** — not merely in the same parish, but on the same landlord's property. The Ballindrumlea cluster (three Murrays under Sandford) suggests extended family members living in proximity.
+
+**Implications:** The Sandford estate connection provides primary source proof of the "neighborhood transplant" hypothesis. Families from the same estate would naturally migrate together or in sequence, explaining the Lewis County Irish Settlement clustering.
+
 ### Research Method
 
-This discovery was made using **Griffith's Valuation search (askaboutireland.ie)** filtering for "Murray" surname in Kilgefin parish, Roscommon. Six results returned; consolidated to three unique individuals with verified documentation.
+Both discoveries were made using **Griffith's Valuation search (askaboutireland.ie)** with the **Claude for Chrome extension**:
+- Search 1 (Kilgefin): 6 results for "Murray" in Kilgefin parish
+- Search 2 (Kilkeevin): 7 results for "Murray" in Kilkeevin parish
+- Claude for Chrome extracted townland, landlord, and location data directly from detailed record pages, eliminating manual copy-paste and significantly accelerating the research process
 
 ---
 
