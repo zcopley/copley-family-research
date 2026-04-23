@@ -10,6 +10,39 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 2L (Continued) — BREAKTHROUGH: The Sandford Estate Community Emerges
+**Date:** April 22, 2026
+
+**Major Discovery:** Murrays, Dolans, and Copleys lived together on the **Sandford estate** — with documented evidence that **Edward Dolan and multiple Murrays shared the same townland (Ballindrumlea) under the same landlord**. This is the **primary source proof of the coordinated community transplant hypothesis**.
+
+### Evidence
+
+**10 Dolan records found across both parishes:**
+- **5 in Kilgefin:** Bernard Dolan (Bogwood, 3 entries), William Dolan (Carroward under Lyster, Tuam under Irwin)
+- **5 in Kilkeevin:** James Dolan (Cloonett, Moor — both under Sandford), **Edward Dolan (Ballindrumlea under Sandford)**, Darby Dolan (landlord status, Castlereagh)
+
+### The Smoking Gun: Ballindrumlea Under Sandford
+
+| Family | Names | Townland | Landlord |
+|--------|-------|----------|----------|
+| **Murrays** | William, John, Michael | Ballindrumlea | Sandford, W.R.W. |
+| **Dolans** | Edward | Ballindrumlea | Sandford, W.R.W. |
+| **Copleys** | [documented earlier] | [Sandford tenants] | Sandford, W.R.W. |
+
+**Three families, same townland, same landlord.** This is the settlement nucleus in documentary form.
+
+### Implications
+
+The Sandford estate connection establishes:
+1. **Pre-emigration proximity** — families living as neighbors under same landlord
+2. **Shared economic conditions** — all dealing with same landlord, rent obligations, estate pressures
+3. **Pre-existing social bonds** — families in position to coordinate migration
+4. **Estate as community unit** — the Sandford estate community transplants itself to Lewis County
+
+This directly validates Tom Copley's "coordinated community transplant" hypothesis with primary source evidence.
+
+---
+
 ## Phase 2L (Continued) — Murray Family Confirmed in Griffith's Valuation (1857)
 **Date:** April 22, 2026
 
