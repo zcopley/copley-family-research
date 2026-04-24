@@ -73,9 +73,9 @@ graph TD
     THOMAS_JR --> CAPTAIN
     MARGARET_N2 --> CAPTAIN
     
-    classDef ancestor fill:#c8e6c9,stroke:#2e7d32,stroke-width:2px,color:#000
-    classDef spouse fill:#bbdefb,stroke:#1976d2,stroke-width:1px,color:#000
-    classDef verified fill:#fff9c4,stroke:#f57f17,stroke-width:2px,color:#000
+    classDef ancestor fill:#c8e6c9,stroke:#2e7d32,stroke-width:2px,color:#1a1a1a,font-weight:bold
+    classDef spouse fill:#bbdefb,stroke:#1976d2,stroke-width:1px,color:#1a1a1a
+    classDef verified fill:#fff9c4,stroke:#f57f17,stroke-width:2px,color:#1a1a1a,font-weight:bold
 ```
 
 ## Generation-by-Generation Overview

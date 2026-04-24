@@ -22,17 +22,17 @@ This page provides a visual, multi-generation map of the Copley family line from
 graph TD
 
 
-classDef irish fill:#1a3d2e,stroke:#4caf7c,stroke-width:2px,color:#f0f0f0
-classDef g23 fill:#1b3a50,stroke:#5ca8d4,stroke-width:2px,color:#f0f0f0
-classDef g24sibling fill:#2a2050,stroke:#8b7fd4,stroke-width:2px,color:#f0f0f0
-classDef sardoBranch fill:#1b4a3a,stroke:#2ec4b6,stroke-width:2px,color:#f0f0f0
-classDef stephenLine fill:#4a2800,stroke:#e89a3c,stroke-width:2px,color:#f0f0f0
-classDef tomLine fill:#5a1a2a,stroke:#e06080,stroke-width:2px,color:#f0f0f0
-classDef grandchild fill:#4a3a10,stroke:#d4b850,stroke-width:2px,color:#f0f0f0
-classDef greatgrand fill:#5a2050,stroke:#e070a0,stroke-width:2px,color:#f0f0f0
-classDef spouse fill:#2d1a4a,stroke:#a77bda,stroke-width:1px,color:#f0f0f0,stroke-dasharray:5,5
+classDef irish fill:#1a3d2e,stroke:#4caf7c,stroke-width:2px,color:#ffffff,font-weight:bold
+classDef g23 fill:#1b3a50,stroke:#5ca8d4,stroke-width:2px,color:#ffffff,font-weight:bold
+classDef g24sibling fill:#2a2050,stroke:#8b7fd4,stroke-width:2px,color:#ffffff,font-weight:bold
+classDef sardoBranch fill:#1b4a3a,stroke:#2ec4b6,stroke-width:2px,color:#ffffff,font-weight:bold
+classDef stephenLine fill:#4a2800,stroke:#e89a3c,stroke-width:2px,color:#ffffff,font-weight:bold
+classDef tomLine fill:#5a1a2a,stroke:#e06080,stroke-width:2px,color:#ffffff,font-weight:bold
+classDef grandchild fill:#4a3a10,stroke:#d4b850,stroke-width:2px,color:#ffffff,font-weight:bold
+classDef greatgrand fill:#5a2050,stroke:#e070a0,stroke-width:2px,color:#ffffff,font-weight:bold
+classDef spouse fill:#2d1a4a,stroke:#a77bda,stroke-width:1px,color:#ffffff,stroke-dasharray:5,5
 classDef marriage fill:none,stroke:#d4a843,stroke-width:2px,color:#d4a843
-classDef speculative fill:#4a5a4a,stroke:#7a9a7a,stroke-width:1px,color:#c0c0c0,stroke-dasharray:3,3
+classDef speculative fill:#4a5a4a,stroke:#7a9a7a,stroke-width:1px,color:#f0f0f0,stroke-dasharray:3,3,font-weight:bold
 
 subgraph ENGLISH_ANCESTORS["📜 English Ancestors (Verified & Speculative Descent)"]
     RICHARD["Sir Richard Copley<br>c. 1375–1434<br>Battley, Yorkshire"]:::speculative
