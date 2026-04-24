@@ -23,6 +23,21 @@ He married [[Mary Ellen Dolan Copley]] (date/place unresolved) and the couple ha
 
 John’s household sat at the center of the family’s economic transformation following the 1900 **[[Topics/1900 Copley Oil Strike|1900 Copley Oil Strike]]**. Probate/lease details remain to be fully documented, but his generation is the key bridge between immigrant agrarian roots and later professional mobility of descendants.
 
+## Timeline
+
+```mermaid
+timeline
+    title John Copley's Life and Era
+    
+    1843 : Birth : Nov 3, 1843, Cove Lick, Lewis County
+    1843-1880 : Farm Inheritance : Child and young adult on family farm
+    1880s : Marriage : Marries Mary Ellen Dolan (date/place unresolved)
+    1880-1900 : Farming & Family : Raises 5 children; manages family land
+    1900 : Oil Strike : Copley No. 1 strikes; economic transformation
+    1900-1925 : Oil Era : Manages oil leases and family wealth
+    1925 : Death : Died 1925; bridge between agrarian and professional era
+```
+
 ## Key Place Links
 - [[Places/Lewis County West Virginia|Lewis County, West Virginia]]
 - [[Places/Weston West Virginia|Weston, West Virginia]]

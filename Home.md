@@ -21,6 +21,22 @@ The research covers:
 - The [[Topics/1900 Copley Oil Strike|1900 Copley Oil Strike]] — industrial turning point
 - Intergenerational mobility from farming to professional careers across the 20th century
 
+```mermaid
+graph LR
+    A["🇮🇪<br/>Roscommon<br/>Origins<br/>1813-1837"] --> B["🚢<br/>Atlantic<br/>Crossing<br/>1837-1838"]
+    B --> C["🏔️<br/>WV<br/>Settlement<br/>1838-1843"]
+    C --> D["⛏️<br/>Land<br/>Ownership<br/>1843-1900"]
+    D --> E["🛢️<br/>Oil<br/>Strike<br/>1900"]
+    E --> F["🎓<br/>Professional<br/>Era<br/>1900-2026"]
+    
+    style A fill:#e3f2fd
+    style B fill:#fff3e0
+    style C fill:#f3e5f5
+    style D fill:#fce4ec
+    style E fill:#e8f5e9
+    style F fill:#f0f4c3
+```
+
 ## Vault Navigation
 
 ### Core Pages

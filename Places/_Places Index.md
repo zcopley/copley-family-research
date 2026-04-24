@@ -11,6 +11,38 @@ tags:
 
 Use this directory for geographic context, archive planning, and cross-linking with person profiles.
 
+## Geographic Overview: The Migration Path
+
+```mermaid
+graph LR
+    IR["🇮🇪 IRELAND"]
+    ROSC["Kilgefin<br/>Kinawley<br/>Co. Roscommon"]
+    
+    NY["🗽 NEW YORK"]
+    
+    WV["🇺🇸 WEST VIRGINIA"]
+    LC["Lewis County"]
+    CL["Cove Lick"]
+    JL["Jane Lew"]
+    WES["Weston"]
+    
+    MD["MARYLAND"]
+    BAL["Baltimore"]
+    
+    IR --> ROSC
+    ROSC --> NY
+    NY --> BAL
+    BAL --> WV
+    WV --> LC
+    LC --> CL
+    LC --> JL
+    LC --> WES
+    
+    style ROSC fill:#e3f2fd
+    style BAL fill:#fff3e0
+    style CL fill:#f3e5f5
+```
+
 ## Ireland
 - [[Places/Kilgefin Ireland|Kilgefin, Ireland]]
 - [[Places/Kinawley Ireland|Kinawley, Ireland]]

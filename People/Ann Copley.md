@@ -44,6 +44,22 @@ A persistent family tradition states that her father drowned in the Potomac Rive
   - [[Thomas Tom Copley|Thomas "Tom" Copley]]
   - [[Sarah Copley]]
 
+## Timeline
+
+```mermaid
+timeline
+    title Ann Copley's Life Arc
+    
+    1823-1824 : Birth : Born in Kinawley, County Fermanagh (date uncertain: 1823 or 1824)
+    1830s : Ireland Childhood : Early years in Kinawley parish
+    1837-1838 : Emigration : Travels to America (manifest details unresolved)
+    1838-1839 : Marriage : Marries Michael Copley Sr. (date/place unresolved)
+    1839-1860 : Large Family : Bears 8 children; life in Potomac labor corridor, then Lewis County
+    1843 : Settlement : Family establishes on Weeden Hoffman land purchase
+    1843-1900 : Farming Era : 57 years on family farm; witnesses Civil War era, oil strike
+    1909 : Death : Dies Nov 2, 1909 in Lewis County (age 85-86)
+```
+
 ## Known/Reported Life Data
 - **Born:** 1823, Kinawley parish, Fermanagh (reported in family narrative) — note: Ancestry.com tree gives Sep 1824; discrepancy unresolved
 - **Died:** 2 Nov 1909, Lewis County, West Virginia (Ancestry.com tree, unverified)

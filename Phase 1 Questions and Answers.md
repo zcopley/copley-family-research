@@ -14,6 +14,35 @@ This page addresses all **Phase 1 quick-win questions** from the strategy analys
 
 📊 Use [[Family Tree]] as the visual reference when mapping each research question to specific people and branches.
 
+## Research Question Hierarchy
+
+```mermaid
+graph TB
+    ROOT[“PHASE 1 OPEN QUESTIONS”]
+    
+    ROOT --> IDENTITY[“🔴 CORE IDENTITY<br/>(Foundation)”]
+    ROOT --> FAMILY[“🟡 FAMILY STRUCTURE<br/>(Reconstruction)”]
+    ROOT --> HISTORY[“🟢 HISTORICAL CONTEXT<br/>(Confirmation)”]
+    
+    IDENTITY --> Q19[“Q19: Michael Sr.<br/>Naturalization date”]
+    IDENTITY --> Q6[“Q6: William<br/>Australia fate”]
+    
+    FAMILY --> Q20[“Q20: John & Mary Ellen<br/>Marriage date/place”]
+    FAMILY --> Q22[“Q22: Dolan Family<br/>Sibling reconstruction”]
+    
+    HISTORY --> Q23[“Q23: Tom at<br/>Chancellorsville”]
+    HISTORY --> Q28[“Q28: John Copley<br/>Military service”]
+    
+    ROOT --> COMPLETE[“📋 COMPLETION<br/>(Living family)”]
+    COMPLETE --> Q33[“Q33-35: Living<br/>biographical sketches”]
+    COMPLETE --> Q45[“Q45: Nelle's birth<br/>year”]
+    
+    style IDENTITY fill:#ffcdd2
+    style FAMILY fill:#fff9c4
+    style HISTORY fill:#c8e6c9
+    style COMPLETE fill:#bbdefb
+```
+
 ## Q23 — Who was the “Tom” at Chancellorsville?
 
 ### Current answer

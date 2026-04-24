@@ -16,6 +16,33 @@ tags:
 
 > 📊 Start with [[Family Tree]] for the fastest visual orientation across generations and branches.
 
+## Generational Overview
+
+```mermaid
+graph TB
+    G23["<b>G23 — Immigrant Generation</b><br/>Michael Copley Sr. (b.1813)<br/>Ann Munday (b.1823)<br/>+ 4 siblings"]
+    
+    G24["<b>G24 — Lewis County Core</b><br/>John Copley (1843-1925)<br/>+ 7 siblings"]
+    
+    G25["<b>G25 — Next Generation</b><br/>Stephen Michael (b.1936)<br/>Thomas Partlow 'Tom' (b.1944)<br/>(multiple children each)"]
+    
+    G26["<b>G26 — Modern Gen</b><br/>Zach Copley<br/>Erin, Charlie<br/>(Tom line)<br/><br/>Michael, Sara, Philip,<br/>Paul, Peter, Susan,<br/>Stephen J., Amy<br/>(Stephen line)"]
+    
+    G27["<b>G27 — Current Gen</b><br/>Wyatt, Augie, Evy, Sam<br/>Lauren, Bobby Cox<br/>Georgia, William Geist"]
+    
+    G23 --> G24
+    G24 --> G25
+    G25 --> G26
+    G26 --> G27
+    
+    style G23 fill:#e3f2fd
+    style G24 fill:#fff3e0
+    style G25 fill:#f3e5f5
+    style G26 fill:#fce4ec
+    style G27 fill:#e8f5e9
+```
+
+Use this directory to find profiles for specific people. Start at the generation level you're interested in, then navigate to individual pages.
 
 ## Name Disambiguation Notes
 - **Michael Copley:** use [[Michael Copley Sr|Michael Copley]] (1813–1897), [[Michael Joseph Copley]] (1898–1988), or [[Michael Copley (b. 1959)]].

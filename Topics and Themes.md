@@ -117,6 +117,34 @@ Sources:
 ## Cross-Theme Linkage
 
 These themes are interdependent:
+
+```mermaid
+graph TB
+    A["🇮🇪 Kilgefin, Ireland<br/>Origin & Conditions<br/>(1813-1837)"]
+    B["🚂 B&O Railroad Labor<br/>Entry Mechanism<br/>(1837-1843)"]
+    C["🏘️ Lewis County Settlement<br/>Land Acquisition<br/>(1843-1900)"]
+    D["🛢️ 1900 Oil Strike<br/>Economic Transformation<br/>(1900+)"]
+    E["🎓 Academic & Professional<br/>Achievement<br/>(1900-2026)"]
+    F["🏠 Irish Famine Context<br/>Push Factors<br/>(1820-1840)"]
+    
+    F --> A
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+    
+    A -.->|Origin uncertainty<br/>drives research| C
+    B -.->|Explains<br/>migration mechanics| C
+    D -.->|Finances<br/>education| E
+    
+    style A fill:#e3f2fd
+    style B fill:#fff3e0
+    style C fill:#f3e5f5
+    style D fill:#e8f5e9
+    style E fill:#fce4ec
+    style F fill:#ffebee
+```
+
 - [[Places/Kilgefin Ireland|Kilgefin, Ireland]] origin uncertainty drives Q1.
 - [[Topics/B&O Railroad Labor History|B&O Railroad Labor History]] context explains migration-to-settlement mechanics.
 - [[Topics/1900 Copley Oil Strike|1900 Copley Oil Strike]] likely underwrites transition to advanced professions.

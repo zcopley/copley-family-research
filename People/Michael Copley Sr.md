@@ -52,6 +52,21 @@ In 1843, Michael and his brother [[Patrick Copley]] entered a purchase agreement
   - [[Sarah Copley]]
 - Siblings (Ireland/U.S. migration context): [[Patrick Copley]], [[Bridget Copley Reynolds]], [[Catherine Kitty Copley Hannon]], [[William Copley]]
 
+## Timeline
+
+```mermaid
+timeline
+    title Michael Copley Sr.'s Life Arc
+    
+    1813 : Birth : Sept 29, 1813, Kilgefin, Roscommon
+    1830s : Life in Ireland : Childhood and young adulthood in County Roscommon
+    1837-1838 : Emigration : Possible 1837 departure on Kutusoff or 1838 on Powhatan
+    1838-1843 : Labor Phase : B&O Railroad work along Potomac corridor (inferred)
+    1843 : Land Purchase : 200-acre deed with Patrick from Weeden Hoffman
+    1843-1897 : Settlement : Farming and family life in Lewis County
+    1897 : Death : January 18-19, 1897, Lewis County, WV
+```
+
 ## Timeline Anchors
 - **1813-09-29**: Born, Kilgefin parish, Roscommon (per gravestone tradition).
 - **1838-08 (manifest date 1838-08-20)**: Probable New York arrival on *Powhatan* as “Michael Copely.”

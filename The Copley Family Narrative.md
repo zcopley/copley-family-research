@@ -12,6 +12,20 @@ tags:
 
 📊 For a generation-by-generation visual guide to the people in this story, see [[Family Tree]].
 
+## The Family Arc: An Overview
+
+```mermaid
+timeline
+    title The Copley Family Journey
+    
+    1813-1837 : Irish Roots : Michael born in Kilgefin, Roscommon
+    1837-1838 : The Journey : Siblings emigrate; Patrick (1837), Michael (1838)
+    1843 : Settlement : Michael purchases land from Weeden Hoffman
+    1843-1900 : Railroad Days : Family builds in Lewis County farming/labor
+    1900 : Oil Strike : Copley No. 1 strikes 4,800 barrels/day
+    1900+ : New Generations : Children enter professional careers
+```
+
 ## Chapter 1 — Irish Roots
 
 The wind moved low and cold over the fields of [[Kilgefin, Roscommon]], and the Copley children learned early that land could be both cradle and trial. In this parish world of chapel bells and tenancy pressure, [[Michael Copley Sr|Michael Copley]] came of age with siblings who would become part of the family’s migration story: [[Patrick Copley]], [[Bridget Copley Reynolds]], [[Catherine Kitty Copley Hannon]], and [[William Copley]].

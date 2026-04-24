@@ -38,6 +38,20 @@ Broader forces shaping the event:
 Family tradition and synthesis documents consistently frame the strike as the major economic inflection point that helped support later educational and professional advancement in the family’s 20th-century branches.
 
 ## Timeline
+
+```mermaid
+timeline
+    title Copley Oil Strike: 57 Years of Landowning to Economic Transformation
+    
+    1843 : Land Acquisition : Hoffman-Copley agreement for 200 acres
+    1843-1899 : Farming Era : Family farms the land for 56 years; primarily agrarian economy
+    1899-1900 : Leasing Phase : South Penn Oil negotiates drilling rights
+    1900-09 : The Strike : Copley No. 1 flows at ~4,800 barrels/day; economic inflection point
+    1900-1925 : Oil Economy : Family receives royalties and lease payments
+    1925+ : Professional Era : Oil wealth finances education for next generation
+```
+
+### Timeline Anchors
 - **1843**: Hoffman-Copley land agreement establishes long-term Copley landholding base.
 - **c. 1899-1900**: Leasing/drilling phase by South Penn Oil on/near Copley lands.
 - **1900-09**: Copley No. 1 reportedly flows at ~4,800 bpd.
