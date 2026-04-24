@@ -1,0 +1,573 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr"><head><title>Week 1 Research Instructions</title><meta charset="utf-8"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Schibsted Grotesk:wght@400;700&amp;family=Source Sans Pro:ital,wght@0,400;0,600;1,400;1,600&amp;family=IBM Plex Mono:wght@400;600&amp;display=swap"/><link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin="anonymous"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="og:site_name" content="Copley Family History"/><meta property="og:title" content="Week 1 Research Instructions"/><meta property="og:type" content="website"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="Week 1 Research Instructions"/><meta name="twitter:description" content="Week 1 Research Instructions: RQ-M1, RQ-M2, RQ-M3 Use these step-by-step guides to execute the three high-priority research questions."/><meta property="og:description" content="Week 1 Research Instructions: RQ-M1, RQ-M2, RQ-M3 Use these step-by-step guides to execute the three high-priority research questions."/><meta property="og:image:alt" content="Week 1 Research Instructions: RQ-M1, RQ-M2, RQ-M3 Use these step-by-step guides to execute the three high-priority research questions."/><meta property="twitter:domain" content="zcopley.github.io/copley-family-research"/><meta property="og:url" content="https://zcopley.github.io/copley-family-research/WEEK_1_RESEARCH_INSTRUCTIONS"/><meta property="twitter:url" content="https://zcopley.github.io/copley-family-research/WEEK_1_RESEARCH_INSTRUCTIONS"/><link rel="icon" href="./static/icon.png"/><meta name="description" content="Week 1 Research Instructions: RQ-M1, RQ-M2, RQ-M3 Use these step-by-step guides to execute the three high-priority research questions."/><meta name="generator" content="Quartz"/><link href="./index.css" rel="stylesheet" type="text/css" data-persist="true"/><style>.expand-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  right: 0;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.expand-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.expand-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.expand-button:focus {
+  outline: 0;
+}
+
+pre:hover > .expand-button {
+  opacity: 1;
+  transition: 0.2s;
+}
+
+#mermaid-container {
+  position: fixed;
+  contain: layout;
+  z-index: 999;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: none;
+  backdrop-filter: blur(4px);
+  background: rgba(0, 0, 0, 0.5);
+}
+#mermaid-container.active {
+  display: inline-block;
+}
+#mermaid-container > #mermaid-space {
+  border: 1px solid var(--lightgray);
+  background-color: var(--light);
+  border-radius: 5px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 80vh;
+  width: 80vw;
+  overflow: hidden;
+}
+#mermaid-container > #mermaid-space > .mermaid-content {
+  position: relative;
+  transform-origin: 0 0;
+  transition: transform 0.1s ease;
+  overflow: visible;
+  min-height: 200px;
+  min-width: 200px;
+}
+#mermaid-container > #mermaid-space > .mermaid-content pre {
+  margin: 0;
+  border: none;
+}
+#mermaid-container > #mermaid-space > .mermaid-content svg {
+  max-width: none;
+  height: auto;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  gap: 8px;
+  padding: 8px;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 2;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  color: var(--dark);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: var(--bodyFont);
+  transition: all 0.2s ease;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:hover {
+  background: var(--lightgray);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:active {
+  transform: translateY(1px);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:nth-child(2) {
+  width: auto;
+  padding: 0 12px;
+  font-size: 14px;
+}
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VSb290IjoiL2hvbWUvcnVubmVyL3dvcmsvY29wbGV5LWZhbWlseS1yZXNlYXJjaC9jb3BsZXktZmFtaWx5LXJlc2VhcmNoL3F1YXJ0ei9jb21wb25lbnRzL3N0eWxlcyIsInNvdXJjZXMiOlsibWVybWFpZC5pbmxpbmUuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTs7QUFHRjtFQUNFO0VBQ0E7O0FBR0Y7RUFDRTs7O0FBS0Y7RUFDRTtFQUNBOzs7QUFJSjtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7O0FBRUE7RUFDRTs7QUFHRjtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTs7QUFHRjtFQUNFO0VBQ0E7O0FBSUo7RUFDRTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTs7QUFFQTtFQUNFOztBQUdGO0VBQ0U7O0FBSUY7RUFDRTtFQUNBO0VBQ0EiLCJzb3VyY2VzQ29udGVudCI6WyIuZXhwYW5kLWJ1dHRvbiB7XG4gIHBvc2l0aW9uOiBhYnNvbHV0ZTtcbiAgZGlzcGxheTogZmxleDtcbiAgZmxvYXQ6IHJpZ2h0O1xuICBwYWRkaW5nOiAwLjRyZW07XG4gIG1hcmdpbjogMC4zcmVtO1xuICByaWdodDogMDsgLy8gTk9URTogcmlnaHQgd2lsbCBiZSBzZXQgaW4gbWVybWFpZC5pbmxpbmUudHNcbiAgY29sb3I6IHZhcigtLWdyYXkpO1xuICBib3JkZXItY29sb3I6IHZhcigtLWRhcmspO1xuICBiYWNrZ3JvdW5kLWNvbG9yOiB2YXIoLS1saWdodCk7XG4gIGJvcmRlcjogMXB4IHNvbGlkO1xuICBib3JkZXItcmFkaXVzOiA1cHg7XG4gIG9wYWNpdHk6IDA7XG4gIHRyYW5zaXRpb246IDAuMnM7XG5cbiAgJiA+IHN2ZyB7XG4gICAgZmlsbDogdmFyKC0tbGlnaHQpO1xuICAgIGZpbHRlcjogY29udHJhc3QoMC4zKTtcbiAgfVxuXG4gICY6aG92ZXIge1xuICAgIGN1cnNvcjogcG9pbnRlcjtcbiAgICBib3JkZXItY29sb3I6IHZhcigtLXNlY29uZGFyeSk7XG4gIH1cblxuICAmOmZvY3VzIHtcbiAgICBvdXRsaW5lOiAwO1xuICB9XG59XG5cbnByZSB7XG4gICY6aG92ZXIgPiAuZXhwYW5kLWJ1dHRvbiB7XG4gICAgb3BhY2l0eTogMTtcbiAgICB0cmFuc2l0aW9uOiAwLjJzO1xuICB9XG59XG5cbiNtZXJtYWlkLWNvbnRhaW5lciB7XG4gIHBvc2l0aW9uOiBmaXhlZDtcbiAgY29udGFpbjogbGF5b3V0O1xuICB6LWluZGV4OiA5OTk7XG4gIGxlZnQ6IDA7XG4gIHRvcDogMDtcbiAgd2lkdGg6IDEwMHZ3O1xuICBoZWlnaHQ6IDEwMHZoO1xuICBvdmVyZmxvdzogaGlkZGVuO1xuICBkaXNwbGF5OiBub25lO1xuICBiYWNrZHJvcC1maWx0ZXI6IGJsdXIoNHB4KTtcbiAgYmFja2dyb3VuZDogcmdiYSgwLCAwLCAwLCAwLjUpO1xuXG4gICYuYWN0aXZlIHtcbiAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7XG4gIH1cblxuICAmID4gI21lcm1haWQtc3BhY2Uge1xuICAgIGJvcmRlcjogMXB4IHNvbGlkIHZhcigtLWxpZ2h0Z3JheSk7XG4gICAgYmFja2dyb3VuZC1jb2xvcjogdmFyKC0tbGlnaHQpO1xuICAgIGJvcmRlci1yYWRpdXM6IDVweDtcbiAgICBwb3NpdGlvbjogZml4ZWQ7XG4gICAgdG9wOiA1MCU7XG4gICAgbGVmdDogNTAlO1xuICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlKC01MCUsIC01MCUpO1xuICAgIGhlaWdodDogODB2aDtcbiAgICB3aWR0aDogODB2dztcbiAgICBvdmVyZmxvdzogaGlkZGVuO1xuXG4gICAgJiA+IC5tZXJtYWlkLWNvbnRlbnQge1xuICAgICAgcG9zaXRpb246IHJlbGF0aXZlO1xuICAgICAgdHJhbnNmb3JtLW9yaWdpbjogMCAwO1xuICAgICAgdHJhbnNpdGlvbjogdHJhbnNmb3JtIDAuMXMgZWFzZTtcbiAgICAgIG92ZXJmbG93OiB2aXNpYmxlO1xuICAgICAgbWluLWhlaWdodDogMjAwcHg7XG4gICAgICBtaW4td2lkdGg6IDIwMHB4O1xuXG4gICAgICBwcmUge1xuICAgICAgICBtYXJnaW46IDA7XG4gICAgICAgIGJvcmRlcjogbm9uZTtcbiAgICAgIH1cblxuICAgICAgc3ZnIHtcbiAgICAgICAgbWF4LXdpZHRoOiBub25lO1xuICAgICAgICBoZWlnaHQ6IGF1dG87XG4gICAgICB9XG4gICAgfVxuXG4gICAgJiA+IC5tZXJtYWlkLWNvbnRyb2xzIHtcbiAgICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTtcbiAgICAgIGJvdHRvbTogMjBweDtcbiAgICAgIHJpZ2h0OiAyMHB4O1xuICAgICAgZGlzcGxheTogZmxleDtcbiAgICAgIGdhcDogOHB4O1xuICAgICAgcGFkZGluZzogOHB4O1xuICAgICAgYmFja2dyb3VuZDogdmFyKC0tbGlnaHQpO1xuICAgICAgYm9yZGVyOiAxcHggc29saWQgdmFyKC0tbGlnaHRncmF5KTtcbiAgICAgIGJvcmRlci1yYWRpdXM6IDZweDtcbiAgICAgIGJveC1zaGFkb3c6IDAgMnB4IDRweCByZ2JhKDAsIDAsIDAsIDAuMSk7XG4gICAgICB6LWluZGV4OiAyO1xuXG4gICAgICAubWVybWFpZC1jb250cm9sLWJ1dHRvbiB7XG4gICAgICAgIGRpc3BsYXk6IGZsZXg7XG4gICAgICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7XG4gICAgICAgIGp1c3RpZnktY29udGVudDogY2VudGVyO1xuICAgICAgICB3aWR0aDogMzJweDtcbiAgICAgICAgaGVpZ2h0OiAzMnB4O1xuICAgICAgICBwYWRkaW5nOiAwO1xuICAgICAgICBib3JkZXI6IDFweCBzb2xpZCB2YXIoLS1saWdodGdyYXkpO1xuICAgICAgICBiYWNrZ3JvdW5kOiB2YXIoLS1saWdodCk7XG4gICAgICAgIGNvbG9yOiB2YXIoLS1kYXJrKTtcbiAgICAgICAgYm9yZGVyLXJhZGl1czogNHB4O1xuICAgICAgICBjdXJzb3I6IHBvaW50ZXI7XG4gICAgICAgIGZvbnQtc2l6ZTogMTZweDtcbiAgICAgICAgZm9udC1mYW1pbHk6IHZhcigtLWJvZHlGb250KTtcbiAgICAgICAgdHJhbnNpdGlvbjogYWxsIDAuMnMgZWFzZTtcblxuICAgICAgICAmOmhvdmVyIHtcbiAgICAgICAgICBiYWNrZ3JvdW5kOiB2YXIoLS1saWdodGdyYXkpO1xuICAgICAgICB9XG5cbiAgICAgICAgJjphY3RpdmUge1xuICAgICAgICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlWSgxcHgpO1xuICAgICAgICB9XG5cbiAgICAgICAgLy8gU3R5bGUgdGhlIHJlc2V0IGJ1dHRvbiBkaWZmZXJlbnRseVxuICAgICAgICAmOm50aC1jaGlsZCgyKSB7XG4gICAgICAgICAgd2lkdGg6IGF1dG87XG4gICAgICAgICAgcGFkZGluZzogMCAxMnB4O1xuICAgICAgICAgIGZvbnQtc2l6ZTogMTRweDtcbiAgICAgICAgfVxuICAgICAgfVxuICAgIH1cbiAgfVxufVxuIl19 */</style><link href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" rel="stylesheet" type="text/css" data-persist="true"/><script src="./prescript.js" type="application/javascript" data-persist="true"></script><script type="application/javascript" data-persist="true">const fetchData = fetch("./static/contentIndex.json").then(data => data.json())</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://zcopley.github.io/copley-family-research/index.xml"/><meta property="og:image:width" content="1200"/><meta property="og:image:height" content="630"/><meta property="og:image" content="https://zcopley.github.io/copley-family-research/WEEK_1_RESEARCH_INSTRUCTIONS-og-image.webp"/><meta property="og:image:url" content="https://zcopley.github.io/copley-family-research/WEEK_1_RESEARCH_INSTRUCTIONS-og-image.webp"/><meta name="twitter:image" content="https://zcopley.github.io/copley-family-research/WEEK_1_RESEARCH_INSTRUCTIONS-og-image.webp"/><meta property="og:image:type" content="image/.webp"/></head><body data-slug="WEEK_1_RESEARCH_INSTRUCTIONS"><div id="quartz-root" class="page"><div id="quartz-body"><div class="left sidebar"><h2 class="page-title"><a href=".">Copley Family History</a></h2><div class="spacer mobile-only"></div><div class="flex-component" style="flex-direction: row; flex-wrap: nowrap; gap: 1rem;"><div style="flex-grow: 1; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><div class="search"><button class="search-button"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title>Search</title><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg><p>Search</p></button><div class="search-container"><div class="search-space"><input autocomplete="off" class="search-bar" name="search" type="text" aria-label="Search for something" placeholder="Search for something"/><div class="search-layout" data-preview="true"></div></div></div></div></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="darkmode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve" aria-label="Dark mode"><title>Dark mode</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve" aria-label="Light mode"><title>Light mode</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></button></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="readermode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="readerIcon" fill="currentColor" stroke="currentColor" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round" width="64px" height="64px" viewBox="0 0 24 24" aria-label="Reader mode"><title>Reader mode</title><g transform="translate(-1.8, -1.8) scale(1.15, 1.2)"><path d="M8.9891247,2.5 C10.1384702,2.5 11.2209868,2.96705384 12.0049645,3.76669482 C12.7883914,2.96705384 13.8709081,2.5 15.0202536,2.5 L18.7549359,2.5 C19.1691495,2.5 19.5049359,2.83578644 19.5049359,3.25 L19.5046891,4.004 L21.2546891,4.00457396 C21.6343849,4.00457396 21.9481801,4.28672784 21.9978425,4.6528034 L22.0046891,4.75457396 L22.0046891,20.25 C22.0046891,20.6296958 21.7225353,20.943491 21.3564597,20.9931534 L21.2546891,21 L2.75468914,21 C2.37499337,21 2.06119817,20.7178461 2.01153575,20.3517706 L2.00468914,20.25 L2.00468914,4.75457396 C2.00468914,4.37487819 2.28684302,4.061083 2.65291858,4.01142057 L2.75468914,4.00457396 L4.50368914,4.004 L4.50444233,3.25 C4.50444233,2.87030423 4.78659621,2.55650904 5.15267177,2.50684662 L5.25444233,2.5 L8.9891247,2.5 Z M4.50368914,5.504 L3.50468914,5.504 L3.50468914,19.5 L10.9478955,19.4998273 C10.4513189,18.9207296 9.73864328,18.5588115 8.96709342,18.5065584 L8.77307039,18.5 L5.25444233,18.5 C4.87474657,18.5 4.56095137,18.2178461 4.51128895,17.8517706 L4.50444233,17.75 L4.50368914,5.504 Z M19.5049359,17.75 C19.5049359,18.1642136 19.1691495,18.5 18.7549359,18.5 L15.2363079,18.5 C14.3910149,18.5 13.5994408,18.8724714 13.0614828,19.4998273 L20.5046891,19.5 L20.5046891,5.504 L19.5046891,5.504 L19.5049359,17.75 Z M18.0059359,3.999 L15.0202536,4 L14.8259077,4.00692283 C13.9889509,4.06666544 13.2254227,4.50975805 12.7549359,5.212 L12.7549359,17.777 L12.7782651,17.7601316 C13.4923805,17.2719483 14.3447024,17 15.2363079,17 L18.0059359,16.999 L18.0056891,4.798 L18.0033792,4.75457396 L18.0056891,4.71 L18.0059359,3.999 Z M8.9891247,4 L6.00368914,3.999 L6.00599909,4.75457396 L6.00599909,4.75457396 L6.00368914,4.783 L6.00368914,16.999 L8.77307039,17 C9.57551536,17 10.3461406,17.2202781 11.0128313,17.6202194 L11.2536891,17.776 L11.2536891,5.211 C10.8200889,4.56369974 10.1361548,4.13636104 9.37521067,4.02745763 L9.18347055,4.00692283 L8.9891247,4 Z"></path></g></svg></button></div></div><div class="explorer" data-behavior="link" data-collapsed="collapsed" data-savestate="true" data-data-fns="{&quot;order&quot;:[&quot;filter&quot;,&quot;map&quot;,&quot;sort&quot;],&quot;sortFn&quot;:&quot;(a,b)=>!a.isFolder&amp;&amp;!b.isFolder||a.isFolder&amp;&amp;b.isFolder?a.displayName.localeCompare(b.displayName,void 0,{numeric:!0,sensitivity:\&quot;base\&quot;}):!a.isFolder&amp;&amp;b.isFolder?1:-1&quot;,&quot;filterFn&quot;:&quot;node=>node.slugSegment!==\&quot;tags\&quot;&quot;,&quot;mapFn&quot;:&quot;node=>node&quot;}"><button type="button" class="explorer-toggle mobile-explorer hide-until-loaded" data-mobile="true" aria-controls="explorer-197"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-menu"><line x1="4" x2="20" y1="12" y2="12"></line><line x1="4" x2="20" y1="6" y2="6"></line><line x1="4" x2="20" y1="18" y2="18"></line></svg></button><button type="button" class="title-button explorer-toggle desktop-explorer" data-mobile="false" aria-expanded="true"><h2>Explorer</h2><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="explorer-197" class="explorer-content" aria-expanded="false" role="group"><ul class="explorer-ul overflow" id="list-0"><li class="overflow-end"></li></ul></div><template id="template-file"><li><a href="#"></a></li></template><template id="template-folder"><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div><button class="folder-button"><span class="folder-title"></span></button></div></div><div class="folder-outer"><ul class="content"></ul></div></li></template></div></div><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container" aria-label="breadcrumbs"><div class="breadcrumb-element"><a href="./">Home</a><p> ❯ </p></div><div class="breadcrumb-element"><a href>Week 1 Research Instructions</a></div></nav><h1 class="article-title">Week 1 Research Instructions</h1><p show-comma="true" class="content-meta"><time datetime="2026-04-23T00:00:00.000Z">Apr 23, 2026</time><span>9 min read</span></p><ul class="tags"><li><a href="./tags/copley-family" class="internal tag-link">copley-family</a></li><li><a href="./tags/research-instructions" class="internal tag-link">research-instructions</a></li><li><a href="./tags/rq-m1" class="internal tag-link">rq-m1</a></li><li><a href="./tags/rq-m2" class="internal tag-link">rq-m2</a></li><li><a href="./tags/rq-m3" class="internal tag-link">rq-m3</a></li></ul></div></div><article class="popover-hint"><h1 id="week-1-research-instructions-rq-m1-rq-m2-rq-m3">Week 1 Research Instructions: RQ-M1, RQ-M2, RQ-M3<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#week-1-research-instructions-rq-m1-rq-m2-rq-m3" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><strong>Use these step-by-step guides to execute the three high-priority research questions.</strong> As you find records, report findings to Claude for Chrome to organize and synthesize.</p>
+<hr/>
+<h2 id="-task-1-lewis-county-deed-records-search-rq-m1">📋 Task 1: Lewis County Deed Records Search (RQ-M1)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-task-1-lewis-county-deed-records-search-rq-m1" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p><strong>Objective:</strong> Find the first Murray family land purchase in Lewis County, WV (1825–1855). This establishes whether Murrays were the settlement anchor.</p>
+<p><strong>Time Estimate:</strong> 2–3 hours<br/>
+<strong>Difficulty:</strong> Medium (database navigation)<br/>
+<strong>Key Finding:</strong> Any deed showing a Murray purchasing land in Cove Lick/Camden/Loveberry area BEFORE 1843 = strong evidence of anchor family role</p>
+<hr/>
+<h3 id="step-1-access-familysearch-lewis-county-deeds"><strong>Step 1: Access FamilySearch Lewis County Deeds</strong><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#step-1-access-familysearch-lewis-county-deeds" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ol>
+<li>Go to: <a href="https://www.familysearch.org/" class="external">https://www.familysearch.org/<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></li>
+<li>Click <strong>“Search”</strong> at top</li>
+<li>Under “By Location,” search for: <strong>“Lewis County, West Virginia”</strong></li>
+<li>In results, look for: <strong>“West Virginia, Lewis County Land Records, 1817–[year]”</strong></li>
+<li>Click that collection</li>
+<li>You should see options for “Browse” and “Search”</li>
+</ol>
+<p><strong>Alternative (if FamilySearch access limited):</strong></p>
+<ul>
+<li>Try: <a href="https://www.ancestry.com/" class="external">https://www.ancestry.com/<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> → Search “Lewis County, West Virginia Deeds”</li>
+<li>May require paid subscription, but 14-day free trial available</li>
+</ul>
+<hr/>
+<h3 id="step-2-set-search-filters"><strong>Step 2: Set Search Filters</strong><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#step-2-set-search-filters" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Once in the Lewis County deeds collection:</p>
+<p><strong>Search Parameters:</strong></p>
+<ul>
+<li><strong>Surname:</strong> MURRAY (try variations: MURRY, MOREY, MURY if no results)</li>
+<li><strong>Given Name:</strong> (leave blank to catch all first names)</li>
+<li><strong>Date Range:</strong> 1825–1855</li>
+<li><strong>Search Type:</strong> Exact match (if available), or name match</li>
+</ul>
+<p><strong>Do NOT filter by:</strong></p>
+<ul>
+<li>Specific townland (we want to see ALL Murray purchases)</li>
+<li>Specific person (we’re looking for any Murray)</li>
+</ul>
+<hr/>
+<h3 id="step-3-record-all-murray-results"><strong>Step 3: Record All Murray Results</strong><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#step-3-record-all-murray-results" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>For EACH deed record found, record:</p>
+<pre><code>DEED RECORD #[number]:
+- Person Name: ________________
+- Date: ________________
+- Property Location: ________________
+- Acreage/Details: ________________
+- Transaction Type (Bought/Sold/Leased): ________________
+- Notes: ________________
+</code></pre>
+<p><strong>Key locations to watch for:</strong></p>
+<ul>
+<li>Cove Lick</li>
+<li>Camden</li>
+<li>Loveberry</li>
+<li>Copley Road / Copley area</li>
+<li>Any nearby townland</li>
+</ul>
+<hr/>
+<h3 id="step-4-cross-check-against-known-copley-purchase"><strong>Step 4: Cross-Check Against Known Copley Purchase</strong><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#step-4-cross-check-against-known-copley-purchase" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p><strong>Baseline for comparison:</strong></p>
+<ul>
+<li>Michael Copley Sr. + Patrick Copley purchased from <strong>Weeden Hoffman</strong> in <strong>1843</strong></li>
+<li>Location: Cove Lick area, Lewis County</li>
+</ul>
+<p><strong>Question:</strong> Did any Murray purchase land BEFORE 1843 in the same area? If YES → Murray is anchor. If NO → Murray role unclear.</p>
+<hr/>
+<h3 id="step-5-expand-search-if-time-permits"><strong>Step 5: Expand Search (if time permits)</strong><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#step-5-expand-search-if-time-permits" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>If you find Murray deeds, also search:</p>
+<ul>
+<li><strong>WEEDEN HOFFMAN</strong> — Did he sell to multiple Irish Catholic families? (Indicates broker role)</li>
+<li><strong>DOLAN</strong> — Any Dolan purchases in same timeframe/area?</li>
+<li><strong>HANNON, HANLEY, MULLOOLY</strong> — Same check</li>
+</ul>
+<hr/>
+<h3 id="what-to-report-to-claude-for-chrome"><strong>What to Report to Claude for Chrome:</strong><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#what-to-report-to-claude-for-chrome" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Once you’ve completed searches, tell Claude:</p>
+<blockquote>
+<p>“I searched Lewis County deeds 1825–1855 for Murray surnames. Here’s what I found:</p>
+<ul>
+<li>[Name, Date, Location, Details for each deed]</li>
+<li>No results / [X] results found</li>
+<li>Comparison to Copley 1843 purchase: [Earlier / Later / Same area / Different area]</li>
+</ul>
+<p>Analysis needed: Does this prove/refute Murray as anchor family?”</p>
+</blockquote>
+<p>Claude will:</p>
+<ul>
+<li>Organize findings in table format</li>
+<li>Compare timeline to Copley arrival (1843)</li>
+<li>Draft evidence summary for RQ-M1</li>
+<li>Update wiki if significant findings</li>
+</ul>
+<hr/>
+<h2 id="-task-2-powhatan-ship-manifest-search-rq-m2">🚢 Task 2: <em>Powhatan</em> Ship Manifest Search (RQ-M2)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-task-2-powhatan-ship-manifest-search-rq-m2" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p><strong>Objective:</strong> Find full <em>Powhatan</em> (Aug 20, 1838) passenger list. Look for settlement family surnames (Murray, Dolan, Hanley, Hannon, Mullooly, Reynolds) traveling with Copleys.</p>
+<p><strong>Time Estimate:</strong> 1–2 hours<br/>
+<strong>Difficulty:</strong> Low (straightforward search)<br/>
+<strong>Key Finding:</strong> Multiple settlement families on same ship = organized group emigration</p>
+<p><strong>What we know:</strong></p>
+<ul>
+<li>Ship: <em><strong>Powhatan</strong></em></li>
+<li>Date: <strong>August 20, 1838</strong></li>
+<li>Known passengers: <strong>Michael Copely</strong> (age 22) and <strong>Pat Copely</strong> (age 20)</li>
+<li>Spelling: “Copely” (Catholic variant)</li>
+</ul>
+<hr/>
+<h3 id="step-1-access-ship-manifest-records"><strong>Step 1: Access Ship Manifest Records</strong><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#step-1-access-ship-manifest-records" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p><strong>Option A: FamilySearch (Recommended)</strong></p>
+<ol>
+<li>Go to: <a href="https://www.familysearch.org/" class="external">https://www.familysearch.org/<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></li>
+<li>Click <strong>“Search”</strong></li>
+<li>Under “By Record Type,” click <strong>“Passenger Lists”</strong></li>
+<li>Search: <strong>Ship Name: Powhatan</strong> + <strong>Year: 1838</strong></li>
+<li>Filter for August 1838 arrival</li>
+</ol>
+<p><strong>Option B: Ancestry.com</strong></p>
+<ol>
+<li>Go to: <a href="https://www.ancestry.com/" class="external">https://www.ancestry.com/<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></li>
+<li>Search <strong>“Ship Manifests”</strong></li>
+<li>Search: <strong>Powhatan 1838</strong></li>
+<li>Look for August 20, 1838 arrival</li>
+</ol>
+<p><strong>Option C: NARA (National Archives)</strong></p>
+<ul>
+<li>NARA M237 index (may require visiting archive or requesting copies)</li>
+<li>Less user-friendly but comprehensive</li>
+</ul>
+<hr/>
+<h3 id="step-2-locate-the-powhatan-august-1838-manifest"><strong>Step 2: Locate the <em>Powhatan</em> August 1838 Manifest</strong><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#step-2-locate-the-powhatan-august-1838-manifest" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>When you find multiple ship results:</p>
+<ul>
+<li>Look for <strong>August 20, 1838</strong> specifically</li>
+<li>Should show arrival port (likely <strong>New York</strong>)</li>
+<li>Verify ship name: <em><strong>Powhatan</strong></em></li>
+</ul>
+<p>If multiple voyages exist, check:</p>
+<ul>
+<li>Departure port (Ireland, UK, or other)</li>
+<li>Vessel type (usually listed as “ship”)</li>
+<li>Passenger count (~100–300 typical for this era)</li>
+</ul>
+<hr/>
+<h3 id="step-3-search-for-known-passengers"><strong>Step 3: Search for Known Passengers</strong><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#step-3-search-for-known-passengers" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Once you have the manifest page(s):</p>
+<p><strong>First, verify the Copleys are there:</strong></p>
+<ul>
+<li>Search for: <strong>“Michael Copely”</strong> or <strong>“Michael Copley”</strong> — age 22</li>
+<li>Search for: <strong>“Pat Copely”</strong> or <strong>“Patrick Copley”</strong> — age 20</li>
+<li>If found: ✅ You have the right manifest</li>
+</ul>
+<p><strong>Then search for other settlement family surnames:</strong></p>
+<ul>
+<li><strong>MURRAY</strong> (any first name)</li>
+<li><strong>DOLAN</strong></li>
+<li><strong>HANLEY</strong> / <strong>HANNY</strong></li>
+<li><strong>HANNON</strong></li>
+<li><strong>MULLOOLY</strong> / <strong>MULLALLY</strong> / <strong>MULLOY</strong></li>
+<li><strong>REYNOLDS</strong></li>
+<li><strong>GIBBONS</strong> (Bridget Gibbons married Michael Copely of Fairymount 1864)</li>
+</ul>
+<hr/>
+<h3 id="step-4-record-all-matching-names"><strong>Step 4: Record All Matching Names</strong><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#step-4-record-all-matching-names" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>For EACH family name found on the manifest, record:</p>
+<pre><code>PASSENGER RECORD #[number]:
+- Name: ________________
+- Age: ________________
+- Occupation (if listed): ________________
+- Destination (if listed): ________________
+- Origin/Where from (if listed): ________________
+- Notes: ________________
+</code></pre>
+<hr/>
+<h3 id="step-5-identify-patterns"><strong>Step 5: Identify Patterns</strong><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#step-5-identify-patterns" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p><strong>Questions to ask:</strong></p>
+<ul>
+<li>How many settlement family members are on this ship?</li>
+<li>Do they travel together (family groups) or separately?</li>
+<li>Do they list the same destination?</li>
+<li>Any notation about “following” or “joining” other family members?</li>
+</ul>
+<hr/>
+<h3 id="step-6-cross-check-with-kutusoff-1837"><strong>Step 6: Cross-Check with <em>Kutusoff</em> (1837)</strong><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#step-6-cross-check-with-kutusoff-1837" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>If you have time:</p>
+<ol>
+<li>Repeat steps 1–4 for <em><strong>Kutusoff</strong></em> <strong>1837</strong> voyage</li>
+<li>Look for: Bridget Copley, Mary Copely, other siblings of Michael Sr.</li>
+<li>See if <em>Kutusoff</em> passengers overlap with <em>Powhatan</em> passengers</li>
+</ol>
+<hr/>
+<h3 id="what-to-report-to-claude-for-chrome-1"><strong>What to Report to Claude for Chrome:</strong><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#what-to-report-to-claude-for-chrome-1" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<blockquote>
+<p>“I found the <em>Powhatan</em> Aug 20, 1838 manifest. Here’s what I found:</p>
+<p><strong>Confirmed Copleys:</strong></p>
+<ul>
+<li>Michael Copely, age 22</li>
+<li>Pat Copely, age 20</li>
+</ul>
+<p><strong>Settlement family members on same ship:</strong></p>
+<ul>
+<li>[Name, age, origin for each]</li>
+<li>[No other families found / X families found]</li>
+</ul>
+<p><strong>Analysis needed:</strong> Does this prove organized group emigration?”</p>
+</blockquote>
+<p>Claude will:</p>
+<ul>
+<li>Create a passenger comparison table</li>
+<li>Assess evidence for chain migration (RQ-M2)</li>
+<li>Note any gaps or questions for follow-up</li>
+<li>Update wiki with findings</li>
+</ul>
+<hr/>
+<h2 id="-task-3-griffiths-valuation-searches-rq-m3-rq-m7">🇮🇪 Task 3: Griffith’s Valuation Searches (RQ-M3, RQ-M7)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-task-3-griffiths-valuation-searches-rq-m3-rq-m7" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p><strong>Objective:</strong> Complete the Roscommon estate-mate clustering verification. Search for Dolan, Mullooly, Reynolds family names in Griffith’s Valuation (1857).</p>
+<p><strong>Time Estimate:</strong> 1–2 hours<br/>
+<strong>Difficulty:</strong> Low (website is straightforward)<br/>
+<strong>Key Finding:</strong> Multiple families on same Sandford estate = verified estate-mate community</p>
+<p><strong>What we already know (verified):</strong></p>
+<ul>
+<li>Copleys: Sandford estate, Ballindrumlea (Kilkeevin)</li>
+<li>Murrays: Multiple entries, Sandford estate</li>
+<li>Hanleys: Sandford estate, Ballindrumlea</li>
+<li>Hannons: Sandford estate</li>
+</ul>
+<p><strong>Still need to verify:</strong></p>
+<ul>
+<li>Dolans (partially done, may need to expand)</li>
+<li>Mulloolys / Mulrooneys</li>
+<li>Reynolds</li>
+</ul>
+<hr/>
+<h3 id="step-1-access-griffiths-valuation-online"><strong>Step 1: Access Griffith’s Valuation Online</strong><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#step-1-access-griffiths-valuation-online" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p><strong>Best source: askaboutireland.ie (FREE)</strong></p>
+<ol>
+<li>Go to: <a href="https://www.askaboutireland.ie/griffith-valuation/" class="external">https://www.askaboutireland.ie/griffith-valuation/<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></li>
+<li>Click <strong>“Search”</strong></li>
+<li>You should see dropdown menus for:
+<ul>
+<li>County</li>
+<li>Baronies</li>
+<li>Parishes</li>
+<li>Townlands</li>
+</ul>
+</li>
+</ol>
+<p><strong>Alternative sources:</strong></p>
+<ul>
+<li><a href="https://www.irishgenealogyhub.com/" class="external">https://www.irishgenealogyhub.com/<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> (searchable database)</li>
+<li><a href="https://registers.nli.ie/" class="external">https://registers.nli.ie/<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> (National Library of Ireland)</li>
+</ul>
+<hr/>
+<h3 id="step-2-set-search-parameters"><strong>Step 2: Set Search Parameters</strong><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#step-2-set-search-parameters" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ol>
+<li><strong>County:</strong> ROSCOMMON</li>
+<li><strong>Baronies:</strong> Select all (or focus on Castlereagh if dropdown available)</li>
+<li><strong>Parishes:</strong> Search each of these individually:
+<ul>
+<li><strong>KILGEFIN</strong></li>
+<li><strong>KILKEEVIN</strong></li>
+<li><strong>KILCORKEY</strong></li>
+</ul>
+</li>
+<li><strong>Townlands:</strong> Leave blank (search entire parish)</li>
+</ol>
+<hr/>
+<h3 id="step-3-search-for-dolan-surname"><strong>Step 3: Search for DOLAN Surname</strong><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#step-3-search-for-dolan-surname" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Within Kilgefin parish:</p>
+<ul>
+<li>Search: <strong>DOLAN</strong> (all first names)</li>
+<li>Record ALL results</li>
+</ul>
+<p>Within Kilkeevin parish:</p>
+<ul>
+<li>Search: <strong>DOLAN</strong> again</li>
+<li>Record ALL results</li>
+</ul>
+<p><strong>For each entry found, record:</strong></p>
+<pre><code>DOLAN ENTRY #[number]:
+- Full Name: ________________
+- Townland: ________________
+- Landlord: ________________
+- Acreage: ________________
+- Property Value: ________________
+- Notes: ________________
+</code></pre>
+<p><strong>Key question:</strong> Is the Dolan on the <strong>Sandford estate</strong> (same as Copleys/Murrays)?</p>
+<hr/>
+<h3 id="step-4-search-for-mullooly--mullally--mulloy"><strong>Step 4: Search for MULLOOLY / MULLALLY / MULLOY</strong><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#step-4-search-for-mullooly--mullally--mulloy" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Repeat the same process:</p>
+<ul>
+<li>Search Kilgefin, Kilkeevin, Kilcorkey for:
+<ul>
+<li><strong>MULLOOLY</strong></li>
+<li><strong>MULLALLY</strong></li>
+<li><strong>MULLOY</strong></li>
+<li><strong>MULLINS</strong></li>
+<li><strong>MULLAN</strong></li>
+</ul>
+</li>
+</ul>
+<p>(Spelling variations common in Irish records)</p>
+<hr/>
+<h3 id="step-5-search-for-reynolds"><strong>Step 5: Search for REYNOLDS</strong><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#step-5-search-for-reynolds" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Same process:</p>
+<ul>
+<li>Kilgefin, Kilkeevin, Kilcorkey</li>
+<li>Search: <strong>REYNOLDS</strong></li>
+<li>Record ALL results</li>
+</ul>
+<hr/>
+<h3 id="step-6-search-for-gibbons-bonus"><strong>Step 6: Search for GIBBONS</strong> (Bonus)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#step-6-search-for-gibbons-bonus" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Bridget Gibbons married Michael Copely of Fairymount (1864).</p>
+<ul>
+<li>Search: <strong>GIBBONS</strong> in Kilgefin</li>
+<li>Look specifically for: Ballincurry area (where Bridget Gibbons likely from)</li>
+</ul>
+<hr/>
+<h3 id="step-7-create-sandford-estate-map"><strong>Step 7: Create Sandford Estate Map</strong><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#step-7-create-sandford-estate-map" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Once you have all results, create a list:</p>
+<pre><code>SANDFORD ESTATE COMMUNITY (Griffith's Valuation 1857):
+
+✅ CONFIRMED ON SANDFORD ESTATE:
+- Copleys: [names &amp; townlands]
+- Murrays: [names &amp; townlands]
+- Hanleys: [names &amp; townlands]
+- Hannons: [names &amp; townlands]
+- Dolans: [names &amp; townlands, if found]
+- [Other families if found on same estate]
+
+❓ FOUND IN ROSCOMMON BUT NOT SANDFORD:
+- [Name, parish, townland, landlord]
+
+❌ NOT FOUND IN GRIFFITH'S:
+- [Family names searched but not found]
+</code></pre>
+<hr/>
+<h3 id="step-8-analyze-geographic-clustering"><strong>Step 8: Analyze Geographic Clustering</strong><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#step-8-analyze-geographic-clustering" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p><strong>Questions to answer:</strong></p>
+<ul>
+<li>How many families live on same Sandford estate?</li>
+<li>Are they in same townland (Ballindrumlea) or different townlands under same landlord?</li>
+<li>What landlord(s) are involved? (W.R.W. Sandford most common)</li>
+<li>Are there any other neighbors on the same estate (non-Copley families)?</li>
+</ul>
+<hr/>
+<h3 id="what-to-report-to-claude-for-chrome-2"><strong>What to Report to Claude for Chrome:</strong><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#what-to-report-to-claude-for-chrome-2" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<blockquote>
+<p>“I completed Griffith’s Valuation searches for RQ-M3 and RQ-M7. Here’s what I found:</p>
+<p><strong>Estate-mate clustering confirmed:</strong></p>
+<ul>
+<li>[Families found on Sandford estate in same townland]</li>
+<li>Landlord: [name]</li>
+<li>Townlands: [list]</li>
+</ul>
+<p><strong>Families found in Roscommon but NOT on Sandford:</strong></p>
+<ul>
+<li>[Name, parish, landlord]</li>
+</ul>
+<p><strong>Families NOT found in Griffith’s (may have emigrated earlier):</strong></p>
+<ul>
+<li>[Name]</li>
+</ul>
+<p><strong>Analysis needed:</strong> How strong is the evidence for coordinated estate-mate emigration?”</p>
+</blockquote>
+<p>Claude will:</p>
+<ul>
+<li>Create visual estate map</li>
+<li>Calculate clustering statistics</li>
+<li>Assess evidence strength for RQ-M3</li>
+<li>Draft synthesis for Research Roadmap</li>
+</ul>
+<hr/>
+<h2 id="-data-collection-template">📊 Data Collection Template<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-data-collection-template" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p><strong>Use this template to organize all findings as you search:</strong></p>
+<pre><code>RESEARCH TASK: [RQ-M1 / RQ-M2 / RQ-M3]
+Date: ________________
+Database: ________________
+
+SEARCH PARAMETERS:
+- Surname(s): ________________
+- Location: ________________
+- Date Range: ________________
+- Record Type: ________________
+
+RESULTS FOUND:
+Total records: ________________
+
+[Record 1]
+[Record 2]
+[Record 3]
+...
+
+INITIAL OBSERVATIONS:
+- Pattern noted: ________________
+- Questions raised: ________________
+- Evidence strength (weak/medium/strong): ________________
+
+NEXT STEPS:
+- [ ] Cross-check with related surnames
+- [ ] Verify timeline
+- [ ] Report to Claude for synthesis
+</code></pre>
+<hr/>
+<h2 id="-success-checklist">🎯 Success Checklist<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-success-checklist" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled/> <strong>RQ-M1:</strong> Lewis County deed search completed (3+ hours searching)</li>
+<li class="task-list-item"><input type="checkbox" disabled/> <strong>RQ-M2:</strong> <em>Powhatan</em> manifest found and searched (settlement families identified)</li>
+<li class="task-list-item"><input type="checkbox" disabled/> <strong>RQ-M3:</strong> Griffith’s Valuation completed (Dolan, Mullooly, Reynolds searched; estate-mate clustering mapped)</li>
+<li class="task-list-item"><input type="checkbox" disabled/> All findings recorded in structured format</li>
+<li class="task-list-item"><input type="checkbox" disabled/> Reported to Claude for Chrome for synthesis</li>
+<li class="task-list-item"><input type="checkbox" disabled/> Evidence summary drafted for Research Roadmap update</li>
+</ul>
+<hr/>
+<h2 id="-tips--troubleshooting">💡 Tips &amp; Troubleshooting<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-tips--troubleshooting" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h3 id="if-you-cant-find-records">If you can’t find records:<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#if-you-cant-find-records" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li><strong>Try spelling variations:</strong> Dolan/Delin, Mullooly/Mullally/Mulloy, Hanley/Hanny</li>
+<li><strong>Expand date range:</strong> Try 1850–1860 if 1857 alone isn’t working</li>
+<li><strong>Check adjacent parishes:</strong> Ballagh (aka Kilgefin), Kilroosky nearby</li>
+<li><strong>Ask Claude for Chrome:</strong> “I can’t find X surname, should I expand search to…?”</li>
+</ul>
+<h3 id="if-you-find-too-many-results">If you find too many results:<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#if-you-find-too-many-results" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li><strong>Filter by townland:</strong> Focus on Sandford estate, Ballindrumlea, Fairymount first</li>
+<li><strong>Record key fields only:</strong> Name, townland, landlord (don’t need every detail)</li>
+<li><strong>Ask Claude:</strong> “I found 50 Dolan entries, should I focus on specific townlands?”</li>
+</ul>
+<h3 id="if-databases-are-slow-or-unavailable">If databases are slow or unavailable:<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#if-databases-are-slow-or-unavailable" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li><strong>Try alternative sources:</strong> Move to next task, come back later</li>
+<li><strong>Report to Claude:</strong> “FamilySearch is slow, moving to askaboutireland.ie”</li>
+<li><strong>Use offline notes:</strong> Record findings by hand, transcribe to Claude later</li>
+</ul>
+<hr/>
+<h2 id="-timeline">📅 Timeline<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-timeline" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p><strong>Ideal execution:</strong></p>
+<ul>
+<li><strong>Day 1:</strong> RQ-M1 (Lewis County deeds) + RQ-M2 (<em>Powhatan</em> manifest)</li>
+<li><strong>Day 2:</strong> RQ-M3 (Griffith’s Valuation) + synthesis with Claude</li>
+<li><strong>Day 3:</strong> Report findings, update Research Roadmap with results</li>
+</ul>
+<p><strong>Report to Claude after each task for real-time synthesis and guidance.</strong></p>
+<hr/>
+<p><strong>Good luck! Report back to Claude for Chrome as you find records — the synthesis and evidence evaluation is where the real insights emerge.</strong> 🔍</p></article><hr/><div class="page-footer"></div></div><div class="right sidebar"><div class="graph"><h3>Graph View</h3><div class="graph-outer"><div class="graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:1,&quot;scale&quot;:1.1,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:false,&quot;enableRadial&quot;:false}"></div><button class="global-graph-icon" aria-label="Global Graph"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 55 55" fill="currentColor" xml:space="preserve"><path d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17
+                s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4
+                c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562
+                C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829
+                c1.106,0.86,2.44,1.436,3.898,1.619v10.16c-2.833,0.478-5,2.942-5,5.91c0,3.309,2.691,6,6,6s6-2.691,6-6c0-2.967-2.167-5.431-5-5.91
+                v-10.16c1.458-0.183,2.792-0.759,3.898-1.619l7.669,7.669C41.215,39.576,41,40.26,41,41c0,2.206,1.794,4,4,4s4-1.794,4-4
+                s-1.794-4-4-4c-0.74,0-1.424,0.215-2.019,0.567l-7.669-7.669C36.366,28.542,37,26.846,37,25s-0.634-3.542-1.688-4.897l9.665-9.665
+                C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2
+                S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4
+                s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2
+                s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"></path></svg></button></div><div class="global-graph-outer"><div class="global-graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:-1,&quot;scale&quot;:0.9,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.2,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:true,&quot;enableRadial&quot;:true}"></div></div></div><div class="toc desktop-only"><button type="button" class="toc-header" aria-controls="toc-109" aria-expanded="true"><h3>Table of Contents</h3><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><ul id="list-1" class="toc-content overflow"><li class="depth-0"><a href="#week-1-research-instructions-rq-m1-rq-m2-rq-m3" data-for="week-1-research-instructions-rq-m1-rq-m2-rq-m3">Week 1 Research Instructions: RQ-M1, RQ-M2, RQ-M3</a></li><li class="depth-1"><a href="#-task-1-lewis-county-deed-records-search-rq-m1" data-for="-task-1-lewis-county-deed-records-search-rq-m1">📋 Task 1: Lewis County Deed Records Search (RQ-M1)</a></li><li class="depth-2"><a href="#step-1-access-familysearch-lewis-county-deeds" data-for="step-1-access-familysearch-lewis-county-deeds">Step 1: Access FamilySearch Lewis County Deeds</a></li><li class="depth-2"><a href="#step-2-set-search-filters" data-for="step-2-set-search-filters">Step 2: Set Search Filters</a></li><li class="depth-2"><a href="#step-3-record-all-murray-results" data-for="step-3-record-all-murray-results">Step 3: Record All Murray Results</a></li><li class="depth-2"><a href="#step-4-cross-check-against-known-copley-purchase" data-for="step-4-cross-check-against-known-copley-purchase">Step 4: Cross-Check Against Known Copley Purchase</a></li><li class="depth-2"><a href="#step-5-expand-search-if-time-permits" data-for="step-5-expand-search-if-time-permits">Step 5: Expand Search (if time permits)</a></li><li class="depth-2"><a href="#what-to-report-to-claude-for-chrome" data-for="what-to-report-to-claude-for-chrome">What to Report to Claude for Chrome:</a></li><li class="depth-1"><a href="#-task-2-powhatan-ship-manifest-search-rq-m2" data-for="-task-2-powhatan-ship-manifest-search-rq-m2">🚢 Task 2: Powhatan Ship Manifest Search (RQ-M2)</a></li><li class="depth-2"><a href="#step-1-access-ship-manifest-records" data-for="step-1-access-ship-manifest-records">Step 1: Access Ship Manifest Records</a></li><li class="depth-2"><a href="#step-2-locate-the-powhatan-august-1838-manifest" data-for="step-2-locate-the-powhatan-august-1838-manifest">Step 2: Locate the Powhatan August 1838 Manifest</a></li><li class="depth-2"><a href="#step-3-search-for-known-passengers" data-for="step-3-search-for-known-passengers">Step 3: Search for Known Passengers</a></li><li class="depth-2"><a href="#step-4-record-all-matching-names" data-for="step-4-record-all-matching-names">Step 4: Record All Matching Names</a></li><li class="depth-2"><a href="#step-5-identify-patterns" data-for="step-5-identify-patterns">Step 5: Identify Patterns</a></li><li class="depth-2"><a href="#step-6-cross-check-with-kutusoff-1837" data-for="step-6-cross-check-with-kutusoff-1837">Step 6: Cross-Check with Kutusoff (1837)</a></li><li class="depth-2"><a href="#what-to-report-to-claude-for-chrome-1" data-for="what-to-report-to-claude-for-chrome-1">What to Report to Claude for Chrome:</a></li><li class="depth-1"><a href="#-task-3-griffiths-valuation-searches-rq-m3-rq-m7" data-for="-task-3-griffiths-valuation-searches-rq-m3-rq-m7">🇮🇪 Task 3: Griffith’s Valuation Searches (RQ-M3, RQ-M7)</a></li><li class="depth-2"><a href="#step-1-access-griffiths-valuation-online" data-for="step-1-access-griffiths-valuation-online">Step 1: Access Griffith’s Valuation Online</a></li><li class="depth-2"><a href="#step-2-set-search-parameters" data-for="step-2-set-search-parameters">Step 2: Set Search Parameters</a></li><li class="depth-2"><a href="#step-3-search-for-dolan-surname" data-for="step-3-search-for-dolan-surname">Step 3: Search for DOLAN Surname</a></li><li class="depth-2"><a href="#step-4-search-for-mullooly--mullally--mulloy" data-for="step-4-search-for-mullooly--mullally--mulloy">Step 4: Search for MULLOOLY / MULLALLY / MULLOY</a></li><li class="depth-2"><a href="#step-5-search-for-reynolds" data-for="step-5-search-for-reynolds">Step 5: Search for REYNOLDS</a></li><li class="depth-2"><a href="#step-6-search-for-gibbons-bonus" data-for="step-6-search-for-gibbons-bonus">Step 6: Search for GIBBONS (Bonus)</a></li><li class="depth-2"><a href="#step-7-create-sandford-estate-map" data-for="step-7-create-sandford-estate-map">Step 7: Create Sandford Estate Map</a></li><li class="depth-2"><a href="#step-8-analyze-geographic-clustering" data-for="step-8-analyze-geographic-clustering">Step 8: Analyze Geographic Clustering</a></li><li class="depth-2"><a href="#what-to-report-to-claude-for-chrome-2" data-for="what-to-report-to-claude-for-chrome-2">What to Report to Claude for Chrome:</a></li><li class="depth-1"><a href="#-data-collection-template" data-for="-data-collection-template">📊 Data Collection Template</a></li><li class="depth-1"><a href="#-success-checklist" data-for="-success-checklist">🎯 Success Checklist</a></li><li class="depth-1"><a href="#-tips--troubleshooting" data-for="-tips--troubleshooting">💡 Tips &amp; Troubleshooting</a></li><li class="depth-2"><a href="#if-you-cant-find-records" data-for="if-you-cant-find-records">If you can’t find records:</a></li><li class="depth-2"><a href="#if-you-find-too-many-results" data-for="if-you-find-too-many-results">If you find too many results:</a></li><li class="depth-2"><a href="#if-databases-are-slow-or-unavailable" data-for="if-databases-are-slow-or-unavailable">If databases are slow or unavailable:</a></li><li class="depth-1"><a href="#-timeline" data-for="-timeline">📅 Timeline</a></li><li class="overflow-end"></li></ul></div></div><footer class><p>Created with <a href="https://quartz.jzhao.xyz/">Quartz v4.5.2</a> © 2026</p><ul><li><a href="https://github.com/zcopley/copley-family-research">GitHub</a></li><li><a href="mailto:zcopley@gmail.com">Contact</a></li></ul></footer></div></div></body><script type="application/javascript" data-persist="true">function n(){let t=this.parentElement;t.classList.toggle("is-collapsed");let e=t.getElementsByClassName("callout-content")[0];if(!e)return;let l=t.classList.contains("is-collapsed");e.style.gridTemplateRows=l?"0fr":"1fr"}function c(){let t=document.getElementsByClassName("callout is-collapsible");for(let e of t){let l=e.getElementsByClassName("callout-title")[0],s=e.getElementsByClassName("callout-content")[0];if(!l||!s)continue;l.addEventListener("click",n),window.addCleanup(()=>l.removeEventListener("click",n));let o=e.classList.contains("is-collapsed");s.style.gridTemplateRows=o?"0fr":"1fr"}}document.addEventListener("nav",c);
+</script><script type="module" data-persist="true">function E(a,e){if(!a)return;function t(o){o.target===this&&(o.preventDefault(),o.stopPropagation(),e())}function n(o){o.key.startsWith("Esc")&&(o.preventDefault(),e())}a?.addEventListener("click",t),window.addCleanup(()=>a?.removeEventListener("click",t)),document.addEventListener("keydown",n),window.addCleanup(()=>document.removeEventListener("keydown",n))}function f(a){for(;a.firstChild;)a.removeChild(a.firstChild)}var m=class{constructor(e,t){this.container=e;this.content=t;this.setupEventListeners(),this.setupNavigationControls(),this.resetTransform()}isDragging=!1;startPan={x:0,y:0};currentPan={x:0,y:0};scale=1;MIN_SCALE=.5;MAX_SCALE=3;cleanups=[];setupEventListeners(){let e=this.onMouseDown.bind(this),t=this.onMouseMove.bind(this),n=this.onMouseUp.bind(this),o=this.onTouchStart.bind(this),r=this.onTouchMove.bind(this),i=this.onTouchEnd.bind(this),s=this.resetTransform.bind(this);this.container.addEventListener("mousedown",e),document.addEventListener("mousemove",t),document.addEventListener("mouseup",n),this.container.addEventListener("touchstart",o,{passive:!1}),document.addEventListener("touchmove",r,{passive:!1}),document.addEventListener("touchend",i),window.addEventListener("resize",s),this.cleanups.push(()=>this.container.removeEventListener("mousedown",e),()=>document.removeEventListener("mousemove",t),()=>document.removeEventListener("mouseup",n),()=>this.container.removeEventListener("touchstart",o),()=>document.removeEventListener("touchmove",r),()=>document.removeEventListener("touchend",i),()=>window.removeEventListener("resize",s))}cleanup(){for(let e of this.cleanups)e()}setupNavigationControls(){let e=document.createElement("div");e.className="mermaid-controls";let t=this.createButton("+",()=>this.zoom(.1)),n=this.createButton("-",()=>this.zoom(-.1)),o=this.createButton("Reset",()=>this.resetTransform());e.appendChild(n),e.appendChild(o),e.appendChild(t),this.container.appendChild(e)}createButton(e,t){let n=document.createElement("button");return n.textContent=e,n.className="mermaid-control-button",n.addEventListener("click",t),window.addCleanup(()=>n.removeEventListener("click",t)),n}onMouseDown(e){e.button===0&&(this.isDragging=!0,this.startPan={x:e.clientX-this.currentPan.x,y:e.clientY-this.currentPan.y},this.container.style.cursor="grabbing")}onMouseMove(e){this.isDragging&&(e.preventDefault(),this.currentPan={x:e.clientX-this.startPan.x,y:e.clientY-this.startPan.y},this.updateTransform())}onMouseUp(){this.isDragging=!1,this.container.style.cursor="grab"}onTouchStart(e){if(e.touches.length!==1)return;this.isDragging=!0;let t=e.touches[0];this.startPan={x:t.clientX-this.currentPan.x,y:t.clientY-this.currentPan.y}}onTouchMove(e){if(!this.isDragging||e.touches.length!==1)return;e.preventDefault();let t=e.touches[0];this.currentPan={x:t.clientX-this.startPan.x,y:t.clientY-this.startPan.y},this.updateTransform()}onTouchEnd(){this.isDragging=!1}zoom(e){let t=Math.min(Math.max(this.scale+e,this.MIN_SCALE),this.MAX_SCALE),n=this.content.getBoundingClientRect(),o=n.width/2,r=n.height/2,i=t-this.scale;this.currentPan.x-=o*i,this.currentPan.y-=r*i,this.scale=t,this.updateTransform()}updateTransform(){this.content.style.transform=`translate(${this.currentPan.x}px, ${this.currentPan.y}px) scale(${this.scale})`}resetTransform(){let t=this.content.querySelector("svg").getBoundingClientRect(),n=t.width/this.scale,o=t.height/this.scale;this.scale=1,this.currentPan={x:(this.container.clientWidth-n)/2,y:(this.container.clientHeight-o)/2},this.updateTransform()}},T=["--secondary","--tertiary","--gray","--light","--lightgray","--highlight","--dark","--darkgray","--codeFont"],y;document.addEventListener("nav",async()=>{let e=document.querySelector(".center").querySelectorAll("code.mermaid");if(e.length===0)return;y||=await import("https://cdnjs.cloudflare.com/ajax/libs/mermaid/11.4.0/mermaid.esm.min.mjs");let t=y.default,n=new WeakMap;for(let r of e)n.set(r,r.innerText);async function o(){for(let s of e){s.removeAttribute("data-processed");let c=n.get(s);c&&(s.innerHTML=c)}let r=T.reduce((s,c)=>(s[c]=window.getComputedStyle(document.documentElement).getPropertyValue(c),s),{}),i=document.documentElement.getAttribute("saved-theme")==="dark";t.initialize({startOnLoad:!1,securityLevel:"loose",theme:i?"dark":"base",themeVariables:{fontFamily:r["--codeFont"],primaryColor:r["--light"],primaryTextColor:r["--darkgray"],primaryBorderColor:r["--tertiary"],lineColor:r["--darkgray"],secondaryColor:r["--secondary"],tertiaryColor:r["--tertiary"],clusterBkg:r["--light"],edgeLabelBackground:r["--highlight"]}}),await t.run({nodes:e})}await o(),document.addEventListener("themechange",o),window.addCleanup(()=>document.removeEventListener("themechange",o));for(let r=0;r<e.length;r++){let v=function(){let g=l.querySelector("#mermaid-space"),h=l.querySelector(".mermaid-content");if(!h)return;f(h);let w=i.querySelector("svg").cloneNode(!0);h.appendChild(w),l.classList.add("active"),g.style.cursor="grab",u=new m(g,h)},M=function(){l.classList.remove("active"),u?.cleanup(),u=null},i=e[r],s=i.parentElement,c=s.querySelector(".clipboard-button"),d=s.querySelector(".expand-button"),p=window.getComputedStyle(c),L=c.offsetWidth+parseFloat(p.marginLeft||"0")+parseFloat(p.marginRight||"0");d.style.right=`calc(${L}px + 0.3rem)`,s.prepend(d);let l=s.querySelector("#mermaid-container");if(!l)return;let u=null;d.addEventListener("click",v),E(l,M),window.addCleanup(()=>{u?.cleanup(),d.removeEventListener("click",v)})}});
+</script><script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/copy-tex.min.js" type="application/javascript" data-persist="true"></script><script src="./postscript.js" type="module" data-persist="true"></script></html>
