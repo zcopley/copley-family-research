@@ -10,6 +10,96 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 2N (Extended) — Bredon Descent Research Integration & Medieval Ancestors (April 24, 2026)
+
+**MAJOR INTEGRATION:** Tom Copley's handwritten family tree research (3-page chart) has been integrated into the wiki with full genealogical documentation of medieval English ancestors (1375–1657) and comprehensive Mermaid diagrams.
+
+### A. New Pages Created
+
+**Medieval Ancestor Biographies (3 new People pages):**
+
+1. **[[People/Sir Richard Copley|Sir Richard Copley]]** (c. 1375–1434)
+   - Patriarch of documented Bredon Copley line
+   - Two marriages: Margaret Denton, Elizabeth Harrington (m. 1423)
+   - Son: Roger Copley
+
+2. **[[People/Roger Copley|Roger Copley of Roughley]]** (1430–1490)
+   - Location: Roughley, Surrey
+   - Wife: Jane Anne Hoo (b. 1448) — connection to Hoo and Newport families
+   - Son: William Copley (ancestor of Bredon line)
+
+3. **[[People/William Copley (Woolbedding)|William Copley of Woolbedding]]** (c. 1450–1500s)
+   - Location: Woolbedding (Wool Bedding), Sussex
+   - Wife: Bennett Chaloner of Enfylde
+   - Son: Thomas Copley Sr. of Bredon
+   - Verified in 1569 Visitation of Worcestershire
+
+**Master Synthesis Page:**
+
+4. **[[Topics/Bredon Descent|Bredon Descent — Medieval Roots of the American Copleys]]** (760+ lines)
+   - Complete genealogical narrative from Sir Richard Copley (1375) through Captain John Copley (post-1657)
+   - Full Mermaid graph TD diagram showing 6 generations with marriages and color-coded status
+   - Tom Copley's 3-page handwritten family tree notes (photographed, captioned):
+     - **Page 1:** Sir Richard → Roger + Jane Hoo → William + Bennett Chaloner (with daughters)
+     - **Page 2:** Thomas Sr. (both marriages) and Thomas Jr. (both marriages), showing Captain John lineage
+     - **Page 3:** Irish branches from Captain John (Roscommon line and Boston/John Singleton Copley line)
+   - Generation-by-generation overview with links to individual People pages
+   - Historical context: English gentry network, Irish migration, American settlement
+   - Tom vs. Steve debate section (Captain John vs. Christopher Copley as progenitor)
+   - Verified primary sources (Visitations, Parliament, Youghal, *Mettallum Martis*)
+   - Research gaps and next steps
+
+### B. Updated Pages
+
+**[[Family Tree]]** — Extended English Ancestors subgraph
+   - **Previous:** Started at Thomas Copley Sr. (c. 1540)
+   - **Now:** Extends back to Sir Richard Copley of Battley (c. 1375)
+   - **Added nodes:** Sir Richard, Roger Copley, Jane Anne Hoo, William Copley, Bennett Chaloner
+   - **Added marriages:** Full marriage diamonds for all ancestor generations
+   - **Visual clarity:** `speculative` class (dashed styling) applied to unverified connections
+
+### C. Tom Copley's Handwritten Notes — Now in the Wiki
+
+**Images integrated into [[Topics/Bredon Descent]]:**
+
+- `/static/images/tom-copley-bredon-descent-pg1.jpg` — "First Draft: Bredon Descent" (Sir Richard through William Copley)
+- `/static/images/tom-copley-bredon-descent-pg2.jpg` — Thomas Copley Sr. and Jr. with both wives
+- `/static/images/tom-copley-bredon-descent-pg3.jpg` — Irish descendants from Captain John (Roscommon and Boston lines)
+
+Each image includes contextual captions explaining the genealogical content.
+
+### D. Key Integration with Recent Research
+
+The new Bredon Descent page explicitly connects medieval genealogy to recent findings:
+
+- **[[Topics/Murray Settlement|Murray Settlement RQ-M5]]** — Does "Munday" resolve to "Murray"? Now connected to the broader theory that Michael Copley Sr. descended from Captain John via Irish generations
+- **[[People/William Copley (London)|William Copley of London]]** — Separate thread to Boston Copleys (John Singleton Copley, portrait artist)
+- **Fairymount Copelys** — William Copely (b. ~1794) and Michael Copely (b. ~1834) in Kilgefin now contextualized as likely relatives of Michael Copley Sr., supporting the existence of Copleys at the location specified in Page 3 of Tom's notes
+- **[[Topics/Copley Family Catholicism|Copley Family Catholicism]]** — Crypto-Catholic hypothesis now grounded in the Bredon line's proximity to recusant families (Southwells, Bedingfields, etc.)
+
+### E. Mermaid Diagrams
+
+**New diagrams created:**
+- 1x large `graph TD` showing 6-generation Bredon descent (Sir Richard → Captain John)
+- Full color-coding: ancestor (green), spouse (blue), verified (yellow), with marriage diamond connectors
+
+### Verification & Sources
+
+All medieval ancestors (Sir Richard through William Copley) are documented in:
+- Heraldic Visitations of Yorkshire, Surrey, Sussex, Worcestershire (15th–17th centuries)
+- 1569 Visitation of Worcestershire (primary verification for William Copley + Bennett Chaloner as parents of Thomas Sr.)
+- 1634 Visitation of Worcestershire (documents Thomas Sr., Jr., and Captain John "in Italy")
+
+### Next Steps for Researchers
+
+The Bredon Descent page identifies several high-priority research gaps:
+1. Captain John Copley's children (names, dates, Irish settlement location)
+2. Exact genealogical link from Page 3's "John of Kilgefin" to Michael Copley Sr.
+3. William Copely of Fairymount (b. ~1794) relationship to Michael Copley Sr.
+4. Verification of the speculative descent (1657–1813 gap) through Irish civil records or LDS microfilm 989747
+
+---
+
 ## Phase 2N (Continued) — Family Tree Expansion & Murray Settlement Research Roadmap (April 23, 2026)
 
 **MAJOR UPDATES:** Two substantial integrations of recent research discoveries and a comprehensive strategic roadmap for future investigation.

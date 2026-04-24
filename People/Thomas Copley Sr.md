@@ -11,12 +11,14 @@ tags:
 
 # Thomas Copley Sr. (c. 1540–1593)
 
+📊 View [[Family Tree]] for visual context. For the complete genealogical descent from medieval ancestors, see **[[Topics/Bredon Descent|Bredon Descent: Medieval Roots of the American Copleys]]**.
+
 ## Biographical Profile
 
 - **Birth:** c. 1540–1550 (estimated)
 - **Death:** May 20, 1593, Bredon's Norton, Worcestershire, England
 - **Estate administration:** Worcester diocese, 1593
-- **Status:** Patriarch of the Copley family of Bredon's Norton; son of [[#|William Copley]] (who married Bennett Chaloner of Woolbedding, Sussex)
+- **Status:** Patriarch of the Copley family of Bredon's Norton; son of [[People/William Copley (Woolbedding)|William Copley of Woolbedding]] (who married Bennett Chaloner of Enfylde, Sussex)
 - **Seat:** Bredon's Norton, Vale of Evesham, Worcestershire
 - **Known associates:** Sir Walter Raleigh (family tradition)
 

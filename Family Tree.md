@@ -34,13 +34,35 @@ classDef spouse fill:#2d1a4a,stroke:#a77bda,stroke-width:1px,color:#f0f0f0,strok
 classDef marriage fill:none,stroke:#d4a843,stroke-width:2px,color:#d4a843
 classDef speculative fill:#4a5a4a,stroke:#7a9a7a,stroke-width:1px,color:#c0c0c0,stroke-dasharray:3,3
 
-subgraph ENGLISH_ANCESTORS["📜 English Ancestors (Speculative Descent)"]
-    THOMAS_SR["Thomas Copley Sr.<br>c. 1540–1593<br>Bredon's Norton, Worcestershire"]:::speculative
-    THOMAS_JR["Thomas Copley Jr.<br>c. 1580–1647<br>Bredon's Norton<br>Manor sold 1649"]:::speculative
-    CAPTAIN_JOHN["Captain John Copley<br>c. 1610 – post 1657<br>Italy 1634, Ireland 1657<br>Kingswood Ironworks"]:::speculative
-    MARGARET_N["Margaret Newport<br>daughter of George Newport<br>of Rushock"]:::spouse
+subgraph ENGLISH_ANCESTORS["📜 English Ancestors (Verified & Speculative Descent)"]
+    RICHARD["Sir Richard Copley<br>c. 1375–1434<br>Battley, Yorkshire"]:::speculative
+    ROGER["Roger Copley<br>1430–1490<br>Roughley, Surrey"]:::speculative
+    JANE["Jane Anne Hoo<br>b. 1448"]:::spouse
     
+    WILLIAM["William Copley<br>c. 1450–1500s<br>Woolbedding, Sussex"]:::speculative
+    BENNETT["Bennett Chaloner<br>of Enfylde"]:::spouse
+    
+    THOMAS_SR["Thomas Copley Sr.<br>c. 1540–1593<br>Bredon's Norton, Worcestershire"]:::speculative
+    MARGARET_N1["Margaret Newport<br>m1"]:::spouse
+    ELENOR["Elenor Midelmore<br>m2"]:::spouse
+    
+    THOMAS_JR["Thomas Copley Jr.<br>c. 1580–1647<br>Bredon's Norton<br>Manor sold 1649"]:::speculative
+    MARGARET_H["Margaret Hanford<br>m1"]:::spouse
+    FRANCIS["Francis Browne<br>m2"]:::spouse
+    
+    CAPTAIN_JOHN["Captain John Copley<br>c. 1610 – post 1657<br>Italy 1634, Ireland 1657<br>Kingswood Ironworks"]:::speculative
+    MARGARET_N["Margaret Newport<br>dau. of George Newport<br>of Rushock"]:::spouse
+    
+    RICHARD --> ROGER
+    JANE --> ROGER
+    ROGER --> WILLIAM
+    BENNETT --> WILLIAM
+    WILLIAM --> THOMAS_SR
+    MARGARET_N1 --> THOMAS_SR
+    ELENOR --> THOMAS_SR
     THOMAS_SR --> THOMAS_JR
+    MARGARET_H --> THOMAS_JR
+    FRANCIS --> THOMAS_JR
     THOMAS_JR --> CAPTAIN_JOHN
     CAPTAIN_JOHN --- CAP_JOHN_M{"◇"}:::marriage
     MARGARET_N --- CAP_JOHN_M

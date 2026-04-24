@@ -14,6 +14,8 @@ tags:
 
 # Captain John Copley (c. 1610–post 1657)
 
+📊 View [[Family Tree]] for visual context. For the complete genealogical descent from medieval ancestors through Captain John, see **[[Topics/Bredon Descent|Bredon Descent: Medieval Roots of the American Copleys]]** (includes Tom Copley's 3-page handwritten family tree notes).
+
 ## Biographical Profile
 
 - **Birth:** c. 1610, Worcestershire, England (exact date unknown)

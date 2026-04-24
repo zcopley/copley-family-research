@@ -16,7 +16,7 @@ tags:
 
 # Captain John Copley Research
 
-📊 View [[Family Tree]] for visual context.
+📊 View [[Family Tree]] for visual context. For the complete English genealogical descent from Sir Richard Copley (1375) through Captain John, see **[[Topics/Bredon Descent|Bredon Descent: Medieval Roots of the American Copleys]]** (includes Tom Copley's 3-page handwritten family tree notes).
 
 > 🔍 **BREAKTHROUGH — April 18, 2026:** A Catholic Copely family has been confirmed in **Fairymount, Kilgefin parish, County Roscommon** through civil registration records. **William Copely** (b. ~1794, d. 1864, farmer) and his son **Michael Copely** (b. ~1834, married Bridget Gibbons, Kilgefin, 1864) are the first documented Catholic Copleys in the parish our family is believed to have come from. William Copely is approximately 19 years older than [[People/Michael Copley Sr.|Michael Copley Sr.]] (b. ~1813, Lewis County WV) — likely his older brother or possibly his father. See **Section 13** for full primary source findings.
 
