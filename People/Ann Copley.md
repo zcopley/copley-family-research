@@ -51,11 +51,68 @@ A persistent family tradition states that her father drowned in the Potomac Rive
 - **Marriage:** to [[Michael Copley Sr|Michael Copley]], likely c.1838-1839 (inferred from first child birth year)
 
 ## Research Gaps
-1. **Maiden-name proof:** “Munday” is widely used in family material but requires direct primary-record confirmation. Tom Copley (April 2026) has raised the possibility that “Munday” is a phonetic transcription of “Murray” — which would place Ann inside the Murray family that gave [[Topics/Murray Settlement|Murray's Settlement]] its name. See RQ-M5 in the Murray Settlement research page.
+
+### Critical: RQ-M5 — Munday vs. Murray Hypothesis (April 23, 2026 Update)
+
+**Current Evidence Status:**
+
+```mermaid
+graph LR
+    QUEST["Was Ann Munday<br/>actually Ann Murray?"]
+    
+    FOR["✅ SUPPORTS MURRAY<br/>Hypothesis"]
+    AGAINST["❌ SUPPORTS MUNDAY<br/>Hypothesis"]
+    
+    QUEST --> FOR
+    QUEST --> AGAINST
+    
+    FOR --> E1["9+ Murrays in<br/>Griffith's 1862<br/>Kinawley"]
+    FOR --> E2["'Munday'/'Murray'<br/>phonetically similar<br/>transcription error"]
+    FOR --> E3["Murray family anchor<br/>would explain<br/>Michael's destination"]
+    
+    AGAINST --> E4["'Munday' appears in<br/>all family documents<br/>GEDCOM, Partlow"]
+    AGAINST --> E5["Ann from Fermanagh<br/>not Roscommon<br/>where Murrays are"]
+    
+    E1 --> NEXT["NEXT: Search<br/>1823-1837<br/>Tithe Books"]
+    E2 --> NEXT
+    E3 --> NEXT
+    E4 --> NEXT
+    E5 --> NEXT
+    
+    NEXT --> TEST["VERDICT TEST:<br/>No Munday in Tithe?<br/>= Likely Murray"]
+    
+    style FOR fill:#c8e6c9
+    style AGAINST fill:#ffccbc
+    style NEXT fill:#fff9c4
+    style TEST fill:#bbdefb
+```
+
+**Status:**
+
+**Status:** Actively researched; significant evidence emerging
+
+Tom Copley (April 2026) raised the possibility that “Munday” is a phonetic transcription of “Murray” — placing Ann inside the Murray family that named [[Topics/Murray Settlement|Murray's Settlement]]. **Phase 2 research (April 2026) yielded notable findings:**
+
+**Evidence Against “Munday” as Independent Surname:**
+- ❌ No “Munday” entries in Griffith's Valuation (1862) for Kinawley, County Fermanagh — exhaustively searched
+- ✅ **9+ Murray entries** documented in same Griffith's Valuation (Bridget, Edward, James, John, Mary, Michael, Patrick, Peter)
+- ❌ Kinawley Catholic parish records only begin December 11, 1835 — after Ann's birth c. 1823-1824, making baptismal confirmation impossible
+- ✅ Munday is a documented Irish surname (Anglicization of McAloon), but no Fermanagh/Kinawley records of it in the period
+
+**Next Research Steps (awaiting execution):**
+1. **Tithe Applotment Books (1823–1837)** — search at [titheapplotmentbooks.nationalarchives.ie](https://titheapplotmentbooks.nationalarchives.ie/) for “Munday” and “Murray” entries in Kinawley to test whether surname existed pre-emigration
+2. **Lewis County census (1840, 1850, 1860)** — search for independent “Munday” family households; absence would strengthen Murray hypothesis
+3. **St. Michael's Church records** — contact Diocese of Wheeling-Charleston for marriage records 1838–1850 that might show Ann's maiden name
+4. **Ship manifests** — search *Powhatan* (Aug 20, 1838) and *Kutusoff* (1837) for female passengers with either surname
+
+**Preliminary verdict:** If Tithe books and Lewis County records show no independent Munday family, and Griffith's Valuation shows no Munday at Ann's reported origin, the “Murray” hypothesis becomes the working explanation.
+
+### Other Research Gaps
+
 2. **Marriage record (Q3):** No civil/church record yet found for Michael + Ann.
 3. **Immigration details:** Port/date/manifest for Ann not yet resolved.
 4. **Father identity + drowning event (Q11/Q14):** No coroner or newspaper confirmation yet found.
-5. **Wider Munday household reconstruction (Q14/Q15):** Parents/siblings remain incomplete.
+5. **Wider Munday/Murray household reconstruction (Q14/Q15):** Parents/siblings remain incomplete.
 
 ## Acquisition Strategy
 - Search Catholic parish marriage registers in Potomac/B&O labor corridor communities (late 1830s to early 1840s).

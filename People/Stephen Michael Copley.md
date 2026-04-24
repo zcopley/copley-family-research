@@ -30,6 +30,43 @@ tags:
 - **Second marriage:** [[Judith Ann Todd Copley|Judith Ann Todd]] ("Judy"), 1984 (from Wakefield, Yorkshire, England; PhD, Cambridge University; 14 years younger)
 - **Current residence:** State College, Pennsylvania area
 
+## Stephen Line Family Overview
+
+```mermaid
+graph TD
+    STEPHEN["Stephen Michael Copley<br/>b. Apr 29, 1936<br/>physicist, professor"]:::g25
+    MARCIA["Marcia Thornton<br/>(m. 1956, div. 1983)"]:::spouse
+    JUDY["Judith Ann Todd<br/>(m. 1984, Cambridge PhD)"]:::spouse
+    
+    STEPHEN --- M1{"◇"}:::marriage
+    MARCIA --- M1
+    M1 --- MICHAEL59
+    M1 --- SARA
+    M1 --- PHILIP
+    M1 --- PAUL
+    M1 --- PETER
+    M1 --- SUSAN
+    M1 --- STEPHENJR
+    
+    STEPHEN --- M2{"◇"}:::marriage
+    JUDY --- M2
+    M2 --- AMY
+    
+    MICHAEL59["Michael Copley<br/>b. 1959<br/>m. Patti Inman"]:::g26
+    SARA["Sara Marie Cox<br/>b. Feb 3, 1961<br/>Itinerant Exec Assistant SVS"]:::g26
+    PHILIP["Philip Copley<br/>b. 1962<br/>m. Tracy Siler"]:::g26
+    PAUL["Paul Copley<br/>b. 1964<br/>Social Vocational Services"]:::g26
+    PETER["Peter Copley<br/>b. Jan 12, 1966<br/>Software developer / musician"]:::g26
+    SUSAN["Susan Copley<br/>b. 1967"]:::g26
+    STEPHENJR["Stephen Joseph Copley<br/>May 1, 1970 – Jun 10, 2023<br/>developmental disability advocate"]:::g26
+    AMY["Amy Elizabeth Geist<br/>b. Jul 11, 1990<br/>World Bank analyst"]:::g26
+    
+    classDef g25 fill:#4a2800,stroke:#e89a3c,stroke-width:2px,color:#f0f0f0
+    classDef g26 fill:#5a1a2a,stroke:#e06080,stroke-width:2px,color:#f0f0f0
+    classDef spouse fill:#2d1a4a,stroke:#a77bda,stroke-width:1px,color:#f0f0f0,stroke-dasharray:5,5
+    classDef marriage fill:none,stroke:#d4a843,stroke-width:2px,color:#d4a843
+```
+
 ## Education
 
 - Chestnut Hill Academy (private school, Wyndmoor, PA; elementary years)

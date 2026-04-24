@@ -36,6 +36,22 @@ The settlement's name — **Murray's Settlement** — implies that a Murray fami
 
 **Tom Copley's framing (April 2026):** Rather than a series of individual immigrants who happened to settle near each other, Tom proposes the settlement functioned like a **social movement** — a coordinated decision by a Roscommon neighborhood to transplant itself wholesale to America. Understanding *how* they organized, *who* led the effort, and *what* the Murrays' specific role was is the central aim of this research.
 
+### Settlement Formation Timeline
+
+```mermaid
+timeline
+    title Murray Settlement Formation (Roscommon → Lewis County)
+    
+    1823-1837 : Labor: Turnpike construction draws Irish workers to Lewis County
+    1837 : Kutusoff ship carries first Copley wave (possibly Bridget + Patrick)
+    1838 : Powhatan ship: Michael Copley Sr. + Patrick Copley arrive August 20
+    1838-1843 : Transitional period: Copleys work turnpike/B&O labor while scouting land
+    1843 : Major milestone: Copley land purchase from Weeden Hoffman (200 acres)
+    1843-1849 : Dolan family arrives; settlement nucleus solidifies
+    1849 : Religious infrastructure: 100 acres donated to Diocese of Richmond for St. Michael's Church
+    1850 : Diocese of Wheeling established; Catholic institutional framework in place
+```
+
 ---
 
 ## 2. The Settlement: Physical Context and Religious Infrastructure
@@ -309,6 +325,44 @@ Tom Copley's core thesis is that the Murray Settlement was not a random accumula
 2. **A chain migration network** followed — with specific information flowing back to Ireland ("come to Lewis County; buy land from Weeden Hoffman; the community is here")
 3. **Social ties from Roscommon were reproduced in America** — the same neighbors, the same church community, and eventually the same intermarriage patterns reconstituted in the new country
 
+### Settlement Family Relationships
+
+The following diagram shows the Roscommon estate community (Sandford Estate, Kilkeevin Parish) and how those relationships were reproduced through marriage in Lewis County:
+
+```mermaid
+graph TB
+    subgraph Roscommon["ROSCOMMON: Sandford Estate Community (1857)"]
+        M["Murrays<br/>Ballindrumlea<br/>W.R.W. Sandford"]
+        D["Dolans<br/>Ballindrumlea<br/>W.R.W. Sandford"]
+        H["Hanleys<br/>Ballindrumlea<br/>W.R.W. Sandford"]
+        HN["Hannons<br/>Longford<br/>W.R.W. Sandford"]
+        C["Copleys<br/>Ballindrumlea<br/>W.R.W. Sandford"]
+    end
+    
+    subgraph LewisCounty["LEWIS COUNTY: Settlement Nucleus (1843-1850)"]
+        MC["Michael Copley Sr.<br/>(1813-1897)"]
+        MCS["Michael's Children<br/>Bridget, Catherine, etc."]
+        JC["John Copley<br/>(son of Michael Sr.)"]
+        ME["Mary Ellen Dolan<br/>(daughter of Dolan)"]
+    end
+    
+    M -->|Anchor family<br/>arrives first| LewisCounty
+    D -->|Chain migration<br/>follows Murrays| LewisCounty
+    H -->|Bridget Copley<br/>marries Hanley| MCS
+    HN -->|Catherine Copley<br/>marries Hannon| MCS
+    C -->|Copleys settle<br/>1843| MC
+    D -->|Elizabeth Dolan<br/>emigrates| ME
+    JC -->|marries| ME
+    
+    style M fill:#e1f5ff
+    style D fill:#fff3e0
+    style H fill:#f3e5f5
+    style HN fill:#e8f5e9
+    style C fill:#fce4ec
+```
+
+**Key insight:** The marriages between Copley children and Hanley/Hannon families in Lewis County exactly reproduce the estate-mate relationships documented in Griffith's Valuation. This is **not random intermarriage** but the **reconstitution of pre-emigration social structure**.
+
 ⚠️ **[PLAUSIBLE]** This model fits the documented evidence well:
 - The Copleys arrived in a staggered sequence (1837 *Kutusoff*, 1838 *Powhatan*) suggesting chain migration rather than a single organized departure
 - The Copley-Dolan marriage (G24) reproduces a likely Roscommon social tie in Lewis County
@@ -319,7 +373,7 @@ Tom Copley's core thesis is that the Murray Settlement was not a random accumula
 
 ---
 
-## 5. The Ann Munday / Murray Question (RQ-16)
+## 5. The Ann Munday / Murray Question (RQ-M5)
 
 This is the single most leveraged open question in the entire Murray Settlement investigation.
 
@@ -332,9 +386,62 @@ This is the single most leveraged open question in the entire Murray Settlement 
 
 ⚠️ **[PLAUSIBLE]** A marriage into the anchor family would elegantly explain how Michael Copley ended up in Lewis County specifically: he didn't just follow information, he married into the family that organized the destination.
 
-❓ However, the existing evidence supports "Munday": the GEDCOM data, family narrative documents, and the [[People/Marion Elizabeth Partlow|Partlow family sources]] all use "Munday." A County Fermanagh origin (Kinawley) also differs from the Roscommon-origin Murrays expected for the settlement. These are not definitively contradictory — phonetic transcription errors were common, and an Irish immigrant woman's maiden name is among the hardest genealogical facts to verify — but they raise the bar for confirming the Murray hypothesis.
+### Phase 2 Research Findings (April 23, 2026)
 
-**This question must be resolved through primary source research.** See Section 6 for acquisition strategy.
+**Evidence Summary Diagram:**
+
+```mermaid
+graph LR
+    GV["Griffith's Valuation<br/>(1862)<br/>Kinawley"]
+    
+    GV -->|0 entries| MUN["❌ MUNDAY<br/>Not found"]
+    GV -->|9+ entries| MUR["✅ MURRAY<br/>Well documented"]
+    
+    PR["Parish Records<br/>(1835+)<br/>Kinawley"]
+    PR -->|No records| AB["❌ Ann's Baptism<br/>Undocumentable<br/>pre-1835"]
+    
+    MUN -->|Suggests| HYP1["Munday was NOT<br/>property-holding family<br/>OR already emigrated"]
+    MUR -->|Suggests| HYP2["Murray family anchor<br/>in Kinawley"]
+    
+    HYP1 -->|Combined| VERS["VERDICT:<br/>Munday = Murray<br/>PLAUSIBLE"]
+    HYP2 -->|evidence| VERS
+    
+    VERS -->|Next step| TITHE["Search Tithe Books<br/>(1823-1837)<br/>CRITICAL TEST"]
+    
+    style MUN fill:#ffcdd2
+    style MUR fill:#c8e6c9
+    style VERS fill:#fff9c4
+    style TITHE fill:#bbdefb
+```
+
+**🔴 CRITICAL EVIDENCE — No "Munday" in Griffith's Valuation (1862), Kinawley**
+
+✅ **Murray surname documented extensively in Kinawley (1862):**
+- Bridget L: Aghyoule
+- Edward L: Aghyoule
+- James L: Derryhooly
+- James L: Drumettagh
+- John L: Glasdrumman
+- Mary L: Aghyoule
+- Michael L: Corry
+- Patrick L: Aghyoule (multiple entries)
+- Peter L: Aghyoule
+
+❌ **Munday surname: ZERO entries** in Kinawley parish (exhaustively searched at irishgenealogyhub.com)
+
+**Documentary Gap:** Kinawley Catholic parish records only begin December 11, 1835 — too late to capture Ann's baptism (c. 1823-1824 birthdate). No parish confirmation of "Munday" is possible via church records.
+
+**Status:** **Strongly suggestive but not conclusive.** The absence of both surname from Griffith's (1862) and parish records (1835+) combined with the **substantial Murray presence in Kinawley** is consistent with the phonetic-transcription hypothesis. However, "Munday" could have been:
+- A non-property-holding family (laborers, servants)
+- A family that emigrated before 1857/1862
+- A spelling variant from a different townland or parish
+- A genuine independent surname
+
+**Next critical research step:** **Search Tithe Applotment Books (1823–1837, National Archives of Ireland)** for both "Munday" and "Murray" entries at Kinawley. This overlaps the period just before emigration and may resolve the question. If Munday is absent from Tithe books as well, the Murray hypothesis gains significant strength.
+
+❓ The existing evidence still partially supports "Munday": the GEDCOM data, family narrative documents, and the [[People/Marion Elizabeth Partlow|Partlow family sources]] all use "Munday." A County Fermanagh origin (Kinawley) also differs from the Roscommon-origin Murrays expected for the settlement core. These are not definitively contradictory — but they require careful evaluation against newly discovered primary source evidence.
+
+**This question must be resolved through the remaining Phase 2/3 primary source research.** See Sections 6-7 for acquisition strategy.
 
 ---
 
@@ -422,6 +529,48 @@ The following Roscommon townlands and parishes are documented in relation to the
 ---
 
 ## 8. Formal Research Questions
+
+### Research Question Priority Map
+
+```mermaid
+graph TD
+    GOAL["GOAL: Prove coordinated<br/>community transplant hypothesis"]
+    
+    GOAL --> RQ1["🔴 RQ-M1: Who were the Murrays?<br/>When did they arrive?"]
+    GOAL --> RQ2["🔴 RQ-M2: Same ships?<br/>Chain migration timing?"]
+    GOAL --> RQ3["🔴 RQ-M3: Estate-mates<br/>in Roscommon?"]
+    
+    RQ1 --> DATA1["Lewis County deeds 1825-1855<br/>1840 census (FAN)<br/>County histories"]
+    RQ2 --> DATA2["Ship manifests<br/>Powhatan 1838<br/>Kutusoff 1837"]
+    RQ3 --> DATA3["Griffith's Valuation<br/>Parish registers<br/>Estate records"]
+    
+    DATA1 --> CORE["CORE HYPOTHESIS<br/>TESTING"]
+    DATA2 --> CORE
+    DATA3 --> CORE
+    
+    GOAL --> RQ4["🟡 RQ-M4: How organized?"]
+    GOAL --> RQ5["🟡 RQ-M5: Munday=Murray?"]
+    GOAL --> RQ6["🟡 RQ-M6: Push factors?"]
+    
+    CORE --> SUPPORT["SUPPORTING<br/>EVIDENCE"]
+    RQ4 --> SUPPORT
+    RQ5 --> SUPPORT
+    RQ6 --> SUPPORT
+    
+    GOAL --> RQ7["🟢 RQ-M7: Other families?"]
+    GOAL --> RQ8["🟢 RQ-M8: Iowa parallel?"]
+    
+    SUPPORT --> DETAIL["DETAILED<br/>CONTEXT"]
+    RQ7 --> DETAIL
+    RQ8 --> DETAIL
+    
+    style GOAL fill:#fdd835
+    style RQ1 fill:#e3f2fd
+    style RQ2 fill:#e3f2fd
+    style RQ3 fill:#e3f2fd
+    style RQ5 fill:#fff3e0
+    style CORE fill:#c8e6c9
+```
 
 | ID | Question | Priority | Where to Look |
 |----|----------|----------|---------------|

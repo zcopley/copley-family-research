@@ -100,6 +100,44 @@ tags:
 - Place pages live in `Places/` — link as `[[Places/Place Name|Display Name]]`
 - Topic pages live in `Topics/` — link as `[[Topics/Topic Name|Display Name]]`
 
+### Mermaid Diagrams — Visual Storytelling (Best Practice)
+
+**When to add diagrams:** Liberally and frequently. Mermaid diagrams dramatically improve readability for genealogical, timeline, research methodology, and evidence evaluation content. Add them whenever:
+
+- **Timelines:** Birth → death → migration → settlement (see `Topics/Murray Settlement.md` for example)
+- **Family relationships:** Marriage networks, intermarriage patterns, estate-mate clustering (see family relationship network diagram in `Topics/Murray Settlement.md`)
+- **Research workflows:** Investigation phases, evidence types, verdict pathways (see `AGENT_HANDOFF_PHASE_2M.md`)
+- **Evidence evaluation:** What's verified vs. plausible vs. unresolved (see `AGENT_HANDOFF_PHASE_2M.md` evidence dashboard)
+- **Question hierarchies:** Research questions and their relationships (see RQ-M1 through RQ-M8 priority map in `Topics/Murray Settlement.md`)
+- **Decision trees:** Multiple hypotheses with evidence branches (see RQ-M5 evidence flowchart in `People/Ann Copley.md`)
+- **Records availability:** Gaps, timelines, coverage (see Kinawley records timeline in `RQ-M5-PHASE-2-FINDINGS.md`)
+- **Geographic relationships:** Townland clustering, parish relationships, settlement areas
+
+**Diagram types most useful for this project:**
+- `timeline` — emigration waves, settlement formation, research phases
+- `graph TB/LR` — family networks, evidence chains, research methodologies, hierarchies
+- `flowchart` — decision paths, verdict evaluation, evidence branches
+
+**Best practices:**
+- Keep labels concise (2–4 words max)
+- Use color fills to group related items: 
+  - Green (`#c8e6c9`) = verified/confirmed
+  - Red (`#ffcdd2`) = not found/contradiction
+  - Yellow (`#fff9c4`) = pending/in progress
+  - Blue (`#bbdefb`) = conclusion/verdict
+  - Orange (`#fff3e0`) = plausible/contextual
+- Add diagrams early in sections, before detailed prose — let visuals set up the narrative
+- Label verification status (✅ Verified, ⚠️ Plausible, ❌ Not found, ❓ Unresolved)
+- One diagram per major concept (not too many, but don't leave important relationships undescribed)
+
+**Comprehensive guide:** See [[MERMAID_DIAGRAM_GUIDE|MERMAID_DIAGRAM_GUIDE.md]] for detailed templates, color conventions, best practices, and examples.
+
+**Examples from this vault:**
+- `Topics/Murray Settlement.md` — timeline, family network, RQ priority map, evidence flowchart
+- `People/Ann Copley.md` — evidence balance chart for RQ-M5
+- `RQ-M5-PHASE-2-FINDINGS.md` — records searched visualization, records gap timeline
+- `AGENT_HANDOFF_PHASE_2M.md` — research workflow, evidence dashboard
+
 ### Changelog entries
 - **Always include WikiLinks** to every page that was added or changed in a CHANGELOG.md entry
 - Mention section names in prose when a specific section changed (e.g., "Section 13 of [[Topics/Captain John Copley Research|Captain John Copley Research]]")

@@ -10,6 +10,110 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 2N (Continued) — Family Tree Expansion & Murray Settlement Research Roadmap (April 23, 2026)
+
+**MAJOR UPDATES:** Two substantial integrations of recent research discoveries and a comprehensive strategic roadmap for future investigation.
+
+### A. Family Tree.md Expansion — English Ancestors & Roscommon Extended Family
+
+**New subgraphs added to `[[Family Tree]]`:**
+
+1. **English Ancestors (Speculative Descent)**
+   - Thomas Copley Sr. (c. 1540–1593, Bredon's Norton)
+   - Thomas Copley Jr. (c. 1580–1647)
+   - Captain John Copley (c. 1610–post 1657, Italy 1634, Ireland 1657)
+   - Margaret Newport (Captain John's wife)
+   - Speculative dashed descent from Captain John to Michael Copley Sr. (generations unknown, 1657–1813)
+
+2. **Roscommon Extended Family & Siblings of Michael Sr.**
+   - Patrick Copley (b. ~1818, co-emigrant *Powhatan* 1838)
+   - Bridget Copley (probable *Kutusoff* 1837, married Hanley)
+   - William Copley (family tradition: "went to Australia")
+   - Mary Copely Giblin (b. 1814, Tully/Kilcorkey, Iowa branch — likely sister)
+   - William Copely of Fairymount (b. ~1794, Kilgefin Catholic farmer, probable older brother)
+
+**New classDef:** `speculative` (dashed edges, lighter styling) to visually distinguish unverified ancestors from documented nodes.
+
+**Visual Impact:** Family tree now spans from 17th-century English ancestors (speculative) → Irish immigrant generation → American descendants through G28, with Roscommon extended family branch visible.
+
+### B. New Master Research Roadmap Page
+
+**New file:** `[[Topics/Murray Settlement Research Roadmap]]`
+
+A comprehensive 500+ line strategic guide documenting:
+- **Core hypothesis** (coordinated community transplant)
+- **RQ priority map diagram** (all 8 questions ranked by impact)
+- **Evidence status dashboard** (verified, plausible, unresolved)
+- **Quick-start actions table** (high-impact 1–2 week tasks)
+- **Detailed protocols for RQ-M1-M8** with:
+  - Research objective
+  - Verdict triggers (what would confirm/refute)
+  - Primary sources (specific databases, archives)
+  - Mermaid flowcharts for each question
+  - Time estimates and difficulty ratings
+- **4-week action plan** (phased research strategy)
+- **Success criteria** (how to evaluate hypothesis outcome)
+
+**Contains 8 custom Mermaid diagrams:**
+- RQ priority map (all questions ranked)
+- RQ-M1 timeline (Murray arrival hypothesis)
+- RQ-M2 ship manifest comparison (organized vs. independent)
+- RQ-M3 estate-mate clustering (Sandford Estate)
+- RQ-M4 chain migration flow (Anchor → Waves)
+- RQ-M6 push factor timeline (1820s–1840s Roscommon)
+- RQ-M8 Iowa parallel comparison (two chains vs. independent)
+- Evidence status dashboard (verified/plausible/unresolved)
+
+### Integration
+
+Both expansions use **Mermaid diagrams extensively** (15+ new diagrams total) to visualize complex genealogical, temporal, and strategic relationships. All diagrams follow the [[MERMAID_DIAGRAM_GUIDE]] color conventions (green=verified, red=not found, yellow=pending, blue=verdict, orange=plausible).
+
+**Updated pages:**
+- [[Family Tree]] — Added English ancestors subgraph, Roscommon extended family subgraph
+- [[Topics/Murray Settlement Research Roadmap]] — New master roadmap page
+
+**Companion pages:**
+- [[RQ-M5-PHASE-2-FINDINGS]] — Detailed evidence analysis
+- [[AGENT_HANDOFF_PHASE_2M]] — RQ-M5 protocol context
+- [[MERMAID_DIAGRAM_GUIDE]] — Diagram standards for all agents
+
+---
+
+## Phase 2M (Continued) — RQ-M5 Research: "Munday" vs. "Murray" Evidence (April 23, 2026)
+
+**Major Research Initiative:** Systematic investigation of whether Ann Copley's maiden name was "Munday" (family tradition) or "Murray" (Tom Copley's phonetic transcription hypothesis). This question directly tests whether [[People/Michael Copley Sr.|Michael Copley Sr.]] married into the anchor family organizing the Murray Settlement.
+
+### Phase 2 Findings — Griffith's Valuation (1862), Kinawley Parish, Fermanagh
+
+**✅ Murray surname documented extensively:**
+- 9+ property-holding entries (Bridget, Edward, James, John, Mary, Michael, Patrick, Peter) across multiple townlands (Aghyoule, Derryhooly, Drumettagh, Glasdrumman, Corry)
+- Source: Irish Genealogy Hub, comprehensive parish index
+
+**❌ Munday surname: ZERO entries in Kinawley**
+- Exhaustively searched
+- Strongly suggestive that "Munday" was not a property-holding family in Ann's reported birthplace
+
+### Research Context
+
+- **Documentary gap:** Kinawley Catholic parish records only begin December 11, 1835 — Ann's baptism (c. 1823-1824) predates all available church records by ~11-12 years
+- **Next phase:** Search **Tithe Applotment Books (1823–1837)** at National Archives of Ireland for both surnames in same period and place
+- **Research quality:** Evidence is suggestive but not conclusive; awaiting Phase 2/3 research to resolve
+
+### Updated Wiki Pages
+
+- [[People/Ann Copley|Ann Copley]] — "Research Gaps" section expanded with Phase 2 findings and RQ-M5 status
+- [[Topics/Murray Settlement|Murray Settlement]] — Section 5 updated with Griffith's Valuation evidence and research strategy
+
+### Status and Next Steps
+
+**Tasks pending user action:**
+1. Search Tithe Applotment Books (1823–1837) via titheapplotmentbooks.nationalarchives.ie
+2. Search Lewis County (WV) census 1840–1860 for independent Munday family
+3. Contact Diocese of Wheeling-Charleston for St. Michael's Church marriage records
+4. Search ship manifests (*Powhatan*, *Kutusoff*) for Ann's surname
+
+---
+
 ## Phase 2L (Continued) — Hanley and Hannon Families Confirmed in Griffith's Valuation
 **Date:** April 22, 2026
 

@@ -32,6 +32,34 @@ classDef grandchild fill:#4a3a10,stroke:#d4b850,stroke-width:2px,color:#f0f0f0
 classDef greatgrand fill:#5a2050,stroke:#e070a0,stroke-width:2px,color:#f0f0f0
 classDef spouse fill:#2d1a4a,stroke:#a77bda,stroke-width:1px,color:#f0f0f0,stroke-dasharray:5,5
 classDef marriage fill:none,stroke:#d4a843,stroke-width:2px,color:#d4a843
+classDef speculative fill:#4a5a4a,stroke:#7a9a7a,stroke-width:1px,color:#c0c0c0,stroke-dasharray:3,3
+
+subgraph ENGLISH_ANCESTORS["📜 English Ancestors (Speculative Descent)"]
+    THOMAS_SR["Thomas Copley Sr.<br>c. 1540–1593<br>Bredon's Norton, Worcestershire"]:::speculative
+    THOMAS_JR["Thomas Copley Jr.<br>c. 1580–1647<br>Bredon's Norton<br>Manor sold 1649"]:::speculative
+    CAPTAIN_JOHN["Captain John Copley<br>c. 1610 – post 1657<br>Italy 1634, Ireland 1657<br>Kingswood Ironworks"]:::speculative
+    MARGARET_N["Margaret Newport<br>daughter of George Newport<br>of Rushock"]:::spouse
+    
+    THOMAS_SR --> THOMAS_JR
+    THOMAS_JR --> CAPTAIN_JOHN
+    CAPTAIN_JOHN --- CAP_JOHN_M{"◇"}:::marriage
+    MARGARET_N --- CAP_JOHN_M
+end
+
+subgraph ROSCOMMON_SIBLINGS["🇮🇪 Roscommon Extended Family & Siblings of Michael Sr."]
+    PATRICK["Patrick Copley<br>b. ~1818<br>co-emigrant Powhatan 1838<br>co-purchaser 1843 Hoffman deed"]:::irish
+    BRIDGET_SIB["Bridget Copley<br>probable Kutusoff 1837<br>married Hanley<br>Griffith's Valuation Kilgefin?"]:::irish
+    WILLIAM_AUS["William Copley<br>family tradition:<br>'went to Australia'<br>Q6 — unconfirmed"]:::irish
+    MARY_GIBLIN["Mary Copely Giblin<br>b. 1814, Tully, Kilcorkey, Roscommon<br>d. 1884, Crawford County, Iowa<br>probable sibling — Iowa branch"]:::irish
+    WILLIAM_FM["William Copely of Fairymount<br>b. ~1794, Fairymount, Kilgefin<br>d. Q4 1864, Catholic farmer<br>probable older brother/father?"]:::speculative
+end
+
+CAPTAIN_JOHN -.->|speculative descent<br>generations unknown<br>1657–1813| MICHAEL_SR
+WILLIAM_FM -.->|probable sibling<br>or close relative| MICHAEL_SR
+MICHAEL_SR ---|sibling| PATRICK
+MICHAEL_SR ---|sister| BRIDGET_SIB
+MICHAEL_SR ---|sibling| WILLIAM_AUS
+MICHAEL_SR ---|likely sister| MARY_GIBLIN
 
 MICHAEL_SR["Michael Copley<br>b. 1813, Kilgefin, Ireland<br>d. 1897"]:::irish
 ANN_MUNDAY["Ann Elizabeth Munday<br>b. 1823, Kinawley, Ireland<br>d. 1909"]:::irish
