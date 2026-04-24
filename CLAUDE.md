@@ -38,11 +38,11 @@ A genealogical research wiki for the Copley family, spanning Irish immigrant anc
 ├── Topics and Themes.md   ← thematic overview
 ├── quartz.config.ts       ← Quartz site config (fonts, colors, plugins)
 ├── quartz.layout.ts       ← Quartz layout config
-├── AGENT_HANDOFF_PHASE_1E.md  ← prior phase context
-├── AGENT_HANDOFF_PHASE_2A.md  ← prior phase context
-├── AGENT_HANDOFF_PHASE_2G.md  ← prior phase context
-├── AGENT_HANDOFF_PHASE_2H.md  ← prior phase context
-├── AGENT_HANDOFF_PHASE_2I.md  ← current phase context
+├── _AGENT_HANDOFF_PHASE_1E.md  ← prior phase context
+├── _AGENT_HANDOFF_PHASE_2A.md  ← prior phase context
+├── _AGENT_HANDOFF_PHASE_2G.md  ← prior phase context
+├── _AGENT_HANDOFF_PHASE_2H.md  ← prior phase context
+├── _AGENT_HANDOFF_PHASE_2I.md  ← current phase context
 ├── CHANGELOG.md               ← human-readable changelog (all phases)
 └── CLAUDE.md              ← this file
 ```
@@ -106,8 +106,8 @@ tags:
 
 - **Timelines:** Birth → death → migration → settlement (see `Topics/Murray Settlement.md` for example)
 - **Family relationships:** Marriage networks, intermarriage patterns, estate-mate clustering (see family relationship network diagram in `Topics/Murray Settlement.md`)
-- **Research workflows:** Investigation phases, evidence types, verdict pathways (see `AGENT_HANDOFF_PHASE_2M.md`)
-- **Evidence evaluation:** What's verified vs. plausible vs. unresolved (see `AGENT_HANDOFF_PHASE_2M.md` evidence dashboard)
+- **Research workflows:** Investigation phases, evidence types, verdict pathways (see `_AGENT_HANDOFF_PHASE_2M.md`)
+- **Evidence evaluation:** What's verified vs. plausible vs. unresolved (see `_AGENT_HANDOFF_PHASE_2M.md` evidence dashboard)
 - **Question hierarchies:** Research questions and their relationships (see RQ-M1 through RQ-M8 priority map in `Topics/Murray Settlement.md`)
 - **Decision trees:** Multiple hypotheses with evidence branches (see RQ-M5 evidence flowchart in `People/Ann Copley.md`)
 - **Records availability:** Gaps, timelines, coverage (see Kinawley records timeline in `RQ-M5-PHASE-2-FINDINGS.md`)
@@ -136,7 +136,7 @@ tags:
 - `Topics/Murray Settlement.md` — timeline, family network, RQ priority map, evidence flowchart
 - `People/Ann Copley.md` — evidence balance chart for RQ-M5
 - `RQ-M5-PHASE-2-FINDINGS.md` — records searched visualization, records gap timeline
-- `AGENT_HANDOFF_PHASE_2M.md` — research workflow, evidence dashboard
+- `_AGENT_HANDOFF_PHASE_2M.md` — research workflow, evidence dashboard
 
 ### Changelog entries
 - **Always include WikiLinks** to every page that was added or changed in a CHANGELOG.md entry
@@ -416,15 +416,15 @@ Tom proposes that some or all Protestant Copleys (Bredon, Woolbedding lines) may
 ## Handoff Documents
 
 For prior session context, read in order:
-1. `AGENT_HANDOFF_PHASE_1E.md` — Topics section creation
-2. `AGENT_HANDOFF_PHASE_2A.md` — Site improvements, Mermaid fix, search index, Tom line profiles
-3. `AGENT_HANDOFF_PHASE_2B.md` — Appendices bio-sketches, images extracted, G26 Stephen line profiles rebuilt
-4. `AGENT_HANDOFF_PHASE_2C.md` — Site config fixes, social media corrections
-5. `AGENT_HANDOFF_PHASE_2D.md` — Image catalog complete, Stephen line profiles rebuilt
-6. `AGENT_HANDOFF_PHASE_2E.md` — Stubs cleared, deploy fixed, SSH documented
-7. `AGENT_HANDOFF_PHASE_2F.md` — GEDCOM data incorporated, Family Tree Georgia/Susan bug fixed, Benjamin Partlow page created
-8. `AGENT_HANDOFF_PHASE_2G.md` — Captain John Copley research page, descent narrative, Tom vs. Steve hypothesis, CHANGELOG created
-9. `AGENT_HANDOFF_PHASE_2H.md` — Wendy middle name fix (Lorelei); Tom's corrections: Mary Skelly, Captain John as son of Thomas Jr., 1634 Visitation as 4th source (Italy), William/Challoner from Sussex, Raleigh-Hoo connection, Southwell cousinage, Christopher/Mary Jones married (one daughter Francis), alternate spellings Coplet/Coplay
-10. `AGENT_HANDOFF_PHASE_2I.md` — 1634 Visitation of Worcestershire analyzed; Captain John's wife confirmed as Margaret Newport; heraldic arms documented; Thomas Copley Sr./Jr. family structure fully extracted; three new person pages created (Captain John, Thomas Sr., Thomas Jr.)
-11. `AGENT_HANDOFF_PHASE_2J.md` — Tom's corrections (Termon Beg spelling, William/Bennett verified, Thomas recusant relationship, Mary Skelly attribution); Iowa discovery: Mary Copely Giblin (1814–1884)
-12. `AGENT_HANDOFF_PHASE_2L.md` — Murray Settlement research page, Ancestry forum integration, Kilgefin parish details, LDS microfilm 989747, St. Michael's Church, Staunton-Parkersburg Turnpike
+1. `_AGENT_HANDOFF_PHASE_1E.md` — Topics section creation
+2. `_AGENT_HANDOFF_PHASE_2A.md` — Site improvements, Mermaid fix, search index, Tom line profiles
+3. `_AGENT_HANDOFF_PHASE_2B.md` — Appendices bio-sketches, images extracted, G26 Stephen line profiles rebuilt
+4. `_AGENT_HANDOFF_PHASE_2C.md` — Site config fixes, social media corrections
+5. `_AGENT_HANDOFF_PHASE_2D.md` — Image catalog complete, Stephen line profiles rebuilt
+6. `_AGENT_HANDOFF_PHASE_2E.md` — Stubs cleared, deploy fixed, SSH documented
+7. `_AGENT_HANDOFF_PHASE_2F.md` — GEDCOM data incorporated, Family Tree Georgia/Susan bug fixed, Benjamin Partlow page created
+8. `_AGENT_HANDOFF_PHASE_2G.md` — Captain John Copley research page, descent narrative, Tom vs. Steve hypothesis, CHANGELOG created
+9. `_AGENT_HANDOFF_PHASE_2H.md` — Wendy middle name fix (Lorelei); Tom's corrections: Mary Skelly, Captain John as son of Thomas Jr., 1634 Visitation as 4th source (Italy), William/Challoner from Sussex, Raleigh-Hoo connection, Southwell cousinage, Christopher/Mary Jones married (one daughter Francis), alternate spellings Coplet/Coplay
+10. `_AGENT_HANDOFF_PHASE_2I.md` — 1634 Visitation of Worcestershire analyzed; Captain John's wife confirmed as Margaret Newport; heraldic arms documented; Thomas Copley Sr./Jr. family structure fully extracted; three new person pages created (Captain John, Thomas Sr., Thomas Jr.)
+11. `_AGENT_HANDOFF_PHASE_2J.md` — Tom's corrections (Termon Beg spelling, William/Bennett verified, Thomas recusant relationship, Mary Skelly attribution); Iowa discovery: Mary Copely Giblin (1814–1884)
+12. `_AGENT_HANDOFF_PHASE_2L.md` — Murray Settlement research page, Ancestry forum integration, Kilgefin parish details, LDS microfilm 989747, St. Michael's Church, Staunton-Parkersburg Turnpike
