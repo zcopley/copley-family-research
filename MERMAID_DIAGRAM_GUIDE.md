@@ -140,13 +140,15 @@ flowchart TD
 | Purple | `#f3e5f5` | `fill:#f3e5f5` | 🔗 Relationships, connections, families |
 | Cyan | `#e1f5fe` | `fill:#e1f5fe` | 📍 Places, locations, geographic |
 
+**Contrast rule:** Always set a readable text color in each `classDef`. Do not rely on Mermaid or Quartz theme defaults. Dark fills should use `color:#ffffff`; pale fills should use `color:#111111`. For `subgraph` containers, set both `fill` and `color` explicitly.
+
 **Usage example:**
 ```mermaid
 graph LR
     A["Finding<br/>14 Murrays"] --> |Result| B["Hypothesis<br/>resolved for working genealogy"]
     
-    style A fill:#c8e6c9
-    style B fill:#bbdefb
+    style A fill:#1b5e20,color:#ffffff
+    style B fill:#0d47a1,color:#ffffff
 ```
 
 ---

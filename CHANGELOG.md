@@ -14,12 +14,14 @@ A running record of significant additions, corrections, and improvements to this
 
 **GENEALOGY CLARIFICATION:** Tom Copley clarified that William Copley of Woolbedding was the great-uncle of Sir Thomas Copley of Gatton, the recusant who fled to the Continent. This places the Bredon/Woolbedding line and the Gatton/London recusant line as collateral branches.
 
+**READABILITY FIX:** Updated the new chart styling to use explicit high-contrast Mermaid node and subgraph colors so text remains readable against fill colors.
+
 ### Updated Pages
 
 - [[Topics/Bredon Descent|Bredon Descent: Medieval Roots of the American Copleys]] - added a Surrey / London / Gatton Mermaid relationship chart showing the collateral relationship, Gatton property continuity, Weston transfer, and unresolved intermediate Surrey generation
 - [[References/Gatton and Leigh Place Notes|Gatton and Leigh Place Notes]] - linked Tom's relationship correction to the new diagram
 - [[CLAUDE|CLAUDE]] - added a standing rule that relevant Mermaid diagrams must be updated whenever new information changes relationships, chronology, evidence status, source coverage, or research priorities
-- [[MERMAID_DIAGRAM_GUIDE|MERMAID_DIAGRAM_GUIDE]] - refreshed the RQ-M5 example to use current evidence
+- [[MERMAID_DIAGRAM_GUIDE|MERMAID_DIAGRAM_GUIDE]] - refreshed the RQ-M5 example to use current evidence and added a Mermaid contrast rule
 
 ## Phase 2N (Continued) - RQ-M5 Resolved: Ann Munday Was Likely Ann Murray (April 25, 2026)
 

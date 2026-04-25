@@ -120,14 +120,17 @@ graph TD
     
     WILLIAM_WOOL -. "great-uncle relationship<br/>per Tom Copley" .- SIR_THOMAS
     
-    classDef common fill:#e1f5fe,stroke:#0277bd,stroke-width:2px,color:#1a1a1a,font-weight:bold
-    classDef spouse fill:#bbdefb,stroke:#1976d2,stroke-width:1px,color:#1a1a1a
-    classDef surrey fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px,color:#1a1a1a
-    classDef bredon fill:#c8e6c9,stroke:#2e7d32,stroke-width:2px,color:#1a1a1a
-    classDef recusant fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#1a1a1a,font-weight:bold
-    classDef weston fill:#ffe0b2,stroke:#e65100,stroke-width:2px,color:#1a1a1a
-    classDef gap fill:#eeeeee,stroke:#616161,stroke-width:1px,stroke-dasharray: 5 5,color:#1a1a1a
-    classDef verified fill:#fff9c4,stroke:#f57f17,stroke-width:2px,color:#1a1a1a,font-weight:bold
+    style SURREY fill:#f8f8ff,stroke:#4a148c,stroke-width:2px,color:#111111
+    style BREDON fill:#f6fff7,stroke:#1b5e20,stroke-width:2px,color:#111111
+    
+    classDef common fill:#01579b,stroke:#e1f5fe,stroke-width:2px,color:#ffffff,font-weight:bold
+    classDef spouse fill:#0d47a1,stroke:#bbdefb,stroke-width:1px,color:#ffffff
+    classDef surrey fill:#4a148c,stroke:#e1bee7,stroke-width:2px,color:#ffffff
+    classDef bredon fill:#1b5e20,stroke:#c8e6c9,stroke-width:2px,color:#ffffff
+    classDef recusant fill:#bf360c,stroke:#ffccbc,stroke-width:2px,color:#ffffff,font-weight:bold
+    classDef weston fill:#8d2b0b,stroke:#ffcc80,stroke-width:2px,color:#ffffff
+    classDef gap fill:#424242,stroke:#f5f5f5,stroke-width:1px,stroke-dasharray: 5 5,color:#ffffff
+    classDef verified fill:#795548,stroke:#fff9c4,stroke-width:2px,color:#ffffff,font-weight:bold
 ```
 
 **How to read this chart:**

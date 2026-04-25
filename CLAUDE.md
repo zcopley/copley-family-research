@@ -126,6 +126,8 @@ tags:
 
 If a diagram cannot be updated because the relationship is still uncertain, add a clearly labeled placeholder/gap node or a note explaining what remains unresolved.
 
+**Diagram contrast rule:** Mermaid node text must remain readable against the node fill in both light and dark site themes. Prefer explicit `color` values in every `classDef`, and use high-contrast pairs such as dark fills with white text or very light fills with near-black text. If using `subgraph`, explicitly set subgraph `style` with both `fill` and `color`; otherwise Quartz/Mermaid theme defaults can make labels unreadable.
+
 **Diagram types most useful for this project:**
 - `timeline` — emigration waves, settlement formation, research phases
 - `graph TB/LR` — family networks, evidence chains, research methodologies, hierarchies
