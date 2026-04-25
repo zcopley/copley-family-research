@@ -30,7 +30,7 @@ Local tradition associates Thomas with Sir Walter Raleigh, crediting the family 
 
 Tom Copley adds a useful correction to the broader recusant story: the related recusant Thomas Copley who fled to the Continent did not surrender his English land. After his death, his wife and son William were able to return to England and reclaim it. The closest published corroboration I found is the Bredon's Norton village history quoting Tom's update, together with the DNB entry for Sir Thomas Copley of Gatton, which says he sought permission to return and enjoy his estates and that William succeeded at Gatton. A Surrey VCH snippet also says William Copley the elder was pardoned for recusancy and permitted to hold Gatton for twenty-one years in 1632, with later partition and sale of the estate. That suggests the Copley recusant network retained legal claims and family continuity even during exile, though the exact family-memory phrasing still needs a direct estate record.
 
-See [[References/Father Thomas Copley Dorsey Notes|Father Thomas Copley - Dorsey Notes]] for the Mersham Park and Gatton passages from Dorsey that support the property-defense picture.
+See [[References/Father Thomas Copley Dorsey Notes|Father Thomas Copley - Dorsey Notes]].
 
 ## Family Relationships
 
