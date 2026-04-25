@@ -10,6 +10,20 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 2N (Continued) - Gatton / Leigh Place Family Memory Note Added (April 25, 2026)
+
+**NEW SOURCE NOTE:** Tom Copley shared a further Gatton-family-memory thread about the London Copleys, Leigh Place, the Weston marriage, and Mercer's Guild membership. The note is now isolated in a dedicated source page.
+
+### New Page
+
+- [[References/Gatton and Leigh Place Notes|Gatton and Leigh Place Notes]] - Tom's family-memory note about the Gatton land passing to the Weston family, Leigh Place near Gatwick, and the London Copleys' Mercers Guild ties
+
+### Updated Pages
+
+- [[Topics/Captain John Copley Research|Captain John Copley Research]] - linked the new source note from the Gatton/recusancy discussion
+- [[Topics/Bredon Descent|Bredon Descent: Medieval Roots of the American Copleys]] - linked the new note from the property-retention discussion
+- [[People/Thomas Copley Sr.|Thomas Copley Sr.]] - linked the new note from the recusant-family note
+
 ## Phase 2N (Continued) - Dorsey Source Note Page Created (April 25, 2026)
 
 **SOURCE ORGANIZATION:** Created a dedicated source note page for Katherine Fitzsimmons Dorsey's 1885 *The Life of Father Thomas Copley* and linked it from the main research pages.

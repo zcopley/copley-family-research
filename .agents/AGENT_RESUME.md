@@ -26,6 +26,7 @@ Continue the Murray Settlement research, with the highest-priority open question
 - Drafted and published a GitHub gist for the Surrey History Centre enquiry about Gatton records.
 - Read Katherine Fitzsimmons Dorsey's 1885 *The Life of Father Thomas Copley* and pulled in the Mersham Park / Gatton property-defense passage.
 - Created a dedicated source note page for Dorsey so the useful passages are easy to reuse.
+- Added a second dedicated source note page for Tom's Gatton / Leigh Place / Weston / Mercer's Guild family-memory thread.
 
 ## Current State
 
@@ -50,6 +51,7 @@ Continue the Murray Settlement research, with the highest-priority open question
 
 - `CLAUDE.md`
 - `.agents/_AGENT_HANDOFF_PHASE_2M.md`
+- `References/Gatton and Leigh Place Notes.md`
 - `Topics/Murray Settlement.md`
 - `People/Ann Copley.md`
 - `CHANGELOG.md`

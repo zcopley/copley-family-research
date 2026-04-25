@@ -176,6 +176,7 @@ The Copleys of Bredon were part of the English gentry class during the Tudor and
 - Likely held Catholic sympathies during the Protestant Reformation (Tom's "crypto-Catholic" hypothesis; see [[Topics/Copley Family Catholicism|Copley Family Catholicism]])
 - Tom Copley adds that a recusant Thomas Copley who fled to the Continent did not surrender his English land; after his death, his wife and son William reclaimed it in England, showing the family retained property ties even through exile
 - See [[References/Father Thomas Copley Dorsey Notes|Father Thomas Copley - Dorsey Notes]]
+- See [[References/Gatton and Leigh Place Notes|Gatton and Leigh Place Notes]] for the London/Gatton family-memory thread about Weston, Leigh Place, and the Mercers
 - Sent younger sons abroad (Ireland, possibly America) to seek fortune and escape religious persecution or economic constraints
 
 ### The Irish Connection
