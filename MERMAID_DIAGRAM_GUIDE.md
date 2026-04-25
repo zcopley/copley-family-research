@@ -110,13 +110,13 @@ graph TB
 flowchart TD
     Q["RQ-M5:<br/>Munday or Murray?"]
     
-    Q -->|Evidence Path 1| E1["Griffith's 1862:<br/>0 Munday, 9+ Murray"]
+    Q -->|Evidence Path 1| E1["Griffith's c.1858:<br/>0 Munday, 14 Murray"]
     Q -->|Evidence Path 2| E2["Parish records gap:<br/>pre-1835 missing"]
     
-    E1 --> T["Test: Search Tithe 1823-1837"]
+    E1 --> T["Test: Search Lewis County<br/>Munday households"]
     E2 --> T
     
-    T --> V["Verdict:<br/>Murray likely"]
+    T --> V["Verdict:<br/>Murray likely original surname"]
 ```
 
 **Uses:**
@@ -143,7 +143,7 @@ flowchart TD
 **Usage example:**
 ```mermaid
 graph LR
-    A["Finding<br/>9+ Murrays"] --> |Result| B["Hypothesis<br/>stronger"]
+    A["Finding<br/>14 Murrays"] --> |Result| B["Hypothesis<br/>resolved for working genealogy"]
     
     style A fill:#c8e6c9
     style B fill:#bbdefb

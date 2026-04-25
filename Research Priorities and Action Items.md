@@ -41,8 +41,8 @@ These questions directly impact multiple research areas. Solving them would enab
 **Research Status:** Open; systematic plan documented
 **Evidence targets:**
 - 1840 U.S. Census for Lewis County, WV: search for Murray surname within FAN-club perimeter around Copley land parcels (the earliest possible census catch for the settlement)
-- Lewis County deed records (available from 1817) for Murray surname purchases 1820–1850 (Weston Courthouse, Lewis County Clerk)
-- 1850, 1860, 1870 Census records for Murray/Irish families near Cove Lick, Camden, Loveberry area
+- Lewis County deed records (available from 1817) for Murray and Munday/Monday surname purchases 1820–1850 (Weston Courthouse, Lewis County Clerk)
+- 1850, 1860, 1870 Census records for Murray/Munday/Irish families near Cove Lick, Camden, Loveberry area
 
 **Related wiki pages:** [[Topics/Murray Settlement|Murray Settlement]] (Section 7: Research Strategy Tier 1), [[People/Michael Copley Sr.|Michael Copley Sr.]], [[People/Ann Copley|Ann Copley]]
 
@@ -66,13 +66,13 @@ These can be completed in a session or two, mostly using online resources.
 
 ---
 
-### 4. Search 1840 Lewis County Census Online
+### 4. Complete Lewis County Census FAN Sweep
 **Relevance:** [[Topics/Murray Settlement|Murray Settlement]]; settlement family documentation
 **Impact:** MEDIUM — Would enumerate Irish families near Copley parcels; test FAN-club method; identify settlement membership
-**Research Status:** Planned; can be done immediately online
+**Research Status:** Partially completed; FamilySearch searches found 0 independent Munday households in Lewis County WV, 1840-1860
 **How to proceed:**
-- Access Ancestry.com or FamilySearch 1840 Census
-- Search Lewis County, WV for: Murray, Dolan, Hanley, Gillooly, Mullooly, Hannon, Reynolds, Mulroney, Mahon
+- Complete the remaining FAN sweep for: Murray, Dolan, Hanley, Gillooly, Mullooly, Hannon, Reynolds, Mulroney, Mahon
+- Treat Munday/Monday as already searched in FamilySearch for 1840-1860 with no independent household found
 - Focus on the Cove Lick, Camden, Loveberry area (southwestern Lewis County)
 - Document all Irish surnames found within the settlement perimeter
 - Compare results to 1850, 1860, 1870 Census for continuity
@@ -81,7 +81,20 @@ These can be completed in a session or two, mostly using online resources.
 
 ---
 
-### 5. Verify Ancestry Forum Claims Against Primary Sources
+### 5. Contact PRONI for Kinawley Tithe Applotment Material
+**Relevance:** [[Topics/Murray Settlement|Murray Settlement]]; RQ-M5 Munday/Murray question
+**Impact:** HIGH — NAI and Ancestry indexed Tithe searches are inconclusive because Kinawley is not indexed; PRONI TAB/5 material may be the next path to the unindexed source
+**Research Status:** Identified after Ancestry.com Collection #1270 search; not yet requested
+**How to proceed:**
+- Contact PRONI and request Kinawley parish material in the Fermanagh Tithe Applotment Books, TAB/5 series
+- Ask specifically for Munday, Monday, Murray, Dolan, Mullooly, Hanley, Gillooly, and related settlement surnames
+- Request either scans, microfilm guidance, or a catalogue/reference path if staff cannot search directly
+
+**Related wiki pages:** [[RQ-M5-TITHE-APPLOTMENT-SEARCH|RQ-M5 Tithe Search Research Note]], [[People/Ann Copley|Ann Copley]], [[Topics/Murray Settlement|Murray Settlement]]
+
+---
+
+### 6. Verify Ancestry Forum Claims Against Primary Sources
 **Relevance:** [[Topics/Murray Settlement|Murray Settlement]]; source verification
 **Impact:** MEDIUM — Would confirm or contradict forum-sourced material (St. Michael's Church, Bishop Whelan, Staunton-Parkersburg Turnpike, Kilgefin parish details)
 **Research Status:** Partially done (Kilgefin details verified); more verification needed
@@ -95,7 +108,7 @@ These can be completed in a session or two, mostly using online resources.
 
 ---
 
-### 6. Search askaboutireland.ie for Murray in Griffith's Valuation
+### 7. Search askaboutireland.ie for Murray in Griffith's Valuation
 **Relevance:** [[Topics/Murray Settlement|Murray Settlement]]; Roscommon emigrant documentation
 **Impact:** MEDIUM — Would test whether Murray family was neighbors of Copleys in Roscommon (supporting neighborhood-transplant hypothesis)
 **Research Status:** Quick-start task, documented but not yet completed
@@ -110,7 +123,7 @@ These can be completed in a session or two, mostly using online resources.
 
 ---
 
-### 7. Search Archive.org for "History of Lewis County West Virginia"
+### 8. Search Archive.org for "History of Lewis County West Virginia"
 **Relevance:** [[Topics/Murray Settlement|Murray Settlement]]; local history
 **Impact:** MEDIUM — 1881 county history may contain firsthand accounts of Irish Settlement's founding story
 **Research Status:** Quick-start task, documented but not yet completed
@@ -128,7 +141,7 @@ These can be completed in a session or two, mostly using online resources.
 
 These require contacting institutions, requesting materials, or travel. Can be planned now, executed when feasible.
 
-### 8. Mitchellville Cemetery — Copley Family Stones
+### 9. Mitchellville Cemetery — Copley Family Stones
 **Relevance:** [[People/Mary Copely Giblin|Mary Copely Giblin]]; Iowa Copley descendants documentation
 **Impact:** MEDIUM — Cemetery stones (A.B., George B., Lavonne, Nellie V. Copley) could identify additional descendants and extend documented line
 **Research Status:** Identified but not yet investigated
@@ -142,7 +155,7 @@ These require contacting institutions, requesting materials, or travel. Can be p
 
 ---
 
-### 9. Diocese of Wheeling-Charleston Archive — St. Michael's Church Records
+### 10. Diocese of Wheeling-Charleston Archive — St. Michael's Church Records
 **Relevance:** [[Topics/Murray Settlement|Murray Settlement]]; church history; 1849 land donation
 **Impact:** MEDIUM-HIGH — Would verify St. Michael's Church existence, location, and 1849 land donation to Diocese of Richmond; may contain parishioner records, priest records, early parish history
 **Research Status:** Identified as primary source target
@@ -156,13 +169,14 @@ These require contacting institutions, requesting materials, or travel. Can be p
 
 ---
 
-### 10. Lewis County Clerk's Office — Full Deed Search for Murray/Settlement Families
+### 11. Lewis County Clerk's Office — Full Deed Search for Murray/Settlement Families
 **Relevance:** [[Topics/Murray Settlement|Murray Settlement]]; land ownership documentation
-**Impact:** HIGH — Would establish exact sequence of land purchases; identify the anchor family (whoever bought first); confirm settlement boundaries
+**Impact:** HIGH — Would establish exact sequence of land purchases, identify the anchor family, confirm settlement boundaries, and may help identify Ann Murray's family
 **Research Status:** Identified as primary source target
 **How to proceed:**
 - Contact: Lewis County Clerk's Office, Weston, WV
 - Request: Full deed search for 1817–1850 period; focus on surnames: Murray, Dolan, Mullooly, Hanley, Gillooly, Hannon, Reynolds, Mulroney, Mahon
+- Prioritize transcription of the known John Murray deed leads from 1826 and 1833
 - Prioritize: Cove Lick, Camden, Loveberry area of southwestern Lewis County
 - Document: Buyer, seller, acreage, date, price (if listed)
 - Compare to [[People/Michael Copley Sr.|Copley]]'s 1843 Hoffman deed
@@ -171,7 +185,7 @@ These require contacting institutions, requesting materials, or travel. Can be p
 
 ---
 
-### 11. WV State Archives — Staunton-Parkersburg Turnpike Records
+### 12. WV State Archives — Staunton-Parkersburg Turnpike Records
 **Relevance:** [[Topics/Murray Settlement|Murray Settlement]]; labor history; settlement motivation
 **Impact:** MEDIUM — Would confirm turnpike as labor draw into Lewis County; potentially identify Irish laborers or contractors; provide employment context for settlement timing
 **Research Status:** Identified as verification target
@@ -189,7 +203,7 @@ These require contacting institutions, requesting materials, or travel. Can be p
 
 These require sustained effort and may span multiple research sessions.
 
-### 12. Systematically Search English Recusancy Records for Copley Crypto-Catholics
+### 13. Systematically Search English Recusancy Records for Copley Crypto-Catholics
 **Relevance:** [[Topics/Copley Family Catholicism|Copley Family Catholicism]]; Bredon/Woolbedding religious identity
 **Impact:** MEDIUM — Would test crypto-Catholic hypothesis; identify whether Protestant Copleys had documented Catholic sympathies or activities
 **Research Status:** Hypothesis documented; evidence targets identified
@@ -206,7 +220,7 @@ These require sustained effort and may span multiple research sessions.
 
 ---
 
-### 13. Map All Murray Settlement Families to Their Roscommon Origins
+### 14. Map All Murray Settlement Families to Their Roscommon Origins
 **Relevance:** [[Topics/Murray Settlement|Murray Settlement]]; neighborhood-transplant hypothesis; 5-tier strategy
 **Impact:** HIGH — Would fully test the coordinated-transplant hypothesis; establish which families were pre-emigration neighbors
 **Research Status:** Plan documented; execution not yet begun
@@ -222,7 +236,7 @@ These require sustained effort and may span multiple research sessions.
 
 ---
 
-### 14. Develop Stephen Michael Copley (b. 1936) Line Documentation
+### 15. Develop Stephen Michael Copley (b. 1936) Line Documentation
 **Relevance:** [[People/Stephen Michael Copley|Stephen Michael Copley]]; Stephen line family tree; G26–G28 documentation
 **Impact:** MEDIUM — Would mirror the depth of Tom line documentation; provide comprehensive family tree; identify living family members (with their permission)
 **Research Status:** G26 profiles exist but are thin; G27–G28 sparse
@@ -236,7 +250,7 @@ These require sustained effort and may span multiple research sessions.
 
 ---
 
-### 15. Resolve the Crypto-Catholic Hypothesis Through Systematic Evidence Collection
+### 16. Resolve the Crypto-Catholic Hypothesis Through Systematic Evidence Collection
 **Relevance:** [[Topics/Copley Family Catholicism|Copley Family Catholicism]]; religious identity; Bredon/Woolbedding history
 **Impact:** MEDIUM — Would answer foundational question about family religious authenticity; impact interpretation of entire family narrative
 **Research Status:** Hypothesis documented with 8 formal questions (RQ-C1 through RQ-C8); evidence markers identified; agents instructed to watch for supporting/contradicting evidence
@@ -266,4 +280,3 @@ These require sustained effort and may span multiple research sessions.
 2. **Planning sessions:** Use Keystone Research section to prioritize future work
 3. **Agent instructions:** Agents should check this page and the related research pages (Murray Settlement, Copley Family Catholicism) when seeking guidance on evidence to actively flag
 4. **Progress tracking:** Update this page as research is completed; move items from Open to Completed sections as work progresses
-

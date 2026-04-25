@@ -10,6 +10,76 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 2N (Continued) - Surrey / London / Gatton Mermaid Chart Added (April 25, 2026)
+
+**GENEALOGY CLARIFICATION:** Tom Copley clarified that William Copley of Woolbedding was the great-uncle of Sir Thomas Copley of Gatton, the recusant who fled to the Continent. This places the Bredon/Woolbedding line and the Gatton/London recusant line as collateral branches.
+
+### Updated Pages
+
+- [[Topics/Bredon Descent|Bredon Descent: Medieval Roots of the American Copleys]] - added a Surrey / London / Gatton Mermaid relationship chart showing the collateral relationship, Gatton property continuity, Weston transfer, and unresolved intermediate Surrey generation
+- [[References/Gatton and Leigh Place Notes|Gatton and Leigh Place Notes]] - linked Tom's relationship correction to the new diagram
+- [[CLAUDE|CLAUDE]] - added a standing rule that relevant Mermaid diagrams must be updated whenever new information changes relationships, chronology, evidence status, source coverage, or research priorities
+- [[MERMAID_DIAGRAM_GUIDE|MERMAID_DIAGRAM_GUIDE]] - refreshed the RQ-M5 example to use current evidence
+
+## Phase 2N (Continued) - RQ-M5 Resolved: Ann Munday Was Likely Ann Murray (April 25, 2026)
+
+**RESEARCH OUTCOME:** Claude for Chrome supplied the final Griffith's Valuation and FamilySearch census evidence for RQ-M5. The wiki now treats Ann "Munday" as almost certainly Ann Murray for working genealogy, while preserving the need for a direct marriage, passenger, church, or deed record if one survives.
+
+### Findings
+
+- Ask About Ireland / Griffith's Valuation shows 14 Murray occupiers in Kinawley parish, County Fermanagh
+- Griffith's Valuation shows 0 Munday entries in Kinawley and 0 Munday entries in all Fermanagh
+- Mundy/Monday variants exist elsewhere in Fermanagh but not Kinawley
+- FamilySearch census searches found 0 independent Munday households in Lewis County WV, 1840-1860
+- The next research question shifts from "Was Ann Munday actually Ann Murray?" to "Which Kinawley Murray household was Ann's family?"
+
+### Updated Pages
+
+- [[RQ-M5-PHASE-2-FINDINGS|RQ-M5 Phase 2 Findings]] - updated verdict to resolved for working genealogy and added FamilySearch census evidence
+- [[People/Ann Copley|Ann Copley]] - updated RQ-M5 status, evidence, and next steps
+- [[Topics/Murray Settlement|Murray Settlement]] - updated Section 5 and the research question table
+- [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]] - changed RQ-M5 from surname test to father-candidate workup
+- [[Topics/Captain John Copley Research|Captain John Copley Research]] - replaced old speculative wording with the new resolved working conclusion
+- [[Topics/Bredon Descent|Bredon Descent: Medieval Roots of the American Copleys]] - updated the Ann Munday/Murray note
+- [[Research Priorities and Action Items|Research Priorities and Action Items]] - marked the Munday census test as completed and shifted priority to Murray deed work
+- [[CLAUDE|CLAUDE]] - updated agent instructions with the current RQ-M5 conclusion
+
+## Phase 2N (Continued) - Ancestry Tithe Search Integrated for RQ-M5 (April 25, 2026)
+
+**RESEARCH OUTCOME:** Claude for Chrome completed the fully unlocked Ancestry.com Collection #1270 search for the RQ-M5 Munday/Murray question. The result closes the indexed Tithe Applotment source path as **inconclusive** because Kinawley parish is not indexed in either NAI or Ancestry.
+
+### Findings
+
+- Munday exact-surname search: 11 all-Ireland entries, 0 in Kinawley, 0 in Fermanagh; strongest cluster in Ahamlish, Sligo
+- Murray exact-surname search in Fermanagh: 3 entries, 0 in Kinawley
+- Kinawley parish is absent from both searched indexed databases, so this is a coverage gap rather than evidence of surname absence
+- Munday is confirmed as a real Irish surname, not inherently a Murray transcription artifact
+
+### Updated Pages
+
+- [[RQ-M5-TITHE-APPLOTMENT-SEARCH|RQ-M5 Tithe Search Research Note]] - added full Ancestry results table and closed verdict
+- [[RQ-M5-PHASE-2-FINDINGS|RQ-M5 Phase 2 Findings]] - updated the Tithe section from pending to closed inconclusive
+- [[People/Ann Copley|Ann Copley]] - updated the RQ-M5 status and next steps
+- [[Topics/Murray Settlement|Murray Settlement]] - updated Section 5 with the final Tithe result
+- [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]] - replaced pending Ancestry Tithe action with PRONI and Lewis County next steps
+- [[Research Priorities and Action Items|Research Priorities and Action Items]] - added PRONI Kinawley TAB/5 inquiry and Munday/Monday FAN sweep actions
+
+## Phase 2N (Continued) - Christie Letters Source Trail Added (April 25, 2026)
+
+**NEW SOURCE NOTE:** Tom Copley identified Richard Copley Christie's 1897 edition of Sir Thomas Copley's letters as an important Gatton source. The Google Books record does not expose full text, so the wiki now records the source as a high-priority acquisition target and integrates accessible corroborating leads around it.
+
+### New Page
+
+- [[References/Sir Thomas Copley Letters Notes|Sir Thomas Copley Letters Notes]] - bibliographic note and research-use summary for Christie's 1897 edition, with accessible evidence from DNB, Cambridge scholarship, Historic England, and the Weston/Sutton Place source trail
+
+### Updated Pages
+
+- [[References/Gatton and Leigh Place Notes|Gatton and Leigh Place Notes]] - upgraded the Weston/Leigh Place/Mercers note with published corroborating leads and flagged the Mary Copley / John Weston discrepancy
+- [[Topics/Captain John Copley Research|Captain John Copley Research]] - added Christie as a priority source for the Gatton recusant evidence trail
+- [[Topics/Bredon Descent|Bredon Descent: Medieval Roots of the American Copleys]] - linked the Christie source note from the English gentry context
+- [[People/Thomas Copley Sr.|Thomas Copley Sr.]] - linked the Christie source note from the recusant-family note
+- [[Bibliography and Acquisition Guide|Bibliography and Acquisition Guide]] - added Christie 1897 as a hard-to-find source target
+
 ## Phase 2N (Continued) - Gatton / Leigh Place Family Memory Note Added (April 25, 2026)
 
 **NEW SOURCE NOTE:** Tom Copley shared a further Gatton-family-memory thread about the London Copleys, Leigh Place, the Weston marriage, and Mercer's Guild membership. The note is now isolated in a dedicated source page.

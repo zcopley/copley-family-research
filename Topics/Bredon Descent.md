@@ -78,6 +78,66 @@ graph TD
     classDef verified fill:#fff9c4,stroke:#f57f17,stroke-width:2px,color:#1a1a1a,font-weight:bold
 ```
 
+## Surrey / London / Gatton Branch Relationship Chart
+
+Tom Copley's latest correction clarifies the relationship between the Bredon/Woolbedding line and the recusant Gatton line: **William Copley of Woolbedding was the great-uncle of Sir Thomas Copley of Gatton**, the recusant who fled to the Continent. That means the Bredon line and the Gatton/London line are collateral branches, not the same direct line.
+
+This chart is a relationship map, not a fully sourced elder-line pedigree. The exact intermediate names in the Surrey/Gatton branch still need to be checked against the Visitations of Surrey/Sussex and Christie's 1897 letters edition.
+
+```mermaid
+graph TD
+    ROGER["<b>Roger Copley of Roughley</b><br/>1430-1490<br/>Roughley / Roughey, Surrey"]:::common
+    JANE["<b>Jane Anne Hoo</b><br/>Hoo family connection"]:::spouse
+    
+    JANE --> ROGER
+    
+    subgraph SURREY["Elder Surrey / Gatton / London Branch"]
+        SIR_ROGER["<b>Sir Roger Copley</b><br/>elder Roughley line<br/>brother of William"]:::surrey
+        INTERMEDIATE["<b>Intermediate Surrey Copley</b><br/>name/date to verify<br/>likely parent generation"]:::gap
+        SIR_THOMAS["<b>Sir Thomas Copley of Gatton</b><br/>recusant exile<br/>Gatton, Surrey / Roughey, Sussex"]:::recusant
+        WILLIAM_GATTON["<b>William Copley the elder</b><br/>Gatton property continuity<br/>1632 recusancy pardon / hold"]:::surrey
+        MARY_WESTON["<b>Mary Copley</b><br/>m. John Weston, 1637<br/>Gatton passes toward Weston line"]:::weston
+    end
+    
+    subgraph BREDON["Younger Woolbedding / Bredon Branch"]
+        WILLIAM_WOOL["<b>William Copley of Woolbedding</b><br/>c.1450-1500s<br/>great-uncle of Sir Thomas of Gatton"]:::bredon
+        THOMAS_SR["<b>Thomas Copley Sr. of Bredon</b><br/>d.1593<br/>Bredon's Norton"]:::bredon
+        THOMAS_JR["<b>Thomas Copley Jr. of Bredon</b><br/>c.1580-1647"]:::bredon
+        CAPTAIN["<b>Captain John Copley</b><br/>Italy 1634<br/>Ireland 1657+"]:::verified
+    end
+    
+    ROGER --> SIR_ROGER
+    ROGER --> WILLIAM_WOOL
+    
+    SIR_ROGER --> INTERMEDIATE
+    INTERMEDIATE --> SIR_THOMAS
+    SIR_THOMAS --> WILLIAM_GATTON
+    WILLIAM_GATTON --> MARY_WESTON
+    
+    WILLIAM_WOOL --> THOMAS_SR
+    THOMAS_SR --> THOMAS_JR
+    THOMAS_JR --> CAPTAIN
+    
+    WILLIAM_WOOL -. "great-uncle relationship<br/>per Tom Copley" .- SIR_THOMAS
+    
+    classDef common fill:#e1f5fe,stroke:#0277bd,stroke-width:2px,color:#1a1a1a,font-weight:bold
+    classDef spouse fill:#bbdefb,stroke:#1976d2,stroke-width:1px,color:#1a1a1a
+    classDef surrey fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px,color:#1a1a1a
+    classDef bredon fill:#c8e6c9,stroke:#2e7d32,stroke-width:2px,color:#1a1a1a
+    classDef recusant fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#1a1a1a,font-weight:bold
+    classDef weston fill:#ffe0b2,stroke:#e65100,stroke-width:2px,color:#1a1a1a
+    classDef gap fill:#eeeeee,stroke:#616161,stroke-width:1px,stroke-dasharray: 5 5,color:#1a1a1a
+    classDef verified fill:#fff9c4,stroke:#f57f17,stroke-width:2px,color:#1a1a1a,font-weight:bold
+```
+
+**How to read this chart:**
+
+- Roger Copley of Roughley is the shared Surrey ancestor.
+- William Copley of Woolbedding belongs to the younger line that leads to Thomas Copley Sr. of Bredon, Thomas Copley Jr., and Captain John Copley.
+- Sir Thomas Copley of Gatton belongs to the elder Surrey/Gatton line.
+- Tom's correction places William of Woolbedding as Sir Thomas of Gatton's great-uncle, making Sir Thomas a collateral cousin of the Bredon Copleys rather than a direct Bredon ancestor.
+- The Weston transfer and Leigh Place threads belong on the Surrey/Gatton side of the chart, not the Bredon/Captain John side.
+
 ## Generation-by-Generation Overview
 
 ### Generation 1: Sir Richard Copley (c. 1375–1434)
@@ -176,6 +236,7 @@ The Copleys of Bredon were part of the English gentry class during the Tudor and
 - Likely held Catholic sympathies during the Protestant Reformation (Tom's "crypto-Catholic" hypothesis; see [[Topics/Copley Family Catholicism|Copley Family Catholicism]])
 - Tom Copley adds that a recusant Thomas Copley who fled to the Continent did not surrender his English land; after his death, his wife and son William reclaimed it in England, showing the family retained property ties even through exile
 - See [[References/Father Thomas Copley Dorsey Notes|Father Thomas Copley - Dorsey Notes]]
+- See [[References/Sir Thomas Copley Letters Notes|Sir Thomas Copley Letters Notes]] for the key Christie letters source and accessible corroborating leads
 - See [[References/Gatton and Leigh Place Notes|Gatton and Leigh Place Notes]] for the London/Gatton family-memory thread about Weston, Leigh Place, and the Mercers
 - Sent younger sons abroad (Ireland, possibly America) to seek fortune and escape religious persecution or economic constraints
 
@@ -223,7 +284,7 @@ The Bredon descent is verified through:
 
 1. **Captain John's children:** Names, dates, marriages unknown. The speculative descent through "John of Kilgefin" to Michael Copley Sr. is based on generation timing and surname, not documentary evidence.
 2. **William Copley of Fairymount (b. ~1794):** Catholic Copely found in Kilgefin 1864; possible older brother or father of Michael Copley Sr. — genealogical relationship unclear.
-3. **Ann Munday/Murray:** Michael Copley Sr.'s wife; "Munday" not found in Griffith's Valuation or Kinawley records; may be transcription error for "Murray" (see [[Topics/Murray Settlement|Murray Settlement RQ-M5]]).
+3. **Ann Munday/Murray:** Michael Copley Sr.'s wife; "Munday" is absent from Griffith's Valuation in Kinawley and all Fermanagh, while 14 Murrays appear in Kinawley. FamilySearch census searches also found no independent Munday household in Lewis County WV, 1840-1860. RQ-M5 now treats "Murray" as the likely original Irish surname and "Munday" as the received American-family spelling (see [[Topics/Murray Settlement|Murray Settlement RQ-M5]]).
 
 **Priority research actions:**
 

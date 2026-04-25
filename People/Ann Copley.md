@@ -68,7 +68,7 @@ timeline
 
 ## Research Gaps
 
-### Critical: RQ-M5 — Munday vs. Murray Hypothesis (April 23, 2026 Update)
+### Critical: RQ-M5 — Munday vs. Murray Hypothesis (April 25, 2026 Update)
 
 **Current Evidence Status:**
 
@@ -82,20 +82,20 @@ graph LR
     QUEST --> FOR
     QUEST --> AGAINST
     
-    FOR --> E1["9+ Murrays in<br/>Griffith's 1862<br/>Kinawley"]
+    FOR --> E1["14 Murrays in<br/>Griffith's c.1858<br/>Kinawley"]
     FOR --> E2["'Munday'/'Murray'<br/>phonetically similar<br/>transcription error"]
     FOR --> E3["Murray family anchor<br/>would explain<br/>Michael's destination"]
     
     AGAINST --> E4["'Munday' appears in<br/>all family documents<br/>GEDCOM, Partlow"]
     AGAINST --> E5["Ann from Fermanagh<br/>not Roscommon<br/>where Murrays are"]
     
-    E1 --> NEXT["NEXT: Search<br/>1823-1837<br/>Tithe Books"]
+    E1 --> NEXT["NEXT: PRONI +<br/>Lewis County<br/>FAN sweep"]
     E2 --> NEXT
     E3 --> NEXT
     E4 --> NEXT
     E5 --> NEXT
     
-    NEXT --> TEST["VERDICT TEST:<br/>No Munday in Tithe?<br/>= Likely Murray"]
+    NEXT --> TEST["TITHE TEST:<br/>Closed inconclusive<br/>Kinawley not indexed"]
     
     style FOR fill:#c8e6c9
     style AGAINST fill:#ffccbc
@@ -105,33 +105,40 @@ graph LR
 
 **Status:**
 
-**Status:** Actively researched; significant evidence emerging
+**Status:** Resolved for working genealogy: Ann "Munday" was almost certainly Ann Murray. Direct identity records are still desired.
 
 Tom Copley (April 2026) raised the possibility that “Munday” is a phonetic transcription of “Murray” — placing Ann inside the Murray family that named [[Topics/Murray Settlement|Murray's Settlement]]. **Phase 2 research (April 2026) yielded notable findings:**
 
-**Evidence Against “Munday” as Independent Surname:**
+**Evidence Supporting the Murray Hypothesis:**
 - ❌ No “Munday” entries in Griffith's Valuation (1862) for Kinawley, County Fermanagh — exhaustively searched
-- ✅ **9+ Murray entries** documented in same Griffith's Valuation (Bridget, Edward, James, John, Mary, Michael, Patrick, Peter)
+- ❌ No “Munday” entries in all Fermanagh in Ask About Ireland / Griffith's Valuation
+- ✅ **14 Murray occupiers** documented in Kinawley parish in the same Griffith's Valuation search
+- ✅ Related variants exist elsewhere in Fermanagh but not Kinawley: 7 Mundy entries in Cleenish/Killesher and 1 Monday entry in Cleenish
+- ❌ FamilySearch U.S. Census searches found **0 independent Munday households** in Lewis County WV from 1840-1860, and 0 Munday results in the searched Virginia / West Virginia records
 - ❌ Kinawley Catholic parish records only begin December 11, 1835 — after Ann's birth c. 1823-1824, making baptismal confirmation impossible
-- ✅ Munday is a documented Irish surname (Anglicization of McAloon), but no Fermanagh/Kinawley records of it in the period
 
-**Tithe Applotment Books Search — COMPLETED (April 24, 2026)**
+**Evidence Supporting Munday as a Real Surname:**
+- ✅ "Munday" appears consistently in family documents, GEDCOM material, and Partlow-family sources
+- ✅ Ancestry.com Collection #1270 confirms Munday is a real Irish surname with 11 exact-surname Tithe Applotment entries across Ireland
+- ✅ The Ancestry Munday cluster is not in Kinawley or Fermanagh, but it proves the surname is not inherently a Murray transcription artifact
 
-⏳ **Status: INCONCLUSIVE** — Database coverage gap, not null evidence
+**Tithe Applotment Books Search — CLOSED INCONCLUSIVE (April 25, 2026)**
 
-- **Key Finding:** NAI Tithe Applotment Books online database only covers **Inishmacsaint and Tomregan parishes** in Fermanagh. **Kinawley is not in the database.**
-- **Search Result:** Munday surname was found in Fermanagh Tithe records (3 entries in Inishmacsaint, 1834), confirming it is a **documented Irish surname** — not an inherent transcription artifact
-- **Kinawley Status:** Cannot confirm or deny presence of Munday or Murray in Ann's reported birthplace using this source
+- **Databases searched:** National Archives of Ireland Tithe Applotment Books and Ancestry.com Collection #1270, *Ireland, Tithe Applotment Books, 1805-1837*
+- **Key finding:** **Kinawley is not indexed in either database** for this question; this is a coverage gap, not evidence of surname absence
+- **Munday result:** 11 all-Ireland exact-surname entries in Ancestry; 0 in Kinawley; 0 in Fermanagh; strongest cluster in Ahamlish, Sligo
+- **Murray result:** 3 indexed Fermanagh entries in Ancestry; 0 in Kinawley
+- **Kinawley status:** Cannot confirm or deny presence of Munday or Murray in Ann's reported birthplace using this source
 - **Detailed Findings:** See [[RQ-M5-TITHE-APPLOTMENT-SEARCH|RQ-M5 Tithe Search Research Note]]
 
 **Next Research Steps (revised priorities):**
-1. **Ancestry.com Tithe Applotment Books (HIGHEST PRIORITY)** — Ancestry digitized the full NAI Tithe collection including Kinawley. Search “Ireland, Tithe Applotment Books, 1823–1837” for Munday and Murray. **Expected outcome:** May directly resolve the question. **Time: 1–2 hours**
-2. **Contact PRONI** (Public Record Office of Northern Ireland) — Request Fermanagh Tithe Applotment Books, TAB/5 series, Kinawley records. **Time: 1–2 weeks for response**
-3. **Lewis County census (1840, 1850, 1860)** — search for independent “Munday” family households; absence would strengthen Murray hypothesis
-4. **St. Michael's Church records** — contact Diocese of Wheeling-Charleston for marriage records 1838–1850 that might show Ann's maiden name
+1. **Identify Ann's likely Murray father** — Candidate Kinawley male heads from Griffith's include Patrick, Peter, Edward, James, Michael, and John Murray
+2. **Transcribe Lewis County Murray deeds** — especially John Murray, 1826 and 1833, to test whether the early Murray landholders connect to the Copleys
+3. **Contact PRONI** (Public Record Office of Northern Ireland) — Request Fermanagh Tithe Applotment Books, TAB/5 series, Kinawley records. **Time: 1-2 weeks for response**
+4. **St. Michael's Church records** — contact Diocese of Wheeling-Charleston for marriage records 1838-1850 that might show Ann's maiden name
 5. **Ship manifests** — search *Powhatan* (Aug 20, 1838) and *Kutusoff* (1837) for female passengers with either surname
 
-**Preliminary verdict:** The NAI online Tithe search was inconclusive due to coverage gaps, but the discovery that Munday existed as a documented Fermanagh surname adds credibility to the possibility that Ann was genuinely named Munday. The hypothesis remains open pending the Ancestry.com Tithe search, which should include Kinawley coverage.
+**Current verdict:** RQ-M5 is resolved for working genealogy. Ann "Munday" was almost certainly Ann Murray, with "Munday" entering American records as a phonetic transcription, clerical error, or oral-family transmission. The remaining task is no longer proving the surname hypothesis; it is identifying which Kinawley Murray household was Ann's family and finding a direct record if one survives.
 
 ### Other Research Gaps
 

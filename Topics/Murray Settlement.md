@@ -386,19 +386,22 @@ This is the single most leveraged open question in the entire Murray Settlement 
 
 ⚠️ **[PLAUSIBLE]** A marriage into the anchor family would elegantly explain how Michael Copley ended up in Lewis County specifically: he didn't just follow information, he married into the family that organized the destination.
 
-### Phase 2 Research Findings (April 23, 2026)
+### Phase 2 Research Findings (April 25, 2026)
 
 **Evidence Summary Diagram:**
 
 ```mermaid
 graph LR
-    GV["Griffith's Valuation<br/>(1862)<br/>Kinawley"]
+    GV["Griffith's Valuation<br/>(c.1858)<br/>Kinawley"]
     
     GV -->|0 entries| MUN["❌ MUNDAY<br/>Not found"]
-    GV -->|9+ entries| MUR["✅ MURRAY<br/>Well documented"]
+    GV -->|14 occupiers| MUR["✅ MURRAY<br/>Well documented"]
     
     PR["Parish Records<br/>(1835+)<br/>Kinawley"]
     PR -->|No records| AB["❌ Ann's Baptism<br/>Undocumentable<br/>pre-1835"]
+    
+    TAB["Tithe Books<br/>(1823-1837)<br/>NAI + Ancestry"]
+    TAB -->|No Kinawley index| GAP["⏳ Coverage gap<br/>not evidence of absence"]
     
     MUN -->|Suggests| HYP1["Munday was NOT<br/>property-holding family<br/>OR already emigrated"]
     MUR -->|Suggests| HYP2["Murray family anchor<br/>in Kinawley"]
@@ -406,42 +409,35 @@ graph LR
     HYP1 -->|Combined| VERS["VERDICT:<br/>Munday = Murray<br/>PLAUSIBLE"]
     HYP2 -->|evidence| VERS
     
-    VERS -->|Next step| TITHE["Search Tithe Books<br/>(1823-1837)<br/>CRITICAL TEST"]
+    VERS -->|Next step| TITHE["PRONI TAB/5 +<br/>Lewis County<br/>Munday sweep"]
     
     style MUN fill:#ffcdd2
     style MUR fill:#c8e6c9
+    style GAP fill:#fff9c4
     style VERS fill:#fff9c4
     style TITHE fill:#bbdefb
 ```
 
-**🔴 CRITICAL EVIDENCE — No "Munday" in Griffith's Valuation (1862), Kinawley**
+**🔴 CRITICAL EVIDENCE — No "Munday" in Griffith's Valuation (c.1858), Kinawley**
 
-✅ **Murray surname documented extensively in Kinawley (1862):**
-- Bridget L: Aghyoule
-- Edward L: Aghyoule
-- James L: Derryhooly
-- James L: Drumettagh
-- John L: Glasdrumman
-- Mary L: Aghyoule
-- Michael L: Corry
-- Patrick L: Aghyoule (multiple entries)
-- Peter L: Aghyoule
+✅ **Murray surname documented extensively in Kinawley (c.1858):**
+- Ask About Ireland / Griffith's Valuation shows **14 named Murray occupiers** in Kinawley parish
+- Forenames include Patrick, Peter, Bridget, Mary, Edward, James, Michael, and John
+- Townland details need extraction from the individual Griffith detail pages
 
-❌ **Munday surname: ZERO entries** in Kinawley parish (exhaustively searched at irishgenealogyhub.com)
+❌ **Munday surname: ZERO entries** in Kinawley parish and zero entries in all Fermanagh. Variant results do not place the family in Kinawley: **Mundy** appears in Cleenish/Killesher, and **Monday** appears once in Cleenish.
 
 **Documentary Gap:** Kinawley Catholic parish records only begin December 11, 1835 — too late to capture Ann's baptism (c. 1823-1824 birthdate). No parish confirmation of "Munday" is possible via church records.
 
-**Status:** **Strongly suggestive but not conclusive.** The absence of both surname from Griffith's (1862) and parish records (1835+) combined with the **substantial Murray presence in Kinawley** is consistent with the phonetic-transcription hypothesis. However, "Munday" could have been:
-- A non-property-holding family (laborers, servants)
-- A family that emigrated before 1857/1862
-- A spelling variant from a different townland or parish
-- A genuine independent surname
+**Tithe Applotment Books Final Result:** **Closed inconclusive.** NAI and Ancestry.com Collection #1270 were both searched. Kinawley parish is not indexed in either database for this question, so the source cannot confirm or deny the presence of Munday or Murray in Ann's reported birthplace. Ancestry's exact-surname search found 11 Munday entries across Ireland, 0 in Kinawley and 0 in Fermanagh; it found 3 Murray entries in Fermanagh, 0 in Kinawley. See [[RQ-M5-TITHE-APPLOTMENT-SEARCH|RQ-M5 Tithe Search Research Note]].
 
-**Next critical research step:** **Search Tithe Applotment Books (1823–1837, National Archives of Ireland)** for both "Munday" and "Murray" entries at Kinawley. This overlaps the period just before emigration and may resolve the question. If Munday is absent from Tithe books as well, the Murray hypothesis gains significant strength.
+**FamilySearch Census Result:** FamilySearch U.S. Census searches for Lewis County, Virginia / West Virginia, 1840-1860 found **0 independent Munday households** in the settlement area, and 0 Munday results in the searched Virginia / West Virginia records. This removes the main American-side alternative: that Ann belonged to a separate Munday family that emigrated alongside the Copleys.
 
-❓ The existing evidence still partially supports "Munday": the GEDCOM data, family narrative documents, and the [[People/Marion Elizabeth Partlow|Partlow family sources]] all use "Munday." A County Fermanagh origin (Kinawley) also differs from the Roscommon-origin Murrays expected for the settlement core. These are not definitively contradictory — but they require careful evaluation against newly discovered primary source evidence.
+**Status:** **Resolved for working genealogy.** Ann "Munday" was almost certainly Ann Murray, with "Munday" entering American records as a phonetic transcription, clerical error, or oral-family transmission. This conclusion rests on converging indirect evidence: no Munday in Kinawley or all Fermanagh, 14 Murrays in Kinawley, no independent Munday household in Lewis County, and a settlement historically known as Murray's Settlement.
 
-**This question must be resolved through the remaining Phase 2/3 primary source research.** See Sections 6-7 for acquisition strategy.
+**Next critical research step:** Shift from proving the Munday/Murray hypothesis to identifying Ann's Murray family. The leading tasks are to extract townland details for the 14 Kinawley Murray occupiers, transcribe the 1826 and 1833 Lewis County John Murray deeds, and search direct church/passenger/marriage records for Ann.
+
+The GEDCOM data, family narrative documents, and the [[People/Marion Elizabeth Partlow|Partlow family sources]] still preserve the "Munday" spelling. Keep that spelling as the received American-family form, but treat "Murray" as the most likely original Irish surname.
 
 ---
 
@@ -517,15 +513,15 @@ The following Roscommon townlands and parishes are documented in relation to the
 
 13. **Lewis County historical societies** — The Lewis County Historical Society (Weston) may hold letters, diaries, or local histories containing the settlement's origin story in the settlers' own words.
 
-### Tier 5 — The Ann Munday / Murray Question
+### Tier 5 — Ann Murray Family Identification
 
-**RQ-16 (from Captain John research):** Was Ann Munday actually Ann Murray?
+**RQ-16 (from Captain John research):** Which Kinawley Murray household was Ann "Munday" Copley's family?
 
-14. **Search for Murray family in Lewis County + Fermanagh connection** — If the Murrays came from County Fermanagh (Ann's reported birthplace) rather than Roscommon, it would open the possibility that Ann *was* a Murray without contradicting her Fermanagh origin.
+14. **Work up Kinawley Murray father candidates** — The Griffith's Valuation male heads Patrick, Peter, Edward, James, Michael, and John Murray are the first candidate pool for Ann's father or close kin.
 
-15. **Search PRONI and Fermanagh parish registers** — Look for Munday/Monday AND Murray surname records in Kinawley parish, Fermanagh, 1820–1840. If both surnames appear in the same records as neighbors, phonetic confusion becomes more plausible.
+15. **Search PRONI and Fermanagh parish registers** — Look for Murray baptism, marriage, and tithe records in Kinawley parish, Fermanagh, 1820–1840, especially records that could name an Ann born c. 1823.
 
-16. **Search Lewis County records for "Munday" as a distinct family** — If a Munday family exists independently in Lewis County records (separate from Ann's household), it confirms Munday is a real surname, not a Murray transcription error.
+16. **Transcribe Lewis County John Murray deeds** — The 1826 and 1833 John Murray deed leads may identify the Murray anchor family, witnesses, neighbors, or land near the later Copley settlement.
 
 ---
 
@@ -579,7 +575,7 @@ graph TD
 | RQ-M2 | Did the settlement families travel together on the same ships? | 🔴 High | *Powhatan* and *Kutusoff* full manifests; NARA M237 |
 | RQ-M3 | Were the Lewis County settlement families neighbors in Roscommon? | 🔴 High | Griffith's Valuation; parish registers; irishgenealogy.ie |
 | RQ-M4 | What was the organizational mechanism of the migration? | 🟡 Medium | Lewis County deed sequence; Catholic parish records; local histories |
-| RQ-M5 | Was Ann Munday actually Ann Murray? | 🟡 Medium | PRONI; Fermanagh parish records; Lewis County records |
+| RQ-M5 | Which Kinawley Murray household was Ann "Munday" Copley's family? | 🔴 High | Lewis County Murray deeds; PRONI; Fermanagh parish records; passenger lists |
 | RQ-M6 | What was the push factor in Roscommon in the 1830s? | 🟡 Medium | Roscommon Journal; Parliamentary Papers; estate records |
 | RQ-M7 | Were the Mullooly, Hannon, Reynolds families part of the settlement? | 🟢 Lower | Lewis County census; Catholic parish records |
 | RQ-M8 | Does the Iowa parallel (Mary Copely Giblin) reflect a separate organized chain? | 🟢 Lower | Crawford County Iowa records; Iowa Catholic parish records |

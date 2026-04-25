@@ -306,9 +306,9 @@ flowchart TD
 
 **Objective:** Determine whether Michael Copley Sr.'s wife's maiden name was "Munday" (family tradition) or a phonetic transcription of "Murray" (Tom's hypothesis), which would place her inside the anchor family network.
 
-**Status:** ✅ **PHASE 2 RESEARCH COMPLETE** — See `[[People/Ann Copley|Ann Copley]]` and `[[RQ-M5-PHASE-2-FINDINGS|RQ-M5 Phase 2 Findings]]` for full analysis.
+**Status:** ✅ **RESOLVED FOR WORKING GENEALOGY** — See `[[People/Ann Copley|Ann Copley]]`, `[[RQ-M5-PHASE-2-FINDINGS|RQ-M5 Phase 2 Findings]]`, and `[[RQ-M5-TITHE-APPLOTMENT-SEARCH|RQ-M5 Tithe Search Research Note]]` for full analysis.
 
-**Verdict:** Strongly suggestive but NOT conclusive. No "Munday" in Griffith's Valuation (1862) Kinawley; 9+ "Murray" entries. Awaiting Tithe Applotment Books (1823–1837) search and Lewis County census checks.
+**Verdict:** Ann "Munday" was almost certainly Ann Murray. No "Munday" appears in Griffith's Valuation (c.1858) Kinawley or all Fermanagh; 14 "Murray" occupiers appear in Kinawley; FamilySearch census searches found 0 independent Munday households in Lewis County WV, 1840-1860. NAI and Ancestry Tithe searches are inconclusive because Kinawley is not indexed in either database. Next steps shift to identifying Ann's Murray father and connecting the Kinawley Murrays to the Lewis County Murray deeds.
 
 ---
 
@@ -440,7 +440,7 @@ graph LR
 
 **Week 2: Census & Roscommon Records**
 - [ ] 1840/1850 Lewis County census FAN sweep (RQ-M1, RQ-M2)
-- [ ] Tithe Applotment Books search (RQ-M3, RQ-M5)
+- [ ] Kinawley Murray father-candidate workup and Lewis County John Murray deed transcription (RQ-M5)
 - [ ] Roscommon Journal searches (RQ-M6)
 
 **Week 3: Church & Institutional Records**

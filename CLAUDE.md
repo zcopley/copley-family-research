@@ -115,6 +115,17 @@ tags:
 - **Records availability:** Gaps, timelines, coverage (see Kinawley records timeline in `RQ-M5-PHASE-2-FINDINGS.md`)
 - **Geographic relationships:** Townland clustering, parish relationships, settlement areas
 
+**Diagram maintenance rule:** When new information changes family relationships, chronology, evidence status, source coverage, or research priorities, update every affected Mermaid diagram in the same edit. Do not update prose only. Check at minimum:
+- `Family Tree.md`
+- `Topics/Bredon Descent.md`
+- `Topics/Murray Settlement.md`
+- `Topics/Murray Settlement Research Roadmap.md`
+- `People/Ann Copley.md`
+- `RQ-M5-PHASE-2-FINDINGS.md`
+- Any source note or topic page touched by the new evidence
+
+If a diagram cannot be updated because the relationship is still uncertain, add a clearly labeled placeholder/gap node or a note explaining what remains unresolved.
+
 **Diagram types most useful for this project:**
 - `timeline` — emigration waves, settlement formation, research phases
 - `graph TB/LR` — family networks, evidence chains, research methodologies, hierarchies
@@ -353,7 +364,7 @@ See `Phase 1 Questions and Answers.md` for the full list. Key unresolved questio
 | Q28 | John Copley's Civil War service | No conclusive proof |
 | Q33–35 | Living family biographical sketches | Incomplete (Stephen line) |
 | Q45 | Nelle's birth year (1896 vs 1897) | Working conclusion: 1897 |
-| RQ-M5 | Was Ann Munday actually Ann Murray? | Critical — impacts understanding of Copley role in settlement |
+| RQ-M5 | Which Kinawley Murray household was Ann "Munday" Copley's family? | Critical — RQ-M5 now treats Murray as Ann's likely original Irish surname |
 | RQ-M1–M8 | Murray Settlement research questions | 8 formal questions; see `[[Topics/Murray Settlement]]` |
 | Murray ID | Who were the Murray anchor family? | Central to settlement hypothesis; LDS microfilm 989747 promising |
 
@@ -423,26 +434,43 @@ Tom proposes that some or all Protestant Copleys (Bredon, Woolbedding lines) may
 
 ---
 
-## Tithe Applotment Books Search & RQ-M5 Refinement — Phase 2N (April 24, 2026)
+## Tithe Applotment Books Search & RQ-M5 Refinement — Phase 2N (April 25, 2026)
 
-**Objective:** Test whether Ann Munday's surname is a transcription of "Murray" by searching NAI Tithe Applotment Books (1823–1837) for evidence of either surname in Kinawley parish, Fermanagh.
+**Objective:** Test whether Ann Munday's surname is a transcription of "Murray" by searching indexed Tithe Applotment Books (1805-1837) for evidence of either surname in Kinawley parish, Fermanagh.
 
-**Result:** ⏳ **INCONCLUSIVE** — Database coverage gap, not null evidence
+**Result:** **CLOSED - INCONCLUSIVE** — Database coverage gap, not null evidence
 
 **Critical Finding:**
-- NAI Tithe Applotment Books online database indexes only **Inishmacsaint and Tomregan parishes** in Fermanagh
-- **Kinawley parish is NOT in the online database** — all "No Results" are coverage gaps
-- However, search *did* confirm: **Munday surname exists in Fermanagh records** (3 entries in Inishmacsaint, 1834), proving it is a documented Irish surname, not an inherent transcription artifact
+- NAI Tithe Applotment Books and Ancestry.com Collection #1270 were both searched
+- **Kinawley parish is NOT indexed in either database** — all "No Results" are coverage gaps
+- Ancestry exact-surname results: Munday has 11 all-Ireland entries, 0 in Kinawley, 0 in Fermanagh; Murray has 3 Fermanagh entries, 0 in Kinawley
+- Munday is confirmed as a real Irish surname, not an inherent transcription artifact
 
 **Implications for RQ-M5:**
 - Munday could be Ann's genuine surname *or* a transcription of "Murray" — both remain plausible
-- The hypothesis is **still open** pending searches with better Kinawley coverage
-- NAI online source insufficient; must pivot to Ancestry.com Tithe search or PRONI contact
+- The hypothesis is **still open** pending unindexed Kinawley records and Lewis County evidence
+- Indexed Tithe databases are exhausted for this question
 
 **Highest-Priority Next Action:**
-**Ancestry.com "Ireland, Tithe Applotment Books, 1823–1837" search** — Ancestry digitized the full NAI collection including Kinawley. This search can directly answer whether Munday or Murray appear in Ann's reported birthplace.
+Contact **PRONI** for Kinawley parish material in the Fermanagh Tithe Applotment Books, TAB/5 series; then run a Lewis County WV census/deed/church FAN sweep for independent Munday/Monday households.
 
 **Detailed Findings:** See [[RQ-M5-TITHE-APPLOTMENT-SEARCH|RQ-M5 Tithe Applotment Books Search]] for full search results, database coverage map, and revised priority actions.
+
+## RQ-M5 Resolution — Ann Munday / Murray (April 25, 2026)
+
+**Result:** **RESOLVED FOR WORKING GENEALOGY** — Ann "Munday" was almost certainly Ann Murray.
+
+**Critical Evidence:**
+- Ask About Ireland / Griffith's Valuation found **14 Murray occupiers** in Kinawley parish, County Fermanagh, and **0 Munday entries** in Kinawley or all Fermanagh
+- Variant names do not place a Munday family in Kinawley: Mundy appears in Cleenish/Killesher; Monday appears once in Cleenish
+- FamilySearch U.S. Census searches found **0 independent Munday households** in Lewis County WV, 1840-1860
+- NAI and Ancestry Tithe searches are inconclusive only because Kinawley is not indexed
+
+**Working Conclusion:**
+Treat "Murray" as Ann's likely original Irish surname and "Munday" as the received American-family spelling caused by phonetic transcription, clerical error, or oral-family transmission.
+
+**Next Research Focus:**
+Identify Ann's Murray father. Start with the Kinawley Griffith male heads: Patrick, Peter, Edward, James, Michael, and John Murray. Then transcribe the Lewis County John Murray deeds from 1826 and 1833 and search direct church/passenger/marriage records.
 
 ---
 
@@ -485,7 +513,7 @@ For prior session context, read in order:
 10. `.agents/_AGENT_HANDOFF_PHASE_2I.md` — 1634 Visitation of Worcestershire analyzed; Captain John's wife confirmed as Margaret Newport; heraldic arms documented; Thomas Copley Sr./Jr. family structure fully extracted; three new person pages created (Captain John, Thomas Sr., Thomas Jr.)
 11. `.agents/_AGENT_HANDOFF_PHASE_2J.md` — Tom's corrections (Termon Beg spelling, William/Bennett verified, Thomas recusant relationship, Mary Skelly attribution); Iowa discovery: Mary Copely Giblin (1814–1884)
 12. `.agents/_AGENT_HANDOFF_PHASE_2L.md` — Murray Settlement research page, Ancestry forum integration, Kilgefin parish details, LDS microfilm 989747, St. Michael's Church, Staunton-Parkersburg Turnpike
-13. `.agents/_AGENT_HANDOFF_PHASE_2M.md` — RQ-M5 "Munday vs. Murray" investigation: Griffith's Valuation analysis shows 0 Munday entries, 9+ Murray entries in Kinawley; research workflow and verdict pathways documented
+13. `.agents/_AGENT_HANDOFF_PHASE_2M.md` — RQ-M5 "Munday vs. Murray" investigation: current Griffith's Valuation analysis shows 0 Munday entries in Kinawley/all Fermanagh and 14 Murray occupiers in Kinawley; research workflow and verdict pathways documented
 14. **Phase 2N (April 24, 2026):** Murray deed search — Index entries located for 1826 Murray/Fish and 1833 John Murray in Lewis County; FamilySearch navigation mapped; detailed deed search strategy documented in `[[RQ-M1-LEWIS-COUNTY-DEED-SEARCH|RQ-M1 deed research page]]`
 
 ## Session Closeout

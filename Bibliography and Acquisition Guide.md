@@ -29,6 +29,13 @@ This guide consolidates source targets from internal analysis and external findi
 - *The Book of Surnames* (Peter Verstappen) — search major used-book platforms.
 - Lonely Planet Ireland references (Smallman/Yale/Fallon) — contextual geography only; low genealogical priority.
 
+### 4) *Letters of Sir Thomas Copley of Gatton, Surrey, and Roughey, Sussex* (Christie, ed., 1897)
+- Full title: *Letters of Sir Thomas Copley, of Gatton, Surrey, and Roughey, Sussex, Knight and Baron in France, to Queen Elizabeth and Her Ministers: From the Originals in the Record Office and the British Museum*.
+- Google Books record: <https://books.google.com/books/about/Letters_of_Sir_Thomas_Copley_of_Gatton_S.html?id=Ul8wkgEACAAJ>
+- Roxburghe Club catalogue: <https://www.roxburgheclub.org.uk/clubBooks/index.php?PresentedID=130>
+- Use case: strongest published path into Sir Thomas Copley's own recusant correspondence, property petitions, title claims, and letters of marque context.
+- Acquisition note: no full text found online; prioritize research-library access, interlibrary loan, or scans from a holding library.
+
 ---
 
 ## Articles, Databases, and Online References
