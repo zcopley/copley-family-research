@@ -421,6 +421,29 @@ Tom proposes that some or all Protestant Copleys (Bredon, Woolbedding lines) may
 
 ---
 
+## Tithe Applotment Books Search & RQ-M5 Refinement — Phase 2N (April 24, 2026)
+
+**Objective:** Test whether Ann Munday's surname is a transcription of "Murray" by searching NAI Tithe Applotment Books (1823–1837) for evidence of either surname in Kinawley parish, Fermanagh.
+
+**Result:** ⏳ **INCONCLUSIVE** — Database coverage gap, not null evidence
+
+**Critical Finding:**
+- NAI Tithe Applotment Books online database indexes only **Inishmacsaint and Tomregan parishes** in Fermanagh
+- **Kinawley parish is NOT in the online database** — all "No Results" are coverage gaps
+- However, search *did* confirm: **Munday surname exists in Fermanagh records** (3 entries in Inishmacsaint, 1834), proving it is a documented Irish surname, not an inherent transcription artifact
+
+**Implications for RQ-M5:**
+- Munday could be Ann's genuine surname *or* a transcription of "Murray" — both remain plausible
+- The hypothesis is **still open** pending searches with better Kinawley coverage
+- NAI online source insufficient; must pivot to Ancestry.com Tithe search or PRONI contact
+
+**Highest-Priority Next Action:**
+**Ancestry.com "Ireland, Tithe Applotment Books, 1823–1837" search** — Ancestry digitized the full NAI collection including Kinawley. This search can directly answer whether Munday or Murray appear in Ann's reported birthplace.
+
+**Detailed Findings:** See [[RQ-M5-TITHE-APPLOTMENT-SEARCH|RQ-M5 Tithe Applotment Books Search]] for full search results, database coverage map, and revised priority actions.
+
+---
+
 ## What Not To Do
 
 - Do not edit files in `quartz/` — that's the framework

@@ -115,13 +115,23 @@ Tom Copley (April 2026) raised the possibility that “Munday” is a phonetic t
 - ❌ Kinawley Catholic parish records only begin December 11, 1835 — after Ann's birth c. 1823-1824, making baptismal confirmation impossible
 - ✅ Munday is a documented Irish surname (Anglicization of McAloon), but no Fermanagh/Kinawley records of it in the period
 
-**Next Research Steps (awaiting execution):**
-1. **Tithe Applotment Books (1823–1837)** — search at [titheapplotmentbooks.nationalarchives.ie](https://titheapplotmentbooks.nationalarchives.ie/) for “Munday” and “Murray” entries in Kinawley to test whether surname existed pre-emigration
-2. **Lewis County census (1840, 1850, 1860)** — search for independent “Munday” family households; absence would strengthen Murray hypothesis
-3. **St. Michael's Church records** — contact Diocese of Wheeling-Charleston for marriage records 1838–1850 that might show Ann's maiden name
-4. **Ship manifests** — search *Powhatan* (Aug 20, 1838) and *Kutusoff* (1837) for female passengers with either surname
+**Tithe Applotment Books Search — COMPLETED (April 24, 2026)**
 
-**Preliminary verdict:** If Tithe books and Lewis County records show no independent Munday family, and Griffith's Valuation shows no Munday at Ann's reported origin, the “Murray” hypothesis becomes the working explanation.
+⏳ **Status: INCONCLUSIVE** — Database coverage gap, not null evidence
+
+- **Key Finding:** NAI Tithe Applotment Books online database only covers **Inishmacsaint and Tomregan parishes** in Fermanagh. **Kinawley is not in the database.**
+- **Search Result:** Munday surname was found in Fermanagh Tithe records (3 entries in Inishmacsaint, 1834), confirming it is a **documented Irish surname** — not an inherent transcription artifact
+- **Kinawley Status:** Cannot confirm or deny presence of Munday or Murray in Ann's reported birthplace using this source
+- **Detailed Findings:** See [[RQ-M5-TITHE-APPLOTMENT-SEARCH|RQ-M5 Tithe Search Research Note]]
+
+**Next Research Steps (revised priorities):**
+1. **Ancestry.com Tithe Applotment Books (HIGHEST PRIORITY)** — Ancestry digitized the full NAI Tithe collection including Kinawley. Search “Ireland, Tithe Applotment Books, 1823–1837” for Munday and Murray. **Expected outcome:** May directly resolve the question. **Time: 1–2 hours**
+2. **Contact PRONI** (Public Record Office of Northern Ireland) — Request Fermanagh Tithe Applotment Books, TAB/5 series, Kinawley records. **Time: 1–2 weeks for response**
+3. **Lewis County census (1840, 1850, 1860)** — search for independent “Munday” family households; absence would strengthen Murray hypothesis
+4. **St. Michael's Church records** — contact Diocese of Wheeling-Charleston for marriage records 1838–1850 that might show Ann's maiden name
+5. **Ship manifests** — search *Powhatan* (Aug 20, 1838) and *Kutusoff* (1837) for female passengers with either surname
+
+**Preliminary verdict:** The NAI online Tithe search was inconclusive due to coverage gaps, but the discovery that Munday existed as a documented Fermanagh surname adds credibility to the possibility that Ann was genuinely named Munday. The hypothesis remains open pending the Ancestry.com Tithe search, which should include Kinawley coverage.
 
 ### Other Research Gaps
 

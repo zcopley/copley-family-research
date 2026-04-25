@@ -150,6 +150,49 @@ This deed search directly tests Tom Copley's core hypothesis:
 
 ---
 
+## Phase 2N (Extended) — Tithe Applotment Books Search & RQ-M5 Refinement (April 24, 2026)
+
+**RESEARCH OUTCOME:** Tithe Applotment Books search completed via NAI online database. Result: **INCONCLUSIVE due to database coverage gap**, but yields important context for next steps.
+
+### A. Research Note Created
+
+**[[RQ-M5-TITHE-APPLOTMENT-SEARCH|RQ-M5 Tithe Applotment Books Search]]** — Comprehensive research documentation including:
+- **Critical Finding:** NAI Tithe Applotment Books online database covers only **Inishmacsaint and Tomregan parishes** in Fermanagh; **Kinawley is not indexed**
+- **Null Result Clarification:** "No results" for Kinawley is a coverage gap, not evidence of surname absence
+- **Positive Finding:** Munday surname exists in Fermanagh Tithe records (3 entries in Inishmacsaint, 1834) — confirming it's a documented Irish surname, not an inherent transcription artifact
+- **Revised Priority Map:** Ancestry.com Tithe search (covers Kinawley) now identified as HIGHEST PRIORITY next action
+- **Supplementary Targets:** PRONI contact, Lewis County census FAN sweep, ship manifest searches
+
+### B. Updated Pages
+
+**[[People/Ann Copley|Ann Copley]]** — Section "Critical: RQ-M5"
+   - Added Tithe search results summary and coverage gap explanation
+   - Elevated Ancestry.com Tithe search to highest priority
+   - Clarified that Munday's existence in Fermanagh records strengthens the "could be real surname" interpretation
+
+### C. Key Evidence Shift
+
+| Prior Status | New Status | Implication |
+|---|---|---|
+| Munday absence in Griffith's (1862) suggests transcription error | Munday documented in Tithe (1834) in adjacent parish | Munday could be genuine surname; hypothesis still open |
+| NAI Tithe database incomplete for Kinawley | Kinawley coverage gap identified explicitly | NAI online search inconclusive; Ancestry.com search is critical |
+| RQ-M5 blocked pending Tithe results | RQ-M5 pivots to Ancestry.com search | Clear path forward with specific next action |
+
+### D. Strategic Implication
+
+The discovery that Munday exists in Fermanagh (Tithe records, 1834) **does not resolve the RQ-M5 question but reframes it:**
+
+**Before:** Assumption that Munday was rare/absent in Ireland
+**Now:** Munday was a documented Fermanagh surname in the period; "Munday" could be Ann's genuine surname *or* a transcription of "Murray"
+
+**Consequence:** Both hypotheses remain viable pending:
+1. **Ancestry.com Tithe search** for Kinawley (can confirm/refute Munday/Murray presence in Ann's birthplace)
+2. **Lewis County census search** (can confirm/refute Munday as independent American family)
+
+**Next Agent/Researcher Action:** Highest-value next research step is Ancestry.com Tithe Applotment Books search (1823–1837, Kinawley, Fermanagh), which should include Kinawley parish coverage and can directly answer whether Munday or Murray appear in Ann's reported birthplace.
+
+---
+
 ## Phase 2N (Continued) — Family Tree Expansion & Murray Settlement Research Roadmap (April 23, 2026)
 
 **MAJOR UPDATES:** Two substantial integrations of recent research discoveries and a comprehensive strategic roadmap for future investigation.
