@@ -73,9 +73,9 @@ graph TD
     THOMAS_JR --> CAPTAIN
     MARGARET_N2 --> CAPTAIN
     
-    classDef ancestor fill:#c8e6c9,stroke:#2e7d32,stroke-width:2px,color:#1a1a1a,font-weight:bold
-    classDef spouse fill:#bbdefb,stroke:#1976d2,stroke-width:1px,color:#1a1a1a
-    classDef verified fill:#fff9c4,stroke:#f57f17,stroke-width:2px,color:#1a1a1a,font-weight:bold
+    classDef ancestor fill:#2e7d32,stroke:#1b5e20,stroke-width:2px,color:#ffffff,font-weight:bold
+    classDef spouse fill:#1976d2,stroke:#0d47a1,stroke-width:1px,color:#ffffff
+    classDef verified fill:#f57f17,stroke:#e65100,stroke-width:2px,color:#ffffff,font-weight:bold
 ```
 
 ## Surrey / London / Gatton Branch Relationship Chart
