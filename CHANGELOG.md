@@ -10,6 +10,37 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 2N (Continued) - Gatton / Recusant Source Hunt and Surrey History Centre Inquiry (April 25, 2026)
+
+**SOURCE HUNT:** Followed Tom Copley's correction about the recusant Thomas Copley who fled to the Continent and checked the best accessible corroboration trail for the 1632 Gatton property question.
+
+### Findings
+
+- The Bredon's Norton village history preserves Tom's correction that the recusant Thomas did not surrender his English land and that his wife and son William later reclaimed it
+- The Dictionary of National Biography entry for Sir Thomas Copley says he left England without license, sought permission to return and enjoy his estates, and that William succeeded at Gatton
+- A Surrey VCH snippet adds that William Copley the elder was pardoned for recusancy and permitted to hold Gatton for twenty-one years in 1632
+
+### Actions Taken
+
+- Updated [[Topics/Bredon Descent|Bredon Descent: Medieval Roots of the American Copleys]]
+- Updated [[Topics/Captain John Copley Research|Captain John Copley Research]]
+- Updated [[People/Thomas Copley Sr.|Thomas Copley Sr.]]
+- Drafted and published a GitHub gist containing the Surrey History Centre inquiry email for Gatton records
+
+## Phase 2N (Continued) - Recusant Land Retention Correction from Tom Copley (April 25, 2026)
+
+**CORRECTION INCORPORATED:** Tom Copley clarified an important detail about the recusant Thomas Copley who fled to the Continent. He did not surrender his English land; after his death, his wife and son William returned to England and reclaimed it. The best published corroboration found so far is the Bredon's Norton village history quoting Tom's update, alongside the DNB entry for Sir Thomas Copley noting his attempt to regain his estates and William's succession at Gatton. A Surrey VCH snippet adds that William Copley the elder was pardoned for recusancy and permitted to hold Gatton for twenty-one years in 1632, which supports the broader property-retention story but not yet the exact family-memory wording.
+
+### Updated Pages
+
+- [[Topics/Bredon Descent|Bredon Descent: Medieval Roots of the American Copleys]] - added the land-retention correction to the English gentry and Irish connection sections
+- [[Topics/Captain John Copley Research|Captain John Copley Research]] - updated the recusancy discussion to reflect Tom's correction
+- [[People/Thomas Copley Sr.|Thomas Copley Sr.]] - added a note tying the recusant branch to continued property claims
+
+### Research Implication
+
+This correction sharpens the Bredon narrative: the recusant branch was not simply dispossessed and erased. At least one related line retained enough legal standing to recover English land, which supports the broader picture of a family with durable status and continuity across exile, Ireland, and later American migration.
+
 ## Phase 2N (Extended) — Bredon Descent Research Integration & Medieval Ancestors (April 24, 2026)
 
 **MAJOR INTEGRATION:** Tom Copley's handwritten family tree research (3-page chart) has been integrated into the wiki with full genealogical documentation of medieval English ancestors (1375–1657) and comprehensive Mermaid diagrams.
