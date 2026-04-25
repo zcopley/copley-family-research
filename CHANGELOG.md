@@ -10,6 +10,23 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 2N (Continued) - Dorsey Book Integration for Gatton / Mersham Property Trail (April 25, 2026)
+
+**NEW SOURCE INTEGRATION:** Read Katherine Fitzsimmons Dorsey's *The Life of Father Thomas Copley: A Founder of Maryland* and pulled the key property-defense passage into the wiki.
+
+### Useful Details Added
+
+- In 1568 Thomas obtained Mersham Park and settled it on his wife and children
+- The family had made settlements that prevented forfeiture when his lands were solicited
+- Mrs. Copley came from Gatton to handle the inquiry into lands and goods of those who had gone overseas without license
+- This strengthens the broader property-retention picture around the recusant Copley branch
+
+### Updated Pages
+
+- [[Topics/Captain John Copley Research|Captain John Copley Research]]
+- [[Topics/Bredon Descent|Bredon Descent: Medieval Roots of the American Copleys]]
+- [[People/Thomas Copley Sr.|Thomas Copley Sr.]]
+
 ## Phase 2N (Continued) - Gatton / Recusant Source Hunt and Surrey History Centre Inquiry (April 25, 2026)
 
 **SOURCE HUNT:** Followed Tom Copley's correction about the recusant Thomas Copley who fled to the Continent and checked the best accessible corroboration trail for the 1632 Gatton property question.

@@ -175,6 +175,7 @@ The Copleys of Bredon were part of the English gentry class during the Tudor and
 - Intermarried with other gentry families (Newport, Hoo, Chaloner, Browne, Midelmore)
 - Likely held Catholic sympathies during the Protestant Reformation (Tom's "crypto-Catholic" hypothesis; see [[Topics/Copley Family Catholicism|Copley Family Catholicism]])
 - Tom Copley adds that a recusant Thomas Copley who fled to the Continent did not surrender his English land; after his death, his wife and son William reclaimed it in England, showing the family retained property ties even through exile
+- Dorsey's 1885 history strengthens that picture: Thomas settled Mersham Park on his wife and children, and the family had settlements that prevented forfeiture when his lands were targeted
 - Sent younger sons abroad (Ireland, possibly America) to seek fortune and escape religious persecution or economic constraints
 
 ### The Irish Connection
@@ -185,6 +186,7 @@ Captain John Copley's move to Ireland in 1657 (documented in *Mettallum Martis*)
 - The Kingswood ironworks venture (1656–1657) was a lucrative enterprise
 - Moving to Ireland provided both business opportunity and potential escape from Protestant England (if the family harbored Catholic sympathies)
 - Tom's land-retention correction weakens any simple "dispossessed and gone" reading: at least one recusant Copley branch kept enough legal standing to recover English land after exile
+- Dorsey's account also notes Mrs. Copley coming from Gatton to deal with inquiries into lands and goods of those abroad without license, showing the family remained actively engaged in legal defense of its estates
 
 ### The American Branch
 
