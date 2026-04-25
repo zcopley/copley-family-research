@@ -471,6 +471,7 @@ The following Roscommon townlands and parishes are documented in relation to the
 **RQ-M1:** Who were the Murrays? When did they arrive in Lewis County?
 
 1. **Lewis County deed records (Weston Courthouse)** — Search for Murray surname in deeds 1825–1855. The earliest Murray purchaser in the settlement zone is likely the anchor. Also examine all of Weeden Hoffman's land transactions — if he sold to multiple Irish Catholic families (Copleys, Murrays, Dolans), he may have been the land broker enabling the settlement.
+   - **RESEARCH IN PROGRESS (April 24, 2026):** See [[RQ-M1-LEWIS-COUNTY-DEED-SEARCH|RQ-M1 Deed Search Findings]] for FamilySearch navigation details and discovered index entries (1826 Murray/Fish, 1833 John Murray). Deed text still being located.
 
 2. **US Census 1840, 1850, 1860** — FAN-club method: extract every Irish-origin surname within the same township as the Copley parcels (Cove Lick/Copley Road area). This will enumerate the full settlement membership. The **1840 census is critical** — it catches Michael Sr. at his earliest possible moment in Lewis County.
 

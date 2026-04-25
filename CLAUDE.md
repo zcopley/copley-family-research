@@ -392,6 +392,35 @@ Tom proposes that some or all Protestant Copleys (Bredon, Woolbedding lines) may
 
 ---
 
+## Murray Deed Search — Phase 2N (April 24, 2026)
+
+**Objective:** Locate Lewis County (WV) deed records showing Murray family land purchases 1825–1855 to establish whether Murrays arrived in the settlement area *before* the 1843 Copley/Hoffman deed (which would confirm the "anchor family" hypothesis).
+
+**Progress to Date:**
+
+✅ **Index Entries Located via FamilySearch:**
+- **1826 Murray/Fish** — Index page 39, early Lewis County deed book (FamilySearch DGS 008293302, Image 17, ARK `/ark:/61903/1:1:6X4N-WJ51`)
+- **1833 John Murray** — Index entry confirmed (FamilySearch DGS 008293302, Image 24)
+
+⏳ **Deed Text Pending:**
+- Actual deed pages for both entries still being located in FamilySearch collection DGS 008293301 (Lewis. Deed Books 1808–1902, 680 images)
+- Collection is organized reverse-chronologically; earliest deed books likely in images 500–680
+- Page-to-image offset varies by section and must be determined empirically
+
+**Next Steps:**
+1. Navigate DGS 008293301 to locate page 39 (1826 deed)
+2. Extract grantor/grantee, property description, location (Cove Lick area?), consideration
+3. Locate and extract 1833 John Murray deed
+4. Compare transaction dates and property locations to 1843 Copley/Hoffman deed
+
+**Key Finding Threshold:**
+- If both Murray deeds predate 1843 AND are in Cove Lick/Camden/Loveberry area → **Strong evidence Murrays arrived first and anchored the settlement**
+- If deeds post-1843 or different area → Complicates anchor family hypothesis
+
+**Detailed Research Brief:** See [[RQ-M1-LEWIS-COUNTY-DEED-SEARCH|RQ-M1 Lewis County Deed Search]] for FamilySearch technical details, navigation strategy, and required data format for deed records.
+
+---
+
 ## What Not To Do
 
 - Do not edit files in `quartz/` — that's the framework
@@ -428,3 +457,5 @@ For prior session context, read in order:
 10. `_AGENT_HANDOFF_PHASE_2I.md` — 1634 Visitation of Worcestershire analyzed; Captain John's wife confirmed as Margaret Newport; heraldic arms documented; Thomas Copley Sr./Jr. family structure fully extracted; three new person pages created (Captain John, Thomas Sr., Thomas Jr.)
 11. `_AGENT_HANDOFF_PHASE_2J.md` — Tom's corrections (Termon Beg spelling, William/Bennett verified, Thomas recusant relationship, Mary Skelly attribution); Iowa discovery: Mary Copely Giblin (1814–1884)
 12. `_AGENT_HANDOFF_PHASE_2L.md` — Murray Settlement research page, Ancestry forum integration, Kilgefin parish details, LDS microfilm 989747, St. Michael's Church, Staunton-Parkersburg Turnpike
+13. `_AGENT_HANDOFF_PHASE_2M.md` — RQ-M5 "Munday vs. Murray" investigation: Griffith's Valuation analysis shows 0 Munday entries, 9+ Murray entries in Kinawley; research workflow and verdict pathways documented
+14. **Phase 2N (April 24, 2026):** Murray deed search — Index entries located for 1826 Murray/Fish and 1833 John Murray in Lewis County; FamilySearch navigation mapped; detailed deed search strategy documented in `[[RQ-M1-LEWIS-COUNTY-DEED-SEARCH|RQ-M1 deed research page]]`

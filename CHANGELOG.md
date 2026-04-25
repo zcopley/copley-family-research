@@ -100,6 +100,56 @@ The Bredon Descent page identifies several high-priority research gaps:
 
 ---
 
+## Phase 2N (Continued) — Murray Deed Search: RQ-M1 Investigation (April 24, 2026)
+
+**RESEARCH OBJECTIVE:** Locate Lewis County, WV deed records showing Murray family land purchases (1825–1855) to establish whether Murrays arrived in the settlement area *before* the 1843 Copley/Hoffman deed, confirming the "anchor family" hypothesis.
+
+### A. New Research Document Created
+
+**[[RQ-M1-LEWIS-COUNTY-DEED-SEARCH|RQ-M1 Lewis County Deed Search]]** — Comprehensive research brief documenting:
+- FamilySearch collection mapping (DGS 008293302, DGS 008293301)
+- Two confirmed index entries:
+  - **1826 Murray/Fish** (page 39 early Lewis County deed book)
+  - **1833 John Murray** (documented in deed index)
+- Navigation strategy for locating deed texts in reverse-chronological 680-image collection
+- Technical notes on FamilySearch session management and known dead ends
+- Required data format for recording deed information
+- Supplementary research avenues (courthouse, state archives, Family History Centers, Ancestry.com, WV GenWeb)
+
+### B. Updated Pages
+
+**[[Topics/Murray Settlement|Murray Settlement]]** — Section 7 (Research Strategy, Tier 1, RQ-M1)
+   - Added inline reference linking to [[RQ-M1-LEWIS-COUNTY-DEED-SEARCH|RQ-M1 Deed Search Findings]]
+   - Status update: "Research in progress (April 24, 2026)"
+
+### C. Key Findings
+
+✅ **Index Entries Located via FamilySearch:**
+- 1826 Murray/Fish deed index entry confirmed (FamilySearch ARK `/ark:/61903/1:1:6X4N-WJ51`)
+- 1833 John Murray deed index entry confirmed
+- Both entries predate the 1843 Copley/Hoffman deed by 8–17 years
+
+⏳ **Deed Text Pending:**
+- Actual deed documents still being located in FamilySearch DGS 008293301 (Lewis. Deed Books 1808–1902)
+- Collection organization is reverse-chronological; earliest deed books estimated in images 500–680
+- Page-to-image offset varies by deed book section
+
+### D. Critical Evidence Thresholds
+
+**If deed search confirms:**
+- Both Murray deeds predate 1843 AND located in Cove Lick/Camden/Loveberry area → **Murray family arrived first; strong evidence of anchor family hypothesis**
+- Both deeds post-1843 OR different area → Complicates hypothesis; requires additional investigation
+
+**Next Action:** User or agent should navigate DGS 008293301 starting at image 600, determine page number offsets, locate page 39 (1826 deed), and extract full deed text with property description and location details.
+
+### E. Integration with Broader RQ-M1 Investigation
+
+This deed search directly tests Tom Copley's core hypothesis:
+- If Murrays arrived first (proven by pre-1843 deeds in settlement zone) → establishes chain migration anchor family
+- Combined with [[RQ-M5-PHASE-2-FINDINGS|RQ-M5 "Munday/Murray" findings]] (0 Munday in Griffith's, 9+ Murray entries) → strengthens case that Michael Copley Sr. married into the anchor family
+
+---
+
 ## Phase 2N (Continued) — Family Tree Expansion & Murray Settlement Research Roadmap (April 23, 2026)
 
 **MAJOR UPDATES:** Two substantial integrations of recent research discoveries and a comprehensive strategic roadmap for future investigation.
