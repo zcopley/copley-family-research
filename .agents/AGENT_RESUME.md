@@ -25,6 +25,7 @@ Continue the Murray Settlement research, with the highest-priority open question
 - Also found a Surrey VCH snippet saying William Copley the elder was pardoned for recusancy and permitted to hold Gatton for twenty-one years in 1632.
 - Drafted and published a GitHub gist for the Surrey History Centre enquiry about Gatton records.
 - Read Katherine Fitzsimmons Dorsey's 1885 *The Life of Father Thomas Copley* and pulled in the Mersham Park / Gatton property-defense passage.
+- Created a dedicated source note page for Dorsey so the useful passages are easy to reuse.
 
 ## Current State
 
@@ -35,6 +36,7 @@ Continue the Murray Settlement research, with the highest-priority open question
 - The land-retention claim is still best treated as corroborated family-history context, not fully primary-source verified.
 - The remaining gap is a direct estate or chancery record proving the exact wife-and-son William reclamation story.
 - Dorsey now strengthens the property-retention trail but still functions as a secondary synthesis, not the underlying legal record.
+- The new source note can be reused anywhere the Gatton / Mersham / recusancy trail comes up.
 
 ## Next Step
 

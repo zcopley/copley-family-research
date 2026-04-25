@@ -10,6 +10,20 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 2N (Continued) - Dorsey Source Note Page Created (April 25, 2026)
+
+**SOURCE ORGANIZATION:** Created a dedicated source note page for Katherine Fitzsimmons Dorsey's 1885 *The Life of Father Thomas Copley* and linked it from the main research pages.
+
+### New Page
+
+- [[References/Father Thomas Copley Dorsey Notes|Father Thomas Copley - Dorsey Notes]] - compact source note with the Mersham Park / wife-and-children / Gatton inquiry passages
+
+### Updated Pages
+
+- [[Topics/Captain John Copley Research|Captain John Copley Research]] - linked to the source note and clarified the Dorsey contribution
+- [[Topics/Bredon Descent|Bredon Descent: Medieval Roots of the American Copleys]] - linked to the source note from the property-retention discussion
+- [[People/Thomas Copley Sr.|Thomas Copley Sr.]] - linked to the source note from the recusant-family note
+
 ## Phase 2N (Continued) - Dorsey Book Integration for Gatton / Mersham Property Trail (April 25, 2026)
 
 **NEW SOURCE INTEGRATION:** Read Katherine Fitzsimmons Dorsey's *The Life of Father Thomas Copley: A Founder of Maryland* and pulled the key property-defense passage into the wiki.
