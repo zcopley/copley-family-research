@@ -1,6 +1,6 @@
 ---
 title: Changelog
-date: 2026-04-22
+date: 2026-04-25
 tags:
   - "#copley-family"
   - "#index"
