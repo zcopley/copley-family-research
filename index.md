@@ -25,6 +25,9 @@ Maintained by **Zach Copley** (G26) with contributions from family members.
 **Looking for a specific person?**
 → [[People Directory]] — every family member organized by generation
 
+**Want to check the evidence behind the story?**
+→ [[Sources and Evidence Index]] — major claims, confidence levels, source trails, and proof gaps
+
 **Curious about our Irish roots?**
 → [[Topics/Captain John Copley Research|Captain John Copley Research]] — our ongoing investigation into the Roscommon origins
 → [[Places/Kilgefin Ireland|Kilgefin, County Roscommon]] — the parish the family likely came from
@@ -44,7 +47,7 @@ Maintained by **Zach Copley** (G26) with contributions from family members.
 
 | Generation | Who | Where |
 |---|---|---|
-| **G23** | Michael Copley Sr. (b. ~1813) & Ann Munday | County Roscommon, Ireland → Lewis County, WV |
+| **G23** | Michael Copley Sr. (b. ~1813) & Ann Munday / likely Murray | County Roscommon + Kinawley, Ireland → Lewis County, WV |
 | **G23/G24** | John Copley (1843–1925) & Mary Ellen Dolan | Lewis County, WV |
 | **G24** | Nelle, Michael Joseph, Thomas E., Mary, Anne | Lewis County → Baltimore, St. Louis, Albuquerque |
 | **G25** | Tom Copley · Stephen Copley · Sardo & Ruland families | California, Pennsylvania, Maryland |
@@ -72,3 +75,4 @@ This is a living research project, not a finished document. Evidence is labeled 
 - 🚫 **Likely incorrect** — contradicted by evidence
 
 Open research questions are tracked in [[Phase 1 Questions and Answers]].
+The central claim-by-claim evidence register is [[Sources and Evidence Index]].

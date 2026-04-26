@@ -12,6 +12,8 @@ tags:
 
 This guide consolidates source targets from internal analysis and external findings, with practical acquisition pathways.
 
+For a claim-by-claim view of what each source supports, see [[Sources and Evidence Index]].
+
 ## Books
 
 ### 1) *Lewis County, West Virginia: A Pictorial History of Old Lewis County, the Crossroads of Central West Virginia* (Gilchrist & Gilchrist)
@@ -157,6 +159,7 @@ This guide consolidates source targets from internal analysis and external findi
 ## Cross-links
 
 - Research questions: [[Phase 1 Questions and Answers]]
+- Evidence backbone: [[Sources and Evidence Index]]
 - People targets: [[People Directory]]
 - Contextual themes: [[Topics and Themes]]
 - Narrative synthesis: [[The Copley Family Narrative]]

@@ -25,9 +25,10 @@ Full-text searchable index of everyone and everything in this vault. Use Ctrl+K 
 | Name | Born | Died | Also Known As |
 |------|------|------|---------------|
 | [[People/Michael Copley Sr\|Michael Copley Sr.]] | Sep 29, 1813, Kilgefin, Co. Roscommon, Ireland | Jan 19, 1897, Lewis Co. WV | Michael Copley (immigrant) |
-| [[People/Ann Elizabeth Munday Copley\|Ann Elizabeth Munday Copley]] | 1823, Kinawley, Ireland | Nov 2, 1909 | Ann Munday |
+| [[People/Ann Copley\|Ann Elizabeth Munday Copley]] | 1823, Kinawley, Ireland | Nov 2, 1909 | Ann Munday; likely Ann Murray |
 | [[People/Patrick Copley\|Patrick Copley]] | c.1810s, Ireland | unknown | — |
 | [[People/William Copley\|William Copley]] | c.1820s, Ireland | unknown | possibly emigrated to Australia |
+| [[People/Mary Copely Giblin\|Mary Copely Giblin]] | 1814, Tully, Kilcorkey, Co. Roscommon, Ireland | Oct 27, 1884, Crawford County, Iowa | likely Michael Copley Sr.'s sister or close relative; Iowa branch |
 | [[People/Bridget Copley Reynolds\|Bridget Copley Reynolds]] | unknown | unknown | Bridget Reynolds |
 | [[People/Catherine Kitty Copley Hannon\|Catherine "Kitty" Copley Hannon]] | c.1848 | 1878 | Kitty, Kitty Hannon |
 
@@ -166,6 +167,12 @@ Full-text searchable index of everyone and everything in this vault. Use Ctrl+K 
 
 | Name | Role |
 |------|------|
+| [[People/Sir Richard Copley\|Sir Richard Copley]] | Medieval English ancestor in Bredon/Woolbedding descent hypothesis |
+| [[People/Roger Copley\|Roger Copley of Roughley]] | English ancestor in Bredon descent hypothesis |
+| [[People/William Copley (Woolbedding)\|William Copley of Woolbedding]] | Verified father of Thomas Copley Sr.; Woolbedding/Sussex line |
+| [[People/Thomas Copley Sr\|Thomas Copley Sr.]] | Bredon's Norton patriarch; d. 1593 |
+| [[People/Thomas Copley Jr\|Thomas Copley Jr.]] | Father of Captain John Copley in current Bredon hypothesis |
+| [[People/Captain John Copley\|Captain John Copley]] | 17th-century Copley in Italy, Youghal, Kingswood ironworks, and Ireland; proposed ancestor |
 | [[People/Weeden Hoffman\|Weeden Hoffman]] | Land deed counterparty (1843) |
 | [[People/Gideon D. Camden\|Gideon D. Camden]] | Lewis County political figure |
 | [[People/Richard P. Camden\|Richard P. Camden]] | Related figure |
@@ -184,7 +191,7 @@ Full-text searchable index of everyone and everything in this vault. Use Ctrl+K 
 | Place | State/Country | Significance |
 |-------|--------------|--------------|
 | [[Places/Kilgefin Ireland\|Kilgefin, Co. Roscommon]] | Ireland | Birthplace of Michael Copley Sr. |
-| [[Places/Kinawley Ireland\|Kinawley]] | Ireland | Birthplace of Ann Munday |
+| [[Places/Kinawley Ireland\|Kinawley]] | Ireland | Birthplace of Ann Munday / likely Ann Murray |
 | [[Places/County Roscommon Ireland\|County Roscommon]] | Ireland | Irish ancestral county |
 | [[Places/Lewis County West Virginia\|Lewis County, WV]] | West Virginia | Core family settlement; Copley farm & oil strike |
 | [[Places/Cove Lick West Virginia\|Cove Lick]] | Lewis County, WV | Copley farm location; Copley Road |
@@ -195,6 +202,7 @@ Full-text searchable index of everyone and everything in this vault. Use Ctrl+K 
 | Albuquerque, NM | New Mexico | Anne Copley and Mary Flesch relocated here |
 | [[Places/Baltimore Maryland\|Baltimore, MD]] | Maryland | St. Joseph Hospital (Nelle's nursing career); Sardo family home |
 | Clarksville, MD | Maryland | Robert Sardo's medical practice; Nelle & Robert's home |
+| Crawford County, IA | Iowa | Mary Copely Giblin's settlement and death location; likely Iowa Copely branch |
 | Champaign, IL | Illinois | Birthplace of Stephen Michael Copley (UIUC period) |
 | Wyndmoor, PA | Pennsylvania | USDA ERRL; Stephen's childhood home 1939–47 |
 | Philadelphia, PA | Pennsylvania | Birthplace of Thomas Partlow Copley |
@@ -214,10 +222,15 @@ Full-text searchable index of everyone and everything in this vault. Use Ctrl+K 
 
 | Topic | Description |
 |-------|-------------|
+| [[Sources and Evidence Index\|Sources and Evidence Index]] | Central claims register: evidence status, source trails, proof gaps, and rejected claims |
+| [[Topics/Bredon Descent\|Bredon Descent]] | Medieval and early modern English-origin hypothesis from Sir Richard Copley through Captain John |
+| [[Topics/Captain John Copley Research\|Captain John Copley Research]] | Primary-source research on Captain John, Roscommon Copelys, and competing origin hypotheses |
+| [[Topics/Murray Settlement\|Murray Settlement]] | Coordinated Irish/Catholic settlement hypothesis in Lewis County; Murray, Copley, Dolan, Hanley, Hannon network |
+| [[Topics/Murray Settlement Research Roadmap\|Murray Settlement Research Roadmap]] | RQ-M1 through RQ-M8 research strategy and evidence thresholds |
 | [[Topics/1900 Copley Oil Strike\|1900 Copley Oil Strike]] | Copley No. 1 well, South Penn Oil, ~4,800 bbl/day, Lewis County |
 | [[Topics/Irish Famine and Emigration\|Irish Famine & Emigration]] | 1840s–50s emigration context for Copley/Munday families |
 | [[Topics/Irish Immigration to West Virginia\|Irish Immigration to WV]] | Settlement patterns in Lewis/Marshall counties |
-| [[Topics/B&O Railroad Labor History\|B&O Railroad Labor History]] | Railroad labor context for Baltimore and WV connections |
+| [[Topics/B&O Railroad Labor History\|B&O Railroad Labor History]] | Infrastructure labor context for Baltimore and WV connections; now used alongside turnpike/labor-frontier evidence |
 | [[Topics/Academic and Scientific Achievement\|Academic & Scientific Achievement]] | Michael Joseph Copley's USDA career; Stephen's materials science; Judy Todd's engineering leadership |
 | [[Topics/Genealogical Research Methods\|Genealogical Research Methods]] | Methods, archives, and research strategy |
 | [[Topics/_Topics Index\|Topics Index]] | Full list of thematic pages |
@@ -228,8 +241,10 @@ Full-text searchable index of everyone and everything in this vault. Use Ctrl+K 
 
 | Date | Event |
 |------|-------|
+| c.1375–1657 | Proposed English-origin line from Sir Richard Copley through Captain John Copley; documented and assessed in Bredon Descent research |
 | Sep 29, 1813 | Michael Copley Sr. born, Kilgefin, Co. Roscommon, Ireland |
-| c.1823 | Ann Elizabeth Munday born, Kinawley, Ireland |
+| 1814 | Mary Copely Giblin born, Tully, Kilcorkey, Co. Roscommon; likely Iowa-branch relative |
+| c.1823 | Ann Elizabeth Munday / likely Murray born, Kinawley, Ireland |
 | Jun 13, 1837 | Michael & Patrick Copley arrive New York aboard the *Kutusoff* |
 | Jan 5, 1843 | Hoffman–Copley land deed signed; 200 acres in Lewis County WV |
 | Nov 3, 1843 | John Copley born, Lewis County WV |
@@ -288,4 +303,4 @@ Full-text searchable index of everyone and everything in this vault. Use Ctrl+K 
 
 ## Research Keywords
 
-Civil War · Union Army · Quartermaster · NARA · naturalization · B&O Railroad · South Penn Oil · Lewis County deed · probate · County Roscommon · Kilgefin · Kinawley · Famine · emigration · immigration · Kutusoff · passenger manifest · USDA · Eastern Regional Research Laboratory · Western Regional Research Laboratory · ERRL · WRRL · Catholic University · University of Illinois · UIUC · UC Berkeley · Penn State · Pratt & Whitney · USC · IIT · Illinois Institute of Technology · ASM International · ASMI · Society of Engineering Science · SES · Tuttle Publishing · bento · Wendolonia · Unite Us · Social Vocational Services · SVS · Harbor Regional Center · World Bank · Brookings Institution · London School of Economics · LSE · genealogy · census · vital records · baptism · marriage certificate · Irish ancestry · Copley Road · Cove Lick · Weston · Jane Lew · Clarksburg · Sardo · Arena · Ruland · Dolan · Munday · Partlow · LaForce · Gillooly · Hannon · Reynolds · Quinn · Flesch · Meier · Geist · Bird · Cox · Todd · Thornton · Dawson · Thorpe · Barthelme · VanderMolen · Leonhardt · Brune · Breen · Donner Party · San Juan Bautista · materials science · hydrogen bonding · frozen food · food dehydration · synthetic rubber · marketing · consumer behavior · Antioch College · Arlington Courseware · drtoy.com · Electronic University
+Evidence Index · Claims Register · Source Backbone · Civil War · Union Army · Quartermaster · NARA · naturalization · B&O Railroad · Staunton-Parkersburg Turnpike · Murray Settlement · Irish Settlement · South Penn Oil · Lewis County deed · probate · County Roscommon · Kilgefin · Fairymount · Kinawley · Famine · emigration · immigration · Kutusoff · Powhatan · passenger manifest · Bredon Descent · Captain John Copley · Woolbedding · Bredon's Norton · recusancy · crypto-Catholic · Mary Copely Giblin · Iowa Copley · Crawford County Iowa · USDA · Eastern Regional Research Laboratory · Western Regional Research Laboratory · ERRL · WRRL · Catholic University · University of Illinois · UIUC · UC Berkeley · Penn State · Pratt & Whitney · USC · IIT · Illinois Institute of Technology · ASM International · ASMI · Society of Engineering Science · SES · Tuttle Publishing · bento · Wendolonia · Unite Us · Social Vocational Services · SVS · Harbor Regional Center · World Bank · Brookings Institution · London School of Economics · LSE · genealogy · census · vital records · baptism · marriage certificate · Irish ancestry · Copley Road · Cove Lick · Weston · Jane Lew · Clarksburg · Sardo · Arena · Ruland · Dolan · Murray · Munday · Copely · Partlow · LaForce · Gillooly · Hannon · Reynolds · Quinn · Flesch · Meier · Geist · Bird · Cox · Todd · Thornton · Dawson · Thorpe · Barthelme · VanderMolen · Leonhardt · Brune · Breen · Donner Party · San Juan Bautista · materials science · hydrogen bonding · frozen food · food dehydration · synthetic rubber · marketing · consumer behavior · Antioch College · Arlington Courseware · drtoy.com · Electronic University

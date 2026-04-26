@@ -84,7 +84,7 @@ MICHAEL_SR ---|sibling| WILLIAM_AUS
 MICHAEL_SR ---|likely sister| MARY_GIBLIN
 
 MICHAEL_SR["Michael Copley<br>b. 1813, Kilgefin, Ireland<br>d. 1897"]:::irish
-ANN_MUNDAY["Ann Elizabeth Munday<br>b. 1823, Kinawley, Ireland<br>d. 1909"]:::irish
+ANN_MUNDAY["Ann Elizabeth Munday / likely Murray<br>b. 1823, Kinawley, Ireland<br>d. 1909"]:::irish
 
 MICHAEL_SR --- M1{"◇"}:::marriage
 ANN_MUNDAY --- M1
@@ -271,4 +271,3 @@ style M8 fill:#d4a843,stroke:#d4a843,width:8px,height:8px
 ## Usage Note
 
 Use this family tree together with [[People Directory]] and [[People/People Directory|People Directory (Individual Profiles)]] for full biographical and source context.
-

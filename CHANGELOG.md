@@ -10,6 +10,41 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 3B - Sources and Evidence Backbone (April 26, 2026)
+
+**NEW EVIDENCE INDEX:** Added a central claim-by-claim evidence register so readers can quickly see what is verified, what is a strong working conclusion, what remains plausible or unresolved, and which claims have been rejected.
+
+### New Page
+
+- [[Sources and Evidence Index|Sources and Evidence Index]] - central evidence backbone with a core claims register, known rejected claims, top primary / near-primary sources, highest-value evidence gaps, and a maintenance rule for future claim changes
+
+### Updated Pages
+
+- [[Home|Home]] - added the evidence index to core pages and the recommended reading path
+- [[index|Copley Family History]] - added an evidence-check entry point and updated Ann's summary to "Munday / likely Murray"
+- [[Search Index|Search Index]] - added the evidence index to topic search and keywords
+- [[Topics and Themes|Topics and Themes]] - linked to the evidence index as the claim-status companion page
+- [[Topics/_Topics Index|Topics Index]] - added the evidence index to the topic hub and crosslinks
+- [[Bibliography and Acquisition Guide|Bibliography and Acquisition Guide]] - linked the evidence index as the claim-by-claim complement to the acquisition guide
+- [[Topics/Irish Immigration to West Virginia|Irish Immigration to West Virginia]] - added a settlement-network Mermaid diagram showing Ireland source communities, migration/labor path, Lewis County settlement, Ann's direct-record gap, and the Iowa branch
+
+## Phase 3A - Main Narrative Refresh (April 26, 2026)
+
+**READER-PATH UPDATE:** Refreshed the core public-facing story so the main site now reflects the latest research rather than the older Phase 1 framing.
+
+**TOPIC-PAGE ALIGNMENT:** Updated the migration and labor topic pages so they no longer overstate the B&O-specific interpretation and now direct readers toward the broader Murray Settlement / infrastructure-labor framework.
+
+### Updated Pages
+
+- [[Home|Home]] - added Murray Settlement, Bredon Descent, Fairymount/Kilgefin, and Mary Copely Giblin links to the first-reader path
+- [[The Copley Family Narrative|The Copley Family Narrative]] - reframed the immigrant-generation story around Kilgefin/Fairymount, Ann Munday as likely Ann Murray, Murray Settlement formation, turnpike/labor-frontier context, and the Iowa Copely branch
+- [[Topics and Themes|Topics and Themes]] - added Murray Settlement and Bredon Descent as major themes and broadened the old B&O labor framing into infrastructure-labor context
+- [[Topics/Irish Immigration to West Virginia|Irish Immigration to West Virginia]] - reframed Copley migration around labor frontier, Catholic kinship, Murray Settlement, Ann as likely Murray, and St. Michael's / deed / passenger-list research targets
+- [[Topics/B&O Railroad Labor History|B&O Railroad Labor History]] - narrowed the page into infrastructure-labor context and explicitly separated broad B&O history from unproven named employment for Michael or Patrick
+- [[Topics/_Topics Index|Topics Index]] - updated the suggested reading flow to start with Bredon/Captain John and Murray Settlement before B&O labor context
+- [[Search Index|Search Index]] - indexed Mary Copely Giblin, English-origin figures, Murray Settlement, Bredon Descent, Fairymount, Powhatan, and related search terms
+- [[Family Tree|Family Tree]] - updated Ann's diagram label to "Munday / likely Murray"
+
 ## Phase 2N (Continued) - Surrey / London / Gatton Mermaid Chart Added (April 25, 2026)
 
 **GENEALOGY CLARIFICATION:** Tom Copley clarified that William Copley of Woolbedding was the great-uncle of Sir Thomas Copley of Gatton, the recusant who fled to the Continent. This places the Bredon/Woolbedding line and the Gatton/London recusant line as collateral branches.

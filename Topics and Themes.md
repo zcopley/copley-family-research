@@ -14,11 +14,17 @@ tags:
 
 For the full event/topic directory, use [[Topics/_Topics Index|Topics Index]].
 
+For claim-by-claim source status, use [[Sources and Evidence Index]].
+
 ## Place Reference Hub
 
 For location-specific research plans, use [[Places/_Places Index|Places Index]]. Core anchors include [[Places/Kilgefin Ireland|Kilgefin]], [[Places/Kinawley Ireland|Kinawley]], [[Places/Lewis County West Virginia|Lewis County]], [[Places/Weston West Virginia|Weston]], and [[Places/Baltimore Maryland|Baltimore]].
 ## Detailed Topic Pages
 
+- [[Topics/Bredon Descent|Bredon Descent]]
+- [[Topics/Captain John Copley Research|Captain John Copley Research]]
+- [[Topics/Murray Settlement|Murray Settlement]]
+- [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]]
 - [[Topics/1900 Copley Oil Strike|1900 Copley Oil Strike]]
 - [[Topics/Irish Famine and Emigration|Irish Famine and Emigration]]
 - [[Topics/B&O Railroad Labor History|B&O Railroad Labor History]]
@@ -27,13 +33,35 @@ For location-specific research plans, use [[Places/_Places Index|Places Index]].
 - [[Topics/Genealogical Research Methods|Genealogical Research Methods]]
 
 ---
-## [[Topics/B&O Railroad Labor History|B&O Railroad Labor History]]
+## [[Topics/Murray Settlement|Murray Settlement]]
 
-Irish immigrants in the 1840s–1850s were heavily recruited into difficult rail construction work, including westward B&O expansion through the Mid-Atlantic and what became West Virginia. This gives strong contextual support to the claim that [[Michael Copley Sr|Michael Copley]] worked in rail labor before permanent settlement.
+The current best framework for the immigrant generation is the Murray / Irish Settlement in southwestern Lewis County: a Catholic kin-and-neighbor cluster built around land, labor, church life, and families who may already have known one another in Ireland. It is now central to interpreting [[People/Michael Copley Sr|Michael Copley Sr.]], [[People/Ann Copley|Ann Copley]], and the Dolan, Murray, Hanley, Hannon, Gillooly, and related families.
+
+- **Historical context:** chain migration, turnpike-era labor, Catholic parish formation, Irish neighborhood transplantation.
+- **What is sourced:** Griffith's Valuation evidence for settlement surnames in Ireland; 1843 Copley land purchase; St. Michael's Church and local settlement leads.
+- **What remains open:** exact Murray anchor family, Ann's Murray household, and the earliest Lewis County deed sequence.
+
+See also: [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]], [[RQ-M1-LEWIS-COUNTY-DEED-SEARCH|RQ-M1 Lewis County Deed Search]], [[RQ-M5-PHASE-2-FINDINGS|RQ-M5 Phase 2 Findings]].
+
+---
+## [[Topics/Bredon Descent|Bredon Descent and English Origins]]
+
+The English-origin research connects the American Copleys to a proposed descent from the Bredon's Norton / Woolbedding Copleys through Captain John Copley, whose presence in the 1634 Visitation, the 1642 Parliament petition, the 1651 Youghal council book, and *Mettallum Martis* gives him a stronger evidentiary base than earlier AI-generated claims.
+
+- **Historical context:** English gentry networks, recusancy, Catholic/Protestant ambiguity, Cromwellian Ireland, and later Roscommon Catholic Copelys.
+- **What is sourced:** Thomas Copley Sr./Jr. family structure, Captain John's wife Margaret Newport, and Captain John's documented movement toward Ireland.
+- **What remains open:** the missing generations between Captain John and Michael Copley Sr.; the exact relationship between William Copely of Fairymount and Michael Sr.
+
+See also: [[Topics/Captain John Copley Research|Captain John Copley Research]], [[Topics/Copley Family Catholicism|Copley Family Catholicism]].
+
+---
+## [[Topics/B&O Railroad Labor History|Infrastructure Labor: Railroad and Turnpike Context]]
+
+Irish immigrants in the 1840s–1850s were heavily recruited into difficult infrastructure work, including roads, turnpikes, canals, and rail construction. Earlier versions of the family story leaned on B&O Railroad labor; the Murray Settlement work now broadens that to a labor-frontier model with the Staunton-Parkersburg Turnpike as a likely local context.
 
 - **Historical context:** infrastructure boom, dangerous manual labor, immigrant labor camps.
-- **What is sourced:** broad pattern is well documented in regional history.
-- **What remains open:** specific payroll/personnel proof for Michael.
+- **What is sourced:** broad pattern is well documented in regional history; turnpike context is documented as a research lead for the Lewis County settlement.
+- **What remains open:** specific payroll/personnel proof for Michael or Patrick.
 
 Sources:
 - e-WV Irish in West Virginia: <https://www.wvencyclopedia.org/entries/830>
@@ -57,11 +85,11 @@ Sources:
 
 ## Irish Origins in [[Places/Kilgefin Ireland|Kilgefin, Ireland]]
 
-The strongest family-origin anchor is Michael’s gravestone claim of birth in Kilgefin parish, Roscommon. This places the lineage in a region where parish records, tithe books, and valuation materials are key to pre-Famine reconstruction.
+The strongest family-origin anchor is Michael’s gravestone claim of birth in Kilgefin parish, Roscommon. Later research added a Catholic Copely family at Fairymount, Kilgefin, including William Copely (b. ~1794, d. 1864) and his son Michael Copely, strengthening the case that the American line came from a real local Catholic Copely cluster.
 
 - **Historical context:** Catholic households under tithe pressure and land insecurity.
-- **What is sourced:** place-origin claim and available record systems.
-- **What remains open:** parentage proof for [[Michael Copley Sr|Michael Copley]] (Q1), confirmation of sibling cluster in parish records.
+- **What is sourced:** place-origin claim, civil-registration evidence for Fairymount Copelys, and available record systems.
+- **What remains open:** parentage proof for [[People/Michael Copley Sr|Michael Copley]] (Q1), relationship proof tying William Copely of Fairymount to Michael Sr., confirmation of sibling cluster in parish records.
 
 Sources:
 - National Library of Ireland registers portal: <https://registers.nli.ie>
@@ -70,11 +98,11 @@ Sources:
 
 ---
 
-## Immigration to [[West Virginia]] via New York and the Potomac Corridor
+## Immigration to [[Places/Lewis County West Virginia|West Virginia]] via New York and the Potomac Corridor
 
 Detailed page: [[Topics/Irish Immigration to West Virginia|Irish Immigration to West Virginia]]
 
-Passenger records suggest staggered arrivals: Patrick/Bridget (1837, *Kutusoff*) and Michael (1838, *Powhatan* as “Copely”). Subsequent movement likely followed labor corridors toward rail and settlement zones.
+Passenger records suggest staggered arrivals: Patrick/Bridget (1837, *Kutusoff*) and Michael (1838, *Powhatan* as “Copely”). Subsequent movement likely followed labor corridors toward Lewis County's Irish Settlement rather than a single, simple railroad route.
 
 - **Historical context:** chain migration and labor-following settlement.
 - **What is sourced:** manifests and local settlement chronology.
@@ -120,21 +148,25 @@ These themes are interdependent:
 
 ```mermaid
 graph TB
-    A["🇮🇪 Kilgefin, Ireland<br/>Origin & Conditions<br/>(1813-1837)"]
-    B["🚂 B&O Railroad Labor<br/>Entry Mechanism<br/>(1837-1843)"]
-    C["🏘️ Lewis County Settlement<br/>Land Acquisition<br/>(1843-1900)"]
-    D["🛢️ 1900 Oil Strike<br/>Economic Transformation<br/>(1900+)"]
-    E["🎓 Academic & Professional<br/>Achievement<br/>(1900-2026)"]
-    F["🏠 Irish Famine Context<br/>Push Factors<br/>(1820-1840)"]
+    A["Kilgefin / Fairymount<br/>Copely origins<br/>(1813-1837)"]
+    B["Infrastructure Labor<br/>Roads, turnpike, rail<br/>(1837-1843)"]
+    C["Murray Settlement<br/>Irish Catholic network<br/>(1838-1900)"]
+    D["1900 Oil Strike<br/>Economic transformation<br/>(1900+)"]
+    E["Academic + Professional<br/>Achievement<br/>(1900-2026)"]
+    F["Irish Famine Context<br/>Push factors<br/>(1820-1840)"]
+    G["Bredon Descent<br/>English origins hypothesis<br/>(1375-1657)"]
+    H["Iowa Copely Branch<br/>Mary Copely Giblin<br/>(1814-1884)"]
     
+    G -.->|proposed descent| A
     F --> A
     A --> B
     B --> C
     C --> D
     D --> E
+    A -.->|diaspora branch| H
     
     A -.->|Origin uncertainty<br/>drives research| C
-    B -.->|Explains<br/>migration mechanics| C
+    B -.->|Explains<br/>labor mechanics| C
     D -.->|Finances<br/>education| E
     
     style A fill:#e3f2fd
@@ -143,12 +175,16 @@ graph TB
     style D fill:#e8f5e9
     style E fill:#fce4ec
     style F fill:#ffebee
+    style G fill:#ede7f6
+    style H fill:#fff8e1
 ```
 
 - [[Places/Kilgefin Ireland|Kilgefin, Ireland]] origin uncertainty drives Q1.
-- [[Topics/B&O Railroad Labor History|B&O Railroad Labor History]] context explains migration-to-settlement mechanics.
+- [[Topics/Bredon Descent|Bredon Descent]] holds the English-origin hypothesis and source-quality distinctions.
+- [[Topics/Murray Settlement|Murray Settlement]] is now the main framework for the Lewis County immigrant community.
+- [[Topics/B&O Railroad Labor History|B&O Railroad Labor History]] remains useful as infrastructure-labor context, but the settlement explanation is broader than B&O alone.
 - [[Topics/1900 Copley Oil Strike|1900 Copley Oil Strike]] likely underwrites transition to advanced professions.
 - [[Topics/Academic and Scientific Achievement|Academic and Scientific Achievement]] documents professional outcomes.
 - Unresolved documentary points (marriages, naturalization, service records) define the next archival phase.
 
-See also: [[Family Tree]], [[Phase 1 Questions and Answers]], [[People Directory]], [[Topics/_Topics Index|Topics Index]], [[Places/_Places Index|Places Index]], [[Bibliography and Acquisition Guide]].
+See also: [[Family Tree]], [[Sources and Evidence Index]], [[Phase 1 Questions and Answers]], [[People Directory]], [[Topics/_Topics Index|Topics Index]], [[Places/_Places Index|Places Index]], [[Bibliography and Acquisition Guide]].
