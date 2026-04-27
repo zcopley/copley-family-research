@@ -97,9 +97,9 @@ graph LR
     
     OUTCOME --> V["VERDICT:<br/>Conclusive OR<br/>Inconclusive"]
     
-    style COMPLETE fill:#c8e6c9
-    style PENDING fill:#fff9c4
-    style OUTCOME fill:#bbdefb
+    style COMPLETE fill:#c8e6c9,stroke:#2e7d32,color:#102411
+    style PENDING fill:#fff9c4,stroke:#f9a825,color:#2a2100
+    style OUTCOME fill:#bbdefb,stroke:#1565c0,color:#0d1b2a
 ```
 
 ## Critical Unresolved Gaps (Awaiting User Research)
@@ -187,10 +187,10 @@ graph TB
     
     NEXT_TEST --> VERDICT["Will determine:<br/>Conclusive OR<br/>Inconclusive"]
     
-    style VERIFIED fill:#c8e6c9
-    style PLAUSIBLE fill:#fff9c4
-    style UNRESOLVED fill:#ffccbc
-    style FINDING fill:#bbdefb
+    style VERIFIED fill:#c8e6c9,stroke:#2e7d32,color:#102411
+    style PLAUSIBLE fill:#fff9c4,stroke:#f9a825,color:#2a2100
+    style UNRESOLVED fill:#ffccbc,stroke:#bf360c,color:#2b0707
+    style FINDING fill:#bbdefb,stroke:#1565c0,color:#0d1b2a
 ```
 
 - **Griffith's Valuation (1862) was comprehensively searched for both surnames in Kinawley**

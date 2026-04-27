@@ -245,15 +245,15 @@ MICHAEL_R --- RULAND_G27
 ARENA_G27 --- ARENA_RULAND_G28
 RULAND_G27 --- ARENA_RULAND_G28
 
-style M1 fill:#d4a843,stroke:#d4a843,width:8px,height:8px
-style M2 fill:#d4a843,stroke:#d4a843,width:8px,height:8px
-style M3 fill:#d4a843,stroke:#d4a843,width:8px,height:8px
-style M4 fill:#d4a843,stroke:#d4a843,width:8px,height:8px
-style M5 fill:#d4a843,stroke:#d4a843,width:8px,height:8px
-style M6 fill:#d4a843,stroke:#d4a843,width:8px,height:8px
-style M7 fill:#d4a843,stroke:#d4a843,width:8px,height:8px
-style M7B fill:#d4a843,stroke:#d4a843,width:8px,height:8px
-style M8 fill:#d4a843,stroke:#d4a843,width:8px,height:8px
+style M1 fill:#d4a843,stroke:#d4a843,width:8px,height:8px,color:#1f1d00
+style M2 fill:#d4a843,stroke:#d4a843,width:8px,height:8px,color:#1f1d00
+style M3 fill:#d4a843,stroke:#d4a843,width:8px,height:8px,color:#1f1d00
+style M4 fill:#d4a843,stroke:#d4a843,width:8px,height:8px,color:#1f1d00
+style M5 fill:#d4a843,stroke:#d4a843,width:8px,height:8px,color:#1f1d00
+style M6 fill:#d4a843,stroke:#d4a843,width:8px,height:8px,color:#1f1d00
+style M7 fill:#d4a843,stroke:#d4a843,width:8px,height:8px,color:#1f1d00
+style M7B fill:#d4a843,stroke:#d4a843,width:8px,height:8px,color:#1f1d00
+style M8 fill:#d4a843,stroke:#d4a843,width:8px,height:8px,color:#1f1d00
 ```
 
 ## Legend

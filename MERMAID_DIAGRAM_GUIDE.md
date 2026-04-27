@@ -140,15 +140,29 @@ flowchart TD
 | Purple | `#f3e5f5` | `fill:#f3e5f5` | 🔗 Relationships, connections, families |
 | Cyan | `#e1f5fe` | `fill:#e1f5fe` | 📍 Places, locations, geographic |
 
-**Contrast rule:** Always set a readable text color in each `classDef`. Do not rely on Mermaid or Quartz theme defaults. Dark fills should use `color:#ffffff`; pale fills should use `color:#111111`. For `subgraph` containers, set both `fill` and `color` explicitly.
+**Contrast rule:** Always set a readable text color in each `classDef` and `style` rule that sets `fill`. Do not rely on Mermaid or Quartz theme defaults. Dark fills should use `color:#ffffff`; pale fills should use a near-black text color. For `subgraph` containers, set both `fill` and `color` explicitly.
+
+**Approved high-contrast pairs:**
+
+| Meaning | Fill | Stroke | Text |
+|---|---|---|---|
+| Verified / confirmed | `#c8e6c9` | `#2e7d32` | `#102411` |
+| Not found / contradiction | `#ffcdd2` | `#c62828` | `#2b0707` |
+| Pending / in progress | `#fff9c4` | `#f9a825` | `#2a2100` |
+| Conclusion / verdict | `#bbdefb` | `#1565c0` | `#0d1b2a` |
+| Plausible / contextual | `#fff3e0` | `#ef6c00` | `#1f1300` |
+| Relationships / families | `#f3e5f5` | `#6a1b9a` | `#1a1024` |
+| Places / geography | `#e1f5fe` | `#0277bd` | `#0d1b2a` |
+
+Run `npm run check:mermaid` before publishing Mermaid changes. The check fails when a Mermaid `style` or `classDef` sets `fill` without an explicit `color`.
 
 **Usage example:**
 ```mermaid
 graph LR
     A["Finding<br/>14 Murrays"] --> |Result| B["Hypothesis<br/>resolved for working genealogy"]
     
-    style A fill:#1b5e20,color:#ffffff
-    style B fill:#0d47a1,color:#ffffff
+    style A fill:#1b5e20,stroke:#c8e6c9,color:#ffffff
+    style B fill:#0d47a1,stroke:#bbdefb,color:#ffffff
 ```
 
 ---
@@ -168,9 +182,9 @@ graph TB
     PENDING --> TEST["Verdict Test"]
     TEST --> OUTCOME
     
-    style COMPLETE fill:#c8e6c9
-    style PENDING fill:#fff9c4
-    style OUTCOME fill:#bbdefb
+    style COMPLETE fill:#c8e6c9,stroke:#2e7d32,color:#102411
+    style PENDING fill:#fff9c4,stroke:#f9a825,color:#2a2100
+    style OUTCOME fill:#bbdefb,stroke:#1565c0,color:#0d1b2a
 ```
 
 ---
@@ -198,10 +212,10 @@ graph LR
     AGAINST --> VERDICT
     PENDING --> VERDICT
     
-    style FOR fill:#c8e6c9
-    style AGAINST fill:#ffccbc
-    style PENDING fill:#fff9c4
-    style VERDICT fill:#bbdefb
+    style FOR fill:#c8e6c9,stroke:#2e7d32,color:#102411
+    style AGAINST fill:#ffccbc,stroke:#bf360c,color:#2b0707
+    style PENDING fill:#fff9c4,stroke:#f9a825,color:#2a2100
+    style VERDICT fill:#bbdefb,stroke:#1565c0,color:#0d1b2a
 ```
 
 ---
@@ -306,9 +320,9 @@ flowchart TD
     
     TEST --> VERDICT["Conclusion"]
     
-    style FINDING1 fill:#c8e6c9
-    style FINDING2 fill:#c8e6c9
-    style VERDICT fill:#bbdefb
+    style FINDING1 fill:#c8e6c9,stroke:#2e7d32,color:#102411
+    style FINDING2 fill:#c8e6c9,stroke:#2e7d32,color:#102411
+    style VERDICT fill:#bbdefb,stroke:#1565c0,color:#0d1b2a
 ```
 
 ### Pattern 4: Records Availability Timeline

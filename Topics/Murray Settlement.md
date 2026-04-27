@@ -354,11 +354,11 @@ graph TB
     D -->|Elizabeth Dolan<br/>emigrates| ME
     JC -->|marries| ME
     
-    style M fill:#e1f5ff
-    style D fill:#fff3e0
-    style H fill:#f3e5f5
-    style HN fill:#e8f5e9
-    style C fill:#fce4ec
+    style M fill:#e1f5ff,stroke:#0277bd,color:#0d1b2a
+    style D fill:#fff3e0,stroke:#ef6c00,color:#1f1300
+    style H fill:#f3e5f5,stroke:#6a1b9a,color:#1a1024
+    style HN fill:#e8f5e9,stroke:#2e7d32,color:#102411
+    style C fill:#fce4ec,stroke:#ad1457,color:#2a0714
 ```
 
 **Key insight:** The marriages between Copley children and Hanley/Hannon families in Lewis County exactly reproduce the estate-mate relationships documented in Griffith's Valuation. This is **not random intermarriage** but the **reconstitution of pre-emigration social structure**.
@@ -411,11 +411,11 @@ graph LR
     
     VERS -->|Next step| TITHE["PRONI TAB/5 +<br/>Lewis County<br/>Munday sweep"]
     
-    style MUN fill:#ffcdd2
-    style MUR fill:#c8e6c9
-    style GAP fill:#fff9c4
-    style VERS fill:#fff9c4
-    style TITHE fill:#bbdefb
+    style MUN fill:#ffcdd2,stroke:#c62828,color:#2b0707
+    style MUR fill:#c8e6c9,stroke:#2e7d32,color:#102411
+    style GAP fill:#fff9c4,stroke:#f9a825,color:#2a2100
+    style VERS fill:#fff9c4,stroke:#f9a825,color:#2a2100
+    style TITHE fill:#bbdefb,stroke:#1565c0,color:#0d1b2a
 ```
 
 **🔴 CRITICAL EVIDENCE — No "Munday" in Griffith's Valuation (c.1858), Kinawley**
@@ -561,12 +561,12 @@ graph TD
     RQ7 --> DETAIL
     RQ8 --> DETAIL
     
-    style GOAL fill:#fdd835
-    style RQ1 fill:#e3f2fd
-    style RQ2 fill:#e3f2fd
-    style RQ3 fill:#e3f2fd
-    style RQ5 fill:#fff3e0
-    style CORE fill:#c8e6c9
+    style GOAL fill:#fdd835,stroke:#f9a825,color:#1f1d00
+    style RQ1 fill:#e3f2fd,stroke:#1565c0,color:#0d1b2a
+    style RQ2 fill:#e3f2fd,stroke:#1565c0,color:#0d1b2a
+    style RQ3 fill:#e3f2fd,stroke:#1565c0,color:#0d1b2a
+    style RQ5 fill:#fff3e0,stroke:#ef6c00,color:#1f1300
+    style CORE fill:#c8e6c9,stroke:#2e7d32,color:#102411
 ```
 
 | ID | Question | Priority | Where to Look |

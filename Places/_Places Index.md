@@ -38,9 +38,9 @@ graph LR
     LC --> JL
     LC --> WES
     
-    style ROSC fill:#e3f2fd
-    style BAL fill:#fff3e0
-    style CL fill:#f3e5f5
+    style ROSC fill:#e3f2fd,stroke:#1565c0,color:#0d1b2a
+    style BAL fill:#fff3e0,stroke:#ef6c00,color:#1f1300
+    style CL fill:#f3e5f5,stroke:#6a1b9a,color:#1a1024
 ```
 
 ## Ireland

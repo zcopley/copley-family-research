@@ -126,7 +126,7 @@ tags:
 
 If a diagram cannot be updated because the relationship is still uncertain, add a clearly labeled placeholder/gap node or a note explaining what remains unresolved.
 
-**Diagram contrast rule:** Mermaid node text must remain readable against the node fill in both light and dark site themes. Prefer explicit `color` values in every `classDef`, and use high-contrast pairs such as dark fills with white text or very light fills with near-black text. If using `subgraph`, explicitly set subgraph `style` with both `fill` and `color`; otherwise Quartz/Mermaid theme defaults can make labels unreadable.
+**Diagram contrast rule:** Mermaid node text must remain readable against the node fill in both light and dark site themes. Every Mermaid `classDef` or `style` rule that sets `fill` must also set explicit `color`; include `stroke` whenever practical. Use high-contrast pairs such as dark fills with white text or pale fills with near-black text. If using `subgraph`, explicitly set subgraph `style` with both `fill` and `color`; otherwise Quartz/Mermaid theme defaults can make labels unreadable. Run `npm run check:mermaid` after Mermaid edits; CI enforces this rule.
 
 **Diagram types most useful for this project:**
 - `timeline` — emigration waves, settlement formation, research phases
@@ -136,11 +136,11 @@ If a diagram cannot be updated because the relationship is still uncertain, add 
 **Best practices:**
 - Keep labels concise (2–4 words max)
 - Use color fills to group related items: 
-  - Green (`#c8e6c9`) = verified/confirmed
-  - Red (`#ffcdd2`) = not found/contradiction
-  - Yellow (`#fff9c4`) = pending/in progress
-  - Blue (`#bbdefb`) = conclusion/verdict
-  - Orange (`#fff3e0`) = plausible/contextual
+  - Green (`fill:#c8e6c9,stroke:#2e7d32,color:#102411`) = verified/confirmed
+  - Red (`fill:#ffcdd2,stroke:#c62828,color:#2b0707`) = not found/contradiction
+  - Yellow (`fill:#fff9c4,stroke:#f9a825,color:#2a2100`) = pending/in progress
+  - Blue (`fill:#bbdefb,stroke:#1565c0,color:#0d1b2a`) = conclusion/verdict
+  - Orange (`fill:#fff3e0,stroke:#ef6c00,color:#1f1300`) = plausible/contextual
 - Add diagrams early in sections, before detailed prose — let visuals set up the narrative
 - Label verification status (✅ Verified, ⚠️ Plausible, ❌ Not found, ❓ Unresolved)
 - One diagram per major concept (not too many, but don't leave important relationships undescribed)

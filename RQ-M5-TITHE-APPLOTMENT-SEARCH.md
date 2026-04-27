@@ -173,9 +173,9 @@ graph TB
     VERDICT --> N2
     VERDICT --> N3
     
-    style VERIFIED fill:#c8e6c9
-    style INCONCLUSIVE fill:#fff9c4
-    style NEXT_TEST fill:#bbdefb
+    style VERIFIED fill:#c8e6c9,stroke:#2e7d32,color:#102411
+    style INCONCLUSIVE fill:#fff9c4,stroke:#f9a825,color:#2a2100
+    style NEXT_TEST fill:#bbdefb,stroke:#1565c0,color:#0d1b2a
 ```
 
 ---

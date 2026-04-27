@@ -27,6 +27,9 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      - name: Check Mermaid contrast
+        run: npm run check:mermaid
+
       - name: Build Quartz
         run: npm run build
 

@@ -15,6 +15,7 @@
     "quartz": "./quartz/bootstrap-cli.mjs",
     "build": "npx quartz build -d .",
     "serve": "npx quartz build --serve -d .",
+    "check:mermaid": "node scripts/check-mermaid-contrast.mjs",
     "check": "tsc --noEmit && npx prettier . --check",
     "format": "npx prettier . --write",
     "test": "tsx --test",

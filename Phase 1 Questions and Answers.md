@@ -37,10 +37,10 @@ graph TB
     COMPLETE --> Q33[“Q33-35: Living<br/>biographical sketches”]
     COMPLETE --> Q45[“Q45: Nelle's birth<br/>year”]
     
-    style IDENTITY fill:#ffcdd2
-    style FAMILY fill:#fff9c4
-    style HISTORY fill:#c8e6c9
-    style COMPLETE fill:#bbdefb
+    style IDENTITY fill:#ffcdd2,stroke:#c62828,color:#2b0707
+    style FAMILY fill:#fff9c4,stroke:#f9a825,color:#2a2100
+    style HISTORY fill:#c8e6c9,stroke:#2e7d32,color:#102411
+    style COMPLETE fill:#bbdefb,stroke:#1565c0,color:#0d1b2a
 ```
 
 ## Q23 — Who was the “Tom” at Chancellorsville?

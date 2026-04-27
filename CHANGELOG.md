@@ -10,6 +10,24 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4B - Sitewide Mermaid Contrast Guardrail (April 27, 2026)
+
+**READABILITY FIX:** Normalized Mermaid diagram text contrast across the wiki and added an automated check so future diagrams cannot set filled nodes without explicit text color.
+
+### Updated Pages
+
+- [[Family Tree|Family Tree]] - added explicit text color to marriage connector styles
+- [[Phase 1 Questions and Answers|Phase 1 Questions and Answers]] - added high-contrast text and stroke colors to the question-status diagram
+- [[Places/_Places Index|Places Index]] - added high-contrast text and stroke colors to the place overview diagram
+- [[RQ-M5-PHASE-2-FINDINGS|RQ-M5 Phase 2 Findings]] and [[RQ-M5-TITHE-APPLOTMENT-SEARCH|RQ-M5 Tithe Search Research Note]] - added high-contrast text and stroke colors to evidence diagrams
+- [[Topics/Murray Settlement|Murray Settlement]] and [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]] - added high-contrast text and stroke colors to settlement, roadmap, and research-flow diagrams
+- [[MERMAID_DIAGRAM_GUIDE|Mermaid Diagram Guide]] and [[CLAUDE|CLAUDE]] - documented the reusable fill/stroke/text palette and the new `npm run check:mermaid` guardrail
+
+### Technical Guardrail
+
+- Added `scripts/check-mermaid-contrast.mjs` and `npm run check:mermaid`
+- Added the Mermaid contrast check to the GitHub Actions deploy workflow before the Quartz build step
+
 ## Phase 4A - John Murray Deed Findings Scaffold (April 27, 2026)
 
 **EVIDENCE-CAPTURE UPGRADE:** Added a dedicated findings log for the 1826 and 1833 John Murray deed leads so index entries, future images, transcripts, abstracts, and interpretation have one controlled destination before the settlement narrative changes.

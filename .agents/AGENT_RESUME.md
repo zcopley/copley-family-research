@@ -13,10 +13,17 @@ Last updated: 2026-04-27
 
 ## Current Goal
 
-Improve the whole-family wiki evidence workflow; current focus is capturing John Murray deed leads without overstating them before deed texts are extracted.
+Improve wiki readability and maintenance guardrails; current focus is preventing unreadable Mermaid diagram text in dark mode.
 
 ## What Was Just Completed
 
+- Completed Phase 4B sitewide Mermaid contrast guardrail.
+- Added explicit text colors to legacy Mermaid `style` rules across public Markdown and `.agents/_AGENT_HANDOFF_PHASE_2M.md`.
+- Added `scripts/check-mermaid-contrast.mjs` and `npm run check:mermaid` to fail any Mermaid `style` or `classDef` that sets `fill` without explicit `color`.
+- Added the Mermaid contrast check to `.github/workflows/deploy.yml` before the Quartz build step.
+- Updated `MERMAID_DIAGRAM_GUIDE.md` and `CLAUDE.md` with the reusable fill/stroke/text palette and the checker command.
+- Ran `npm run check:mermaid` and `npm run build` successfully after Phase 4B; build processed 130 Markdown files and emitted only existing LaTeX unicode warnings. Reverted regenerated `public/` output so the working diff stays source-only.
+- `npm run check` remains blocked by pre-existing TypeScript scanning of ignored/generated directories (`node_modules.broken-20260418-0055` and `public/`), not by the Mermaid changes.
 - Completed Phase 4A John Murray deed findings scaffold.
 - Created `RQ-M1-JOHN-MURRAY-DEED-FINDINGS.md` as the controlled findings log for the 1826 Murray/Fish index entry and 1833 John Murray index lead.
 - Clarified across the research path that the index entries are confirmed but actual deed texts, locations, witnesses, and relationship implications remain pending.
@@ -92,6 +99,7 @@ Improve the whole-family wiki evidence workflow; current focus is capturing John
 - RQ-M5 Tithe testing is complete but inconclusive: Munday is confirmed as a real Irish surname, but Kinawley tithe coverage is absent from both indexed databases searched.
 - RQ-M5 is resolved for working genealogy: Ann "Munday" was almost certainly Ann Murray. A direct marriage/passenger/church record is still desired, but the next research question is which Kinawley Murray household was Ann's family.
 - Mermaid diagrams are now explicitly part of the evidence-maintenance workflow; future updates should check affected charts, not just prose.
+- Mermaid contrast is now CI-enforced with `npm run check:mermaid`; every Mermaid `style` or `classDef` rule that sets `fill` must also set explicit `color`.
 - The main public reader path now reflects the current research state as of Phase 3A.
 - `Sources and Evidence Index.md` is now the central place to check and maintain claim-level source status.
 - The people-navigation path now reflects the current research state as of Phase 3C.
@@ -107,6 +115,7 @@ Improve the whole-family wiki evidence workflow; current focus is capturing John
 
 - Next broad improvement options:
   - Fix remaining non-date build warnings if they become actionable; current known residual warnings are LaTeX unicode warnings from content punctuation
+  - Consider upgrading GitHub Actions from Node 20-based actions to Node 24-compatible versions before GitHub's 2026 deprecation dates
   - Use the execution kit to carry out one Tier 1 task when source access is available, starting with the John Murray deeds if Zach/Claude for Chrome provides images
   - Add deeper topic-specific diagrams only when a page gains new evidence or when a visual would clarify a concrete relationship not already covered by the atlas
   - Work on non-Murray family gaps such as the Stephen line documentation, Iowa Copely descendants, or oil-strike lease/probate context
@@ -120,6 +129,9 @@ Improve the whole-family wiki evidence workflow; current focus is capturing John
 
 - `CLAUDE.md`
 - `.agents/_AGENT_HANDOFF_PHASE_2M.md`
+- `scripts/check-mermaid-contrast.mjs`
+- `.github/workflows/deploy.yml`
+- `MERMAID_DIAGRAM_GUIDE.md`
 - `Home.md`
 - `index.md`
 - `Sources and Evidence Index.md`

@@ -60,11 +60,11 @@ graph TD
     RQ7 --> VERDICT
     RQ8 --> VERDICT
     
-    style HYPOTHESIS fill:#fdd835
-    style TIER1 fill:#ffccbc
-    style TIER2 fill:#fff9c4
-    style TIER3 fill:#e8f5e9
-    style VERDICT fill:#bbdefb
+    style HYPOTHESIS fill:#fdd835,stroke:#f9a825,color:#1f1d00
+    style TIER1 fill:#ffccbc,stroke:#bf360c,color:#2b0707
+    style TIER2 fill:#fff9c4,stroke:#f9a825,color:#2a2100
+    style TIER3 fill:#e8f5e9,stroke:#2e7d32,color:#102411
+    style VERDICT fill:#bbdefb,stroke:#1565c0,color:#0d1b2a
 ```
 
 ---
@@ -193,10 +193,10 @@ graph LR
     
     CHAIN --> VERDICT["Organized<br/>Emigration<br/>OR<br/>Independent<br/>Decisions?"]
     
-    style KUTUSOFF fill:#e3f2fd
-    style POWHATAN fill:#c8e6c9
-    style POST1838 fill:#fff3e0
-    style VERDICT fill:#bbdefb
+    style KUTUSOFF fill:#e3f2fd,stroke:#1565c0,color:#0d1b2a
+    style POWHATAN fill:#c8e6c9,stroke:#2e7d32,color:#102411
+    style POST1838 fill:#fff3e0,stroke:#ef6c00,color:#1f1300
+    style VERDICT fill:#bbdefb,stroke:#1565c0,color:#0d1b2a
 ```
 
 **Estimated Time:** 2–3 hours  
@@ -242,8 +242,8 @@ graph TB
     
     SANDFORD --> VERDICT["Same landlord<br/>Same economic pressures<br/>Organized exodus likely"]
     
-    style SANDFORD fill:#e1f5fe
-    style VERDICT fill:#bbdefb
+    style SANDFORD fill:#e1f5fe,stroke:#0277bd,color:#0d1b2a
+    style VERDICT fill:#bbdefb,stroke:#1565c0,color:#0d1b2a
 ```
 
 **Estimated Time:** 3–4 hours (multiple database searches)  
@@ -289,12 +289,12 @@ flowchart TD
     WAVE1 --> CHURCH["✛ Church established:<br/>St. Michael's 1849<br/>Diocese donation<br/>Community solidified"]
     WAVE2 --> CHURCH
     
-    style ANCHOR fill:#ffd54f
-    style LETTER fill:#c8e6c9
-    style WAVE1 fill:#bbdefb
-    style WAVE2 fill:#bbdefb
-    style WAVE3 fill:#bbdefb
-    style CHURCH fill:#c8e6c9
+    style ANCHOR fill:#ffd54f,stroke:#f9a825,color:#1f1d00
+    style LETTER fill:#c8e6c9,stroke:#2e7d32,color:#102411
+    style WAVE1 fill:#bbdefb,stroke:#1565c0,color:#0d1b2a
+    style WAVE2 fill:#bbdefb,stroke:#1565c0,color:#0d1b2a
+    style WAVE3 fill:#bbdefb,stroke:#1565c0,color:#0d1b2a
+    style CHURCH fill:#c8e6c9,stroke:#2e7d32,color:#102411
 ```
 
 **Estimated Time:** 4–5 hours (archival searches, synthesis)  
@@ -421,9 +421,9 @@ graph LR
     LEWIS -->|two chains<br/>from<br/>one source| VERDICT["Confirms:<br/>Roscommon<br/>as organized<br/>migration hub"]
     IOWA -->|OR independent<br/>emigration| VERDICT
     
-    style LEWIS fill:#c8e6c9
-    style IOWA fill:#fff9c4
-    style VERDICT fill:#bbdefb
+    style LEWIS fill:#c8e6c9,stroke:#2e7d32,color:#102411
+    style IOWA fill:#fff9c4,stroke:#f9a825,color:#2a2100
+    style VERDICT fill:#bbdefb,stroke:#1565c0,color:#0d1b2a
 ```
 
 **Estimated Time:** 2–3 hours  

@@ -40,10 +40,10 @@ graph TB
     
     MUR_RESULT --> DETAIL["Patrick, Peter, Bridget,<br/>Mary, Edward, James,<br/>Michael, John"]
     
-    style GV fill:#e3f2fd
-    style MUN_RESULT fill:#ffcdd2
-    style MUR_RESULT fill:#c8e6c9
-    style DETAIL fill:#f1f8e9
+    style GV fill:#e3f2fd,stroke:#1565c0,color:#0d1b2a
+    style MUN_RESULT fill:#ffcdd2,stroke:#c62828,color:#2b0707
+    style MUR_RESULT fill:#c8e6c9,stroke:#2e7d32,color:#102411
+    style DETAIL fill:#f1f8e9,stroke:#689f38,color:#102411
 ```
 
 **MUNDAY SURNAME:** ❌ **NOT FOUND**
