@@ -13,10 +13,17 @@ Last updated: 2026-04-27
 
 ## Current Goal
 
-Improve the whole-family wiki reader path while the Murray deed line is paused; current focus is keeping the public narrative aligned with the latest research state.
+Improve the whole-family wiki evidence workflow; current focus is capturing John Murray deed leads without overstating them before deed texts are extracted.
 
 ## What Was Just Completed
 
+- Completed Phase 4A John Murray deed findings scaffold.
+- Created `RQ-M1-JOHN-MURRAY-DEED-FINDINGS.md` as the controlled findings log for the 1826 Murray/Fish index entry and 1833 John Murray index lead.
+- Clarified across the research path that the index entries are confirmed but actual deed texts, locations, witnesses, and relationship implications remain pending.
+- Linked the findings log from `RQ-M1-LEWIS-COUNTY-DEED-SEARCH.md`, `Sources and Evidence Index.md`, `Research Priorities and Action Items.md`, `Topics/Murray Settlement.md`, `Visual Story Atlas.md`, `Tier 1 Research Execution Kit.md`, and `Search Index.md`.
+- Updated the affected RQ-M1 Mermaid status chart styling with explicit stroke and text colors.
+- Added the Phase 4A changelog entry.
+- Ran `npm run build` successfully after Phase 4A; build processed 130 Markdown files and emitted only existing LaTeX unicode warnings. Reverted regenerated `public/` output so the working diff stays source-only.
 - Completed Phase 3A main narrative refresh.
 - Updated `Home.md` so first-time readers see Murray Settlement, Bredon Descent, Fairymount/Kilgefin, and the Mary Copely Giblin Iowa branch.
 - Rewrote the core arc in `The Copley Family Narrative.md` to reflect Ann Munday as likely Ann Murray, the Murray Settlement framework, broader infrastructure-labor context instead of narrow B&O framing, the Fairymount Catholic Copely cluster, and the Iowa diaspora branch.
@@ -93,7 +100,8 @@ Improve the whole-family wiki reader path while the Murray deed line is paused; 
 - Legacy redirect/stub pages now route more cleanly to canonical topic and place pages, and invalid-date build noise has been reduced.
 - `Tier 1 Research Execution Kit.md` is now the practical action layer for the top roadmap items.
 - `Visual Story Atlas.md` is now the diagram-first public entry point for the story, evidence status, and research quests.
-- The Murray deed image/transcription task is paused with Claude for Chrome; follow up later if no result is provided.
+- `RQ-M1-JOHN-MURRAY-DEED-FINDINGS.md` now exists as the place to paste John Murray deed images, transcripts, abstracts, and interpretation.
+- The Murray deed image/transcription task is paused with Claude for Chrome; index entries are confirmed, but deed texts are still pending.
 
 ## Next Step
 
@@ -105,6 +113,7 @@ Improve the whole-family wiki reader path while the Murray deed line is paused; 
 - Paused Murray task to remember later:
   - Transcribe the 1826 and 1833 John Murray deeds in Lewis County
   - Reminder: Zach has Claude for Chrome working on extracting these FamilySearch deed images; follow up if no deed images/transcription have been provided.
+  - Add any resulting images, citation paths, transcripts, abstracts, and interpretation first to `RQ-M1-JOHN-MURRAY-DEED-FINDINGS.md`, then update `Sources and Evidence Index.md`, `Topics/Murray Settlement.md`, `Research Priorities and Action Items.md`, and `People/Ann Copley.md` if the deeds materially affect the Ann/Murray hypothesis.
 - Fold in any further Tom Copley corrections as they arrive, keeping the Bredon narrative aligned with family research.
 
 ## Active Files
@@ -115,6 +124,8 @@ Improve the whole-family wiki reader path while the Murray deed line is paused; 
 - `index.md`
 - `Sources and Evidence Index.md`
 - `Visual Story Atlas.md`
+- `RQ-M1-JOHN-MURRAY-DEED-FINDINGS.md`
+- `RQ-M1-LEWIS-COUNTY-DEED-SEARCH.md`
 - `The Copley Family Narrative.md`
 - `Topics and Themes.md`
 - `Topics/Irish Immigration to West Virginia.md`

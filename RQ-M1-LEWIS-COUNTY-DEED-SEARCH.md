@@ -15,7 +15,7 @@ tags:
 
 **Why This Matters:** If Murrays purchased land prior to the 1843 Copley/Hoffman deed, it would establish that the Murray family **arrived first** and anchored the settlement — supporting Tom Copley's hypothesis that they initiated the chain migration.
 
-**Research Status:** ✅ Index entries located; ⏳ Actual deed texts pending
+**Research Status:** ✅ Index entries located; ⏳ actual deed texts pending. Current findings are tracked in [[RQ-M1-JOHN-MURRAY-DEED-FINDINGS|RQ-M1 John Murray Deed Findings]].
 
 ---
 
@@ -158,9 +158,9 @@ graph TB
     V1 --> V2
     V1 --> V3
     
-    style CONFIRMED fill:#c8e6c9
-    style PENDING fill:#fff9c4
-    style VERDICT fill:#bbdefb
+    style CONFIRMED fill:#c8e6c9,stroke:#2e7d32,color:#102411
+    style PENDING fill:#fff9c4,stroke:#f9a825,color:#2a2100
+    style VERDICT fill:#bbdefb,stroke:#1565c0,color:#0d1b2a
 ```
 
 ---
@@ -185,6 +185,8 @@ The index entries (1826 Murray/Fish, 1833 John Murray) are **promising leads**. 
 - Multiple Murrays were transacting in the area (supporting chain migration model)
 
 If the digitized images don't contain page 39, contact Lewis County Courthouse directly — they hold the original deed books and can provide certified copies.
+
+When deed images, URLs, transcripts, or abstracts are available, enter them in [[RQ-M1-JOHN-MURRAY-DEED-FINDINGS|RQ-M1 John Murray Deed Findings]] and then update the claim status in [[Sources and Evidence Index]].
 
 ---
 

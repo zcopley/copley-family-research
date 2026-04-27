@@ -467,7 +467,7 @@ The following Roscommon townlands and parishes are documented in relation to the
 **RQ-M1:** Who were the Murrays? When did they arrive in Lewis County?
 
 1. **Lewis County deed records (Weston Courthouse)** — Search for Murray surname in deeds 1825–1855. The earliest Murray purchaser in the settlement zone is likely the anchor. Also examine all of Weeden Hoffman's land transactions — if he sold to multiple Irish Catholic families (Copleys, Murrays, Dolans), he may have been the land broker enabling the settlement.
-   - **RESEARCH IN PROGRESS (April 24, 2026):** See [[RQ-M1-LEWIS-COUNTY-DEED-SEARCH|RQ-M1 Deed Search Findings]] for FamilySearch navigation details and discovered index entries (1826 Murray/Fish, 1833 John Murray). Deed text still being located.
+   - **RESEARCH IN PROGRESS:** See [[RQ-M1-LEWIS-COUNTY-DEED-SEARCH|RQ-M1 Deed Search]] for FamilySearch navigation details and [[RQ-M1-JOHN-MURRAY-DEED-FINDINGS|RQ-M1 John Murray Deed Findings]] for the current findings log. Index entries are confirmed for 1826 Murray/Fish and 1833 John Murray; deed text is still pending.
 
 2. **US Census 1840, 1850, 1860** — FAN-club method: extract every Irish-origin surname within the same township as the Copley parcels (Cove Lick/Copley Road area). This will enumerate the full settlement membership. The **1840 census is critical** — it catches Michael Sr. at his earliest possible moment in Lewis County.
 
@@ -521,7 +521,7 @@ The following Roscommon townlands and parishes are documented in relation to the
 
 15. **Search PRONI and Fermanagh parish registers** — Look for Murray baptism, marriage, and tithe records in Kinawley parish, Fermanagh, 1820–1840, especially records that could name an Ann born c. 1823.
 
-16. **Transcribe Lewis County John Murray deeds** — The 1826 and 1833 John Murray deed leads may identify the Murray anchor family, witnesses, neighbors, or land near the later Copley settlement.
+16. **Transcribe Lewis County John Murray deeds** — The 1826 and 1833 John Murray deed leads may identify the Murray anchor family, witnesses, neighbors, or land near the later Copley settlement. Capture the resulting transcripts in [[RQ-M1-JOHN-MURRAY-DEED-FINDINGS|RQ-M1 John Murray Deed Findings]].
 
 ---
 

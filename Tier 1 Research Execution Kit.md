@@ -37,7 +37,7 @@ When a search produces a record, a negative result, or a corrected claim:
 
 **Goal:** Determine whether John Murray or another Murray household anchored the Lewis County Irish Catholic settlement before Michael and Patrick Copley's 1843 land purchase.
 
-**Primary pages:** [[Topics/Murray Settlement]], [[People/Ann Copley]], [[Sources and Evidence Index]]
+**Primary pages:** [[RQ-M1-JOHN-MURRAY-DEED-FINDINGS|RQ-M1 John Murray Deed Findings]], [[Topics/Murray Settlement]], [[People/Ann Copley]], [[Sources and Evidence Index]]
 
 ### Request Template: Lewis County Clerk / FamilySearch Helper
 
@@ -293,9 +293,8 @@ For each record, I am hoping to capture book/page, date, parties, land descripti
 
 | Finding type | Pages to update |
 |---|---|
-| Murray deed confirms early settlement anchor | [[Sources and Evidence Index]], [[Topics/Murray Settlement]], [[People/Ann Copley]], [[Research Priorities and Action Items]] |
+| Murray deed confirms early settlement anchor | [[RQ-M1-JOHN-MURRAY-DEED-FINDINGS|RQ-M1 John Murray Deed Findings]], [[Sources and Evidence Index]], [[Topics/Murray Settlement]], [[People/Ann Copley]], [[Research Priorities and Action Items]] |
 | Direct Ann surname record appears | [[Sources and Evidence Index]], [[People/Ann Copley]], [[RQ-M5-PHASE-2-FINDINGS]], [[Family Tree]], [[The Copley Family Narrative]] |
 | FAN sweep changes settlement membership | [[Topics/Murray Settlement]], [[Topics/Irish Immigration to West Virginia]], [[People Directory]], affected person pages |
 | Iowa record identifies Mary Copely Giblin kinship | [[Sources and Evidence Index]], [[People/Mary Copely Giblin]], [[Family Tree]], [[The Copley Family Narrative]] |
 | Oil lease / royalty proof appears | [[Sources and Evidence Index]], [[Topics/1900 Copley Oil Strike]], [[People/John Copley]], [[The Copley Family Narrative]] |
-

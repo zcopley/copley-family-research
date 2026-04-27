@@ -10,6 +10,24 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4A - John Murray Deed Findings Scaffold (April 27, 2026)
+
+**EVIDENCE-CAPTURE UPGRADE:** Added a dedicated findings log for the 1826 and 1833 John Murray deed leads so index entries, future images, transcripts, abstracts, and interpretation have one controlled destination before the settlement narrative changes.
+
+### New Page
+
+- [[RQ-M1-JOHN-MURRAY-DEED-FINDINGS|RQ-M1 John Murray Deed Findings]] - findings log for the 1826 Murray/Fish index entry and 1833 John Murray index lead; records that deed texts are still pending and defines update rules for future evidence
+
+### Updated Pages
+
+- [[RQ-M1-LEWIS-COUNTY-DEED-SEARCH|RQ-M1 Lewis County Deed Search]] - linked the findings log and clarified that index entries are confirmed while deed texts remain pending
+- [[Sources and Evidence Index|Sources and Evidence Index]] - linked the findings log from the Murray Settlement claim and the John Murray deed evidence gap
+- [[Research Priorities and Action Items|Research Priorities and Action Items]] - routed the active deed-transcription task to the findings log
+- [[Topics/Murray Settlement|Murray Settlement]] - pointed the RQ-M1 deed work toward the findings log before narrative conclusions change
+- [[Visual Story Atlas|Visual Story Atlas]] - updated the research quest map source label for the John Murray deed task
+- [[Tier 1 Research Execution Kit|Tier 1 Research Execution Kit]] - added the findings log as the primary capture page for deed results
+- [[Search Index|Search Index]] - indexed the new findings page and deed-search keywords
+
 ## Phase 3G - Visual Story Atlas (April 27, 2026)
 
 **ENGAGEMENT UPGRADE:** Added a diagram-first public atlas so readers can understand the family story, settlement network, evidence status, and active research quests visually before diving into detailed pages.

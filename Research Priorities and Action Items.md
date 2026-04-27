@@ -36,13 +36,13 @@ The highest-impact items below have practical templates in [[Tier 1 Research Exe
 ### 1. Transcribe the 1826 and 1833 John Murray Deeds
 **Relevance:** [[Topics/Murray Settlement|Murray Settlement]], [[People/Ann Copley|Ann Copley]], [[Sources and Evidence Index]]  
 **Impact:** HIGH - These deeds could show whether a Murray family anchored the settlement before Michael and Patrick Copley purchased land in 1843.  
-**Research Status:** Open; Zach has Claude for Chrome working on FamilySearch image extraction.
+**Research Status:** Open; index entries are confirmed and Zach has Claude for Chrome working on FamilySearch image extraction. Findings belong in [[RQ-M1-JOHN-MURRAY-DEED-FINDINGS|RQ-M1 John Murray Deed Findings]].
 
 **How to proceed:**
 - Acquire or transcribe the known John Murray deed images from Lewis County records.
 - Capture date, grantor, grantee, acreage, price, watercourse, neighbors, witnesses, and legal description.
 - Compare locations to the 1843 Hoffman-Copley deed and Cove Lick / Camden / Loveberry area.
-- Update [[Topics/Murray Settlement]], [[Sources and Evidence Index]], and [[People/Ann Copley]] if the deeds identify settlement leadership or Ann's possible kin.
+- Add the citation, transcript, and interpretation to [[RQ-M1-JOHN-MURRAY-DEED-FINDINGS|RQ-M1 John Murray Deed Findings]], then update [[Topics/Murray Settlement]], [[Sources and Evidence Index]], and [[People/Ann Copley]] if the deeds identify settlement leadership or Ann's possible kin.
 
 ---
 
