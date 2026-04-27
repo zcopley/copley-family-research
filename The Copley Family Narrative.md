@@ -10,7 +10,7 @@ tags:
 
 # The Copley Family Narrative
 
-📊 For a generation-by-generation visual guide to the people in this story, see [[Family Tree]].
+📊 For a diagram-first guide to the story, evidence, and active mysteries, see [[Visual Story Atlas]]. For a generation-by-generation visual guide to the people in this story, see [[Family Tree]].
 
 ## The Family Arc: An Overview
 

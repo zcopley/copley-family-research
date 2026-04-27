@@ -3,7 +3,7 @@ title: William Copley of Woolbedding
 aliases:
   - William Copley of Sussex
   - William Copley of Enfylde
-date: 1450-1500
+date: 2026-04-26
 tags:
   - "#copley-family"
   - "#english-ancestors"

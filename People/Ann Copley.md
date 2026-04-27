@@ -1,5 +1,11 @@
 ---
 title: Ann Copley
+aliases:
+  - Ann Elizabeth Munday Copley
+  - Ann Elizabeth Munday
+  - Ann Munday
+  - Ann Murray
+  - Ann Elizabeth Murray
 date: 2026-04-13
 tags:
   - "#copley-family"
@@ -15,7 +21,7 @@ tags:
 📊 View [[Family Tree]] for visual context.
 
 ## Biographical Profile
-[[Ann Copley]] is the matriarch of the West Virginia Copley line. Family narratives identify her as **Ann Elizabeth Munday**, born in **1823** in **[[Places/Kinawley Ireland|Kinawley, Ireland]]** (County Fermanagh context), with immigration to the United States in childhood. However, because the primary marriage and birth records have not yet been located, her maiden surname remains a **high-priority documentary verification gap**.
+[[Ann Copley]] is the matriarch of the West Virginia Copley line. Family narratives identify her as **Ann Elizabeth Munday**, born in **1823** in **[[Places/Kinawley Ireland|Kinawley, Ireland]]** (County Fermanagh context), with immigration to the United States in childhood. Current working genealogy treats her original Irish surname as likely **Murray**, with "Munday" preserved as the received American-family form. A direct marriage, passenger, church, or child death record naming her maiden surname is still needed.
 
 She married [[Michael Copley Sr|Michael Copley]] (date/place unknown) and lived in [[Places/Lewis County West Virginia|Lewis County]] after the family’s 1843 land settlement. The 1850 census framework and family reconstruction identify her as mother of eight known children.
 
@@ -27,10 +33,11 @@ A persistent family tradition states that her father drowned in the Potomac Rive
 - Migration-corridor research hub: [[Places/Baltimore Maryland|Baltimore, Maryland]]
 
 ## Related Topic Pages
-- [[Topics/Murray Settlement|Murray Settlement]] — active research into whether "Munday" is a phonetic transcription of "Murray" (RQ-M5); Ann's maiden name is central to the Murray anchor-family hypothesis
+- [[Sources and Evidence Index]] — central evidence register for the Munday / likely Murray conclusion
+- [[Topics/Murray Settlement|Murray Settlement]] — active research into which Kinawley Murray household was Ann's family
 - [[Topics/Irish Famine and Emigration|Irish Famine and Emigration]]
 - [[Topics/Irish Immigration to West Virginia|Irish Immigration to West Virginia]]
-- [[Topics/B&O Railroad Labor History|B&O Railroad Labor History]]
+- [[Topics/B&O Railroad Labor History|B&O Railroad Labor History]] — infrastructure-labor context, not proof of named B&O employment
 
 ## Family Relationships
 - Husband: [[Michael Copley Sr|Michael Copley]]
@@ -76,34 +83,33 @@ timeline
 graph LR
     QUEST["Was Ann Munday<br/>actually Ann Murray?"]
     
-    FOR["✅ SUPPORTS MURRAY<br/>Hypothesis"]
-    AGAINST["❌ SUPPORTS MUNDAY<br/>Hypothesis"]
+    FOR["SUPPORTS MURRAY<br/>working conclusion"]
+    AGAINST["SUPPORTS MUNDAY<br/>as recorded form"]
     
     QUEST --> FOR
     QUEST --> AGAINST
     
     FOR --> E1["14 Murrays in<br/>Griffith's c.1858<br/>Kinawley"]
     FOR --> E2["'Munday'/'Murray'<br/>phonetically similar<br/>transcription error"]
-    FOR --> E3["Murray family anchor<br/>would explain<br/>Michael's destination"]
+    FOR --> E3["Murray network<br/>would explain<br/>Michael's destination"]
     
     AGAINST --> E4["'Munday' appears in<br/>all family documents<br/>GEDCOM, Partlow"]
     AGAINST --> E5["Ann from Fermanagh<br/>not Roscommon<br/>where Murrays are"]
     
-    E1 --> NEXT["NEXT: PRONI +<br/>Lewis County<br/>FAN sweep"]
+    E1 --> NEXT["NEXT: Identify<br/>Kinawley Murray<br/>household"]
     E2 --> NEXT
     E3 --> NEXT
     E4 --> NEXT
     E5 --> NEXT
     
-    NEXT --> TEST["TITHE TEST:<br/>Closed inconclusive<br/>Kinawley not indexed"]
+    NEXT --> TEST["TITHE TEST:<br/>closed inconclusive<br/>Kinawley not indexed"]
     
-    style FOR fill:#c8e6c9
-    style AGAINST fill:#ffccbc
-    style NEXT fill:#fff9c4
-    style TEST fill:#bbdefb
+    style QUEST fill:#e3f2fd,stroke:#1565c0,color:#0d1b2a
+    style FOR fill:#c8e6c9,stroke:#2e7d32,color:#102411
+    style AGAINST fill:#fff3e0,stroke:#ef6c00,color:#1f1300
+    style NEXT fill:#fff9c4,stroke:#f9a825,color:#2a2100
+    style TEST fill:#bbdefb,stroke:#1565c0,color:#0d1b2a
 ```
-
-**Status:**
 
 **Status:** Resolved for working genealogy: Ann "Munday" was almost certainly Ann Murray. Direct identity records are still desired.
 
@@ -145,13 +151,14 @@ Tom Copley (April 2026) raised the possibility that “Munday” is a phonetic t
 2. **Marriage record (Q3):** No civil/church record yet found for Michael + Ann.
 3. **Immigration details:** Port/date/manifest for Ann not yet resolved.
 4. **Father identity + drowning event (Q11/Q14):** No coroner or newspaper confirmation yet found.
-5. **Wider Munday/Murray household reconstruction (Q14/Q15):** Parents/siblings remain incomplete.
+5. **Kinawley Murray household reconstruction (Q14/Q15/RQ-M5):** Parents/siblings remain incomplete.
 
 ## Acquisition Strategy
-- Search Catholic parish marriage registers in Potomac/B&O labor corridor communities (late 1830s to early 1840s).
-- Survey 1840-1850 census clusters near B&O settlements for Munday surname variants.
+- Search Catholic parish marriage registers in Potomac / infrastructure-labor corridor communities (late 1830s to early 1840s).
+- Work up Kinawley Murray father candidates from Griffith's Valuation and any PRONI/Fermanagh records.
+- Transcribe Lewis County John Murray deed leads from 1826 and 1833 when images are available.
 - Use Chronicling America and regional newspaper repositories for Potomac drowning incidents matching family tradition.
-- Expand to PRONI and Irish/Fermanagh parish records for potential Ann Munday baptismal candidates.
+- Expand to PRONI and Irish/Fermanagh parish records for potential Ann Murray/Munday baptismal candidates.
 - Reconcile maiden-name evidence across gravestone, death certificates of children, and church sacramental records.
 
 ## Source Citations
@@ -160,3 +167,5 @@ Tom Copley (April 2026) raised the possibility that “Munday” is a phonetic t
 3. `/home/ubuntu/copley_research_findings.md` (Ann profile and evidence reliability).
 4. Chronicling America search portal: https://chroniclingamerica.loc.gov/
 5. National Library of Ireland parish registers: https://registers.nli.ie/
+6. [[Sources and Evidence Index]] — claim-level evidence status for Ann Munday / likely Murray.
+7. [[RQ-M5-PHASE-2-FINDINGS|RQ-M5 Phase 2 Findings]] and [[RQ-M5-TITHE-APPLOTMENT-SEARCH|RQ-M5 Tithe Search Research Note]].

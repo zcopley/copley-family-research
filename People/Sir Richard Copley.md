@@ -2,7 +2,7 @@
 title: Sir Richard Copley
 aliases:
   - Richard Copley of Battley
-date: 1375-1434
+date: 2026-04-26
 tags:
   - "#copley-family"
   - "#english-ancestors"

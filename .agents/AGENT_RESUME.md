@@ -9,7 +9,7 @@ tags:
 
 # Agent Resume State
 
-Last updated: 2026-04-26
+Last updated: 2026-04-27
 
 ## Current Goal
 
@@ -31,7 +31,29 @@ Improve the whole-family wiki reader path while the Murray deed line is paused; 
 - Linked the evidence index from `Home.md`, `index.md`, `Search Index.md`, `Topics and Themes.md`, `Topics/_Topics Index.md`, and `Bibliography and Acquisition Guide.md`.
 - Added a public-facing Mermaid settlement-network diagram to `Topics/Irish Immigration to West Virginia.md` showing Ireland source communities, migration/labor path, Lewis County settlement, Ann's direct-record gap, and Mary Copely Giblin's Iowa branch.
 - Added the Phase 3A changelog entry.
-- Ran `npm run build` successfully; build emitted existing date/unicode warnings only. Reverted regenerated `public/` output so the working diff stays source-only.
+- Completed Phase 3C people navigation and identity cleanup.
+- Refreshed `People Directory.md` and `People/People Directory.md` so the profile path now points to the evidence index, Murray Settlement, Bredon/Captain John context, Mary Copely Giblin, and near-kin / deep-origin research figures.
+- Cleaned up Ann page handling: `People/Ann Copley.md` is the canonical profile, while `People/Ann Elizabeth Munday Copley.md` is now clearly an alternate-name page.
+- Updated Ann's aliases, biography, RQ-M5 Mermaid map, research-gap wording, acquisition strategy, and source citations to match the Murray working conclusion while preserving Munday as the received American-family form.
+- Added the Phase 3B and Phase 3C changelog entries.
+- Completed Phase 3D research priorities refresh.
+- Rewrote `Research Priorities and Action Items.md` into a current research dashboard with Tier 1 priorities: John Murray deed transcription, Ann's Kinawley Murray household, Lewis County settlement FAN sweep, Mary Copely Giblin / Iowa proof trail, and Copley No. 1 oil records.
+- Added a completed / superseded table so old RQ-M5 tasks no longer look active: Munday census search complete, indexed Tithe search closed inconclusive, Griffith's Kinawley Murray search complete, and narrow B&O employment framing downgraded.
+- Added the Phase 3D changelog entry.
+- Completed Phase 3E public site hygiene and legacy cleanup.
+- Refreshed legacy root pages for B&O labor, Copley No. 1, Kilgefin, and Lewis County so they clearly route readers to canonical topic/place pages.
+- Improved `Dolan Family.md` and `West Virginia.md` from placeholder-only stubs into useful navigation / research-context pages.
+- Normalized frontmatter dates on RQ-M5 findings, historical ancestor pages, and stub pages that were generating Quartz invalid-date warnings.
+- Added the Phase 3E changelog entry.
+- Completed Phase 3F Tier 1 research execution kit.
+- Created `Tier 1 Research Execution Kit.md` with request templates, transcription fields, evidence-capture tables, and update targets for John Murray deeds, PRONI Kinawley TAB/5, Lewis County FAN sweep, Mary Copely Giblin / Iowa proof trail, and Copley No. 1 oil records.
+- Linked the execution kit from `Research Priorities and Action Items.md` and `Sources and Evidence Index.md`.
+- Added the Phase 3F changelog entry.
+- Completed Phase 3G visual story atlas.
+- Created `Visual Story Atlas.md` with four high-contrast Mermaid diagrams: family journey map, kinship and settlement network, evidence status dashboard, and research quest map.
+- Linked the atlas from `Home.md`, `The Copley Family Narrative.md`, `Topics and Themes.md`, `Sources and Evidence Index.md`, and `Research Priorities and Action Items.md`; also tightened contrast styling on the existing Home and Topics overview diagrams.
+- Added the Phase 3G changelog entry.
+- Ran `npm run build` successfully after Phase 3G; build processed 129 Markdown files and emitted only existing LaTeX unicode warnings. Reverted regenerated `public/` output so the working diff stays source-only.
 - Reviewed the repo's agent instructions and handoff history.
 - Confirmed the latest active research thread is Phase 2M.
 - Established this file as the canonical checkpoint for resuming work.
@@ -53,7 +75,7 @@ Improve the whole-family wiki reader path while the Murray deed line is paused; 
 
 - `CLAUDE.md` is the main agent instruction file.
 - The most recent handoff is `.agents/_AGENT_HANDOFF_PHASE_2M.md`.
-- Phase 2M concluded that the Ann Munday/Murray question is suggestive but not yet conclusive.
+- Phase 2M is now historical; later RQ-M5 work resolved Ann "Munday" as almost certainly Ann Murray for working genealogy.
 - The Bredon/recusant narrative now reflects Tom's land-retention correction.
 - The land-retention claim is still best treated as corroborated family-history context, not fully primary-source verified.
 - The remaining gap is a direct estate or chancery record proving the exact wife-and-son William reclamation story.
@@ -65,14 +87,20 @@ Improve the whole-family wiki reader path while the Murray deed line is paused; 
 - Mermaid diagrams are now explicitly part of the evidence-maintenance workflow; future updates should check affected charts, not just prose.
 - The main public reader path now reflects the current research state as of Phase 3A.
 - `Sources and Evidence Index.md` is now the central place to check and maintain claim-level source status.
+- The people-navigation path now reflects the current research state as of Phase 3C.
+- Ann's canonical profile and alternate-name page are aligned with the Murray working conclusion, the direct-record gap, and the evidence index.
+- `Research Priorities and Action Items.md` now reflects the evidence index and Phase 3A-3D public reader path.
+- Legacy redirect/stub pages now route more cleanly to canonical topic and place pages, and invalid-date build noise has been reduced.
+- `Tier 1 Research Execution Kit.md` is now the practical action layer for the top roadmap items.
+- `Visual Story Atlas.md` is now the diagram-first public entry point for the story, evidence status, and research quests.
 - The Murray deed image/transcription task is paused with Claude for Chrome; follow up later if no result is provided.
 
 ## Next Step
 
 - Next broad improvement options:
-  - Review and refresh `Topics/_Topics Index.md` and `People Directory.md` so they match the new public reader path
-  - Refresh `People Directory.md` so it matches the new Ann Murray, infrastructure-labor, Bredon, Murray Settlement, and evidence-index framing
-  - Review duplicate/legacy Ann pages and redirects so readers land consistently on `People/Ann Copley.md`
+  - Fix remaining non-date build warnings if they become actionable; current known residual warnings are LaTeX unicode warnings from content punctuation
+  - Use the execution kit to carry out one Tier 1 task when source access is available, starting with the John Murray deeds if Zach/Claude for Chrome provides images
+  - Add deeper topic-specific diagrams only when a page gains new evidence or when a visual would clarify a concrete relationship not already covered by the atlas
   - Work on non-Murray family gaps such as the Stephen line documentation, Iowa Copely descendants, or oil-strike lease/probate context
 - Paused Murray task to remember later:
   - Transcribe the 1826 and 1833 John Murray deeds in Lewis County
@@ -86,6 +114,7 @@ Improve the whole-family wiki reader path while the Murray deed line is paused; 
 - `Home.md`
 - `index.md`
 - `Sources and Evidence Index.md`
+- `Visual Story Atlas.md`
 - `The Copley Family Narrative.md`
 - `Topics and Themes.md`
 - `Topics/Irish Immigration to West Virginia.md`
@@ -94,7 +123,18 @@ Improve the whole-family wiki reader path while the Murray deed line is paused; 
 - `Search Index.md`
 - `Bibliography and Acquisition Guide.md`
 - `Family Tree.md`
+- `B&O Railroad Labor.md`
+- `Copley No. 1 Oil Strike.md`
+- `Dolan Family.md`
+- `Kilgefin, Roscommon.md`
+- `Lewis County, West Virginia.md`
+- `West Virginia.md`
+- `People Directory.md`
+- `People/People Directory.md`
+- `Research Priorities and Action Items.md`
+- `Tier 1 Research Execution Kit.md`
 - `CHANGELOG.md`
+- `People/Ann Elizabeth Munday Copley.md`
 - `References/Sir Thomas Copley Letters Notes.md`
 - `References/Gatton and Leigh Place Notes.md`
 - `Topics/Bredon Descent.md`

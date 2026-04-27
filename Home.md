@@ -30,18 +30,19 @@ graph LR
     D --> E["Oil Strike<br/>Copley No. 1<br/>1900"]
     E --> F["Professional Era<br/>Education + careers<br/>1900-2026"]
     
-    style A fill:#e3f2fd
-    style B fill:#fff3e0
-    style C fill:#f3e5f5
-    style D fill:#fce4ec
-    style E fill:#e8f5e9
-    style F fill:#f0f4c3
+    style A fill:#e3f2fd,stroke:#1565c0,color:#0d1b2a
+    style B fill:#fff3e0,stroke:#ef6c00,color:#1f1300
+    style C fill:#f3e5f5,stroke:#6a1b9a,color:#1a1024
+    style D fill:#fce4ec,stroke:#ad1457,color:#2a0714
+    style E fill:#e8f5e9,stroke:#2e7d32,color:#102411
+    style F fill:#f0f4c3,stroke:#827717,color:#1f1d00
 ```
 
 ## Vault Navigation
 
 ### Core Pages
 - [[Family Tree]] ⭐
+- [[Visual Story Atlas]] ⭐
 - [Timeline](/family-timeline/) — family events & historical context
 - [[People Directory]]
 - [[The Copley Family Narrative]]
@@ -53,13 +54,14 @@ graph LR
 - [[Search Index]]
 
 ### Recommended Reading Path
-1. [[Family Tree]] — visual map of all relationships and generations
-2. [[People Directory]] — orient yourself to people and generations
-3. [[The Copley Family Narrative]] — synthesized prose history
-4. [[Sources and Evidence Index]] — claim-by-claim evidence backbone
-5. [[Topics/Murray Settlement|Murray Settlement]] — current best framework for the immigrant community
-6. [[Topics and Themes]] — historical context and thematic research
-7. [[Research Priorities and Action Items]] — active research priorities and evidence gaps
+1. [[Visual Story Atlas]] — diagram-first overview of the whole project
+2. [[Family Tree]] — visual map of all relationships and generations
+3. [[People Directory]] — orient yourself to people and generations
+4. [[The Copley Family Narrative]] — synthesized prose history
+5. [[Sources and Evidence Index]] — claim-by-claim evidence backbone
+6. [[Topics/Murray Settlement|Murray Settlement]] — current best framework for the immigrant community
+7. [[Topics and Themes]] — historical context and thematic research
+8. [[Research Priorities and Action Items]] — active research priorities and evidence gaps
 
 ## Research Methodology
 

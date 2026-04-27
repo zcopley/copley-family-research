@@ -16,6 +16,8 @@ For the full event/topic directory, use [[Topics/_Topics Index|Topics Index]].
 
 For claim-by-claim source status, use [[Sources and Evidence Index]].
 
+For a diagram-first overview of the story, settlement network, evidence status, and open research quests, use [[Visual Story Atlas]].
+
 ## Place Reference Hub
 
 For location-specific research plans, use [[Places/_Places Index|Places Index]]. Core anchors include [[Places/Kilgefin Ireland|Kilgefin]], [[Places/Kinawley Ireland|Kinawley]], [[Places/Lewis County West Virginia|Lewis County]], [[Places/Weston West Virginia|Weston]], and [[Places/Baltimore Maryland|Baltimore]].
@@ -31,6 +33,7 @@ For location-specific research plans, use [[Places/_Places Index|Places Index]].
 - [[Topics/Irish Immigration to West Virginia|Irish Immigration to West Virginia]]
 - [[Topics/Academic and Scientific Achievement|Academic and Scientific Achievement]]
 - [[Topics/Genealogical Research Methods|Genealogical Research Methods]]
+- [[Visual Story Atlas]]
 
 ---
 ## [[Topics/Murray Settlement|Murray Settlement]]
@@ -169,14 +172,14 @@ graph TB
     B -.->|Explains<br/>labor mechanics| C
     D -.->|Finances<br/>education| E
     
-    style A fill:#e3f2fd
-    style B fill:#fff3e0
-    style C fill:#f3e5f5
-    style D fill:#e8f5e9
-    style E fill:#fce4ec
-    style F fill:#ffebee
-    style G fill:#ede7f6
-    style H fill:#fff8e1
+    style A fill:#e3f2fd,stroke:#1565c0,color:#0d1b2a
+    style B fill:#fff3e0,stroke:#ef6c00,color:#1f1300
+    style C fill:#f3e5f5,stroke:#6a1b9a,color:#1a1024
+    style D fill:#e8f5e9,stroke:#2e7d32,color:#102411
+    style E fill:#fce4ec,stroke:#ad1457,color:#2a0714
+    style F fill:#ffebee,stroke:#c62828,color:#2b0707
+    style G fill:#ede7f6,stroke:#5e35b1,color:#170b2e
+    style H fill:#fff8e1,stroke:#f9a825,color:#2a2100
 ```
 
 - [[Places/Kilgefin Ireland|Kilgefin, Ireland]] origin uncertainty drives Q1.

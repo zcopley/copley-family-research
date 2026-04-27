@@ -1,3 +1,16 @@
+---
+title: RQ-M5 Research Phase 2 Findings
+aliases:
+  - RQ-M5 Phase 2 Findings
+  - Ann Munday Murray Phase 2 Findings
+date: 2026-04-25
+tags:
+  - "#copley-family"
+  - "#research-questions"
+  - "#fermanagh"
+  - "#genealogy"
+---
+
 # RQ-M5 Research: Phase 2 Findings
 ## Search Kinawley Parish, County Fermanagh
 

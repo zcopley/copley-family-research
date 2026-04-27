@@ -20,6 +20,8 @@ This page is the evidence backbone for the vault. It does not replace the detail
 
 **What do we think we know, how strong is the evidence, and where is the proof trail?**
 
+For a visual overview of the claim landscape, see [[Visual Story Atlas]]. For ready-to-use source request templates, transcription fields, and evidence-capture forms for the highest-value gaps, see [[Tier 1 Research Execution Kit]].
+
 ## Evidence Status Key
 
 | Status | Meaning |
@@ -113,4 +115,4 @@ When a major claim changes, update this page in the same edit as the affected pe
 - [[CHANGELOG]]
 - Any affected source note or research note
 
-See also: [[Bibliography and Acquisition Guide]], [[Research Priorities and Action Items]], [[Topics/Genealogical Research Methods|Genealogical Research Methods]], [[Phase 1 Questions and Answers]].
+See also: [[Bibliography and Acquisition Guide]], [[Research Priorities and Action Items]], [[Visual Story Atlas]], [[Tier 1 Research Execution Kit]], [[Topics/Genealogical Research Methods|Genealogical Research Methods]], [[Phase 1 Questions and Answers]].

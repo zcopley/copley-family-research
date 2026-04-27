@@ -2,7 +2,7 @@
 title: Roger Copley
 aliases:
   - Roger Copley of Roughley
-date: 1430-1490
+date: 2026-04-26
 tags:
   - "#copley-family"
   - "#english-ancestors"

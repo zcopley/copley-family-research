@@ -1,5 +1,6 @@
 ---
 title: "Octavius Pickering"
+date: 2026-04-26
 tags: [copley-family, people, stub]
 ---
 

@@ -10,6 +10,69 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 3G - Visual Story Atlas (April 27, 2026)
+
+**ENGAGEMENT UPGRADE:** Added a diagram-first public atlas so readers can understand the family story, settlement network, evidence status, and active research quests visually before diving into detailed pages.
+
+### New Page
+
+- [[Visual Story Atlas|Visual Story Atlas]] - new Mermaid-based visual guide with a family journey map, kinship and settlement network, evidence status dashboard, and research quest map
+
+### Updated Pages
+
+- [[Home|Home]] - added the atlas to core pages and the recommended reading path; updated the existing overview diagram styling for explicit contrast
+- [[The Copley Family Narrative|The Copley Family Narrative]] - linked the atlas from the narrative entry point
+- [[Topics and Themes|Topics and Themes]] - linked the atlas as the diagram-first overview of themes and tightened the cross-theme diagram contrast styling
+- [[Sources and Evidence Index|Sources and Evidence Index]] - linked the atlas as the visual companion to claim status
+- [[Research Priorities and Action Items|Research Priorities and Action Items]] - linked the atlas as the visual overview for active priorities
+
+## Phase 3F - Tier 1 Research Execution Kit (April 26, 2026)
+
+**ACTIONABILITY UPGRADE:** Added a practical execution kit so the highest-value research tasks now have ready-to-use request templates, transcription fields, evidence-capture tables, and update rules.
+
+### New Page
+
+- [[Tier 1 Research Execution Kit|Tier 1 Research Execution Kit]] - source request and capture templates for John Murray deeds, PRONI Kinawley TAB/5, Lewis County FAN sweep, Mary Copely Giblin / Iowa proof trail, and Copley No. 1 oil records
+
+### Updated Pages
+
+- [[Research Priorities and Action Items|Research Priorities and Action Items]] - linked Tier 1 tasks to the execution kit
+- [[Sources and Evidence Index|Sources and Evidence Index]] - linked the execution kit as the practical companion to the claim-status register
+
+## Phase 3E - Public Site Hygiene and Legacy Cleanup (April 26, 2026)
+
+**SITE QUALITY PASS:** Cleaned up legacy redirect pages, reduced Quartz invalid-date build warnings, and turned the Dolan placeholder into a useful research stub.
+
+### Updated Pages
+
+- [[B&O Railroad Labor|B&O Railroad Labor]] - clarified the legacy redirect and current infrastructure-labor framing
+- [[Copley No. 1 Oil Strike|Copley No. 1 Oil Strike]] - clarified the legacy redirect and linked the active oil-record research path
+- [[Kilgefin, Roscommon|Kilgefin, Roscommon]] and [[Lewis County, West Virginia|Lewis County, West Virginia]] - refreshed legacy place redirects with canonical place/topic links
+- [[Dolan Family|Dolan Family]] and [[West Virginia|West Virginia]] - replaced placeholder-only text with useful links and cautious evidence notes
+- [[RQ-M5-PHASE-2-FINDINGS|RQ-M5 Phase 2 Findings]] and several stub / historical person pages - normalized frontmatter dates to reduce build noise
+
+## Phase 3D - Research Priorities Refresh (April 26, 2026)
+
+**ROADMAP ALIGNMENT:** Refreshed the public research roadmap so it now reflects the current evidence backbone, Ann Munday / likely Murray conclusion, Murray Settlement priorities, and Phase 3A-3C reader path.
+
+### Updated Pages
+
+- [[Research Priorities and Action Items|Research Priorities and Action Items]] - replaced stale task ordering with a current research dashboard, Tier 1 highest-impact work, Tier 2 supporting work, and completed / superseded task table
+- [[Sources and Evidence Index|Sources and Evidence Index]] - retained as the control page linked from the refreshed roadmap for claim-level status
+- [[Topics/Murray Settlement|Murray Settlement]] and [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]] - referenced as the active execution context for John Murray deeds, Kinawley Murray household work, and the settlement FAN sweep
+- [[People/Mary Copely Giblin|Mary Copely Giblin]] and [[Topics/1900 Copley Oil Strike|1900 Copley Oil Strike]] - promoted in the roadmap as high-impact non-Murray research threads
+
+## Phase 3C - People Navigation and Identity Cleanup (April 26, 2026)
+
+**PEOPLE-PATH UPDATE:** Cleaned up the people directories and Ann identity pages so readers can move from the new evidence backbone into the family profiles without hitting older wording or ambiguous name forms.
+
+### Updated Pages
+
+- [[People Directory|People Directory]] - added evidence-index guidance, refreshed the generation diagram, clarified Ann as Munday / likely Murray, reframed Michael's role as infrastructure-labor and Murray Settlement context, and added near-kin / deep-origin research figures
+- [[People/People Directory|People Directory (Individual Profiles)]] - corrected the profile-index heading, added source-status guidance, expanded canonical / alternate-name notes for Ann, and added missing near-kin, descendant, related-person, and deep-origin links
+- [[People/Ann Copley|Ann Copley]] - updated aliases, biography, RQ-M5 evidence wording, Mermaid evidence map, acquisition strategy, and source citations to reflect the current Murray working conclusion while preserving Munday as the received American-family form
+- [[People/Ann Elizabeth Munday Copley|Ann Elizabeth Munday Copley]] - clarified this as an alternate-name page for the canonical Ann profile and linked the current evidence trail
+
 ## Phase 3B - Sources and Evidence Backbone (April 26, 2026)
 
 **NEW EVIDENCE INDEX:** Added a central claim-by-claim evidence register so readers can quickly see what is verified, what is a strong working conclusion, what remains plausible or unresolved, and which claims have been rejected.

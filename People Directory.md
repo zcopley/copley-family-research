@@ -15,12 +15,13 @@ tags:
 > Phase 1A profile pages are now available in [[People/People Directory|People/People Directory]] and the `People/` folder.
 
 > 📊 Start with [[Family Tree]] for the fastest visual orientation across generations and branches.
+> 🧾 Use [[Sources and Evidence Index]] to check claim-level source status.
 
 ## Generational Overview
 
 ```mermaid
 graph TB
-    G23["<b>G23 — Immigrant Generation</b><br/>Michael Copley Sr. (b.1813)<br/>Ann Munday (b.1823)<br/>+ 4 siblings"]
+    G23["<b>G23 — Immigrant Generation</b><br/>Michael Copley Sr. (b.1813)<br/>Ann Munday / likely Murray (b.1823)<br/>+ siblings and near-kin"]
     
     G24["<b>G24 — Lewis County Core</b><br/>John Copley (1843-1925)<br/>+ 7 siblings"]
     
@@ -35,11 +36,11 @@ graph TB
     G25 --> G26
     G26 --> G27
     
-    style G23 fill:#e3f2fd
-    style G24 fill:#fff3e0
-    style G25 fill:#f3e5f5
-    style G26 fill:#fce4ec
-    style G27 fill:#e8f5e9
+    style G23 fill:#e3f2fd,stroke:#1565c0,color:#0d1b2a
+    style G24 fill:#fff3e0,stroke:#ef6c00,color:#1f1300
+    style G25 fill:#f3e5f5,stroke:#6a1b9a,color:#1a1024
+    style G26 fill:#fce4ec,stroke:#ad1457,color:#2a0714
+    style G27 fill:#e8f5e9,stroke:#2e7d32,color:#102411
 ```
 
 Use this directory to find profiles for specific people. Start at the generation level you're interested in, then navigate to individual pages.
@@ -47,22 +48,30 @@ Use this directory to find profiles for specific people. Start at the generation
 ## Name Disambiguation Notes
 - **Michael Copley:** use [[Michael Copley Sr|Michael Copley]] (1813–1897), [[Michael Joseph Copley]] (1898–1988), or [[Michael Copley (b. 1959)]].
 - **Anne Copley:** use [[Anne Copley (b. 1850)|Anne Copley (b. 1850)]] or [[Anne Copley (daughter of John Copley)|Anne Copley (daughter of John)]].
-- **Ann/Anne distinction:** [[Ann Copley]] is the matriarch (1823–1909); both Anne pages are daughters in later generations.
+- **Ann/Anne distinction:** [[Ann Copley]] is the G23 matriarch (1823–1909), recorded as Munday but now treated as likely Murray for working genealogy. Both Anne pages are daughters in later generations.
+
+## Current Evidence Notes
+
+- The central claim register is [[Sources and Evidence Index]].
+- The main immigrant-community framework is [[Topics/Murray Settlement|Murray Settlement]], not a single-family migration story.
+- The B&O page now provides broader infrastructure-labor context; named B&O employment for Michael or Patrick is not proven.
+- The deep-origin hypothesis is maintained in [[Topics/Bredon Descent|Bredon Descent]] and [[Topics/Captain John Copley Research|Captain John Copley Research]].
+- [[People/Mary Copely Giblin|Mary Copely Giblin]] is the strongest current Iowa-branch lead and likely close kin to Michael Copley Sr.
 
 ## G23 — Foundational Ancestors and Siblings
 
 ### [[Michael Copley Sr|Michael Copley]] (1813–1897)
 - Born: [[Places/Kilgefin Ireland|Kilgefin, Ireland]] (per gravestone tradition).
 - Died: [[Places/Lewis County West Virginia|Lewis County, West Virginia]].
-- Roles: immigrant laborer/farmer; probable [[B&O Railroad Labor]] phase before settlement.
+- Roles: immigrant laborer/farmer; likely part of a broader infrastructure-labor and [[Topics/Murray Settlement|Murray Settlement]] context before permanent landholding.
 - Key event: 1843 land agreement with brother Patrick.
 - Research gaps: Q1 (parentage), Q3 (marriage), Q19 (naturalization).
 
 ### [[Ann Copley]] (1823–1909)
 - Born: [[Places/Kinawley Ireland|Kinawley, Ireland]] (County Fermanagh context; reported in family narrative).
 - Family tradition: father drowned in Potomac.
-- Maiden surname recorded as "Munday" in secondary family sources, still requiring primary-record verification.
-- Research gaps: Q3, Q11/Q14 (marriage documentation, father identity, wider Munday reconstruction).
+- Maiden surname recorded as "Munday" in secondary family sources; current working conclusion treats her original Irish surname as likely **Murray**.
+- Research gaps: Q3, Q11/Q14/RQ-M5 (marriage documentation, father identity, direct surname record, and Kinawley Murray household).
 
 ### [[Patrick Copley]]
 - Michael’s brother; co-purchaser in 1843 land agreement.
@@ -72,6 +81,10 @@ Use this directory to find profiles for specific people. Start at the generation
 ### [[William Copley]]
 - Brother linked by oral history to anti-tithe unrest and possible Australian transport.
 - Gap: Q6 documentary confirmation pending.
+
+### [[People/Mary Copely Giblin|Mary Copely Giblin]]
+- Born 1814 in Tully, Kilcorkey, County Roscommon; died 1884 in Crawford County, Iowa.
+- Likely sibling or close relative of Michael Copley Sr.; key evidence for a wider Copely diaspora beyond West Virginia.
 
 ### [[Bridget Copley Reynolds]]
 - Sister, born c.1808; reportedly immigrant.
@@ -185,6 +198,9 @@ Gaps for this generation:
 
 ### [[Dolan Family]]
 - Michael Dolan (1824–1888), Elizabeth Dolan (1829–1913), and under-documented sibling network.
+
+### English-origin and Irish-origin research figures
+- [[People/Sir Richard Copley|Sir Richard Copley]], [[People/Roger Copley|Roger Copley]], [[People/William Copley (Woolbedding)|William Copley of Woolbedding]], [[People/Thomas Copley Sr|Thomas Copley Sr.]], [[People/Thomas Copley Jr|Thomas Copley Jr.]], and [[People/Captain John Copley|Captain John Copley]].
 
 ### Land-chain figures (contextual)
 - [[Weeden Hoffman]], [[Thomas Pickering]], [[Octavius Pickering]], [[Gideon D. Camden]], [[Richard P. Camden]], [[Minter Bailey]].
