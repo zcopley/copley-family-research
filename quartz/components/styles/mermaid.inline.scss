@@ -35,6 +35,27 @@ pre {
   }
 }
 
+code.mermaid,
+#mermaid-container .mermaid-content {
+  .cluster-label,
+  .edgeLabel {
+    text-shadow:
+      0 1px 0 var(--light),
+      1px 0 0 var(--light),
+      0 -1px 0 var(--light),
+      -1px 0 0 var(--light),
+      0 0 3px var(--light);
+  }
+
+  .cluster-label text,
+  .edgeLabel text {
+    paint-order: stroke;
+    stroke: var(--light);
+    stroke-linejoin: round;
+    stroke-width: 3px;
+  }
+}
+
 #mermaid-container {
   position: fixed;
   contain: layout;

@@ -27,6 +27,7 @@ A running record of significant additions, corrections, and improvements to this
 
 - Added `scripts/check-mermaid-contrast.mjs` and `npm run check:mermaid`
 - Added the Mermaid contrast check to the GitHub Actions deploy workflow before the Quartz build step
+- Added a renderer-level Mermaid CSS fallback so subgraph titles and edge labels remain readable over custom fills in dark mode
 
 ## Phase 4A - John Murray Deed Findings Scaffold (April 27, 2026)
 

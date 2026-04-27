@@ -24,6 +24,7 @@ Improve wiki readability and maintenance guardrails; current focus is preventing
 - Updated `MERMAID_DIAGRAM_GUIDE.md` and `CLAUDE.md` with the reusable fill/stroke/text palette and the checker command.
 - Ran `npm run check:mermaid` and `npm run build` successfully after Phase 4B; build processed 130 Markdown files and emitted only existing LaTeX unicode warnings. Reverted regenerated `public/` output so the working diff stays source-only.
 - `npm run check` remains blocked by pre-existing TypeScript scanning of ignored/generated directories (`node_modules.broken-20260418-0055` and `public/`), not by the Mermaid changes.
+- Follow-up fix: added Mermaid CSS text-outline fallback for subgraph titles and edge labels after the live Visual Story Atlas still showed dark-mode contrast problems outside node/class text.
 - Completed Phase 4A John Murray deed findings scaffold.
 - Created `RQ-M1-JOHN-MURRAY-DEED-FINDINGS.md` as the controlled findings log for the 1826 Murray/Fish index entry and 1833 John Murray index lead.
 - Clarified across the research path that the index entries are confirmed but actual deed texts, locations, witnesses, and relationship implications remain pending.
@@ -100,6 +101,7 @@ Improve wiki readability and maintenance guardrails; current focus is preventing
 - RQ-M5 is resolved for working genealogy: Ann "Munday" was almost certainly Ann Murray. A direct marriage/passenger/church record is still desired, but the next research question is which Kinawley Murray household was Ann's family.
 - Mermaid diagrams are now explicitly part of the evidence-maintenance workflow; future updates should check affected charts, not just prose.
 - Mermaid contrast is now CI-enforced with `npm run check:mermaid`; every Mermaid `style` or `classDef` rule that sets `fill` must also set explicit `color`.
+- Mermaid subgraph titles and edge labels also have a renderer-level outline fallback in `quartz/components/styles/mermaid.inline.scss`.
 - The main public reader path now reflects the current research state as of Phase 3A.
 - `Sources and Evidence Index.md` is now the central place to check and maintain claim-level source status.
 - The people-navigation path now reflects the current research state as of Phase 3C.
@@ -132,6 +134,7 @@ Improve wiki readability and maintenance guardrails; current focus is preventing
 - `scripts/check-mermaid-contrast.mjs`
 - `.github/workflows/deploy.yml`
 - `MERMAID_DIAGRAM_GUIDE.md`
+- `quartz/components/styles/mermaid.inline.scss`
 - `Home.md`
 - `index.md`
 - `Sources and Evidence Index.md`
