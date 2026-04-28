@@ -1,6 +1,6 @@
 ---
 title: Anne Copley (daughter of John Copley)
-date: 2026-04-13
+date: 2026-04-28
 tags:
   - "#copley-family"
   - "#generation-G24"
@@ -43,5 +43,5 @@ tags:
 
 ## Sources
 1. [[Family Tree]] (node: Anne Copley, b. 1895, d. 1970, never married).
-2. `/home/ubuntu/Uploads/P1APPENDICES.pdf` (branch lineage context).
+2. `~/Downloads/Part 1 Appendices .pdf` — branch lineage context.
 3. [[People Directory]] (current narrative references to Albuquerque relocation).

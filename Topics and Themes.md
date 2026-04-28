@@ -12,6 +12,8 @@ tags:
 
 📊 Keep [[Family Tree]] open while reading this page to connect each theme to the relevant generations and branches.
 
+New to the project? Start with [[How to Read This Research]] for a short guide to the site's evidence labels, major pages, and open questions.
+
 For the full event/topic directory, use [[Topics/_Topics Index|Topics Index]].
 
 For claim-by-claim source status, use [[Sources and Evidence Index]].

@@ -10,6 +10,104 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4J - Copley Farm Land-Chain Appendix Pass (April 28, 2026)
+
+**LAND-CONTEXT UPGRADE:** Used Appendix 2, "Origin of the Copley Farm," to turn the land-chain stubs around the 1843 Hoffman-Copley purchase into useful research pages.
+
+### Updated Pages
+
+- [[People/Weeden Hoffman|Weeden Hoffman]] - added the proposed 1842 500-acre Commonwealth grant context and Pickering / Camden / Bailey land-warrant path.
+- [[People/Thomas Pickering|Thomas Pickering]] - replaced the stub with a cautious land-chain profile and flagged the likely Timothy Pickering identity issue.
+- [[People/Octavius Pickering|Octavius Pickering]], [[People/Gideon D. Camden|Gideon D. Camden]], [[People/Richard P. Camden|Richard P. Camden]], and [[People/Minter Bailey|Minter Bailey]] - replaced stubs with land-chain roles, research notes, and Appendix 2 source citations.
+- [[Topics/Murray Settlement|Murray Settlement]] - added the Appendix 2 land-chain hypothesis to the documented Copley land-purchase section and related-pages list.
+- [[Search Index|Search Index]] and [[People Directory|People Directory]] - updated summaries for the land-chain figures.
+
+## Phase 4I - Appendix Biography Enrichment Pass 4 (April 28, 2026)
+
+**BIOGRAPHICAL DEPTH UPGRADE:** Extended appendix-backed context to related spouse and family-context pages rather than only first-person sketch pages.
+
+### Updated Pages
+
+- [[People/Marion Elizabeth Partlow|Marion Elizabeth Partlow]] - added a narrative on her Casey, Illinois background, teaching, gardening, hostess role, and family memories from Michael Joseph's sons.
+- [[People/Marcia Thornton Copley|Marcia Thornton Copley]] - added a narrative on Berkeley / Madison / Palos Verdes family life, Harbor Regional Center work, SVS connection, and revised disability-service wording.
+- [[People/Judith Ann Todd Copley|Judith Ann Todd Copley]] - added a narrative on Cambridge, USC, IIT, Penn State, engineering-society leadership, and Amy's internationally oriented childhood context.
+- [[People/Anne Copley (daughter of John Copley)|Anne Copley (daughter of John)]] - cleaned an old appendix source path.
+- [[People Directory|People Directory]] - sharpened Marcia and Judy summary notes.
+
+## Phase 4H - Appendix Biography Enrichment Pass 3 (April 28, 2026)
+
+**BIOGRAPHICAL DEPTH UPGRADE:** Continued the appendix-backed enrichment pass on Stephen-line profiles with stronger narrative framing and more privacy-aware language.
+
+### Updated Pages
+
+- [[People/Peter Copley|Peter Copley]] - added a narrative covering Madison / Palos Verdes childhood, music, USC, SVS / insurance work, IT retraining, software and data-analysis career, and Fillmore family life.
+- [[People/Sara Copley Cox|Sara Copley Cox]] - added a narrative connecting Berkeley, Madison, Palos Verdes, Willamette / USC, Verizon, and later itinerant SVS work.
+- [[People/Stephen Michael Copley|Stephen Michael Copley]] - added a narrative bridge from wartime Wyndmoor and postwar Berkeley into UC Berkeley, Pratt & Whitney, USC, IIT, Penn State, and family life.
+- [[People/Stephen Joseph Copley|Stephen Joseph Copley]] - revised outdated disability wording and added a respectful public narrative about care context, Harbor Regional Center, SVS connections, burial, and celebration of life.
+- [[People Directory|People Directory]] - noted privacy-aware handling for living-person and disability-care biography.
+
+## Phase 4G - Appendix Biography Enrichment Pass 2 (April 28, 2026)
+
+**BIOGRAPHICAL DEPTH UPGRADE:** Continued the `~/Downloads/Part 1 Appendices .pdf` enrichment pass for modern Stephen-line profiles, keeping living-person material concise and public-facing.
+
+### Updated Pages
+
+- [[People/Paul Copley|Paul Copley]] - removed a placeholder career marker and added a narrative covering Madison / Palos Verdes childhood, USC exercise science, service-oriented work, SVS, and the Fresno fixer-upper context.
+- [[People/Amy E. Copley Geist|Amy E. Copley Geist]] - added a narrative connecting engineering-family travel, French / international interests, Penn State, LSE, Brookings, World Bank work, marriage, and Maryland family life.
+- [[People/Robert Cox|Robert Cox]] - revised the biography into a more privacy-aware public summary while preserving the appendix-backed arc from Sacramento / Granite Bay childhood to landscaping-business work.
+- [[People Directory|People Directory]] - refreshed modern-descendant summary language for the appendix-backed profiles.
+
+## Phase 4F - Appendix Biography Enrichment Pass (April 28, 2026)
+
+**BIOGRAPHICAL DEPTH UPGRADE:** Used `~/Downloads/Part 1 Appendices .pdf` to enrich selected person pages with family-authored biographical context while keeping living-person detail high-level and privacy-sensitive.
+
+### Updated Pages
+
+- [[People/Ellen Bernadine Nelle Copley Sardo|Ellen Bernadine "Nelle" Copley Sardo]] - added a fuller biographical narrative covering childhood after Mary Ellen's death, education, nursing career, marriage, wartime household leadership, and St. Joseph Hospital volunteer service.
+- [[People/Sarah Ellen Sardo Arena|Sarah Ellen Sardo Arena]] - expanded the page from a stub into a narrative profile covering childhood in Clarksville / Baltimore, education, Catholic family life, Montessori teaching, and hospital chaplaincy.
+- [[People/Michael Joseph Copley|Michael Joseph Copley]] - added a concise narrative bridge from Lewis County childhood through Catholic University, UIUC chemistry, USDA laboratory leadership, and family memories.
+- [[People/Michael Copley (b. 1959)|Michael Copley (b. 1959)]] and [[People/Philip Copley|Philip Copley]] - clarified that no separate first-person appendix sketch has been located for these pages; current details come from related family sketches.
+
+## Phase 4E - Reader Orientation Guide (April 28, 2026)
+
+**UNDERSTANDABILITY UPGRADE:** Added a short public guide that explains how to read the project before diving into detailed family, source, and research pages.
+
+### New Page
+
+- [[How to Read This Research|How to Read This Research]] - orientation guide covering the vault's main layers, recommended starting points by reader type, evidence labels, core story, and biggest open questions.
+
+### Updated Pages
+
+- [[Home|Home]], [[Sources and Evidence Index|Sources and Evidence Index]], [[Topics and Themes|Topics and Themes]], and [[Search Index|Search Index]] - linked the reader guide from major entry and orientation points.
+- [[README|README]] - added the reader guide to the list of notable top-level pages.
+
+## Phase 4D - Lewis County FAN Sweep Log (April 28, 2026)
+
+**EVIDENCE-CAPTURE UPGRADE:** Added a dedicated findings log for the Ancestry / FamilySearch census neighbor sweep while Claude for Chrome works on Murray Settlement records.
+
+### New Page
+
+- [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]] - capture page for Murray / Copley / settlement-family households, 1840-1870 neighbor clusters, negative findings, and evaluation rules.
+
+### Updated Pages
+
+- [[Research Priorities and Action Items|Research Priorities and Action Items]], [[Tier 1 Research Execution Kit|Tier 1 Research Execution Kit]], [[Sources and Evidence Index|Sources and Evidence Index]], [[Topics/Murray Settlement|Murray Settlement]], and [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]] - routed census FAN findings to the new RQ-M1 log before narrative conclusions change.
+- [[Search Index|Search Index]] - indexed the new FAN sweep findings page and census-neighbor keywords.
+
+## Phase 4C - Claude for Chrome Murray Deed Brief (April 28, 2026)
+
+**RESEARCH HANDOFF INTEGRATED:** Added the April 28 Claude for Chrome Lewis County deed-index research brief and updated the RQ-M1 workflow around the new FamilySearch targets.
+
+### New Page
+
+- [[References/Claude for Chrome Lewis County Deed Research Brief|Claude for Chrome Lewis County Deed Research Brief]] - records the FamilySearch film/DGS targets, probable "Marwee" / possible Murray Deed Book C-D index entries, the negative compiled Grantor Index M-S finding, and the grantee-index next step.
+
+### Updated Pages
+
+- [[RQ-M1-JOHN-MURRAY-DEED-FINDINGS|RQ-M1 John Murray Deed Findings]] - added the April 2026 FamilySearch deed-index pass, Deed Book C-D page targets 334 / obscured 3?? / 404, DGS identifiers, and evaluation rules for the unconfirmed "Marwee" readings.
+- [[Sources and Evidence Index|Sources and Evidence Index]], [[Research Priorities and Action Items|Research Priorities and Action Items]], [[Tier 1 Research Execution Kit|Tier 1 Research Execution Kit]], [[Topics/Murray Settlement|Murray Settlement]], and [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]] - updated the active Murray deed task from a general transcription target to a grantee-index plus page-target workflow.
+- [[Visual Story Atlas|Visual Story Atlas]] and [[Search Index|Search Index]] - indexed the new source note and reflected the Marwee / Murray variant research path.
+
 ## Phase 4B - Sitewide Mermaid Contrast Guardrail (April 27, 2026)
 
 **READABILITY FIX:** Normalized Mermaid diagram text contrast across the wiki and added an automated check so future diagrams cannot set filled nodes without explicit text color.

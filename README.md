@@ -18,7 +18,7 @@ This repository is both the content vault and the build system for the site. All
 | `References/` | Source documents and social media profiles |
 | `static/images/` | Portraits, census records, land deeds, ship manifests |
 
-Notable top-level pages: `Family Tree.md` (Mermaid diagram), `The Copley Family Narrative.md` (prose history), `Search Index.md`, `CHANGELOG.md`.
+Notable top-level pages: `How to Read This Research.md` (reader orientation), `Family Tree.md` (Mermaid diagram), `The Copley Family Narrative.md` (prose history), `Sources and Evidence Index.md`, `Search Index.md`, `CHANGELOG.md`.
 
 ---
 

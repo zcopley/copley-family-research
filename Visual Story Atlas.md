@@ -175,7 +175,7 @@ flowchart TB
     
     Q1 --> A1["Kilgefin / Fairymount<br/>parish + civil records"]:::source
     Q2 --> A2["PRONI Kinawley TAB/5<br/>and church records"]:::source
-    Q3 --> A3["1826 / 1833<br/>John Murray deeds<br/>findings log"]:::source
+    Q3 --> A3["Grantee index +<br/>Marwee/Murray<br/>deed targets"]:::source
     Q4 --> A4["Iowa probate / cemetery<br/>church records"]:::source
     Q5 --> A5["Lewis County lease<br/>royalty / probate"]:::source
     Q6 --> A6["Irish land / probate<br/>1657-1813"]:::source

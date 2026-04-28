@@ -1,6 +1,6 @@
 ---
 title: Michael Joseph Copley
-date: 2026-04-13
+date: 2026-04-28
 tags:
   - "#copley-family"
   - "#generation-G24"
@@ -36,6 +36,16 @@ tags:
 - [[Places/Weston West Virginia|Weston, West Virginia]]
 - [[Places/Baltimore Maryland|Baltimore, Maryland]] (family migration/labor corridor context)
 
+## Biographical Narrative
+
+Michael's childhood sits at the pivot point between the Lewis County farm generation and the family's later professional branches. He was born on the Copley farm in 1898, two years before the Copley No. 1 oil strike, and lost his mother in 1901. The appendix biography says that Michael and his sister [[Ellen Bernadine Nelle Copley Sardo|Nelle]] lived first with their grandmother [[Ann Copley]] and then with their aunt [[Sarah Copley]] in Weston.
+
+His education moved him out of West Virginia and into Catholic and scientific institutions: Rock Hill College is named as a likely early boarding-school experience, followed by Catholic University and the University of Illinois. At Illinois he worked in physical chemistry, publishing on molecular rays and then on hydrogen bonding with C. S. Marvel, Glenn F. Zoellhofer, and others.
+
+Michael's USDA career linked science, wartime research, and food technology. He moved to the Eastern Regional Research Laboratory in Wyndmoor in 1939, where his division worked on chemistry problems including synthetic rubber during World War II. In 1947 he became Director of the Western Regional Research Laboratory in Albany, California, where the appendix credits him with leadership in food dehydration and frozen-food research until his 1968 retirement.
+
+The family-authored sketch also preserves Stephen's and Tom's memories of Michael and [[Marion Elizabeth Partlow|Marion]] as parents: academically attentive, supportive of music and schooling, connected to Marion's Illinois family, and closely tied to the work and culture of the USDA laboratories.
+
 ## Related Topic Pages
 - [[Topics/Academic and Scientific Achievement|Academic and Scientific Achievement]]
 - [[Topics/1900 Copley Oil Strike|1900 Copley Oil Strike]]
@@ -68,7 +78,7 @@ tags:
 - Add USDA archival records and oral-history corroboration with confidence labels.
 
 ## Sources
-1. `/home/ubuntu/Uploads/P1APPENDICES.pdf` (Appendix 1 biographical sketch: Michael J. Copley).
-2. `/home/ubuntu/Uploads/COPLEY HISTORY PART 1 final 2.pdf` (family structure and timeline context).
-3. `/home/ubuntu/copley_research_findings.md` (career significance summary).
+1. `~/Downloads/Part 1 Appendices .pdf` — Appendix 1 biographical sketch: Michael J. Copley.
+2. `~/Downloads/COPLEY HISTORY PART 1 final 2.pdf` — family structure and timeline context.
+3. [[copley_research_findings]] — career significance summary.
 4. [[Family Tree]] (branch and generation cross-links).

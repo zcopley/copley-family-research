@@ -4,7 +4,7 @@ aliases:
   - Murray's Settlement
   - Irish Settlement
   - Lewis County Irish Settlement
-date: 2026-04-22
+date: 2026-04-28
 tags:
   - "#copley-family"
   - "#irish-ancestors"
@@ -95,6 +95,8 @@ These records predate the Irish settlement by two decades, meaning Murray and ot
 ✅ **[VERIFIED — *Powhatan* passenger manifest, Aug 20, 1838]** [[People/Michael Copley Sr.|Michael Copley Sr.]] (listed as "Michael Copely," age 22) and [[People/Patrick Copley|Patrick Copley]] (listed as "Pat Copely," age 20) arrived in New York together on the ship *Powhatan*, August 20, 1838. Their shared surname spelling "Copely" is consistent with the Catholic Roscommon branch throughout Irish records.
 
 ✅ **[VERIFIED — 1843 Hoffman deed]** [[People/Michael Copley Sr.|Michael Copley Sr.]] and [[People/Patrick Copley|Patrick Copley]] purchased a 200-acre tract from [[People/Weeden Hoffman|Weeden Hoffman]] in 1843, establishing the family's permanent Lewis County settlement at Cove Lick/Copley Road near [[Places/Weston West Virginia|Weston]].
+
+⚠️ **[PLAUSIBLE — family Appendix 2 land-chain hypothesis]** Appendix 2, "Origin of the Copley Farm," proposes that Hoffman's land came from a larger **500-acre Commonwealth of Virginia grant dated December 30, 1842**, shortly before the Copley purchase. The appendix links that grant to a possible Pickering → [[People/Octavius Pickering|Octavius Pickering]] → Camden, Bailey and Camden → Hoffman warrant path involving [[People/Gideon D. Camden|Gideon D. Camden]], [[People/Richard P. Camden|Richard P. Camden]], and [[People/Minter Bailey|Minter Bailey]]. This is now a useful land-chain hypothesis, but it still needs verification from Virginia land-office and Lewis County deed records.
 
 ⚠️ **[PLAUSIBLE — Tom Copley, April 22, 2026]** Michael Copley Sr. and Patrick Copley were **probably among the earliest Roscommon emigrants to arrive in Lewis County** — a finding that reinforces the anchor-settler interpretation. Rather than opportunistic latecomers following the Murray trail, they may have been part of the initial beachhead settlement itself, or arrived early enough to establish themselves as core community members before the main wave.
 
@@ -466,10 +468,10 @@ The following Roscommon townlands and parishes are documented in relation to the
 
 **RQ-M1:** Who were the Murrays? When did they arrive in Lewis County?
 
-1. **Lewis County deed records (Weston Courthouse)** — Search for Murray surname in deeds 1825–1855. The earliest Murray purchaser in the settlement zone is likely the anchor. Also examine all of Weeden Hoffman's land transactions — if he sold to multiple Irish Catholic families (Copleys, Murrays, Dolans), he may have been the land broker enabling the settlement.
-   - **RESEARCH IN PROGRESS:** See [[RQ-M1-LEWIS-COUNTY-DEED-SEARCH|RQ-M1 Deed Search]] for FamilySearch navigation details and [[RQ-M1-JOHN-MURRAY-DEED-FINDINGS|RQ-M1 John Murray Deed Findings]] for the current findings log. Index entries are confirmed for 1826 Murray/Fish and 1833 John Murray; deed text is still pending.
+1. **Lewis County deed records (Weston Courthouse / FamilySearch)** — Search for Murray surname and variants in deeds 1825–1855. The earliest Murray purchaser in the settlement zone is likely the anchor. Also examine all of Weeden Hoffman's land transactions — if he sold to multiple Irish Catholic families (Copleys, Murrays, Dolans), he may have been the land broker enabling the settlement.
+   - **RESEARCH IN PROGRESS:** See [[RQ-M1-LEWIS-COUNTY-DEED-SEARCH|RQ-M1 Deed Search]] for FamilySearch navigation details and [[RQ-M1-JOHN-MURRAY-DEED-FINDINGS|RQ-M1 John Murray Deed Findings]] for the current findings log. Prior index entries are confirmed for 1826 Murray/Fish and 1833 John Murray; deed text is still pending. The April 2026 Claude for Chrome pass also found probable "Marwee" / possible Murray entries in Deed Book C-D on pages 334, obscured 3??, and 404, plus a negative compiled Grantor Index M-S check. These entries are promising but remain unconfirmed until the deed texts are read.
 
-2. **US Census 1840, 1850, 1860** — FAN-club method: extract every Irish-origin surname within the same township as the Copley parcels (Cove Lick/Copley Road area). This will enumerate the full settlement membership. The **1840 census is critical** — it catches Michael Sr. at his earliest possible moment in Lewis County.
+2. **US Census 1840, 1850, 1860** — FAN-club method: extract every Irish-origin surname within the same township as the Copley parcels (Cove Lick/Copley Road area). This will enumerate the full settlement membership. The **1840 census is critical** — it catches Michael Sr. at his earliest possible moment in Lewis County. Capture results first in [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]].
 
 3. **Catholic parish records — St. Michael's Church and successors** — St. Michael's Church (the "Little Cathedral of the Wilderness") was the specific Murray Settlement parish. Marriage, baptism, and death records: who appears as witnesses, godparents, and co-signers alongside the Copleys? Shared witnesses = confirmed social network.
    - Records likely held at the **Diocese of Wheeling-Charleston archive** (Charleston, WV) — also search Pittsburgh and Steubenville mission records (which covered pre-statehood WV)
@@ -521,7 +523,7 @@ The following Roscommon townlands and parishes are documented in relation to the
 
 15. **Search PRONI and Fermanagh parish registers** — Look for Murray baptism, marriage, and tithe records in Kinawley parish, Fermanagh, 1820–1840, especially records that could name an Ann born c. 1823.
 
-16. **Transcribe Lewis County John Murray deeds** — The 1826 and 1833 John Murray deed leads may identify the Murray anchor family, witnesses, neighbors, or land near the later Copley settlement. Capture the resulting transcripts in [[RQ-M1-JOHN-MURRAY-DEED-FINDINGS|RQ-M1 John Murray Deed Findings]].
+16. **Transcribe Lewis County John Murray deeds** — The 1826 and 1833 John Murray deed leads, plus the Deed Book C-D "Marwee" / possible Murray page targets, may identify the Murray anchor family, witnesses, neighbors, or land near the later Copley settlement. Search the grantee index DGS 8293314 and capture the resulting transcripts in [[RQ-M1-JOHN-MURRAY-DEED-FINDINGS|RQ-M1 John Murray Deed Findings]].
 
 ---
 
@@ -603,7 +605,8 @@ The following can be done immediately with free online resources:
 - [[People/Michael Copley Sr.|Michael Copley Sr.]] — primary Copley emigrant; arrived Lewis County 1838–1843
 - [[People/Patrick Copley|Patrick Copley]] — co-emigrant on *Powhatan*; co-purchaser of 1843 Hoffman deed
 - [[People/Ann Copley|Ann Copley]] — wife of Michael Sr.; née Munday (possibly Murray — see RQ-M5)
-- [[People/Weeden Hoffman|Weeden Hoffman]] — land seller; possible broker of Irish immigrant settlement
+- [[People/Weeden Hoffman|Weeden Hoffman]] — land seller; possible broker of Irish immigrant settlement and endpoint of the proposed Pickering / Camden / Bailey land-chain path
+- [[People/Gideon D. Camden|Gideon D. Camden]], [[People/Richard P. Camden|Richard P. Camden]], and [[People/Minter Bailey|Minter Bailey]] — Camden, Bailey and Camden land-chain figures in Appendix 2
 - [[People/Mary Ellen Dolan Copley|Mary Ellen Dolan Copley]] — G24 Dolan-Copley marriage cementing two Roscommon immigrant families
 - [[People/Mary Copely Giblin|Mary Copely Giblin]] — b. 1814, Tully, Kilcorkey, Roscommon; d. 1884, Crawford County, Iowa; probable Copley sibling; Iowa parallel chain
 - [[Topics/Irish Immigration to West Virginia|Irish Immigration to West Virginia]] — macro-context for the Copley-Dolan settlement pattern
@@ -623,4 +626,5 @@ The following can be done immediately with free online resources:
 6. ⚠️ Family biographical appendices (PDF) — Copley family narrative; Ann Copley profile; Munday maiden name tradition.
 7. ⚠️ Tom Copley, April 2026 — coordination hypothesis; Ann Munday / Murray phonetic speculation; Murray anchor family thesis.
 8. ⚠️ Ancestry.com community forum posts, author(s) unknown, date unknown — Murray Settlement overview; St. Michael's Church ("Little Cathedral of the Wilderness"); 100-acre land donation 1849 to Diocese of Richmond; Bishop Richard Vincent Whelan; Staunton-Parkersburg Turnpike as labor driver; Camden/Cove Lick/Loveberry settlement cluster; Lewis County deed and marriage record dates. **These claims are plausible and internally consistent but require verification against primary sources (diocesan records, Lewis County deeds, WV state road records).**
-9. ⚠️ Ancestry.com forum post, respondent identified as "Hanley" (surname), replying to James Regan, July 1, 2004 — Kilgefin Civil Parish graveyard located in Cartron (Old Glebe) townland; Catholic parish name is Ballagh (aka Kilgefin); church in Ballagh townland; LDS microfilm 989747 for Cloontuskert/Kilgefin/Curraghroe Catholic records 1865–1881. **Specific enough to verify directly; LDS microfilm number is a high-priority research lead.**
+9. ⚠️ [[References/Claude for Chrome Lewis County Deed Research Brief|Claude for Chrome Lewis County Deed Research Brief]], April 28, 2026 — FamilySearch deed-index handoff identifying DGS 8219256 Deed Book C-D "Marwee" / possible Murray page targets and a negative compiled Grantor Index M-S check. **Promising research lead; deed texts not yet transcribed.**
+10. ⚠️ Ancestry.com forum post, respondent identified as "Hanley" (surname), replying to James Regan, July 1, 2004 — Kilgefin Civil Parish graveyard located in Cartron (Old Glebe) townland; Catholic parish name is Ballagh (aka Kilgefin); church in Ballagh townland; LDS microfilm 989747 for Cloontuskert/Kilgefin/Curraghroe Catholic records 1865–1881. **Specific enough to verify directly; LDS microfilm number is a high-priority research lead.**

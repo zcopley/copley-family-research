@@ -3,7 +3,7 @@ title: Stephen Michael Copley
 aliases:
   - Steve Copley
   - Stephen Copley
-date: 2026-04-17
+date: 2026-04-28
 tags:
   - "#copley-family"
   - "#generation-G25"
@@ -29,6 +29,14 @@ tags:
 - **First marriage:** Marcia Thornton (married at UC Berkeley; divorced 1983)
 - **Second marriage:** [[Judith Ann Todd Copley|Judith Ann Todd]] ("Judy"), 1984 (from Wakefield, Yorkshire, England; PhD, Cambridge University; 14 years younger)
 - **Current residence:** State College, Pennsylvania area
+
+## Biographical Narrative
+
+Stephen's appendix sketch begins with a childhood shaped by science, wartime Pennsylvania, and postwar California. Born in Champaign while [[Michael Joseph Copley|his father]] was at the University of Illinois, he moved as a small child to Wyndmoor, Pennsylvania, near the USDA Eastern Regional Research Laboratory. He remembered World War II home-front life, family gardening, beach vacations, visits with Aunt Nelle and the Sardo cousins, and the 1944 birth of his younger brother [[Thomas Partlow Copley|Tom]].
+
+The family's 1947 move to Berkeley followed Michael Joseph Copley's appointment as Director of the USDA Western Regional Research Laboratory in Albany. Stephen's education in Berkeley led from Oxford Elementary through Berkeley High School and then UC Berkeley. He credited Professor Joseph Pask and Charlie Hulse with steering him toward graduate study and a career in materials science.
+
+His professional life moved from Pratt & Whitney research in Connecticut to USC teaching and department leadership, then to academic administration at IIT, executive work with STE / The Packer Group, and later Penn State Applied Research Laboratory work. The appendix frames this career alongside family life: seven children with [[Marcia Thornton Copley|Marcia]], marriage to [[Judith Ann Todd Copley|Judy]] in 1984, the birth of [[Amy E. Copley Geist|Amy]] in 1990, and a long final chapter in State College.
 
 ## Stephen Line Family Overview
 

@@ -41,6 +41,7 @@ graph LR
 ## Vault Navigation
 
 ### Core Pages
+- [[How to Read This Research]]
 - [[Family Tree]] ⭐
 - [[Visual Story Atlas]] ⭐
 - [Timeline](/family-timeline/) — family events & historical context
@@ -54,14 +55,15 @@ graph LR
 - [[Search Index]]
 
 ### Recommended Reading Path
-1. [[Visual Story Atlas]] — diagram-first overview of the whole project
-2. [[Family Tree]] — visual map of all relationships and generations
-3. [[People Directory]] — orient yourself to people and generations
-4. [[The Copley Family Narrative]] — synthesized prose history
-5. [[Sources and Evidence Index]] — claim-by-claim evidence backbone
-6. [[Topics/Murray Settlement|Murray Settlement]] — current best framework for the immigrant community
-7. [[Topics and Themes]] — historical context and thematic research
-8. [[Research Priorities and Action Items]] — active research priorities and evidence gaps
+1. [[How to Read This Research]] — quick orientation to the project, evidence labels, and reader paths
+2. [[Visual Story Atlas]] — diagram-first overview of the whole project
+3. [[Family Tree]] — visual map of all relationships and generations
+4. [[People Directory]] — orient yourself to people and generations
+5. [[The Copley Family Narrative]] — synthesized prose history
+6. [[Sources and Evidence Index]] — claim-by-claim evidence backbone
+7. [[Topics/Murray Settlement|Murray Settlement]] — current best framework for the immigrant community
+8. [[Topics and Themes]] — historical context and thematic research
+9. [[Research Priorities and Action Items]] — active research priorities and evidence gaps
 
 ## Research Methodology
 

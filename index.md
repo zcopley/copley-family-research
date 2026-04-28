@@ -13,11 +13,14 @@ Maintained by **Zach Copley** (G26) with contributions from family members.
 
 > 📋 **New here or returning?** See what's been added or changed: [[CHANGELOG|→ View the Changelog]]
 
+> **First time here?** Start with [[How to Read This Research]] for a short guide to the site's evidence labels, major pages, and open questions.
+
 ---
 
 ## Where to Start
 
 **New to the family history?**
+→ [[How to Read This Research]] — quick orientation to the project, evidence labels, and reader paths
 → [[The Copley Family Narrative]] — the full story told in prose
 → [[Family Tree]] — visual overview of all generations at a glance
 → [Timeline](/family-timeline/) — family events in context of US, English & Irish history

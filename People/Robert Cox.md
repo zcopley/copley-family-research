@@ -4,7 +4,7 @@ aliases:
   - Bobby Cox
   - Bobby
   - Robert Anthony Cox
-date: 2026-04-17
+date: 2026-04-28
 tags:
   - "#copley-family"
   - "#generation-G27"
@@ -30,9 +30,11 @@ tags:
 
 ## Biography
 
-Bobby was born in Sacramento, CA shortly after his parents moved from Southern California to the Sacramento area. His parents divorced in 1996 when he was seven, and he split time between his mother in Granite Bay and his father (and stepmother Diana) in Rancho Cordova. His early years were marked by school changes and social difficulty, but he found his footing in high school through friendships and weightlifting.
+Bobby was born in Sacramento, California, shortly after his parents moved from Southern California to the Sacramento area. His earliest childhood was in Rancho Cordova, with family routines split between home, school, and visits with relatives. After his parents divorced in 1996, he divided time between his mother in Granite Bay and his father and stepmother in Rancho Cordova.
 
-After high school he worked various jobs (Ace Hardware, Cost Plus World Market, Farmer's Rice Co., landscaping) before dedicating himself to building his own landscaping business, which he pursued alongside academic coursework in horticulture and other subjects. He is described in the family history as deeply grateful to his family and committed to a mindful, purposeful lifestyle.
+The appendix biography is unusually candid about childhood transitions, school changes, and the difficulty of finding his footing socially. For the public page, those details are summarized at a high level: he eventually built enduring friendships, developed confidence through weight training, and found a practical path through work rather than a single linear academic route.
+
+After high school he worked various jobs, including Ace Hardware, Cost Plus World Market, Farmer's Rice Co., and landscaping. Landscaping work eventually led him to build his own business, supported by coursework and interests that included horticulture and environmental issues. He is described in the family history as grateful to his family and committed to a mindful, purposeful lifestyle.
 
 - **Father:** Robert Austin Cox (hails from Torrance, CA; advertising career)
 - **Stepmother:** Diana (originally from Brea, CA; married Bob 1998; died October 2019)

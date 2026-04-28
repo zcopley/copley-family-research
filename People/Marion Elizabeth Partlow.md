@@ -4,7 +4,7 @@ aliases:
   - Marion Partlow
   - Marion Copley
   - Dee Partlow
-date: 2026-04-17
+date: 2026-04-28
 tags:
   - "#copley-family"
   - "#generation-G24"
@@ -25,6 +25,14 @@ tags:
 - **Burial:** Sunset View Cemetery, El Cerrito, California (with Michael) — confirmed by family; Ancestry.com tree incorrectly lists Oak Point, Clark County, IL
 - **Occupation (pre-marriage):** Elementary school teacher
 - **Residence:** Champaign IL → Wyndmoor PA → Berkeley / El Cerrito CA
+
+## Biographical Narrative
+
+Marion came from the Partlow farm family near Casey, Illinois, and brought a schoolteacher's sensibility into the Copley household. The appendix sketches by Michael's sons describe her as a former elementary teacher, devoted homemaker, gardener, hostess, and steady presence during Michael Joseph Copley's academic and USDA career.
+
+Her adult life followed Michael's scientific appointments: Champaign during the University of Illinois years, Wyndmoor during the Eastern Regional Research Laboratory period, and Berkeley / Albany during the Western Regional Research Laboratory years. As director's wife during the WRRL era, she helped host visiting scientists, USDA colleagues, and guests from Washington and other regional laboratories.
+
+Family memories emphasize her practical care for her sons' education and interests. Stephen remembered her gardening, support for music lessons, and commitment to keeping the family connected with Marion's Illinois relatives. Tom remembered her as central to the household and to the social side of Michael's laboratory leadership.
 
 ## Family of Origin
 

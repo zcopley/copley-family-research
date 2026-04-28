@@ -1,6 +1,6 @@
 ---
 title: Sarah Ellen Sardo Arena
-date: 2026-04-13
+date: 2026-04-28
 tags:
   - "#copley-family"
   - "#generation-G25"
@@ -17,10 +17,22 @@ tags:
 ## Biographical Profile
 [[Sarah Ellen Sardo Arena]] is a G25 descendant in the [[Ellen Bernadine Nelle Copley Sardo|Ellen Bernadine "Nelle" Copley Sardo]] branch.
 
-- **Birth:** 19 Dec 1933 (family tree / family narrative)
+- **Birth:** 19 Dec 1933, St. Joseph's Hospital, Baltimore, Maryland
 - **Parents:** [[Ellen Bernadine Nelle Copley Sardo|Ellen Bernadine "Nelle" Copley Sardo]] and Robert Samuel Sardo
-- **Career/occupation (reported in synthesis):** social work / education / chaplain-adjacent trajectory (requires primary-source corroboration)
+- **Education:** Notre Dame College, BA in Sociology; Montessori teaching certificate; graduate study in instructional technology at San Jose State University; master's training at the Franciscan School of Theology / Graduate Theological Union
+- **Career/occupation:** Catholic Charities social worker; Montessori teacher; hospital chaplain
 - **Marriage:** Matthew Paul Arena (reported marriage: Nov 1956)
+- **Children:** Cathy, Ann Marie, Jim, Matt Jr., and John Arena
+
+## Biographical Narrative
+
+Sarah was born in Baltimore but spent her earliest years in rural Clarksville, Maryland, where her father Robert Samuel Sardo practiced medicine and the family lived across from St. Louis Catholic Church. During World War II, Robert served in the Army Air Corps and Nelle moved with Sarah and her sister [[Mary Carmella Sardo Ruland|Carmella]] to Baltimore. The appendix biography presents Catholic school, family resilience, and Nelle's example as central influences in Sarah's childhood.
+
+Education and faith run through Sarah's adult biography. She attended Notre Dame College, earned a sociology degree, and worked for Catholic Charities before marrying Matthew Paul Arena in November 1956. Sarah and Matt raised five children through moves from Maryland to Virginia Beach, Wilmington, and eventually the San Francisco Bay Area. Catholic parish life and Catholic education remained major anchors for the family in each community.
+
+After her child-rearing years, Sarah restarted her professional life in education and pastoral care. She earned a Montessori teaching certificate, taught in Montessori settings in Delaware and California, pursued graduate work in instructional technology at San Jose State, and then moved into hospital chaplaincy through theological training in Berkeley. Her chaplaincy work included St. Mary's Hospital in San Francisco, Alta Bates Hospital in Oakland, and John Muir Medical Center in Walnut Creek, where Matt also served as a Eucharistic minister.
+
+The family-authored sketch emphasizes Sarah's lifelong physical activity, love of cycling and walking, advocacy for her children, and vocation for listening to patients and families in vulnerable moments. For public use, this page keeps the biography at a high level and avoids private medical detail.
 
 ## Family Relationships
 - **Parents (G24):** [[Ellen Bernadine Nelle Copley Sardo|Ellen Bernadine "Nelle" Copley Sardo]], Robert Samuel Sardo
@@ -37,9 +49,10 @@ tags:
 
 ## Notable Context
 - Serves as a bridge from the nursing/medical Sardo household into the Arena descendant network documented in family appendices and the family-tree branch summary.
+- Carries forward several major Sardo-branch themes: Catholic education, medical service, social work, hospital ministry, and cross-country family relocation.
 
 ## Research Gaps
-1. Full education history and verified professional appointments.
+1. Verify education and chaplaincy milestones with school, parish, or hospital records where appropriate.
 2. Marriage record and location documentation.
 3. Consolidated child-by-child documentary citations (vital records, directories, obituaries where appropriate).
 
@@ -52,7 +65,6 @@ tags:
 - No high-confidence public profile identified in prior social-media research.
 
 ## Sources
-1. `/home/ubuntu/github_repos/copley-family-research/Family Tree.md` (birth date, spouse, children).
-2. `/home/ubuntu/Uploads/COPLEY HISTORY PART 1 final 2.pdf` (G25 branch listing for Sardo descendants).
-3. `/home/ubuntu/copley_research_analysis.md` (reported occupation trajectory summary).
-4. [[References/copley_social_media_profiles|copley_social_media_profiles.md]] (profile search result).
+1. `~/Downloads/Part 1 Appendices .pdf` — Sarah Ellen Sardo biographical sketch, family-authored appendix source.
+2. [[Family Tree]] — birth date, spouse, children, generation mapping.
+3. [[References/copley_social_media_profiles|copley_social_media_profiles.md]] — prior public-profile search result.

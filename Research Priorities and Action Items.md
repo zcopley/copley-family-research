@@ -4,7 +4,7 @@ aliases:
   - Research Roadmap
   - Next Steps
   - Research Agenda
-date: 2026-04-26
+date: 2026-04-28
 tags:
   - "#copley-family"
   - "#research-in-progress"
@@ -20,7 +20,7 @@ This is the public research operating list for the Copley family wiki. Use [[Sou
 | Area | Current Status | Best Next Action |
 |---|---|---|
 | Ann Munday / likely Murray | Strong working conclusion; direct identity record still missing. | Identify Ann's Kinawley Murray household and keep searching for a direct marriage, passenger, church, or child death record. |
-| Murray Settlement | Plausible high-value framework for the Lewis County Irish Catholic cluster. | Transcribe the 1826 and 1833 John Murray deed leads and complete the settlement FAN sweep. |
+| Murray Settlement | Plausible high-value framework for the Lewis County Irish Catholic cluster; April 2026 FamilySearch pass found probable "Marwee" / possible Murray entries but no confirmed deed text yet. | Search the grantee index DGS 8293314, transcribe Deed Book C-D page targets 334 and 404, and complete the settlement FAN sweep. |
 | Michael Copley Sr. origins | Kilgefin / Fairymount remains the strongest working origin. | Connect the documented Fairymount Copely family to Michael through parish, civil, or collateral records. |
 | Mary Copely Giblin / Iowa branch | Verified person; relationship to Michael is plausible but unproven. | Build the Iowa descendant chain and identify Stephen Donald Copley's parents. |
 | Copley No. 1 oil strike | Oil-strike context is verified; family financial effect remains plausible. | Locate lease, royalty, title-chain, probate, and estate records for 1899-1925. |
@@ -37,9 +37,11 @@ The highest-impact items below have practical templates in [[Tier 1 Research Exe
 ### 1. Transcribe the 1826 and 1833 John Murray Deeds
 **Relevance:** [[Topics/Murray Settlement|Murray Settlement]], [[People/Ann Copley|Ann Copley]], [[Sources and Evidence Index]]  
 **Impact:** HIGH - These deeds could show whether a Murray family anchored the settlement before Michael and Patrick Copley purchased land in 1843.  
-**Research Status:** Open; index entries are confirmed and Zach has Claude for Chrome working on FamilySearch image extraction. Findings belong in [[RQ-M1-JOHN-MURRAY-DEED-FINDINGS|RQ-M1 John Murray Deed Findings]].
+**Research Status:** Open; prior index entries are confirmed, and Claude for Chrome identified probable "Marwee" / possible Murray entries in the Deed Book C-D built-in index. The compiled Grantor Index M-S check did not show a clear Murray entry between Munson and Musgrave. Findings belong in [[RQ-M1-JOHN-MURRAY-DEED-FINDINGS|RQ-M1 John Murray Deed Findings]].
 
 **How to proceed:**
+- Search the Grantee Index G-M, DGS 8293314, for Murray, Murry, Murrey, Murroe, Murrow, Marwee, and Marree.
+- Transcribe Deed Book C-D, DGS 8219256, page 334 ("Marwee J. to J. Peck") and page 404 ("Marwee Levi wife to G.D. Camden"), plus the obscured "Marwee Sewig to John Simpson" page in the 300s.
 - Acquire or transcribe the known John Murray deed images from Lewis County records.
 - Capture date, grantor, grantee, acreage, price, watercourse, neighbors, witnesses, and legal description.
 - Compare locations to the 1843 Hoffman-Copley deed and Cove Lick / Camden / Loveberry area.
@@ -66,6 +68,7 @@ The highest-impact items below have practical templates in [[Tier 1 Research Exe
 **Research Status:** Partially complete; independent Munday/Monday households were already searched in FamilySearch for Lewis County, 1840-1860, with none found.
 
 **How to proceed:**
+- Record findings in [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]] before changing narrative conclusions.
 - Sweep 1840, 1850, 1860, and 1870 Lewis County census records for Murray, Dolan, Hanley, Gillooly, Mullooly, Hannon, Reynolds, Mulroney, Mahon, and spelling variants.
 - Prioritize households near Cove Lick, Camden, Loveberry, St. Michael's, and the Copley land cluster.
 - Record ages, birthplaces, neighbors, occupations, and adjacent surnames.

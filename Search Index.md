@@ -5,7 +5,7 @@ aliases:
   - Name Index
   - Site Index
 description: Comprehensive searchable index of all people, places, topics, and dates in the Copley Family Research Vault.
-date: 2026-04-18
+date: 2026-04-28
 tags:
   - "#index"
   - "#copley-family"
@@ -173,12 +173,12 @@ Full-text searchable index of everyone and everything in this vault. Use Ctrl+K 
 | [[People/Thomas Copley Sr\|Thomas Copley Sr.]] | Bredon's Norton patriarch; d. 1593 |
 | [[People/Thomas Copley Jr\|Thomas Copley Jr.]] | Father of Captain John Copley in current Bredon hypothesis |
 | [[People/Captain John Copley\|Captain John Copley]] | 17th-century Copley in Italy, Youghal, Kingswood ironworks, and Ireland; proposed ancestor |
-| [[People/Weeden Hoffman\|Weeden Hoffman]] | Land deed counterparty (1843) |
-| [[People/Gideon D. Camden\|Gideon D. Camden]] | Lewis County political figure |
-| [[People/Richard P. Camden\|Richard P. Camden]] | Related figure |
-| [[People/Minter Bailey\|Minter Bailey]] | Historical context |
-| [[People/Thomas Pickering\|Thomas Pickering]] | Historical context |
-| [[People/Octavius Pickering\|Octavius Pickering]] | Historical context |
+| [[People/Weeden Hoffman\|Weeden Hoffman]] | Land deed counterparty (1843); possible endpoint of Pickering / Camden / Bailey land-chain path |
+| [[People/Gideon D. Camden\|Gideon D. Camden]] | Lewis County lawyer / judge / politician; Camden, Bailey and Camden land-chain figure |
+| [[People/Richard P. Camden\|Richard P. Camden]] | Weston businessman; possible Hoffman business partner and land-chain bridge |
+| [[People/Minter Bailey\|Minter Bailey]] | Surveyor / Bailey House owner; Camden, Bailey and Camden land-chain figure |
+| [[People/Thomas Pickering\|Thomas Pickering]] | Pickering land-grant identity issue; likely Timothy Pickering in Appendix 2 context |
+| [[People/Octavius Pickering\|Octavius Pickering]] | Boston attorney; proposed assignee link from Pickering grant to Camden, Bailey and Camden |
 | Michael Patrick Dolan | father of Mary Ellen Dolan Copley; b. 1824 Cork, Ireland; d. 9 Nov 1888 Lewis Co. WV (Ancestry, unverified) |
 | Elizabeth Mullooly Dolan | mother of Mary Ellen Dolan Copley; b. May 1829 Co. Roscommon, Ireland; d. 3 May 1913 Weston WV; maiden name Mullooly (Ancestry, unverified) |
 | [[People/Benjamin Partlow\|Benjamin Partlow]] | Revolutionary War veteran (c.1762); Culpeper Co. VA; Virginia militia; ancestor of Marion Partlow; pension 1834 |
@@ -222,12 +222,15 @@ Full-text searchable index of everyone and everything in this vault. Use Ctrl+K 
 
 | Topic | Description |
 |-------|-------------|
+| [[How to Read This Research\|How to Read This Research]] | Reader orientation guide: project layers, evidence labels, starting points, core story, and open questions |
 | [[Sources and Evidence Index\|Sources and Evidence Index]] | Central claims register: evidence status, source trails, proof gaps, and rejected claims |
 | [[Topics/Bredon Descent\|Bredon Descent]] | Medieval and early modern English-origin hypothesis from Sir Richard Copley through Captain John |
 | [[Topics/Captain John Copley Research\|Captain John Copley Research]] | Primary-source research on Captain John, Roscommon Copelys, and competing origin hypotheses |
 | [[Topics/Murray Settlement\|Murray Settlement]] | Coordinated Irish/Catholic settlement hypothesis in Lewis County; Murray, Copley, Dolan, Hanley, Hannon network |
 | [[Topics/Murray Settlement Research Roadmap\|Murray Settlement Research Roadmap]] | RQ-M1 through RQ-M8 research strategy and evidence thresholds |
-| [[RQ-M1-JOHN-MURRAY-DEED-FINDINGS\|RQ-M1 John Murray Deed Findings]] | Findings log for 1826/1833 John Murray deed index leads and future deed-text transcription |
+| [[RQ-M1-JOHN-MURRAY-DEED-FINDINGS\|RQ-M1 John Murray Deed Findings]] | Findings log for 1826/1833 John Murray deed index leads, Marwee / possible Murray Deed Book C-D targets, and future deed-text transcription |
+| [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP\|RQ-M1 Lewis County FAN Sweep]] | Findings log for Murray / Copley / settlement-family census and neighbor-network research in Lewis County, 1840-1870 |
+| [[References/Claude for Chrome Lewis County Deed Research Brief\|Claude for Chrome Lewis County Deed Research Brief]] | FamilySearch deed-index handoff for Lewis County Murray / Marwee research |
 | [[Topics/1900 Copley Oil Strike\|1900 Copley Oil Strike]] | Copley No. 1 well, South Penn Oil, ~4,800 bbl/day, Lewis County |
 | [[Topics/Irish Famine and Emigration\|Irish Famine & Emigration]] | 1840s–50s emigration context for Copley/Munday families |
 | [[Topics/Irish Immigration to West Virginia\|Irish Immigration to WV]] | Settlement patterns in Lewis/Marshall counties |
@@ -304,4 +307,4 @@ Full-text searchable index of everyone and everything in this vault. Use Ctrl+K 
 
 ## Research Keywords
 
-Evidence Index · Claims Register · Source Backbone · Civil War · Union Army · Quartermaster · NARA · naturalization · B&O Railroad · Staunton-Parkersburg Turnpike · Murray Settlement · Irish Settlement · John Murray deed findings · 1826 Murray Fish deed · 1833 John Murray deed · RQ-M1 · South Penn Oil · Lewis County deed · probate · County Roscommon · Kilgefin · Fairymount · Kinawley · Famine · emigration · immigration · Kutusoff · Powhatan · passenger manifest · Bredon Descent · Captain John Copley · Woolbedding · Bredon's Norton · recusancy · crypto-Catholic · Mary Copely Giblin · Iowa Copley · Crawford County Iowa · USDA · Eastern Regional Research Laboratory · Western Regional Research Laboratory · ERRL · WRRL · Catholic University · University of Illinois · UIUC · UC Berkeley · Penn State · Pratt & Whitney · USC · IIT · Illinois Institute of Technology · ASM International · ASMI · Society of Engineering Science · SES · Tuttle Publishing · bento · Wendolonia · Unite Us · Social Vocational Services · SVS · Harbor Regional Center · World Bank · Brookings Institution · London School of Economics · LSE · genealogy · census · vital records · baptism · marriage certificate · Irish ancestry · Copley Road · Cove Lick · Weston · Jane Lew · Clarksburg · Sardo · Arena · Ruland · Dolan · Murray · Munday · Copely · Partlow · LaForce · Gillooly · Hannon · Reynolds · Quinn · Flesch · Meier · Geist · Bird · Cox · Todd · Thornton · Dawson · Thorpe · Barthelme · VanderMolen · Leonhardt · Brune · Breen · Donner Party · San Juan Bautista · materials science · hydrogen bonding · frozen food · food dehydration · synthetic rubber · marketing · consumer behavior · Antioch College · Arlington Courseware · drtoy.com · Electronic University
+Evidence Index · Claims Register · Source Backbone · Civil War · Union Army · Quartermaster · NARA · naturalization · B&O Railroad · Staunton-Parkersburg Turnpike · Murray Settlement · Irish Settlement · John Murray deed findings · Lewis County FAN sweep · census neighbors · FAN club · 1826 Murray Fish deed · 1833 John Murray deed · Marwee · Murray variant · Lewis County grantee index · Deed Book C-D · RQ-M1 · South Penn Oil · Lewis County deed · probate · County Roscommon · Kilgefin · Fairymount · Kinawley · Famine · emigration · immigration · Kutusoff · Powhatan · passenger manifest · Bredon Descent · Captain John Copley · Woolbedding · Bredon's Norton · recusancy · crypto-Catholic · Mary Copely Giblin · Iowa Copley · Crawford County Iowa · USDA · Eastern Regional Research Laboratory · Western Regional Research Laboratory · ERRL · WRRL · Catholic University · University of Illinois · UIUC · UC Berkeley · Penn State · Pratt & Whitney · USC · IIT · Illinois Institute of Technology · ASM International · ASMI · Society of Engineering Science · SES · Tuttle Publishing · bento · Wendolonia · Unite Us · Social Vocational Services · SVS · Harbor Regional Center · World Bank · Brookings Institution · London School of Economics · LSE · genealogy · census · vital records · baptism · marriage certificate · Irish ancestry · Copley Road · Cove Lick · Weston · Jane Lew · Clarksburg · Sardo · Arena · Ruland · Dolan · Murray · Munday · Copely · Partlow · LaForce · Gillooly · Hannon · Reynolds · Quinn · Flesch · Meier · Geist · Bird · Cox · Todd · Thornton · Dawson · Thorpe · Barthelme · VanderMolen · Leonhardt · Brune · Breen · Donner Party · San Juan Bautista · materials science · hydrogen bonding · frozen food · food dehydration · synthetic rubber · marketing · consumer behavior · Antioch College · Arlington Courseware · drtoy.com · Electronic University

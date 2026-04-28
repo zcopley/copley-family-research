@@ -2,7 +2,7 @@
 title: Peter Copley
 aliases:
   - Peter G. Copley
-date: 2026-04-17
+date: 2026-04-28
 tags:
   - "#copley-family"
   - "#generation-G26"
@@ -39,6 +39,14 @@ tags:
 - Travelers Insurance Company
 - Software developer / business and data analyst (second career, ~2000s–present)
 - Musician (collaborated with friend Evan Avery; brother Philip; band called ESP in junior high)
+
+## Biographical Narrative
+
+Peter was born in New Haven while the family lived in Madison, Connecticut, and moved to Palos Verdes Estates at age four when his father joined USC. His appendix sketch presents the Palos Verdes years as a mix of school, music, soccer, family activity, and academic gatherings hosted by his parents.
+
+Music is one of the strongest through-lines in Peter's biography. He took piano lessons, sang in school, formed the junior-high band ESP with Evan Avery and his brother [[Philip Copley]], and later worked with Philip on a holiday recording project. The appendix also describes a family band project supported by [[Stephen Michael Copley|his father]] and a memorable roller-rink performance in Palos Verdes.
+
+After USC, Peter moved through bookstore, performance, insurance, and SVS work before retraining for information technology at DeVry. That retraining led into a second career as a software developer, business analyst, and data analyst. He and Karen VanderMolen bought a home in Fillmore, California, in 2009 and married in 2012.
 
 ## Family Relationships
 

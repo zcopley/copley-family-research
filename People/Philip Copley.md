@@ -1,6 +1,6 @@
 ---
 title: Philip Copley
-date: 2026-04-23
+date: 2026-04-28
 tags:
   - "#copley-family"
   - "#generation-G26"
@@ -55,11 +55,11 @@ tags:
 4. Current location and residence not documented
 5. Spouse Tracy Siler's biographical details not yet documented
 6. Children's details (middle names, birthdates, birthlocation) incomplete
-7. Biographical sketch from family history not yet incorporated
+7. No separate first-person appendix sketch has been located in `Part 1 Appendices`; current details come from related family sketches, especially Peter's music references and Stephen's family chronology.
 
 ## Sources
 
 1. [[Family Tree]] — node label and generation mapping.
-2. `~/Downloads/Part 1 Appendices .pdf` — Stephen Copley biographical sketch.
+2. `~/Downloads/Part 1 Appendices .pdf` — Stephen Copley and Peter Copley biographical sketches.
 3. [[Stephen Michael Copley]] — father's profile provides family context, residences, and education details.
 4. [[Peter Copley]] — brother's profile mentions shared band membership.

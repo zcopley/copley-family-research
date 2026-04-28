@@ -135,11 +135,11 @@ Use this directory to find profiles for specific people. Start at the generation
 - Gap: census and city-directory continuity.
 
 ### [[Ellen Bernadine Nelle Copley Sardo|Ellen Bernadine "Nelle" Copley Sardo]] (1897–1977)
-- Registered nurse and educator; key Maryland branch matriarch.
+- Registered nurse, nursing educator, St. Joseph Hospital volunteer leader, and key Maryland branch matriarch.
 - Parent of Phase 1B G25 descendants: [[Sarah Ellen Sardo Arena]], [[Mary Carmella Sardo Ruland]].
 
 ### [[Michael Joseph Copley]] (1898–1988)
-- Research chemist; BS Catholic University; PhD University of Illinois; USDA leadership.
+- Research chemist; BS Catholic University; PhD University of Illinois; USDA laboratory leader in Wyndmoor and Albany.
 - Parent of Phase 1B G25 descendants: [[Stephen Michael Copley]], [[Thomas Partlow Copley]].
 
 ---
@@ -148,7 +148,7 @@ Use this directory to find profiles for specific people. Start at the generation
 
 ### [[Sarah Ellen Sardo Arena]]
 - Child of [[Ellen Bernadine Nelle Copley Sardo|Ellen Bernadine "Nelle" Copley Sardo]] and Robert Samuel Sardo.
-- Arena branch connector; profile expanded with evidence gaps/strategies.
+- Arena branch connector; Notre Dame College graduate, Montessori teacher, and later hospital chaplain.
 
 ### [[Mary Carmella Sardo Ruland]]
 - Child of [[Ellen Bernadine Nelle Copley Sardo|Ellen Bernadine "Nelle" Copley Sardo]] and Robert Samuel Sardo.
@@ -170,24 +170,25 @@ Use this directory to find profiles for specific people. Start at the generation
 ## G27 — Expanded Descendant Network
 
 ### [[Marcia Thornton Copley]]
-- Spouse connection in Stephen line.
+- First wife of [[Stephen Michael Copley]]; Harbor Regional Center and SVS disability-services connection.
 
 ### [[Judith Ann Todd Copley]]
-- Spouse connection in Stephen line.
+- Second wife of [[Stephen Michael Copley]]; Cambridge-trained materials scientist, Penn State department head, and engineering-society leader.
 
 ### Children identified in appendices
 - [[Michael Copley (b. 1959)]], [[Sara Copley Cox]], [[Philip Copley]], [[Paul Copley]], [[Peter Copley]], [[Susan Copley]], [[Stephen Joseph Copley]], [[Amy E. Copley Geist]]
 
 Gaps for this generation:
-- Standardized biographies (Q33–Q35 scope)
+- Standardized biographies for profiles without dedicated first-person appendix sketches
 - Uniform source citations for education/profession/life events
+- Privacy-aware handling of living-person details and sensitive disability-care history
 
 ---
 
 ## G28 — Recent Generations (Selected)
 
 ### [[Robert Cox]]
-- Descendant in Cox line; appears in modern narrative sections.
+- Cox-line descendant; appendix-backed profile includes Sacramento / Granite Bay context and landscaping-business path.
 
 ### Additional descendants
 - Multiple branch descendants appear in Appendix narratives; many require privacy-sensitive treatment and consent-aware documentation.
@@ -205,10 +206,12 @@ Gaps for this generation:
 ### Land-chain figures (contextual)
 - [[Weeden Hoffman]], [[Thomas Pickering]], [[Octavius Pickering]], [[Gideon D. Camden]], [[Richard P. Camden]], [[Minter Bailey]].
 
+Appendix 2, "Origin of the Copley Farm," ties these figures to the proposed land path behind the 1843 Hoffman-to-Copley purchase. Treat the chain as a working hypothesis until Virginia land-office and Lewis County deed records are checked.
+
 ---
 
 ## Key Source Notes
 
-- Family analysis synthesis: `/home/ubuntu/copley_research_analysis.md`
-- Phase 1 findings report: `/home/ubuntu/copley_research_findings.md`
+- Family analysis synthesis: [[copley_research_analysis]]
+- Phase 1 findings report: [[copley_research_findings]]
 - Supporting links include FamilySearch, NARA, HMDB, county histories and archival indexes (see [[Bibliography and Acquisition Guide]]).

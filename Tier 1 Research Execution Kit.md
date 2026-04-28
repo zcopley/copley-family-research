@@ -5,7 +5,7 @@ aliases:
   - Tier 1 Execution Kit
   - Source Request Templates
 description: Ready-to-use request templates, transcription fields, and evidence-capture checklists for the highest-value Copley family research tasks.
-date: 2026-04-26
+date: 2026-04-28
 tags:
   - "#copley-family"
   - "#research-in-progress"
@@ -39,6 +39,14 @@ When a search produces a record, a negative result, or a corrected claim:
 
 **Primary pages:** [[RQ-M1-JOHN-MURRAY-DEED-FINDINGS|RQ-M1 John Murray Deed Findings]], [[Topics/Murray Settlement]], [[People/Ann Copley]], [[Sources and Evidence Index]]
 
+**Current FamilySearch targets from April 28, 2026 Claude for Chrome brief:**
+
+- Grantee Index G-M, 1817-1934: Film 819925, DGS 8293314
+- Deed Book C-D, 1824-1834: Film 818742, DGS 8219256
+- Possible "Marwee" / Murray page targets in Deed Book C-D: page 334, obscured page in the 300s, and page 404
+- Variant spellings to check: Murray, Murry, Murrey, Murroe, Murrow, Marwee, Marree
+- Negative check already recorded: compiled Grantor Index M-S, DGS 8293317, image 60, did not show clear Murray between Munson and Musgrave
+
 ### Request Template: Lewis County Clerk / FamilySearch Helper
 
 Subject: Lewis County WV deed lookup request - John Murray, 1826 and 1833
@@ -49,10 +57,11 @@ I am researching early Lewis County land records connected to the Irish Catholic
 
 Could you please help identify or provide copies/transcriptions for any deed-book entries matching:
 
-- Name: John Murray, with possible variants Murry / Murrey
+- Name: John Murray, with possible variants Murry / Murrey / Murroe / Murrow / Marwee / Marree
 - County: Lewis County, Virginia / West Virginia
 - Date range: 1820-1840, with priority on 1826 and 1833
 - Record type: deed, land purchase, land sale, lease, or related land instrument
+- Specific FamilySearch targets: Grantee Index G-M DGS 8293314, Deed Book C-D DGS 8219256 pages 334 and 404, and an obscured "Marwee" page in the 300s
 
 For each matching record, I am hoping to capture the book/page, date, grantor, grantee, acreage, price, watercourse or land description, neighbors, witnesses, and any index references.
 
@@ -154,7 +163,7 @@ I would appreciate any catalogue references, access instructions, copy options, 
 
 **Goal:** Reconstruct the friends / associates / neighbors network around the Copley, Murray, Dolan, Hanley, Hannon, Gillooly, and related families.
 
-**Primary pages:** [[Topics/Murray Settlement]], [[Topics/Irish Immigration to West Virginia]], [[People/Michael Copley Sr]]
+**Primary pages:** [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]], [[Topics/Murray Settlement]], [[Topics/Irish Immigration to West Virginia]], [[People/Michael Copley Sr]]
 
 ### Scope
 
@@ -163,6 +172,8 @@ Search 1840, 1850, 1860, and 1870 Lewis County census records and early deed ind
 Murray, Murry, Murrey, Copley, Copely, Dolan, Hanley, Gillooly, Gilhooly, Mullooly, Hannon, Reynolds, Mulroney, Mahon, Giblin, Munday, Monday, and Mundy.
 
 ### Census Capture Table
+
+Enter final findings in [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]].
 
 | Year | Household | Age(s) | Birthplace(s) | Occupation(s) | District / locality | Adjacent households | Irish surnames nearby | Source citation | Notes |
 |---|---|---|---|---|---|---|---|---|---|

@@ -1,6 +1,6 @@
 ---
 title: Michael Copley (b. 1959)
-date: 2026-04-23
+date: 2026-04-28
 tags:
   - "#copley-family"
   - "#generation-G26"
@@ -55,10 +55,10 @@ tags:
 2. Educational institution(s) beyond USC not documented
 3. Occupation and career path not yet detailed
 4. Current location and residence not documented
-5. Biographical sketch from family history not yet incorporated
+5. No separate first-person appendix sketch has been located in `Part 1 Appendices`; current details come from related family sketches.
 
 ## Sources
 
 1. [[Family Tree]] — node label and generation mapping.
-2. `~/Downloads/Part 1 Appendices .pdf` — Stephen Copley biographical sketch (contains reference to Michael as eldest child).
+2. `~/Downloads/Part 1 Appendices .pdf` — Stephen Copley and Sara Cox biographical sketches (family-context references to Michael as eldest child).
 3. [[Stephen Michael Copley]] — father's profile provides family context and residences.

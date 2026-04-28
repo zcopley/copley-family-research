@@ -4,7 +4,7 @@ aliases:
   - Amy Copley
   - Amy Geist
   - Amy Elizabeth Copley Geist
-date: 2026-04-17
+date: 2026-04-28
 tags:
   - "#copley-family"
   - "#generation-G26"
@@ -46,6 +46,16 @@ tags:
 - Research and Project Coordinator, Brookings Africa Growth Initiative (March 2014 – September 2018)
 - Analyst, World Bank Africa Gender Innovation Lab (2018–present)
   - Conducts rigorous research on development programming in Sub-Saharan Africa, focused on closing gender gaps in economic outcomes
+
+## Biographical Narrative
+
+Amy grew up in a household deeply connected to engineering, professional societies, and international travel. The appendix biography emphasizes that traveling with her parents to engineering meetings and being around engineers from many countries helped shape her interest in global cultures from an early age. French au pairs in Hinsdale also helped spark her long-term interest in French language and Francophone cultures.
+
+Her childhood was divided between Hinsdale, Illinois, and State College, Pennsylvania. After the family moved to State College in 2002 for [[Judith Ann Todd Copley|Judy Todd Copley]]'s Penn State role, Amy built a new social world through school and soccer, eventually attending Penn State herself. Her study abroad in Lille and Dakar, along with later research exposure in Kenya and Rwanda, led her toward international development work.
+
+After graduate study at the London School of Economics, Amy moved to Washington, DC, where she worked at Brookings before joining the World Bank's Africa Gender Innovation Lab. Her appendix sketch connects that work to a broader interest in evidence-based development programming, gender gaps, and policy impact in Sub-Saharan Africa.
+
+Amy married Nathan Geist in State College on June 19, 2021. They live in Maryland with their son [[William S. Geist|William Stephen Geist]].
 
 ## Family Relationships
 

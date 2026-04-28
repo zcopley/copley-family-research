@@ -13,10 +13,23 @@ Last updated: 2026-04-28
 
 ## Current Goal
 
-Track and document Zach's Partlow paternal line back to a potential American Revolution ancestor, Benjamin Partlow of Culpeper County, Virginia, while separating family-manuscript leads from original-record proof.
+Continue priority evidence work for the Copley family wiki, with the active Murray Settlement deed task now focused on the FamilySearch grantee-index search and Deed Book C-D "Marwee" / possible Murray page targets.
 
 ## What Was Just Completed
 
+- Integrated Zach's April 28, 2026 Claude for Chrome Lewis County deed research brief into the public research path.
+- Created `References/Claude for Chrome Lewis County Deed Research Brief.md`.
+- Updated `RQ-M1-JOHN-MURRAY-DEED-FINDINGS.md` with:
+  - FamilySearch catalog / film / DGS targets for Lewis County deed records.
+  - Deed Book C-D DGS 8219256 structure.
+  - Probable "Marwee" / possible Murray entries on pages 334, obscured 3??, and 404.
+  - Negative compiled Grantor Index M-S finding from DGS 8293317 image 60.
+  - Priority workflow to search Grantee Index G-M DGS 8293314 and transcribe the target deed pages.
+- Updated `Sources and Evidence Index.md`, `Research Priorities and Action Items.md`, `Tier 1 Research Execution Kit.md`, `Topics/Murray Settlement.md`, `Topics/Murray Settlement Research Roadmap.md`, `Visual Story Atlas.md`, `Search Index.md`, and `CHANGELOG.md` so the Murray deed task now points to the grantee-index / page-target workflow while keeping the evidence status inconclusive.
+- Ran `npm run check:mermaid` successfully.
+- Ran `npm run build` successfully; build processed 135 Markdown files and emitted only existing LaTeX unicode warnings. Reverted regenerated `public/` output so the working diff stays source-only.
+- Created `RQ-M1-LEWIS-COUNTY-FAN-SWEEP.md` as the controlled landing page for incoming Ancestry / FamilySearch census neighbor research while waiting on Claude for Chrome.
+- Linked the new FAN sweep log from `Research Priorities and Action Items.md`, `Tier 1 Research Execution Kit.md`, `Sources and Evidence Index.md`, `Topics/Murray Settlement.md`, `Topics/Murray Settlement Research Roadmap.md`, `Search Index.md`, and `CHANGELOG.md`.
 - Completed a focused Partlow Revolutionary line research pass and handoff.
 - Reviewed local Partlow images in `/mnt/c/Users/zach/Desktop/Partlow`; extracted Benjamin Partlow pension-cover details from `IMG_2437.jpg`.
 - Found online leads for the Partlow proof chain:
@@ -135,7 +148,7 @@ Track and document Zach's Partlow paternal line back to a potential American Rev
 - `Tier 1 Research Execution Kit.md` is now the practical action layer for the top roadmap items.
 - `Visual Story Atlas.md` is now the diagram-first public entry point for the story, evidence status, and research quests.
 - `RQ-M1-JOHN-MURRAY-DEED-FINDINGS.md` now exists as the place to paste John Murray deed images, transcripts, abstracts, and interpretation.
-- The Murray deed image/transcription task is paused with Claude for Chrome; index entries are confirmed, but deed texts are still pending.
+- The Murray deed task now has a Claude for Chrome handoff integrated into the wiki. Prior 1826/1833 index entries are still open, and the new Deed Book C-D "Marwee" / possible Murray entries are promising but unconfirmed. Deed texts are still pending.
 - `RQ-P1-PARTLOW-REVOLUTIONARY-LINE.md` is now the active Partlow proof-chain log.
 - `References/Harry C Partlow 1960 Letter and Handwritten Lineage.md` is the local family-source note for the 1960 Harry Partlow letter and 1977 handwritten lineage.
 - The Partlow working line is: Marion Elizabeth Partlow Copley -> Nollie Franklin / Frank Partlow -> Marion McDonald / M. Partlow -> John H. / John Halleck / Hallick Partlow -> Jacob Partlow / Jacob Newton Partlow -> Benjamin Partlow.
@@ -160,10 +173,13 @@ Track and document Zach's Partlow paternal line back to a potential American Rev
   - Use the execution kit to carry out one Tier 1 task when source access is available, starting with the John Murray deeds if Zach/Claude for Chrome provides images
   - Add deeper topic-specific diagrams only when a page gains new evidence or when a visual would clarify a concrete relationship not already covered by the atlas
   - Work on non-Murray family gaps such as the Stephen line documentation, Iowa Copely descendants, or oil-strike lease/probate context
-- Paused Murray task to remember later:
-  - Transcribe the 1826 and 1833 John Murray deeds in Lewis County
-  - Reminder: Zach has Claude for Chrome working on extracting these FamilySearch deed images; follow up if no deed images/transcription have been provided.
+- Murray deed next steps:
+  - Search the Lewis County Grantee Index G-M, DGS 8293314, for Murray, Murry, Murrey, Murroe, Murrow, Marwee, and Marree.
+  - Transcribe Deed Book C-D, DGS 8219256, page 334, page 404, and the obscured "Marwee Sewig" page in the 300s.
   - Add any resulting images, citation paths, transcripts, abstracts, and interpretation first to `RQ-M1-JOHN-MURRAY-DEED-FINDINGS.md`, then update `Sources and Evidence Index.md`, `Topics/Murray Settlement.md`, `Research Priorities and Action Items.md`, and `People/Ann Copley.md` if the deeds materially affect the Ann/Murray hypothesis.
+- FAN sweep next step while waiting on Claude for Chrome:
+  - Paste incoming Ancestry census / neighbor findings into `RQ-M1-LEWIS-COUNTY-FAN-SWEEP.md`.
+  - Preserve exact indexed names, written names, image/page URLs, 10-15 neighboring households, and negative surname searches before updating narrative pages.
 - Fold in any further Tom Copley corrections as they arrive, keeping the Bredon narrative aligned with family research.
 
 ## Active Files

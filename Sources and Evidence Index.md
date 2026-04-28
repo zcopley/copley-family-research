@@ -5,7 +5,7 @@ aliases:
   - Source Backbone
   - Claims Register
 description: Central evidence backbone for the Copley Family Research Vault, linking major claims to source status, supporting pages, and next proof targets.
-date: 2026-04-26
+date: 2026-04-28
 tags:
   - "#copley-family"
   - "#evidence"
@@ -19,6 +19,8 @@ tags:
 This page is the evidence backbone for the vault. It does not replace the detailed person, topic, and reference pages. Instead, it answers the control question for the whole project:
 
 **What do we think we know, how strong is the evidence, and where is the proof trail?**
+
+If you are new to the project, start with [[How to Read This Research]] for a short guide to the site's major layers, reader paths, and confidence labels.
 
 For a visual overview of the claim landscape, see [[Visual Story Atlas]]. For ready-to-use source request templates, transcription fields, and evidence-capture forms for the highest-value gaps, see [[Tier 1 Research Execution Kit]].
 
@@ -44,7 +46,7 @@ For a visual overview of the claim landscape, see [[Visual Story Atlas]]. For re
 | Michael Copley Sr. and Patrick Copley were close kin and jointly settled land in Lewis County. | Verified for 1843 deed; relationship from family context | 1843 Hoffman-Copley deed image; family narrative and sibling reconstruction. | [[People/Michael Copley Sr]], [[People/Patrick Copley]], [[People/Weeden Hoffman]], [[Family Tree]] | Full courthouse transcription of the 1843 deed and any later Patrick records. |
 | Ann Copley was recorded in American family memory as Ann Munday but was probably Ann Murray. | Strong working conclusion | 14 Murray occupiers in Kinawley Griffith's Valuation; 0 Munday in Kinawley/all Fermanagh; 0 independent Munday households in Lewis County, 1840-1860; Tithe search closed as coverage gap. | [[People/Ann Copley]], [[RQ-M5-PHASE-2-FINDINGS]], [[Topics/Murray Settlement]] | Direct marriage, passenger, church, or child death record naming Ann's maiden surname. |
 | Ann came from Kinawley, County Fermanagh. | Strong working conclusion | Family tradition / compiled family history; Kinawley research now linked to Murray surname evidence. | [[People/Ann Copley]], [[Places/Kinawley Ireland]], [[The Copley Family Narrative]] | Direct Irish baptism, marriage, or U.S. record naming birthplace and surname. |
-| The Lewis County Irish community is best understood through the Murray Settlement framework. | Plausible and high-value research framework | Settlement name; Murray, Copley, Dolan, Hanley, Hannon, and related surname clustering; St. Michael's / turnpike leads; Roscommon estate-mate evidence; [[RQ-M1-JOHN-MURRAY-DEED-FINDINGS|John Murray deed findings log]] tracks the 1826/1833 deed leads. | [[Topics/Murray Settlement]], [[Topics/Irish Immigration to West Virginia]], [[Topics/Murray Settlement Research Roadmap]] | 1826/1833 John Murray deed texts, parish records, and early census/deed FAN sweep. |
+| The Lewis County Irish community is best understood through the Murray Settlement framework. | Plausible and high-value research framework | Settlement name; Murray, Copley, Dolan, Hanley, Hannon, and related surname clustering; St. Michael's / turnpike leads; Roscommon estate-mate evidence; [[RQ-M1-JOHN-MURRAY-DEED-FINDINGS|John Murray deed findings log]] tracks the 1826/1833 deed leads and the April 2026 FamilySearch "Marwee" / possible Murray index findings; [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|Lewis County FAN sweep]] is the census-neighbor findings log. | [[Topics/Murray Settlement]], [[Topics/Irish Immigration to West Virginia]], [[Topics/Murray Settlement Research Roadmap]] | FamilySearch grantee-index search, Deed Book C-D page 334/404 transcription, parish records, and early census/deed FAN sweep. |
 | The Staunton-Parkersburg Turnpike is a stronger local labor lead than a narrow B&O-only explanation. | Plausible / pending verification | Ancestry forum lead integrated into Murray Settlement research; broader Irish infrastructure-labor context. | [[Topics/B&O Railroad Labor History]], [[Topics/Irish Immigration to West Virginia]] | WV State Archives turnpike records, contractor records, payrolls, or county histories. |
 | The 1837 *Kutusoff* and 1838 *Powhatan* passenger records are central to the migration story. | Verified for record existence; details need careful transcription | Manifest images and prior research synthesis identify Copley/Copely-linked arrivals. | [[People/Michael Copley Sr]], [[People/Patrick Copley]], [[Topics/Irish Famine and Emigration]], [[The Copley Family Narrative]] | Full manifest transcription for all settlement surnames and age/sex correlation. |
 | Mary Copely Giblin of Crawford County, Iowa, was likely close kin to Michael Copley Sr. | Verified person; plausible relationship | Find a Grave / cemetery evidence: born 1814 in Tully, Kilcorkey, Roscommon; died 1884 in Iowa. Relationship inference from date, place, spelling, and migration era. | [[People/Mary Copely Giblin]], [[Family Tree]], [[The Copley Family Narrative]] | Baptism, marriage, ship, probate, or Iowa family record naming parents or siblings. |
@@ -77,6 +79,7 @@ For a visual overview of the claim landscape, see [[Visual Story Atlas]]. For re
 | *Powhatan* and *Kutusoff* passenger manifests | Passenger lists | Establish Copley/Copely migration trail and possible companion surnames. |
 | Irish civil registration for William and Michael Copely of Fairymount | Civil records | Establishes Catholic Copely presence in Kilgefin after emigration. |
 | Griffith's Valuation searches | Land valuation | Supports Murray/Copley/Dolan/Hanley/Hannon geographic clustering and Ann Murray hypothesis. |
+| Claude for Chrome Lewis County deed-index pass | Research handoff / FamilySearch navigation note | Identifies probable "Marwee" / possible Murray entries in Deed Book C-D and a negative compiled grantor-index check; requires deed-text confirmation. |
 | 1634 Visitation of Worcestershire | Heraldic/genealogical primary source | Documents Captain John, Thomas Copley Sr./Jr. family structure, and Margaret Newport. |
 | 1642 House of Commons journal | Parliamentary source | Documents John Copley's Ireland petition. |
 | 1651 Youghal council book | Municipal record | Documents Captain Copley in Youghal. |
@@ -92,7 +95,7 @@ For a visual overview of the claim landscape, see [[Visual Story Atlas]]. For re
 |---|---|---|
 | Michael Copley Sr.'s parents | Would anchor the immigrant generation in Ireland. | Search Kilgefin/Fairymount/Cloontuskert Catholic records, civil collateral records, and local estate material. |
 | Ann's direct maiden-name record | Would settle Munday/Murray conclusively. | Search marriage, passenger, St. Michael's, child death, and Kinawley church records. |
-| 1826 and 1833 John Murray deed texts | Would test whether Murrays anchored the Lewis County settlement before the Copleys. | Add images, transcripts, and interpretation to [[RQ-M1-JOHN-MURRAY-DEED-FINDINGS|RQ-M1 John Murray Deed Findings]]. |
+| 1826 and 1833 John Murray deed texts, plus Deed Book C-D "Marwee" page targets | Would test whether Murrays anchored the Lewis County settlement before the Copleys. | Search grantee index DGS 8293314, transcribe Deed Book C-D pages 334 and 404 plus the obscured 3?? target, and add images / transcripts / interpretation to [[RQ-M1-JOHN-MURRAY-DEED-FINDINGS|RQ-M1 John Murray Deed Findings]]. |
 | Full Copley-Hoffman deed transcription | Would improve land-location and neighbor analysis. | Transcribe from existing image and/or courthouse record. |
 | St. Michael's Church early records | Could identify parishioners, marriages, sponsors, and settlement founders. | Contact Diocese of Wheeling-Charleston. |
 | Staunton-Parkersburg Turnpike documentation | Would validate the stronger local labor-context lead. | Search WV State Archives and county histories. |

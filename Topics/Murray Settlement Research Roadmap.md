@@ -1,6 +1,6 @@
 ---
 title: Murray Settlement Research Roadmap
-date: 2026-04-23
+date: 2026-04-28
 tags:
   - "#copley-family"
   - "#irish-ancestors"
@@ -107,9 +107,9 @@ graph TD
 
 | Action | Where | Time | Verdict Impact |
 |--------|-------|------|-----------------|
-| Search Lewis County deed records for "Murray" 1825–1855 | Weston Courthouse / FamilySearch | 2–3 hrs | **CRITICAL:** Identifies anchor family arrival date |
+| Search Lewis County deed records for "Murray" and variants, including "Marwee" | Weston Courthouse / FamilySearch grantee index DGS 8293314 and Deed Book C-D DGS 8219256 | 2–3 hrs | **CRITICAL:** Identifies anchor family arrival date |
 | Full *Powhatan* 1838 passenger manifest scan | Ancestry / FamilySearch NARA M237 | 1 hr | **HIGH:** Shows if Murrays/Dolans traveled with Copleys |
-| 1840 Lewis County census FAN sweep | FamilySearch | 2–3 hrs | **HIGH:** Enumerates full settlement membership |
+| 1840-1870 Lewis County census FAN sweep | Ancestry / FamilySearch; capture in [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]] | 2–3 hrs | **HIGH:** Enumerates full settlement membership |
 | Contact Diocese of Wheeling-Charleston | archive request | email | **HIGH:** St. Michael's Church marriage records may show Ann's maiden name |
 | Search "Murray" Griffith's Valuation other Roscommon parishes | askaboutireland.ie | 1–2 hrs | **MEDIUM:** Confirms Murrays in Roscommon origin cluster |
 
@@ -131,8 +131,8 @@ graph TD
 - ❌ **"No Murrays found"** — Hypothesis refuted; "Murray's Settlement" name origin unresolved
 
 **Primary Sources to Search:**
-1. **Lewis County deed records (1825–1855)** — Weston Courthouse, FamilySearch. Look for any "Murray" land purchase in Cove Lick/Camden/Loveberry area
-2. **US Census 1840, 1850, 1860** — FamilySearch. FAN-club sweep: all Irish surnames within Copley settlement zone
+1. **Lewis County deed records (1825–1855)** — Weston Courthouse, FamilySearch. Look for any "Murray" land purchase in Cove Lick/Camden/Loveberry area. Current FamilySearch targets include the grantee index DGS 8293314 and Deed Book C-D DGS 8219256 pages 334, obscured 3??, and 404 for "Marwee" / possible Murray entries.
+2. **US Census 1840, 1850, 1860, 1870** — Ancestry / FamilySearch. FAN-club sweep: all Irish surnames within Copley settlement zone; capture raw findings in [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]]
 3. **Lewis County local histories** — *History of Lewis County, West Virginia* (1881+), Archive.org, HathiTrust. May contain founding narratives
 4. **Catholic parish records (St. Michael's Church)** — Diocese of Wheeling-Charleston archive. Marriage/baptism records 1838–1870 showing Murray witnesses/godparents
 
@@ -434,12 +434,12 @@ graph LR
 ## 🎬 Action Plan: Next 4 Weeks
 
 **Week 1: Tier 1 Quick Wins**
-- [ ] Lewis County deed records search (RQ-M1)
+- [ ] Lewis County grantee-index and "Marwee" / Murray page-target search (RQ-M1)
 - [ ] Full *Powhatan* manifest (RQ-M2)
 - [ ] Griffith's Valuation remaining families (RQ-M3, RQ-M7)
 
 **Week 2: Census & Roscommon Records**
-- [ ] 1840/1850 Lewis County census FAN sweep (RQ-M1, RQ-M2)
+- [ ] 1840-1870 Lewis County census FAN sweep in [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]] (RQ-M1, RQ-M2)
 - [ ] Kinawley Murray father-candidate workup and Lewis County John Murray deed transcription (RQ-M5)
 - [ ] Roscommon Journal searches (RQ-M6)
 
@@ -494,5 +494,5 @@ graph LR
 
 ---
 
-**Last updated:** April 23, 2026  
+**Last updated:** April 28, 2026  
 **Next review:** After completing Weeks 1–2 research actions
