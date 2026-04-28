@@ -30,10 +30,18 @@ tags:
 
 The Partlow family immigrated from **Wales** to Virginia before the Revolutionary War, then moved west to Indiana, then Illinois. They owned a large farm near **Casey, Illinois**. A Revolutionary War ancestor, **[[Benjamin Partlow]]**, served in the Virginia militia under Capt. Coxen and Capt. Rogers, guarding British prisoners at the Albemarle Barracks (Culpeper County, VA).
 
-- **Father:** Nollie Franklin Partlow (b. 8 Oct 1874, Johnson Township, Clark County, IL; d. 21 Nov 1956, Terre Haute, IN; buried Oak Point, Clark County, IL) — per Ancestry.com tree, unverified
-- **Mother:** Mary Alice Partlow (née unknown; b. 11 Oct 1880; d. 20 Jan 1962; buried Oak Point, Clark County, IL) — per Ancestry.com tree, unverified
+- **Father:** Nollie Franklin / Frank Partlow (b. 8 Oct 1874, Johnson Township, Clark County, IL; d. 21 Nov 1956, Terre Haute, IN; buried Oak Point, Clark County, IL) — per Ancestry.com tree and local handwritten lineage; unverified by original records
+- **Mother:** Mary Alice / Alice Rude Partlow (b. 11 Oct 1880; d. 20 Jan 1962; buried Oak Point, Clark County, IL) — Ancestry.com tree gives Mary Alice Partlow; local handwritten lineage identifies her as Alice Rude Partlow; unverified by original records
+- **Paternal grandparents:** Marion M. Partlow and Martha L. Bowles — per Ancestry tree screenshot, unverified
+- **Maternal grandparents:** John Armstrong Rude and Mary Ellen J. Wade — per Ancestry tree screenshot, unverified
 - **Brothers:** Harry Partlow, Raymond Partlow, Lester ("Leck") Partlow
 - **Sisters:** Laura Partlow, Doris Partlow, Genevieve ("Gen") Partlow
+
+The Partlow image set includes an Ancestry tree screenshot, refined by later online searching and a local 1977 handwritten family lineage, that proposes this paternal ancestral path:
+
+**Marion Elizabeth Partlow** -> **Nollie Franklin / Frank Partlow** -> **Marion McDonald / M. Partlow** -> **John H. / John Halleck / Hallick Partlow** (1811/1812-1870?) and **Lydia Bennett** -> **Jacob Partlow / Jacob Newton Partlow** -> **Benjamin W. Partlow** (1762-1837?) -> earlier Virginia Partlows.
+
+The **Frank Partlow -> Marion McDonald Partlow** link is now supported by online citations to the 1880 and 1900 Johnson Township, Clark County, Illinois census entries. The **Marion McDonald Partlow -> John Halleck Partlow** link is supported by online citations to the 1850 and 1860 Johnson Township census entries. The unresolved issue is proving that Frank Partlow is the same person as **Nollie Franklin Partlow**. The 1977 handwritten lineage supports the full chain but remains family manuscript evidence until confirmed with census, probate, land, cemetery, and vital records. See [[RQ-P1-PARTLOW-REVOLUTIONARY-LINE|RQ-P1 Partlow Revolutionary Line]] and [[References/Harry C Partlow 1960 Letter and Handwritten Lineage]].
 
 ## Family Relationships
 
@@ -51,3 +59,6 @@ The Partlow family immigrated from **Wales** to Virginia before the Revolutionar
 
 1. `~/Downloads/Part 1 Appendices .pdf` — Michael Joseph Copley, Stephen Copley, and Tom Copley biographical sketches.
 2. [[Family Tree]] — internal branch mapping.
+3. `/mnt/c/Users/zach/Desktop/Partlow/IMG_2433.png` — Ancestry tree screenshot showing Marion's Partlow, Bowles, Rude, and Wade ancestry; derivative tree evidence only.
+4. [[RQ-P1-PARTLOW-REVOLUTIONARY-LINE]] — current online research log for the Partlow Revolutionary line.
+5. [[References/Harry C Partlow 1960 Letter and Handwritten Lineage]] — local family manuscript naming Marion E. Partlow Copley among the children of Frank and Alice Rude Partlow.

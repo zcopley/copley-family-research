@@ -25,6 +25,7 @@ This is the public research operating list for the Copley family wiki. Use [[Sou
 | Mary Copely Giblin / Iowa branch | Verified person; relationship to Michael is plausible but unproven. | Build the Iowa descendant chain and identify Stephen Donald Copley's parents. |
 | Copley No. 1 oil strike | Oil-strike context is verified; family financial effect remains plausible. | Locate lease, royalty, title-chain, probate, and estate records for 1899-1925. |
 | Bredon / Captain John descent | Valuable origin hypothesis, not proven generation-by-generation. | Seek the missing Irish bridge from Captain John Copley to the 19th-century Roscommon Copelys. |
+| Partlow Revolutionary line | Plausible line from Marion Elizabeth Partlow to Benjamin Partlow; middle Illinois generation has online census support and a local 1977 handwritten lineage supports the full proposed chain. | Prove Frank Partlow = Nollie Franklin Partlow and then prove Jacob Partlow to Benjamin Partlow with original records. |
 | Living-family profiles | Useful but privacy-sensitive. | Add details only with family confirmation and avoid sensitive private data. |
 
 ---
@@ -96,11 +97,26 @@ The highest-impact items below have practical templates in [[Tier 1 Research Exe
 - Cross-check timing against education and relocation milestones for John and Mary Ellen's children.
 - Keep the narrative cautious unless direct financial evidence appears.
 
+### 6. Prove the Partlow Revolutionary Line
+**Relevance:** [[People/Marion Elizabeth Partlow|Marion Elizabeth Partlow]], [[People/Benjamin Partlow|Benjamin Partlow]], [[RQ-P1-PARTLOW-REVOLUTIONARY-LINE|RQ-P1 Partlow Revolutionary Line]]  
+**Impact:** MEDIUM-HIGH - This would document Marion's paternal line back to a Revolutionary War veteran and clarify the family's Virginia-to-Illinois migration path.  
+**Research Status:** Open; plausible line identified, with online census support for Marion McDonald Partlow as a child of John Halleck / Hallick Partlow and family-manuscript support for the full line.
+
+**How to proceed:**
+- Use [[References/Harry C Partlow 1960 Letter and Handwritten Lineage]] as the current working lineage and test each link against original records.
+- Prove Frank Partlow = Nollie Franklin Partlow and Alice Rude = Mary Alice Rude/Partlow.
+- Open FamilySearch or Geneanet copies of Thomas E. Partlow's *The Partlow family and connections*.
+- Capture the 1850 and 1860 Johnson Township, Clark County, Illinois census images for John H. Partlow.
+- Prove Nollie Franklin Partlow's parents through the 1880 census, death certificate, obituary, or cemetery record.
+- Prove Jacob Partlow / Jacob Newton Partlow as father of John Halleck / Hallick Partlow.
+- Prove Benjamin Partlow as father of Jacob Partlow through probate, land, tax, pension, or compiled-genealogy citations.
+- Obtain the full Benjamin Partlow Revolutionary War pension file.
+
 ---
 
 ## Tier 2 - Strong Supporting Work
 
-### 6. Verify St. Michael's Church and Turnpike Context
+### 7. Verify St. Michael's Church and Turnpike Context
 **Relevance:** [[Topics/Murray Settlement|Murray Settlement]], [[Topics/B&O Railroad Labor History|B&O Railroad Labor History]]  
 **Impact:** MEDIUM-HIGH - These records would strengthen the infrastructure-labor and Catholic-settlement context without overstating named B&O employment.
 
@@ -111,7 +127,7 @@ The highest-impact items below have practical templates in [[Tier 1 Research Exe
 
 ---
 
-### 7. Connect Fairymount Copelys to Michael Copley Sr.
+### 8. Connect Fairymount Copelys to Michael Copley Sr.
 **Relevance:** [[Topics/Captain John Copley Research|Captain John Copley Research]], [[Topics/Bredon Descent|Bredon Descent]], [[Places/Kilgefin Ireland|Kilgefin, Ireland]]  
 **Impact:** MEDIUM-HIGH - A direct link to the documented Fairymount Copely family would improve the Irish-origin proof trail.
 
@@ -122,7 +138,7 @@ The highest-impact items below have practical templates in [[Tier 1 Research Exe
 
 ---
 
-### 8. Maintain the Bredon / Captain John Evidence Trail
+### 9. Maintain the Bredon / Captain John Evidence Trail
 **Relevance:** [[Topics/Bredon Descent|Bredon Descent]], [[Topics/Captain John Copley Research|Captain John Copley Research]], [[Topics/Copley Family Catholicism|Copley Family Catholicism]]  
 **Impact:** MEDIUM - This remains a valuable long-range hypothesis, but it should not outrank the immigrant-generation proof targets.
 
@@ -133,7 +149,7 @@ The highest-impact items below have practical templates in [[Tier 1 Research Exe
 
 ---
 
-### 9. Deepen Stephen Line Documentation With Consent
+### 10. Deepen Stephen Line Documentation With Consent
 **Relevance:** [[People/Stephen Michael Copley|Stephen Michael Copley]], [[Family Tree]], [[People/People Directory|People Directory]]  
 **Impact:** MEDIUM - This would balance the modern family coverage with the Tom line, but living-person privacy controls matter.
 
@@ -168,6 +184,7 @@ The highest-impact items below have practical templates in [[Tier 1 Research Exe
 - [[Topics/1900 Copley Oil Strike|1900 Copley Oil Strike]] - oil-strike context
 - [[Topics/Captain John Copley Research|Captain John Copley Research]] - deep-origin research trail
 - [[Topics/Bredon Descent|Bredon Descent]] - English-origin hypothesis
+- [[RQ-P1-PARTLOW-REVOLUTIONARY-LINE|RQ-P1 Partlow Revolutionary Line]] - Partlow proof chain to Benjamin Partlow
 
 ## How to Use This Page
 

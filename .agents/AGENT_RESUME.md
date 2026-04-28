@@ -9,14 +9,38 @@ tags:
 
 # Agent Resume State
 
-Last updated: 2026-04-27
+Last updated: 2026-04-28
 
 ## Current Goal
 
-Improve wiki readability and maintenance guardrails; current focus is preventing unreadable Mermaid diagram text in dark mode.
+Track and document Zach's Partlow paternal line back to a potential American Revolution ancestor, Benjamin Partlow of Culpeper County, Virginia, while separating family-manuscript leads from original-record proof.
 
 ## What Was Just Completed
 
+- Completed a focused Partlow Revolutionary line research pass and handoff.
+- Reviewed local Partlow images in `/mnt/c/Users/zach/Desktop/Partlow`; extracted Benjamin Partlow pension-cover details from `IMG_2437.jpg`.
+- Found online leads for the Partlow proof chain:
+  - New England Ball Project pages for John Halleck Partlow and Lydia Bennett, citing 1850 and 1860 Johnson Township, Clark County, Illinois census entries.
+  - New England Ball Project page for Marion McDonald Partlow, citing 1880 and 1900 Johnson Township, Clark County, Illinois census entries that place Frank in Marion's household.
+  - Illinois Statewide Marriage Index and Clark County Clerk/Recorder pages for the next Frank/Nollie Partlow and Alice Rude record request path.
+  - Created `References/Clark County Illinois Partlow Rude Marriage Request.md` as the ready-to-send request note for the 10 Jun 1900 marriage record.
+  - Created `References/New England Ball Project Partlow Census Citation Extract.md` with exact 1850/1860/1880/1900/1910/1920 census targets and Clark County microfilm roll numbers for John Halleck, Lydia Bennett, and Marion McDonald Partlow.
+  - Ran a public-web search pass for Jacob Partlow -> Benjamin Partlow; no clean online proof found. Added the negative result and MyTrees derivative lead to `RQ-P1-PARTLOW-REVOLUTIONARY-LINE.md`.
+  - FamilySearch catalog/Digital Library leads for Thomas E. Partlow's *The Partlow family and connections*, volumes 1 and 2.
+  - Geneanet catalog pages for the same Partlow volumes.
+  - Old Spanish Trail Chapter NSDAR page listing Benjamin Partlow VA as a patriot ancestor.
+- Found local PDF `/mnt/c/Users/zach/Dropbox (Old)/Tom/Tom/partlow_family.pdf`, converted it to images, and read the scan.
+- Identified that PDF as a three-page family source containing a 1960 Harry C. Partlow letter and a 1977 handwritten "Partlow Line of Descent in America for Eight Generations."
+- Created `RQ-P1-PARTLOW-REVOLUTIONARY-LINE.md`.
+- Created `References/Harry C Partlow 1960 Letter and Handwritten Lineage.md`.
+- Updated `People/Benjamin Partlow.md`, `People/Marion Elizabeth Partlow.md`, and `Research Priorities and Action Items.md` with the working line, evidence status, caveats, and next actions.
+- Added Mermaid diagrams to the Partlow research pages:
+  - proof-chain and next-action workflow diagrams in `RQ-P1-PARTLOW-REVOLUTIONARY-LINE.md`
+  - manuscript lineage and evidence-validation diagrams in `References/Harry C Partlow 1960 Letter and Handwritten Lineage.md`
+  - compact lineage/evidence-status diagram in `People/Benjamin Partlow.md`
+- Added `.agents/_AGENT_HANDOFF_PARTLOW_REVOLUTIONARY_LINE.md` as the focused handoff for the next agent.
+- Ran `npm run check:mermaid` successfully after Mermaid edits.
+- Ran `npm run build` successfully after Partlow edits; build processed 132 Markdown files and emitted only existing LaTeX unicode warnings. Reverted regenerated `public/` output so the working diff stays source-only.
 - Completed Phase 4B sitewide Mermaid contrast guardrail.
 - Added explicit text colors to legacy Mermaid `style` rules across public Markdown and `.agents/_AGENT_HANDOFF_PHASE_2M.md`.
 - Added `scripts/check-mermaid-contrast.mjs` and `npm run check:mermaid` to fail any Mermaid `style` or `classDef` that sets `fill` without explicit `color`.
@@ -112,9 +136,24 @@ Improve wiki readability and maintenance guardrails; current focus is preventing
 - `Visual Story Atlas.md` is now the diagram-first public entry point for the story, evidence status, and research quests.
 - `RQ-M1-JOHN-MURRAY-DEED-FINDINGS.md` now exists as the place to paste John Murray deed images, transcripts, abstracts, and interpretation.
 - The Murray deed image/transcription task is paused with Claude for Chrome; index entries are confirmed, but deed texts are still pending.
+- `RQ-P1-PARTLOW-REVOLUTIONARY-LINE.md` is now the active Partlow proof-chain log.
+- `References/Harry C Partlow 1960 Letter and Handwritten Lineage.md` is the local family-source note for the 1960 Harry Partlow letter and 1977 handwritten lineage.
+- The Partlow working line is: Marion Elizabeth Partlow Copley -> Nollie Franklin / Frank Partlow -> Marion McDonald / M. Partlow -> John H. / John Halleck / Hallick Partlow -> Jacob Partlow / Jacob Newton Partlow -> Benjamin Partlow.
+- Benjamin Partlow's Revolutionary War service evidence is strong from the pension-cover image, but the full NARA/Fold3 pension file is still needed.
+- The Frank -> Marion McDonald Partlow link is now online-supported by derivative census citations, but the original census images should still be captured.
+- The critical Partlow proof gaps are Frank/Nollie identity, John H. -> Jacob, and Jacob -> Benjamin.
+- Public web searching did not prove Frank Partlow = Nollie Franklin Partlow; the next concrete action is the Clark County, Illinois marriage record/citation for the reported 10 Jun 1900 marriage to Alice/Mary Alice Rude.
+- Public web searching also did not prove Jacob Partlow = son of Benjamin Partlow; broad search surfaced only derivative/collateral leads. Prioritize compiled Partlow books, Benjamin probate/estate, and Culpeper/Clark land/tax records.
 
 ## Next Step
 
+- Partlow next steps:
+  - Prove Frank Partlow = Nollie Franklin Partlow and Alice Rude = Mary Alice Rude/Partlow, starting with the 10 Jun 1900 marriage record and 1880/1900/1910/1920 census.
+  - Use the Illinois Statewide Marriage Index in a browser, or request from Clark County Clerk/Recorder, using variants Frank Partlow, Nollie Franklin Partlow, N. F. Partlow, Alice Rude, and Mary Alice Rude.
+  - Capture original 1880 and 1900 Johnson Township, Clark County, Illinois census images for Marion McDonald Partlow and Frank Partlow, then capture original 1850 and 1860 Johnson Township census images for John H. Partlow.
+  - Open FamilySearch or Geneanet copies of *The Partlow family and connections* in a browser and search for Benjamin, Jacob, John H., Marion, Frank, Rude, and Clark County.
+  - Search official DAR GRS for Benjamin Partlow and record any ancestor number / approved child lines.
+  - Obtain the full Benjamin Partlow Revolutionary War pension file.
 - Next broad improvement options:
   - Fix remaining non-date build warnings if they become actionable; current known residual warnings are LaTeX unicode warnings from content punctuation
   - Consider upgrading GitHub Actions from Node 20-based actions to Node 24-compatible versions before GitHub's 2026 deprecation dates
@@ -139,6 +178,10 @@ Improve wiki readability and maintenance guardrails; current focus is preventing
 - `index.md`
 - `Sources and Evidence Index.md`
 - `Visual Story Atlas.md`
+- `RQ-P1-PARTLOW-REVOLUTIONARY-LINE.md`
+- `References/Harry C Partlow 1960 Letter and Handwritten Lineage.md`
+- `References/Clark County Illinois Partlow Rude Marriage Request.md`
+- `References/New England Ball Project Partlow Census Citation Extract.md`
 - `RQ-M1-JOHN-MURRAY-DEED-FINDINGS.md`
 - `RQ-M1-LEWIS-COUNTY-DEED-SEARCH.md`
 - `The Copley Family Narrative.md`
@@ -158,6 +201,8 @@ Improve wiki readability and maintenance guardrails; current focus is preventing
 - `People Directory.md`
 - `People/People Directory.md`
 - `Research Priorities and Action Items.md`
+- `People/Benjamin Partlow.md`
+- `People/Marion Elizabeth Partlow.md`
 - `Tier 1 Research Execution Kit.md`
 - `CHANGELOG.md`
 - `People/Ann Elizabeth Munday Copley.md`
@@ -174,6 +219,9 @@ Improve wiki readability and maintenance guardrails; current focus is preventing
 - Which Kinawley Murray household was Ann's family?
 - Did a Murray family arrive in the Lewis County settlement area before the Copleys?
 - Is there a surviving marriage or church record that names Ann's maiden surname directly?
+- Is Frank Partlow the same person as Nollie Franklin Partlow, and is Alice Rude the same person as Mary Alice Rude/Partlow?
+- Can original records prove Jacob Partlow as the son of Benjamin Partlow?
+- Does the official DAR GRS entry for Benjamin Partlow include an approved child line relevant to Jacob or Zach's line?
 
 ## Notes
 
