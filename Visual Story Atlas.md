@@ -175,7 +175,7 @@ flowchart TB
     
     Q1 --> A1["Kilgefin / Fairymount<br/>parish + civil records"]:::source
     Q2 --> A2["PRONI Kinawley TAB/5<br/>and church records"]:::source
-    Q3 --> A3["Grantee index +<br/>Marwee/Murray<br/>deed targets"]:::source
+    Q3 --> A3["Exact Murray results +<br/>Marwee/Murray<br/>deed targets"]:::source
     Q4 --> A4["Iowa probate / cemetery<br/>church records"]:::source
     Q5 --> A5["Lewis County lease<br/>royalty / probate"]:::source
     Q6 --> A6["Irish land / probate<br/>1657-1813"]:::source
@@ -198,6 +198,7 @@ flowchart TB
 ## Reading Paths
 
 - Start with [[The Copley Family Narrative]] for prose.
+- Use [[Who Was Alive When]] when your main question is chronology, overlapping lifespans, or who lived through which family turning points.
 - Use [[Family Tree]] for generation-by-generation relationships.
 - Use [[Sources and Evidence Index]] to check what is verified, plausible, unresolved, or rejected.
 - Use [[Research Priorities and Action Items]] and [[Tier 1 Research Execution Kit]] when you want to advance the research.

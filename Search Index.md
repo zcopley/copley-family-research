@@ -228,9 +228,11 @@ Full-text searchable index of everyone and everything in this vault. Use Ctrl+K 
 | [[Topics/Captain John Copley Research\|Captain John Copley Research]] | Primary-source research on Captain John, Roscommon Copelys, and competing origin hypotheses |
 | [[Topics/Murray Settlement\|Murray Settlement]] | Coordinated Irish/Catholic settlement hypothesis in Lewis County; Murray, Copley, Dolan, Hanley, Hannon network |
 | [[Topics/Murray Settlement Research Roadmap\|Murray Settlement Research Roadmap]] | RQ-M1 through RQ-M8 research strategy and evidence thresholds |
-| [[RQ-M1-JOHN-MURRAY-DEED-FINDINGS\|RQ-M1 John Murray Deed Findings]] | Findings log for 1826/1833 John Murray deed index leads, Marwee / possible Murray Deed Book C-D targets, and future deed-text transcription |
+| [[Who Was Alive When\|Who Was Alive When]] | Lifespan-overlap guide showing who was alive during the family's major eras and turning points |
+| [[RQ-M1-JOHN-MURRAY-DEED-FINDINGS\|RQ-M1 John Murray Deed Findings]] | Findings log for 1826/1833 John Murray deed index leads, Marwee / possible Murray Deed Book C-D targets, completed exact-Murray grantee-index results, and future deed-text transcription |
 | [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP\|RQ-M1 Lewis County FAN Sweep]] | Findings log for Murray / Copley / settlement-family census and neighbor-network research in Lewis County, 1840-1870 |
 | [[References/Claude for Chrome Lewis County Deed Research Brief\|Claude for Chrome Lewis County Deed Research Brief]] | FamilySearch deed-index handoff for Lewis County Murray / Marwee research |
+| [[References/Claude for Chrome Lewis County Murray Grantee Search\|Claude for Chrome Lewis County Murray Grantee Search]] | Exact-surname compiled grantee-index results for Murray in Lewis County, with the image 553-554 entry cluster and uncertainty flags |
 | [[Topics/1900 Copley Oil Strike\|1900 Copley Oil Strike]] | Copley No. 1 well, South Penn Oil, ~4,800 bbl/day, Lewis County |
 | [[Topics/Irish Famine and Emigration\|Irish Famine & Emigration]] | 1840s–50s emigration context for Copley/Munday families |
 | [[Topics/Irish Immigration to West Virginia\|Irish Immigration to WV]] | Settlement patterns in Lewis/Marshall counties |

@@ -23,6 +23,17 @@ He married [[Mary Ellen Dolan Copley]] (date/place unresolved) and the couple ha
 
 John’s household sat at the center of the family’s economic transformation following the 1900 **[[Topics/1900 Copley Oil Strike|1900 Copley Oil Strike]]**. Probate/lease details remain to be fully documented, but his generation is the key bridge between immigrant agrarian roots and later professional mobility of descendants.
 
+## Lived During
+
+John is the direct bridge between the **1843 settlement generation** and the children whose lives carry the family into nursing, science, and the modern branches.
+
+- He was born in the same year as the **1843** Hoffman-Copley land agreement.
+- He lived the long family-farm succession era between immigrant settlement and industrial change.
+- He was the household head during the **1900** oil strike, when the family land entered a new economic phase.
+- He overlapped for decades with children such as [[Ellen Bernadine Nelle Copley Sardo|Nelle]] and [[Michael Joseph Copley]], making him the strongest living link between the immigrant farm world and the bridge generation born around 1900.
+
+For a chronology-first view of those overlaps, see [[Who Was Alive When]].
+
 ## Timeline
 
 ```mermaid

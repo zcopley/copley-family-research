@@ -9,14 +9,22 @@ tags:
 
 # Agent Resume State
 
-Last updated: 2026-04-28
+Last updated: 2026-04-30
 
 ## Current Goal
 
-Continue priority evidence work for the Copley family wiki, with the active Murray Settlement deed task now focused on the FamilySearch grantee-index search and Deed Book C-D "Marwee" / possible Murray page targets.
+Continue priority evidence work for the Copley family wiki, with the active Murray Settlement deed task now shifted past the exact-surname grantee-index search and onto the unresolved 1826/1833 deed bodies plus the Deed Book C-D "Marwee" / possible Murray page targets.
 
 ## What Was Just Completed
 
+- Integrated Zach's April 30, 2026 Claude for Chrome Lewis County exact-Murray grantee-index handoff into the public research path.
+- Created `References/Claude for Chrome Lewis County Murray Grantee Search.md`.
+- Updated `RQ-M1-JOHN-MURRAY-DEED-FINDINGS.md` with:
+  - the completed exact-surname Murray grantee-index result for DGS 8293314
+  - the image 553-554 Murray cluster dated 1865-1934
+  - the key negative result that no pre-1843 exact Murray grantee entry was found in the compiled index
+  - the revised next-step workflow focusing on the blocked 1865 rows, the 1826/1833 deed bodies, and the Deed Book C-D "Marwee" targets
+- Updated `Sources and Evidence Index.md`, `Research Priorities and Action Items.md`, `Tier 1 Research Execution Kit.md`, `Topics/Murray Settlement.md`, `Topics/Murray Settlement Research Roadmap.md`, `Visual Story Atlas.md`, `Search Index.md`, and `CHANGELOG.md` so the Murray deed task now treats the exact-Murray grantee search as complete and refocuses on variant/deed-body resolution.
 - Integrated Zach's April 28, 2026 Claude for Chrome Lewis County deed research brief into the public research path.
 - Created `References/Claude for Chrome Lewis County Deed Research Brief.md`.
 - Updated `RQ-M1-JOHN-MURRAY-DEED-FINDINGS.md` with:
@@ -148,7 +156,7 @@ Continue priority evidence work for the Copley family wiki, with the active Murr
 - `Tier 1 Research Execution Kit.md` is now the practical action layer for the top roadmap items.
 - `Visual Story Atlas.md` is now the diagram-first public entry point for the story, evidence status, and research quests.
 - `RQ-M1-JOHN-MURRAY-DEED-FINDINGS.md` now exists as the place to paste John Murray deed images, transcripts, abstracts, and interpretation.
-- The Murray deed task now has a Claude for Chrome handoff integrated into the wiki. Prior 1826/1833 index entries are still open, and the new Deed Book C-D "Marwee" / possible Murray entries are promising but unconfirmed. Deed texts are still pending.
+- The Murray deed task now has two Claude for Chrome handoffs integrated into the wiki: the original Deed Book C-D / grantor-index brief and the completed exact-surname grantee-index result. Prior 1826/1833 index entries are still open, the Deed Book C-D "Marwee" / possible Murray entries remain promising but unconfirmed, and deed texts are still pending.
 - `RQ-P1-PARTLOW-REVOLUTIONARY-LINE.md` is now the active Partlow proof-chain log.
 - `References/Harry C Partlow 1960 Letter and Handwritten Lineage.md` is the local family-source note for the 1960 Harry Partlow letter and 1977 handwritten lineage.
 - The Partlow working line is: Marion Elizabeth Partlow Copley -> Nollie Franklin / Frank Partlow -> Marion McDonald / M. Partlow -> John H. / John Halleck / Hallick Partlow -> Jacob Partlow / Jacob Newton Partlow -> Benjamin Partlow.
@@ -174,8 +182,10 @@ Continue priority evidence work for the Copley family wiki, with the active Murr
   - Add deeper topic-specific diagrams only when a page gains new evidence or when a visual would clarify a concrete relationship not already covered by the atlas
   - Work on non-Murray family gaps such as the Stephen line documentation, Iowa Copely descendants, or oil-strike lease/probate context
 - Murray deed next steps:
-  - Search the Lewis County Grantee Index G-M, DGS 8293314, for Murray, Murry, Murrey, Murroe, Murrow, Marwee, and Marree.
+  - Preserve the completed exact-surname Murray grantee-index result: DGS 8293314 yielded only 1865-1934 entries on images 553-554 and no pre-1843 exact Murray grantee entry.
+  - Verify the partially blocked 1865 rows on image 553 if the FamilySearch toolbar can be bypassed.
   - Transcribe Deed Book C-D, DGS 8219256, page 334, page 404, and the obscured "Marwee Sewig" page in the 300s.
+  - Revisit the 1826 and 1833 John Murray index leads and recover the deed-book / page / deed-body details.
   - Add any resulting images, citation paths, transcripts, abstracts, and interpretation first to `RQ-M1-JOHN-MURRAY-DEED-FINDINGS.md`, then update `Sources and Evidence Index.md`, `Topics/Murray Settlement.md`, `Research Priorities and Action Items.md`, and `People/Ann Copley.md` if the deeds materially affect the Ann/Murray hypothesis.
 - FAN sweep next step while waiting on Claude for Chrome:
   - Paste incoming Ancestry census / neighbor findings into `RQ-M1-LEWIS-COUNTY-FAN-SWEEP.md`.

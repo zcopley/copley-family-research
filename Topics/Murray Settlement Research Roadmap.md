@@ -107,7 +107,7 @@ graph TD
 
 | Action | Where | Time | Verdict Impact |
 |--------|-------|------|-----------------|
-| Search Lewis County deed records for "Murray" and variants, including "Marwee" | Weston Courthouse / FamilySearch grantee index DGS 8293314 and Deed Book C-D DGS 8219256 | 2–3 hrs | **CRITICAL:** Identifies anchor family arrival date |
+| Resolve the early Lewis County Murray deed problem | Weston Courthouse / FamilySearch Deed Book C-D DGS 8219256, 1826/1833 index leads, and compiled grantee follow-up on image 553 | 2–3 hrs | **CRITICAL:** Identifies anchor family arrival date |
 | Full *Powhatan* 1838 passenger manifest scan | Ancestry / FamilySearch NARA M237 | 1 hr | **HIGH:** Shows if Murrays/Dolans traveled with Copleys |
 | 1840-1870 Lewis County census FAN sweep | Ancestry / FamilySearch; capture in [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]] | 2–3 hrs | **HIGH:** Enumerates full settlement membership |
 | Contact Diocese of Wheeling-Charleston | archive request | email | **HIGH:** St. Michael's Church marriage records may show Ann's maiden name |
@@ -131,7 +131,7 @@ graph TD
 - ❌ **"No Murrays found"** — Hypothesis refuted; "Murray's Settlement" name origin unresolved
 
 **Primary Sources to Search:**
-1. **Lewis County deed records (1825–1855)** — Weston Courthouse, FamilySearch. Look for any "Murray" land purchase in Cove Lick/Camden/Loveberry area. Current FamilySearch targets include the grantee index DGS 8293314 and Deed Book C-D DGS 8219256 pages 334, obscured 3??, and 404 for "Marwee" / possible Murray entries.
+1. **Lewis County deed records (1825–1855)** — Weston Courthouse, FamilySearch. Look for any "Murray" land purchase in Cove Lick/Camden/Loveberry area. The exact-surname compiled grantee index search is now complete and produced only 1865-1934 Murray entries on images 553-554. Current high-value targets are Deed Book C-D DGS 8219256 pages 334, obscured 3??, and 404 for "Marwee" / possible Murray entries, plus the unresolved 1826 and 1833 John Murray leads.
 2. **US Census 1840, 1850, 1860, 1870** — Ancestry / FamilySearch. FAN-club sweep: all Irish surnames within Copley settlement zone; capture raw findings in [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]]
 3. **Lewis County local histories** — *History of Lewis County, West Virginia* (1881+), Archive.org, HathiTrust. May contain founding narratives
 4. **Catholic parish records (St. Michael's Church)** — Diocese of Wheeling-Charleston archive. Marriage/baptism records 1838–1870 showing Murray witnesses/godparents
@@ -434,7 +434,7 @@ graph LR
 ## 🎬 Action Plan: Next 4 Weeks
 
 **Week 1: Tier 1 Quick Wins**
-- [ ] Lewis County grantee-index and "Marwee" / Murray page-target search (RQ-M1)
+- [ ] Lewis County deed-body and variant-resolution pass after the completed exact-Murray grantee search (RQ-M1)
 - [ ] Full *Powhatan* manifest (RQ-M2)
 - [ ] Griffith's Valuation remaining families (RQ-M3, RQ-M7)
 

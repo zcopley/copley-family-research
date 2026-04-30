@@ -46,6 +46,17 @@ Michael's USDA career linked science, wartime research, and food technology. He 
 
 The family-authored sketch also preserves Stephen's and Tom's memories of Michael and [[Marion Elizabeth Partlow|Marion]] as parents: academically attentive, supportive of music and schooling, connected to Marion's Illinois family, and closely tied to the work and culture of the USDA laboratories.
 
+## Lived During
+
+Michael Joseph is the scientific bridge between the Lewis County farm-and-oil world and the modern professional branches.
+
+- He was born in **1898**, just before the **1900** oil strike reshaped the family property story.
+- His childhood still overlapped with [[Ann Copley]] and [[John Copley]], linking him directly to the older settlement household.
+- His adult life runs through the expansion of higher education, wartime research, and postwar federal science institutions.
+- He overlapped with children such as [[Stephen Michael Copley]] and [[Thomas Partlow Copley]], making him one of the longest living links between the 19th-century family farm and the modern branches.
+
+For a chronology-first view of those overlaps, see [[Who Was Alive When]].
+
 ## Related Topic Pages
 - [[Topics/Academic and Scientific Achievement|Academic and Scientific Achievement]]
 - [[Topics/1900 Copley Oil Strike|1900 Copley Oil Strike]]

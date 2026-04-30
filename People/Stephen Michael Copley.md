@@ -38,6 +38,17 @@ The family's 1947 move to Berkeley followed Michael Joseph Copley's appointment 
 
 His professional life moved from Pratt & Whitney research in Connecticut to USC teaching and department leadership, then to academic administration at IIT, executive work with STE / The Packer Group, and later Penn State Applied Research Laboratory work. The appendix frames this career alongside family life: seven children with [[Marcia Thornton Copley|Marcia]], marriage to [[Judith Ann Todd Copley|Judy]] in 1984, the birth of [[Amy E. Copley Geist|Amy]] in 1990, and a long final chapter in State College.
 
+## Lived During
+
+Stephen is a living memory bridge from the Michael Joseph generation into the current family and research frontier.
+
+- His childhood still sat inside the world created by [[Michael Joseph Copley]] and [[Ellen Bernadine Nelle Copley Sardo|Nelle]].
+- He remembered the wartime Wyndmoor years and the postwar California move that shaped the family's scientific branch.
+- His long adult life overlaps both the first great expansion of the Stephen line and the current **2026** research moment.
+- He now overlaps with younger bridge descendants such as [[Amy E. Copley Geist|Amy]] and the newest generation represented by [[William S. Geist]].
+
+For a chronology-first view of those overlaps, see [[Who Was Alive When]].
+
 ## Stephen Line Family Overview
 
 ```mermaid

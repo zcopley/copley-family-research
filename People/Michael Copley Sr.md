@@ -39,6 +39,17 @@ In 1843, Michael and his brother [[Patrick Copley]] entered a purchase agreement
 
 ![1865 land survey showing "Michael Copley resides," Lewis County WV](../static/images/1865-land-survey-copley-farm.jpg)
 
+## Lived During
+
+Michael lived through the immigrant crossing and settlement-building era that turned an Irish family story into a permanent Lewis County line.
+
+- He was a young adult in the **1837-1838** Atlantic migration window.
+- He was an active land purchaser in the **1843** Hoffman-Copley settlement moment.
+- He lived through the long Lewis County farming era that established the branch before the oil-strike generation.
+- He died in **1897**, just before the **1900** oil strike that transformed the next generation's economic world.
+
+For a chronology-first view of his overlaps with later generations, see [[Who Was Alive When]].
+
 ## Family Relationships
 - Spouse: [[Ann Copley]] (family tradition/secondary narratives identify her as Ann Elizabeth Munday)
 - Children (G24):

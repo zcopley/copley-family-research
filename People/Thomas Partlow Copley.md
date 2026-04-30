@@ -30,6 +30,17 @@ tags:
 
 His interest in marketing and consumer behavior was sparked as a teenager watching his father's lab develop ambitious but ultimately unsuccessful food products like "Wurld Wheat" — modified wheat designed to look like rice. This paradox of a good product failing in the market became his life's intellectual quest.
 
+## Lived During
+
+Tom is a living bridge from the Michael Joseph household into the Tom-line descendants, the public family-history project, and the still-growing modern generations.
+
+- He was born in **1944**, while the family was already deep into its scientific and professional transition.
+- His life overlaps the late years of [[Michael Joseph Copley]] and the long living-memory era carried by [[Stephen Michael Copley]].
+- He became the parent generation for [[Zachary R. Copley|Zach]], [[Erin E. Copley Bird|Erin]], and [[Charles H. Copley|Charlie]], extending the chronology into the present.
+- His continued overlap with living descendants makes him one of the main human bridges between family memory, published narrative, and the current research frontier.
+
+For a chronology-first view of those overlaps, see [[Who Was Alive When]].
+
 ## Education
 
 - **Elementary/Secondary:** Oxford Elementary School (Berkeley); Thousand Oaks School (Berkeley, from 2nd grade); Garfield Junior High; Berkeley High School

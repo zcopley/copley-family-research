@@ -27,6 +27,17 @@ She married [[Michael Copley Sr|Michael Copley]] (date/place unknown) and lived 
 
 A persistent family tradition states that her father drowned in the Potomac River. This is plausible in context but currently unverified by contemporary records.
 
+## Lived During
+
+Ann is one of the strongest chronology bridges in the whole project, because her life spans the immigrant era, the farm-establishment era, and the family's first oil-era turning point.
+
+- She belonged to the **Irish migration generation** that reached America in the late 1830s.
+- She lived through the **1843** Lewis County land-settlement phase with [[Michael Copley Sr|Michael Copley]].
+- She outlived Michael by more than a decade and remained alive for the **1900** oil strike on family land.
+- She briefly overlapped with grandchildren such as [[Ellen Bernadine Nelle Copley Sardo|Nelle]] and [[Michael Joseph Copley]], linking the immigrant household directly to the bridge generation born at the end of the 19th century.
+
+For a chronology-first view of those overlaps, see [[Who Was Alive When]].
+
 ## Key Place Links
 - Birthplace context: [[Places/Kinawley Ireland|Kinawley, Ireland]]
 - Settlement context: [[Places/Lewis County West Virginia|Lewis County, West Virginia]] and [[Places/Weston West Virginia|Weston, West Virginia]]

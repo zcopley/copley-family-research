@@ -42,6 +42,17 @@ Nelle married Robert Samuel Sardo in 1931 after meeting him at St. Joseph Hospit
 
 Her later life remained closely tied to St. Joseph Hospital: she served in alumnae and women's auxiliary leadership, helped develop the hospital volunteer program, directed volunteers for ten years, and received a 50-year association pin in 1976. She died unexpectedly on February 11, 1977, leaving Robert, two daughters, and ten grandchildren.
 
+## Lived During
+
+Nelle is one of the clearest bridge figures in the entire project: she was born before the oil strike, remembered the older Lewis County family world, and carried the line into the medical, educational, and Maryland branches.
+
+- She was born just before the **1900** oil strike and overlapped briefly with [[Mary Ellen Dolan Copley|Mary Ellen]].
+- Her childhood still overlapped with [[John Copley]] and, through family care, with the older Lewis County household world.
+- Her adult life runs through the interwar, World War II, and postwar years, when the family branches spread beyond West Virginia.
+- She also overlapped with later bridge descendants such as [[Sarah Ellen Sardo Arena|Sarah Arena]], [[Mary Carmella Sardo Ruland|Carmella Ruland]], [[Stephen Michael Copley|Stephen Michael Copley]], and [[Thomas Partlow Copley|Tom Copley]].
+
+For a chronology-first view of those overlaps, see [[Who Was Alive When]].
+
 ## Family Relationships
 - **Parents:** [[John Copley]], [[Mary Ellen Dolan Copley]]
 - **Grandparents:** [[Michael Copley Sr|Michael Copley]], [[Ann Copley]]

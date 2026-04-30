@@ -23,6 +23,7 @@ Use this page as the map before diving into the details.
 | Page | What It Answers |
 |---|---|
 | [[The Copley Family Narrative]] | What is the family story in readable prose? |
+| [[Who Was Alive When]] | Who overlapped with whom, and which generations were alive at the same time? |
 | [[Family Tree]] | How do the people and generations connect? |
 | [[Visual Story Atlas]] | What are the main relationships, migrations, evidence clusters, and research quests at a glance? |
 | [[People Directory]] | Where are the individual profile pages? |
@@ -36,6 +37,7 @@ Use this page as the map before diving into the details.
 | If You Are... | Start With |
 |---|---|
 | A family member looking for the big picture | [[The Copley Family Narrative]], then [[Family Tree]] |
+| Trying to understand chronology or overlapping lives | [[Who Was Alive When]], then [[Family Tree]] |
 | Looking for a specific person | [[People Directory]], then [[Search Index]] |
 | Checking whether a claim is proven | [[Sources and Evidence Index]] |
 | Interested in Irish origins | [[Topics/Captain John Copley Research]], [[Places/Kilgefin Ireland]], and [[Places/Kinawley Ireland]] |

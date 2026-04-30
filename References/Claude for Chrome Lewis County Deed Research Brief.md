@@ -18,6 +18,8 @@ tags:
 
 This note captures the April 28, 2026 Claude for Chrome handoff on Lewis County, Virginia / West Virginia deed research. The brief is a working research note, not a final proof statement. It should be used with [[RQ-M1-JOHN-MURRAY-DEED-FINDINGS|RQ-M1 John Murray Deed Findings]].
 
+**Follow-up status:** The compiled Grantee Index G-M search proposed here was completed on April 30, 2026 and is now summarized in [[References/Claude for Chrome Lewis County Murray Grantee Search|Claude for Chrome Lewis County Murray Grantee Search]]. That follow-up found only exact-surname Murray entries dated 1865-1934.
+
 ## Summary
 
 Claude for Chrome located and examined FamilySearch deed records for Lewis County, with emphasis on Deed Books C-D, 1824-1834. The session found two to three probable Murray-variant entries in the built-in alphabetical index for Deed Book C-D, but did not fully transcribe the underlying deed texts. It also checked the later compiled Grantor Deed Index M-S and found no clear Murray entries between Munson and Musgrave, which is an important negative finding.
@@ -29,7 +31,7 @@ Claude for Chrome located and examined FamilySearch deed records for Lewis Count
 | Resource | Film | DGS | Notes |
 |---|---:|---:|---|
 | Deed index, grantor, M-S, 1817-1934 | 819919 | 8293317 | Checked around the Mu section; no clear Murray grantor entries found between Munson and Musgrave. |
-| Deed index, grantee, G-M, 1817-1934 | 819925 | 8293314 | Identified but not checked; now highest-priority next step. |
+| Deed index, grantee, G-M, 1817-1934 | 819925 | 8293314 | Identified in this handoff; later checked in a follow-up note, which found only exact-surname Murray entries dated 1865-1934. |
 | Deeds, v. C-D, 1824-1834 | 818742 | 8219256 | Built-in book index images 5-15; deed texts begin around image 17. |
 | Deeds, v. A-B, 1817-1823 | 818741 | 8219258 | Identified for pre-1824 checks. |
 
@@ -75,7 +77,7 @@ Possible explanations:
 
 ## Highest-Priority Next Steps
 
-1. Check the Grantee Index G-M, DGS 8293314, for Murray, Murry, Murrey, Murroe, Murrow, Marwee, and Marree.
+1. Preserve the completed exact-surname Grantee Index G-M result from the April 30 follow-up note and keep variant-spelling review separate from that closed step.
 2. Navigate to Deed Book C-D target pages:
    - page 334, image roughly 351, for "Marwee J. to J. Peck"
    - page 404, image roughly 421, for "Marwee Levi wife to G.D. Camden"

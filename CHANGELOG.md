@@ -10,6 +10,43 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4L - Lifespan and Era Orientation Page (April 30, 2026)
+
+**READER-COMPREHENSION UPGRADE:** Added a chronology-first page so readers can quickly see overlapping lifespans, shared eras, and which family members lived through the major turning points in the story.
+
+### New Page
+
+- [[Who Was Alive When|Who Was Alive When]] - curated lifespan chart, era snapshots, overlap summary, and links back to the family tree, atlas, narrative, and event timeline.
+
+### Updated Pages
+
+- [[Home|Home]] and [[How to Read This Research|How to Read This Research]] - promoted the new chronology-first page into the main reader path.
+- [[Visual Story Atlas|Visual Story Atlas]], [[People Directory|People Directory]], and [[The Copley Family Narrative|The Copley Family Narrative]] - linked the new page as the best place to answer time-based questions such as who overlapped with whom.
+- [[Search Index|Search Index]] - indexed the new lifespan guide for chronology and overlap discovery.
+
+## Phase 4M - Lifespan Feature Deepening (April 30, 2026)
+
+**TIME-CONTEXT UPGRADE:** Extended the new lifespan feature from a single overview page into a reusable reading aid inside the most important bridge-figure profiles.
+
+### Updated Pages
+
+- [[Who Was Alive When|Who Was Alive When]] - added a denser descendant-overlap lifespan chart focused on the John and Mary Ellen branch cluster, plus interpretation notes explaining why those overlaps matter.
+- [[People/Michael Copley Sr|Michael Copley Sr.]], [[People/Ann Copley|Ann Copley]], [[People/John Copley|John Copley]], [[People/Mary Ellen Dolan Copley|Mary Ellen Dolan Copley]], [[People/Ellen Bernadine Nelle Copley Sardo|Ellen Bernadine "Nelle" Copley Sardo]], [[People/Michael Joseph Copley|Michael Joseph Copley]], [[People/Stephen Michael Copley|Stephen Michael Copley]], and [[People/Thomas Partlow Copley|Thomas Partlow Copley]] - added standardized `Lived During` mini-sections so readers can understand each person's era role without leaving the profile page.
+
+## Phase 4K - Murray Grantee Index Results Integrated (April 30, 2026)
+
+**RQ-M1 STATUS UPGRADE:** Integrated the completed Claude for Chrome exact-surname Murray grantee-index search, which found no pre-1843 exact Murray grantee entry in the compiled Lewis County G-M index and logged a later Murray cluster on images 553-554.
+
+### New Page
+
+- [[References/Claude for Chrome Lewis County Murray Grantee Search|Claude for Chrome Lewis County Murray Grantee Search]] - records the full DGS 8293314 exact-Murray grantee search results, including the image 553-554 entry cluster, the partial 1865 Camden-blocked rows, uncertainty flags, and direct film links.
+
+### Updated Pages
+
+- [[RQ-M1-JOHN-MURRAY-DEED-FINDINGS|RQ-M1 John Murray Deed Findings]] - upgraded the grantee-index step from pending to complete for exact Murray, added the 1865-1934 result summary, and refocused the next actions on the 1826/1833 deed bodies and Deed Book C-D "Marwee" targets.
+- [[Sources and Evidence Index|Sources and Evidence Index]], [[Research Priorities and Action Items|Research Priorities and Action Items]], [[Tier 1 Research Execution Kit|Tier 1 Research Execution Kit]], [[Topics/Murray Settlement|Murray Settlement]], and [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]] - revised the Murray-settlement proof path so it now treats the exact-Murray grantee search as closed and shifts attention to variant/deed-body resolution.
+- [[Visual Story Atlas|Visual Story Atlas]] and [[Search Index|Search Index]] - updated the research-path wording to reflect the completed exact-Murray grantee-index pass and the new source note.
+
 ## Phase 4J - Copley Farm Land-Chain Appendix Pass (April 28, 2026)
 
 **LAND-CONTEXT UPGRADE:** Used Appendix 2, "Origin of the Copley Farm," to turn the land-chain stubs around the 1843 Hoffman-Copley purchase into useful research pages.

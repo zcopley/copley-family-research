@@ -16,9 +16,9 @@ tags:
 
 # RQ-M1 John Murray Deed Findings
 
-This page is the findings log for the 1826 and 1833 John Murray deed leads in Lewis County, Virginia / West Virginia. It now also captures the April 28, 2026 Claude for Chrome FamilySearch deed-index pass summarized in [[References/Claude for Chrome Lewis County Deed Research Brief|Claude for Chrome Lewis County Deed Research Brief]].
+This page is the findings log for the 1826 and 1833 John Murray deed leads in Lewis County, Virginia / West Virginia. It now also captures the April 28 and April 30, 2026 Claude for Chrome FamilySearch deed-index passes summarized in [[References/Claude for Chrome Lewis County Deed Research Brief|Claude for Chrome Lewis County Deed Research Brief]] and [[References/Claude for Chrome Lewis County Murray Grantee Search|Claude for Chrome Lewis County Murray Grantee Search]].
 
-**Current status:** Prior index leads remain open, and the deed texts have not yet been extracted into this vault. A new FamilySearch pass found two to three probable "Marwee" / possible Murray entries in the built-in Deed Book C-D index, but the readings are unconfirmed and the deed bodies still need transcription. Use [[Tier 1 Research Execution Kit]] for the request and transcription template.
+**Current status:** Prior index leads remain open, and the deed texts have not yet been extracted into this vault. The built-in Deed Book C-D index still contains unresolved "Marwee" / possible Murray targets, while the compiled grantee index exact-surname Murray search is now complete and produced only later entries dated 1865-1934. Use [[Tier 1 Research Execution Kit]] for the request and transcription template.
 
 ## Research Question
 
@@ -33,13 +33,14 @@ This matters because an early Murray land record near Cove Lick, Camden, Loveber
 | 1826 Murray / Fish entry | FamilySearch index entry: John Murray to Fred L. Fish; page 39; DGS 008293302, image 17; ARK `/ark:/61903/1:1:6X4N-WJ51`. | Index confirmed; deed text not yet located. | Locate the deed page in DGS 008293301 or request the deed from Lewis County Clerk. |
 | 1833 John Murray entry | FamilySearch index entry; DGS 008293302, image 24. | Index confirmed; deed text not yet located. | Capture book/page details and locate the corresponding deed text. |
 | Deed Book C-D built-in M index | DGS 8219256, image 10, right page; probable "Marwee" entries on pages 334, obscured 3??, and 404. | Promising but unconfirmed surname reading; may be Murray, but could be another surname or variant. | Inspect and transcribe pages 334, 404, and the obscured 3?? page; compare surname spelling in deed body. |
-| Compiled Grantor Index M-S negative check | DGS 8293317, image 60; no clear Murray entry between Munson and Musgrave. | Negative finding for compiled grantor index position. | Check the grantee index DGS 8293314 and spelling variants. |
+| Compiled Grantor Index M-S negative check | DGS 8293317, image 60; no clear Murray entry between Munson and Musgrave. | Negative finding for compiled grantor index position. | Keep as a negative control while evaluating variant spellings and deed-book targets. |
+| Compiled Grantee Index G-M exact Murray search | DGS 8293314, all 558 images; exact Murray entries reported only on images 553-554, all dated 1865-1934. | Search complete for exact Murray; no pre-1843 exact Murray grantee entry found in this compiled index. | Verify the partially blocked 1865 rows, then prioritize the 1826/1833 leads and Deed Book C-D "Marwee" page targets. |
 
 See [[RQ-M1-LEWIS-COUNTY-DEED-SEARCH|RQ-M1 Lewis County Deed Search]] for the earlier FamilySearch navigation notes.
 
 ## April 28, 2026 FamilySearch Deed-Index Pass
 
-**Source note:** [[References/Claude for Chrome Lewis County Deed Research Brief|Claude for Chrome Lewis County Deed Research Brief]]
+**Source notes:** [[References/Claude for Chrome Lewis County Deed Research Brief|Claude for Chrome Lewis County Deed Research Brief]] and [[References/Claude for Chrome Lewis County Murray Grantee Search|Claude for Chrome Lewis County Murray Grantee Search]]
 
 **Repository:** FamilySearch, Lewis County (West Virginia) County Clerk, *Deeds, 1817-1902; deed index, 1817-1965*.
 
@@ -47,7 +48,7 @@ See [[RQ-M1-LEWIS-COUNTY-DEED-SEARCH|RQ-M1 Lewis County Deed Search]] for the ea
 |---|---:|---:|---|
 | Deeds, v. C-D, 1824-1834 | 818742 | 8219256 | Built-in index images 5-15; deed texts begin around image 17. |
 | Deed index, grantor, M-S, 1817-1934 | 819919 | 8293317 | No clear Murray entry found in the expected Mu position between Munson and Musgrave on image 60. |
-| Deed index, grantee, G-M, 1817-1934 | 819925 | 8293314 | Identified but not yet searched; highest-priority next step. |
+| Deed index, grantee, G-M, 1817-1934 | 819925 | 8293314 | Exact-surname Murray search complete across all 558 images; entries reported only on images 553-554 and all dated 1865-1934. |
 | Deeds, v. A-B, 1817-1823 | 818741 | 8219258 | Identified for pre-1824 checking. |
 
 ### Probable "Marwee" / Possible Murray Entries
@@ -66,13 +67,36 @@ Claude checked the compiled Grantor Deed Index M-S, DGS 8293317, around images 5
 
 This does not close the lead. It may mean the relevant records are grantee entries, were indexed under spelling variants, were missed in the compiled index, or are not the same records as the prior FamilySearch index leads.
 
+### April 30, 2026 Compiled Grantee Index Exact-Surname Results
+
+Claude then searched the compiled **Grantee Index G-M**, DGS **8293314**, across **all 558 images** for the exact surname **Murray**. The handoff reports that exact-surname Murray entries appear only on **image 553** and **image 554**, and that the detailed transcript logs **47 numbered rows**, all dated **1865-1934**.
+
+**Key implications:**
+
+- No exact-surname Murray grantee entry predating **1843** was found in this compiled index search.
+- The earliest reported exact-surname Murray grantee entry is **1865**, including a fully readable **Edward Murray / G. D. Camden** entry for **174 acres on Cove Lick Fork**.
+- The top-right rows on image 553 remain partly blocked by the FamilySearch toolbar, so some **1865** entries are still only partial reads.
+- This search covered **exact Murray only**. It does not eliminate earlier variant indexing under forms such as **Marwee**, **Murry**, **Murrey**, **Murroe**, or **Murrow**.
+
+### Early Exact-Murray Grantee Entries Logged
+
+| Year | Grantee | Grantor | Book / Page | Description | Notes |
+|---|---|---|---|---|---|
+| 1865 | Edward Murray | G. D. Camden, al | 9 / 299 | 174 A — Cove Lick Fork | Fully readable |
+| 1865 | Murray, first name blocked | G. D. Camden [?] | 9 / 399 [?] | 2 tracts — Sand Fork — CHD | Partial; toolbar blocked |
+| 1867 | James Murray | Levi Maxwell | 3 / 353 | 126 A — Cove Lick Run — CHD | Fully readable |
+| 1869 | Patrick Murray | Luke Murray | 5 / 471 | 96 1/2 A — Indian Fork — CHD | Fully readable |
+
+Later exact-Murray entries continue through 1934 and include transactions tied to Hannahs Camp Fork, Laurel Fork, Sand Fork, Weston, Kunst Addition, Machpelah Cemetery, and Laurel Run. See [[References/Claude for Chrome Lewis County Murray Grantee Search|the full handoff note]] for the complete table and uncertainty flags.
+
 ### Priority Workflow
 
-1. Search the Grantee Index G-M, DGS 8293314, for Murray, Murry, Murrey, Murroe, Murrow, Marwee, and Marree.
+1. Verify the partially blocked **1865** rows on compiled grantee index image 553 if the FamilySearch toolbar can be bypassed.
 2. Transcribe the Deed Book C-D page targets 334, 404, and the obscured "Marwee Sewig" page.
-3. Check Deed Books A-B, DGS 8219258, for pre-1824 Murray variants.
-4. Check Deed Book E-F, DGS 8219257, if the 1833 lead falls outside the DGS 8219256 range.
-5. Consult the Hacker's Creek abstracts volume for Deed Books A-C if direct images remain difficult to read.
+3. Revisit the **1826** and **1833** John Murray index leads and capture the missing book/page and deed-body details.
+4. Check Deed Books A-B, DGS 8219258, for pre-1824 Murray variants.
+5. Check Deed Book E-F, DGS 8219257, if the 1833 lead falls outside the DGS 8219256 range.
+6. Consult the Hacker's Creek abstracts volume for Deed Books A-C if direct images remain difficult to read.
 
 ## Deed 1: 1826 Murray / Fish
 
@@ -154,6 +178,7 @@ This does not close the lead. It may mean the relevant records are grantee entri
 | Deed has no usable location or nearby family clues | Keeps the lead open but does not change evidence status. |
 | Deed cannot be accessed digitally | Shift next action to Lewis County Clerk, WV State Archives, FamilySearch Center, or alternate deed databases. |
 | Compiled grantor index remains negative, but grantee index or built-in book index finds Murray variants | Treat as a variant-indexing problem, not a contradiction. |
+| Compiled grantee index exact Murray search yields only 1865-1934 entries | Treat as a later settlement-cluster result, not proof against earlier Murray presence under other index paths or spellings. |
 
 ## Update Targets When Findings Arrive
 

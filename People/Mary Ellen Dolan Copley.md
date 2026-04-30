@@ -25,6 +25,17 @@ tags:
 - **Marriage:** [[John Copley]]
 - **Children:** 5 (Thomas E., Mary, Anne, Nelle, Michael Joseph)
 
+## Lived During
+
+Mary Ellen belongs to the short but crucial hinge period where the Lewis County farm household becomes the parent generation of the later Sardo and Michael Joseph branches.
+
+- She married into the family after the immigrant-settlement phase was already established.
+- She raised the child generation that would become the family's strongest bridge into the 20th century.
+- She lived into the **1900** oil-strike year, but died in **1901**, making her overlap with the oil-era transition very brief.
+- She overlapped only briefly with [[Ellen Bernadine Nelle Copley Sardo|Nelle]] and [[Michael Joseph Copley]], which makes the years **1897-1901** especially important in the family chronology.
+
+For a chronology-first view of those overlaps, see [[Who Was Alive When]].
+
 ## Family Relationships
 
 - **Parents:** Michael Patrick Dolan (1824–1888), Elizabeth Mullooly Dolan (1829–1913)
