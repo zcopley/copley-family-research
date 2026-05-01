@@ -10,6 +10,21 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4N - Page 404 Mismatch Integrated (April 30, 2026)
+
+**RQ-M1 CORRECTION:** Integrated the Claude for Chrome check showing that physical page 404 of Lewis County Deed Book C-D does not match the old "Marwee Levi wife -> G.D. Camden" target.
+
+### New Page
+
+- [[References/Claude for Chrome Lewis County Deed Book C-D Page 404 Check|Claude for Chrome Lewis County Deed Book C-D Page 404 Check]] - records the confirmed image/page location for physical page 404, the Green/Fleming certificate content, the absence of Camden/Murray/Levi on pages 396-405, and the failure analysis for the old page-404 target.
+
+### Updated Pages
+
+- [[RQ-M1-JOHN-MURRAY-DEED-FINDINGS|RQ-M1 John Murray Deed Findings]] - reclassified the old page-404 target as a controlled mismatch, added the image-436 correction, and shifted the next-step workflow toward page 334, the obscured 3?? target, and the index/page-counting problem itself.
+- [[References/Claude for Chrome Lewis County Deed Research Brief|Claude for Chrome Lewis County Deed Research Brief]] - added follow-up status so the original note no longer treats page 404 as a straightforward live target.
+- [[Sources and Evidence Index|Sources and Evidence Index]], [[Research Priorities and Action Items|Research Priorities and Action Items]], [[Tier 1 Research Execution Kit|Tier 1 Research Execution Kit]], [[Topics/Murray Settlement|Murray Settlement]], and [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]] - updated the Murray-settlement proof path so physical page 404 is now treated as a negative result rather than an active deed-body target.
+- [[Search Index|Search Index]] - indexed the new page-404 check note.
+
 ## Phase 4L - Lifespan and Era Orientation Page (April 30, 2026)
 
 **READER-COMPREHENSION UPGRADE:** Added a chronology-first page so readers can quickly see overlapping lifespans, shared eras, and which family members lived through the major turning points in the story.

@@ -18,7 +18,7 @@ tags:
 
 This note captures the April 28, 2026 Claude for Chrome handoff on Lewis County, Virginia / West Virginia deed research. The brief is a working research note, not a final proof statement. It should be used with [[RQ-M1-JOHN-MURRAY-DEED-FINDINGS|RQ-M1 John Murray Deed Findings]].
 
-**Follow-up status:** The compiled Grantee Index G-M search proposed here was completed on April 30, 2026 and is now summarized in [[References/Claude for Chrome Lewis County Murray Grantee Search|Claude for Chrome Lewis County Murray Grantee Search]]. That follow-up found only exact-surname Murray entries dated 1865-1934.
+**Follow-up status:** The compiled Grantee Index G-M search proposed here was completed on April 30, 2026 and is now summarized in [[References/Claude for Chrome Lewis County Murray Grantee Search|Claude for Chrome Lewis County Murray Grantee Search]]. That follow-up found only exact-surname Murray entries dated 1865-1934. A second April 30 follow-up is now summarized in [[References/Claude for Chrome Lewis County Deed Book C-D Page 404 Check|Claude for Chrome Lewis County Deed Book C-D Page 404 Check]], which confirms that the old page-404 target does not match the actual physical page 404.
 
 ## Summary
 
@@ -60,7 +60,7 @@ The key index page is image 10 of DGS 8219256, the right page of the built-in M 
 |---|---|---|---:|---|
 | Marwee J. | Murray J.? / Maxwell J.? | J. Peck [?] | 334 | Probable variant, unconfirmed |
 | Marwee Sewig | Murray [Siney/Sabine/Sidney?]? | John Simpson | obscured | Probable variant, unconfirmed |
-| Marwee Levi wife | Murray Levi and wife? | G.D. Camden | 404 | Probable variant, unconfirmed |
+| Marwee Levi wife | Murray Levi and wife? | G.D. Camden | 404 | Later checked against physical page 404 and found to be a mismatch; page reference and/or surname reading remains unresolved |
 
 The brief argues that "Marwee" is more likely a period-cursive rendering of Murray than Maxwell, but the reading is not certain. The underlying deed pages must be inspected before the wiki treats these as confirmed Murray deeds.
 
@@ -80,7 +80,7 @@ Possible explanations:
 1. Preserve the completed exact-surname Grantee Index G-M result from the April 30 follow-up note and keep variant-spelling review separate from that closed step.
 2. Navigate to Deed Book C-D target pages:
    - page 334, image roughly 351, for "Marwee J. to J. Peck"
-   - page 404, image roughly 421, for "Marwee Levi wife to G.D. Camden"
+   - the former page-404 target should now be treated as a mismatch on physical page 404; re-check the built-in index, page-counting convention, or earlier deed-body pages instead of assuming page 404 is correct
    - the obscured page in the 300s for "Marwee Sewig to John Simpson"
 3. Check several pages before and after each target page.
 4. If digital images remain unreadable, use a FamilySearch Center, Lewis County Clerk request, or the Hacker's Creek abstracts book.

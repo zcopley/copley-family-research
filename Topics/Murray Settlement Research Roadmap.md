@@ -131,7 +131,7 @@ graph TD
 - ❌ **"No Murrays found"** — Hypothesis refuted; "Murray's Settlement" name origin unresolved
 
 **Primary Sources to Search:**
-1. **Lewis County deed records (1825–1855)** — Weston Courthouse, FamilySearch. Look for any "Murray" land purchase in Cove Lick/Camden/Loveberry area. The exact-surname compiled grantee index search is now complete and produced only 1865-1934 Murray entries on images 553-554. Current high-value targets are Deed Book C-D DGS 8219256 pages 334, obscured 3??, and 404 for "Marwee" / possible Murray entries, plus the unresolved 1826 and 1833 John Murray leads.
+1. **Lewis County deed records (1825–1855)** — Weston Courthouse, FamilySearch. Look for any "Murray" land purchase in Cove Lick/Camden/Loveberry area. The exact-surname compiled grantee index search is now complete and produced only 1865-1934 Murray entries on images 553-554. Current high-value targets are Deed Book C-D DGS 8219256 page 334, the obscured 3?? target, and the unresolved 1826 and 1833 John Murray leads; physical page 404 has now been checked and found not to match the old Camden/Marwee target.
 2. **US Census 1840, 1850, 1860, 1870** — Ancestry / FamilySearch. FAN-club sweep: all Irish surnames within Copley settlement zone; capture raw findings in [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]]
 3. **Lewis County local histories** — *History of Lewis County, West Virginia* (1881+), Archive.org, HathiTrust. May contain founding narratives
 4. **Catholic parish records (St. Michael's Church)** — Diocese of Wheeling-Charleston archive. Marriage/baptism records 1838–1870 showing Murray witnesses/godparents

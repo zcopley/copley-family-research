@@ -233,6 +233,7 @@ Full-text searchable index of everyone and everything in this vault. Use Ctrl+K 
 | [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP\|RQ-M1 Lewis County FAN Sweep]] | Findings log for Murray / Copley / settlement-family census and neighbor-network research in Lewis County, 1840-1870 |
 | [[References/Claude for Chrome Lewis County Deed Research Brief\|Claude for Chrome Lewis County Deed Research Brief]] | FamilySearch deed-index handoff for Lewis County Murray / Marwee research |
 | [[References/Claude for Chrome Lewis County Murray Grantee Search\|Claude for Chrome Lewis County Murray Grantee Search]] | Exact-surname compiled grantee-index results for Murray in Lewis County, with the image 553-554 entry cluster and uncertainty flags |
+| [[References/Claude for Chrome Lewis County Deed Book C-D Page 404 Check\|Claude for Chrome Lewis County Deed Book C-D Page 404 Check]] | Controlled negative result showing that physical page 404 does not match the old Camden / Marwee target in Deed Book C-D |
 | [[Topics/1900 Copley Oil Strike\|1900 Copley Oil Strike]] | Copley No. 1 well, South Penn Oil, ~4,800 bbl/day, Lewis County |
 | [[Topics/Irish Famine and Emigration\|Irish Famine & Emigration]] | 1840s–50s emigration context for Copley/Munday families |
 | [[Topics/Irish Immigration to West Virginia\|Irish Immigration to WV]] | Settlement patterns in Lewis/Marshall counties |

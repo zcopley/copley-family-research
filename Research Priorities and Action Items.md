@@ -20,7 +20,7 @@ This is the public research operating list for the Copley family wiki. Use [[Sou
 | Area | Current Status | Best Next Action |
 |---|---|---|
 | Ann Munday / likely Murray | Strong working conclusion; direct identity record still missing. | Identify Ann's Kinawley Murray household and keep searching for a direct marriage, passenger, church, or child death record. |
-| Murray Settlement | Plausible high-value framework for the Lewis County Irish Catholic cluster; the exact-surname grantee search is now complete and yielded only 1865-1934 entries, while the earlier "Marwee" / possible Murray deed-book targets remain unresolved. | Transcribe Deed Book C-D page targets 334 and 404, recover the 1826/1833 deed bodies, and complete the settlement FAN sweep. |
+| Murray Settlement | Plausible high-value framework for the Lewis County Irish Catholic cluster; the exact-surname grantee search is complete, and the old physical page-404 target is now a confirmed mismatch, while page 334 and the obscured 3?? deed-book targets remain unresolved. | Transcribe page 334, recover the 1826/1833 deed bodies, re-check the old page-404 index logic, and complete the settlement FAN sweep. |
 | Michael Copley Sr. origins | Kilgefin / Fairymount remains the strongest working origin. | Connect the documented Fairymount Copely family to Michael through parish, civil, or collateral records. |
 | Mary Copely Giblin / Iowa branch | Verified person; relationship to Michael is plausible but unproven. | Build the Iowa descendant chain and identify Stephen Donald Copley's parents. |
 | Copley No. 1 oil strike | Oil-strike context is verified; family financial effect remains plausible. | Locate lease, royalty, title-chain, probate, and estate records for 1899-1925. |
@@ -37,11 +37,12 @@ The highest-impact items below have practical templates in [[Tier 1 Research Exe
 ### 1. Transcribe the 1826 and 1833 John Murray Deeds
 **Relevance:** [[Topics/Murray Settlement|Murray Settlement]], [[People/Ann Copley|Ann Copley]], [[Sources and Evidence Index]]  
 **Impact:** HIGH - These deeds could show whether a Murray family anchored the settlement before Michael and Patrick Copley purchased land in 1843.  
-**Research Status:** Open; prior index entries are confirmed, the compiled Grantor Index M-S check did not show a clear Murray entry between Munson and Musgrave, and the compiled exact-surname Grantee Index G-M search is now complete with only 1865-1934 Murray entries on images 553-554. Findings belong in [[RQ-M1-JOHN-MURRAY-DEED-FINDINGS|RQ-M1 John Murray Deed Findings]].
+**Research Status:** Open; prior index entries are confirmed, the compiled Grantor Index M-S check did not show a clear Murray entry between Munson and Musgrave, the compiled exact-surname Grantee Index G-M search is now complete with only 1865-1934 Murray entries on images 553-554, and physical page 404 in Deed Book C-D has now been checked and found not to match the old Camden/Marwee target. Findings belong in [[RQ-M1-JOHN-MURRAY-DEED-FINDINGS|RQ-M1 John Murray Deed Findings]].
 
 **How to proceed:**
 - Treat the exact-surname Grantee Index G-M search as complete for **Murray** and preserve its negative pre-1843 result.
-- Transcribe Deed Book C-D, DGS 8219256, page 334 ("Marwee J. to J. Peck") and page 404 ("Marwee Levi wife to G.D. Camden"), plus the obscured "Marwee Sewig to John Simpson" page in the 300s.
+- Transcribe Deed Book C-D, DGS 8219256, page 334 ("Marwee J. to J. Peck") plus the obscured "Marwee Sewig to John Simpson" page in the 300s.
+- Preserve physical page 404 as a controlled mismatch and re-check the built-in index / page-counting logic behind the old "Marwee Levi wife to G.D. Camden" target.
 - Verify the partially blocked 1865 Murray rows on compiled grantee index image 553 if the toolbar can be bypassed.
 - Acquire or transcribe the known John Murray deed images from Lewis County records.
 - Capture date, grantor, grantee, acreage, price, watercourse, neighbors, witnesses, and legal description.

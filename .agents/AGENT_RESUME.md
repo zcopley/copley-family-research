@@ -17,6 +17,13 @@ Continue priority evidence work for the Copley family wiki, with the active Murr
 
 ## What Was Just Completed
 
+- Integrated Zach's April 30, 2026 Claude for Chrome Deed Book C-D page-404 check into the public research path.
+- Created `References/Claude for Chrome Lewis County Deed Book C-D Page 404 Check.md`.
+- Updated `RQ-M1-JOHN-MURRAY-DEED-FINDINGS.md` with:
+  - the controlled negative result that physical page 404 in DGS 8219256 is image 436 and does not match the old Camden/Marwee target
+  - the corrected page-location logic for physical page 404
+  - the revised next-step workflow focusing on page 334, the obscured 3?? target, the 1826/1833 deed bodies, and the index/page-counting problem
+- Updated `References/Claude for Chrome Lewis County Deed Research Brief.md`, `Sources and Evidence Index.md`, `Research Priorities and Action Items.md`, `Tier 1 Research Execution Kit.md`, `Topics/Murray Settlement.md`, `Topics/Murray Settlement Research Roadmap.md`, `Search Index.md`, and `CHANGELOG.md` so the Murray deed task now treats physical page 404 as a confirmed mismatch rather than a live deed-body target.
 - Integrated Zach's April 30, 2026 Claude for Chrome Lewis County exact-Murray grantee-index handoff into the public research path.
 - Created `References/Claude for Chrome Lewis County Murray Grantee Search.md`.
 - Updated `RQ-M1-JOHN-MURRAY-DEED-FINDINGS.md` with:
@@ -156,7 +163,7 @@ Continue priority evidence work for the Copley family wiki, with the active Murr
 - `Tier 1 Research Execution Kit.md` is now the practical action layer for the top roadmap items.
 - `Visual Story Atlas.md` is now the diagram-first public entry point for the story, evidence status, and research quests.
 - `RQ-M1-JOHN-MURRAY-DEED-FINDINGS.md` now exists as the place to paste John Murray deed images, transcripts, abstracts, and interpretation.
-- The Murray deed task now has two Claude for Chrome handoffs integrated into the wiki: the original Deed Book C-D / grantor-index brief and the completed exact-surname grantee-index result. Prior 1826/1833 index entries are still open, the Deed Book C-D "Marwee" / possible Murray entries remain promising but unconfirmed, and deed texts are still pending.
+- The Murray deed task now has three Claude for Chrome handoffs integrated into the wiki: the original Deed Book C-D / grantor-index brief, the completed exact-surname grantee-index result, and the controlled negative page-404 check. Prior 1826/1833 index entries are still open; page 334 and the obscured 3?? Deed Book C-D targets remain live, but physical page 404 is now ruled out as the old Camden/Marwee target.
 - `RQ-P1-PARTLOW-REVOLUTIONARY-LINE.md` is now the active Partlow proof-chain log.
 - `References/Harry C Partlow 1960 Letter and Handwritten Lineage.md` is the local family-source note for the 1960 Harry Partlow letter and 1977 handwritten lineage.
 - The Partlow working line is: Marion Elizabeth Partlow Copley -> Nollie Franklin / Frank Partlow -> Marion McDonald / M. Partlow -> John H. / John Halleck / Hallick Partlow -> Jacob Partlow / Jacob Newton Partlow -> Benjamin Partlow.
@@ -184,8 +191,10 @@ Continue priority evidence work for the Copley family wiki, with the active Murr
 - Murray deed next steps:
   - Preserve the completed exact-surname Murray grantee-index result: DGS 8293314 yielded only 1865-1934 entries on images 553-554 and no pre-1843 exact Murray grantee entry.
   - Verify the partially blocked 1865 rows on image 553 if the FamilySearch toolbar can be bypassed.
-  - Transcribe Deed Book C-D, DGS 8219256, page 334, page 404, and the obscured "Marwee Sewig" page in the 300s.
+  - Treat physical page 404 in DGS 8219256 as a controlled mismatch; do not keep using it as a direct deed target for the old Camden/Marwee entry.
+  - Transcribe Deed Book C-D, DGS 8219256, page 334 and the obscured "Marwee Sewig" page in the 300s.
   - Revisit the 1826 and 1833 John Murray index leads and recover the deed-book / page / deed-body details.
+  - Re-check the built-in index reading, page-counting logic, or earlier deed-body pages if pursuing the old Camden/Marwee lead.
   - Add any resulting images, citation paths, transcripts, abstracts, and interpretation first to `RQ-M1-JOHN-MURRAY-DEED-FINDINGS.md`, then update `Sources and Evidence Index.md`, `Topics/Murray Settlement.md`, `Research Priorities and Action Items.md`, and `People/Ann Copley.md` if the deeds materially affect the Ann/Murray hypothesis.
 - FAN sweep next step while waiting on Claude for Chrome:
   - Paste incoming Ancestry census / neighbor findings into `RQ-M1-LEWIS-COUNTY-FAN-SWEEP.md`.

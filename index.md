@@ -1,81 +1,95 @@
----
-title: Copley Family History
-description: Six generations of an Irish-American family — from County Roscommon, Ireland to Lewis County, West Virginia and across the United States. An active genealogical research project.
+title: Copley Family Research Vault
+description: Obsidian-based genealogy research vault for the Copley family, including timelines, people profiles, themes, and source-guided investigation notes.
 date: 2026-04-18
-socialImage: images/john-and-mary-ellen-copley.jpg
+tags:
+  - copley-family
+  - genealogy
+  - irish-immigration
+  - west-virginia
 ---
 
-# The Copley Family
+# Copley Family Research Vault
 
-This site documents the history and genealogy of the Copley family — from their origins in **County Roscommon, Ireland** in the early 19th century, through immigration to **Lewis County, West Virginia** in the 1830s, and across six generations of American life spanning oil strikes, academic achievement, and a family now spread across the United States.
+Welcome to the Copley family research vault. This project consolidates evidence, narrative history, open questions, and biographical profiles for the family line from **Michael Copley Sr. (b. ~1813, County Roscommon, Ireland)** through modern descendants in G27–G28.
 
-Maintained by **Zach Copley** (G26) with contributions from family members.
+## Project Overview
 
-> 📋 **New here or returning?** See what's been added or changed: [[CHANGELOG|→ View the Changelog]]
+The research covers:
+- Irish origins in County Roscommon and the Fairymount/Kilgefin Catholic Copely cluster (active investigation — see [[Topics/Captain John Copley Research|Captain John Copley Research]] and [[Topics/Bredon Descent|Bredon Descent]])
+- Immigration to the United States (1837–38) via New York
+- Murray Settlement / Irish Settlement formation in Lewis County, WV, including the 1843 Copley land purchase
+- The [[Topics/1900 Copley Oil Strike|1900 Copley Oil Strike]] — industrial turning point
+- Intergenerational mobility from farming to professional careers across the 20th century
+- Wider family diaspora, including the likely Iowa branch through [[People/Mary Copely Giblin|Mary Copely Giblin]]
 
-> **First time here?** Start with [[How to Read This Research]] for a short guide to the site's evidence labels, major pages, and open questions.
+```mermaid
+graph LR
+    A["Ireland<br/>Roscommon + Kinawley<br/>1813-1837"] --> B["Migration<br/>New York arrivals<br/>1837-1838"]
+    B --> C["Settlement<br/>Irish/Murray Settlement<br/>1838-1849"]
+    C --> D["Land + Kinship<br/>Copley, Murray, Dolan<br/>1843-1900"]
+    D --> E["Oil Strike<br/>Copley No. 1<br/>1900"]
+    E --> F["Professional Era<br/>Education + careers<br/>1900-2026"]
+    
+    style A fill:#e3f2fd,stroke:#1565c0,color:#0d1b2a
+    style B fill:#fff3e0,stroke:#ef6c00,color:#1f1300
+    style C fill:#f3e5f5,stroke:#6a1b9a,color:#1a1024
+    style D fill:#fce4ec,stroke:#ad1457,color:#2a0714
+    style E fill:#e8f5e9,stroke:#2e7d32,color:#102411
+    style F fill:#f0f4c3,stroke:#827717,color:#1f1d00
+```
 
----
+## Vault Navigation
 
-## Where to Start
+### Core Pages
+- [[How to Read This Research]]
+- [[Family Tree]] ⭐
+- [[Visual Story Atlas]] ⭐
+- [[Who Was Alive When]] ⭐
+- [Timeline](/family-timeline/) — family events & historical context
+- [[People Directory]]
+- [[The Copley Family Narrative]]
+- [[Sources and Evidence Index]]
+- [[Topics and Themes]]
+- [[Topics/Murray Settlement|Murray Settlement]]
+- [[Topics/Bredon Descent|Bredon Descent]]
+- [[Phase 1 Questions and Answers]]
+- [[Search Index]]
 
-**New to the family history?**
-→ [[How to Read This Research]] — quick orientation to the project, evidence labels, and reader paths
-→ [[The Copley Family Narrative]] — the full story told in prose
-→ [[Family Tree]] — visual overview of all generations at a glance
-→ [Timeline](/family-timeline/) — family events in context of US, English & Irish history
+### Recommended Reading Path
+1. [[How to Read This Research]] — quick orientation to the project, evidence labels, and reader paths
+2. [[Visual Story Atlas]] — diagram-first overview of the whole project
+3. [[Who Was Alive When]] — lifespan overlaps, era snapshots, and chronology-first orientation
+4. [[Family Tree]] — visual map of all relationships and generations
+5. [[People Directory]] — orient yourself to people and generations
+6. [[The Copley Family Narrative]] — synthesized prose history
+7. [[Sources and Evidence Index]] — claim-by-claim evidence backbone
+8. [[Topics/Murray Settlement|Murray Settlement]] — current best framework for the immigrant community
+9. [[Topics and Themes]] — historical context and thematic research
+10. [[Research Priorities and Action Items]] — active research priorities and evidence gaps
 
-**Looking for a specific person?**
-→ [[People Directory]] — every family member organized by generation
+## Research Methodology
 
-**Want to check the evidence behind the story?**
-→ [[Sources and Evidence Index]] — major claims, confidence levels, source trails, and proof gaps
+This vault uses an evidence-tier framework:
 
-**Curious about our Irish roots?**
-→ [[Topics/Captain John Copley Research|Captain John Copley Research]] — our ongoing investigation into the Roscommon origins
-→ [[Places/Kilgefin Ireland|Kilgefin, County Roscommon]] — the parish the family likely came from
+1. **Primary evidence** — manifests, deeds, census, parish records, military files
+2. **Secondary synthesis** — county histories, compiled genealogies, historical essays
+3. **Oral history** — family tradition requiring corroboration
+4. **Speculative hypotheses** — clearly marked with ❓ and bracketed notes
 
-**Want to explore a theme or historical event?**
-→ [[Topics and Themes]] — oil strikes, Irish immigration, the B&O Railroad, Civil War, and more
+## Quick Links
 
-**Want to see what's still being researched?**
-→ [[Phase 1 Questions and Answers]] — open questions and evidence gaps
-
-**Want to follow along with new discoveries?**
-→ [[CHANGELOG|Changelog]] — a running log of everything added or updated, newest first
-
----
-
-## The Family at a Glance
-
-| Generation | Who | Where |
-|---|---|---|
-| **G23** | Michael Copley Sr. (b. ~1813) & Ann Munday / likely Murray | County Roscommon + Kinawley, Ireland → Lewis County, WV |
-| **G23/G24** | John Copley (1843–1925) & Mary Ellen Dolan | Lewis County, WV |
-| **G24** | Nelle, Michael Joseph, Thomas E., Mary, Anne | Lewis County → Baltimore, St. Louis, Albuquerque |
-| **G25** | Tom Copley · Stephen Copley · Sardo & Ruland families | California, Pennsylvania, Maryland |
-| **G26** | Zach, Erin, Charlie · Mike, Sara, Phil, Paul, Peter, Susan, Amy | Across the US |
-| **G27–G28** | Wyatt, Augie, Evy, Sam, Lauren, Bobby, Georgia, William, and more | — |
-
----
-
-## Latest Research
-
-> **April 2026 — Breakthrough in Irish Origins**
-> A Catholic Copely family has been confirmed in **Fairymount, Kilgefin parish, County Roscommon** through civil registration records. William Copely (b. ~1794, d. 1864) and his son Michael are the first documented Catholic Copleys in the parish our family is believed to have come from — a significant step toward connecting our American ancestor Michael Copley Sr. to his Irish roots.
->
-> → Full investigation: [[Topics/Captain John Copley Research|Captain John Copley Research]]
-
----
-
-## About This Site
-
-This is a living research project, not a finished document. Evidence is labeled throughout by confidence level:
-
-- ✅ **Verified** — confirmed in a named primary source
-- ⚠️ **Plausible** — reasonable inference, not yet sourced
-- ❓ **Speculative** — working hypothesis, treat with caution
-- 🚫 **Likely incorrect** — contradicted by evidence
-
-Open research questions are tracked in [[Phase 1 Questions and Answers]].
-The central claim-by-claim evidence register is [[Sources and Evidence Index]].
+- [[People/Michael Copley Sr.|Michael Copley Sr.]] — G23 ancestor
+- [[People/Ann Copley|Ann Copley]] — recorded as Munday; likely Murray
+- [[People/John Copley|John Copley]] — G23/G24
+- [[People/Mary Ellen Dolan|Mary Ellen Dolan Copley]]
+- [[People/Mary Copely Giblin|Mary Copely Giblin]] — likely Iowa-branch relative
+- [[People/Ellen Bernadine Nelle Copley Sardo|Ellen "Nelle" Copley Sardo]]
+- [[People/Michael Joseph Copley|Michael Joseph Copley]]
+- [[Places/Lewis County West Virginia|Lewis County, West Virginia]]
+- [[Places/Kilgefin Ireland|Kilgefin, County Roscommon]]
+- [[Places/Kinawley Ireland|Kinawley, County Fermanagh]]
+- [[Topics/Murray Settlement|Murray Settlement]]
+- [[Topics/Bredon Descent|Bredon Descent]]
+- [[Topics/Captain John Copley Research|Captain John Copley Research]]
+- [[Topics/1900 Copley Oil Strike|1900 Copley Oil Strike]]
+- [[Topics/Irish Famine and Emigration|Irish Famine and Emigration]]

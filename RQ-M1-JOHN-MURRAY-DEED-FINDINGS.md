@@ -16,9 +16,9 @@ tags:
 
 # RQ-M1 John Murray Deed Findings
 
-This page is the findings log for the 1826 and 1833 John Murray deed leads in Lewis County, Virginia / West Virginia. It now also captures the April 28 and April 30, 2026 Claude for Chrome FamilySearch deed-index passes summarized in [[References/Claude for Chrome Lewis County Deed Research Brief|Claude for Chrome Lewis County Deed Research Brief]] and [[References/Claude for Chrome Lewis County Murray Grantee Search|Claude for Chrome Lewis County Murray Grantee Search]].
+This page is the findings log for the 1826 and 1833 John Murray deed leads in Lewis County, Virginia / West Virginia. It now also captures the April 28 and April 30, 2026 Claude for Chrome FamilySearch deed-index passes summarized in [[References/Claude for Chrome Lewis County Deed Research Brief|Claude for Chrome Lewis County Deed Research Brief]], [[References/Claude for Chrome Lewis County Murray Grantee Search|Claude for Chrome Lewis County Murray Grantee Search]], and [[References/Claude for Chrome Lewis County Deed Book C-D Page 404 Check|Claude for Chrome Lewis County Deed Book C-D Page 404 Check]].
 
-**Current status:** Prior index leads remain open, and the deed texts have not yet been extracted into this vault. The built-in Deed Book C-D index still contains unresolved "Marwee" / possible Murray targets, while the compiled grantee index exact-surname Murray search is now complete and produced only later entries dated 1865-1934. Use [[Tier 1 Research Execution Kit]] for the request and transcription template.
+**Current status:** Prior index leads remain open, and the deed texts have not yet been extracted into this vault. The built-in Deed Book C-D index still contains unresolved "Marwee" / possible Murray targets, but the old physical **page 404** target is now a confirmed mismatch. The compiled grantee index exact-surname Murray search is now complete and produced only later entries dated 1865-1934. Use [[Tier 1 Research Execution Kit]] for the request and transcription template.
 
 ## Research Question
 
@@ -32,7 +32,7 @@ This matters because an early Murray land record near Cove Lick, Camden, Loveber
 |---|---|---|---|
 | 1826 Murray / Fish entry | FamilySearch index entry: John Murray to Fred L. Fish; page 39; DGS 008293302, image 17; ARK `/ark:/61903/1:1:6X4N-WJ51`. | Index confirmed; deed text not yet located. | Locate the deed page in DGS 008293301 or request the deed from Lewis County Clerk. |
 | 1833 John Murray entry | FamilySearch index entry; DGS 008293302, image 24. | Index confirmed; deed text not yet located. | Capture book/page details and locate the corresponding deed text. |
-| Deed Book C-D built-in M index | DGS 8219256, image 10, right page; probable "Marwee" entries on pages 334, obscured 3??, and 404. | Promising but unconfirmed surname reading; may be Murray, but could be another surname or variant. | Inspect and transcribe pages 334, 404, and the obscured 3?? page; compare surname spelling in deed body. |
+| Deed Book C-D built-in M index | DGS 8219256, image 10, right page; probable "Marwee" entries on pages 334, obscured 3??, and a former 404 target now shown to mismatch physical page 404. | Promising but unstable lead: surname may be Murray, but the 404 page reference and/or reading is wrong. | Inspect page 334, the obscured 3?? page, and re-check the index/page-counting logic behind the former 404 target. |
 | Compiled Grantor Index M-S negative check | DGS 8293317, image 60; no clear Murray entry between Munson and Musgrave. | Negative finding for compiled grantor index position. | Keep as a negative control while evaluating variant spellings and deed-book targets. |
 | Compiled Grantee Index G-M exact Murray search | DGS 8293314, all 558 images; exact Murray entries reported only on images 553-554, all dated 1865-1934. | Search complete for exact Murray; no pre-1843 exact Murray grantee entry found in this compiled index. | Verify the partially blocked 1865 rows, then prioritize the 1826/1833 leads and Deed Book C-D "Marwee" page targets. |
 
@@ -40,7 +40,7 @@ See [[RQ-M1-LEWIS-COUNTY-DEED-SEARCH|RQ-M1 Lewis County Deed Search]] for the ea
 
 ## April 28, 2026 FamilySearch Deed-Index Pass
 
-**Source notes:** [[References/Claude for Chrome Lewis County Deed Research Brief|Claude for Chrome Lewis County Deed Research Brief]] and [[References/Claude for Chrome Lewis County Murray Grantee Search|Claude for Chrome Lewis County Murray Grantee Search]]
+**Source notes:** [[References/Claude for Chrome Lewis County Deed Research Brief|Claude for Chrome Lewis County Deed Research Brief]], [[References/Claude for Chrome Lewis County Murray Grantee Search|Claude for Chrome Lewis County Murray Grantee Search]], and [[References/Claude for Chrome Lewis County Deed Book C-D Page 404 Check|Claude for Chrome Lewis County Deed Book C-D Page 404 Check]]
 
 **Repository:** FamilySearch, Lewis County (West Virginia) County Clerk, *Deeds, 1817-1902; deed index, 1817-1965*.
 
@@ -57,7 +57,7 @@ See [[RQ-M1-LEWIS-COUNTY-DEED-SEARCH|RQ-M1 Lewis County Deed Search]] for the ea
 |---|---|---|---:|---|
 | Marwee J. | Murray J.? / Maxwell J.? | J. Peck [?] | 334 | Inspect approximate image 351 and nearby pages. |
 | Marwee Sewig | Murray [Siney/Sabine/Sidney?]? | John Simpson | obscured 3?? | Locate by scanning surrounding page range. |
-| Marwee Levi wife | Murray Levi and wife? | G.D. Camden | 404 | Inspect approximate image 421 and nearby pages. |
+| Marwee Levi wife | Murray Levi and wife? | G.D. Camden | 404 | Physical page 404 was later checked on image 436 and found to be a mismatch; re-check index reading, counting convention, or earlier deed-body pages. |
 
 **Interpretation:** The "Marwee" readings mildly support a pre-1843 Murray land-activity lead, especially because one possible grantee is G.D. Camden. However, the surname is not confirmed, and the actual deed pages must be read before changing the settlement claim status.
 
@@ -89,14 +89,34 @@ Claude then searched the compiled **Grantee Index G-M**, DGS **8293314**, across
 
 Later exact-Murray entries continue through 1934 and include transactions tied to Hannahs Camp Fork, Laurel Fork, Sand Fork, Weston, Kunst Addition, Machpelah Cemetery, and Laurel Run. See [[References/Claude for Chrome Lewis County Murray Grantee Search|the full handoff note]] for the complete table and uncertainty flags.
 
+### April 30, 2026 Physical Page 404 Check
+
+Claude then tested the old Deed Book C-D target **"Marwee Levi wife" -> G.D. Camden -> page 404** against the actual physical page **404** in DGS **8219256**. The result is now a controlled negative finding.
+
+**Confirmed facts:**
+
+- physical deed-book page **404** is on **image 436**
+- page 404 contains only wife-acknowledgment certificates for **Caroline F. Green** and **Emma S. Fleming**
+- no **Camden**, **Murray**, **Marwee**, or **Levi** appears on page 404
+- adjacent pages **396-403** also failed to show those names
+
+**Implications:**
+
+- the old page-404 target is **not** a usable direct deed target as previously framed
+- the earlier image estimate of roughly **421** was wrong
+- the built-in index may still preserve a real lead, but the page reference, page-counting assumption, surname reading, or all three are unstable
+
+See [[References/Claude for Chrome Lewis County Deed Book C-D Page 404 Check|the full page-404 check note]] for the exact citations, URLs, and failure analysis.
+
 ### Priority Workflow
 
 1. Verify the partially blocked **1865** rows on compiled grantee index image 553 if the FamilySearch toolbar can be bypassed.
-2. Transcribe the Deed Book C-D page targets 334, 404, and the obscured "Marwee Sewig" page.
-3. Revisit the **1826** and **1833** John Murray index leads and capture the missing book/page and deed-body details.
-4. Check Deed Books A-B, DGS 8219258, for pre-1824 Murray variants.
-5. Check Deed Book E-F, DGS 8219257, if the 1833 lead falls outside the DGS 8219256 range.
-6. Consult the Hacker's Creek abstracts volume for Deed Books A-C if direct images remain difficult to read.
+2. Transcribe the Deed Book C-D page **334** target and the obscured **"Marwee Sewig"** page.
+3. Treat physical page **404** as a confirmed mismatch and re-check the built-in index reading, page-counting logic, or earlier deed-body pages if the Camden lead is pursued.
+4. Revisit the **1826** and **1833** John Murray index leads and capture the missing book/page and deed-body details.
+5. Check Deed Books A-B, DGS 8219258, for pre-1824 Murray variants.
+6. Check Deed Book E-F, DGS 8219257, if the 1833 lead falls outside the DGS 8219256 range.
+7. Consult the Hacker's Creek abstracts volume for Deed Books A-C if direct images remain difficult to read.
 
 ## Deed 1: 1826 Murray / Fish
 
@@ -179,6 +199,7 @@ Later exact-Murray entries continue through 1934 and include transactions tied t
 | Deed cannot be accessed digitally | Shift next action to Lewis County Clerk, WV State Archives, FamilySearch Center, or alternate deed databases. |
 | Compiled grantor index remains negative, but grantee index or built-in book index finds Murray variants | Treat as a variant-indexing problem, not a contradiction. |
 | Compiled grantee index exact Murray search yields only 1865-1934 entries | Treat as a later settlement-cluster result, not proof against earlier Murray presence under other index paths or spellings. |
+| Physical page 404 does not match the built-in "Marwee Levi wife" target | Treat page 404 as a controlled mismatch and shift effort to page 334, the obscured 3?? target, and the index/page-counting problem itself. |
 
 ## Update Targets When Findings Arrive
 
