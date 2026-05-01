@@ -1,3 +1,4 @@
+---
 title: Copley Family Research Vault
 description: Obsidian-based genealogy research vault for the Copley family, including timelines, people profiles, themes, and source-guided investigation notes.
 date: 2026-04-18
