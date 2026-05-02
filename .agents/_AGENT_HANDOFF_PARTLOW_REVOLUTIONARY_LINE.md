@@ -9,6 +9,9 @@ tags:
 
 # Partlow Revolutionary Line Handoff
 
+> Historical handoff note:
+> This file preserves the focused Partlow proof-chain handoff as of April 28, 2026. It is not the primary current checkpoint. Use `.agents/AGENT_RESUME.md` first, then return here only if you are actively working the Partlow line.
+
 ## Goal
 
 Track Zach's Partlow line back to a documented American Revolution ancestor, currently believed to be **Benjamin Partlow** of Culpeper County, Virginia, a Virginia militia pensioner.

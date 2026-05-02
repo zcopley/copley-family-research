@@ -5,6 +5,9 @@ date: 2026-04-23
 
 # Phase 2M Handoff: RQ-M5 Research — "Munday" vs. "Murray" Investigation
 
+> Historical handoff note:
+> This file preserves the Phase 2M state as of April 23, 2026. It is not the current operational checkpoint. Use `.agents/AGENT_RESUME.md` first, then return here only if you need the detailed historical logic for the RQ-M5 "Munday" vs. "Murray" investigation.
+
 ## Overview
 
 Comprehensive investigation of the highest-leverage research question in the Murray Settlement study: **Was Ann Munday actually Ann Murray?**

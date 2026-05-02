@@ -15,6 +15,12 @@ Last updated: 2026-05-01
 
 Continue priority evidence work for the Copley family wiki, with the active Murray Settlement deed task now shifted past the exact-surname grantee-index search, past the physical page-334 / page-404 mismatches, past the retired built-in "Marwee Sawig" line, and past the closed Murray/Fish misindex, onto the unresolved 1833 deed body.
 
+## How To Use This File
+
+- Start here for the current operational state.
+- Treat the `_AGENT_HANDOFF_PHASE_*` and `_AGENT_HANDOFF_*` files as historical context unless this file explicitly points you back to one.
+- When a historical handoff conflicts with this file, this file wins.
+
 ## What Was Just Completed
 
 - Integrated Zach's May 1, 2026 Claude for Chrome correction for the long-carried John Murray -> Fred L. Fish lead.
@@ -178,6 +184,7 @@ Continue priority evidence work for the Copley family wiki, with the active Murr
 - Mermaid subgraph titles and edge labels also have a renderer-level outline fallback in `quartz/components/styles/mermaid.inline.scss`.
 - The main public reader path now reflects the current research state as of Phase 3A.
 - `Sources and Evidence Index.md` is now the central place to check and maintain claim-level source status.
+- `Family Tree.md` is no longer a single all-generation chart; it is now a branch-by-branch relationship hub with smaller Mermaid diagrams and a legacy image kept only as a fallback reference.
 - The people-navigation path now reflects the current research state as of Phase 3C.
 - Ann's canonical profile and alternate-name page are aligned with the Murray working conclusion, the direct-record gap, and the evidence index.
 - `Research Priorities and Action Items.md` now reflects the evidence index and Phase 3A-3D public reader path.

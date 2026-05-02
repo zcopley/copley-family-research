@@ -30,6 +30,16 @@ A running record of significant additions, corrections, and improvements to this
 - [[Visual Story Atlas|Visual Story Atlas]] - updated the guidance line so it points readers to Family Tree for branch-by-branch relationships.
 - [[Topics and Themes|Topics and Themes]] - tightened the Family Tree guidance so it emphasizes branches and key family lines rather than a giant all-generation visual.
 
+## Phase 4AI - Philip Copley and Agent-Handoff Cleanup (May 1, 2026)
+
+**MIXED MAINTENANCE PASS:** Added one more bounded Stephen-line appendix enrichment and clarified how future agents should use the historical handoff files now that `AGENT_RESUME` is the real current checkpoint.
+
+### Updated Pages
+
+- [[People/Philip Copley|Philip Copley]] - added a fuller narrative for the Madison and Palos Verdes household stages, his place in the first-marriage Stephen-line sibling cohort, and the limited but useful `ESP` band detail.
+- [[References/Copley History Part 1 and Appendix Source Audit|Copley History Part 1 and Appendix Source Audit]] - marked Philip as having received a first bounded appendix-enrichment pass.
+- `[[CLAUDE]]` was already corrected in the prior pass; this follow-up instead clarifies the active checkpoint behavior inside `.agents/AGENT_RESUME.md` and adds explicit historical-notice banners to `.agents/_AGENT_HANDOFF_PHASE_2M.md` and `.agents/_AGENT_HANDOFF_PARTLOW_REVOLUTIONARY_LINE.md`.
+
 ## Phase 4AH - Internal Family Tree / Phase Label Maintenance (May 1, 2026)
 
 **INTERNAL-DOCS CLEANUP:** Corrected the highest-signal stale internal instructions so future agents are less likely to follow pre-redesign Family Tree assumptions or outdated phase labels.
