@@ -30,6 +30,14 @@ A running record of significant additions, corrections, and improvements to this
 - [[Visual Story Atlas|Visual Story Atlas]] - updated the guidance line so it points readers to Family Tree for branch-by-branch relationships.
 - [[Topics and Themes|Topics and Themes]] - tightened the Family Tree guidance so it emphasizes branches and key family lines rather than a giant all-generation visual.
 
+## Phase 4AH - Internal Family Tree / Phase Label Maintenance (May 1, 2026)
+
+**INTERNAL-DOCS CLEANUP:** Corrected the highest-signal stale internal instructions so future agents are less likely to follow pre-redesign Family Tree assumptions or outdated phase labels.
+
+### Updated Pages
+
+- [[CLAUDE]] - corrected the repository-structure note for the old phase handoff files and relabeled the Phase 2G Irish-origins section as historical background rather than active operational state.
+
 ## Phase 4AE - Michael (1959) Appendix Enrichment (May 1, 2026)
 
 **STEPHEN-LINE DESCENDANT PASS:** Continued the selective appendix-bio pass with a first bounded update to Michael Copley (b. 1959), using Stephen Copley's sketch to make the page less skeletal without overclaiming beyond the available family-context evidence.

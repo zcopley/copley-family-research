@@ -44,7 +44,7 @@ A genealogical research wiki for the Copley family, spanning Irish immigrant anc
 ├── .agents/_AGENT_HANDOFF_PHASE_2A.md  ← prior phase context
 ├── .agents/_AGENT_HANDOFF_PHASE_2G.md  ← prior phase context
 ├── .agents/_AGENT_HANDOFF_PHASE_2H.md  ← prior phase context
-├── .agents/_AGENT_HANDOFF_PHASE_2I.md  ← current phase context
+├── .agents/_AGENT_HANDOFF_PHASE_2I.md  ← prior phase context
 ├── CHANGELOG.md               ← human-readable changelog (all phases)
 └── CLAUDE.md              ← this file
 ```
@@ -223,7 +223,9 @@ If a diagram cannot be updated because the relationship is still uncertain, add 
 
 ---
 
-## Irish Origins Research (Phase 2G — Active)
+## Irish Origins Research (Historical Background)
+
+This section preserves the high-signal background from the Phase 2G origins work. It is no longer the active phase label for day-to-day repo operations; use `.agents/AGENT_RESUME.md` for the current operational state and top-priority research queue.
 
 Tom Copley (G25) and Steve Copley (G25) conducted extensive research (Feb–March 2026) into the English/Irish origins of Michael Copley Sr. (G23). The full analysis is in `Topics/Captain John Copley Research.md`.
 
