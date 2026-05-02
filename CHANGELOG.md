@@ -10,6 +10,15 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4AQ - Stephen-Line Summary Normalization Sweep (May 1, 2026)
+
+**INDEX-LEVEL CLEANUP:** Tightened the short directory and summary language around the Stephen-line sibling cluster so the index-level descriptions now match the corrected Berkeley -> Madison -> Palos Verdes chronology and the current evidence level.
+
+### Updated Pages
+
+- [[Search Index|Search Index]] - normalized the short summaries for Michael Copley (b. 1959) and Philip Copley so they now reflect the corrected branch chronology and, for Philip, the appendix-backed `ESP` detail.
+- [[People Directory|People Directory]] - tightened the G27-generation gap note so it reflects the current state of the sibling-cluster cleanup more accurately.
+
 ## Phase 4AP - Philip Copley Correction and Enrichment Pass (May 1, 2026)
 
 **STEPHEN-LINE CLEANUP CONTINUES:** Reworked Philip Copley with a stronger appendix-backed pass that both deepens his branch role and removes inherited school and birth-context assumptions that did not match the Stephen appendix sketch.

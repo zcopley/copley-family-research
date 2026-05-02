@@ -180,7 +180,7 @@ Use this directory to find profiles for specific people. Start at the generation
 - [[Michael Copley (b. 1959)]], [[Sara Copley Cox]], [[Philip Copley]], [[Paul Copley]], [[Peter Copley]], [[Susan Copley]], [[Stephen Joseph Copley]], [[Amy E. Copley Geist]]
 
 Gaps for this generation:
-- Standardized biographies for profiles without dedicated first-person appendix sketches
+- A few living-person pages still depend mainly on family-context sketches rather than dedicated first-person autobiographies
 - Uniform source citations for education/profession/life events
 - Privacy-aware handling of living-person details and sensitive disability-care history
 

@@ -102,9 +102,9 @@ Full-text searchable index of everyone and everything in this vault. Use Ctrl+K 
 
 | Name | Born | Died | Also Known As |
 |------|------|------|---------------|
-| [[People/Michael Copley (b. 1959)\|Michael Copley (b. 1959)]] | 1959 | — | Mike Copley; married Patti Inman Oct 1984; children Michael Stephen b.1986, Sara Marie b.1988 |
+| [[People/Michael Copley (b. 1959)\|Michael Copley (b. 1959)]] | 1959 | — | Oldest Stephen-line child; Berkeley -> Madison -> Palos Verdes branch context; married Patti Inman Oct 1984; children Michael Stephen b.1986, Sara Marie b.1988 |
 | [[People/Sara Copley Cox\|Sara Copley Cox]] | Feb 3, 1961, Alta Bates Hospital, Berkeley CA | — | Sara Marie Cox; Verizon 1989–2018; SVS itinerant; Granite Bay CA |
-| [[People/Philip Copley\|Philip Copley]] | 1962 | — | married Tracy Siler Jan 1989; children Philip Michael b.1990, John William b.1992 |
+| [[People/Philip Copley\|Philip Copley]] | 1962 | — | Older Stephen-line sibling; Berkeley -> Madison -> Palos Verdes branch context; ESP band with Peter; married Tracy Siler Jan 1989; children Philip Michael b.1990, John William b.1992 |
 | [[People/Paul Copley\|Paul Copley]] | 1964, Berkeley CA | — | USC BS Exercise Science; married Anne Marie Leonhardt Jul 1989; children James Stephen b.1991, John William b.1994, Georgia Marie b.1996; SVS Fresno CA |
 | [[People/Peter Copley\|Peter Copley]] | Jan 12, 1966, New Haven CT | — | Peter G. Copley; married Karen VanderMolen RN 2012; Fillmore CA; musician |
 | [[People/Susan Copley\|Susan Copley]] | 1967 | — | b. likely CT (family in Madison/New Haven area); details unconfirmed |
