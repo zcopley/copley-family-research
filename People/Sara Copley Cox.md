@@ -45,9 +45,13 @@ tags:
 
 Sara's appendix sketch traces a childhood across Berkeley, Madison, and Palos Verdes. She remembers University Village in Berkeley, then Madison, Connecticut, where the family lived first on Wild Wood Avenue and then on Neck Road near Long Island Sound. In 1970 the family moved back to California, first to Lomita and then to Palos Verdes Estates, where Sara attended Valmonte Elementary, Malaga Cove Intermediate, and Palos Verdes High School.
 
-Her college path began at Willamette College in Oregon and continued at USC, where she shifted from political science toward social psychology. She later moved into practical administrative and analytical work: first at Social Vocational Services, then in a long Verizon Wireless career that ran from 1989 through 2018 and included accounting, reporting, and data analytics roles.
+As the second of seven children from Stephen and Marcia's first marriage, Sara occupies an important bridge position in the Stephen-line sibling set. She was old enough to remember both the Berkeley graduate-student years and the Madison childhood world in some detail, but young enough to spend her formative school years in the later Palos Verdes household alongside the younger siblings. Her sketch is therefore one of the clearest sources for the family's cross-country transition from early academic life into the large Southern California household that later shaped Philip, Paul, Peter, Susan, and Stephen Joseph.
 
-After leaving Verizon, Sara returned to SVS in an itinerant executive-assistant role, traveling among divisional offices and supporting the organization's leadership. Her page now treats the appendix as a first-person family source while keeping current living-person detail at a public-facing level.
+Her own recollections add texture that the shorter profile once lacked. Madison appears in her memory as a place of sledding, skating, beach trips, woods, and Long Island Sound; Palos Verdes appears as beaches, Roessler Memorial Pool, Valmonte Little League culture, softball with her father as assistant coach, and a household where her father also served as a memorable tutor when math or chemistry became difficult. Those details make her page especially useful for understanding what daily family life felt like before the later adult careers scattered the branch.
+
+Her college path began at Willamette College in Oregon and continued at USC, where she shifted from political science toward social psychology. She later moved into practical administrative and analytical work: first at Social Vocational Services, then in a long Verizon Wireless career that ran from November 1, 1989 through December 31, 2018 and included accounting, reporting, and data analytics roles.
+
+After leaving Verizon, Sara returned to SVS in an itinerant executive-assistant role, traveling among divisional offices and supporting the organization's leadership. That return reinforces a pattern visible across several sibling pages: the family system shaped partly by [[Stephen Joseph Copley]]'s long care needs later fed directly into work with disability-service institutions, especially SVS. Sara's page therefore works not only as an individual biography, but also as a clear bridge between the early Copley household, the Sacramento-era adult branch, and the later family-service network built around SVS.
 
 ## Family Relationships
 
@@ -69,5 +73,5 @@ After leaving Verizon, Sara returned to SVS in an itinerant executive-assistant 
 
 ## Sources
 
-1. `~/Downloads/Part 1 Appendices .pdf` — Sara Cox biographical sketch (primary, first-person).
+1. `~/Downloads/Part 1 Appendices .pdf` — Sara Cox biographical sketch (primary, first-person), pp. 12-13.
 2. [[Family Tree]] — internal branch mapping.

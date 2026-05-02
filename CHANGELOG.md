@@ -10,6 +10,15 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4AN - Sara Copley Cox Appendix Enrichment (May 1, 2026)
+
+**STEPHEN-LINE CLEANUP CONTINUES:** Added a stronger bounded appendix-backed pass to Sara Copley Cox so her page better explains the family’s Berkeley-to-Madison-to-Palos-Verdes transition and her role as an older-sibling bridge into the later SVS-centered branch network.
+
+### Updated Pages
+
+- [[People/Sara Copley Cox|Sara Copley Cox]] - added stronger sibling-cohort and branch-bridge context, more of the Madison and Palos Verdes family-life detail from her own sketch, and a clearer explanation of how her later SVS work fits the wider family pattern.
+- [[References/Copley History Part 1 and Appendix Source Audit|Copley History Part 1 and Appendix Source Audit]] - marked Sara Copley Cox as having received a stronger bounded appendix-enrichment pass.
+
 ## Phase 4AM - Paul Copley Appendix Enrichment (May 1, 2026)
 
 **STEPHEN-LINE CLEANUP CONTINUES:** Added a stronger bounded appendix-backed pass to Paul Copley so his page better explains his place in the sibling cohort and the service-oriented branch thread that runs from the Palos Verdes household into education and disability-support work.
