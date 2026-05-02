@@ -12,6 +12,19 @@ tags:
 
 Welcome to the Copley family research vault. This project consolidates evidence, narrative history, open questions, and biographical profiles for the family line from **Michael Copley Sr. (b. ~1813, County Roscommon, Ireland)** through modern descendants in G27–G28.
 
+## Start Here by Goal
+
+| If you want... | Go here first | Then go here |
+|---|---|---|
+| The big family story in plain English | [[The Copley Family Narrative]] | [[Visual Story Atlas]] |
+| A fast visual overview of the whole project | [[Visual Story Atlas]] | [[Who Was Alive When]] |
+| To understand who was alive when | [[Who Was Alive When]] | [[Family Tree]] |
+| To understand how branches connect | [[Family Tree]] | [[People Directory]] |
+| To look up a specific person | [[People Directory]] | [[Search Index]] |
+| To check whether a claim is actually proven | [[Sources and Evidence Index]] | [[How to Read This Research]] |
+| To follow the immigrant / Lewis County research questions | [[Topics/Murray Settlement\|Murray Settlement]] | [[Research Priorities and Action Items]] |
+| To understand the Irish-origin investigation | [[Topics/Captain John Copley Research\|Captain John Copley Research]] | [[Topics/Bredon Descent\|Bredon Descent]] |
+
 ## Project Overview
 
 The research covers:

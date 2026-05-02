@@ -10,6 +10,15 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4AR - Homepage Reader-Goal Upgrade (May 1, 2026)
+
+**ENTRY-POINT UPGRADE:** Added a reader-goal section to the homepage so first-time visitors can choose whether they want story, timeline, relationships, people, proof, or active research, instead of having to infer the right starting page from the full navigation list.
+
+### Updated Pages
+
+- [[Home]] - added a `Start Here by Goal` table near the top of the page so readers can jump directly to the right entry path.
+- `index.md` - mirrored the same reader-goal table on the live root homepage so the improvement applies to the deployed landing page as well as the internal `Home` page.
+
 ## Phase 4AQ - Stephen-Line Summary Normalization Sweep (May 1, 2026)
 
 **INDEX-LEVEL CLEANUP:** Tightened the short directory and summary language around the Stephen-line sibling cluster so the index-level descriptions now match the corrected Berkeley -> Madison -> Palos Verdes chronology and the current evidence level.
