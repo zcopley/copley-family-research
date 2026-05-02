@@ -10,6 +10,15 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4AX - Thomas Partlow Copley Direct Corrections (May 2, 2026)
+
+**AUTHOR-CORRECTION UPDATE:** Incorporated Tom Copley's direct follow-up corrections to his own biography so the page no longer understates his academic titles or misplaces Charlie's birthplace.
+
+### Updated Pages
+
+- [[People/Thomas Partlow Copley|Thomas Partlow Copley]] - corrected Charlie's Dayton, Ohio birthplace before the Bay Area return, corrected Wilkes / Bank of America / NCR / Antioch titles, and noted Tom's later explanation that these were tenure-track academic roles even though he was glad to leave academia.
+- [[References/Copley History Part 1 and Appendix Source Audit|Copley History Part 1 and Appendix Source Audit]] - noted that the Thomas page now includes direct family-author corrections beyond the appendix sketch alone.
+
 ## Phase 4AW - Agent Handoff Refresh (May 1, 2026)
 
 **INTERNAL-MAINTENANCE UPDATE:** Refreshed the active agent-resume state so future sessions start from the current reader-navigation and evidence-status workflow rather than stale Murray-only priorities.

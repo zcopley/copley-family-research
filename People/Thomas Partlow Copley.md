@@ -40,7 +40,7 @@ At UC Berkeley, Tom moved away from early pre-engineering and pre-med false star
 
 The appendix sketch gives his career a more continuous arc than the current summary alone suggests. It runs from early teaching at Wilkes College and Washington State through research work at Bank of America, corporate work at NCR, and several years teaching at Antioch College in Yellow Springs. It then pivots into the first generation of computer-based education ventures: Tom worked with The Electronic University in San Francisco, later contracted with Apple Computer on online-learning products, and eventually co-founded Arlington Courseware with his son [[Zachary R. Copley|Zach]]. That path makes him one of the clearest family links between older university-based teaching and the later internet-era education/business layer of the project.
 
-The sketch also sharpens the family's late geographic return: concern over [[Michael Joseph Copley]]'s declining health helped pull Tom and Dee back toward the Bay Area in the 1980s, where their third child [[Charles H. Copley|Charlie]] was born in 1985. Tom later worked with `drtoy.com`, did webmaster and contract work, and remained in the Berkeley / Richmond Annex orbit into semi-retirement.
+The sketch also sharpens the family's late geographic return: concern over [[Michael Joseph Copley]]'s declining health helped pull Tom and Dee back toward the Bay Area in the 1980s. Their third child [[Charles H. Copley|Charlie]] was born in Dayton, Ohio, before the family completed that move west in 1985. Tom later worked with `drtoy.com`, did webmaster and contract work, and remained in the Berkeley / Richmond Annex orbit into semi-retirement.
 
 ## Lived During
 
@@ -69,18 +69,18 @@ For a chronology-first view of those overlaps, see [[Who Was Alive When]].
 
 | Period | Role | Location |
 |--------|------|----------|
-| 1970–71 | Instructor | Wilkes College, Wilkes-Barre, PA |
+| 1970–71 | Assistant Professor | Wilkes College, Wilkes-Barre, PA |
 | ~1971–72 | Assistant Professor of Business Administration | Washington State University, Pullman, WA |
-| ~1972–76 | Research Officer | Bank of America, San Francisco, CA |
-| 1976–~1980 | Staff | NCR Corporation, Dayton, OH |
-| ~1980–85 | Business instructor | Antioch College, Yellow Springs, OH |
+| ~1972–76 | Research Marketing Officer; later Marketing Consultant, Marketing Research Department | Bank of America, San Francisco, CA |
+| 1976–~1980 | Senior Strategist, Strategic Planning Department; later Product Manager | NCR Corporation, Dayton, OH |
+| ~1980–85 | Associate Professor and head of Business Management | Antioch College, Yellow Springs, OH |
 | 1985–~87 | Program Manager, Business Courses | The Electronic University, San Francisco, CA |
 | ~1987–90 | Contractor | Apple Computer |
 | ~1990–2001 | Co-founder | Arlington Courseware (with son Zach; ceased 2001) |
 | ~2001–06 | Webmaster | drtoy.com |
 | 2006– | Semi-retired; various gig roles | Richmond Annex, CA |
 
-The appendix's first-person framing suggests a useful through-line across these roles: Tom repeatedly moved between academia, institutional employment, and entrepreneurial teaching/media work rather than staying in a single corporate or faculty lane.
+The appendix's first-person framing suggests a useful through-line across these roles: Tom repeatedly moved between academia, institutional employment, and entrepreneurial teaching/media work rather than staying in a single corporate or faculty lane. In later family corrections, Tom emphasized that his teaching appointments were tenure-track roles rather than casual instructional posts, even though he ultimately felt leaving academia was better for his mental health because he liked the students far more than the bureaucracy and regimentation.
 
 ## Family Relationships
 
@@ -105,3 +105,4 @@ The appendix's first-person framing suggests a useful through-line across these 
 1. `~/Downloads/Part 1 Appendices .pdf` — Tom Copley biographical sketch, pp. 9-11 (primary, first-person).
 2. `~/Downloads/COPLEY HISTORY PART 1 final 2.pdf` — family structure and generation context.
 3. [[Family Tree]] — internal branch mapping.
+4. Tom Copley correction note to Zachary R. Copley, May 2, 2026 — direct family-author corrections on Charlie's birthplace and Tom's Wilkes / Bank of America / NCR / Antioch titles.
