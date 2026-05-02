@@ -13,7 +13,7 @@ tags:
 
 **Start here:** [[Family Tree]] and [[Sources and Evidence Index]]
 
-This index points to profile pages in `People/` and is organized by generation. Use [[Family Tree]] as the visual reference for branch structure.
+This index points to profile pages in `People/` and is organized by generation. Use [[Family Tree]] as the branch-by-branch relationship guide rather than a single giant chart.
 
 ## Name Disambiguation Notes
 - **Michael Copley:** use [[Michael Copley Sr|Michael Copley]] (1813–1897), [[Michael Joseph Copley]] (1898–1988), or [[Michael Copley (b. 1959)]].

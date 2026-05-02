@@ -59,7 +59,7 @@ graph LR
 1. [[How to Read This Research]] — quick orientation to the project, evidence labels, and reader paths
 2. [[Visual Story Atlas]] — diagram-first overview of the whole project
 3. [[Who Was Alive When]] — lifespan overlaps, era snapshots, and chronology-first orientation
-4. [[Family Tree]] — visual map of all relationships and generations
+4. [[Family Tree]] — branch-by-branch relationship guide across the main family lines
 5. [[People Directory]] — orient yourself to people and generations
 6. [[The Copley Family Narrative]] — synthesized prose history
 7. [[Sources and Evidence Index]] — claim-by-claim evidence backbone

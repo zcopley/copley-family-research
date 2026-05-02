@@ -9,265 +9,235 @@ tags:
 
 # Copley Family Tree
 
-This page provides a visual, multi-generation map of the Copley family line from the Irish immigrant ancestors through G28 descendants. The diagram is organized top-to-bottom by generation and uses branch color-coding to make lineage groups easier to follow.
+This page is now a relationship hub rather than a single all-family chart. Use it to orient yourself quickly, then jump to the relevant branch pages and person profiles.
 
-![Copley Family Tree Diagram](../static/images/copley-family-tree-diagram.jpg)
+For chronology, pair this page with [[Who Was Alive When]]. For story and evidence strength, keep [[Visual Story Atlas]] and [[Sources and Evidence Index]] nearby. For the older speculative English ancestry question, go to [[Topics/Bredon Descent]] and [[Topics/Captain John Copley Research]].
 
-> [!tip] Navigation
-> In Quartz and Obsidian, use this diagram as a visual reference alongside individual profile pages. Where clickable labels are enabled, you can click names to navigate to related person pages.
+> [!tip] Best Way To Use This Page
+> Start with the founding family overview, then open the branch chart that matches the person you care about. Use [[People Directory]] when you want the full list of profiles by generation.
 
-## Mermaid Diagram
+## Branch Jump List
+
+- [[#Founding Family Overview|Founding Family Overview]]
+- [[#John And Mary Ellens Children|John and Mary Ellen's Children]]
+- [[#Nelle--Sardo-Branch|Nelle / Sardo Branch]]
+- [[#Michael Joseph To Stephen Line|Michael Joseph to Stephen Line]]
+- [[#Michael Joseph To Tom Line|Michael Joseph to Tom Line]]
+- [[#Older And Speculative Ancestry|Older and Speculative Ancestry]]
+
+## How To Read These Family Charts
+
+- **Solid family boxes** show direct family members in the documented line.
+- **Dashed boxes** show spouses or in-laws.
+- **Gold diamond connectors** mark marriages.
+- **Muted branch-summary boxes** compress a larger descendant cluster when naming everyone would make the chart unreadable.
+- **Light blue / green / peach / rose fills** distinguish the main trunk and branch groupings; they are only navigation aids, not evidence rankings.
+
+## Founding Family Overview
+
+This chart shows the immigrant couple, their best-documented child line, and the two branch-parent children whose descendants dominate the current vault.
 
 ```mermaid
-graph TD
+flowchart TB
+    classDef root fill:#e8f1fb,stroke:#2f5d8a,stroke-width:2px,color:#102235,font-weight:bold
+    classDef family fill:#eef7ec,stroke:#397a43,stroke-width:2px,color:#132417
+    classDef branch fill:#fff1df,stroke:#b86c1f,stroke-width:2px,color:#2b1604
+    classDef spouse fill:#f4efff,stroke:#7a63b8,stroke-width:1.5px,color:#20163d,stroke-dasharray:5,5
+    classDef muted fill:#f6f3ea,stroke:#8b7f67,stroke-width:1.5px,color:#2f2b22
+    classDef marriage fill:#f0c75e,stroke:#b88912,stroke-width:2px,color:#2f2200
 
+    MICHAEL["Michael Copley<br/>1813-1897"]:::root
+    ANN["Ann Copley<br/>1823-1909"]:::root
+    M1{"◇"}:::marriage
+    JOHN["John Copley<br/>1843-1925"]:::family
+    MARY["Mary Ellen Dolan Copley<br/>1855-1901"]:::spouse
+    M2{"◇"}:::marriage
+    THOMAS_E["Thomas E. Copley<br/>1892-1968"]:::muted
+    MARY_F["Mary Copley Flesch<br/>1893-1971"]:::muted
+    ANNE["Anne Copley<br/>1895-1970"]:::muted
+    NELLE["Nelle Copley Sardo<br/>1897-1977"]:::branch
+    MICHAEL_J["Michael Joseph Copley<br/>1898-1988"]:::branch
 
-classDef irish fill:#1a3d2e,stroke:#4caf7c,stroke-width:2px,color:#ffffff,font-weight:bold
-classDef g23 fill:#1b3a50,stroke:#5ca8d4,stroke-width:2px,color:#ffffff,font-weight:bold
-classDef g24sibling fill:#2a2050,stroke:#8b7fd4,stroke-width:2px,color:#ffffff,font-weight:bold
-classDef sardoBranch fill:#1b4a3a,stroke:#2ec4b6,stroke-width:2px,color:#ffffff,font-weight:bold
-classDef stephenLine fill:#4a2800,stroke:#e89a3c,stroke-width:2px,color:#ffffff,font-weight:bold
-classDef tomLine fill:#5a1a2a,stroke:#e06080,stroke-width:2px,color:#ffffff,font-weight:bold
-classDef grandchild fill:#4a3a10,stroke:#d4b850,stroke-width:2px,color:#ffffff,font-weight:bold
-classDef greatgrand fill:#5a2050,stroke:#e070a0,stroke-width:2px,color:#ffffff,font-weight:bold
-classDef spouse fill:#2d1a4a,stroke:#a77bda,stroke-width:1px,color:#ffffff,stroke-dasharray:5,5
-classDef marriage fill:none,stroke:#d4a843,stroke-width:2px,color:#d4a843
-classDef speculative fill:#4a5a4a,stroke:#7a9a7a,stroke-width:1px,color:#f0f0f0,stroke-dasharray:3,3,font-weight:bold
-
-subgraph ENGLISH_ANCESTORS["📜 English Ancestors (Verified & Speculative Descent)"]
-    RICHARD["Sir Richard Copley<br>c. 1375–1434<br>Battley, Yorkshire"]:::speculative
-    ROGER["Roger Copley<br>1430–1490<br>Roughley, Surrey"]:::speculative
-    JANE["Jane Anne Hoo<br>b. 1448"]:::spouse
-    
-    WILLIAM["William Copley<br>c. 1450–1500s<br>Woolbedding, Sussex"]:::speculative
-    BENNETT["Bennett Chaloner<br>of Enfylde"]:::spouse
-    
-    THOMAS_SR["Thomas Copley Sr.<br>c. 1540–1593<br>Bredon's Norton, Worcestershire"]:::speculative
-    MARGARET_N1["Margaret Newport<br>m1"]:::spouse
-    ELENOR["Elenor Midelmore<br>m2"]:::spouse
-    
-    THOMAS_JR["Thomas Copley Jr.<br>c. 1580–1647<br>Bredon's Norton<br>Manor sold 1649"]:::speculative
-    MARGARET_H["Margaret Hanford<br>m1"]:::spouse
-    FRANCIS["Francis Browne<br>m2"]:::spouse
-    
-    CAPTAIN_JOHN["Captain John Copley<br>c. 1610 – post 1657<br>Italy 1634, Ireland 1657<br>Kingswood Ironworks"]:::speculative
-    MARGARET_N["Margaret Newport<br>dau. of George Newport<br>of Rushock"]:::spouse
-    
-    RICHARD --> ROGER
-    JANE --> ROGER
-    ROGER --> WILLIAM
-    BENNETT --> WILLIAM
-    WILLIAM --> THOMAS_SR
-    MARGARET_N1 --> THOMAS_SR
-    ELENOR --> THOMAS_SR
-    THOMAS_SR --> THOMAS_JR
-    MARGARET_H --> THOMAS_JR
-    FRANCIS --> THOMAS_JR
-    THOMAS_JR --> CAPTAIN_JOHN
-    CAPTAIN_JOHN --- CAP_JOHN_M{"◇"}:::marriage
-    MARGARET_N --- CAP_JOHN_M
-end
-
-subgraph ROSCOMMON_SIBLINGS["🇮🇪 Roscommon Extended Family & Siblings of Michael Sr."]
-    PATRICK["Patrick Copley<br>b. ~1818<br>co-emigrant Powhatan 1838<br>co-purchaser 1843 Hoffman deed"]:::irish
-    BRIDGET_SIB["Bridget Copley<br>probable Kutusoff 1837<br>married Hanley<br>Griffith's Valuation Kilgefin?"]:::irish
-    WILLIAM_AUS["William Copley<br>family tradition:<br>'went to Australia'<br>Q6 — unconfirmed"]:::irish
-    MARY_GIBLIN["Mary Copely Giblin<br>b. 1814, Tully, Kilcorkey, Roscommon<br>d. 1884, Crawford County, Iowa<br>probable sibling — Iowa branch"]:::irish
-    WILLIAM_FM["William Copely of Fairymount<br>b. ~1794, Fairymount, Kilgefin<br>d. Q4 1864, Catholic farmer<br>probable older brother/father?"]:::speculative
-end
-
-CAPTAIN_JOHN -.->|speculative descent<br>generations unknown<br>1657–1813| MICHAEL_SR
-WILLIAM_FM -.->|probable sibling<br>or close relative| MICHAEL_SR
-MICHAEL_SR ---|sibling| PATRICK
-MICHAEL_SR ---|sister| BRIDGET_SIB
-MICHAEL_SR ---|sibling| WILLIAM_AUS
-MICHAEL_SR ---|likely sister| MARY_GIBLIN
-
-MICHAEL_SR["Michael Copley<br>b. 1813, Kilgefin, Ireland<br>d. 1897"]:::irish
-ANN_MUNDAY["Ann Elizabeth Munday / likely Murray<br>b. 1823, Kinawley, Ireland<br>d. 1909"]:::irish
-
-MICHAEL_SR --- M1{"◇"}:::marriage
-ANN_MUNDAY --- M1
-M1 --- JOHN
-
-JOHN["John Copley<br>b. Nov 3, 1843<br>d. Sep 6, 1925"]:::g23
-MARY_DOLAN["Mary Ellen Dolan<br>b. Nov 28, 1855<br>d. Dec 5, 1901"]:::g23
-
-JOHN --- M2{"◇"}:::marriage
-MARY_DOLAN --- M2
-M2 --- THOMAS_E
-M2 --- MARY_FLESCH
-M2 --- ANNE_C
-M2 --- NELLE
-M2 --- MICHAEL_JR
-
-THOMAS_E["Thomas E. Copley<br>b. 1892 · d. 1968<br><i>m. Drusilla · no issue</i>"]:::g24sibling
-MARY_FLESCH["Mary Copley Flesch<br>b. 1893 · d. 1971<br><i>m. Edward Flesch</i>"]:::g24sibling
-ANNE_C["Anne Copley<br>b. 1895 · d. 1970<br><i>never married</i>"]:::g24sibling
-
-NELLE["Ellen B. 'Nelle' Copley<br>b. Dec 23, 1897<br>d. Feb 11, 1977"]:::sardoBranch
-ROBERT_SARDO["Robert Samuel Sardo<br>physician<br><i>m. Aug 16, 1931</i>"]:::spouse
-
-NELLE --- M3{"◇"}:::marriage
-ROBERT_SARDO --- M3
-M3 --- SARAH_SARDO
-M3 --- MARY_SARDO
-
-MICHAEL_JR["Michael Joseph Copley<br>b. Sep 16, 1898<br>d. Sep 17, 1988<br><i>chemist, USDA Director</i>"]:::g24sibling
-MARION["Marion Elizabeth Partlow<br><i>m. 1933</i> · d. 1977"]:::spouse
-
-MICHAEL_JR --- M4{"◇"}:::marriage
-MARION --- M4
-M4 --- STEPHEN
-M4 --- TOM
-
-SARAH_SARDO["Sarah Ellen Sardo<br>b. Dec 19, 1933"]:::sardoBranch
-MATT_ARENA["Matthew Paul Arena<br><i>m. Nov 1956</i>"]:::spouse
-
-SARAH_SARDO --- M5{"◇"}:::marriage
-MATT_ARENA --- M5
-M5 --- CATHY_A
-M5 --- ANNMARIE_A
-M5 --- JIM_A
-M5 --- MATT_JR_A
-M5 --- JOHN_A
-
-MARY_SARDO["Mary Carmella Sardo<br>b. May 3, 1936"]:::sardoBranch
-LOUIS_RULAND["Louis Ruland"]:::spouse
-
-MARY_SARDO --- M6{"◇"}:::marriage
-LOUIS_RULAND --- M6
-M6 --- LOUIS_III
-M6 --- ROBERT_R
-M6 --- CHARLES_R
-M6 --- JOHN_R
-M6 --- MICHAEL_R
-
-STEPHEN["Stephen Michael Copley<br>b. Apr 29, 1936<br><i>physicist, professor</i>"]:::stephenLine
-MARCIA["Marcia Thornton<br><i>1st wife · div. 1983</i>"]:::spouse
-JUDY["Judith 'Judy' Todd<br><i>2nd wife · m. 1984</i>"]:::spouse
-
-STEPHEN --- M7{"◇"}:::marriage
-MARCIA --- M7
-M7 --- MC
-M7 --- SARA_C
-M7 --- PHILIP
-M7 --- PAUL
-M7 --- PETER
-M7 --- SUSAN_C
-M7 --- STEPHEN_J
-
-STEPHEN --- M7B{"◇"}:::marriage
-JUDY --- M7B
-M7B --- AMY
-
-TOM["Thomas Partlow Copley<br>b. Oct 29, 1944<br><i>marketing, PhD</i>"]:::tomLine
-BARBARA["Barbara Dee LaForce<br><i>m. Mar 19, 1967</i>"]:::spouse
-
-TOM --- M8{"◇"}:::marriage
-BARBARA --- M8
-M8 --- ZACH
-M8 --- ERIN
-M8 --- CHARLES_C
-
-CATHY_A["Cathy Arena"]:::sardoBranch
-ANNMARIE_A["Ann Marie Arena"]:::sardoBranch
-JIM_A["Jim Arena"]:::sardoBranch
-MATT_JR_A["Matt Jr. Arena"]:::sardoBranch
-JOHN_A["John Arena"]:::sardoBranch
-
-LOUIS_III["Louis III Ruland"]:::sardoBranch
-ROBERT_R["Robert Ruland"]:::sardoBranch
-CHARLES_R["Charles Ruland"]:::sardoBranch
-JOHN_R["John Ruland"]:::sardoBranch
-MICHAEL_R["Michael Ruland"]:::sardoBranch
-
-MC["Michael Copley<br>b. 1959<br><i>m. Patti Inman</i>"]:::stephenLine
-SARA_C["Sara Copley<br>b. 1961<br><i>m. R. Cox '86</i>"]:::stephenLine
-PHILIP["Philip Copley<br>b. 1962"]:::stephenLine
-PAUL["Paul Copley<br>b. 1964<br><i>m. A.M. Leonhardt</i>"]:::stephenLine
-PETER["Peter Copley<br>b. 1966<br><i>m. K. VanderMolen</i>"]:::stephenLine
-SUSAN_C["Susan Copley<br>b. 1967"]:::stephenLine
-STEPHEN_J["Stephen J. Copley<br>b. 1970 · d. 2023"]:::stephenLine
-
-AMY["Amy E. Copley Geist<br>b. Jul 11, 1990<br><i>m. Nathan Geist 2021</i>"]:::stephenLine
-
-ZACH["Zachary R. Copley<br>b. May 22, 1969, Bellefonte PA<br><i>m. Wendy Thorpe, Sep 2001</i>"]:::tomLine
-ERIN["Erin E. Copley Bird<br>b. Apr 1973<br><i>m. Bryan Bird</i>"]:::tomLine
-CHARLES_C["Charles H. Copley<br>b. Oct 1985"]:::tomLine
-
-MC --- LAUREN
-MC --- STEPHEN_GC
-
-LAUREN["Lauren Copley Meier<br><i>m. Lane Meier</i>"]:::grandchild
-STEPHEN_GC["Stephen Copley"]:::grandchild
-
-SARA_C --- BOBBY_COX
-BOBBY_COX["Robert 'Bobby' Cox<br>b. Oct 3, 1988"]:::grandchild
-
-PAUL --- GEORGIA
-GEORGIA["Georgia Leonhardt"]:::grandchild
-
-AMY --- WILLIAM_G
-WILLIAM_G["William S. Geist<br>b. Dec 9, 2023"]:::grandchild
-
-ZACH --- WYATT
-ZACH --- AUGUST
-WYATT["Wyatt Copley<br>b. 2004"]:::grandchild
-AUGUST["August 'Augie' Copley<br>b. 2008"]:::grandchild
-
-ERIN --- EVELYN
-ERIN --- SAMUEL
-EVELYN["Evelyn 'Evy' Bird<br>b. 2010"]:::grandchild
-SAMUEL["Samuel Bird<br>b. 2014"]:::grandchild
-
-LAUREN --- ROWAN
-LAUREN --- ELIZABETH_M
-ROWAN["Rowan Meier"]:::greatgrand
-ELIZABETH_M["Elizabeth Meier"]:::greatgrand
-
-ARENA_G27["<b>Arena G27</b><br>Sarah, Martin Jr., James,<br>Matthew, Danielle, Siena, Luca"]:::sardoBranch
-RULAND_G27["<b>Ruland G27</b><br>18+ grandchildren incl.<br>Louis IV, Chris, Taylor, Kelly,<br>Jeffrey, Jamie, Katie…"]:::sardoBranch
-ARENA_RULAND_G28["<b>Arena/Ruland G28</b><br>William 'Calvin' Haker, Louis V,<br>Olivia, Luke, Cooper, Paige,<br>Peyton, John…"]:::greatgrand
-
-CATHY_A --- ARENA_G27
-ANNMARIE_A --- ARENA_G27
-JIM_A --- ARENA_G27
-MATT_JR_A --- ARENA_G27
-JOHN_A --- ARENA_G27
-
-LOUIS_III --- RULAND_G27
-ROBERT_R --- RULAND_G27
-CHARLES_R --- RULAND_G27
-JOHN_R --- RULAND_G27
-MICHAEL_R --- RULAND_G27
-
-ARENA_G27 --- ARENA_RULAND_G28
-RULAND_G27 --- ARENA_RULAND_G28
-
-style M1 fill:#d4a843,stroke:#d4a843,width:8px,height:8px,color:#1f1d00
-style M2 fill:#d4a843,stroke:#d4a843,width:8px,height:8px,color:#1f1d00
-style M3 fill:#d4a843,stroke:#d4a843,width:8px,height:8px,color:#1f1d00
-style M4 fill:#d4a843,stroke:#d4a843,width:8px,height:8px,color:#1f1d00
-style M5 fill:#d4a843,stroke:#d4a843,width:8px,height:8px,color:#1f1d00
-style M6 fill:#d4a843,stroke:#d4a843,width:8px,height:8px,color:#1f1d00
-style M7 fill:#d4a843,stroke:#d4a843,width:8px,height:8px,color:#1f1d00
-style M7B fill:#d4a843,stroke:#d4a843,width:8px,height:8px,color:#1f1d00
-style M8 fill:#d4a843,stroke:#d4a843,width:8px,height:8px,color:#1f1d00
+    MICHAEL --- M1
+    ANN --- M1
+    M1 --> JOHN
+    JOHN --- M2
+    MARY --- M2
+    M2 --> THOMAS_E
+    M2 --> MARY_F
+    M2 --> ANNE
+    M2 --> NELLE
+    M2 --> MICHAEL_J
 ```
 
-## Legend
+Best next pages for this section: [[Michael Copley Sr]], [[Ann Copley]], [[John Copley]], [[Mary Ellen Dolan Copley]], [[People Directory]].
 
-- **Green**: Irish ancestors (immigrant generation)
-- **Blue**: G23 core John + Mary Ellen branch markers
-- **Purple**: G24 siblings
-- **Teal**: Nelle Copley Sardo branch
-- **Orange**: Michael Joseph Copley / Stephen line
-- **Rose**: Thomas (Tom) line
-- **Gold**: G27 grandchildren
-- **Pink**: G28 great-grandchildren
-- **Amber dashed/outlined nodes**: spouses and marriage connectors
+## John And Mary Ellen's Children
 
-## Usage Note
+This chart zooms in on the five children of John and Mary Ellen so readers can understand which lines did and did not become the main modern branches.
 
-Use this family tree together with [[People Directory]] and [[People/People Directory|People Directory (Individual Profiles)]] for full biographical and source context.
+```mermaid
+flowchart TB
+    classDef parents fill:#e8f1fb,stroke:#2f5d8a,stroke-width:2px,color:#102235,font-weight:bold
+    classDef core fill:#eef7ec,stroke:#397a43,stroke-width:2px,color:#132417
+    classDef branch fill:#fff1df,stroke:#b86c1f,stroke-width:2px,color:#2b1604
+    classDef muted fill:#f6f3ea,stroke:#8b7f67,stroke-width:1.5px,color:#2f2b22
+    classDef summary fill:#f8e8e8,stroke:#b96a6a,stroke-width:1.5px,color:#331616
+    classDef marriage fill:#f0c75e,stroke:#b88912,stroke-width:2px,color:#2f2200
+
+    JOHN["John Copley"]:::parents
+    MARY["Mary Ellen Dolan Copley"]:::parents
+    M2{"◇"}:::marriage
+    THOMAS_E["Thomas E. Copley<br/>no issue documented"]:::muted
+    MARY_F["Mary Copley Flesch<br/>line not expanded here"]:::muted
+    ANNE["Anne Copley<br/>never married"]:::muted
+    NELLE["Nelle Copley Sardo<br/>Sardo branch parent"]:::branch
+    MICHAEL_J["Michael Joseph Copley<br/>Stephen/Tom branch parent"]:::branch
+
+    JOHN --- M2
+    MARY --- M2
+    M2 --> THOMAS_E
+    M2 --> MARY_F
+    M2 --> ANNE
+    M2 --> NELLE
+    M2 --> MICHAEL_J
+```
+
+Best next pages for this section: [[Ellen Bernadine Nelle Copley Sardo]], [[Michael Joseph Copley]], [[Who Was Alive When]].
+
+## Nelle / Sardo Branch
+
+This branch carries the Baltimore, Clarksville, Sherwood Forest, Arena, and Ruland lines. The chart keeps the main relationships visible while compressing the larger G27 and G28 clusters.
+
+```mermaid
+flowchart TB
+    classDef parent fill:#e7f6ef,stroke:#2f7a5a,stroke-width:2px,color:#10281c,font-weight:bold
+    classDef child fill:#eaf7fb,stroke:#3b7394,stroke-width:2px,color:#10232d
+    classDef spouse fill:#f4efff,stroke:#7a63b8,stroke-width:1.5px,color:#20163d,stroke-dasharray:5,5
+    classDef summary fill:#f6f3ea,stroke:#8b7f67,stroke-width:1.5px,color:#2f2b22
+    classDef marriage fill:#f0c75e,stroke:#b88912,stroke-width:2px,color:#2f2200
+
+    NELLE["Nelle Copley Sardo"]:::parent
+    ROBERT["Robert Samuel Sardo"]:::spouse
+    M1{"◇"}:::marriage
+    SARAH["Sarah Ellen Sardo Arena"]:::child
+    CARMELLA["Mary Carmella Sardo Ruland"]:::child
+    MATT["Matthew Paul Arena"]:::spouse
+    LOUIS["Louis Ruland"]:::spouse
+    M2{"◇"}:::marriage
+    M3{"◇"}:::marriage
+    ARENA_G27["Arena descendants<br/>G27 and G28 summary"]:::summary
+    RULAND_G27["Ruland descendants<br/>G27 and G28 summary"]:::summary
+
+    NELLE --- M1
+    ROBERT --- M1
+    M1 --> SARAH
+    M1 --> CARMELLA
+    SARAH --- M2
+    MATT --- M2
+    CARMELLA --- M3
+    LOUIS --- M3
+    M2 --> ARENA_G27
+    M3 --> RULAND_G27
+```
+
+Best next pages for this section: [[Ellen Bernadine Nelle Copley Sardo]], [[Sarah Ellen Sardo Arena]], [[Mary Carmella Sardo Ruland]], [[Places/Baltimore Maryland]], [[Places/Clarksville Maryland]].
+
+## Michael Joseph To Stephen Line
+
+This chart follows the line that leads into the Connecticut, Southern California, Hinsdale, and State College branches.
+
+```mermaid
+flowchart TB
+    classDef parent fill:#fff1df,stroke:#b86c1f,stroke-width:2px,color:#2b1604,font-weight:bold
+    classDef child fill:#eef7ec,stroke:#397a43,stroke-width:2px,color:#132417
+    classDef spouse fill:#f4efff,stroke:#7a63b8,stroke-width:1.5px,color:#20163d,stroke-dasharray:5,5
+    classDef summary fill:#f6f3ea,stroke:#8b7f67,stroke-width:1.5px,color:#2f2b22
+    classDef marriage fill:#f0c75e,stroke:#b88912,stroke-width:2px,color:#2f2200
+
+    MICHAEL_J["Michael Joseph Copley"]:::parent
+    MARION["Marion Elizabeth Partlow"]:::spouse
+    M1{"◇"}:::marriage
+    STEPHEN["Stephen Michael Copley"]:::child
+    MARCIA["Marcia Thornton"]:::spouse
+    JUDY["Judith Ann Todd"]:::spouse
+    M2{"◇"}:::marriage
+    M3{"◇"}:::marriage
+    FIRST_SET["Michael, Sara, Philip, Paul,<br/>Peter, Susan, Stephen Jr."]:::summary
+    AMY["Amy E. Copley Geist"]:::child
+
+    MICHAEL_J --- M1
+    MARION --- M1
+    M1 --> STEPHEN
+    STEPHEN --- M2
+    MARCIA --- M2
+    M2 --> FIRST_SET
+    STEPHEN --- M3
+    JUDY --- M3
+    M3 --> AMY
+```
+
+Best next pages for this section: [[Stephen Michael Copley]], [[Amy E. Copley Geist]], [[Michael Copley (b. 1959)]], [[Philip Copley]], [[People Directory]].
+
+## Michael Joseph To Tom Line
+
+This branch is smaller on the page and easier to read whole. It leads directly into the Zach / Erin / Charles lines and the living descendants represented elsewhere in the vault.
+
+```mermaid
+flowchart TB
+    classDef parent fill:#fdecef,stroke:#b85b78,stroke-width:2px,color:#31101b,font-weight:bold
+    classDef child fill:#eef7ec,stroke:#397a43,stroke-width:2px,color:#132417
+    classDef spouse fill:#f4efff,stroke:#7a63b8,stroke-width:1.5px,color:#20163d,stroke-dasharray:5,5
+    classDef summary fill:#f6f3ea,stroke:#8b7f67,stroke-width:1.5px,color:#2f2b22
+    classDef marriage fill:#f0c75e,stroke:#b88912,stroke-width:2px,color:#2f2200
+
+    MICHAEL_J["Michael Joseph Copley"]:::child
+    MARION["Marion Elizabeth Partlow"]:::spouse
+    M1{"◇"}:::marriage
+    TOM["Thomas Partlow Copley"]:::parent
+    DEE["Barbara Dee LaForce"]:::spouse
+    M2{"◇"}:::marriage
+    ZACH["Zachary R. Copley"]:::child
+    ERIN["Erin E. Copley Bird"]:::child
+    CHARLES["Charles H. Copley"]:::child
+    G27["Wyatt, Augie, Evy, Sam<br/>and other direct descendants"]:::summary
+
+    MICHAEL_J --- M1
+    MARION --- M1
+    M1 --> TOM
+    TOM --- M2
+    DEE --- M2
+    M2 --> ZACH
+    M2 --> ERIN
+    M2 --> CHARLES
+    ZACH --> G27
+    ERIN --> G27
+```
+
+Best next pages for this section: [[Thomas Partlow Copley]], [[Zachary R. Copley]], [[Erin E. Copley Bird]], [[Charles H. Copley]].
+
+## Older And Speculative Ancestry
+
+The pre-immigrant English / Captain John line is still important, but it is a different kind of visualization problem because it mixes documented and speculative links.
+
+- For that question, use [[Topics/Bredon Descent]].
+- For the Captain John evidence and uncertainty discussion, use [[Topics/Captain John Copley Research]].
+- For the Irish immigrant-forward family structure, stay on this page and the linked person profiles.
+
+## Legacy Full Chart
+
+The earlier all-in-one chart is kept only as a legacy reference. It is no longer the primary way to navigate the family relationships.
+
+<details>
+<summary>Open the old full-chart image</summary>
+
+![Legacy Copley Family Tree Diagram](../static/images/copley-family-tree-diagram.jpg)
+
+</details>
+
+## Use With
+
+- [[People Directory]] for the full generation-by-generation profile list
+- [[Who Was Alive When]] for overlapping lifespans and era snapshots
+- [[Visual Story Atlas]] for the research/story view
+- [[Sources and Evidence Index]] for claim strength and open questions

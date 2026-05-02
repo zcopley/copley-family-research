@@ -24,7 +24,7 @@ Use this page as the map before diving into the details.
 |---|---|
 | [[The Copley Family Narrative]] | What is the family story in readable prose? |
 | [[Who Was Alive When]] | Who overlapped with whom, and which generations were alive at the same time? |
-| [[Family Tree]] | How do the people and generations connect? |
+| [[Family Tree]] | How do the people and branches connect, without getting lost in the full descendant sprawl? |
 | [[Visual Story Atlas]] | What are the main relationships, migrations, evidence clusters, and research quests at a glance? |
 | [[People Directory]] | Where are the individual profile pages? |
 | [[Sources and Evidence Index]] | What do we think we know, how strong is the evidence, and where is the proof trail? |

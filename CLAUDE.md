@@ -29,7 +29,7 @@ A genealogical research wiki for the Copley family, spanning Irish immigrant anc
 ├── References/            ← source documents and social media profiles
 ├── .agents/               ← agent-only working notes, hidden from site
 ├── quartz/                ← Quartz framework (do not edit)
-├── Family Tree.md         ← Mermaid diagram, all generations
+├── Family Tree.md         ← branch-by-branch relationship hub with smaller Mermaid charts
 ├── Home.md                ← narrative landing page
 ├── index.md               ← site homepage / navigation
 ├── Search Index.md        ← comprehensive name/date/place/keyword index
@@ -190,10 +190,12 @@ If a diagram cannot be updated because the relationship is still uncertain, add 
 
 ## Family Tree (`Family Tree.md`)
 
-- Mermaid `graph TD` diagram with ~70+ nodes
-- Marriage connectors use diamond nodes: `PERSON --- M1{"◇"}:::marriage` then `SPOUSE --- M1` then `M1 --- CHILD`
-- **Critical:** Both spouses must be connected to the marriage diamond or they render as floating orphan nodes (this was fixed in Phase 2A — don't reintroduce the bug)
-- Color classes: `irish`, `g23`, `g24sibling`, `sardoBranch`, `stephenLine`, `tomLine`, `grandchild`, `greatgrand`, `spouse`, `marriage`
+- Relationship hub built from several smaller Mermaid branch charts rather than one all-generation graph
+- Keep the page focused on documented immigrant-forward family structure
+- Route speculative English / Captain John ancestry questions to `Topics/Bredon Descent.md` and `Topics/Captain John Copley Research.md`
+- Marriage connectors still use diamond nodes where spouse/child relationships are shown: `PERSON --- M1{"◇"}:::marriage` then `SPOUSE --- M1` then `M1 --> CHILD`
+- **Critical:** Both spouses must be connected to the marriage diamond or they render as floating orphan nodes
+- Prefer readable branch summaries over forcing every descendant into one chart
 
 ---
 
