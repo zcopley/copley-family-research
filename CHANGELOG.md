@@ -10,6 +10,15 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4AP - Philip Copley Correction and Enrichment Pass (May 1, 2026)
+
+**STEPHEN-LINE CLEANUP CONTINUES:** Reworked Philip Copley with a stronger appendix-backed pass that both deepens his branch role and removes inherited school and birth-context assumptions that did not match the Stephen appendix sketch.
+
+### Updated Pages
+
+- [[People/Philip Copley|Philip Copley]] - corrected the early-life chronology from Berkeley to Madison to Palos Verdes, removed unsupported Wyndmoor / Berkeley school carryover, clarified his position in the older half of the sibling cohort, and tightened the USC-related wording so it no longer overstates uncertain educational detail.
+- [[References/Copley History Part 1 and Appendix Source Audit|Copley History Part 1 and Appendix Source Audit]] - marked Philip as having received a stronger bounded enrichment and correction pass.
+
 ## Phase 4AO - Michael Copley (1959) Correction and Enrichment Pass (May 1, 2026)
 
 **STEPHEN-LINE CLEANUP CONTINUES:** Reworked Michael Copley (b. 1959) with a stronger appendix-backed pass that both deepens his branch role and removes inherited school and birthplace assumptions that did not match the Stephen appendix sketch.
