@@ -1,6 +1,6 @@
 ---
 title: Changelog
-date: 2026-04-25
+date: 2026-05-01
 tags:
   - "#copley-family"
   - "#index"
@@ -9,6 +9,221 @@ tags:
 # Copley Family Research — Changelog
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
+
+## Phase 4AF - Family Tree Relationship Hub Redesign (May 1, 2026)
+
+**VISUAL-READABILITY UPGRADE:** Replaced the old all-in-one Mermaid family tree with a branch-based relationship hub that is easier to read on a normal screen and explains itself in plain family-language instead of diagram jargon.
+
+### Updated Pages
+
+- [[Family Tree|Copley Family Tree]] - replaced the giant full-tree Mermaid chart with a curated hub containing five smaller branch charts, a plain-English reading guide, separate handling of speculative English ancestry, and clearer navigation to person and branch pages.
+- [[People/People Directory|People Directory (Individual Profiles)]] - updated the intro so it points readers to the redesigned branch-by-branch family tree instead of implying one giant visual map.
+- [[Family Tree|Copley Family Tree]] - follow-up cleanup added a branch jump list, normalized the People Directory link, and tucked the legacy full-chart image behind a collapsible section.
+
+## Phase 4AE - Michael (1959) Appendix Enrichment (May 1, 2026)
+
+**STEPHEN-LINE DESCENDANT PASS:** Continued the selective appendix-bio pass with a first bounded update to Michael Copley (b. 1959), using Stephen Copley's sketch to make the page less skeletal without overclaiming beyond the available family-context evidence.
+
+### Updated Pages
+
+- [[People/Michael Copley (b. 1959)|Michael Copley (b. 1959)]] - added a fuller narrative for the Madison and Palos Verdes family stages, Michael's place in the first-marriage sibling cohort, and the broader USC-era California household context.
+- [[References/Copley History Part 1 and Appendix Source Audit|Copley History Part 1 and Appendix Source Audit]] - marked Michael Copley (b. 1959) as having received a first bounded appendix-enrichment pass.
+
+## Phase 4AD - Marion Partlow Appendix Enrichment (May 1, 2026)
+
+**SPOUSE-SIDE BIO PASS:** Continued the selective appendix-bio pass with a stronger bounded update to Marion Elizabeth Partlow so the Michael Joseph bridge-figure page now has a matching spouse-side family context.
+
+### Updated Pages
+
+- [[People/Marion Elizabeth Partlow|Marion Elizabeth Partlow]] - added clearer Partlow farm-family background, the Champaign / Wyndmoor / Albany family move sequence, and selected Stephen / Tom memory material about Marion as teacher, gardener, hostess, and household center.
+- [[References/Copley History Part 1 and Appendix Source Audit|Copley History Part 1 and Appendix Source Audit]] - marked Marion Partlow as having received a stronger bounded appendix-enrichment pass.
+
+## Phase 4AC - Michael Joseph Appendix Enrichment (May 1, 2026)
+
+**BRIDGE-FIGURE BIO PASS:** Continued the selective appendix-bio pass with a stronger bounded update to Michael Joseph Copley, using the appendix to sharpen his role between the Lewis County farm generation and the later scientific branches.
+
+### Updated Pages
+
+- [[People/Michael Joseph Copley|Michael Joseph Copley]] - added the 1918 Army enlistment/discharge dates, fuller UIUC-to-USDA career sequence, Partlow marriage context, and selected Stephen/Tom memory material about Michael as teacher, parent, and laboratory director.
+- [[References/Copley History Part 1 and Appendix Source Audit|Copley History Part 1 and Appendix Source Audit]] - marked Michael Joseph as having received a stronger bounded appendix-enrichment pass.
+
+## Phase 4AB - Murray / Fish Misindex Retired (May 1, 2026)
+
+**RQ-M1 CORRECTION:** Integrated the Claude for Chrome follow-up proving that the long-carried "1826 John Murray -> Fred L. Fish" lead is actually a **1899** oil-and-gas lease and therefore irrelevant to the pre-1843 Murray anchor question.
+
+### New Page
+
+- [[References/Claude for Chrome Lewis County John Murray Fred L Fish Lease Check|Claude for Chrome Lewis County John Murray Fred L Fish Lease Check]] - records the FamilySearch index misread, the located 1899 lease text, the page/image citations, and the conclusion that this lead is closed for RQ-M1.
+
+### Updated Pages
+
+- [[RQ-M1-JOHN-MURRAY-DEED-FINDINGS|RQ-M1 John Murray Deed Findings]] - retired the old 1826 Murray / Fish slot as a controlled misindex / closed lead and narrowed the remaining direct early deed work to the 1833 John Murray entry.
+- [[References/Claude for Chrome Lewis County Deed Research Brief|Claude for Chrome Lewis County Deed Research Brief]] - added follow-up status so the earlier brief no longer treats the Murray / Fish record as a live pre-1843 target.
+- [[Sources and Evidence Index|Sources and Evidence Index]], [[Research Priorities and Action Items|Research Priorities and Action Items]], [[Tier 1 Research Execution Kit|Tier 1 Research Execution Kit]], [[Topics/Murray Settlement|Murray Settlement]], [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]], [[Visual Story Atlas|Visual Story Atlas]], [[Search Index|Search Index]], and agent resume state notes - updated the Murray workflow so the remaining direct early deed target is now the 1833 John Murray entry.
+
+## Phase 4AA - Stephen Michael Copley Appendix Enrichment (May 1, 2026)
+
+**BIOGRAPHICAL DEPTH UPGRADE:** Continued the selective appendix-bio phase with a stronger bounded enrichment pass on Stephen Michael Copley.
+
+### Updated Pages
+
+- [[People/Stephen Michael Copley|Stephen Michael Copley]] - added more first-person appendix texture on the wartime Wyndmoor years, the 1947 Berkeley move, the Madison / Palos Verdes family stage, and the Hinsdale-to-State College transition.
+- [[References/Copley History Part 1 and Appendix Source Audit|Copley History Part 1 and Appendix Source Audit]] - marked Stephen as more fully harvested within the selective appendix-bio pass.
+
+## Phase 4Z - Nelle / Sardo Bridge-Cluster Enrichment (May 1, 2026)
+
+**BIOGRAPHICAL DEPTH UPGRADE:** Continued the selective appendix-bio phase with a branch-level pass across the Nelle / Sardo cluster.
+
+### Updated Pages
+
+- [[People/Ellen Bernadine Nelle Copley Sardo|Ellen Bernadine "Nelle" Copley Sardo]] - added tighter appendix-backed detail on schooling, wartime household leadership, the Clarksville-to-Baltimore move sequence, and her role as the cultural and educational center of the Sardo branch household.
+- [[People/Sarah Ellen Sardo Arena|Sarah Ellen Sardo Arena]] - added more childhood and family-setting texture, the Johns Hopkins / Matt Arena origin point, and a clearer second-career arc from Montessori teaching into hospital chaplaincy.
+- [[People/Mary Carmella Sardo Ruland|Mary Carmella Sardo Ruland]] - added a cautious narrative based only on indirect appendix branch context, clarifying her upbringing environment and her role as the bridge into the Ruland descendant branch.
+- [[References/Copley History Part 1 and Appendix Source Audit|Copley History Part 1 and Appendix Source Audit]] - recorded that the first bounded Sardo-cluster pass is now complete and noted the uneven evidence level between Nelle/Sarah and Carmella.
+
+## Phase 4Y - Amy E. Copley Geist Appendix Enrichment (May 1, 2026)
+
+**BIOGRAPHICAL DEPTH UPGRADE:** Continued the selective appendix-bio phase with a bounded enrichment pass on Amy E. Copley Geist.
+
+### Updated Pages
+
+- [[People/Amy E. Copley Geist|Amy E. Copley Geist]] - added more texture from the appendix on Hinsdale childhood, State College friendship and soccer continuity, the LSE/London family-and-friendship connection, and the Nate / Maryland / beekeeping transition into current family life.
+- [[References/Copley History Part 1 and Appendix Source Audit|Copley History Part 1 and Appendix Source Audit]] - noted that Amy now has a first bounded appendix-enrichment pass and narrowed the remaining bio backlog accordingly.
+
+## Phase 4X - Thomas Partlow Copley Appendix Enrichment (May 1, 2026)
+
+**BIOGRAPHICAL DEPTH UPGRADE:** Started the next selective appendix-bio phase with a bounded enrichment pass on Thomas Partlow Copley.
+
+### Updated Pages
+
+- [[People/Thomas Partlow Copley|Thomas Partlow Copley]] - added a fuller narrative from the appendix on Berkeley childhood and schooling, UC Berkeley / Penn State education, the Dee LaForce courtship timeline, the Antioch / Electronic University / Apple / Arlington Courseware arc, and the Bay Area return path.
+- [[References/Copley History Part 1 and Appendix Source Audit|Copley History Part 1 and Appendix Source Audit]] - noted that Thomas now has a first bounded appendix-enrichment pass and narrowed the remaining bio backlog accordingly.
+
+## Phase 4W - Weston Provenance Cleanup Pass (May 1, 2026)
+
+**SOURCE-QUALITY UPGRADE:** Finished the secondary provenance cleanup by tightening the raw-PDF and appendix sourcing on Weston-linked residence and settlement-context pages.
+
+### Updated Pages
+
+- [[Places/Weston West Virginia|Weston, West Virginia]] - separated appendix-based address claims from Part 1 settlement-landscape claims and added exact page-span references for both.
+- [[People/Sarah Copley|Sarah Copley]] - tightened the Appendix 1 citation for the `108 Cottage Ave.` household and `1910 Federal Census` context.
+- [[People/Michael Joseph Copley|Michael Joseph Copley]] - tightened the Appendix 1 citation for the Weston addresses, Rock Hill College lead, and early place-transition material.
+- [[References/Copley History Part 1 and Appendix Source Audit|Copley History Part 1 and Appendix Source Audit]] - marked Weston as normalized and narrowed the remaining source-quality backlog.
+
+## Phase 4V - Figure Provenance Normalization Pass (May 1, 2026)
+
+**SOURCE-QUALITY UPGRADE:** Tightened the main raw-PDF-backed image and landscape pages so they now distinguish between evidence-bearing figures and general illustration.
+
+### Updated Pages
+
+- [[People/Michael Copley Sr|Michael Copley Sr.]] - expanded the Fig. 1 gravestone provenance note to include the exact Part 1 page reference and the family-history date discrepancy it creates.
+- [[Places/Kilgefin Ireland|Kilgefin, Ireland]] - added exact figure/page provenance for the Roscommon, cemetery-access, and cemetery-view image cluster.
+- [[Places/Cove Lick West Virginia|Cove Lick, West Virginia]] - added exact provenance for the 1843 agreement, 1865 farm map, and later oil-village / school / church figure cluster.
+- [[Places/Lewis County West Virginia|Lewis County, West Virginia]] - clarified that the county built-landscape claims derive from the Part 1 figure groups rather than from the lead page image.
+- [[References/Copley History Part 1 and Appendix Source Audit|Copley History Part 1 and Appendix Source Audit]] - advanced the audit from a largely forward-looking backlog into a current harvest-status note and narrowed what provenance work still remains.
+
+## Phase 4Q - Built-in M Index Retired from Murray Path (May 1, 2026)
+
+**RQ-M1 CORRECTION:** Integrated the Claude for Chrome recheck showing that the last surviving built-in Deed Book C-D M-index line reads best as **"Marwee Sawig" -> John Simpson**, not as a Murray-variant surname.
+
+### New Page
+
+- [[References/Claude for Chrome Lewis County Built-in M Index Marwee Sawig Check|Claude for Chrome Lewis County Built-in M Index Marwee Sawig Check]] - records the image-10 built-in index reading, the tape-obscured page-number problem, the exploratory mismatch around pages 359-362, and the conclusion that this line should be retired from Murray-specific work.
+
+### Updated Pages
+
+- [[RQ-M1-JOHN-MURRAY-DEED-FINDINGS|RQ-M1 John Murray Deed Findings]] - retired the built-in Deed Book C-D M-index path as Murray evidence, added the Sawig / Simpson clarification, and narrowed the remaining deed work to the 1826 and 1833 John Murray leads.
+- [[References/Claude for Chrome Lewis County Deed Research Brief|Claude for Chrome Lewis County Deed Research Brief]] and [[References/Claude for Chrome Lewis County Murray Grantee Search|Claude for Chrome Lewis County Murray Grantee Search]] - added follow-up status so the earlier handoff notes no longer treat the old built-in Marwee line as a live Murray lead.
+- [[Sources and Evidence Index|Sources and Evidence Index]], [[Research Priorities and Action Items|Research Priorities and Action Items]], [[Tier 1 Research Execution Kit|Tier 1 Research Execution Kit]], [[Topics/Murray Settlement|Murray Settlement]], [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]], [[Visual Story Atlas|Visual Story Atlas]], [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]], and [[Search Index|Search Index]] - removed the retired Marwee target from the active Murray workflow and refocused the project on the unresolved 1826/1833 deed bodies.
+
+## Phase 4R - Appendix Place-Context Pass (May 1, 2026)
+
+**RAW-MATERIALS UPGRADE:** Continued the PDF extraction plan by moving more appendix-based place context and figure provenance into the pages where readers will actually use it.
+
+### Updated Pages
+
+- [[Places/Baltimore Maryland|Baltimore, Maryland]] - added St. Joseph Hospital, Guilford, Homeland, and Sardo-branch context from the appendix sketches.
+- [[People/Sarah Copley|Sarah Copley]] - added the 108 Cottage Ave. household role and 1910 head-of-household context from the Michael J. appendix sketch.
+- [[People/Michael Joseph Copley|Michael Joseph Copley]] - added Weston address, 1920 household, and Rock Hill College travel-context details from the appendix.
+- [[People/Michael Copley Sr|Michael Copley Sr.]] - added figure-level provenance for the lead gravestone image from Part 1 Figure 1.
+- [[References/Copley History Part 1 and Appendix Source Audit|Copley History Part 1 and Appendix Source Audit]] - marked these areas as now partially harvested and clarified what remains available for later passes.
+
+## Phase 4S - New Appendix-Derived Place Pages (May 1, 2026)
+
+**RAW-MATERIALS UPGRADE:** Continued the place-focused extraction pass by turning recurring appendix locations into actual place pages instead of leaving them as plain-text references inside bios.
+
+### New Pages
+
+- [[Places/Wyndmoor Pennsylvania|Wyndmoor, Pennsylvania]] - wartime ERRL context, Michael Joseph's 1939 move, and Stephen's 1939-1947 childhood setting.
+- [[Places/Ellicott City Maryland|Ellicott City, Maryland]] - Rock Hill College lead and the rail-connected educational waypoint in Michael Joseph Copley's early chronology.
+- [[Places/Albany California|Albany, California]] - WRRL context and the postwar California scientific branch setting for Michael Joseph, Marion, and Stephen.
+
+### Updated Pages
+
+- [[People/Michael Joseph Copley|Michael Joseph Copley]], [[People/Stephen Michael Copley|Stephen Michael Copley]], [[People/Marion Elizabeth Partlow|Marion Elizabeth Partlow]], [[People/Michael Copley (b. 1959)|Michael Copley (b. 1959)]], and [[People/Philip Copley|Philip Copley]] - converted plain-text Wyndmoor / Albany / Ellicott City references into linked place context.
+- [[Places/Places Index|Places Index]] and [[Search Index|Search Index]] - indexed the new place pages for navigation and discovery.
+- [[References/Copley History Part 1 and Appendix Source Audit|Copley History Part 1 and Appendix Source Audit]] - updated the backlog to reflect that these place pages now exist.
+
+## Phase 4T - Loveberry Ridge Place Page (May 1, 2026)
+
+**RAW-MATERIALS UPGRADE:** Continued the place backlog by turning the recurring St. Bernard's / Loveberry Ridge references into a dedicated place page and linking the affected bios and county pages back to it.
+
+### New Page
+
+- [[Places/Loveberry Ridge West Virginia|Loveberry Ridge, West Virginia]] - captures the St. Bernard's Catholic setting, its relationship to the Copley farm / village landscape, and its use in the Lewis County settlement geography.
+
+### Updated Pages
+
+- [[People/Michael Copley Sr|Michael Copley Sr.]] and [[People/Mary Copley Quinn|Mary Copley Quinn]] - linked gravestone and parish-record references to the new Loveberry Ridge page.
+- [[Places/Weston West Virginia|Weston, West Virginia]], [[Places/Cove Lick West Virginia|Cove Lick, West Virginia]], and [[Places/Lewis County West Virginia|Lewis County, West Virginia]] - converted Loveberry/St. Bernard's mentions into linked place context.
+- [[Places/Places Index|Places Index]], [[Search Index|Search Index]], and [[References/Copley History Part 1 and Appendix Source Audit|Copley History Part 1 and Appendix Source Audit]] - indexed the new page and removed Loveberry Ridge from the remaining place backlog.
+
+## Phase 4U - Clarksville, Madison, and Palos Verdes Place Pages (May 1, 2026)
+
+**RAW-MATERIALS UPGRADE:** Continued the appendix-place pass by promoting three more recurring residence contexts into real place pages.
+
+### New Pages
+
+- [[Places/Clarksville Maryland|Clarksville, Maryland]] - the early Sardo household setting across from St. Louis Catholic Church and Robert Sardo's practice.
+- [[Places/Madison Connecticut|Madison, Connecticut]] - the Pratt & Whitney / Neck Road phase of the Stephen-line family.
+- [[Places/Palos Verdes Estates California|Palos Verdes Estates, California]] - the USC / Via Nivel / South Bay childhood setting for much of the Stephen line.
+
+### Updated Pages
+
+- [[People/Ellen Bernadine Nelle Copley Sardo|Ellen Bernadine "Nelle" Copley Sardo]] and [[People/Sarah Ellen Sardo Arena|Sarah Ellen Sardo Arena]] - linked the Clarksville setting into the Sardo branch narrative.
+- [[People/Stephen Michael Copley|Stephen Michael Copley]], [[People/Michael Copley (b. 1959)|Michael Copley (b. 1959)]], [[People/Philip Copley|Philip Copley]], [[People/Peter Copley|Peter Copley]], and [[People/Susan Copley|Susan Copley]] - converted Madison and Palos Verdes references into linked place context.
+- [[Places/Places Index|Places Index]], [[Search Index|Search Index]], and [[References/Copley History Part 1 and Appendix Source Audit|Copley History Part 1 and Appendix Source Audit]] - indexed the new pages and advanced the remaining backlog.
+
+## Phase 4P - Raw PDF Audit and Place Enrichment (May 1, 2026)
+
+**SOURCE-QUALITY UPGRADE:** Added a control note for the main raw family-history PDFs and used it to enrich the core place pages with more exact figure-backed landscape and address detail.
+
+### New Page
+
+- [[References/Copley History Part 1 and Appendix Source Audit|Copley History Part 1 and Appendix Source Audit]] - identifies the June 16, 2024 Part 1 history PDF, both appendix PDF variants, what is already incorporated, what place-rich details remain underused, and where future extraction should focus.
+
+### Updated Pages
+
+- [[Places/Kilgefin Ireland|Kilgefin, Ireland]] - added figure-backed Roscommon and Kilgefin locality context, including the cemetery access-road detail and the family-history note about a possible earlier parish-church site.
+- [[Places/Weston West Virginia|Weston, West Virginia]] - added Appendix-backed local geography for Sarah Copley's `108 Cottage Ave.` house and John / Michael Joseph Copley's `202 W. 2nd St.` address, while keeping the claims labeled as family-history context.
+- [[Places/Cove Lick West Virginia|Cove Lick, West Virginia]] - added the reported Copley Road / Cove Lick Road tract placement, Hoffman grant timing, installment-completion note, 1865 map context, and village / school / church landscape details from the Part 1 figures.
+- [[Places/Lewis County West Virginia|Lewis County, West Virginia]] - broadened the county page from generic settlement context to a more concrete landscape of farms, village growth, schools, churches, and Loveberry Ridge Catholic geography.
+- [[Search Index|Search Index]] - indexed the new raw-PDF audit note.
+
+## Phase 4O - Page 334 Mismatch Integrated (April 30, 2026)
+
+**RQ-M1 CORRECTION:** Integrated the Claude for Chrome check showing that physical page 334 of Lewis County Deed Book C-D does not match the old "Marwee J. -> J. Peck" target.
+
+### New Page
+
+- [[References/Claude for Chrome Lewis County Deed Book C-D Page 334 Check|Claude for Chrome Lewis County Deed Book C-D Page 334 Check]] - records the image-401 page-334 check, the George Jackson deed-closing / acknowledgment content, the absence of Marwee/Murray/Peck/Camden on pages 334-335 and adjacent context, and the failure analysis for the old page-334 target.
+
+### Updated Pages
+
+- [[RQ-M1-JOHN-MURRAY-DEED-FINDINGS|RQ-M1 John Murray Deed Findings]] - reclassified the old page-334 target as a controlled mismatch, added the image-401 result, and narrowed the next-step workflow toward the obscured 3?? target, the 1826/1833 deeds, and the built-in index / page-logic problem.
+- [[References/Claude for Chrome Lewis County Deed Research Brief|Claude for Chrome Lewis County Deed Research Brief]] - added follow-up status so the original note no longer treats page 334 as a straightforward live target.
+- [[Sources and Evidence Index|Sources and Evidence Index]], [[Research Priorities and Action Items|Research Priorities and Action Items]], [[Tier 1 Research Execution Kit|Tier 1 Research Execution Kit]], [[Topics/Murray Settlement|Murray Settlement]], and [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]] - updated the Murray-settlement proof path so physical page 334 now joins page 404 as a controlled mismatch rather than an active deed-body target.
+- [[Search Index|Search Index]] - indexed the new page-334 check note.
 
 ## Phase 4N - Page 404 Mismatch Integrated (April 30, 2026)
 

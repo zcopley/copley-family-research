@@ -18,13 +18,13 @@ tags:
 
 This note captures the April 28, 2026 Claude for Chrome handoff on Lewis County, Virginia / West Virginia deed research. The brief is a working research note, not a final proof statement. It should be used with [[RQ-M1-JOHN-MURRAY-DEED-FINDINGS|RQ-M1 John Murray Deed Findings]].
 
-**Follow-up status:** The compiled Grantee Index G-M search proposed here was completed on April 30, 2026 and is now summarized in [[References/Claude for Chrome Lewis County Murray Grantee Search|Claude for Chrome Lewis County Murray Grantee Search]]. That follow-up found only exact-surname Murray entries dated 1865-1934. A second April 30 follow-up is now summarized in [[References/Claude for Chrome Lewis County Deed Book C-D Page 404 Check|Claude for Chrome Lewis County Deed Book C-D Page 404 Check]], which confirms that the old page-404 target does not match the actual physical page 404.
+**Follow-up status:** The compiled Grantee Index G-M search proposed here was completed on April 30, 2026 and is now summarized in [[References/Claude for Chrome Lewis County Murray Grantee Search|Claude for Chrome Lewis County Murray Grantee Search]]. That follow-up found only exact-surname Murray entries dated 1865-1934. Two later April 30 follow-ups are now summarized in [[References/Claude for Chrome Lewis County Deed Book C-D Page 404 Check|Claude for Chrome Lewis County Deed Book C-D Page 404 Check]] and [[References/Claude for Chrome Lewis County Deed Book C-D Page 334 Check|Claude for Chrome Lewis County Deed Book C-D Page 334 Check]], which confirm that the old page-404 and page-334 targets do not match those physical pages. A May 1 follow-up in [[References/Claude for Chrome Lewis County Built-in M Index Marwee Sawig Check|Claude for Chrome Lewis County Built-in M Index Marwee Sawig Check]] then re-read the last surviving built-in M-index line as **Marwee Sawig -> John Simpson**, not a Murray-variant surname. Another May 1 follow-up in [[References/Claude for Chrome Lewis County John Murray Fred L Fish Lease Check|Claude for Chrome Lewis County John Murray Fred L Fish Lease Check]] confirmed that the long-carried **1826** Murray / Fish lead is actually a **1899** oil-and-gas lease and should be retired from RQ-M1.
 
 ## Summary
 
 Claude for Chrome located and examined FamilySearch deed records for Lewis County, with emphasis on Deed Books C-D, 1824-1834. The session found two to three probable Murray-variant entries in the built-in alphabetical index for Deed Book C-D, but did not fully transcribe the underlying deed texts. It also checked the later compiled Grantor Deed Index M-S and found no clear Murray entries between Munson and Musgrave, which is an important negative finding.
 
-**Current interpretation:** Inconclusive. The index evidence mildly supports a Murray land-presence lead before the 1843 Copley purchase, but the surname reading and deed details remain unconfirmed until the deed pages are read.
+**Current interpretation:** This brief remains useful mainly for film / DGS structure, but its earlier positive interpretation is no longer current. The built-in **Marwee** path is retired, and the old **1826 Murray / Fish** lead is now closed as a **1899** misindexed lease. The remaining direct early deed target is the **1833 John Murray** entry.
 
 ## FamilySearch Sources Identified
 
@@ -50,7 +50,7 @@ For DGS 8219256, Claude reported:
 | 16 | Blank separator |
 | 17-548 | Deed texts |
 
-Working page offset: deed-book page N is roughly image 17 + N, but this must be verified against page numbers on the images.
+Working page offset: deed-book page N is roughly image 17 + N, but this must be verified against page numbers on the images. Later follow-up work showed that simple one-page-per-image assumptions were wrong for these page targets.
 
 ## Probable Murray-Variant Index Entries
 
@@ -58,11 +58,11 @@ The key index page is image 10 of DGS 8219256, the right page of the built-in M 
 
 | Index Reading | Possible Interpretation | Grantee | Page | Status |
 |---|---|---|---:|---|
-| Marwee J. | Murray J.? / Maxwell J.? | J. Peck [?] | 334 | Probable variant, unconfirmed |
-| Marwee Sewig | Murray [Siney/Sabine/Sidney?]? | John Simpson | obscured | Probable variant, unconfirmed |
-| Marwee Levi wife | Murray Levi and wife? | G.D. Camden | 404 | Later checked against physical page 404 and found to be a mismatch; page reference and/or surname reading remains unresolved |
+| Marwee J. | Murray J.? / Maxwell J.? | J. Peck [?] | 334 | Later checked against physical page 334 and found to be a mismatch |
+| Marwee Sawig | Best later reading is a non-Murray surname beginning with **S** | John Simpson | obscured | Retired from Murray-specific work after May 1 recheck |
+| Marwee Levi wife | Murray Levi and wife? | G.D. Camden | 404 | Later checked against physical page 404 and found to be a mismatch |
 
-The brief argues that "Marwee" is more likely a period-cursive rendering of Murray than Maxwell, but the reading is not certain. The underlying deed pages must be inspected before the wiki treats these as confirmed Murray deeds.
+This brief captured an early working interpretation before later follow-up checks. After those follow-ups, the built-in M-index path should be treated cautiously: pages **334** and **404** are mismatches, and the surviving line now reads best as **Marwee Sawig**, not a Murray surname.
 
 ## Grantor Index Negative Finding
 
@@ -71,23 +71,20 @@ DGS 8293317, image 60, spans Mulvey / Mummow / Munson on the left page and Musgr
 Possible explanations:
 
 - Murray deeds may not appear as grantor transactions in this compiled index.
-- The surname may be indexed under a variant such as Murry, Murrey, Murroe, Murrow, Marwee, or Marree.
+- The surname may be indexed under a variant such as Murry, Murrey, Murroe, Murrow, or Marree, but the old built-in **Marwee** path is now much weaker after the later recheck.
 - Early deed-book entries may have been missed or normalized differently in the later compiled index.
-- The expected 1826/1833 leads may involve Murray as grantee rather than grantor, making the grantee index the next critical source.
+- The remaining 1833 lead may involve Murray as grantee rather than grantor, making the grantee index the next critical source.
 
 ## Highest-Priority Next Steps
 
 1. Preserve the completed exact-surname Grantee Index G-M result from the April 30 follow-up note and keep variant-spelling review separate from that closed step.
-2. Navigate to Deed Book C-D target pages:
-   - page 334, image roughly 351, for "Marwee J. to J. Peck"
-   - the former page-404 target should now be treated as a mismatch on physical page 404; re-check the built-in index, page-counting convention, or earlier deed-body pages instead of assuming page 404 is correct
-   - the obscured page in the 300s for "Marwee Sewig to John Simpson"
-3. Check several pages before and after each target page.
+2. Treat physical page **334** and physical page **404** as mismatches, not live direct deed-body targets.
+3. Shift effort away from the retired built-in **Marwee Sawig** line and onto the remaining unresolved **1833** John Murray deed body.
 4. If digital images remain unreadable, use a FamilySearch Center, Lewis County Clerk request, or the Hacker's Creek abstracts book.
 5. Record full citations, page images, transcripts, land descriptions, witnesses, neighbors, and relationship implications in [[RQ-M1-JOHN-MURRAY-DEED-FINDINGS|RQ-M1 John Murray Deed Findings]].
 
 ## Significance
 
-If the "Marwee" entries prove to be Murray deeds, they may establish Murray land activity in Lewis County during 1824-1834, before [[People/Michael Copley Sr|Michael Copley Sr.]] and [[People/Patrick Copley|Patrick Copley]] bought land from [[People/Weeden Hoffman|Weeden Hoffman]] in 1843. The possible G.D. Camden connection is especially relevant because Camden is part of the reported Cove Lick / Loveberry / Camden settlement zone.
+The remaining significance of this brief is now mainly structural: it identified the relevant Lewis County films, DGS numbers, and index paths. The built-in **Marwee** line should no longer be used as positive Murray evidence after the later follow-up notes.
 
-Until the deed texts are transcribed, this evidence should be treated as a promising lead, not as proof that John Murray anchored the settlement.
+Until the remaining **1833** deed text is transcribed, this evidence should be treated as a structural guide to the record set, not as proof that John Murray anchored the settlement.

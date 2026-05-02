@@ -9,14 +9,36 @@ tags:
 
 # Agent Resume State
 
-Last updated: 2026-04-30
+Last updated: 2026-05-01
 
 ## Current Goal
 
-Continue priority evidence work for the Copley family wiki, with the active Murray Settlement deed task now shifted past the exact-surname grantee-index search and onto the unresolved 1826/1833 deed bodies plus the Deed Book C-D "Marwee" / possible Murray page targets.
+Continue priority evidence work for the Copley family wiki, with the active Murray Settlement deed task now shifted past the exact-surname grantee-index search, past the physical page-334 / page-404 mismatches, past the retired built-in "Marwee Sawig" line, and past the closed Murray/Fish misindex, onto the unresolved 1833 deed body.
 
 ## What Was Just Completed
 
+- Integrated Zach's May 1, 2026 Claude for Chrome correction for the long-carried John Murray -> Fred L. Fish lead.
+- Created `References/Claude for Chrome Lewis County John Murray Fred L Fish Lease Check.md`.
+- Updated `RQ-M1-JOHN-MURRAY-DEED-FINDINGS.md` with:
+  - the conclusion that the FamilySearch "1826" date is a computer-indexing error
+  - the corrected record type and date: **1899** oil and gas lease
+  - the retirement of the old 1826 Murray / Fish slot as a closed negative lead for RQ-M1
+  - the narrowed next-step workflow focusing on the remaining **1833** John Murray deed
+- Updated `References/Claude for Chrome Lewis County Deed Research Brief.md`, `Sources and Evidence Index.md`, `Research Priorities and Action Items.md`, `Tier 1 Research Execution Kit.md`, `Topics/Murray Settlement.md`, `Topics/Murray Settlement Research Roadmap.md`, `Visual Story Atlas.md`, `Search Index.md`, and `CHANGELOG.md` so the Murray deed task no longer treats the Murray/Fish record as a pre-1843 deed lead.
+- Integrated Zach's May 1, 2026 Claude for Chrome recheck of the last surviving built-in Deed Book C-D M-index line.
+- Created `References/Claude for Chrome Lewis County Built-in M Index Marwee Sawig Check.md`.
+- Updated `RQ-M1-JOHN-MURRAY-DEED-FINDINGS.md` with:
+  - the new best reading **"Marwee Sawig -> John Simpson"**
+  - the conclusion that this line is not a Murray-variant lead
+  - the retirement of the built-in Deed Book C-D M-index path from Murray-specific work
+  - the narrowed next-step workflow focusing on the unresolved 1826/1833 John Murray deed bodies
+- Updated `References/Claude for Chrome Lewis County Deed Research Brief.md`, `References/Claude for Chrome Lewis County Murray Grantee Search.md`, `Sources and Evidence Index.md`, `Research Priorities and Action Items.md`, `Tier 1 Research Execution Kit.md`, `Topics/Murray Settlement.md`, `Topics/Murray Settlement Research Roadmap.md`, `Visual Story Atlas.md`, `RQ-M1-LEWIS-COUNTY-FAN-SWEEP.md`, `Search Index.md`, and `CHANGELOG.md` so the Murray deed task no longer treats the old built-in Marwee line as a live lead.
+- Integrated Zach's April 30, 2026 Claude for Chrome Deed Book C-D page-334 check into the public research path.
+- Created `References/Claude for Chrome Lewis County Deed Book C-D Page 334 Check.md`.
+- Updated `RQ-M1-JOHN-MURRAY-DEED-FINDINGS.md` with:
+  - the controlled negative result that physical page 334 in DGS 8219256 does not match the old "Marwee J. -> J. Peck" target
+  - the narrowed next-step workflow focusing on the obscured 3?? target, the 1826/1833 deed bodies, and the built-in index / page-logic problem itself
+- Updated `References/Claude for Chrome Lewis County Deed Research Brief.md`, `Sources and Evidence Index.md`, `Research Priorities and Action Items.md`, `Tier 1 Research Execution Kit.md`, `Topics/Murray Settlement.md`, `Topics/Murray Settlement Research Roadmap.md`, `Search Index.md`, and `CHANGELOG.md` so the Murray deed task now treats physical page 334 as a confirmed mismatch rather than a live deed-body target.
 - Integrated Zach's April 30, 2026 Claude for Chrome Deed Book C-D page-404 check into the public research path.
 - Created `References/Claude for Chrome Lewis County Deed Book C-D Page 404 Check.md`.
 - Updated `RQ-M1-JOHN-MURRAY-DEED-FINDINGS.md` with:
@@ -163,7 +185,7 @@ Continue priority evidence work for the Copley family wiki, with the active Murr
 - `Tier 1 Research Execution Kit.md` is now the practical action layer for the top roadmap items.
 - `Visual Story Atlas.md` is now the diagram-first public entry point for the story, evidence status, and research quests.
 - `RQ-M1-JOHN-MURRAY-DEED-FINDINGS.md` now exists as the place to paste John Murray deed images, transcripts, abstracts, and interpretation.
-- The Murray deed task now has three Claude for Chrome handoffs integrated into the wiki: the original Deed Book C-D / grantor-index brief, the completed exact-surname grantee-index result, and the controlled negative page-404 check. Prior 1826/1833 index entries are still open; page 334 and the obscured 3?? Deed Book C-D targets remain live, but physical page 404 is now ruled out as the old Camden/Marwee target.
+- The Murray deed task now has five Claude for Chrome handoffs integrated into the wiki: the original Deed Book C-D / grantor-index brief, the completed exact-surname grantee-index result, the controlled negative page-404 check, the controlled negative page-334 check, and the final built-in-index recheck showing that "Marwee Sawig" is not Murray. Prior 1826/1833 index entries are still open, but the built-in Deed Book C-D M-index path is now retired from Murray-specific work.
 - `RQ-P1-PARTLOW-REVOLUTIONARY-LINE.md` is now the active Partlow proof-chain log.
 - `References/Harry C Partlow 1960 Letter and Handwritten Lineage.md` is the local family-source note for the 1960 Harry Partlow letter and 1977 handwritten lineage.
 - The Partlow working line is: Marion Elizabeth Partlow Copley -> Nollie Franklin / Frank Partlow -> Marion McDonald / M. Partlow -> John H. / John Halleck / Hallick Partlow -> Jacob Partlow / Jacob Newton Partlow -> Benjamin Partlow.
@@ -191,10 +213,9 @@ Continue priority evidence work for the Copley family wiki, with the active Murr
 - Murray deed next steps:
   - Preserve the completed exact-surname Murray grantee-index result: DGS 8293314 yielded only 1865-1934 entries on images 553-554 and no pre-1843 exact Murray grantee entry.
   - Verify the partially blocked 1865 rows on image 553 if the FamilySearch toolbar can be bypassed.
-  - Treat physical page 404 in DGS 8219256 as a controlled mismatch; do not keep using it as a direct deed target for the old Camden/Marwee entry.
-  - Transcribe Deed Book C-D, DGS 8219256, page 334 and the obscured "Marwee Sewig" page in the 300s.
+  - Treat physical pages 334 and 404 in DGS 8219256 as controlled mismatches and preserve the old "Marwee Sawig" line as a retired non-Murray path.
   - Revisit the 1826 and 1833 John Murray index leads and recover the deed-book / page / deed-body details.
-  - Re-check the built-in index reading, page-counting logic, or earlier deed-body pages if pursuing the old Camden/Marwee lead.
+  - If further variant work is attempted, use independent Murray-variant searches rather than the retired built-in M-index line.
   - Add any resulting images, citation paths, transcripts, abstracts, and interpretation first to `RQ-M1-JOHN-MURRAY-DEED-FINDINGS.md`, then update `Sources and Evidence Index.md`, `Topics/Murray Settlement.md`, `Research Priorities and Action Items.md`, and `People/Ann Copley.md` if the deeds materially affect the Ann/Murray hypothesis.
 - FAN sweep next step while waiting on Claude for Chrome:
   - Paste incoming Ancestry census / neighbor findings into `RQ-M1-LEWIS-COUNTY-FAN-SWEEP.md`.

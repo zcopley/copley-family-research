@@ -5,7 +5,7 @@ aliases:
   - Name Index
   - Site Index
 description: Comprehensive searchable index of all people, places, topics, and dates in the Copley Family Research Vault.
-date: 2026-04-28
+date: 2026-05-01
 tags:
   - "#index"
   - "#copley-family"
@@ -195,21 +195,23 @@ Full-text searchable index of everyone and everything in this vault. Use Ctrl+K 
 | [[Places/County Roscommon Ireland\|County Roscommon]] | Ireland | Irish ancestral county |
 | [[Places/Lewis County West Virginia\|Lewis County, WV]] | West Virginia | Core family settlement; Copley farm & oil strike |
 | [[Places/Cove Lick West Virginia\|Cove Lick]] | Lewis County, WV | Copley farm location; Copley Road |
+| [[Places/Loveberry Ridge West Virginia\|Loveberry Ridge, WV]] | Lewis County, WV | St. Bernard's Catholic setting; nearby ridge in the farm and settlement landscape |
 | [[Places/Weston West Virginia\|Weston, WV]] | Lewis County, WV | County seat; family hub; 108 Cottage Ave (Sarah Copley) |
 | [[Places/Jane Lew West Virginia\|Jane Lew, WV]] | Lewis County, WV | Nearby community |
 | Moundsville, WV | West Virginia | Birthplace of Mary Ellen Dolan (1855) |
 | Parkersburg, WV | West Virginia | DeSales Heights Academy (Nelle's boarding school) |
 | Albuquerque, NM | New Mexico | Anne Copley and Mary Flesch relocated here |
 | [[Places/Baltimore Maryland\|Baltimore, MD]] | Maryland | St. Joseph Hospital (Nelle's nursing career); Sardo family home |
-| Clarksville, MD | Maryland | Robert Sardo's medical practice; Nelle & Robert's home |
+| [[Places/Ellicott City Maryland\|Ellicott City, MD]] | Maryland | Rock Hill College lead and educational waypoint for Michael Joseph Copley |
+| [[Places/Clarksville Maryland\|Clarksville, MD]] | Maryland | Robert Sardo's medical practice; Nelle & Robert's home |
 | Crawford County, IA | Iowa | Mary Copely Giblin's settlement and death location; likely Iowa Copely branch |
 | Champaign, IL | Illinois | Birthplace of Stephen Michael Copley (UIUC period) |
-| Wyndmoor, PA | Pennsylvania | USDA ERRL; Stephen's childhood home 1939–47 |
+| [[Places/Wyndmoor Pennsylvania\|Wyndmoor, PA]] | Pennsylvania | USDA ERRL; Stephen's childhood home 1939–47 |
 | Philadelphia, PA | Pennsylvania | Birthplace of Thomas Partlow Copley |
 | Bellefonte, PA | Pennsylvania | Birthplace of Zachary R. Copley (Penn State/Bellefonte hospital) |
-| Madison, CT | Connecticut | Stephen Copley at Pratt & Whitney; Neck Road house |
-| Palos Verdes Estates, CA | California | 4029 Via Nivel; Stephen Copley at USC |
-| Albany, CA | California | USDA Western Regional Research Laboratory (Michael Joseph) |
+| [[Places/Madison Connecticut\|Madison, CT]] | Connecticut | Stephen Copley at Pratt & Whitney; Neck Road house |
+| [[Places/Palos Verdes Estates California\|Palos Verdes Estates, CA]] | California | 4029 Via Nivel; Stephen Copley at USC |
+| [[Places/Albany California\|Albany, CA]] | California | USDA Western Regional Research Laboratory (Michael Joseph) |
 | El Cerrito / Berkeley, CA | California | Tom Copley family home "on the Arlington"; Richmond Annex |
 | Hinsdale, IL | Illinois | Stephen & Judy Copley at IIT; Amy's childhood |
 | State College, PA | Pennsylvania | Penn State; Judy Todd as dept head; Amy's high school |
@@ -229,11 +231,14 @@ Full-text searchable index of everyone and everything in this vault. Use Ctrl+K 
 | [[Topics/Murray Settlement\|Murray Settlement]] | Coordinated Irish/Catholic settlement hypothesis in Lewis County; Murray, Copley, Dolan, Hanley, Hannon network |
 | [[Topics/Murray Settlement Research Roadmap\|Murray Settlement Research Roadmap]] | RQ-M1 through RQ-M8 research strategy and evidence thresholds |
 | [[Who Was Alive When\|Who Was Alive When]] | Lifespan-overlap guide showing who was alive during the family's major eras and turning points |
-| [[RQ-M1-JOHN-MURRAY-DEED-FINDINGS\|RQ-M1 John Murray Deed Findings]] | Findings log for 1826/1833 John Murray deed index leads, Marwee / possible Murray Deed Book C-D targets, completed exact-Murray grantee-index results, and future deed-text transcription |
+| [[RQ-M1-JOHN-MURRAY-DEED-FINDINGS\|RQ-M1 John Murray Deed Findings]] | Findings log for the remaining 1833 John Murray deed lead, the retired 1899 Murray/Fish misindex, the retired Deed Book C-D Marwee path, completed exact-Murray grantee-index results, and future deed-text transcription |
 | [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP\|RQ-M1 Lewis County FAN Sweep]] | Findings log for Murray / Copley / settlement-family census and neighbor-network research in Lewis County, 1840-1870 |
 | [[References/Claude for Chrome Lewis County Deed Research Brief\|Claude for Chrome Lewis County Deed Research Brief]] | FamilySearch deed-index handoff for Lewis County Murray / Marwee research |
 | [[References/Claude for Chrome Lewis County Murray Grantee Search\|Claude for Chrome Lewis County Murray Grantee Search]] | Exact-surname compiled grantee-index results for Murray in Lewis County, with the image 553-554 entry cluster and uncertainty flags |
+| [[References/Claude for Chrome Lewis County Deed Book C-D Page 334 Check\|Claude for Chrome Lewis County Deed Book C-D Page 334 Check]] | Controlled negative result showing that physical page 334 does not match the old "Marwee J." / "J. Peck" target in Deed Book C-D |
 | [[References/Claude for Chrome Lewis County Deed Book C-D Page 404 Check\|Claude for Chrome Lewis County Deed Book C-D Page 404 Check]] | Controlled negative result showing that physical page 404 does not match the old Camden / Marwee target in Deed Book C-D |
+| [[References/Claude for Chrome Lewis County Built-in M Index Marwee Sawig Check\|Claude for Chrome Lewis County Built-in M Index Marwee Sawig Check]] | Final built-in M-index recheck showing that the former "Marwee Sewig" line reads best as "Marwee Sawig" to John Simpson and should be retired from Murray-specific work |
+| [[References/Copley History Part 1 and Appendix Source Audit\|Copley History Part 1 and Appendix Source Audit]] | Control note showing what the Part 1 history and appendix PDFs already contributed, what place-rich details remain underused, and where future raw-PDF extraction should go next |
 | [[Topics/1900 Copley Oil Strike\|1900 Copley Oil Strike]] | Copley No. 1 well, South Penn Oil, ~4,800 bbl/day, Lewis County |
 | [[Topics/Irish Famine and Emigration\|Irish Famine & Emigration]] | 1840s–50s emigration context for Copley/Munday families |
 | [[Topics/Irish Immigration to West Virginia\|Irish Immigration to WV]] | Settlement patterns in Lewis/Marshall counties |
@@ -310,4 +315,4 @@ Full-text searchable index of everyone and everything in this vault. Use Ctrl+K 
 
 ## Research Keywords
 
-Evidence Index · Claims Register · Source Backbone · Civil War · Union Army · Quartermaster · NARA · naturalization · B&O Railroad · Staunton-Parkersburg Turnpike · Murray Settlement · Irish Settlement · John Murray deed findings · Lewis County FAN sweep · census neighbors · FAN club · 1826 Murray Fish deed · 1833 John Murray deed · Marwee · Murray variant · Lewis County grantee index · Deed Book C-D · RQ-M1 · South Penn Oil · Lewis County deed · probate · County Roscommon · Kilgefin · Fairymount · Kinawley · Famine · emigration · immigration · Kutusoff · Powhatan · passenger manifest · Bredon Descent · Captain John Copley · Woolbedding · Bredon's Norton · recusancy · crypto-Catholic · Mary Copely Giblin · Iowa Copley · Crawford County Iowa · USDA · Eastern Regional Research Laboratory · Western Regional Research Laboratory · ERRL · WRRL · Catholic University · University of Illinois · UIUC · UC Berkeley · Penn State · Pratt & Whitney · USC · IIT · Illinois Institute of Technology · ASM International · ASMI · Society of Engineering Science · SES · Tuttle Publishing · bento · Wendolonia · Unite Us · Social Vocational Services · SVS · Harbor Regional Center · World Bank · Brookings Institution · London School of Economics · LSE · genealogy · census · vital records · baptism · marriage certificate · Irish ancestry · Copley Road · Cove Lick · Weston · Jane Lew · Clarksburg · Sardo · Arena · Ruland · Dolan · Murray · Munday · Copely · Partlow · LaForce · Gillooly · Hannon · Reynolds · Quinn · Flesch · Meier · Geist · Bird · Cox · Todd · Thornton · Dawson · Thorpe · Barthelme · VanderMolen · Leonhardt · Brune · Breen · Donner Party · San Juan Bautista · materials science · hydrogen bonding · frozen food · food dehydration · synthetic rubber · marketing · consumer behavior · Antioch College · Arlington Courseware · drtoy.com · Electronic University
+Evidence Index · Claims Register · Source Backbone · Civil War · Union Army · Quartermaster · NARA · naturalization · B&O Railroad · Staunton-Parkersburg Turnpike · Murray Settlement · Irish Settlement · John Murray deed findings · Lewis County FAN sweep · census neighbors · FAN club · 1899 John Murray Fred L Fish oil lease · FamilySearch misindex · 1833 John Murray deed · Marwee · Marwee Sawig · Murray variant · Lewis County grantee index · Deed Book C-D · RQ-M1 · South Penn Oil · Lewis County deed · probate · County Roscommon · Kilgefin · Fairymount · Kinawley · Famine · emigration · immigration · Kutusoff · Powhatan · passenger manifest · Bredon Descent · Captain John Copley · Woolbedding · Bredon's Norton · recusancy · crypto-Catholic · Mary Copely Giblin · Iowa Copley · Crawford County Iowa · USDA · Eastern Regional Research Laboratory · Western Regional Research Laboratory · ERRL · WRRL · Catholic University · University of Illinois · UIUC · UC Berkeley · Penn State · Pratt & Whitney · USC · IIT · Illinois Institute of Technology · ASM International · ASMI · Society of Engineering Science · SES · Tuttle Publishing · bento · Wendolonia · Unite Us · Social Vocational Services · SVS · Harbor Regional Center · World Bank · Brookings Institution · London School of Economics · LSE · genealogy · census · vital records · baptism · marriage certificate · Irish ancestry · Copley Road · Cove Lick · Weston · Jane Lew · Clarksburg · Sardo · Arena · Ruland · Dolan · Murray · Munday · Copely · Partlow · LaForce · Gillooly · Hannon · Reynolds · Quinn · Flesch · Meier · Geist · Bird · Cox · Todd · Thornton · Dawson · Thorpe · Barthelme · VanderMolen · Leonhardt · Brune · Breen · Donner Party · San Juan Bautista · materials science · hydrogen bonding · frozen food · food dehydration · synthetic rubber · marketing · consumer behavior · Antioch College · Arlington Courseware · drtoy.com · Electronic University

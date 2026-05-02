@@ -28,7 +28,7 @@ This is an important negative result for the early-anchor question. It does **no
 
 - the search covered **exact Murray only**, not every variant
 - the earlier **1826** and **1833** John Murray leads came from a different FamilySearch index path
-- the Deed Book C-D built-in **"Marwee" / possible Murray** entries remain unresolved
+- the Deed Book C-D built-in **"Marwee"** path was still unresolved at the time of this handoff, but later follow-up notes retired it from Murray-specific work
 
 ## Collection Details
 
@@ -129,7 +129,7 @@ For RQ-M1, the main value of this handoff is:
 
 1. It closes the exact-surname **compiled grantee index** pass for DGS 8293314.
 2. It shows that the early 1826/1833 problem remains upstream of the later exact-Murray cluster.
-3. It keeps the Deed Book C-D **"Marwee" / possible Murray** entries highly relevant.
+3. It preserves the fact that the remaining early Murray problem sat upstream of this later exact-surname grantee cluster.
 
 ## Direct Links
 
@@ -141,4 +141,4 @@ For RQ-M1, the main value of this handoff is:
 
 1. Verify the partially blocked **1865** rows on image 553 if the toolbar can be bypassed.
 2. Cross-check the uncertain book/page readings before using any later Murray entry as a citation.
-3. Keep the deed-body work focused on the unresolved early leads: the **1826** and **1833** John Murray entries and the Deed Book C-D **"Marwee"** targets.
+3. Keep the deed-body work focused on the unresolved early leads: the **1826** and **1833** John Murray entries.

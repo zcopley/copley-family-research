@@ -33,7 +33,7 @@ When a search produces a record, a negative result, or a corrected claim:
 
 ---
 
-## 1. John Murray Deeds: 1826 and 1833
+## 1. Remaining Early John Murray Deed
 
 **Goal:** Determine whether John Murray or another Murray household anchored the Lewis County Irish Catholic settlement before Michael and Patrick Copley's 1843 land purchase.
 
@@ -43,26 +43,27 @@ When a search produces a record, a negative result, or a corrected claim:
 
 - Grantee Index G-M, 1817-1934: Film 819925, DGS 8293314
 - Deed Book C-D, 1824-1834: Film 818742, DGS 8219256
-- Possible "Marwee" / Murray page targets in Deed Book C-D: page 334 and an obscured page in the 300s; physical page 404 has now been checked and found not to match the old Camden/Marwee target
-- Variant spellings to check: Murray, Murry, Murrey, Murroe, Murrow, Marwee, Marree
+- Former 1826 Murray / Fish lead retired: actual record is a **1899** oil and gas lease in DGS 008293302
+- Built-in Deed Book C-D M-index path retired for Murray-specific work: physical pages 334 and 404 are mismatches, and the former "Marwee Sawig" line no longer reads as Murray
+- Variant spellings to check: Murray, Murry, Murrey, Murroe, Murrow, Marree
 - Negative check already recorded: compiled Grantor Index M-S, DGS 8293317, image 60, did not show clear Murray between Munson and Musgrave
 - Exact-surname Murray grantee search already recorded: DGS 8293314 exact Murray entries appear only on images 553-554 and are dated 1865-1934
 
 ### Request Template: Lewis County Clerk / FamilySearch Helper
 
-Subject: Lewis County WV deed lookup request - John Murray, 1826 and 1833
+Subject: Lewis County WV deed lookup request - John Murray, 1833
 
 Hello,
 
-I am researching early Lewis County land records connected to the Irish Catholic settlement near Cove Lick / Camden / Loveberry. I am looking for deed entries involving John Murray in 1826 and 1833.
+I am researching early Lewis County land records connected to the Irish Catholic settlement near Cove Lick / Camden / Loveberry. I am looking for the remaining early deed entry involving John Murray in 1833.
 
 Could you please help identify or provide copies/transcriptions for any deed-book entries matching:
 
-- Name: John Murray, with possible variants Murry / Murrey / Murroe / Murrow / Marwee / Marree
+- Name: John Murray, with possible variants Murry / Murrey / Murroe / Murrow / Marree
 - County: Lewis County, Virginia / West Virginia
-- Date range: 1820-1840, with priority on 1826 and 1833
+- Date range: 1820-1840, with priority on 1833
 - Record type: deed, land purchase, land sale, lease, or related land instrument
-- Specific FamilySearch targets: compiled grantee index image 553 partially blocked 1865 Murray rows, Deed Book C-D DGS 8219256 page 334, the obscured "Marwee" page in the 300s, and the index/page-counting problem behind the old page-404 Camden target
+- Specific FamilySearch targets: compiled grantee index image 553 partially blocked 1865 Murray rows, the remaining 1833 John Murray deed body, and any independent Murray-variant index path outside the retired built-in M-index line
 
 For each matching record, I am hoping to capture the book/page, date, grantor, grantee, acreage, price, watercourse or land description, neighbors, witnesses, and any index references.
 
@@ -95,7 +96,7 @@ Thank you for any guidance on the correct deed book, index, image, or copy-reque
 ### Evidence Questions
 
 - Does the land fall near Cove Lick, Camden, Loveberry, St. Michael's, or the later Copley parcel?
-- Does the exact-surname grantee-index evidence stay late (1865+) while earlier pre-1843 Murray evidence survives only under other spellings or index paths?
+- Does the exact-surname grantee-index evidence stay late (1865+) while earlier pre-1843 Murray evidence survives only in the remaining 1833 deed body or some other independent index path?
 - Does the deed show Murray settlement before the Copley 1843 Hoffman deed?
 - Do witnesses or neighbors include Copley, Dolan, Hanley, Gillooly, Hannon, Reynolds, Mullooly, Mulroney, or Mahon?
 - Does any record connect Murray land to Ann Copley / Ann Munday / likely Murray?

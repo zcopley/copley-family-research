@@ -40,7 +40,7 @@ This matters because a census-neighbor cluster near Cove Lick, Camden, Loveberry
 
 | Group | Surnames / Variants |
 |---|---|
-| Core Murray search | Murray, Murry, Murrey, Murrow, Murroe, Marwee |
+| Core Murray search | Murray, Murry, Murrey, Murrow, Murroe |
 | Copley family | Copley, Copely, Cople, Cople |
 | Settlement families | Dolan, Hanley, Hannon, Gillooly, Gilhooly, Mullooly, Reynolds, Mulroney, Mahon |
 | Ann surname controls | Munday, Monday, Mundy |
