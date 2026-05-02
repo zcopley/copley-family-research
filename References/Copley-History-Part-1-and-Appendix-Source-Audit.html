@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr"><head><title>Copley History Part 1 and Appendix Source Audit</title><meta charset="utf-8"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Schibsted Grotesk:wght@400;700&amp;family=Source Sans Pro:ital,wght@0,400;0,600;1,400;1,600&amp;family=IBM Plex Mono:wght@400;600&amp;display=swap"/><link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin="anonymous"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="og:site_name" content="Copley Family History"/><meta property="og:title" content="Copley History Part 1 and Appendix Source Audit"/><meta property="og:type" content="website"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="Copley History Part 1 and Appendix Source Audit"/><meta name="twitter:description" content="Copley History Part 1 and Appendix Source Audit This note tracks how fully the two main family-history PDFs have been mined into the wiki, what they contain, and what still appears to be underused."/><meta property="og:description" content="Copley History Part 1 and Appendix Source Audit This note tracks how fully the two main family-history PDFs have been mined into the wiki, what they contain, and what still appears to be underused."/><meta property="og:image:alt" content="Copley History Part 1 and Appendix Source Audit This note tracks how fully the two main family-history PDFs have been mined into the wiki, what they contain, and what still appears to be underused."/><meta property="twitter:domain" content="zcopley.github.io/copley-family-research"/><meta property="og:url" content="https://zcopley.github.io/copley-family-research/References/Copley-History-Part-1-and-Appendix-Source-Audit"/><meta property="twitter:url" content="https://zcopley.github.io/copley-family-research/References/Copley-History-Part-1-and-Appendix-Source-Audit"/><link rel="icon" href="../static/icon.png"/><meta name="description" content="Copley History Part 1 and Appendix Source Audit This note tracks how fully the two main family-history PDFs have been mined into the wiki, what they contain, and what still appears to be underused."/><meta name="generator" content="Quartz"/><link href="../index.css" rel="stylesheet" type="text/css" data-persist="true"/><style>.expand-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  right: 0;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.expand-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.expand-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.expand-button:focus {
+  outline: 0;
+}
+
+pre:hover > .expand-button {
+  opacity: 1;
+  transition: 0.2s;
+}
+
+code.mermaid .cluster-label,
+code.mermaid .edgeLabel,
+#mermaid-container .mermaid-content .cluster-label,
+#mermaid-container .mermaid-content .edgeLabel {
+  text-shadow: 0 1px 0 var(--light), 1px 0 0 var(--light), 0 -1px 0 var(--light), -1px 0 0 var(--light), 0 0 3px var(--light);
+}
+code.mermaid .cluster-label text,
+code.mermaid .edgeLabel text,
+#mermaid-container .mermaid-content .cluster-label text,
+#mermaid-container .mermaid-content .edgeLabel text {
+  paint-order: stroke;
+  stroke: var(--light);
+  stroke-linejoin: round;
+  stroke-width: 3px;
+}
+
+#mermaid-container {
+  position: fixed;
+  contain: layout;
+  z-index: 999;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: none;
+  backdrop-filter: blur(4px);
+  background: rgba(0, 0, 0, 0.5);
+}
+#mermaid-container.active {
+  display: inline-block;
+}
+#mermaid-container > #mermaid-space {
+  border: 1px solid var(--lightgray);
+  background-color: var(--light);
+  border-radius: 5px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 80vh;
+  width: 80vw;
+  overflow: hidden;
+}
+#mermaid-container > #mermaid-space > .mermaid-content {
+  position: relative;
+  transform-origin: 0 0;
+  transition: transform 0.1s ease;
+  overflow: visible;
+  min-height: 200px;
+  min-width: 200px;
+}
+#mermaid-container > #mermaid-space > .mermaid-content pre {
+  margin: 0;
+  border: none;
+}
+#mermaid-container > #mermaid-space > .mermaid-content svg {
+  max-width: none;
+  height: auto;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  gap: 8px;
+  padding: 8px;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 2;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  color: var(--dark);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: var(--bodyFont);
+  transition: all 0.2s ease;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:hover {
+  background: var(--lightgray);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:active {
+  transform: translateY(1px);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:nth-child(2) {
+  width: auto;
+  padding: 0 12px;
+  font-size: 14px;
+}
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VSb290IjoiL2hvbWUvcnVubmVyL3dvcmsvY29wbGV5LWZhbWlseS1yZXNlYXJjaC9jb3BsZXktZmFtaWx5LXJlc2VhcmNoL3F1YXJ0ei9jb21wb25lbnRzL3N0eWxlcyIsInNvdXJjZXMiOlsibWVybWFpZC5pbmxpbmUuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTs7QUFHRjtFQUNFO0VBQ0E7O0FBR0Y7RUFDRTs7O0FBS0Y7RUFDRTtFQUNBOzs7QUFNRjtBQUFBO0FBQUE7QUFBQTtFQUVFLGFBQ0U7O0FBT0o7QUFBQTtBQUFBO0FBQUE7RUFFRTtFQUNBO0VBQ0E7RUFDQTs7O0FBSUo7RUFDRTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7O0FBR0Y7RUFDRTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTs7QUFFQTtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTs7QUFFQTtFQUNFO0VBQ0E7O0FBR0Y7RUFDRTtFQUNBOztBQUlKO0VBQ0U7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTs7QUFFQTtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7O0FBRUE7RUFDRTs7QUFHRjtFQUNFOztBQUlGO0VBQ0U7RUFDQTtFQUNBIiwic291cmNlc0NvbnRlbnQiOlsiLmV4cGFuZC1idXR0b24ge1xuICBwb3NpdGlvbjogYWJzb2x1dGU7XG4gIGRpc3BsYXk6IGZsZXg7XG4gIGZsb2F0OiByaWdodDtcbiAgcGFkZGluZzogMC40cmVtO1xuICBtYXJnaW46IDAuM3JlbTtcbiAgcmlnaHQ6IDA7IC8vIE5PVEU6IHJpZ2h0IHdpbGwgYmUgc2V0IGluIG1lcm1haWQuaW5saW5lLnRzXG4gIGNvbG9yOiB2YXIoLS1ncmF5KTtcbiAgYm9yZGVyLWNvbG9yOiB2YXIoLS1kYXJrKTtcbiAgYmFja2dyb3VuZC1jb2xvcjogdmFyKC0tbGlnaHQpO1xuICBib3JkZXI6IDFweCBzb2xpZDtcbiAgYm9yZGVyLXJhZGl1czogNXB4O1xuICBvcGFjaXR5OiAwO1xuICB0cmFuc2l0aW9uOiAwLjJzO1xuXG4gICYgPiBzdmcge1xuICAgIGZpbGw6IHZhcigtLWxpZ2h0KTtcbiAgICBmaWx0ZXI6IGNvbnRyYXN0KDAuMyk7XG4gIH1cblxuICAmOmhvdmVyIHtcbiAgICBjdXJzb3I6IHBvaW50ZXI7XG4gICAgYm9yZGVyLWNvbG9yOiB2YXIoLS1zZWNvbmRhcnkpO1xuICB9XG5cbiAgJjpmb2N1cyB7XG4gICAgb3V0bGluZTogMDtcbiAgfVxufVxuXG5wcmUge1xuICAmOmhvdmVyID4gLmV4cGFuZC1idXR0b24ge1xuICAgIG9wYWNpdHk6IDE7XG4gICAgdHJhbnNpdGlvbjogMC4ycztcbiAgfVxufVxuXG5jb2RlLm1lcm1haWQsXG4jbWVybWFpZC1jb250YWluZXIgLm1lcm1haWQtY29udGVudCB7XG4gIC5jbHVzdGVyLWxhYmVsLFxuICAuZWRnZUxhYmVsIHtcbiAgICB0ZXh0LXNoYWRvdzpcbiAgICAgIDAgMXB4IDAgdmFyKC0tbGlnaHQpLFxuICAgICAgMXB4IDAgMCB2YXIoLS1saWdodCksXG4gICAgICAwIC0xcHggMCB2YXIoLS1saWdodCksXG4gICAgICAtMXB4IDAgMCB2YXIoLS1saWdodCksXG4gICAgICAwIDAgM3B4IHZhcigtLWxpZ2h0KTtcbiAgfVxuXG4gIC5jbHVzdGVyLWxhYmVsIHRleHQsXG4gIC5lZGdlTGFiZWwgdGV4dCB7XG4gICAgcGFpbnQtb3JkZXI6IHN0cm9rZTtcbiAgICBzdHJva2U6IHZhcigtLWxpZ2h0KTtcbiAgICBzdHJva2UtbGluZWpvaW46IHJvdW5kO1xuICAgIHN0cm9rZS13aWR0aDogM3B4O1xuICB9XG59XG5cbiNtZXJtYWlkLWNvbnRhaW5lciB7XG4gIHBvc2l0aW9uOiBmaXhlZDtcbiAgY29udGFpbjogbGF5b3V0O1xuICB6LWluZGV4OiA5OTk7XG4gIGxlZnQ6IDA7XG4gIHRvcDogMDtcbiAgd2lkdGg6IDEwMHZ3O1xuICBoZWlnaHQ6IDEwMHZoO1xuICBvdmVyZmxvdzogaGlkZGVuO1xuICBkaXNwbGF5OiBub25lO1xuICBiYWNrZHJvcC1maWx0ZXI6IGJsdXIoNHB4KTtcbiAgYmFja2dyb3VuZDogcmdiYSgwLCAwLCAwLCAwLjUpO1xuXG4gICYuYWN0aXZlIHtcbiAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7XG4gIH1cblxuICAmID4gI21lcm1haWQtc3BhY2Uge1xuICAgIGJvcmRlcjogMXB4IHNvbGlkIHZhcigtLWxpZ2h0Z3JheSk7XG4gICAgYmFja2dyb3VuZC1jb2xvcjogdmFyKC0tbGlnaHQpO1xuICAgIGJvcmRlci1yYWRpdXM6IDVweDtcbiAgICBwb3NpdGlvbjogZml4ZWQ7XG4gICAgdG9wOiA1MCU7XG4gICAgbGVmdDogNTAlO1xuICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlKC01MCUsIC01MCUpO1xuICAgIGhlaWdodDogODB2aDtcbiAgICB3aWR0aDogODB2dztcbiAgICBvdmVyZmxvdzogaGlkZGVuO1xuXG4gICAgJiA+IC5tZXJtYWlkLWNvbnRlbnQge1xuICAgICAgcG9zaXRpb246IHJlbGF0aXZlO1xuICAgICAgdHJhbnNmb3JtLW9yaWdpbjogMCAwO1xuICAgICAgdHJhbnNpdGlvbjogdHJhbnNmb3JtIDAuMXMgZWFzZTtcbiAgICAgIG92ZXJmbG93OiB2aXNpYmxlO1xuICAgICAgbWluLWhlaWdodDogMjAwcHg7XG4gICAgICBtaW4td2lkdGg6IDIwMHB4O1xuXG4gICAgICBwcmUge1xuICAgICAgICBtYXJnaW46IDA7XG4gICAgICAgIGJvcmRlcjogbm9uZTtcbiAgICAgIH1cblxuICAgICAgc3ZnIHtcbiAgICAgICAgbWF4LXdpZHRoOiBub25lO1xuICAgICAgICBoZWlnaHQ6IGF1dG87XG4gICAgICB9XG4gICAgfVxuXG4gICAgJiA+IC5tZXJtYWlkLWNvbnRyb2xzIHtcbiAgICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTtcbiAgICAgIGJvdHRvbTogMjBweDtcbiAgICAgIHJpZ2h0OiAyMHB4O1xuICAgICAgZGlzcGxheTogZmxleDtcbiAgICAgIGdhcDogOHB4O1xuICAgICAgcGFkZGluZzogOHB4O1xuICAgICAgYmFja2dyb3VuZDogdmFyKC0tbGlnaHQpO1xuICAgICAgYm9yZGVyOiAxcHggc29saWQgdmFyKC0tbGlnaHRncmF5KTtcbiAgICAgIGJvcmRlci1yYWRpdXM6IDZweDtcbiAgICAgIGJveC1zaGFkb3c6IDAgMnB4IDRweCByZ2JhKDAsIDAsIDAsIDAuMSk7XG4gICAgICB6LWluZGV4OiAyO1xuXG4gICAgICAubWVybWFpZC1jb250cm9sLWJ1dHRvbiB7XG4gICAgICAgIGRpc3BsYXk6IGZsZXg7XG4gICAgICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7XG4gICAgICAgIGp1c3RpZnktY29udGVudDogY2VudGVyO1xuICAgICAgICB3aWR0aDogMzJweDtcbiAgICAgICAgaGVpZ2h0OiAzMnB4O1xuICAgICAgICBwYWRkaW5nOiAwO1xuICAgICAgICBib3JkZXI6IDFweCBzb2xpZCB2YXIoLS1saWdodGdyYXkpO1xuICAgICAgICBiYWNrZ3JvdW5kOiB2YXIoLS1saWdodCk7XG4gICAgICAgIGNvbG9yOiB2YXIoLS1kYXJrKTtcbiAgICAgICAgYm9yZGVyLXJhZGl1czogNHB4O1xuICAgICAgICBjdXJzb3I6IHBvaW50ZXI7XG4gICAgICAgIGZvbnQtc2l6ZTogMTZweDtcbiAgICAgICAgZm9udC1mYW1pbHk6IHZhcigtLWJvZHlGb250KTtcbiAgICAgICAgdHJhbnNpdGlvbjogYWxsIDAuMnMgZWFzZTtcblxuICAgICAgICAmOmhvdmVyIHtcbiAgICAgICAgICBiYWNrZ3JvdW5kOiB2YXIoLS1saWdodGdyYXkpO1xuICAgICAgICB9XG5cbiAgICAgICAgJjphY3RpdmUge1xuICAgICAgICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlWSgxcHgpO1xuICAgICAgICB9XG5cbiAgICAgICAgLy8gU3R5bGUgdGhlIHJlc2V0IGJ1dHRvbiBkaWZmZXJlbnRseVxuICAgICAgICAmOm50aC1jaGlsZCgyKSB7XG4gICAgICAgICAgd2lkdGg6IGF1dG87XG4gICAgICAgICAgcGFkZGluZzogMCAxMnB4O1xuICAgICAgICAgIGZvbnQtc2l6ZTogMTRweDtcbiAgICAgICAgfVxuICAgICAgfVxuICAgIH1cbiAgfVxufVxuIl19 */</style><link href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" rel="stylesheet" type="text/css" data-persist="true"/><script src="../prescript.js" type="application/javascript" data-persist="true"></script><script type="application/javascript" data-persist="true">const fetchData = fetch("../static/contentIndex.json").then(data => data.json())</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://zcopley.github.io/copley-family-research/index.xml"/><meta property="og:image:width" content="1200"/><meta property="og:image:height" content="630"/><meta property="og:image" content="https://zcopley.github.io/copley-family-research/References/Copley-History-Part-1-and-Appendix-Source-Audit-og-image.webp"/><meta property="og:image:url" content="https://zcopley.github.io/copley-family-research/References/Copley-History-Part-1-and-Appendix-Source-Audit-og-image.webp"/><meta name="twitter:image" content="https://zcopley.github.io/copley-family-research/References/Copley-History-Part-1-and-Appendix-Source-Audit-og-image.webp"/><meta property="og:image:type" content="image/.webp"/></head><body data-slug="References/Copley-History-Part-1-and-Appendix-Source-Audit"><div id="quartz-root" class="page"><div id="quartz-body"><div class="left sidebar"><h2 class="page-title"><a href="..">Copley Family History</a></h2><div class="spacer mobile-only"></div><div class="flex-component" style="flex-direction: row; flex-wrap: nowrap; gap: 1rem;"><div style="flex-grow: 1; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><div class="search"><button class="search-button"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title>Search</title><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg><p>Search</p></button><div class="search-container"><div class="search-space"><input autocomplete="off" class="search-bar" name="search" type="text" aria-label="Search for something" placeholder="Search for something"/><div class="search-layout" data-preview="true"></div></div></div></div></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="darkmode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve" aria-label="Dark mode"><title>Dark mode</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve" aria-label="Light mode"><title>Light mode</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></button></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="readermode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="readerIcon" fill="currentColor" stroke="currentColor" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round" width="64px" height="64px" viewBox="0 0 24 24" aria-label="Reader mode"><title>Reader mode</title><g transform="translate(-1.8, -1.8) scale(1.15, 1.2)"><path d="M8.9891247,2.5 C10.1384702,2.5 11.2209868,2.96705384 12.0049645,3.76669482 C12.7883914,2.96705384 13.8709081,2.5 15.0202536,2.5 L18.7549359,2.5 C19.1691495,2.5 19.5049359,2.83578644 19.5049359,3.25 L19.5046891,4.004 L21.2546891,4.00457396 C21.6343849,4.00457396 21.9481801,4.28672784 21.9978425,4.6528034 L22.0046891,4.75457396 L22.0046891,20.25 C22.0046891,20.6296958 21.7225353,20.943491 21.3564597,20.9931534 L21.2546891,21 L2.75468914,21 C2.37499337,21 2.06119817,20.7178461 2.01153575,20.3517706 L2.00468914,20.25 L2.00468914,4.75457396 C2.00468914,4.37487819 2.28684302,4.061083 2.65291858,4.01142057 L2.75468914,4.00457396 L4.50368914,4.004 L4.50444233,3.25 C4.50444233,2.87030423 4.78659621,2.55650904 5.15267177,2.50684662 L5.25444233,2.5 L8.9891247,2.5 Z M4.50368914,5.504 L3.50468914,5.504 L3.50468914,19.5 L10.9478955,19.4998273 C10.4513189,18.9207296 9.73864328,18.5588115 8.96709342,18.5065584 L8.77307039,18.5 L5.25444233,18.5 C4.87474657,18.5 4.56095137,18.2178461 4.51128895,17.8517706 L4.50444233,17.75 L4.50368914,5.504 Z M19.5049359,17.75 C19.5049359,18.1642136 19.1691495,18.5 18.7549359,18.5 L15.2363079,18.5 C14.3910149,18.5 13.5994408,18.8724714 13.0614828,19.4998273 L20.5046891,19.5 L20.5046891,5.504 L19.5046891,5.504 L19.5049359,17.75 Z M18.0059359,3.999 L15.0202536,4 L14.8259077,4.00692283 C13.9889509,4.06666544 13.2254227,4.50975805 12.7549359,5.212 L12.7549359,17.777 L12.7782651,17.7601316 C13.4923805,17.2719483 14.3447024,17 15.2363079,17 L18.0059359,16.999 L18.0056891,4.798 L18.0033792,4.75457396 L18.0056891,4.71 L18.0059359,3.999 Z M8.9891247,4 L6.00368914,3.999 L6.00599909,4.75457396 L6.00599909,4.75457396 L6.00368914,4.783 L6.00368914,16.999 L8.77307039,17 C9.57551536,17 10.3461406,17.2202781 11.0128313,17.6202194 L11.2536891,17.776 L11.2536891,5.211 C10.8200889,4.56369974 10.1361548,4.13636104 9.37521067,4.02745763 L9.18347055,4.00692283 L8.9891247,4 Z"></path></g></svg></button></div></div><div class="explorer" data-behavior="link" data-collapsed="collapsed" data-savestate="true" data-data-fns="{&quot;order&quot;:[&quot;filter&quot;,&quot;map&quot;,&quot;sort&quot;],&quot;sortFn&quot;:&quot;(a,b)=>!a.isFolder&amp;&amp;!b.isFolder||a.isFolder&amp;&amp;b.isFolder?a.displayName.localeCompare(b.displayName,void 0,{numeric:!0,sensitivity:\&quot;base\&quot;}):!a.isFolder&amp;&amp;b.isFolder?1:-1&quot;,&quot;filterFn&quot;:&quot;node=>node.slugSegment!==\&quot;tags\&quot;&quot;,&quot;mapFn&quot;:&quot;node=>node&quot;}"><button type="button" class="explorer-toggle mobile-explorer hide-until-loaded" data-mobile="true" aria-controls="explorer-229"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-menu"><line x1="4" x2="20" y1="12" y2="12"></line><line x1="4" x2="20" y1="6" y2="6"></line><line x1="4" x2="20" y1="18" y2="18"></line></svg></button><button type="button" class="title-button explorer-toggle desktop-explorer" data-mobile="false" aria-expanded="true"><h2>Explorer</h2><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="explorer-229" class="explorer-content" aria-expanded="false" role="group"><ul class="explorer-ul overflow" id="list-0"><li class="overflow-end"></li></ul></div><template id="template-file"><li><a href="#"></a></li></template><template id="template-folder"><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div><button class="folder-button"><span class="folder-title"></span></button></div></div><div class="folder-outer"><ul class="content"></ul></div></li></template></div></div><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container" aria-label="breadcrumbs"><div class="breadcrumb-element"><a href="../">Home</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../References/">References</a><p> ❯ </p></div><div class="breadcrumb-element"><a href>Copley History Part 1 and Appendix Source Audit</a></div></nav><h1 class="article-title">Copley History Part 1 and Appendix Source Audit</h1><p show-comma="true" class="content-meta"><time datetime="2026-05-01T00:00:00.000Z">May 01, 2026</time><span>6 min read</span></p><ul class="tags"><li><a href="../tags/copley-family" class="internal tag-link">copley-family</a></li><li><a href="../tags/research-reference" class="internal tag-link">research-reference</a></li><li><a href="../tags/source-audit" class="internal tag-link">source-audit</a></li><li><a href="../tags/raw-materials" class="internal tag-link">raw-materials</a></li></ul></div></div><article class="popover-hint"><h1 id="copley-history-part-1-and-appendix-source-audit">Copley History Part 1 and Appendix Source Audit<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#copley-history-part-1-and-appendix-source-audit" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>This note tracks how fully the two main family-history PDFs have been mined into the wiki, what they contain, and what still appears to be underused.</p>
+<h2 id="raw-files-identified">Raw Files Identified<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#raw-files-identified" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h3 id="1-main-history-narrative">1. Main history narrative<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#1-main-history-narrative" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li><strong>File:</strong> <code>/mnt/c/Users/zach/Downloads/COPLEY HISTORY PART 1 final 2.pdf</code></li>
+<li><strong>Author:</strong> Stephen Copley</li>
+<li><strong>Date:</strong> June 16, 2024</li>
+<li><strong>Pages:</strong> 25</li>
+<li><strong>Type:</strong> narrative family history with figure captions, maps, photographs, and end references</li>
+</ul>
+<h3 id="2-appendix-version-a">2. Appendix version A<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#2-appendix-version-a" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li><strong>File:</strong> <code>/mnt/c/Users/zach/Downloads/P1APPENDICES.pdf</code></li>
+<li><strong>Author:</strong> Stephen Copley</li>
+<li><strong>Date:</strong> June 17, 2024</li>
+<li><strong>Pages:</strong> 28</li>
+<li><strong>Type:</strong> Appendix 1 bio-sketches plus later appendix material</li>
+</ul>
+<h3 id="3-appendix-version-b">3. Appendix version B<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#3-appendix-version-b" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li><strong>File:</strong> <code>/mnt/c/Users/zach/Downloads/Part 1 Appendices .pdf</code></li>
+<li><strong>Author:</strong> Stephen Copley</li>
+<li><strong>Date:</strong> July 7, 2024</li>
+<li><strong>Pages:</strong> 28</li>
+<li><strong>Type:</strong> later appendix-state PDF with largely similar biography material</li>
+<li><strong>Note:</strong> This file is <strong>not byte-identical</strong> to <code>P1APPENDICES.pdf</code> and should be treated as the preferred appendix version when the repo cites the appendix generically.</li>
+</ul>
+<h2 id="what-is-already-well-incorporated">What Is Already Well Incorporated<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#what-is-already-well-incorporated" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<ul>
+<li>Core immigrant narrative for <a href="../People/Michael-Copley-Sr" class="internal alias" data-slug="People/Michael-Copley-Sr">Michael Copley Sr.</a>, <a href="../People/Ann-Copley" class="internal alias" data-slug="People/Ann-Copley">Ann Copley</a>, <a href="../People/John-Copley" class="internal alias" data-slug="People/John-Copley">John Copley</a>, and <a href="../People/Mary-Ellen-Dolan-Copley" class="internal alias" data-slug="People/Mary-Ellen-Dolan-Copley">Mary Ellen Dolan Copley</a></li>
+<li>Appendix 1 biographical sketches for many modern Stephen-line and Sardo-line profiles</li>
+<li>Appendix 2, <strong>“Origin of the Copley Farm,”</strong> for the Pickering <span>→</span> Camden, Bailey and Camden <span>→</span> Hoffman land-chain hypothesis</li>
+<li>Family structure, generation labels, and major branch listings already reflected in the directory and narrative pages</li>
+</ul>
+<h2 id="place--and-figure-rich-material-current-harvest-status-as-of-may-1-2026">Place- and Figure-Rich Material: Current Harvest Status as of May 1, 2026<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#place--and-figure-rich-material-current-harvest-status-as-of-may-1-2026" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h3 id="copley-history-part-1-final-2pdf"><code>COPLEY HISTORY PART 1 final 2.pdf</code><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#copley-history-part-1-final-2pdf" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>PDF page</th><th>Figure(s) / content</th><th>Best wiki targets</th><th>Current status</th></tr></thead><tbody><tr><td>4</td><td>Fig. 1 Michael Copley gravestone at St. Bernard’s</td><td><a href="../People/Michael-Copley-Sr" class="internal alias" data-slug="People/Michael-Copley-Sr">Michael Copley Sr</a>, <a href="../Places/Weston-West-Virginia" class="internal alias" data-slug="Places/Weston-West-Virginia">Weston West Virginia</a></td><td>Now normalized on Michael Copley Sr.; Weston now cross-references the wider figure cluster rather than relying on a broad PDF mention</td></tr><tr><td>5-7</td><td>Figs. 2-5 Roscommon map, Kilgefin location, cemetery access/map/view</td><td><a href="../Places/Kilgefin-Ireland" class="internal alias" data-slug="Places/Kilgefin-Ireland">Kilgefin Ireland</a></td><td>Now normalized on the Kilgefin page with exact figure/page references</td></tr><tr><td>10-12</td><td>Figs. 8-9 1843 Hoffman agreement and 1865 map of 200-acre farm</td><td><a href="../Places/Cove-Lick-West-Virginia" class="internal alias" data-slug="Places/Cove-Lick-West-Virginia">Cove Lick West Virginia</a>, <a href="../Topics/Murray-Settlement" class="internal alias" data-slug="Topics/Murray-Settlement">Murray Settlement</a></td><td>Now normalized on the Cove Lick page; Murray topic can still absorb more map-specific phrasing later</td></tr><tr><td>18-21</td><td>Figs. 16-21 oil well, marker, village of Copley, grammar school, EUB church, St. Bernard’s</td><td><a href="../Places/Cove-Lick-West-Virginia" class="internal alias" data-slug="Places/Cove-Lick-West-Virginia">Cove Lick West Virginia</a>, <a href="../Places/Lewis-County-West-Virginia" class="internal alias" data-slug="Places/Lewis-County-West-Virginia">Lewis County West Virginia</a>, <a href="../Places/Weston-West-Virginia" class="internal alias" data-slug="Places/Weston-West-Virginia">Weston West Virginia</a></td><td>Now normalized on Cove Lick, Lewis County, and Weston</td></tr><tr><td>23</td><td>Fig. 22 family tree image</td><td>directory / tree pages</td><td>Already covered conceptually; low-priority for extraction</td></tr></tbody></table></div>
+<h3 id="part-1-appendices-pdf--p1appendicespdf"><code>Part 1 Appendices .pdf</code> / <code>P1APPENDICES.pdf</code><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#part-1-appendices-pdf--p1appendicespdf" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>Appendix section</th><th>Useful place details</th><th>Best wiki targets</th><th>Current status</th></tr></thead><tbody><tr><td>Michael J. Copley sketch</td><td><code>108 Cottage Ave</code>, <code>202 W. 2nd St.</code>, West Fork River / asylum landmark, Rock Hill College in Ellicott City, Wyndmoor, Albany</td><td><a href="../Places/Weston-West-Virginia" class="internal alias" data-slug="Places/Weston-West-Virginia">Weston West Virginia</a> and future place pages for Ellicott City / Wyndmoor / Albany</td><td>Partly used in person pages; place layer still underused</td></tr><tr><td>Stephen Copley sketch</td><td>Wyndmoor, Berkeley, Madison, Palos Verdes, Hinsdale, State College</td><td>future place pages / timeline context</td><td>Mostly still confined to bios</td></tr><tr><td>Amy Geist and Sardo branch sketches</td><td>Baltimore, Clarksville, Guilford, St. Joseph’s Hospital</td><td><a href="../Places/Baltimore-Maryland" class="internal alias" data-slug="Places/Baltimore-Maryland">Baltimore Maryland</a> and future branch-place context</td><td>Only partly surfaced</td></tr></tbody></table></div>
+<h2 id="extraction-defaults">Extraction Defaults<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#extraction-defaults" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<ul>
+<li>Prefer <strong>evidence/places</strong> over broader modern-family prose enrichment.</li>
+<li>Prefer the <strong>July 7, 2024</strong> appendix file (<code>Part 1 Appendices .pdf</code>) when appendix citations are generic.</li>
+<li>Treat these PDFs as <strong>family-history source material</strong>, not automatic primary proof.</li>
+<li>Promote exact claims carefully:
+<ul>
+<li>figure caption / address / place description = useful source note</li>
+<li>identity / migration / land-chain claims = still require confidence labeling</li>
+</ul>
+</li>
+</ul>
+<h2 id="useful-backlog-still-available">Useful Backlog Still Available<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#useful-backlog-still-available" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h3 id="place-page-backlog">Place-page backlog<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#place-page-backlog" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li>Most high-frequency appendix locations now have dedicated pages.</li>
+<li>Future place-page work is now more about smaller cleanup targets than missing major locations.</li>
+</ul>
+<h3 id="now-partially-harvested">Now partially harvested<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#now-partially-harvested" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li><a href="../Places/Baltimore-Maryland" class="internal alias" data-slug="Places/Baltimore-Maryland">Baltimore Maryland</a> now carries the St. Joseph Hospital / Guilford / Homeland appendix context, but more could still be done later with Clarksville and hospital-specific sourcing.</li>
+<li><a href="../People/Michael-Joseph-Copley" class="internal alias" data-slug="People/Michael-Joseph-Copley">Michael Joseph Copley</a> and <a href="../People/Sarah-Copley" class="internal alias" data-slug="People/Sarah-Copley">Sarah Copley</a> now carry the Weston address / household-context details from the appendix, but city-directory or census-image confirmation would still improve them.</li>
+<li><a href="../Places/Weston-West-Virginia" class="internal alias" data-slug="Places/Weston-West-Virginia">Weston West Virginia</a> now distinguishes appendix-based residence claims from Part 1 settlement-landscape claims and cites the Michael J. sketch at the page-span level.</li>
+<li><a href="../People/Michael-Copley-Sr" class="internal alias" data-slug="People/Michael-Copley-Sr">Michael Copley Sr</a> now notes the raw-PDF figure provenance for the gravestone image, but other figure/caption normalizations remain available.</li>
+<li><a href="../Places/Wyndmoor-Pennsylvania" class="internal alias" data-slug="Places/Wyndmoor-Pennsylvania">Wyndmoor Pennsylvania</a>, <a href="../Places/Ellicott-City-Maryland" class="internal alias" data-slug="Places/Ellicott-City-Maryland">Ellicott City Maryland</a>, and <a href="../Places/Albany-California" class="internal alias" data-slug="Places/Albany-California">Albany California</a> now exist as landing pages for appendix-derived educational and scientific place context that had previously been trapped inside biographies.</li>
+<li><a href="../Places/Clarksville-Maryland" class="internal alias" data-slug="Places/Clarksville-Maryland">Clarksville Maryland</a>, <a href="../Places/Madison-Connecticut" class="internal alias" data-slug="Places/Madison-Connecticut">Madison Connecticut</a>, and <a href="../Places/Palos-Verdes-Estates-California" class="internal alias" data-slug="Places/Palos-Verdes-Estates-California">Palos Verdes Estates California</a> now exist as landing pages for the recurring Sardo-branch and Stephen-line residence contexts that had previously appeared only as plain-text biography references.</li>
+<li><a href="../Places/Loveberry-Ridge-West-Virginia" class="internal alias" data-slug="Places/Loveberry-Ridge-West-Virginia">Loveberry Ridge West Virginia</a> now exists as the landing page for the St. Bernard’s / ridge geography previously scattered across Michael Copley Sr., Cove Lick, Lewis County, and Weston references.</li>
+</ul>
+<h3 id="bio-page-backlog">Bio-page backlog<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#bio-page-backlog" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li>Additional first-person memory details remain in the appendix sketches for <a href="../People/Michael-Joseph-Copley" class="internal alias" data-slug="People/Michael-Joseph-Copley">Michael Joseph Copley</a>, <a href="../People/Stephen-Michael-Copley" class="internal alias" data-slug="People/Stephen-Michael-Copley">Stephen Michael Copley</a>, <a href="../People/Thomas-Partlow-Copley" class="internal alias" data-slug="People/Thomas-Partlow-Copley">Thomas Partlow Copley</a>, <a href="../People/Amy-E.-Copley-Geist" class="internal alias" data-slug="People/Amy-E.-Copley-Geist">Amy E. Copley Geist</a>, and Sardo descendants</li>
+<li>These should be added selectively and privacy-consciously, not bulk-copied</li>
+<li><a href="../People/Stephen-Michael-Copley" class="internal alias" data-slug="People/Stephen-Michael-Copley">Stephen Michael Copley</a> has now received a stronger bounded enrichment pass from the appendix, especially for the Wyndmoor wartime years, the 1947 Berkeley move, the Madison / Palos Verdes family stage, and the Hinsdale-to-State College transition.</li>
+<li><a href="../People/Michael-Joseph-Copley" class="internal alias" data-slug="People/Michael-Joseph-Copley">Michael Joseph Copley</a> has now received a stronger bounded enrichment pass from the appendix, especially for the 1918 Army dates, the UIUC-to-USDA career sequence, the Partlow marriage context, and the Stephen / Tom memory material that clarifies his bridge role between the Lewis County farm generation and the later scientific branches.</li>
+<li><a href="../People/Marion-Elizabeth-Partlow" class="internal alias" data-slug="People/Marion-Elizabeth-Partlow">Marion Elizabeth Partlow</a> has now received a stronger bounded enrichment pass from the appendix, especially for the Illinois Partlow farm-family context, the Champaign / Wyndmoor / Albany move sequence, and the Stephen / Tom memory material that clarifies her role as teacher, gardener, hostess, and household center during Michael’s scientific career.</li>
+<li><a href="../People/Michael-Copley-(b.-1959)" class="internal alias" data-slug="People/Michael-Copley-(b.-1959)">Michael Copley (b. 1959)</a> has now received a first bounded enrichment pass from the appendix, especially for the Madison / Palos Verdes family context and his place in the first USC-era sibling cohort of the Stephen line, while still preserving the page’s thinner evidence status.</li>
+<li><a href="../People/Thomas-Partlow-Copley" class="internal alias" data-slug="People/Thomas-Partlow-Copley">Thomas Partlow Copley</a> has now received a first bounded enrichment pass from the appendix, especially for Berkeley schooling, marriage timing, and the early online-education / Arlington Courseware arc.</li>
+<li><a href="../People/Amy-E.-Copley-Geist" class="internal alias" data-slug="People/Amy-E.-Copley-Geist">Amy E. Copley Geist</a> has now received a first bounded enrichment pass from the appendix, especially for Hinsdale/State College childhood texture, the London connection, and the Nate-to-Maryland transition.</li>
+<li>The Nelle / Sardo bridge cluster now has a first bounded appendix-enrichment pass across <a href="../People/Ellen-Bernadine-Nelle-Copley-Sardo" class="internal alias" data-slug="People/Ellen-Bernadine-Nelle-Copley-Sardo">Ellen Bernadine Nelle Copley Sardo</a>, <a href="../People/Sarah-Ellen-Sardo-Arena" class="internal alias" data-slug="People/Sarah-Ellen-Sardo-Arena">Sarah Ellen Sardo Arena</a>, and <a href="../People/Mary-Carmella-Sardo-Ruland" class="internal alias" data-slug="People/Mary-Carmella-Sardo-Ruland">Mary Carmella Sardo Ruland</a>, with the strongest evidence concentrated on Nelle and Sarah and only indirect branch-context detail promoted for Carmella.</li>
+</ul>
+<h3 id="source-quality-backlog">Source-quality backlog<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#source-quality-backlog" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li>First-pass figure provenance is now in place for the gravestone, Kilgefin, Cove Lick, Lewis County, and Weston clusters.</li>
+<li>A later pass could still add one-to-one provenance notes wherever a <code>static/images/</code> file can be confidently matched to a specific Part 1 figure.</li>
+</ul>
+<h2 id="practical-conclusion">Practical Conclusion<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#practical-conclusion" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>The raw PDFs are <strong>not exhausted</strong>. The most productive remaining extraction path is now:</p>
+<ol>
+<li>selective appendix place-context extraction for smaller cleanup targets</li>
+<li>one-to-one image provenance where exact <code>static/images/</code> matches are certain</li>
+<li>only then a broader modern-bio enrichment pass</li>
+</ol></article><hr/><div class="page-footer"></div></div><div class="right sidebar"><div class="graph"><h3>Graph View</h3><div class="graph-outer"><div class="graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:1,&quot;scale&quot;:1.1,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:false,&quot;enableRadial&quot;:false}"></div><button class="global-graph-icon" aria-label="Global Graph"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 55 55" fill="currentColor" xml:space="preserve"><path d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17
+                s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4
+                c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562
+                C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829
+                c1.106,0.86,2.44,1.436,3.898,1.619v10.16c-2.833,0.478-5,2.942-5,5.91c0,3.309,2.691,6,6,6s6-2.691,6-6c0-2.967-2.167-5.431-5-5.91
+                v-10.16c1.458-0.183,2.792-0.759,3.898-1.619l7.669,7.669C41.215,39.576,41,40.26,41,41c0,2.206,1.794,4,4,4s4-1.794,4-4
+                s-1.794-4-4-4c-0.74,0-1.424,0.215-2.019,0.567l-7.669-7.669C36.366,28.542,37,26.846,37,25s-0.634-3.542-1.688-4.897l9.665-9.665
+                C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2
+                S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4
+                s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2
+                s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"></path></svg></button></div><div class="global-graph-outer"><div class="global-graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:-1,&quot;scale&quot;:0.9,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.2,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:true,&quot;enableRadial&quot;:true}"></div></div></div><div class="toc desktop-only"><button type="button" class="toc-header" aria-controls="toc-113" aria-expanded="true"><h3>Table of Contents</h3><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><ul id="list-1" class="toc-content overflow"><li class="depth-0"><a href="#copley-history-part-1-and-appendix-source-audit" data-for="copley-history-part-1-and-appendix-source-audit">Copley History Part 1 and Appendix Source Audit</a></li><li class="depth-1"><a href="#raw-files-identified" data-for="raw-files-identified">Raw Files Identified</a></li><li class="depth-2"><a href="#1-main-history-narrative" data-for="1-main-history-narrative">1. Main history narrative</a></li><li class="depth-2"><a href="#2-appendix-version-a" data-for="2-appendix-version-a">2. Appendix version A</a></li><li class="depth-2"><a href="#3-appendix-version-b" data-for="3-appendix-version-b">3. Appendix version B</a></li><li class="depth-1"><a href="#what-is-already-well-incorporated" data-for="what-is-already-well-incorporated">What Is Already Well Incorporated</a></li><li class="depth-1"><a href="#place--and-figure-rich-material-current-harvest-status-as-of-may-1-2026" data-for="place--and-figure-rich-material-current-harvest-status-as-of-may-1-2026">Place- and Figure-Rich Material: Current Harvest Status as of May 1, 2026</a></li><li class="depth-2"><a href="#copley-history-part-1-final-2pdf" data-for="copley-history-part-1-final-2pdf">COPLEY HISTORY PART 1 final 2.pdf</a></li><li class="depth-2"><a href="#part-1-appendices-pdf--p1appendicespdf" data-for="part-1-appendices-pdf--p1appendicespdf">Part 1 Appendices .pdf / P1APPENDICES.pdf</a></li><li class="depth-1"><a href="#extraction-defaults" data-for="extraction-defaults">Extraction Defaults</a></li><li class="depth-1"><a href="#useful-backlog-still-available" data-for="useful-backlog-still-available">Useful Backlog Still Available</a></li><li class="depth-2"><a href="#place-page-backlog" data-for="place-page-backlog">Place-page backlog</a></li><li class="depth-2"><a href="#now-partially-harvested" data-for="now-partially-harvested">Now partially harvested</a></li><li class="depth-2"><a href="#bio-page-backlog" data-for="bio-page-backlog">Bio-page backlog</a></li><li class="depth-2"><a href="#source-quality-backlog" data-for="source-quality-backlog">Source-quality backlog</a></li><li class="depth-1"><a href="#practical-conclusion" data-for="practical-conclusion">Practical Conclusion</a></li><li class="overflow-end"></li></ul></div><div class="backlinks"><h3>Backlinks</h3><ul id="list-2" class="overflow"><li><a href="../CHANGELOG" class="internal">Changelog</a></li><li><a href="../Places/Albany-California" class="internal">Albany California</a></li><li><a href="../Places/Baltimore-Maryland" class="internal">Baltimore Maryland</a></li><li><a href="../Places/Clarksville-Maryland" class="internal">Clarksville Maryland</a></li><li><a href="../Places/Cove-Lick-West-Virginia" class="internal">Cove Lick West Virginia</a></li><li><a href="../Places/Ellicott-City-Maryland" class="internal">Ellicott City Maryland</a></li><li><a href="../Places/Kilgefin-Ireland" class="internal">Kilgefin Ireland</a></li><li><a href="../Places/Lewis-County-West-Virginia" class="internal">Lewis County West Virginia</a></li><li><a href="../Places/Loveberry-Ridge-West-Virginia" class="internal">Loveberry Ridge West Virginia</a></li><li><a href="../Places/Madison-Connecticut" class="internal">Madison Connecticut</a></li><li><a href="../Places/Palos-Verdes-Estates-California" class="internal">Palos Verdes Estates California</a></li><li><a href="../Places/Weston-West-Virginia" class="internal">Weston West Virginia</a></li><li><a href="../Places/Wyndmoor-Pennsylvania" class="internal">Wyndmoor Pennsylvania</a></li><li><a href="../Search-Index" class="internal">Search Index</a></li><li class="overflow-end"></li></ul></div></div><footer class><p>Created with <a href="https://quartz.jzhao.xyz/">Quartz v4.5.2</a> © 2026</p><ul><li><a href="https://github.com/zcopley/copley-family-research">GitHub</a></li><li><a href="mailto:zcopley@gmail.com">Contact</a></li></ul></footer></div></div></body><script type="application/javascript" data-persist="true">function n(){let t=this.parentElement;t.classList.toggle("is-collapsed");let e=t.getElementsByClassName("callout-content")[0];if(!e)return;let l=t.classList.contains("is-collapsed");e.style.gridTemplateRows=l?"0fr":"1fr"}function c(){let t=document.getElementsByClassName("callout is-collapsible");for(let e of t){let l=e.getElementsByClassName("callout-title")[0],s=e.getElementsByClassName("callout-content")[0];if(!l||!s)continue;l.addEventListener("click",n),window.addCleanup(()=>l.removeEventListener("click",n));let o=e.classList.contains("is-collapsed");s.style.gridTemplateRows=o?"0fr":"1fr"}}document.addEventListener("nav",c);
+</script><script type="module" data-persist="true">function E(a,e){if(!a)return;function t(o){o.target===this&&(o.preventDefault(),o.stopPropagation(),e())}function n(o){o.key.startsWith("Esc")&&(o.preventDefault(),e())}a?.addEventListener("click",t),window.addCleanup(()=>a?.removeEventListener("click",t)),document.addEventListener("keydown",n),window.addCleanup(()=>document.removeEventListener("keydown",n))}function f(a){for(;a.firstChild;)a.removeChild(a.firstChild)}var m=class{constructor(e,t){this.container=e;this.content=t;this.setupEventListeners(),this.setupNavigationControls(),this.resetTransform()}isDragging=!1;startPan={x:0,y:0};currentPan={x:0,y:0};scale=1;MIN_SCALE=.5;MAX_SCALE=3;cleanups=[];setupEventListeners(){let e=this.onMouseDown.bind(this),t=this.onMouseMove.bind(this),n=this.onMouseUp.bind(this),o=this.onTouchStart.bind(this),r=this.onTouchMove.bind(this),i=this.onTouchEnd.bind(this),s=this.resetTransform.bind(this);this.container.addEventListener("mousedown",e),document.addEventListener("mousemove",t),document.addEventListener("mouseup",n),this.container.addEventListener("touchstart",o,{passive:!1}),document.addEventListener("touchmove",r,{passive:!1}),document.addEventListener("touchend",i),window.addEventListener("resize",s),this.cleanups.push(()=>this.container.removeEventListener("mousedown",e),()=>document.removeEventListener("mousemove",t),()=>document.removeEventListener("mouseup",n),()=>this.container.removeEventListener("touchstart",o),()=>document.removeEventListener("touchmove",r),()=>document.removeEventListener("touchend",i),()=>window.removeEventListener("resize",s))}cleanup(){for(let e of this.cleanups)e()}setupNavigationControls(){let e=document.createElement("div");e.className="mermaid-controls";let t=this.createButton("+",()=>this.zoom(.1)),n=this.createButton("-",()=>this.zoom(-.1)),o=this.createButton("Reset",()=>this.resetTransform());e.appendChild(n),e.appendChild(o),e.appendChild(t),this.container.appendChild(e)}createButton(e,t){let n=document.createElement("button");return n.textContent=e,n.className="mermaid-control-button",n.addEventListener("click",t),window.addCleanup(()=>n.removeEventListener("click",t)),n}onMouseDown(e){e.button===0&&(this.isDragging=!0,this.startPan={x:e.clientX-this.currentPan.x,y:e.clientY-this.currentPan.y},this.container.style.cursor="grabbing")}onMouseMove(e){this.isDragging&&(e.preventDefault(),this.currentPan={x:e.clientX-this.startPan.x,y:e.clientY-this.startPan.y},this.updateTransform())}onMouseUp(){this.isDragging=!1,this.container.style.cursor="grab"}onTouchStart(e){if(e.touches.length!==1)return;this.isDragging=!0;let t=e.touches[0];this.startPan={x:t.clientX-this.currentPan.x,y:t.clientY-this.currentPan.y}}onTouchMove(e){if(!this.isDragging||e.touches.length!==1)return;e.preventDefault();let t=e.touches[0];this.currentPan={x:t.clientX-this.startPan.x,y:t.clientY-this.startPan.y},this.updateTransform()}onTouchEnd(){this.isDragging=!1}zoom(e){let t=Math.min(Math.max(this.scale+e,this.MIN_SCALE),this.MAX_SCALE),n=this.content.getBoundingClientRect(),o=n.width/2,r=n.height/2,i=t-this.scale;this.currentPan.x-=o*i,this.currentPan.y-=r*i,this.scale=t,this.updateTransform()}updateTransform(){this.content.style.transform=`translate(${this.currentPan.x}px, ${this.currentPan.y}px) scale(${this.scale})`}resetTransform(){let t=this.content.querySelector("svg").getBoundingClientRect(),n=t.width/this.scale,o=t.height/this.scale;this.scale=1,this.currentPan={x:(this.container.clientWidth-n)/2,y:(this.container.clientHeight-o)/2},this.updateTransform()}},T=["--secondary","--tertiary","--gray","--light","--lightgray","--highlight","--dark","--darkgray","--codeFont"],y;document.addEventListener("nav",async()=>{let e=document.querySelector(".center").querySelectorAll("code.mermaid");if(e.length===0)return;y||=await import("https://cdnjs.cloudflare.com/ajax/libs/mermaid/11.4.0/mermaid.esm.min.mjs");let t=y.default,n=new WeakMap;for(let r of e)n.set(r,r.innerText);async function o(){for(let s of e){s.removeAttribute("data-processed");let c=n.get(s);c&&(s.innerHTML=c)}let r=T.reduce((s,c)=>(s[c]=window.getComputedStyle(document.documentElement).getPropertyValue(c),s),{}),i=document.documentElement.getAttribute("saved-theme")==="dark";t.initialize({startOnLoad:!1,securityLevel:"loose",theme:i?"dark":"base",themeVariables:{fontFamily:r["--codeFont"],primaryColor:r["--light"],primaryTextColor:r["--darkgray"],primaryBorderColor:r["--tertiary"],lineColor:r["--darkgray"],secondaryColor:r["--secondary"],tertiaryColor:r["--tertiary"],clusterBkg:r["--light"],edgeLabelBackground:r["--highlight"]}}),await t.run({nodes:e})}await o(),document.addEventListener("themechange",o),window.addCleanup(()=>document.removeEventListener("themechange",o));for(let r=0;r<e.length;r++){let v=function(){let g=l.querySelector("#mermaid-space"),h=l.querySelector(".mermaid-content");if(!h)return;f(h);let w=i.querySelector("svg").cloneNode(!0);h.appendChild(w),l.classList.add("active"),g.style.cursor="grab",u=new m(g,h)},M=function(){l.classList.remove("active"),u?.cleanup(),u=null},i=e[r],s=i.parentElement,c=s.querySelector(".clipboard-button"),d=s.querySelector(".expand-button"),p=window.getComputedStyle(c),L=c.offsetWidth+parseFloat(p.marginLeft||"0")+parseFloat(p.marginRight||"0");d.style.right=`calc(${L}px + 0.3rem)`,s.prepend(d);let l=s.querySelector("#mermaid-container");if(!l)return;let u=null;d.addEventListener("click",v),E(l,M),window.addCleanup(()=>{u?.cleanup(),d.removeEventListener("click",v)})}});
+</script><script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/copy-tex.min.js" type="application/javascript" data-persist="true"></script><script src="../postscript.js" type="module" data-persist="true"></script></html>
