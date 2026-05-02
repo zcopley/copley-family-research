@@ -10,6 +10,15 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4AO - Michael Copley (1959) Correction and Enrichment Pass (May 1, 2026)
+
+**STEPHEN-LINE CLEANUP CONTINUES:** Reworked Michael Copley (b. 1959) with a stronger appendix-backed pass that both deepens his branch role and removes inherited school and birthplace assumptions that did not match the Stephen appendix sketch.
+
+### Updated Pages
+
+- [[People/Michael Copley (b. 1959)|Michael Copley (b. 1959)]] - corrected the early-life chronology from Berkeley to Madison to Palos Verdes, removed unsupported Wyndmoor / Berkeley school carryover, clarified his role as the oldest child in the first-marriage sibling cohort, and tightened the USC-related wording so it no longer overstates uncertain educational detail.
+- [[References/Copley History Part 1 and Appendix Source Audit|Copley History Part 1 and Appendix Source Audit]] - marked Michael Copley (b. 1959) as having received a stronger bounded enrichment and correction pass.
+
 ## Phase 4AN - Sara Copley Cox Appendix Enrichment (May 1, 2026)
 
 **STEPHEN-LINE CLEANUP CONTINUES:** Added a stronger bounded appendix-backed pass to Sara Copley Cox so her page better explains the family’s Berkeley-to-Madison-to-Palos-Verdes transition and her role as an older-sibling bridge into the later SVS-centered branch network.
