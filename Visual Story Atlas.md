@@ -199,6 +199,6 @@ flowchart TB
 
 - Start with [[The Copley Family Narrative]] for prose.
 - Use [[Who Was Alive When]] when your main question is chronology, overlapping lifespans, or who lived through which family turning points.
-- Use [[Family Tree]] for generation-by-generation relationships.
+- Use [[Family Tree]] for branch-by-branch relationships.
 - Use [[Sources and Evidence Index]] to check what is verified, plausible, unresolved, or rejected.
 - Use [[Research Priorities and Action Items]] and [[Tier 1 Research Execution Kit]] when you want to advance the research.

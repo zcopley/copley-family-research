@@ -10,7 +10,7 @@ tags:
 
 # Topics and Themes
 
-📊 Keep [[Family Tree]] open while reading this page to connect each theme to the relevant generations and branches.
+📊 Keep [[Family Tree]] open while reading this page to connect each theme to the relevant branches and key family lines.
 
 New to the project? Start with [[How to Read This Research]] for a short guide to the site's evidence labels, major pages, and open questions.
 

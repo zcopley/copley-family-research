@@ -20,6 +20,16 @@ A running record of significant additions, corrections, and improvements to this
 - [[People/People Directory|People Directory (Individual Profiles)]] - updated the intro so it points readers to the redesigned branch-by-branch family tree instead of implying one giant visual map.
 - [[Family Tree|Copley Family Tree]] - follow-up cleanup added a branch jump list, normalized the People Directory link, and tucked the legacy full-chart image behind a collapsible section.
 
+## Phase 4AG - Family Tree Wording Cleanup (May 1, 2026)
+
+**READER-GUIDANCE CLEANUP:** Normalized the surrounding public-facing copy so it describes `Family Tree` as a branch-by-branch relationship guide instead of a giant generation-spanning map.
+
+### Updated Pages
+
+- [[The Copley Family Narrative|The Copley Family Narrative]] - updated the Family Tree description to match the new branch-by-branch relationship hub.
+- [[Visual Story Atlas|Visual Story Atlas]] - updated the guidance line so it points readers to Family Tree for branch-by-branch relationships.
+- [[Topics and Themes|Topics and Themes]] - tightened the Family Tree guidance so it emphasizes branches and key family lines rather than a giant all-generation visual.
+
 ## Phase 4AE - Michael (1959) Appendix Enrichment (May 1, 2026)
 
 **STEPHEN-LINE DESCENDANT PASS:** Continued the selective appendix-bio pass with a first bounded update to Michael Copley (b. 1959), using Stephen Copley's sketch to make the page less skeletal without overclaiming beyond the available family-context evidence.
