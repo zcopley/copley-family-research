@@ -10,6 +10,15 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4AW - Agent Handoff Refresh (May 1, 2026)
+
+**INTERNAL-MAINTENANCE UPDATE:** Refreshed the active agent-resume state so future sessions start from the current reader-navigation and evidence-status workflow rather than stale Murray-only priorities.
+
+### Updated Pages
+
+- `.agents/AGENT_RESUME.md` - reset the current-goal, next-step, and active-file sections around the current live site path, the remaining 1833 Murray deed target, and the still-open Partlow proof tasks.
+- `.agents/_AGENT_HANDOFF_PHASE_2M.md` - added a short current-state pointer so the old Munday/Murray handoff is less likely to be mistaken for the live operational plan.
+
 ## Phase 4AV - Proven vs Open Reader Callouts (May 1, 2026)
 
 **EVIDENCE-STATUS VISIBILITY UPGRADE:** Added short “mostly proven” vs “still open” callouts to the top reader-entry pages so visitors can understand the current state of the research without opening the full evidence index first.

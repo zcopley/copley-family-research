@@ -7,6 +7,9 @@ date: 2026-04-23
 
 > Historical handoff note:
 > This file preserves the Phase 2M state as of April 23, 2026. It is not the current operational checkpoint. Use `.agents/AGENT_RESUME.md` first, then return here only if you need the detailed historical logic for the RQ-M5 "Munday" vs. "Murray" investigation.
+>
+> Current-state pointer as of May 1, 2026:
+> The public reader path has since been reorganized around `Home`, `How to Read This Research`, `Family Tree`, `Family Branch Guide`, `Who Was Alive When`, and `Sources and Evidence Index`. On the Murray deed side, the built-in `Marwee` path is retired, the old Murray/Fish lead is closed as a 1899 misindex, and the only remaining direct early-deed target is the unresolved **1833 John Murray** entry.
 
 ## Overview
 

@@ -13,7 +13,10 @@ Last updated: 2026-05-01
 
 ## Current Goal
 
-Continue priority evidence work for the Copley family wiki, with the active Murray Settlement deed task now shifted past the exact-surname grantee-index search, past the physical page-334 / page-404 mismatches, past the retired built-in "Marwee Sawig" line, and past the closed Murray/Fish misindex, onto the unresolved 1833 deed body.
+Maintain the public reader path and evidence-status pages while keeping the Murray Settlement deed workflow narrowed to its last direct early-deed target: the unresolved **1833 John Murray** entry. The repo's active front-door now centers on reader orientation (`Home`, `index`, `How to Read This Research`, `Family Tree`, `Family Branch Guide`, `Who Was Alive When`, and `Sources and Evidence Index`), so new work should either:
+
+- materially improve that reader path, or
+- advance one of the still-live proof questions without reopening retired Murray leads.
 
 ## How To Use This File
 
@@ -22,6 +25,16 @@ Continue priority evidence work for the Copley family wiki, with the active Murr
 - When a historical handoff conflicts with this file, this file wins.
 
 ## What Was Just Completed
+
+- Added a reader-facing `What's Proven vs What's Still Open` callout to `Home.md` and `index.md`.
+- Added a compact `At A Glance: Proven vs Open` summary near the top of `Visual Story Atlas.md`.
+- Added `Family Branch Guide.md` and wired it into the main reader path.
+- Added `Start Here by Goal` orientation tables to `Home.md`, `index.md`, and `How to Read This Research.md`.
+- Added a `What's New / Recently Clarified` section to the homepage path for returning readers.
+- Reworked `Family Tree.md` from one giant hard-to-read diagram into a branch-by-branch relationship hub with smaller Mermaid charts and clearer reader guidance.
+- Tightened `Sources and Evidence Index.md` with a fast reader guide plus short `mostly proven` / `still open` sections.
+- Completed a broad appendix-bio and place-enrichment pass across the Stephen-line sibling cluster, Sardo bridge pages, and multiple place pages; short summaries in indexes now better match the cleaned biographies.
+- Split the mixed local work into coherent pushed commits and refreshed internal guidance so `AGENT_RESUME.md` remains the main current-state checkpoint.
 
 - Integrated Zach's May 1, 2026 Claude for Chrome correction for the long-carried John Murray -> Fred L. Fish lead.
 - Created `References/Claude for Chrome Lewis County John Murray Fred L Fish Lease Check.md`.
@@ -204,78 +217,56 @@ Continue priority evidence work for the Copley family wiki, with the active Murr
 
 ## Next Step
 
+- Reader-facing next steps:
+  - Keep the main reader path synchronized: `Home`, `index`, `How to Read This Research`, `Family Tree`, `Family Branch Guide`, `Who Was Alive When`, `People Directory`, `Visual Story Atlas`, and `Sources and Evidence Index`.
+  - Prefer high-signal orientation improvements over more diagram sprawl. Add visuals only when they clearly reduce confusion.
+  - If another visible improvement is needed, favor concise branch, evidence-status, or timeline aids rather than more all-in-one charts.
+- Murray deed next steps:
+  - Treat the built-in Deed Book C-D `Marwee` path as retired for Murray-specific work.
+  - Treat the old `1826 John Murray / Fred L. Fish` slot as closed; it is a misindexed **1899** oil-and-gas lease.
+  - The only remaining direct early-deed lead is the **1833 John Murray** entry. Claude for Chrome should work that next.
+  - Preserve any new deed images, citation paths, transcripts, abstracts, and interpretation first in `RQ-M1-JOHN-MURRAY-DEED-FINDINGS.md`, then update `Sources and Evidence Index.md`, `Topics/Murray Settlement.md`, `Research Priorities and Action Items.md`, and `People/Ann Copley.md` only if the result materially changes the case.
 - Partlow next steps:
   - Prove Frank Partlow = Nollie Franklin Partlow and Alice Rude = Mary Alice Rude/Partlow, starting with the 10 Jun 1900 marriage record and 1880/1900/1910/1920 census.
-  - Use the Illinois Statewide Marriage Index in a browser, or request from Clark County Clerk/Recorder, using variants Frank Partlow, Nollie Franklin Partlow, N. F. Partlow, Alice Rude, and Mary Alice Rude.
   - Capture original 1880 and 1900 Johnson Township, Clark County, Illinois census images for Marion McDonald Partlow and Frank Partlow, then capture original 1850 and 1860 Johnson Township census images for John H. Partlow.
-  - Open FamilySearch or Geneanet copies of *The Partlow family and connections* in a browser and search for Benjamin, Jacob, John H., Marion, Frank, Rude, and Clark County.
-  - Search official DAR GRS for Benjamin Partlow and record any ancestor number / approved child lines.
-  - Obtain the full Benjamin Partlow Revolutionary War pension file.
-- Next broad improvement options:
-  - Fix remaining non-date build warnings if they become actionable; current known residual warnings are LaTeX unicode warnings from content punctuation
-  - Consider upgrading GitHub Actions from Node 20-based actions to Node 24-compatible versions before GitHub's 2026 deprecation dates
-  - Use the execution kit to carry out one Tier 1 task when source access is available, starting with the John Murray deeds if Zach/Claude for Chrome provides images
-  - Add deeper topic-specific diagrams only when a page gains new evidence or when a visual would clarify a concrete relationship not already covered by the atlas
-  - Work on non-Murray family gaps such as the Stephen line documentation, Iowa Copely descendants, or oil-strike lease/probate context
-- Murray deed next steps:
-  - Preserve the completed exact-surname Murray grantee-index result: DGS 8293314 yielded only 1865-1934 entries on images 553-554 and no pre-1843 exact Murray grantee entry.
-  - Verify the partially blocked 1865 rows on image 553 if the FamilySearch toolbar can be bypassed.
-  - Treat physical pages 334 and 404 in DGS 8219256 as controlled mismatches and preserve the old "Marwee Sawig" line as a retired non-Murray path.
-  - Revisit the 1826 and 1833 John Murray index leads and recover the deed-book / page / deed-body details.
-  - If further variant work is attempted, use independent Murray-variant searches rather than the retired built-in M-index line.
-  - Add any resulting images, citation paths, transcripts, abstracts, and interpretation first to `RQ-M1-JOHN-MURRAY-DEED-FINDINGS.md`, then update `Sources and Evidence Index.md`, `Topics/Murray Settlement.md`, `Research Priorities and Action Items.md`, and `People/Ann Copley.md` if the deeds materially affect the Ann/Murray hypothesis.
-- FAN sweep next step while waiting on Claude for Chrome:
-  - Paste incoming Ancestry census / neighbor findings into `RQ-M1-LEWIS-COUNTY-FAN-SWEEP.md`.
-  - Preserve exact indexed names, written names, image/page URLs, 10-15 neighboring households, and negative surname searches before updating narrative pages.
-- Fold in any further Tom Copley corrections as they arrive, keeping the Bredon narrative aligned with family research.
+  - Search official DAR GRS for Benjamin Partlow and obtain the full Benjamin Partlow Revolutionary War pension file.
+- Maintenance next steps:
+  - Keep `AGENT_RESUME.md` current after major pushes so historical handoff files stay archival.
+  - Fix build or workflow warnings only when they become actionable; current known residual noise is mostly LaTeX unicode warnings.
+  - Consider upgrading GitHub Actions from Node 20-based actions to Node 24-compatible versions before GitHub's 2026 deprecation dates.
 
 ## Active Files
 
+- `.agents/AGENT_RESUME.md`
 - `CLAUDE.md`
 - `.agents/_AGENT_HANDOFF_PHASE_2M.md`
-- `scripts/check-mermaid-contrast.mjs`
-- `.github/workflows/deploy.yml`
-- `MERMAID_DIAGRAM_GUIDE.md`
-- `quartz/components/styles/mermaid.inline.scss`
 - `Home.md`
 - `index.md`
-- `Sources and Evidence Index.md`
-- `Visual Story Atlas.md`
-- `RQ-P1-PARTLOW-REVOLUTIONARY-LINE.md`
-- `References/Harry C Partlow 1960 Letter and Handwritten Lineage.md`
-- `References/Clark County Illinois Partlow Rude Marriage Request.md`
-- `References/New England Ball Project Partlow Census Citation Extract.md`
-- `RQ-M1-JOHN-MURRAY-DEED-FINDINGS.md`
-- `RQ-M1-LEWIS-COUNTY-DEED-SEARCH.md`
-- `The Copley Family Narrative.md`
-- `Topics and Themes.md`
-- `Topics/Irish Immigration to West Virginia.md`
-- `Topics/B&O Railroad Labor History.md`
-- `Topics/_Topics Index.md`
-- `Search Index.md`
-- `Bibliography and Acquisition Guide.md`
+- `How to Read This Research.md`
+- `Family Branch Guide.md`
 - `Family Tree.md`
-- `B&O Railroad Labor.md`
-- `Copley No. 1 Oil Strike.md`
-- `Dolan Family.md`
-- `Kilgefin, Roscommon.md`
-- `Lewis County, West Virginia.md`
-- `West Virginia.md`
+- `Who Was Alive When.md`
 - `People Directory.md`
 - `People/People Directory.md`
+- `Sources and Evidence Index.md`
+- `Visual Story Atlas.md`
+- `Search Index.md`
 - `Research Priorities and Action Items.md`
+- `Tier 1 Research Execution Kit.md`
+- `RQ-M1-JOHN-MURRAY-DEED-FINDINGS.md`
+- `RQ-M1-LEWIS-COUNTY-FAN-SWEEP.md`
+- `Topics/Murray Settlement.md`
+- `Topics/Murray Settlement Research Roadmap.md`
+- `People/Ann Copley.md`
+- `The Copley Family Narrative.md`
+- `Topics and Themes.md`
+- `CHANGELOG.md`
+- `RQ-P1-PARTLOW-REVOLUTIONARY-LINE.md`
 - `People/Benjamin Partlow.md`
 - `People/Marion Elizabeth Partlow.md`
-- `Tier 1 Research Execution Kit.md`
-- `CHANGELOG.md`
-- `People/Ann Elizabeth Munday Copley.md`
-- `References/Sir Thomas Copley Letters Notes.md`
-- `References/Gatton and Leigh Place Notes.md`
-- `Topics/Bredon Descent.md`
-- `RQ-M5-TITHE-APPLOTMENT-SEARCH.md`
-- `RQ-M5-PHASE-2-FINDINGS.md`
-- `Topics/Murray Settlement.md`
-- `People/Ann Copley.md`
+- `References/Harry C Partlow 1960 Letter and Handwritten Lineage.md`
+- `References/New England Ball Project Partlow Census Citation Extract.md`
+- `References/Copley History Part 1 and Appendix Source Audit.md`
 
 ## Open Questions
 
