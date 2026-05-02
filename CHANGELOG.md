@@ -10,6 +10,15 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4AV - Proven vs Open Reader Callouts (May 1, 2026)
+
+**EVIDENCE-STATUS VISIBILITY UPGRADE:** Added short “mostly proven” vs “still open” callouts to the top reader-entry pages so visitors can understand the current state of the research without opening the full evidence index first.
+
+### Updated Pages
+
+- [[Home]] and `index.md` - added a homepage-level `What's Proven vs What's Still Open` section for first-time and returning readers.
+- [[Visual Story Atlas]] - added a compact `At A Glance: Proven vs Open` summary near the top of the page.
+
 ## Phase 4AU - Family Branch Guide (May 1, 2026)
 
 **READER-NAVIGATION UPGRADE:** Added a dedicated branch chooser page so readers can jump directly to the right modern descendant line before opening the full family tree or people directory.

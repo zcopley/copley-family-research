@@ -35,6 +35,24 @@ Welcome to the Copley family research vault. This project consolidates evidence,
 - The Stephen-line sibling cluster has been cleaned up substantially, including corrected Berkeley -> Madison -> Palos Verdes chronology for the older siblings and better branch-context biographies.
 - [[Sources and Evidence Index]] now opens with a fast reader guide plus short “mostly proven” and “still open” sections for non-specialists.
 
+## What's Proven vs What's Still Open
+
+### Mostly Proven
+
+- Michael Copley Sr. and Patrick Copley jointly bought Lewis County land in 1843.
+- A Catholic Copely family remained in the Fairymount / Kilgefin area after Michael emigrated.
+- The 1837-1838 migration trail through the *Kutusoff* and *Powhatan* is central to the family's American arrival story.
+- Copley No. 1 was a real 1900 oil strike on family land.
+
+### Still Open
+
+- Michael Copley Sr.'s Irish parents are still unproven.
+- Ann Copley's exact maiden name still lacks a direct record; `Murray` is a strong working conclusion, not a closed proof.
+- The Murray Settlement framework is still a working model rather than a finished demonstration.
+- The direct bridge from Captain John Copley to the Roscommon Copleys remains unresolved.
+
+For the full claim register, use [[Sources and Evidence Index]].
+
 ## Project Overview
 
 The research covers:

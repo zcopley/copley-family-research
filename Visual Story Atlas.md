@@ -20,6 +20,13 @@ This atlas is the diagram-first guide to the Copley family project. Use it when 
 
 For relationship details, keep [[Family Tree]] nearby. For claim strength, use [[Sources and Evidence Index]].
 
+## At A Glance: Proven vs Open
+
+- **Mostly proven:** the 1843 land purchase, the Fairymount / Kilgefin Copely presence, the 1837-1838 migration trail, and the 1900 oil strike.
+- **Still open:** Michael Copley Sr.'s parents, Ann's direct maiden-name record, the full Murray-settlement proof trail, and the Captain John-to-Roscommon generational bridge.
+
+Use [[Sources and Evidence Index]] when you need the claim-by-claim version of this summary.
+
 ## 1. Family Journey Map
 
 ```mermaid
