@@ -10,6 +10,15 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4AM - Paul Copley Appendix Enrichment (May 1, 2026)
+
+**STEPHEN-LINE CLEANUP CONTINUES:** Added a stronger bounded appendix-backed pass to Paul Copley so his page better explains his place in the sibling cohort and the service-oriented branch thread that runs from the Palos Verdes household into education and disability-support work.
+
+### Updated Pages
+
+- [[People/Paul Copley|Paul Copley]] - added clearer Madison-to-Palos-Verdes transition detail, his middle position in the first-marriage Stephen-line sibling cohort, the `4029 Via Nivel` household context, and a stronger explanation of the practical service thread connecting his later work to the family's broader California branch story.
+- [[References/Copley History Part 1 and Appendix Source Audit|Copley History Part 1 and Appendix Source Audit]] - marked Paul as having received a stronger bounded appendix-enrichment pass.
+
 ## Phase 4AL - Stephen Joseph Copley Appendix Enrichment (May 1, 2026)
 
 **STEPHEN-LINE CLEANUP CONTINUES:** Added a stronger bounded appendix-backed pass to Stephen Joseph Copley so his page better explains both his own life and the way his care reshaped the Stephen-line branch in California.

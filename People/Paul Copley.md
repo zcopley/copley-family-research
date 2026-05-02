@@ -39,7 +39,11 @@ tags:
 
 Paul's earliest memories in the appendix come from Madison, Connecticut, where the family lived near a creek and where winter sledding, summer outdoor play, and life with his older siblings shaped his childhood. He later moved with the family to Southern California around 1970, growing up in the Palos Verdes area with sports, surfing, and a large sibling household.
 
-He attended the University of Southern California and earned a Bachelor of Science degree in Exercise Science, helping pay for school with summer jobs in Lake Tahoe. His work history continued the Stephen-line pattern of service-oriented roles: youth coaching and counseling, care work with developmentally disabled adults, teaching in Los Angeles Unified School District, pre-press image work, and later work with Social Vocational Services.
+As the fourth of seven children from Stephen and Marcia's first marriage, Paul sits near the middle of the sibling set: younger than the Berkeley-born first children, but older than the youngest Palos Verdes cohort. That makes his page a useful bridge between the Madison childhood world and the later Southern California household culture that shaped Peter, Susan, and Stephen Joseph. His own sketch emphasizes outdoor life and physical activity, while nearby sibling sketches show that he was also part of the school's music scene and band culture in Palos Verdes.
+
+The move west in 1970 appears to have been especially formative. The family rented briefly in Lomita before settling at `4029 Via Nivel` in [[Places/Palos Verdes Estates California|Palos Verdes Estates]], where Paul grew up with football, soccer, surfing, Roessler Pool, beach days, and the wider orbit of Valmonte School. His appendix sketch also places the arrival of [[Stephen Joseph Copley]] inside that same household period, making clear that Paul's adolescence unfolded alongside the growing demands of caring for a developmentally disabled younger brother.
+
+He attended the University of Southern California and earned a Bachelor of Science degree in Exercise Science, helping pay for school with summer jobs in Lake Tahoe. His work history continued the Stephen-line pattern of service-oriented roles: youth coaching and counseling, care work with developmentally disabled adults, teaching in Los Angeles Unified School District, pre-press image work, and later work with Social Vocational Services. In that sense, Paul belongs to the same broad branch redirection visible elsewhere in the family: the household shaped by Stephen Joseph's care later fed directly into practical work in disability services, education, and support roles.
 
 The appendix also presents Paul as practical and hands-on. After moving to Fresno in 2012 for SVS, he bought a fixer-upper house and worked steadily on repairs and improvements, including roofing, tile, plumbing, landscaping, and framing.
 
@@ -51,5 +55,5 @@ The appendix also presents Paul as practical and hands-on. After moving to Fresn
 
 ## Sources
 
-1. `~/Downloads/Part 1 Appendices .pdf` — Paul Copley biographical sketch (primary, first-person).
+1. `~/Downloads/Part 1 Appendices .pdf` — Paul Copley biographical sketch (primary, first-person), pp. 14-15.
 2. [[Family Tree]] — internal branch mapping.
