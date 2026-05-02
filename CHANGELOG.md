@@ -10,6 +10,15 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4AT - Homepage Recent-Changes Guide (May 1, 2026)
+
+**RETURNING-READER UPGRADE:** Added a compact recent-changes section to the homepage so returning readers can immediately see what has materially changed without opening the full changelog.
+
+### Updated Pages
+
+- [[Home]] - added a `What's New / Recently Clarified` section summarizing the biggest recent site and research changes.
+- `index.md` - mirrored the same recent-changes section on the live root homepage.
+
 ## Phase 4AS - Reader Orientation and Evidence Landing Upgrade (May 1, 2026)
 
 **READER-GUIDANCE UPGRADE:** Improved the two main orientation pages so readers can get to the right layer faster and understand the current proof/open-question balance without reading the full claims register first.

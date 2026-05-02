@@ -25,6 +25,14 @@ Welcome to the Copley family research vault. This project consolidates evidence,
 | To follow the immigrant / Lewis County research questions | [[Topics/Murray Settlement\|Murray Settlement]] | [[Research Priorities and Action Items]] |
 | To understand the Irish-origin investigation | [[Topics/Captain John Copley Research\|Captain John Copley Research]] | [[Topics/Bredon Descent\|Bredon Descent]] |
 
+## What's New / Recently Clarified
+
+- [[Family Tree]] is now a branch-by-branch relationship guide instead of one giant hard-to-read chart.
+- [[Who Was Alive When]] now gives a chronology-first view of overlapping generations and key family eras.
+- The Lewis County Murray-deed chase has been narrowed sharply: the old `1826 Murray / Fish` item is now closed as a misindexed **1899** oil-and-gas lease, and the remaining direct early-deed target is the **1833 John Murray** entry tracked from [[RQ-M1-JOHN-MURRAY-DEED-FINDINGS]].
+- The Stephen-line sibling cluster has been cleaned up substantially, including corrected Berkeley -> Madison -> Palos Verdes chronology for the older siblings and better branch-context biographies.
+- [[Sources and Evidence Index]] now opens with a fast reader guide plus short “mostly proven” and “still open” sections for non-specialists.
+
 ## Project Overview
 
 The research covers:
