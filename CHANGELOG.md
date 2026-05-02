@@ -30,6 +30,15 @@ A running record of significant additions, corrections, and improvements to this
 - [[Visual Story Atlas|Visual Story Atlas]] - updated the guidance line so it points readers to Family Tree for branch-by-branch relationships.
 - [[Topics and Themes|Topics and Themes]] - tightened the Family Tree guidance so it emphasizes branches and key family lines rather than a giant all-generation visual.
 
+## Phase 4AJ - Peter Copley Appendix Enrichment (May 1, 2026)
+
+**STEPHEN-LINE CLEANUP CONTINUES:** Added a stronger bounded appendix pass to Peter Copley so the Stephen-line sibling pages continue to move from skeletal profile cards toward readable branch-context biographies.
+
+### Updated Pages
+
+- [[People/Peter Copley|Peter Copley]] - added stronger Madison / Palos Verdes household context, clarified his place in the younger half of the first-marriage sibling cohort, and deepened the family-culture / music thread around ESP and the broader California household.
+- [[References/Copley History Part 1 and Appendix Source Audit|Copley History Part 1 and Appendix Source Audit]] - marked Peter as having received a stronger bounded appendix-enrichment pass.
+
 ## Phase 4AI - Philip Copley and Agent-Handoff Cleanup (May 1, 2026)
 
 **MIXED MAINTENANCE PASS:** Added one more bounded Stephen-line appendix enrichment and clarified how future agents should use the historical handoff files now that `AGENT_RESUME` is the real current checkpoint.
