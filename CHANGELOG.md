@@ -10,6 +10,21 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4AU - Family Branch Guide (May 1, 2026)
+
+**READER-NAVIGATION UPGRADE:** Added a dedicated branch chooser page so readers can jump directly to the right modern descendant line before opening the full family tree or people directory.
+
+### New Page
+
+- [[Family Branch Guide]] - new branch-by-branch chooser covering the Lewis County core, the Nelle / Sardo branch, the Stephen line, the Tom line, and the Iowa Copely kinship lead.
+
+### Updated Pages
+
+- [[Home]] and `index.md` - added the branch guide to the goal-based chooser, core navigation, and recommended reading path.
+- [[How to Read This Research]] - added the branch guide to the orientation tables.
+- [[Family Tree]] - added a pointer to the branch guide for readers who are not yet sure which line they want.
+- [[People Directory]] and [[Search Index]] - now point uncertain readers to the branch guide before the full directory or index scan.
+
 ## Phase 4AT - Homepage Recent-Changes Guide (May 1, 2026)
 
 **RETURNING-READER UPGRADE:** Added a compact recent-changes section to the homepage so returning readers can immediately see what has materially changed without opening the full changelog.

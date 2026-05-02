@@ -18,6 +18,7 @@ Welcome to the Copley family research vault. This project consolidates evidence,
 |---|---|---|
 | The big family story in plain English | [[The Copley Family Narrative]] | [[Visual Story Atlas]] |
 | A fast visual overview of the whole project | [[Visual Story Atlas]] | [[Who Was Alive When]] |
+| To jump straight to the right family branch | [[Family Branch Guide]] | [[Family Tree]] |
 | To understand who was alive when | [[Who Was Alive When]] | [[Family Tree]] |
 | To understand how branches connect | [[Family Tree]] | [[People Directory]] |
 | To look up a specific person | [[People Directory]] | [[Search Index]] |
@@ -63,6 +64,7 @@ graph LR
 
 ### Core Pages
 - [[How to Read This Research]]
+- [[Family Branch Guide]] ⭐
 - [[Family Tree]] ⭐
 - [[Visual Story Atlas]] ⭐
 - [[Who Was Alive When]] ⭐
@@ -79,14 +81,15 @@ graph LR
 ### Recommended Reading Path
 1. [[How to Read This Research]] — quick orientation to the project, evidence labels, and reader paths
 2. [[Visual Story Atlas]] — diagram-first overview of the whole project
-3. [[Who Was Alive When]] — lifespan overlaps, era snapshots, and chronology-first orientation
-4. [[Family Tree]] — branch-by-branch relationship guide across the main family lines
-5. [[People Directory]] — orient yourself to people and generations
-6. [[The Copley Family Narrative]] — synthesized prose history
-7. [[Sources and Evidence Index]] — claim-by-claim evidence backbone
-8. [[Topics/Murray Settlement|Murray Settlement]] — current best framework for the immigrant community
-9. [[Topics and Themes]] — historical context and thematic research
-10. [[Research Priorities and Action Items]] — active research priorities and evidence gaps
+3. [[Family Branch Guide]] — choose the right descendant line before you open the full tree or directory
+4. [[Who Was Alive When]] — lifespan overlaps, era snapshots, and chronology-first orientation
+5. [[Family Tree]] — branch-by-branch relationship guide across the main family lines
+6. [[People Directory]] — orient yourself to people and generations
+7. [[The Copley Family Narrative]] — synthesized prose history
+8. [[Sources and Evidence Index]] — claim-by-claim evidence backbone
+9. [[Topics/Murray Settlement|Murray Settlement]] — current best framework for the immigrant community
+10. [[Topics and Themes]] — historical context and thematic research
+11. [[Research Priorities and Action Items]] — active research priorities and evidence gaps
 
 ## Research Methodology
 

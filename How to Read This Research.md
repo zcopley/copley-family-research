@@ -23,6 +23,7 @@ Use this page as the map before diving into the details.
 | If your question is... | Go here first | Then go here |
 |---|---|---|
 | What is the story, in normal prose? | [[The Copley Family Narrative]] | [[Visual Story Atlas]] |
+| Which descendant branch am I even looking for? | [[Family Branch Guide]] | [[Family Tree]] |
 | Who was alive when? | [[Who Was Alive When]] | [[Family Tree]] |
 | How do the branches connect? | [[Family Tree]] | [[People Directory]] |
 | Where is one specific person? | [[People Directory]] | [[Search Index]] |
@@ -36,6 +37,7 @@ Use this page as the map before diving into the details.
 | Page | What It Answers |
 |---|---|
 | [[The Copley Family Narrative]] | What is the family story in readable prose? |
+| [[Family Branch Guide]] | Which modern branch should I open first? |
 | [[Who Was Alive When]] | Who overlapped with whom, and which generations were alive at the same time? |
 | [[Family Tree]] | How do the people and branches connect, without getting lost in the full descendant sprawl? |
 | [[Visual Story Atlas]] | What are the main relationships, migrations, evidence clusters, and research quests at a glance? |
@@ -50,6 +52,7 @@ Use this page as the map before diving into the details.
 | If You Are... | Start With |
 |---|---|
 | A family member looking for the big picture | [[The Copley Family Narrative]], then [[Family Tree]] |
+| Unsure which modern branch your person belongs to | [[Family Branch Guide]], then [[Family Tree]] |
 | Trying to understand chronology or overlapping lives | [[Who Was Alive When]], then [[Family Tree]] |
 | Looking for a specific person | [[People Directory]], then [[Search Index]] |
 | Checking whether a claim is proven | [[Sources and Evidence Index]] |

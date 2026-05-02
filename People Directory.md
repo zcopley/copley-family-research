@@ -14,6 +14,7 @@ tags:
 
 > Phase 1A profile pages are now available in [[People/People Directory|People Directory (Individual Profiles)]] and the `People/` folder.
 
+> 🧭 Start with [[Family Branch Guide]] if you know roughly which branch you want but do not want to scan the full directory first.
 > 📊 Start with [[Family Tree]] for the fastest branch-by-branch orientation across generations and relationships.
 > ⏳ Use [[Who Was Alive When]] if you want to understand overlapping lifespans before digging into branches and relationships.
 > 🧾 Use [[Sources and Evidence Index]] to check claim-level source status.

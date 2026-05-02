@@ -16,6 +16,8 @@ tags:
 
 Full-text searchable index of everyone and everything in this vault. Use Ctrl+K (or Cmd+K) to search by name, date, location, or keyword.
 
+If you do not know the name yet and only know the general family line, start with [[Family Branch Guide]] before using the full index.
+
 ---
 
 ## People

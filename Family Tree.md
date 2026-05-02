@@ -13,6 +13,8 @@ This page is now a relationship hub rather than a single all-family chart. Use i
 
 For chronology, pair this page with [[Who Was Alive When]]. For story and evidence strength, keep [[Visual Story Atlas]] and [[Sources and Evidence Index]] nearby. For the older speculative English ancestry question, go to [[Topics/Bredon Descent]] and [[Topics/Captain John Copley Research]].
 
+If you are not sure which descendant line you want yet, start with [[Family Branch Guide]] before using this page.
+
 > [!tip] Best Way To Use This Page
 > Start with the founding family overview, then open the branch chart that matches the person you care about. Use [[People Directory]] when you want the full list of profiles by generation.
 
