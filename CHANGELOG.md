@@ -10,6 +10,15 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4AK - Susan Copley Appendix Enrichment (May 1, 2026)
+
+**STEPHEN-LINE CLEANUP CONTINUES:** Added a first bounded appendix-backed narrative pass to Susan Copley so the thinner younger-sibling pages continue to gain readable branch context without inventing unsupported adult-life detail.
+
+### Updated Pages
+
+- [[People/Susan Copley|Susan Copley]] - added a biographical narrative placing her in the Madison-to-Palos-Verdes household transition, clarified her role in the younger Stephen-line sibling cohort, and captured the specific soccer / softball coaching memories preserved in Stephen Copley's sketch.
+- [[References/Copley History Part 1 and Appendix Source Audit|Copley History Part 1 and Appendix Source Audit]] - marked Susan as having received a first bounded appendix-enrichment pass.
+
 ## Phase 4AF - Family Tree Relationship Hub Redesign (May 1, 2026)
 
 **VISUAL-READABILITY UPGRADE:** Replaced the old all-in-one Mermaid family tree with a branch-based relationship hub that is easier to read on a normal screen and explains itself in plain family-language instead of diagram jargon.
