@@ -40,7 +40,7 @@ The narrative records that Mary and Michael Quinn had **five children**, though 
 ## Acquisition Strategy
 - Retrieve 1850, 1860, 1870 census records to bridge maiden-to-married identity.
 - Search Lewis County and adjacent county marriage books for Mary Copley/Quinn entries.
-- Review St. Bernard’s parish sacramental/burial records for Quinn-Copley family events.
+- Review [[Places/Loveberry Ridge West Virginia|St. Bernard's / Loveberry Ridge]] parish sacramental and burial records for Quinn-Copley family events.
 - Build descendant tree from probate and cemetery records.
 
 ## Source Citations

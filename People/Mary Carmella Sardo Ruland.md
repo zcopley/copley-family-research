@@ -20,6 +20,14 @@ tags:
 - **Marriage:** Louis Ruland
 - **Role in branch history:** matriarch of the Ruland descendant branch documented in family appendices
 
+## Biographical Narrative
+
+Carmella appears in the family-authored appendix material mainly as the younger daughter in the Nelle and Sarah Sardo household rather than through a standalone first-person sketch. Even so, those branch narratives allow a cautious outline of her early setting. She was born on **3 May 1936**, a few years after her parents [[Ellen Bernadine Nelle Copley Sardo|Nelle]] and Robert Samuel Sardo established the family's Clarksville, Maryland household across from St. Louis Catholic Church.
+
+Her childhood seems to have followed the same branch geography described in the Nelle and Sarah sketches: early years tied to [[Places/Clarksville Maryland|Clarksville]], wartime movement into Baltimore during Robert's Army Air Corps service, schooling alongside Sarah at Notre Dame, and later family summers at the Sherwood Forest cottage. The appendix repeatedly pairs "Sarah and Carmella" when describing Nelle's educational priorities, household routines, and activity support, which suggests that Carmella shared the same strong Catholic-school and service-oriented family environment.
+
+For the next generation, Carmella's importance is clearer than her still-limited stand-alone biography: she became the mother of the Ruland branch documented in the family tree and later appendices, making her a key bridge from Nelle's medical/Catholic Maryland household into one of the project's largest descendant clusters.
+
 ## Family Relationships
 - **Parents (G24):** [[Ellen Bernadine Nelle Copley Sardo|Ellen Bernadine "Nelle" Copley Sardo]], Robert Samuel Sardo
 - **Grandparents:** [[John Copley]], [[Mary Ellen Dolan Copley]]
@@ -47,7 +55,7 @@ tags:
 - No high-confidence public profile identified in prior social-media research.
 
 ## Sources
-1. `/home/ubuntu/github_repos/copley-family-research/Family Tree.md` (birth date, spouse, children).
-2. `/home/ubuntu/Uploads/COPLEY HISTORY PART 1 final 2.pdf` (G25 and later branch listings).
-3. `/home/ubuntu/copley_research_analysis.md` (Carmella branch context).
+1. [[Family Tree]] (birth date, spouse, children).
+2. `~/Downloads/Part 1 Appendices .pdf`, pp. 23-27 (indirect branch context through the Nelle and Sarah Sardo sketches).
+3. [[copley_research_analysis]] (Carmella branch context).
 4. [[References/copley_social_media_profiles|copley_social_media_profiles.md]] (profile search result).

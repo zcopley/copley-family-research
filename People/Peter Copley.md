@@ -19,7 +19,7 @@ tags:
 
 [[Peter Copley]] is a G26 descendant in the [[Stephen Michael Copley]] line — the fifth of seven children from Stephen's first marriage to [[Marcia Thornton Copley]].
 
-- **Birth:** January 12, 1966, New Haven, Connecticut (born while father worked at Pratt & Whitney in Madison, CT)
+- **Birth:** January 12, 1966, New Haven, Connecticut (born while father worked at Pratt & Whitney in [[Places/Madison Connecticut|Madison, CT]])
 - **Parents:** [[Stephen Michael Copley]] and [[Marcia Thornton Copley]]
 - **First marriage:** Zhenia (divorced by 1998)
 - **Second marriage:** Karen VanderMolen RN (first date August 2001; bought house together in Fillmore, CA, 2009; married 2012)
@@ -42,7 +42,7 @@ tags:
 
 ## Biographical Narrative
 
-Peter was born in New Haven while the family lived in Madison, Connecticut, and moved to Palos Verdes Estates at age four when his father joined USC. His appendix sketch presents the Palos Verdes years as a mix of school, music, soccer, family activity, and academic gatherings hosted by his parents.
+Peter was born in New Haven while the family lived in [[Places/Madison Connecticut|Madison, Connecticut]], and moved to [[Places/Palos Verdes Estates California|Palos Verdes Estates]] at age four when his father joined USC. His appendix sketch presents the Palos Verdes years as a mix of school, music, soccer, family activity, and academic gatherings hosted by his parents.
 
 Music is one of the strongest through-lines in Peter's biography. He took piano lessons, sang in school, formed the junior-high band ESP with Evan Avery and his brother [[Philip Copley]], and later worked with Philip on a holiday recording project. The appendix also describes a family band project supported by [[Stephen Michael Copley|his father]] and a memorable roller-rink performance in Palos Verdes.
 

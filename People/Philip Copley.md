@@ -24,9 +24,9 @@ tags:
 
 ## Education
 
-- Chestnut Hill Academy (elementary, Wyndmoor, PA)
+- Chestnut Hill Academy (elementary, [[Places/Wyndmoor Pennsylvania|Wyndmoor, PA]])
 - Oxford Elementary (Berkeley, CA)
-- Garfield Junior High; Palos Verdes High School (1980, Los Angeles area)
+- Garfield Junior High; Palos Verdes High School (1980, [[Places/Palos Verdes Estates California|Palos Verdes Estates]] / Los Angeles area)
 - **University of Southern California (USC)** — undergraduate degree (major field not yet documented)
 
 ## Career
@@ -43,8 +43,8 @@ tags:
 
 ## Residences
 
-- Madison, CT — Neck Road (1964–1970)
-- Palos Verdes Estates, CA (1970–1989+)
+- [[Places/Madison Connecticut|Madison, CT]] — Neck Road (1964–1970)
+- [[Places/Palos Verdes Estates California|Palos Verdes Estates, CA]] (1970–1989+)
 - Post-1989 residence not yet documented
 
 ## Research Gaps

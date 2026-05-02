@@ -39,6 +39,12 @@ In 1843, Michael and his brother [[Patrick Copley]] entered a purchase agreement
 
 ![1865 land survey showing "Michael Copley resides," Lewis County WV](../static/images/1865-land-survey-copley-farm.jpg)
 
+## Figure Provenance
+
+The lead gravestone image on this page corresponds to **Figure 1** on **page 4** of `COPLEY HISTORY PART 1 final 2.pdf`, where the raw family-history narrative identifies Michael's marker at **St. Bernard's Catholic Church** on [[Places/Loveberry Ridge West Virginia|Loveberry Ridge]] near Weston. On this page the figure is doing two jobs at once: it is an illustration of the burial place, and it is also one of the main derivative sources for Michael's reported birth date (`29 Sep 1813`) and death timing (`Jan 1897`).
+
+The same Part 1 narrative text on **page 18** gives Michael's death as `18 Jan 1897`, while the gravestone-based reading used here is `19 Jan 1897`. That discrepancy should continue to be tracked as a family-history-source conflict rather than silently harmonized.
+
 ## Lived During
 
 Michael lived through the immigrant crossing and settlement-building era that turned an Irish family story into a permanent Lewis County line.

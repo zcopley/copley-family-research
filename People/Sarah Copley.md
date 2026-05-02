@@ -20,6 +20,8 @@ A labeled photograph is referenced in the family history materials.
 - **Burial:** Weston, Lewis County, WV (Ancestry.com tree, unverified)
 - **Residence:** 108 Cottage Ave, Weston, WV (family sources)
 
+The appendix sketch for [[Michael Joseph Copley]] gives Sarah a more concrete role in the family's transition from farm to town life. After [[Mary Ellen Dolan Copley]] died in 1901, Michael Joseph and [[Ellen Bernadine Nelle Copley Sardo|Nelle]] are reported to have lived first with grandmother [[Ann Copley]] and then with Sarah in Weston. The same source places Sarah's house at **108 Cottage Ave.**, across the West Fork River from the West Allegheny Lunatic Asylum, and notes that the **1910 Federal Census** listed Sarah as head of that household.
+
 ## Family Relationships
 - Parents: [[Michael Copley Sr|Michael Copley]], [[Ann Copley]]
 - Spouse: none reported
@@ -46,3 +48,4 @@ A labeled photograph is referenced in the family history materials.
 ## Source Citations
 1. *COPLEY HISTORY PART 1 final 2.pdf* (birth year list, unmarried status, death year, photo mention).
 2. `/home/ubuntu/copley_research_analysis.md` (family composition context).
+3. `Part 1 Appendices .pdf`, Appendix 1, Michael J. Copley sketch, pp. 1-2 (for the `108 Cottage Ave.` household context, the West Fork / asylum landmark description, and the `1910 Federal Census` head-of-household framing).

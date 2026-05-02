@@ -24,15 +24,17 @@ tags:
 - **Marriage:** [[Michael Joseph Copley]], 1933
 - **Burial:** Sunset View Cemetery, El Cerrito, California (with Michael) — confirmed by family; Ancestry.com tree incorrectly lists Oak Point, Clark County, IL
 - **Occupation (pre-marriage):** Elementary school teacher
-- **Residence:** Champaign IL → Wyndmoor PA → Berkeley / El Cerrito CA
+- **Residence:** Champaign IL → [[Places/Wyndmoor Pennsylvania|Wyndmoor PA]] → Berkeley / El Cerrito CA
 
 ## Biographical Narrative
 
 Marion came from the Partlow farm family near Casey, Illinois, and brought a schoolteacher's sensibility into the Copley household. The appendix sketches by Michael's sons describe her as a former elementary teacher, devoted homemaker, gardener, hostess, and steady presence during Michael Joseph Copley's academic and USDA career.
 
-Her adult life followed Michael's scientific appointments: Champaign during the University of Illinois years, Wyndmoor during the Eastern Regional Research Laboratory period, and Berkeley / Albany during the Western Regional Research Laboratory years. As director's wife during the WRRL era, she helped host visiting scientists, USDA colleagues, and guests from Washington and other regional laboratories.
+The Michael Joseph sketch adds a fuller family-of-origin frame. It describes the Partlows as a Wales-to-Virginia-to-Indiana-to-Illinois line that settled on a large farm near Casey, and it places Marion in a sizeable sibling group of three brothers and three sisters before her 1933 marriage to Michael. Before marriage she taught in an elementary school, a detail that helps explain the educational discipline later remembered by her children.
 
-Family memories emphasize her practical care for her sons' education and interests. Stephen remembered her gardening, support for music lessons, and commitment to keeping the family connected with Marion's Illinois relatives. Tom remembered her as central to the household and to the social side of Michael's laboratory leadership.
+Her adult life followed Michael's scientific appointments: Champaign during the University of Illinois years, [[Places/Wyndmoor Pennsylvania|Wyndmoor]] during the Eastern Regional Research Laboratory period, and Berkeley / [[Places/Albany California|Albany]] during the Western Regional Research Laboratory years. Their first son, [[Stephen Michael Copley]], was born in Champaign in 1936; their second, [[Thomas Partlow Copley]], was born in 1944 during the Wyndmoor / wartime USDA period. As director's wife during the WRRL era, Marion helped host visiting scientists, USDA colleagues, and guests from Washington and other regional laboratories.
+
+Family memories emphasize her practical care for her sons' education and interests. Stephen remembered her gardening, her insistence on piano lessons, and her willingness to absorb the cost and effort of stronger schooling when local options seemed weak. He also recalled her deep investment in plants and flowers, including iris breeding and a weekly California newspaper wildflower column. Tom remembered her as central to the household and to the social side of Michael's laboratory leadership: the parent who made official entertaining work, maintained a polished home, and helped translate an institutional research world into family life.
 
 ## Family of Origin
 
@@ -61,11 +63,12 @@ The **Frank Partlow -> Marion McDonald Partlow** link is now supported by online
 ## Notes
 
 - Thomas Partlow Copley's middle name "Partlow" honors her maiden name.
+- Stephen's memoir material remembers Marion as the parent most visibly tied to gardening, music lessons, and the maintenance of extended Illinois family ties.
 - After Michael's retirement in 1968, Tom's family moved back to Berkeley to help care for their parents after Marion's death.
 
 ## Sources
 
-1. `~/Downloads/Part 1 Appendices .pdf` — Michael Joseph Copley, Stephen Copley, and Tom Copley biographical sketches.
+1. `~/Downloads/Part 1 Appendices .pdf` — Michael Joseph Copley, Stephen Copley, and Tom Copley biographical sketches, especially pp. 1-4 and 5-8 for the Partlow marriage context, Illinois farm-family background, and family-memory material.
 2. [[Family Tree]] — internal branch mapping.
 3. `/mnt/c/Users/zach/Desktop/Partlow/IMG_2433.png` — Ancestry tree screenshot showing Marion's Partlow, Bowles, Rude, and Wade ancestry; derivative tree evidence only.
 4. [[RQ-P1-PARTLOW-REVOLUTIONARY-LINE]] — current online research log for the Partlow Revolutionary line.

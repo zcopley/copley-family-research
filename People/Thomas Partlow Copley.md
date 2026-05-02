@@ -30,6 +30,18 @@ tags:
 
 His interest in marketing and consumer behavior was sparked as a teenager watching his father's lab develop ambitious but ultimately unsuccessful food products like "Wurld Wheat" — modified wheat designed to look like rice. This paradox of a good product failing in the market became his life's intellectual quest.
 
+## Biographical Narrative
+
+Tom's life sits in the branch where the Michael Joseph scientific line bends toward business, teaching, and later digital-course work. The appendix sketch places his earliest years in the transition from wartime [[Places/Wyndmoor Pennsylvania|Wyndmoor]] to postwar Berkeley, where his mother [[Marion Elizabeth Partlow]] helped shape his early reading and moral education before formal schooling took over.
+
+The family moved to Berkeley when Tom was three. He attended Oxford Elementary first, then Thousand Oaks School, skipped two grades, and stayed unusually young for each class cohort. The sketch describes him as verbally strong rather than science-centered, with favorite subjects in history, civics, English, German, and biology. His most memorable school role was as editor-in-chief of the *Daily Jacket* at Berkeley High, where he clashed with administrators after criticizing the student government as a puppet body and was allowed to remain only after formal apologies.
+
+At UC Berkeley, Tom moved away from early pre-engineering and pre-med false starts and found a better fit in business fields such as accounting, economics, and business law. He completed a B.S. in managerial economics in 1966 and an MBA in international business and finance, then continued to Penn State for doctoral work in marketing and international economics. His relationship with Barbara Dee LaForce also belongs to this Berkeley phase: they met at a fraternity mixer in 1964, were "pinned" in 1965, began living together in 1966, and married on March 19, 1967.
+
+The appendix sketch gives his career a more continuous arc than the current summary alone suggests. It runs from early teaching at Wilkes College and Washington State through research work at Bank of America, corporate work at NCR, and several years teaching at Antioch College in Yellow Springs. It then pivots into the first generation of computer-based education ventures: Tom worked with The Electronic University in San Francisco, later contracted with Apple Computer on online-learning products, and eventually co-founded Arlington Courseware with his son [[Zachary R. Copley|Zach]]. That path makes him one of the clearest family links between older university-based teaching and the later internet-era education/business layer of the project.
+
+The sketch also sharpens the family's late geographic return: concern over [[Michael Joseph Copley]]'s declining health helped pull Tom and Dee back toward the Bay Area in the 1980s, where their third child [[Charles H. Copley|Charlie]] was born in 1985. Tom later worked with `drtoy.com`, did webmaster and contract work, and remained in the Berkeley / Richmond Annex orbit into semi-retirement.
+
 ## Lived During
 
 Tom is a living bridge from the Michael Joseph household into the Tom-line descendants, the public family-history project, and the still-growing modern generations.
@@ -68,6 +80,8 @@ For a chronology-first view of those overlaps, see [[Who Was Alive When]].
 | ~2001–06 | Webmaster | drtoy.com |
 | 2006– | Semi-retired; various gig roles | Richmond Annex, CA |
 
+The appendix's first-person framing suggests a useful through-line across these roles: Tom repeatedly moved between academia, institutional employment, and entrepreneurial teaching/media work rather than staying in a single corporate or faculty lane.
+
 ## Family Relationships
 
 - **Parents:** [[Michael Joseph Copley]], [[Marion Elizabeth Partlow]]
@@ -88,6 +102,6 @@ For a chronology-first view of those overlaps, see [[Who Was Alive When]].
 
 ## Sources
 
-1. `~/Downloads/Part 1 Appendices .pdf` — Tom Copley biographical sketch (primary, first-person).
+1. `~/Downloads/Part 1 Appendices .pdf` — Tom Copley biographical sketch, pp. 9-11 (primary, first-person).
 2. `~/Downloads/COPLEY HISTORY PART 1 final 2.pdf` — family structure and generation context.
 3. [[Family Tree]] — internal branch mapping.

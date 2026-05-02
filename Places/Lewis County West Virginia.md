@@ -24,6 +24,20 @@ Lewis County combined frontier agriculture with later oil-era economic shifts. I
 - **Economy:** farming, timber, and later oil impacts.
 - **Institutional relevance:** courthouse records in Weston are central to this family’s evidence trail.
 - **Migration significance:** transition from labor mobility to land tenure.
+- **Settlement texture:** the family-history narrative adds a more specific local landscape of farm tracts, village growth, school and church sites, and the [[Places/Loveberry Ridge West Virginia|Loveberry Ridge]] Catholic corridor near Weston.
+
+## Built Landscape in the Family Narrative
+- The county-level story in `COPLEY HISTORY PART 1 final 2.pdf` is not only about land ownership; it also describes a village of Copley forming around the family farm after the oil strike.
+- That same source links Lewis County family life to a grammar school site, an Evangelical United Brethren church, and St. Bernard's Catholic Church on nearby [[Places/Loveberry Ridge West Virginia|Loveberry Ridge]].
+- These details are useful for public understanding because they show how the family's Lewis County history connects farms, roads, churches, schools, and oil development rather than existing only as disconnected deed entries.
+
+## Figure Provenance
+The county-level built-landscape claims on this page are grounded mainly in the late Part 1 figure cluster rather than in the lead image shown here.
+
+- `COPLEY HISTORY PART 1 final 2.pdf`, **pages 18-21, Figs. 16-21**: supports the statements about the Copley oil well, historical marker, village of Copley, grammar school, EUB church, and St. Bernard's Catholic Church on [[Places/Loveberry Ridge West Virginia|Loveberry Ridge]].
+- `COPLEY HISTORY PART 1 final 2.pdf`, **pages 10-12, Figs. 8-9**: supports the earlier land-tenure frame behind the county's Copley settlement geography.
+
+The white church image at the top of this page should be read as a representative Lewis County illustration, not as a claim that it is itself one of the Part 1 figures.
 
 ## Copley Family Connection
 - Long-term residence for [[Michael Copley Sr]] and [[Ann Copley]].
@@ -49,5 +63,5 @@ Lewis County combined frontier agriculture with later oil-era economic shifts. I
 3. Join land records to census/tax rolls for household continuity.
 
 ## Source Notes
-- [[COPLEY HISTORY PART 1 final 2.pdf]]
-- [[Copley_Research_Strategy.pdf]]
+- [[References/Copley History Part 1 and Appendix Source Audit|Copley History Part 1 and Appendix Source Audit]]
+- Raw family-history source: `COPLEY HISTORY PART 1 final 2.pdf`, pp. 10-12 and 18-21

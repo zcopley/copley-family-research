@@ -27,8 +27,8 @@ tags:
   - PhD in Chemistry, University of Illinois (1929)
 - **Career/occupation (reported):** research chemist and scientific leader
   - University of Illinois research/faculty period
-  - USDA leadership at Eastern Regional Research Laboratory (Wyndmoor)
-  - USDA Director role at Western Regional Research Laboratory (Albany)
+  - USDA leadership at Eastern Regional Research Laboratory ([[Places/Wyndmoor Pennsylvania|Wyndmoor]])
+  - USDA Director role at Western Regional Research Laboratory ([[Places/Albany California|Albany]])
 - **Marriage:** Marion Elizabeth Partlow (married 1933)
 
 ## Key Place Links
@@ -40,11 +40,19 @@ tags:
 
 Michael's childhood sits at the pivot point between the Lewis County farm generation and the family's later professional branches. He was born on the Copley farm in 1898, two years before the Copley No. 1 oil strike, and lost his mother in 1901. The appendix biography says that Michael and his sister [[Ellen Bernadine Nelle Copley Sardo|Nelle]] lived first with their grandmother [[Ann Copley]] and then with their aunt [[Sarah Copley]] in Weston.
 
-His education moved him out of West Virginia and into Catholic and scientific institutions: Rock Hill College is named as a likely early boarding-school experience, followed by Catholic University and the University of Illinois. At Illinois he worked in physical chemistry, publishing on molecular rays and then on hydrogen bonding with C. S. Marvel, Glenn F. Zoellhofer, and others.
+The same family sketch adds several useful place anchors. It places Sarah's house at **108 Cottage Ave.** across the West Fork River from the West Allegheny Lunatic Asylum, and it says the **1920 Federal Census** listed Michael living with his father [[John Copley]] at **202 W. 2nd St., Weston**, by which point John had left the farm and moved into town.
 
-Michael's USDA career linked science, wartime research, and food technology. He moved to the Eastern Regional Research Laboratory in Wyndmoor in 1939, where his division worked on chemistry problems including synthetic rubber during World War II. In 1947 he became Director of the Western Regional Research Laboratory in Albany, California, where the appendix credits him with leadership in food dehydration and frozen-food research until his 1968 retirement.
+The appendix also fixes one short but useful military date sequence. Michael enlisted in the Army on **1 Oct 1918**, just weeks before the armistice, and was honorably discharged on **3 Dec 1918** without seeing combat. That service falls between the Weston household years and his formal higher-education track.
 
-The family-authored sketch also preserves Stephen's and Tom's memories of Michael and [[Marion Elizabeth Partlow|Marion]] as parents: academically attentive, supportive of music and schooling, connected to Marion's Illinois family, and closely tied to the work and culture of the USDA laboratories.
+His education moved him out of West Virginia and into Catholic and scientific institutions: [[Places/Ellicott City Maryland|Rock Hill College in Ellicott City]] is named as a likely early boarding-school experience, followed by Catholic University and the University of Illinois. He completed a chemical-engineering degree at Catholic University in **1922** and a chemistry PhD at Illinois in **1929**, then joined the Illinois faculty. The appendix adds that he may have interrupted his graduate work to help care for his father and settle John Copley's affairs before John's death in 1925.
+
+The appendix also gives a transportation clue for that educational move: it says a narrow-gauge rail line linked Weston to the B&O main line along the Potomac and that [[Places/Ellicott City Maryland|Ellicott City, Maryland]] had a station for reaching **Rock Hill College**.
+
+The family sketch places another important transition in **1933**, when Michael married [[Marion Elizabeth Partlow|Marion Elizabeth Partlow]]. It summarizes the Partlow line as a Wales-to-Virginia-to-Indiana-to-Illinois migration and describes Marion as a former elementary-school teacher from a large Illinois farm family near Casey. Their first son [[Stephen Michael Copley]] was born in 1936 and their second son [[Thomas Partlow Copley]] in 1944.
+
+Michael's USDA career linked science, wartime research, and food technology. He moved to the Eastern Regional Research Laboratory in [[Places/Wyndmoor Pennsylvania|Wyndmoor]] in 1939 as head of the Physical Chemistry Division, where his group worked on chemistry problems including synthetic rubber during World War II. The appendix also remembers him teaching an evening chemistry course at Temple during the Wyndmoor years. In 1947 he became Director of the Western Regional Research Laboratory in [[Places/Albany California|Albany, California]], where the appendix credits him with leadership in food dehydration and frozen-food research until his 1968 retirement.
+
+The family-authored sketch also preserves Stephen's and Tom's memories of Michael and [[Marion Elizabeth Partlow|Marion]] as parents. In those recollections Michael appears as both scientist and teacher: patient with schooling, willing to tutor, able to turn laboratory work into household stories, and deeply invested in his sons' education. Tom's account adds a second angle, remembering Michael less as bench chemist than as the director of a large federal laboratory whose projects ranged from frozen foods to more experimental products that shaped Tom's later interest in innovation and consumer behavior.
 
 ## Lived During
 
@@ -75,7 +83,9 @@ For a chronology-first view of those overlaps, see [[Who Was Alive When]].
   - [[Thomas Partlow Copley]]
 
 ## Notable Life Events
-- Military enlistment briefly during WWI period (reported in family appendix).
+- Enlisted in the Army on **1 Oct 1918** and was honorably discharged on **3 Dec 1918**, after the armistice ended the war before he saw combat.
+- Earned degrees from Catholic University (**1922**) and the University of Illinois (**1929**), then moved into faculty and federal-science leadership roles.
+- Married [[Marion Elizabeth Partlow]] in **1933**, linking the Copley line to the Partlow family of Illinois.
 - Widely described in family narrative as part of the first major educational/professional leap enabled after the family’s oil-era transition.
 
 ## Research Gaps
@@ -89,7 +99,7 @@ For a chronology-first view of those overlaps, see [[Who Was Alive When]].
 - Add USDA archival records and oral-history corroboration with confidence labels.
 
 ## Sources
-1. `~/Downloads/Part 1 Appendices .pdf` — Appendix 1 biographical sketch: Michael J. Copley.
+1. `~/Downloads/Part 1 Appendices .pdf` — Appendix 1 biographical sketch: Michael J. Copley, pp. 1-4 for the Weston / Sarah / `202 W. 2nd St.` / Rock Hill College material, Army dates, Illinois and USDA career sequence, Partlow marriage context, and Stephen / Tom memory sections.
 2. `~/Downloads/COPLEY HISTORY PART 1 final 2.pdf` — family structure and timeline context.
 3. [[copley_research_findings]] — career significance summary.
 4. [[Family Tree]] (branch and generation cross-links).

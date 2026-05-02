@@ -23,6 +23,12 @@ Baltimore was a major immigrant port and the strategic hub of the B&O Railroad s
 - **Immigration pattern:** strong Irish migration and labor recruitment base.
 - **Record significance:** rich Catholic and civil archival systems.
 
+## Later Family Geography
+- The appendix biographies make Baltimore more than a migration corridor: it became the main city setting for the [[Ellen Bernadine Nelle Copley Sardo|Nelle Copley Sardo]] branch.
+- Nelle trained at **St. Joseph Hospital** in Baltimore, received her RN there in `1926`, and by `1932` was reported as **Director of Nursing Education** at the same institution.
+- During Robert Sardo's World War II service, the family moved from Clarksville into Baltimore, first to a rental property in **Guilford** and then to a home on **Woodbourne Ave in Homeland**.
+- The appendix also places daughter [[Sarah Ellen Sardo Arena|Sarah Sardo Arena]]'s birth at **St. Joseph's Hospital** and ties her middle-school years to the Baltimore/Homeland neighborhood.
+
 ## Copley Family Connection
 - Key context point for [[Topics/B&O Railroad Labor History|B&O Railroad Labor History]] and inferred early labor phase of [[Michael Copley Sr]].
 - Important migration node for [[Topics/Irish Famine and Emigration|Irish Famine and Emigration]].
@@ -46,5 +52,5 @@ Baltimore was a major immigrant port and the strategic hub of the B&O Railroad s
 3. Build Baltimore-to-Cumberland corridor chronology tied to family events.
 
 ## Source Notes
-- [[Copley_Research_Strategy.pdf]]
-- [[COPLEY HISTORY PART 1 final 2.pdf]]
+- [[References/Copley History Part 1 and Appendix Source Audit|Copley History Part 1 and Appendix Source Audit]]
+- Raw appendix source, preferred July 7, 2024 version: `Part 1 Appendices .pdf`, Nelle Copley Sardo and Sarah Sardo Arena sketches

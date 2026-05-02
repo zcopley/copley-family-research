@@ -32,11 +32,15 @@ tags:
 
 ## Biographical Narrative
 
-Stephen's appendix sketch begins with a childhood shaped by science, wartime Pennsylvania, and postwar California. Born in Champaign while [[Michael Joseph Copley|his father]] was at the University of Illinois, he moved as a small child to Wyndmoor, Pennsylvania, near the USDA Eastern Regional Research Laboratory. He remembered World War II home-front life, family gardening, beach vacations, visits with Aunt Nelle and the Sardo cousins, and the 1944 birth of his younger brother [[Thomas Partlow Copley|Tom]].
+Stephen's appendix sketch begins with a childhood shaped by science, wartime Pennsylvania, and postwar California. Born in Champaign while [[Michael Joseph Copley|his father]] was at the University of Illinois, he moved as a small child to [[Places/Wyndmoor Pennsylvania|Wyndmoor, Pennsylvania]], near the USDA Eastern Regional Research Laboratory. He remembered World War II home-front life, family gardening, beach vacations, visits with Aunt Nelle and the Sardo cousins, and the 1944 birth of his younger brother [[Thomas Partlow Copley|Tom]].
 
-The family's 1947 move to Berkeley followed Michael Joseph Copley's appointment as Director of the USDA Western Regional Research Laboratory in Albany. Stephen's education in Berkeley led from Oxford Elementary through Berkeley High School and then UC Berkeley. He credited Professor Joseph Pask and Charlie Hulse with steering him toward graduate study and a career in materials science.
+The appendix gives those Wyndmoor years more specificity than the page previously had. Stephen remembered blackout practice during air-raid drills, rationing, letters sent to Uncle Bob Sardo in the service, work in the family's Victory Garden, early photography, vacations to Rehoboth Beach and Cape May, and his mother's roses. Together those details make his page less like a resume and more like a bridge between the Michael Joseph scientific household and the wartime domestic world that shaped the next generation.
 
-His professional life moved from Pratt & Whitney research in Connecticut to USC teaching and department leadership, then to academic administration at IIT, executive work with STE / The Packer Group, and later Penn State Applied Research Laboratory work. The appendix frames this career alongside family life: seven children with [[Marcia Thornton Copley|Marcia]], marriage to [[Judith Ann Todd Copley|Judy]] in 1984, the birth of [[Amy E. Copley Geist|Amy]] in 1990, and a long final chapter in State College.
+The family's 1947 move to Berkeley followed Michael Joseph Copley's appointment as Director of the USDA Western Regional Research Laboratory in [[Places/Albany California|Albany]]. The appendix preserves the move itself as a family story: Marion, Tom, and Stephen stopped for six months at the Partlow farm near Casey while Michael found a house, then crossed the country in a 1936 Oldsmobile, fording a flooded river near Ottumwa and dodging a tornado near Julesburg, Colorado. Stephen's education in Berkeley led from Oxford Elementary through Berkeley High School and then UC Berkeley. He credited Professor Joseph Pask and Charlie Hulse with steering him toward graduate study and a career in materials science.
+
+His professional life moved from Pratt & Whitney research in Connecticut to USC teaching and department leadership, then to academic administration at IIT, executive work with STE / The Packer Group, and later Penn State Applied Research Laboratory work. The appendix adds more household texture to those transitions. Madison is remembered as the first owned family house, near Long Island Sound, during the years when Peter, Susan, and Stephen Jr. were born. Palos Verdes becomes not just an address but a family stage of beaches, coaching, camping trips, and the difficult adjustment to Stephen Jr.'s disability. Hinsdale is framed through the log-cabin property, French au pairs, and Amy's early childhood. State College then appears as the final long chapter in which professional work, Amy's school years, soccer travel, and PSU community life merged.
+
+The appendix also sharpens the tone of Stephen's later self-understanding. It presents him not only as a physicist, professor, and administrator, but as someone who remained consciously proud of the family's Irish-pioneer origins and grateful for the support systems built by his parents, spouses, children, colleagues, and professional communities.
 
 ## Lived During
 
@@ -88,7 +92,7 @@ graph TD
 
 ## Education
 
-- Chestnut Hill Academy (private school, Wyndmoor, PA; elementary years)
+- Chestnut Hill Academy (private school, [[Places/Wyndmoor Pennsylvania|Wyndmoor, PA]]; elementary years)
 - Oxford Elementary (Berkeley, CA)
 - Garfield Junior High; Berkeley High School (President of Honor Society; hosted Saturday morning radio program *"Berkeley Highlights"* senior year)
 - UC Berkeley: General Curriculum → Physics major
@@ -98,8 +102,8 @@ graph TD
 
 | Period | Role | Institution | Location |
 |--------|------|-------------|----------|
-| 1964–1970 | Research Scientist → Supervisor, Alloy & Materials Research | Pratt & Whitney Aircraft (AMRDL) | Madison, Connecticut |
-| 1970–1983 | Associate Professor → Full Professor (1976); Chair, Materials Science (two 3-yr terms) | University of Southern California (USC) | Los Angeles / Palos Verdes Estates, CA |
+| 1964–1970 | Research Scientist → Supervisor, Alloy & Materials Research | Pratt & Whitney Aircraft (AMRDL) | [[Places/Madison Connecticut\|Madison, Connecticut]] |
+| 1970–1983 | Associate Professor → Full Professor (1976); Chair, Materials Science (two 3-yr terms) | University of Southern California (USC) | Los Angeles / [[Places/Palos Verdes Estates California\|Palos Verdes Estates, CA]] |
 | 1990–1996 | Dean, Armour College of Engineering & Science; Vice Provost (1991) | Illinois Institute of Technology (IIT) | Hinsdale / Chicago, IL |
 | 1996–1999 | President & CEO | STE, Inc. → The Packer Group | Chicago area |
 | 2002–2018 | Member of Research Staff; Senior Scientist, Applied Research Laboratory (ARL) | Penn State University (PSU) | State College, PA |
@@ -119,7 +123,7 @@ Also served as President and Chair of the Board of ASM International (ASMI); rec
   - [[Philip Copley]] (b. 1962)
   - [[Paul Copley]] (b. 1964, Berkeley)
   - [[Peter Copley]] (b. Jan 12, 1966, New Haven, CT)
-  - [[Susan Copley]] (b. 1967, Madison, CT)
+  - [[Susan Copley]] (b. 1967, [[Places/Madison Connecticut|Madison, CT]])
   - [[Stephen Joseph Copley]] (b. May 1, 1970, Yale-New Haven Hospital; d. June 10, 2023)
 - **Child with Judy (G26):**
   - [[Amy E. Copley Geist]] (Amy Elizabeth, b. Jul 11, 1990, Hinsdale, IL)
@@ -127,11 +131,11 @@ Also served as President and Chair of the Board of ASM International (ASMI); rec
 ## Residences
 
 - Champaign, IL (birth–1939)
-- Wyndmoor, PA — suburb of Philadelphia (1939–1947)
+- [[Places/Wyndmoor Pennsylvania|Wyndmoor, PA]] — suburb of Philadelphia (1939–1947)
 - Berkeley, CA (1947–1964; family home on "the Arlington")
-- Madison, CT — Neck Road, house on Long Island Sound (1964–1970)
+- [[Places/Madison Connecticut|Madison, CT]] — Neck Road, house on Long Island Sound (1964–1970)
 - Lomita, CA (rented 6 months, 1970)
-- 4029 Via Nivel, Palos Verdes Estates, CA (1970–1990)
+- 4029 Via Nivel, [[Places/Palos Verdes Estates California|Palos Verdes Estates, CA]] (1970–1990)
 - Hinsdale, IL — house with 100-year-old log cabin on property (1990–2002)
 - State College, PA (2002–present)
 
@@ -142,6 +146,6 @@ Also served as President and Chair of the Board of ASM International (ASMI); rec
 
 ## Sources
 
-1. `~/Downloads/Part 1 Appendices .pdf` — Stephen Copley biographical sketch (primary, first-person) and Stephen Joseph Copley section.
+1. `~/Downloads/Part 1 Appendices .pdf` — Stephen Copley biographical sketch, pp. 5-8 (primary, first-person) and Stephen Joseph Copley section.
 2. `~/Downloads/COPLEY HISTORY PART 1 final 2.pdf` — family structure and generation context.
 3. [[Family Tree]] — internal branch mapping.

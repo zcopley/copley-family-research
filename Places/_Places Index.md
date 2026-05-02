@@ -53,9 +53,22 @@ graph LR
 - [[Places/Weston West Virginia|Weston, West Virginia]]
 - [[Places/Jane Lew West Virginia|Jane Lew, West Virginia]]
 - [[Places/Cove Lick West Virginia|Cove Lick (Copley Road area), West Virginia]]
+- [[Places/Loveberry Ridge West Virginia|Loveberry Ridge, West Virginia]]
 
 ## Maryland
 - [[Places/Baltimore Maryland|Baltimore, Maryland]]
+- [[Places/Ellicott City Maryland|Ellicott City, Maryland]]
+- [[Places/Clarksville Maryland|Clarksville, Maryland]]
+
+## Pennsylvania
+- [[Places/Wyndmoor Pennsylvania|Wyndmoor, Pennsylvania]]
+
+## Connecticut
+- [[Places/Madison Connecticut|Madison, Connecticut]]
+
+## California
+- [[Places/Albany California|Albany, California]]
+- [[Places/Palos Verdes Estates California|Palos Verdes Estates, California]]
 
 ## Suggested Use Pattern
 1. Start with county-level page (Roscommon or Lewis County).

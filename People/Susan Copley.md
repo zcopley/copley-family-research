@@ -16,6 +16,7 @@ tags:
 [[Susan Copley]] is a G26 descendant in the [[Stephen Michael Copley]] line — the sixth of seven children from Stephen's first marriage to [[Marcia Thornton Copley]].
 
 - **Birth:** 1967
+- **Birth context:** likely during the family's [[Places/Madison Connecticut|Madison, Connecticut]] years, before the 1970 move to California
 - **Parents:** [[Stephen Michael Copley]] and [[Marcia Thornton Copley]]
 
 ## Family Relationships
