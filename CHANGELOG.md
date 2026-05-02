@@ -10,6 +10,15 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4AL - Stephen Joseph Copley Appendix Enrichment (May 1, 2026)
+
+**STEPHEN-LINE CLEANUP CONTINUES:** Added a stronger bounded appendix-backed pass to Stephen Joseph Copley so his page better explains both his own life and the way his care reshaped the Stephen-line branch in California.
+
+### Updated Pages
+
+- [[People/Stephen Joseph Copley|Stephen Joseph Copley]] - added the Lomita-to-Palos-Verdes transition, the `4029 Via Nivel` household context, clearer Harbor Regional Center / Intercommunity care detail, and a more explicit explanation of how Stephen Joseph redirected the family's long involvement with developmental-disability services.
+- [[References/Copley History Part 1 and Appendix Source Audit|Copley History Part 1 and Appendix Source Audit]] - marked Stephen Joseph as having received a stronger bounded appendix-enrichment pass.
+
 ## Phase 4AK - Susan Copley Appendix Enrichment (May 1, 2026)
 
 **STEPHEN-LINE CLEANUP CONTINUES:** Added a first bounded appendix-backed narrative pass to Susan Copley so the thinner younger-sibling pages continue to gain readable branch context without inventing unsupported adult-life detail.
