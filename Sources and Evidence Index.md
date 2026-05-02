@@ -24,6 +24,31 @@ If you are new to the project, start with [[How to Read This Research]] for a sh
 
 For a visual overview of the claim landscape, see [[Visual Story Atlas]]. For ready-to-use source request templates, transcription fields, and evidence-capture forms for the highest-value gaps, see [[Tier 1 Research Execution Kit]].
 
+## Fast Reader Guide
+
+| If you want to know... | Start here |
+|---|---|
+| What is mostly proven? | See `What Is Mostly Proven Right Now` below, then scan the `Verified` rows in the core claims register |
+| What is still open? | See `What Is Still Open or Contested` below, then go to `Highest-Value Evidence Gaps` |
+| Whether one specific claim is safe to repeat as fact | Check the `Status` column in the core claims register |
+| Where the biggest current risk of overclaiming is | Read the `Plausible`, `Oral / family tradition`, and `Strong working conclusion` entries carefully |
+
+## What Is Mostly Proven Right Now
+
+- Michael Copley Sr. and Patrick Copley jointly purchased land in Lewis County in 1843.
+- A Catholic Copely family remained in the Fairymount / Kilgefin area after Michael's emigration.
+- The 1837-1838 migration record trail through the *Kutusoff* and *Powhatan* is central to the family's American arrival story.
+- Copley No. 1 was a real 1900 oil strike on family land.
+- Captain John Copley is a documented 17th-century historical figure; the uncertainty is the later generational bridge, not his existence.
+
+## What Is Still Open or Contested
+
+- Michael Copley Sr.'s Irish parents remain unproven.
+- Ann Copley's exact maiden name still lacks a direct record; `Murray` is a strong working conclusion, not a closed proof.
+- The Murray Settlement framework is currently useful, but still a working explanatory model rather than a finished demonstration.
+- The direct generation-by-generation bridge from Captain John Copley to the Roscommon Copleys remains unresolved.
+- The oil-to-education / mobility connection is plausible, but the financial proof trail is still incomplete.
+
 ## Evidence Status Key
 
 | Status | Meaning |

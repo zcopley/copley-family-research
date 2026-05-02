@@ -10,6 +10,15 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4AS - Reader Orientation and Evidence Landing Upgrade (May 1, 2026)
+
+**READER-GUIDANCE UPGRADE:** Improved the two main orientation pages so readers can get to the right layer faster and understand the current proof/open-question balance without reading the full claims register first.
+
+### Updated Pages
+
+- [[How to Read This Research]] - added a `Start Here by Goal` table aimed at common reader questions such as story, people, proof, chronology, and Irish origins.
+- [[Sources and Evidence Index]] - added a fast reader guide plus short `What Is Mostly Proven Right Now` and `What Is Still Open or Contested` sections to make the page easier for non-researchers to scan.
+
 ## Phase 4AR - Homepage Reader-Goal Upgrade (May 1, 2026)
 
 **ENTRY-POINT UPGRADE:** Added a reader-goal section to the homepage so first-time visitors can choose whether they want story, timeline, relationships, people, proof, or active research, instead of having to infer the right starting page from the full navigation list.

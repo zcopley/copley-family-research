@@ -18,6 +18,19 @@ This site is a living genealogical research project, not a finished family histo
 
 Use this page as the map before diving into the details.
 
+## Start Here by Goal
+
+| If your question is... | Go here first | Then go here |
+|---|---|---|
+| What is the story, in normal prose? | [[The Copley Family Narrative]] | [[Visual Story Atlas]] |
+| Who was alive when? | [[Who Was Alive When]] | [[Family Tree]] |
+| How do the branches connect? | [[Family Tree]] | [[People Directory]] |
+| Where is one specific person? | [[People Directory]] | [[Search Index]] |
+| Is this claim actually proven? | [[Sources and Evidence Index]] | [[How to Read This Research#Evidence Labels\|Evidence Labels]] |
+| What is still open or disputed? | [[Sources and Evidence Index]] | [[Research Priorities and Action Items]] |
+| What should I read if I only have five minutes? | [[Visual Story Atlas]] | [[Who Was Alive When]] |
+| What is the main Irish-origin question? | [[Topics/Captain John Copley Research]] | [[Topics/Bredon Descent]] |
+
 ## The Main Layers
 
 | Page | What It Answers |
