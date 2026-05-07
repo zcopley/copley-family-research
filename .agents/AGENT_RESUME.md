@@ -225,6 +225,7 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
   - Treat the built-in Deed Book C-D `Marwee` path as retired for Murray-specific work.
   - Treat the old `1826 John Murray / Fred L. Fish` slot as closed; it is a misindexed **1899** oil-and-gas lease.
   - The only remaining direct early-deed lead is the **1833 John Murray** entry. Claude for Chrome should work that next.
+  - The exact prompt to hand to Claude for Chrome is now preserved in `Tier 1 Research Execution Kit.md` under `Current Highest-Value Claude for Chrome Task`.
   - Preserve any new deed images, citation paths, transcripts, abstracts, and interpretation first in `RQ-M1-JOHN-MURRAY-DEED-FINDINGS.md`, then update `Sources and Evidence Index.md`, `Topics/Murray Settlement.md`, `Research Priorities and Action Items.md`, and `People/Ann Copley.md` only if the result materially changes the case.
 - Partlow next steps:
   - Prove Frank Partlow = Nollie Franklin Partlow and Alice Rude = Mary Alice Rude/Partlow, starting with the 10 Jun 1900 marriage record and 1880/1900/1910/1920 census.

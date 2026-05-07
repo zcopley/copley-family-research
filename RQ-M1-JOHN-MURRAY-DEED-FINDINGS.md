@@ -20,6 +20,8 @@ This page is the findings log for the early John Murray deed leads in Lewis Coun
 
 **Current status:** The supposed **1826 Murray / Fish** lead is now closed as a FamilySearch computer-indexing error: it is actually an **1899** John Murray -> Fred L. Fish oil-and-gas lease. The compiled grantee index exact-surname Murray search is complete and produced only later entries dated 1865-1934. The built-in Deed Book C-D M-index path is now retired from the Murray investigation: physical **page 334** and physical **page 404** are both confirmed mismatches, and the formerly live **"Marwee Sewig"** line now reads best as **"Marwee Sawig" -> John Simpson**, not a Murray-variant entry. The remaining direct early deed target is now the **1833 John Murray** entry. Use [[Tier 1 Research Execution Kit]] for the request and transcription template.
 
+**Operational note:** For a single Claude-for-Chrome session, the repo now treats the **1833 John Murray** lookup as the highest-value remaining Murray task. It is the best expected-return microtask because it could either recover the last direct early-deed lead or close that path cleanly.
+
 ## Research Question
 
 Did John Murray or another Murray household hold land in the Lewis County Irish / Murray Settlement area before [[People/Michael Copley Sr|Michael Copley Sr.]] and [[People/Patrick Copley|Patrick Copley]] purchased land from [[People/Weeden Hoffman|Weeden Hoffman]] in 1843?
@@ -35,6 +37,17 @@ This matters because an early Murray land record near Cove Lick, Camden, Loveber
 | Deed Book C-D built-in M index | DGS 8219256, image 10, right page; old "Marwee" entries on pages 334, obscured 3??, and 404 have now been rechecked through follow-up notes. The 3?? line reads best as **Marwee Sawig -> John Simpson**, while pages 334 and 404 are controlled mismatches. | Retired as Murray evidence. | Preserve as a closed negative path; do not treat the built-in M index as an active Murray lead unless a new independent reading emerges. |
 | Compiled Grantor Index M-S negative check | DGS 8293317, image 60; no clear Murray entry between Munson and Musgrave. | Negative finding for compiled grantor index position. | Keep as a negative control while evaluating variant spellings and deed-book targets. |
 | Compiled Grantee Index G-M exact Murray search | DGS 8293314, all 558 images; exact Murray entries reported only on images 553-554, all dated 1865-1934. | Search complete for exact Murray; no pre-1843 exact Murray grantee entry found in this compiled index. | Verify the partially blocked 1865 rows, then prioritize the remaining 1833 lead and any separate non-Marwee variant search. |
+
+## Current Claude for Chrome Microtask
+
+If a fresh Claude-for-Chrome session is available, send it after the **1833 John Murray** entry before any broader FAN sweep or variant-deed browsing. The exact repo prompt is preserved in [[Tier 1 Research Execution Kit]] under `Current Highest-Value Claude for Chrome Task`.
+
+Success for that task means one of two things:
+
+- the 1833 entry is confirmed as a real early Lewis County deed and its deed body is abstracted, or
+- the 1833 entry is proved to be another misindex / wrong record / dead end, which closes the last direct early John Murray deed path
+
+Until that happens, treat the 1833 entry as the only live direct early-deed lead in RQ-M1.
 
 See [[RQ-M1-LEWIS-COUNTY-DEED-SEARCH|RQ-M1 Lewis County Deed Search]] for the earlier FamilySearch navigation notes.
 

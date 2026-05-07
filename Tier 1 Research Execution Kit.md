@@ -49,6 +49,115 @@ When a search produces a record, a negative result, or a corrected claim:
 - Negative check already recorded: compiled Grantor Index M-S, DGS 8293317, image 60, did not show clear Murray between Munson and Musgrave
 - Exact-surname Murray grantee search already recorded: DGS 8293314 exact Murray entries appear only on images 553-554 and are dated 1865-1934
 
+### Current Highest-Value Claude for Chrome Task
+
+For a single bounded Claude-for-Chrome session, the highest-value next task is the remaining **1833 John Murray** lead. This is now the only surviving direct early-deed target in the Murray Settlement workflow, and it offers the best expected return per session because it could either:
+
+- produce the last missing early Murray deed body, or
+- close out the final direct John Murray deed path as another misindex / dead end
+
+Use this exact prompt:
+
+```text
+Do one narrow research task only. Do not browse broadly and do not do any repo work.
+
+Goal:
+Resolve the remaining Lewis County John Murray deed lead currently carried as:
+- John Murray
+- 1833
+- FamilySearch index entry already noted in project notes
+- DGS 008293302, image 24 was previously cited as the index location
+
+Known context:
+- The old “1826 John Murray / Fred L. Fish” lead is already closed: it is actually an 1899 oil-and-gas lease.
+- The built-in Deed Book C-D “Marwee” path is also retired from Murray-specific work.
+- So this session is only about the remaining “1833 John Murray” entry.
+- Do not work on Marwee, Sawig, page 334, page 404, or the Murray/Fish lease in this session.
+
+Your task:
+1. Open the FamilySearch index result for the 1833 John Murray entry.
+2. Capture the exact indexed details as shown:
+   - name
+   - counterparty
+   - role wording
+   - date/year
+   - page
+   - book if shown
+   - film/DGS title
+3. Verify the actual film title and date range, because the earlier Murray/Fish lead proved that FamilySearch computer dates can be wrong.
+4. Determine whether this is truly an 1833 deed or another misindexed later record.
+5. If possible, locate the actual deed body from the book/page reference.
+6. If the deed continues across multiple pages, follow only as far as needed to capture the full instrument.
+7. Stop after this one deed.
+
+Capture this exact output format:
+
+INDEX ENTRY
+- DGS / collection:
+- Film title as shown:
+- Index image number:
+- Direct URL:
+- Exact indexed name:
+- Exact counterparty:
+- Exact role wording:
+- Exact year/date:
+- Exact book:
+- Exact page:
+- Confidence that this is the correct remaining John Murray lead:
+
+FILM / DATE CHECK
+- Does the film title fit an 1833 deed?:
+- If not, explain the mismatch:
+- Does this look like another computer-indexing error?:
+
+DEED LOCATION
+- Deed-book DGS:
+- Deed-book title:
+- Image number(s):
+- Direct URL(s):
+- Physical page(s):
+- Was the deed body located?:
+
+DEED DETAILS
+- Date written:
+- Date recorded:
+- Grantor(s):
+- Grantee(s):
+- Type of instrument:
+- Acreage:
+- Price/consideration:
+- Watercourse / location:
+- Nearby names / neighbors:
+- Witnesses:
+- Clerk / official:
+
+SHORT ABSTRACT
+- 3 to 8 bullets with the substance of the deed
+
+RQ-M1 INTERPRETATION
+- Is this truly a pre-1843 Lewis County John Murray record, or not?
+- Does this place John Murray in Lewis County before 1843?
+- Is the land near Cove Lick / Camden / Loveberry / St. Michael’s, or not clear?
+- Does this strengthen, weaken, or close out the Murray-anchor question?
+
+FAILURE MODE
+- If you cannot fully resolve it, state exactly why:
+  - index only, deed book not identified
+  - date appears misindexed
+  - deed page not found
+  - image unreadable
+  - continuation missing
+  - wrong John Murray
+  - other exact issue
+
+Rules:
+- Be conservative.
+- Do not assume the indexed year is correct.
+- Verify the film title before trusting the date.
+- Do not do any repo editing.
+- Stop after this one deed.
+```
+
 ### Request Template: Lewis County Clerk / FamilySearch Helper
 
 Subject: Lewis County WV deed lookup request - John Murray, 1833

@@ -20,7 +20,7 @@ This is the public research operating list for the Copley family wiki. Use [[Sou
 | Area | Current Status | Best Next Action |
 |---|---|---|
 | Ann Munday / likely Murray | Strong working conclusion; direct identity record still missing. | Identify Ann's Kinawley Murray household and keep searching for a direct marriage, passenger, church, or child death record. |
-| Murray Settlement | Plausible high-value framework for the Lewis County Irish Catholic cluster; the exact-surname grantee search is complete, physical pages 334 and 404 are confirmed mismatches, the former "Marwee Sawig" line has been retired as non-Murray, and the old 1826 Murray/Fish lead is now closed as a 1899 oil-and-gas lease misindex. | Recover the remaining 1833 deed body and complete the settlement FAN sweep. |
+| Murray Settlement | Plausible high-value framework for the Lewis County Irish Catholic cluster; the exact-surname grantee search is complete, physical pages 334 and 404 are confirmed mismatches, the former "Marwee Sawig" line has been retired as non-Murray, and the old 1826 Murray/Fish lead is now closed as a 1899 oil-and-gas lease misindex. | Recover the remaining 1833 deed body first, then complete the settlement FAN sweep. |
 | Michael Copley Sr. origins | Kilgefin / Fairymount remains the strongest working origin. | Connect the documented Fairymount Copely family to Michael through parish, civil, or collateral records. |
 | Mary Copely Giblin / Iowa branch | Verified person; relationship to Michael is plausible but unproven. | Build the Iowa descendant chain and identify Stephen Donald Copley's parents. |
 | Copley No. 1 oil strike | Oil-strike context is verified; family financial effect remains plausible. | Locate lease, royalty, title-chain, probate, and estate records for 1899-1925. |
@@ -38,6 +38,8 @@ The highest-impact items below have practical templates in [[Tier 1 Research Exe
 **Relevance:** [[Topics/Murray Settlement|Murray Settlement]], [[People/Ann Copley|Ann Copley]], [[Sources and Evidence Index]]  
 **Impact:** HIGH - The remaining early deed could still show whether a Murray family anchored the settlement before Michael and Patrick Copley purchased land in 1843.  
 **Research Status:** Narrowed. The former **1826 Murray / Fish** lead is now closed as a **1899** oil-and-gas lease misindex. The compiled Grantor Index M-S check did not show a clear Murray entry between Munson and Musgrave, the compiled exact-surname Grantee Index G-M search is now complete with only 1865-1934 Murray entries on images 553-554, physical pages 334 and 404 in Deed Book C-D are confirmed mismatches, and the former "Marwee Sawig" line has now been retired as non-Murray. Findings belong in [[RQ-M1-JOHN-MURRAY-DEED-FINDINGS|RQ-M1 John Murray Deed Findings]].
+
+**Current execution priority:** For a single browser-based research session such as Claude for Chrome, the highest-value next move is the **1833 John Murray** lookup. It is the best expected-return microtask because it could either recover the last direct early Murray deed body or close out that final direct path cleanly.
 
 **How to proceed:**
 - Treat the exact-surname Grantee Index G-M search as complete for **Murray** and preserve its negative pre-1843 result.

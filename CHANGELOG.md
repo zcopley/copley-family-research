@@ -10,6 +10,17 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4AY - Murray 1833 Claude Task Lock-In (May 7, 2026)
+
+**RESEARCH-WORKFLOW UPDATE:** Locked the remaining **1833 John Murray** lookup in as the current highest-value single Claude-for-Chrome task and preserved the exact handoff prompt in the live execution docs.
+
+### Updated Pages
+
+- [[Tier 1 Research Execution Kit]] - added the exact `Current Highest-Value Claude for Chrome Task` prompt for the remaining 1833 John Murray deed lookup.
+- [[RQ-M1-JOHN-MURRAY-DEED-FINDINGS|RQ-M1 John Murray Deed Findings]] - added an operational note and microtask summary so the findings page itself now points to the exact next Claude-for-Chrome move.
+- [[Research Priorities and Action Items]] - clarified that the 1833 deed lookup comes before the broader settlement FAN sweep in a single bounded research session.
+- `.agents/AGENT_RESUME.md` - pointed the live handoff state to the preserved 1833 Claude-for-Chrome prompt.
+
 ## Phase 4AX - Thomas Partlow Copley Direct Corrections (May 2, 2026)
 
 **AUTHOR-CORRECTION UPDATE:** Incorporated Tom Copley's direct follow-up corrections to his own biography so the page no longer understates his academic titles or misplaces Charlie's birthplace.
