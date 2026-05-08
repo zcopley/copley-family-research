@@ -1,0 +1,146 @@
+1860 LEWIS COUNTY FAN-SWEEP - CLAUDE FOR CHROME OUTPUT
+
+Received from Zach Copley on 2026-05-08.
+
+SEARCH SCOPE
+
+- Collection / website: FamilySearch.org - United States, Census, 1860 (collection ID 1473181), Digital Folder 005171727_001_M9NB-NW2, NARA Microcopy M653, Roll 1358, Virginia - Lewis and Logan Counties; 206 images total
+- Census year: 1860
+- County / state: Lewis County, Virginia (pre-West Virginia statehood)
+- Search terms used with FamilySearch query format f.collectionId=1473181&q.residencePlace=Lewis, Virginia&q.surname=
+  - Copley / Coopley: false hits only; zero Lewis County hits
+  - Murray: 18 hits; 13 in Lewis County proper, 5 in Preston County excluded
+  - Dolan: 19 hits, all Lewis County
+  - Hanley, Hannon, Gillooly, Mullooly, Mulroney: zero
+  - Reynolds: two Preston County hits; zero Lewis County proper
+  - Mahon: three Mahan / Mc Mahan hits, all Weston
+  - Munday / Mundy: zero; false positives were Monepenny
+  - White: 79 hits in search area; Lewis subset includes several Ireland-born Whites
+  - Cummings: indexed as Cummons; locations incomplete
+
+OBVIOUS INDEXING PROBLEMS
+
+- The rural 1860 Lewis County census Event Place (Original) field is indexed as "[Blank], Lewis, Virginia"; Weston-area records show Weston explicitly.
+- No indexed Copley / Coopley appears in 1860 Lewis County, unlike 1850.
+- The correct FamilySearch query parameter was f.collectionId=1473181, not collection_id=1473181.
+- NARA M653 Roll 1358 covers Virginia, Lewis and Logan Counties, pages 1-501 approximate.
+
+HOUSEHOLD HITS
+
+Luke Murry and Patrick Murry
+- Indexed / written names: Luke Murry and Patrick Murry
+- Surname category: Murray / Murry, Ireland-born
+- Location: [Blank], Lewis, Virginia; page 114; image 120
+- Household: Luke Murry (38, Ireland), Ann Murry (24, Ireland), Patrick (4, VA), John (2, VA), Mary (1, VA), Patrick Murry (34, Ireland), and Owen Loghan / Logan (11, VA)
+- Interpretation: likely Ireland-born brothers in one household; children place the family in Virginia by about 1856.
+- ARKs: Luke Murry https://www.familysearch.org/ark:/61903/1:1:M41D-7S4 ; Patrick Murry https://www.familysearch.org/ark:/61903/1:1:M41D-7S6
+
+Michael Dolan
+- Indexed / written name: Michael Dolan
+- Location: [Blank], Lewis, Virginia; page 107; image 113
+- Household: Michael (35, Ireland), Elizabeth (28, Ireland), John (6, VA), Ellen (4, VA), Thomas (3, VA), James (1, VA)
+- Occupation: image read as laborer or farmer
+- ARK: https://www.familysearch.org/ark:/61903/1:1:M41D-4HT
+
+Thomas Dolan
+- Indexed / written name: Thomas Dolan
+- Location: [Blank], Lewis, Virginia; page 117; image 123
+- Household: Thomas (50, Ireland), Honora (40, Ireland), Patrick (15, Ireland), John (13, Ireland), Margaret (6, VA), Thomas (3, VA), infant (0, VA)
+- Interpretation: older children born in Ireland imply emigration between about 1847 and 1854.
+- ARK: https://www.familysearch.org/ark:/61903/1:1:M41D-7BB
+
+John Dolan
+- Indexed / written name: John Dolan
+- Location: [Blank], Lewis, Virginia; page 117; image 123
+- Household: John (40, Ireland), Ann (30, Ireland), Mary (4, VA), John (1, VA), Patrick Malady (19, Ireland)
+- ARK: https://www.familysearch.org/ark:/61903/1:1:M41D-717
+
+Michael Loftus / James Mc Mahan
+- Indexed / written name: Michael Loftus; James Mc Mahan
+- Location: Weston, Lewis, Virginia; page 185; image 191
+- Household: Michael Loftus (60, Ireland), Nancy Loftus (55, Ireland), Michael Jr. (16, VA), Sarah J. (14, VA), Miles Barret (40, Ireland), Henry Hardman (40, Germany), James Mc Mahan (28, Ireland)
+- Interpretation: Irish boarding-house pattern in Weston.
+- ARKs: James Mc Mahan https://www.familysearch.org/ark:/61903/1:1:M41D-C66 ; Michael Loftus https://www.familysearch.org/ark:/61903/1:1:M41D-ZWJ
+
+Bridget Mahan and Patrick Mahan
+- Location: Weston, Lewis, Virginia
+- Household: Bridget Mahan (30, Ireland) and Patrick Mahan (5, VA)
+- Note: likely single mother or household within a larger boarding arrangement; specific image not separately verified beyond index.
+
+Hudson Murry
+- Location: Lewis, Virginia
+- Household: Hudson Murry (59, VA), Elizabeth (52, VA), William (26, VA), Mary F. (22, VA), Mary E. (4, VA), John D. (2, VA)
+- Interpretation: carries over from 1850; no Ireland connection.
+
+George Murry
+- Indexed result: George Murry (27, North Carolina)
+- Interpretation: separate from Ireland-born Murrys; no direct Irish-cluster value.
+
+Ireland-born White households
+- James White (1810, Ireland) and Esther White (1818, Ireland), Lewis County
+- Thomas White (1816, Ireland), Lewis County
+- Mary White (1819, Ireland), Lewis County
+- James White (1840, Ireland), Weston
+- Note: page/image and neighbors not captured in the session.
+
+NEIGHBOR CLUSTERS
+
+Cluster A - Thomas Dolan and John Dolan, image 123, page 117
+- Preceding image/page includes Fealey, Rogers/Rogan, Evans/Davis, Spratt, Arnold, Burke, Buck, and Miller households, many Ireland-born.
+- Same page includes John McLaughlin (Ireland), John Lapham / Leapham / Laughlan (Ireland), Lawrence [?] (Ireland), John Dolan, Thomas Dolan, possible Michael Leary / Murray, and John Parson [?].
+- Following page includes Susan Moneypenny and Michael Collins household.
+- Interpretation: concentrated rural Irish-born farming cluster, at least pages 116-117 / images 122-123, with several Ireland-born household heads and Catholic Irish clues including Honora and Patrick Malady.
+
+Cluster B - Luke and Patrick Murry, image 120, page 114
+- Same page includes Barnard Lightwood / Leighwood [?] (Ireland), Luke and Patrick Murry, Owen Loghan / Logan, Thomas C. Lightwood / Leighwood, James E. Lightwood / Leighwood, and Patrick Green [?] (Ireland).
+- Interpretation: mixed Virginia / Irish neighborhood; less dense than the Dolan cluster, but shows recent Ireland-born Murry settlement near other Irish households.
+
+Cluster C - Weston Irish, image 191, page 185
+- Michael Loftus boarding house includes Michael Loftus, Nancy Loftus, James Mc Mahan, and Miles Barret from Ireland.
+- Bridget Mahan and Patrick Mahan are indexed nearby.
+- Ellen Dolan and Mary Dolan, both born about 1840 in Ireland, are also indexed in Weston.
+- Interpretation: urban Irish boarding-house / labor cluster at the county seat.
+
+NEGATIVE RESULTS
+
+- Copley / Coopley / Copely: zero 1860 Lewis County hits.
+- Hanley: zero.
+- Hannon: zero.
+- Gillooly / Gilhooly: zero.
+- Mullooly: zero.
+- Mulroney: zero.
+- Reynolds: zero in Lewis County proper.
+- Munday / Monday / Mundy: zero; Monepenny false positives.
+- Cummings / Cummons: no confirmed Lewis County placement from the session.
+
+RQ-M1 INTERPRETATION
+
+- The 1860 census supports an Irish-cluster settlement pattern much more clearly than 1850.
+- The cluster is less clearly Murray-centered than Dolan-centered: Ireland-born Luke and Patrick Murry are present, but the densest cluster is Dolan / McLaughlin / Rogers-Rogan / Burke / Fealey / Buck and related Irish surnames.
+- The Copley / Coopley family is absent from the 1860 index, creating a critical gap because Micheal / Patrick Coopley were visible in 1850.
+- Two Irish cluster types appear: a rural Irish farming cluster across pages 115-118 and a Weston urban Irish boarding-house cluster.
+- The result materially reframes the Murray Settlement framework away from a simple Murray anchor-family model and toward a broader Irish Catholic settlement cluster in which Murry / Murray may be one component.
+
+FAILURE MODE / GAPS
+
+- Rural district name is unresolved because Event Place (Original) is blank and the census schedule header was not successfully read.
+- The 1860 Copley / Coopley absence is unexplained.
+- Some neighbor names in the Murry cluster were read from small zoom and need image confirmation.
+- White households need image/page and neighbor capture.
+- Cummings / Cummons results need locality resolution.
+- Hudson Murry 1860 image and neighbors were not captured.
+
+FILM / IMAGE SUMMARY
+
+| Household | ARK | Page | Image | Film | Microfilm |
+|---|---|---|---|---|---|
+| Luke Murry | M41D-7S4 | 114 | 120 | 005171727_001 | 805358 |
+| Patrick Murry | M41D-7S6 | 114 | 120 | 005171727_001 | 805358 |
+| Michael Dolan | M41D-4HT | 107 | 113 | 005171727_001 | 805358 |
+| Thomas Dolan | M41D-7BB | 117 | 123 | 005171727_001 | 805358 |
+| John Dolan | M41D-717 | 117 | 123 | 005171727_001 | 805358 |
+| James Mc Mahan / Michael Loftus | M41D-C66 / M41D-ZWJ | 185 | 191 | 005171727_001 | 805358 |
+
+RECOMMENDED NEXT STEP
+
+Run the same FAN sweep on the 1870 Lewis County, West Virginia census. Also retrieve the Thomas Dolan FamilySearch tree record K6MF-YBH to see whether it can geolocate the Dolan cluster.
