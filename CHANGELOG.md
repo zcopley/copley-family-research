@@ -10,6 +10,15 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4BD - Raw Source Preservation Workflow (May 8, 2026)
+
+**AGENT-WORKFLOW UPDATE:** Added a standing instruction that future agents should preserve publishable raw materials in the git repo, create browser-readable wiki versions when practical, and link citations to both the readable pages and the underlying files.
+
+### Updated Pages
+
+- [[CLAUDE|CLAUDE]] and [[GEMINI|GEMINI]] - added general raw-source preservation rules for `.eml`, `.txt`, `.pdf`, `.zip`, images, spreadsheets, record exports, and other source packets.
+- `.agents/AGENT_RESUME.md` - added the same rule to the live handoff so future sessions do not leave useful materials only in local download or temporary paths.
+
 ## Phase 4BC - Tom Email Source Files Published (May 8, 2026)
 
 **SOURCE-ACCESS UPDATE:** Added browser-readable transcript pages for the May 2026 Tom Copley emails, plus the original `tom-emails.zip` archive and its four extracted `.eml` files as published wiki assets. The source can now be opened directly from the site instead of requiring a local Downloads path.

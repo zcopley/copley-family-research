@@ -165,6 +165,14 @@ If a diagram cannot be updated because the relationship is still uncertain, add 
 - Current example: `References/Thomas Copley May 2026 Email Leads.md` preserves Tom Copley's May 2026 emails about the unresolved John Copley + Sarah Dolan parentage hypothesis and the possible Bridget-line family Bible / Lewis County probate lead; browser-readable transcripts are in `References/`, and the original zip and `.eml` files are published under `static/sources/tom-emails/`.
 - When a source-lead note creates a new proof path, update the affected person/place/topic pages, `Sources and Evidence Index.md`, `Research Priorities and Action Items.md`, `Search Index.md`, `CHANGELOG.md`, and `.agents/AGENT_RESUME.md` in the same edit.
 
+### Raw source material preservation
+- When a task uses raw materials such as `.eml`, `.txt`, `.pdf`, `.zip`, images, spreadsheets, record exports, or downloaded source packets, incorporate the publishable raw files into the git repo when privacy, copyright, and file size allow.
+- Prefer `static/sources/<short-source-slug>/` for downloadable raw artifacts; keep filenames descriptive and URL-safe.
+- When practical, also create browser-readable pages in `References/`: email/text transcripts, PDF/image OCR or abstracts, and source notes that explain provenance, evidence value, and cautions.
+- Link wiki citations and source notes to both the readable page(s) and the raw file(s). Do not leave useful source paths pointing only to `~/Downloads`, `/tmp`, cloud-sync folders, or other machine-local locations if the material can be published in the repo.
+- Add or update `.gitattributes` for raw binary/source formats when needed so Git preserves them correctly.
+- Keep privacy cautions explicit, especially for living people, personal correspondence, AI-generated material, or derivative research notes.
+
 ### Person page structure
 ```markdown
 # Full Name (birth–death or b. YYYY)

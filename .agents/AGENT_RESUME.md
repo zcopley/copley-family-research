@@ -249,6 +249,7 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
 - Tom Copley's May 2026 email archive is now integrated as a research-lead source, not proof. The live parentage hypothesis is **John Copley + Sarah Dolan -> Michael Copley Sr.**, but it remains unresolved until direct or near-direct evidence appears.
 - The highest-value new Michael Copley Sr. parentage lead is the unverified possibility of a Bridget Copley Reynolds line family Bible, or Lewis County probate / heirship / oil-title paperwork citing such a Bible.
 - Any future use of the Tom email archive should start from `References/Thomas Copley May 2026 Email Leads.md` and preserve the evidence caution that most message bodies are AI-generated output. Browser-readable transcript pages live in `References/`; downloadable source files live under `static/sources/tom-emails/`.
+- Standing source-ingestion rule: when future agents use raw materials such as `.eml`, `.txt`, `.pdf`, `.zip`, images, spreadsheets, record exports, or downloaded source packets, they should commit publishable raw files to the repo, preferably under `static/sources/<short-source-slug>/`; create browser-readable `References/` pages when practical; and link wiki citations to both the readable derivatives and the raw files instead of leaving machine-local-only paths.
 
 ## Next Step
 
@@ -274,6 +275,7 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
   - Search official DAR GRS for Benjamin Partlow and obtain the full Benjamin Partlow Revolutionary War pension file.
 - Maintenance next steps:
   - Keep `AGENT_RESUME.md` current after major pushes so historical handoff files stay archival.
+  - Do not leave useful raw materials only in `~/Downloads`, `/tmp`, or other local paths; incorporate publishable raw files and readable derivatives into git and the wiki.
   - Fix build or workflow warnings only when they become actionable; current known residual noise is mostly LaTeX unicode warnings.
   - Consider upgrading GitHub Actions from Node 20-based actions to Node 24-compatible versions before GitHub's 2026 deprecation dates.
 
