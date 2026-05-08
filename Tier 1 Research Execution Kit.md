@@ -52,10 +52,11 @@ When a search produces a record, a negative result, or a corrected claim:
 
 ### Current Highest-Value Claude for Chrome Task
 
-For a single bounded Claude-for-Chrome session, the highest-value next task is the **1860 Lewis County FAN sweep** around the Copley / Murray / Dolan / Hanley / Hannon cluster. The 1850 pass is now complete and found the Coopleys early but no broader Irish surname cluster, so the next best expected-return step is the first census where Dolans and other associated families are likely to appear.
+For a single bounded Claude-for-Chrome session, the highest-value next task is the **1870 Lewis County FAN sweep** around the Copley / Murray / Dolan / Hanley / Hannon cluster. The 1850 and 1860 passes are now complete: 1850 found the Coopleys but no broader Irish cluster, while 1860 found a dense Dolan-centered Irish rural cluster and Ireland-born Luke / Patrick Murry, but no indexed Copley / Coopley household.
 
-- This can reveal whether the settlement families actually begin clustering together by 1860, rather than only appearing later in narrative tradition and deed context.
-- It also tests whether the 1850 isolation of the Coopleys was temporary or whether the settlement framework only becomes visible in the 1850s.
+- This can test whether the 1860 rural Dolan / Murry cluster persists after West Virginia statehood.
+- It can also test whether the Copleys reappear near the cluster after their unexplained 1860 index absence.
+- The 1910 anchor claim involving John Murray, born about 1822 in Ireland, requires a plausible 1870 presence if it is to remain connected to the Lewis County Courthouse District tradition.
 
 Use this exact prompt:
 
@@ -70,11 +71,13 @@ Known context:
 - The old “1833 John Murray” lead is also closed: it is actually an 1899 oil-and-gas lease to Fred S. Rich.
 - The built-in Deed Book C-D “Marwee” path is retired from Murray-specific work.
 - So this session should shift from deed-hunting to census-neighbor research.
-- This session is only about the 1860 Lewis County census.
+- The 1850 Lewis County pass is complete: it found the Micheal / Patrick Coopley household, but no broader Irish surname cluster.
+- The 1860 Lewis County pass is complete: it found a dense rural Dolan-centered Irish cluster, Ireland-born Luke and Patrick Murry, and a Weston Irish boarding-house cluster, but no indexed Copley / Coopley household.
+- This session is only about the 1870 Lewis County, West Virginia census.
 - Do not work on deeds, Marwee, page 334, page 404, or later deed books in this session.
 
 Your task:
-1. Search the 1860 Lewis County, Virginia census for these surnames and close variants:
+1. Search the 1870 Lewis County, West Virginia census for these surnames and close variants:
    - Copley / Copely
    - Murray / Murry / Murrey
    - Dolan
@@ -86,11 +89,18 @@ Your task:
    - Mulroney
    - Mahon
    - Munday / Monday / Mundy
-2. Capture every relevant hit in Lewis County in 1850.
+   - White
+   - Cummings / Cummons
+2. Capture every relevant hit in Lewis County in 1870.
 3. For the strongest target households — especially any Copley/Copely household, any Murray household, and any Irish-origin settlement-family household — capture 10 to 15 households before and after on the census image.
 4. Record district / locality wording exactly as shown.
-5. Note whether the cluster looks like Court House District / Weston-area, Cove Lick / Camden / Loveberry-adjacent, or not clear.
-6. Stop after 1860 only. Do not expand to 1840, 1850, or 1870 in this session.
+5. Compare any 1870 findings to the 1860 cluster pages:
+   - Luke / Patrick Murry: page 114, image 120
+   - Michael Dolan: page 107, image 113
+   - Thomas / John Dolan: page 117, image 123
+   - Weston Loftus / Mc Mahan: page 185, image 191
+6. Note whether the cluster looks like Court House District / Weston-area, Cove Lick / Camden / Loveberry-adjacent, or not clear.
+7. Stop after 1870 only. Do not expand to 1840, 1850, 1860, or 1880 in this session.
 
 Capture this exact output format:
 
@@ -122,7 +132,7 @@ NEIGHBOR CLUSTERS
   - Cluster interpretation:
 
 RQ-M1 INTERPRETATION
-- Do the 1860 named households support a Murray-centered settlement cluster, or not yet?
+- Do the 1870 named households support a Murray-centered settlement cluster, a Dolan-centered cluster, or a broader Irish cluster?
 - Do the Copleys appear near Murray / Dolan / Hanley / Hannon / related surnames, or not?
 - Does the census point more toward a Court House District / Weston cluster, a Cove Lick / Camden / Loveberry cluster, or neither?
 - Does this strengthen, weaken, or leave unchanged the Murray Settlement framework?
@@ -141,7 +151,7 @@ Rules:
 - Record exact written names, not just indexed names.
 - Preserve negative results too.
 - Do not do any repo editing.
-- Stop after 1860 only.
+- Stop after 1870 only.
 ```
 
 ### Request Template: Lewis County Clerk / FamilySearch Helper

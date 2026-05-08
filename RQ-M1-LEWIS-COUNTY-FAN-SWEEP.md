@@ -19,7 +19,7 @@ tags:
 
 This page is the findings log for census and neighbor-network research around the Murray Settlement hypothesis in Lewis County, Virginia / West Virginia.
 
-**Current status:** The first bounded Claude for Chrome FAN-sweep pass for **1850** is now complete. It found the **Micheal / Patrick Coopley** household in **District 30**, but no Irish-born Murray household and no broader Dolan / Hanley / Hannon-type cluster in Lewis County that year. The next bounded census step is now **1860**.
+**Current status:** The bounded Claude for Chrome FAN-sweep passes for **1850** and **1860** are now complete. The 1850 pass found the **Micheal / Patrick Coopley** household in **District 30**, but no broader Irish surname cluster. The 1860 pass found a dense rural Ireland-born cluster centered on **Dolan / McLaughlin / Rogers or Rogan / Burke / Fealey / Buck / Murry** households, plus a separate Weston Irish boarding-house cluster, but no indexed Copley / Coopley household. The next bounded census step is now **1870**.
 
 ## Research Question
 
@@ -33,8 +33,8 @@ This matters because a census-neighbor cluster near Cove Lick, Camden, Loveberry
 |---|---|---|---|
 | 1840 | Lewis County, Virginia | Earliest practical snapshot before the 1843 Copley deed. | Pending |
 | 1850 | Lewis County, Virginia | First named household census after settlement formation. | Complete |
-| 1860 | Lewis County, Virginia | Confirms persistence and neighbor clustering. | Pending |
-| 1870 | Lewis County, West Virginia | Post-Civil War continuity check. | Pending |
+| 1860 | Lewis County, Virginia | Confirms persistence and neighbor clustering. | Complete |
+| 1870 | Lewis County, West Virginia | Post-Civil War continuity check. | Next |
 
 ## Priority Surnames
 
@@ -53,7 +53,8 @@ This matters because a census-neighbor cluster near Cove Lick, Camden, Loveberry
 | 1840 |  |  |  |  |  |  |  |  |  |
 | 1850 | John Murray | John Murray | District not confirmed from page header; early image sequence, likely near county-seat zone | John (48, VA), Jane (42, VA), 10 Virginia-born children | All Virginia | Farmer | Image 37 of 237; ARK `1:1:M8DC-QGL` | Possible unindexed Irish-origin `O'` household on prior image 36, but not confirmed | Looks like an older Virginia Murray family, not a clearly immigrant Irish-origin settlement household. |
 | 1850 | Hudson Murray | Hudson Murray | District not confirmed; later image sequence | Hudson (50, VA), Elizabeth (50, VA) | Both Virginia | Not captured | Image 195 of 237; ARK `1:1:M8DC-X3T` | No cluster work completed around this household | Not clearly relevant to immigrant Irish settlement question. |
-| 1860 |  |  |  |  |  |  |  |  |  |
+| 1860 | Luke Murry; Patrick Murry | Likely Luke Murry; Patrick Murry | Rural Lewis County; Event Place (Original) indexed as `[Blank], Lewis, Virginia`; page 114 | Luke (38), Ann (24), children Patrick, John, Mary; Patrick Murry (34); Owen Loghan / Logan boarder | Luke, Ann, Patrick Murry = Ireland; children = Virginia | Not fully captured | Image 120; page 114; ARKs `1:1:M41D-7S4` and `1:1:M41D-7S6` | Same-page Irish clues include Barnard Lightwood / Leighwood [?], Patrick Green [?], and Owen Loghan / Logan | First Ireland-born Murry / Murray household found in Lewis County FAN work; likely post-1850 immigrants and important cluster component, but not a proven pre-1843 anchor family. |
+| 1860 | Hudson Murry | Not independently checked | Lewis County, exact page not captured | Hudson (59), Elizabeth (52), William, Mary F., Mary E., John D. | All Virginia | Not captured | Image not captured | No neighbor cluster captured | Carries over from 1850 as a Virginia-born Murray line with no clear Irish-settlement relevance. |
 | 1870 |  |  |  |  |  |  |  |  |  |
 
 ## Copley / Copely Household Findings
@@ -62,17 +63,20 @@ This matters because a census-neighbor cluster near Cove Lick, Camden, Loveberry
 |---|---|---|---|---|---|---|---|---|---|
 | 1840 |  |  |  |  |  |  |  |  |  |
 | 1850 | Micheal Coopley; Patrick Coopley | Micheal Coopley; Patrick Coopley | District 30 | Micheal (36, Ireland, farmer, $1,000), Ann (26, Ireland), Patrick (48, Ireland, laborer), children John, Mary, Catharine, Ann all Virginia-born | Micheal, Ann, Patrick = Ireland; children = Virginia | Farmer; Laborer | Image 209 of 237; ARKs `1:1:M8DC-FQ9` and `1:1:M8DC-FQ4` | Immediate neighbors mostly Scottish- and Virginia-born; Thomas White from Ireland appears nearby on next image | Strongest positive 1850 Irish-origin household in the target surname set; confirms early Copley presence, but not a dense Irish cluster. |
-| 1860 |  |  |  |  |  |  |  |  |  |
+| 1860 | Copley / Coopley / Copely |  | Lewis County | No indexed household found |  |  | FamilySearch 1860 census search, collection `1473181` | Negative result despite 1850 Coopley presence | Critical gap: the 1850 Coopley household does not survive into the 1860 index under recognizable variants, preventing a direct 1860 census-neighbor link to the Dolan / Murry cluster. |
 | 1870 |  |  |  |  |  |  |  |  |  |
 
 ## Settlement-Family Findings
 
-| Year | Surname | Indexed Name | Written Name | Location / District | Household Summary | Nearby Core Families | Page / Image / URL | Notes |
-|---|---|---|---|---|---|---|---|---|
-| 1840 |  |  |  |  |  |  |  |  |
-| 1850 | White | Thomas White | District 30 vicinity, near Coopley cluster | Ireland-born Thomas White with wife Esther and children | Thomas = Ireland | Farmer | Image 210 of 237 | Appears near Coopley page; surname also appears in later Lewis County deed boundary context | Useful secondary Irish-origin / land-associate clue, but not one of the main settlement surnames. |
-| 1860 |  |  |  |  |  |  |  |  |
-| 1870 |  |  |  |  |  |  |  |  |
+| Year | Surname | Indexed / Written Name | Location / District | Household Summary | Birthplace / Cluster Clues | Page / Image / URL | Notes |
+|---|---|---|---|---|---|---|---|
+| 1840 |  |  |  |  |  |  |  |
+| 1850 | White | Thomas White | District 30 vicinity, near Coopley cluster | Ireland-born Thomas White with wife Esther and children | Thomas = Ireland; near Coopley page | Image 210 of 237 | Useful secondary Irish-origin / land-associate clue; surname also appears in later Lewis County deed boundary context. |
+| 1860 | Dolan | Michael Dolan | Rural Lewis County; Event Place (Original) `[Blank], Lewis, Virginia` | Michael (35, Ireland), Elizabeth (28, Ireland), four Virginia-born children | Nearby rural Irish cluster, but page 107 is separate from page 117 Dolan cluster | Image 113; page 107; ARK `1:1:M41D-4HT` | Ireland-born Dolan family established by the mid-1850s. |
+| 1860 | Dolan | Thomas Dolan; John Dolan | Rural Lewis County; Event Place (Original) `[Blank], Lewis, Virginia` | Thomas / Honora Dolan with older Ireland-born children and younger Virginia-born children; John / Ann Dolan with Virginia-born children and Patrick Malady boarder | McLaughlin, Rogers / Rogan, Evans / Davis, Spratt, Arnold, Burke, Buck, Fealey, Malady, possible Leary / Murray | Image 123; page 117; ARKs `1:1:M41D-7BB` and `1:1:M41D-717` | Strongest Irish-born farming cluster found so far; likely Famine-era or immediate post-Famine settlement. |
+| 1860 | Mahon / Mahan / Mc Mahan | Michael Loftus household with James Mc Mahan; Bridget Mahan nearby | Weston, Lewis County | Irish boarding-house and nearby Mahan entries | Loftus, Barret, Mc Mahan, Mahan, Dolan | Image 191; page 185; ARKs `1:1:M41D-C66` and `1:1:M41D-ZWJ` | Separate Weston urban Irish cluster, distinct from the rural Dolan / Murry cluster. |
+| 1860 | White | James, Esther, Thomas, Mary, and younger James White entries | Lewis County and Weston | Several Ireland-born White entries | Not captured | Images not captured | Needs direct image/page and neighbor capture because White is a recurring Irish/land-associate clue. |
+| 1870 |  |  |  |  |  |  |  |
 
 ## Neighbor-Cluster Capture
 
@@ -82,6 +86,9 @@ For any promising Murray, Copley, Dolan, Hanley, Hannon, Gillooly, Reynolds, or 
 |---|---|---|---|---|---|---|
 | 1850 | Micheal / Patrick Coopley | Chaney / Cheney; Rawthore or Ranther [?]; Squire [?] / other unclear Scottish-origin households | Geo. M. Jackson; William Lester; John Edmunds; nearby Thomas White from Ireland on next image | Coopley household itself is the main Irish-origin cluster; Thomas White is the clearest nearby Irish-born non-Coopley | Jackson household is substantial; Thomas White later echoes a Lewis County deed-boundary surname | District 30 in 1850 looks mixed, not like a dense Irish Catholic enclave. |
 | 1850 | John Murray | Possible unindexed `Philip O'Brien(?)` on image 36; Lewis Hanson; John D. Houchin | D. W. Malott; John Galbraith [?] | Potential Irish clue on unindexed image 36 remains unconfirmed | Flanked by substantial Virginia-born farmers rather than known settlement surnames | Looks more like a Virginia Murray household than an immigrant Irish settlement household. |
+| 1860 | Thomas Dolan / John Dolan | Fealey; Rogers / Rogan; Evans / Davis; Spratt; Arnold; Burke; Buck; Miller | Moneypenny; Collins | Dense Ireland-born run: McLaughlin, Lapham / Leapham / Laughlan, Dolan, Malady, possible Leary / Murray, plus multiple Irish-born households on prior page | McLaughlin, Buck, Evans, Rogers / Rogan show real estate values; Dolans are farming households | Strongest settlement-cluster evidence so far. The cluster is Irish and rural, but district locality remains unresolved from the index. |
+| 1860 | Luke / Patrick Murry | Ellis; Franklin; Barnard Lightwood / Leighwood [?] | Thomas C. Lightwood / Leighwood; James E. Lightwood / Leighwood; Patrick Green [?] | Luke and Patrick Murry are Ireland-born; Owen Loghan / Logan boarder; nearby Ireland-born Lightwood / Leighwood and Green candidates | Barnard Lightwood / Leighwood appears to hold $1,000 real estate; Patrick Green has smaller real estate | Important Ireland-born Murry presence in a mixed neighborhood near other Irish families, but less dense than the Dolan cluster. |
+| 1860 | Michael Loftus / James Mc Mahan | Not fully captured | Not fully captured | Loftus, Barret, Mc Mahan, Mahan, Dolan Weston entries | Weston boarding-house pattern rather than rural farm cluster | Separate urban Irish cluster at Weston. |
 
 ## Negative Findings
 
@@ -97,6 +104,11 @@ For any promising Murray, Copley, Dolan, Hanley, Hannon, Gillooly, Reynolds, or 
 | 1850 | Gillooly / Gilhooly | FamilySearch U.S. Census, Virginia | Exact surname search | No Virginia hit |  |
 | 1850 | Mullooly | FamilySearch U.S. Census, Virginia | Exact surname search | No Virginia hit |  |
 | 1850 | Murphy | FamilySearch U.S. Census, Lewis County VA | Exact surname search | No indexed Lewis County hit | One possible Edmund Murphy appears visually near the Coopley page but did not surface in the index. |
+| 1860 | Copley / Coopley / Copely | FamilySearch U.S. Census, Lewis County VA | Variant surname search | No Lewis County hit | Major unresolved gap because Micheal / Patrick Coopley were present in 1850. |
+| 1860 | Hanley, Hannon, Gillooly / Gilhooly, Mullooly, Mulroney | FamilySearch U.S. Census, Lewis County VA | Exact and variant surname search | No Lewis County hit | These settlement surnames do not yet appear in the indexed 1860 pass. |
+| 1860 | Reynolds | FamilySearch U.S. Census, Lewis County VA | Exact surname search | No Lewis County proper hit | Two Preston County hits excluded. |
+| 1860 | Munday / Monday / Mundy | FamilySearch U.S. Census, Lewis County VA | Exact and variant surname search | No independent household found | False positives were Monepenny. |
+| 1860 | Cummings / Cummons | FamilySearch U.S. Census, Lewis County VA | Variant surname search | Not confirmed in Lewis County proper | Locality data incomplete; one result clearly Preston County. |
 
 ## Evaluation Rules
 
@@ -130,3 +142,4 @@ For any promising Murray, Copley, Dolan, Hanley, Hannon, Gillooly, Reynolds, or 
 - [[Research Priorities and Action Items]]
 - [[Tier 1 Research Execution Kit]]
 - [[References/Claude for Chrome Lewis County 1850 FAN Sweep]]
+- [[References/Claude for Chrome Lewis County 1860 FAN Sweep]]

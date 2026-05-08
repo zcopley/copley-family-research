@@ -10,6 +10,17 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4BE - 1860 Lewis County FAN Sweep Integrated (May 8, 2026)
+
+**MURRAY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome 1860 Lewis County FAN-sweep output. The result materially strengthens the Irish-settlement framework by showing a dense rural Ireland-born Dolan-centered cluster and Ireland-born Luke / Patrick Murry, but it also reframes the model away from a simple Murray-only anchor and creates a critical 1860 Copley / Coopley absence to resolve.
+
+### Updated Pages
+
+- [[References/Claude for Chrome Lewis County 1860 FAN Sweep|Claude for Chrome Lewis County 1860 FAN Sweep]] - new browser-readable source note preserving the search scope, household hits, ARKs, interpretation, and evidence cautions; raw text is published under `static/sources/claude-1860-fan-sweep/`.
+- [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]] - added the 1860 Murry, Dolan, Mahon / Mahan, White, negative-result, and neighbor-cluster findings, and shifted the next bounded census task to 1870.
+- [[Tier 1 Research Execution Kit|Tier 1 Research Execution Kit]] and [[Research Priorities and Action Items|Research Priorities and Action Items]] - replaced the 1860 Claude-for-Chrome prompt with a 1870 Lewis County, West Virginia FAN-sweep prompt.
+- [[Topics/Murray Settlement|Murray Settlement]], [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]], [[Sources and Evidence Index|Sources and Evidence Index]], [[Search Index|Search Index]], and `.agents/AGENT_RESUME.md` - updated the public interpretation and handoff state so the 1860 pass is complete and the next census sweep is 1870 plus independent 1860 image capture.
+
 ## Phase 4BD - Raw Source Preservation Workflow (May 8, 2026)
 
 **AGENT-WORKFLOW UPDATE:** Added a standing instruction that future agents should preserve publishable raw materials in the git repo, create browser-readable wiki versions when practical, and link citations to both the readable pages and the underlying files.
