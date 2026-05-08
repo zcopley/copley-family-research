@@ -14,16 +14,27 @@ tags:
 
 # Thomas Copley May 2026 Email Leads
 
-This note summarizes four May 2026 emails from [[People/Thomas Partlow Copley|Thomas Partlow Copley]] in `/mnt/c/Users/zach/Downloads/tom-emails.zip`.
+This note summarizes four May 2026 emails from [[People/Thomas Partlow Copley|Thomas Partlow Copley]]. The original archive and normalized `.eml` files are now published with the wiki under `static/sources/tom-emails/`.
 
 ## Source Description
 
-The archive contains four `.eml` files:
+Browser-readable transcript pages:
 
-- `What do you make of this, if anything_ 2026-05-07T14_46_30-05_00.eml`
-- `Here’s a little more - focus_ Dolan family 2026-05-07T15_32_39-05_00.eml`
-- `A little more - Dolan _ Murray 2026-05-07T15_49_55-05_00.eml`
-- `Michael Copley’s parents in Kilgefin 2026-05-08T14_31_44-05_00.eml`
+- [[References/Tom Copley Email 2026-05-07 Ballymoe Ballinasloe Question|2026-05-07 - What do you make of this, if anything?]]
+- [[References/Tom Copley Email 2026-05-07 Focus Dolan Family|2026-05-07 - Here's a little more - focus: Dolan family]]
+- [[References/Tom Copley Email 2026-05-07 Dolan Murray|2026-05-07 - A little more - Dolan / Murray]]
+- [[References/Tom Copley Email 2026-05-08 Michael Copley Parents Kilgefin|2026-05-08 - Michael Copley's parents in Kilgefin]]
+
+The original source package is available here:
+
+- [Download full `tom-emails.zip`](../static/sources/tom-emails/tom-emails.zip)
+
+The extracted email files are available directly here:
+
+- [2026-05-07 - What do you make of this, if anything?](../static/sources/tom-emails/2026-05-07-ballymoe-ballinasloe-question.eml)
+- [2026-05-07 - Here's a little more - focus: Dolan family](../static/sources/tom-emails/2026-05-07-focus-dolan-family.eml)
+- [2026-05-07 - A little more - Dolan / Murray](../static/sources/tom-emails/2026-05-07-a-little-more-dolan-murray.eml)
+- [2026-05-08 - Michael Copley's parents in Kilgefin](../static/sources/tom-emails/2026-05-08-michael-copley-parents-kilgefin.eml)
 
 The messages are mostly Tom-forwarded Google AI research sessions about:
 
@@ -95,4 +106,4 @@ Current handling:
 
 ## Source
 
-1. `~/Downloads/tom-emails.zip` / `/mnt/c/Users/zach/Downloads/tom-emails.zip` - four email messages from Thomas Partlow Copley to Zach Copley and/or Stephen Copley, dated 7-8 May 2026.
+1. [Published `tom-emails.zip`](../static/sources/tom-emails/tom-emails.zip) - four email messages from Thomas Partlow Copley to Zach Copley and/or Stephen Copley, dated 7-8 May 2026.

@@ -162,7 +162,7 @@ If a diagram cannot be updated because the relationship is still uncertain, add 
 - Treat family emails that forward AI research sessions as **research leads**, not proof, unless the message includes an original record image, archive citation, transcript, or firsthand family testimony.
 - Preserve the lead in `References/` with a clear evidence caution before spreading it into narrative pages.
 - Do not convert AI-generated parentage, land, parish, Tithe, Griffith's Valuation, or estate assertions into fact without checking the underlying source.
-- Current example: `References/Thomas Copley May 2026 Email Leads.md` preserves Tom Copley's May 2026 emails about the unresolved John Copley + Sarah Dolan parentage hypothesis and the possible Bridget-line family Bible / Lewis County probate lead.
+- Current example: `References/Thomas Copley May 2026 Email Leads.md` preserves Tom Copley's May 2026 emails about the unresolved John Copley + Sarah Dolan parentage hypothesis and the possible Bridget-line family Bible / Lewis County probate lead; browser-readable transcripts are in `References/`, and the original zip and `.eml` files are published under `static/sources/tom-emails/`.
 - When a source-lead note creates a new proof path, update the affected person/place/topic pages, `Sources and Evidence Index.md`, `Research Priorities and Action Items.md`, `Search Index.md`, `CHANGELOG.md`, and `.agents/AGENT_RESUME.md` in the same edit.
 
 ### Person page structure

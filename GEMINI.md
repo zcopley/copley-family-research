@@ -75,7 +75,7 @@ Do NOT link the following individuals to these incorrect social media profiles:
 ## AI-Forwarded Family Emails & Source Leads
 - Treat family emails that forward AI research sessions as research leads, not proof, unless they include an original record image, archive citation, transcript, or firsthand family testimony.
 - Preserve new lead sets in `References/` with explicit evidence cautions before spreading them into narrative pages.
-- Current example: `References/Thomas Copley May 2026 Email Leads.md` preserves Tom Copley's May 7-8, 2026 emails about the unresolved John Copley + Sarah Dolan parentage hypothesis and the possible Bridget-line family Bible / Lewis County probate lead.
+- Current example: `References/Thomas Copley May 2026 Email Leads.md` preserves Tom Copley's May 7-8, 2026 emails about the unresolved John Copley + Sarah Dolan parentage hypothesis and the possible Bridget-line family Bible / Lewis County probate lead; browser-readable transcripts are in `References/`, and the original zip and `.eml` files are published under `static/sources/tom-emails/`.
 - When a source-lead note changes research priorities, update the affected person/place/topic pages, `Sources and Evidence Index.md`, `Research Priorities and Action Items.md`, `Search Index.md`, `CHANGELOG.md`, and `.agents/AGENT_RESUME.md` together.
 
 ## Development & Deployment

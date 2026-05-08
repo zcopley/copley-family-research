@@ -10,6 +10,17 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4BC - Tom Email Source Files Published (May 8, 2026)
+
+**SOURCE-ACCESS UPDATE:** Added browser-readable transcript pages for the May 2026 Tom Copley emails, plus the original `tom-emails.zip` archive and its four extracted `.eml` files as published wiki assets. The source can now be opened directly from the site instead of requiring a local Downloads path.
+
+### Updated Pages
+
+- [[References/Thomas Copley May 2026 Email Leads|Thomas Copley May 2026 Email Leads]] - replaced the local archive path with direct links to browser-readable transcript pages, the published zip, and normalized `.eml` files.
+- [[References/Tom Copley Email 2026-05-07 Ballymoe Ballinasloe Question|Tom Copley Email - Ballymoe and Ballinasloe Question]], [[References/Tom Copley Email 2026-05-07 Focus Dolan Family|Tom Copley Email - Focus Dolan Family]], [[References/Tom Copley Email 2026-05-07 Dolan Murray|Tom Copley Email - Dolan and Murray]], and [[References/Tom Copley Email 2026-05-08 Michael Copley Parents Kilgefin|Tom Copley Email - Michael Copley Parents in Kilgefin]] - new readable transcript pages generated from the `.eml` HTML bodies.
+- [[Search Index|Search Index]] - added the Tom email source note to the reference/research index.
+- `.agents/AGENT_RESUME.md` - recorded that the email archive is now published under `static/sources/tom-emails/`.
+
 ## Phase 4BB - Tom Copley May 2026 Email Leads Integrated (May 8, 2026)
 
 **SOURCE-LEAD UPDATE:** Reviewed `~/Downloads/tom-emails.zip` and integrated the useful material as research leads rather than proven facts. The main addition is a high-value but unverified family Bible / Lewis County probate path for Michael Copley Sr.'s parents, plus tighter Dolan / Kilgefin search targets.

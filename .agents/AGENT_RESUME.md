@@ -37,6 +37,7 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
 - Ran `npm run check:mermaid` successfully after the email integration.
 - Attempted `node scripts/check-internal-links.mjs`, but the script is not present in the repo.
 - Reverted regenerated tracked `public/` output after local build verification so the working diff stayed source-focused.
+- Follow-up source-access update: four browser-readable Tom email transcript pages now exist in `References/`; the original `tom-emails.zip` archive and four normalized `.eml` files are published under `static/sources/tom-emails/`, and `References/Thomas Copley May 2026 Email Leads.md` links to both the transcript pages and raw source files directly.
 
 - Integrated Zach's May 8, 2026 Claude for Chrome correction for the long-carried **1833 John Murray** lead.
 - Created `References/Claude for Chrome Lewis County John Murray 1833 Misindex Check.md`.
@@ -247,7 +248,7 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
 - Public web searching also did not prove Jacob Partlow = son of Benjamin Partlow; broad search surfaced only derivative/collateral leads. Prioritize compiled Partlow books, Benjamin probate/estate, and Culpeper/Clark land/tax records.
 - Tom Copley's May 2026 email archive is now integrated as a research-lead source, not proof. The live parentage hypothesis is **John Copley + Sarah Dolan -> Michael Copley Sr.**, but it remains unresolved until direct or near-direct evidence appears.
 - The highest-value new Michael Copley Sr. parentage lead is the unverified possibility of a Bridget Copley Reynolds line family Bible, or Lewis County probate / heirship / oil-title paperwork citing such a Bible.
-- Any future use of the Tom email archive should start from `References/Thomas Copley May 2026 Email Leads.md` and preserve the evidence caution that most message bodies are AI-generated output.
+- Any future use of the Tom email archive should start from `References/Thomas Copley May 2026 Email Leads.md` and preserve the evidence caution that most message bodies are AI-generated output. Browser-readable transcript pages live in `References/`; downloadable source files live under `static/sources/tom-emails/`.
 
 ## Next Step
 
@@ -309,6 +310,10 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
 - `References/New England Ball Project Partlow Census Citation Extract.md`
 - `References/Copley History Part 1 and Appendix Source Audit.md`
 - `References/Thomas Copley May 2026 Email Leads.md`
+- `References/Tom Copley Email 2026-05-07 Ballymoe Ballinasloe Question.md`
+- `References/Tom Copley Email 2026-05-07 Focus Dolan Family.md`
+- `References/Tom Copley Email 2026-05-07 Dolan Murray.md`
+- `References/Tom Copley Email 2026-05-08 Michael Copley Parents Kilgefin.md`
 - `Dolan Family.md`
 - `People/Michael Copley Sr.md`
 - `People/Bridget Copley Reynolds.md`
