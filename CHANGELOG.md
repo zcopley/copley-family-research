@@ -10,6 +10,38 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4BB - Tom Copley May 2026 Email Leads Integrated (May 8, 2026)
+
+**SOURCE-LEAD UPDATE:** Reviewed `~/Downloads/tom-emails.zip` and integrated the useful material as research leads rather than proven facts. The main addition is a high-value but unverified family Bible / Lewis County probate path for Michael Copley Sr.'s parents, plus tighter Dolan / Kilgefin search targets.
+
+### Updated Pages
+
+- [[References/Thomas Copley May 2026 Email Leads|Thomas Copley May 2026 Email Leads]] - new source note summarizing the four emails and separating Tom's actionable leads from AI-generated claims.
+- [[People/Michael Copley Sr|Michael Copley Sr.]], [[People/Bridget Copley Reynolds|Bridget Copley Reynolds]], [[Dolan Family]], and [[Places/Kilgefin Ireland|Kilgefin Ireland]] - added the parentage, Bridget-line Bible, probate, Dolan, and estate-record leads with evidence cautions.
+- [[Sources and Evidence Index|Sources and Evidence Index]], [[Research Priorities and Action Items|Research Priorities and Action Items]], and [[Search Index|Search Index]] - added the John Copley / Sarah Dolan hypothesis as unresolved and made the Bible / probate path a first-class research target.
+
+## Phase 4AZ - John Murray 1833 Lead Closed (May 8, 2026)
+
+**MURRAY-WORKFLOW CORRECTION:** Integrated the final Claude for Chrome recheck of the long-carried **1833 John Murray** index entry. It is now confirmed as a second FamilySearch OCR misindex: the actual record is a **1899** John Murray -> Fred S. Rich oil-and-gas lease, not a pre-1843 deed.
+
+### Updated Pages
+
+- [[References/Claude for Chrome Lewis County John Murray 1833 Misindex Check|Claude for Chrome Lewis County John Murray 1833 Misindex Check]] - new source note with the full correction, deed abstract, neighbors, and RQ-M1 interpretation.
+- [[RQ-M1-JOHN-MURRAY-DEED-FINDINGS|RQ-M1 John Murray Deed Findings]] - retired the 1833 John Murray slot as a controlled misindex / closed lead and closed the direct John Murray deed path.
+- [[Tier 1 Research Execution Kit|Tier 1 Research Execution Kit]] - replaced the stale 1833 Claude-for-Chrome prompt with a new bounded 1850 Lewis County FAN-sweep prompt.
+- [[Research Priorities and Action Items|Research Priorities and Action Items]], [[Sources and Evidence Index|Sources and Evidence Index]], [[Topics/Murray Settlement|Murray Settlement]], [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]], [[Search Index|Search Index]], and `.agents/AGENT_RESUME.md` - shifted the Murray workflow from direct John Murray deed hunting to the FAN sweep and Kinawley-household phase.
+
+## Phase 4BA - Lewis County 1850 FAN Sweep Integrated (May 8, 2026)
+
+**MURRAY-WORKFLOW UPDATE:** Integrated the first bounded 1850 Lewis County FAN-sweep result. The Coopleys are present early in District 30, but the broader Irish surname cluster does not yet appear in Lewis County in 1850, and no Irish-born Murray household was found.
+
+### Updated Pages
+
+- [[References/Claude for Chrome Lewis County 1850 FAN Sweep|Claude for Chrome Lewis County 1850 FAN Sweep]] - new source note with the full 1850 search scope, Coopley and Murray household hits, neighbor-cluster interpretation, and negative surname results.
+- [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]] - added the completed 1850 findings, negative surname results, and cluster interpretation.
+- [[Tier 1 Research Execution Kit|Tier 1 Research Execution Kit]] - shifted the `Current Highest-Value Claude for Chrome Task` from 1850 to a bounded **1860** Lewis County FAN sweep.
+- [[Research Priorities and Action Items|Research Priorities and Action Items]], [[Sources and Evidence Index|Sources and Evidence Index]], [[Topics/Murray Settlement|Murray Settlement]], [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]], [[Search Index|Search Index]], and `.agents/AGENT_RESUME.md` - updated the Murray workflow so the next bounded Lewis County census task is now **1860**, not 1850.
+
 ## Phase 4AY - Murray 1833 Claude Task Lock-In (May 7, 2026)
 
 **RESEARCH-WORKFLOW UPDATE:** Locked the remaining **1833 John Murray** lookup in as the current highest-value single Claude-for-Chrome task and preserved the exact handoff prompt in the live execution docs.

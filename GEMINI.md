@@ -56,6 +56,12 @@ Tom proposes that Protestant Copleys (Bredon, Woolbedding) may have practiced Ca
 
 ❓ **Needs clarification:** Woolbedding-Southwell relationship, conforming Catholics in England, 1700s religious practice, William Copely of Fairymount origins
 
+**Michael Copley Sr. Parentage Hypothesis (May 2026 — Tom email lead)**
+
+Tom Copley's May 2026 email archive raises the unresolved possibility that **John Copley** and **Sarah Dolan** of Kilgefin / Roscommon were Michael Copley Sr.'s parents. Treat this as a live proof target, not an established relationship.
+
+**Highest-value proof path:** Lewis County probate, chancery, estate, heirship, and oil-title files after Michael's January 1897 death, especially any filings citing a family Bible. Also build [[People/Bridget Copley Reynolds|Bridget Copley Reynolds]] forward to test whether a Copley family Bible, transcript, or inherited correspondence survives in that line.
+
 ---
 
 ## Known Pitfalls & "Same-Name" Mismatches
@@ -64,6 +70,13 @@ Do NOT link the following individuals to these incorrect social media profiles:
 - **Peter Copley (b. 1966):** Avoid `@petergcopley` on Twitter/X; he is a British composer, not the family member.
 - **William Stephen Geist (b. 2023):** Do not link to journalist "Willie Geist" (mismatch).
 - **Thomas Partlow Copley (b. 1944):** Do not conflate with his grandfather Thomas E. Copley (1892–1968).
+- **John Copley + Sarah Dolan parentage:** Do not state that they were Michael Copley Sr.'s parents as fact. Tom Copley's May 2026 emails preserve this as an unresolved research lead, not proof.
+
+## AI-Forwarded Family Emails & Source Leads
+- Treat family emails that forward AI research sessions as research leads, not proof, unless they include an original record image, archive citation, transcript, or firsthand family testimony.
+- Preserve new lead sets in `References/` with explicit evidence cautions before spreading them into narrative pages.
+- Current example: `References/Thomas Copley May 2026 Email Leads.md` preserves Tom Copley's May 7-8, 2026 emails about the unresolved John Copley + Sarah Dolan parentage hypothesis and the possible Bridget-line family Bible / Lewis County probate lead.
+- When a source-lead note changes research priorities, update the affected person/place/topic pages, `Sources and Evidence Index.md`, `Research Priorities and Action Items.md`, `Search Index.md`, `CHANGELOG.md`, and `.agents/AGENT_RESUME.md` together.
 
 ## Development & Deployment
 - **Node Version:** Requires Node v22+.
@@ -148,4 +161,4 @@ A human-readable `CHANGELOG.md` exists at the vault root. Update it at the end o
 A `README.md` exists at the repo root for GitHub visitors. It covers the live site URL, directory structure, tech stack, local dev instructions, and deployment. Update it if the tech stack or repo structure changes significantly.
 
 ## Last Known Handoff
-Refer to `AGENT_HANDOFF_PHASE_2L.md` for the latest session summary (Phases 2J–2L: Tom's corrections, Iowa discovery, Murray Settlement research page, Ancestry forum integration).
+Start with `.agents/AGENT_RESUME.md`; it is the current operational checkpoint. Treat `_AGENT_HANDOFF_PHASE_*` files as historical context unless `AGENT_RESUME.md` explicitly points back to one.

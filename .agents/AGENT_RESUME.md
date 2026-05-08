@@ -9,11 +9,11 @@ tags:
 
 # Agent Resume State
 
-Last updated: 2026-05-01
+Last updated: 2026-05-08
 
 ## Current Goal
 
-Maintain the public reader path and evidence-status pages while keeping the Murray Settlement deed workflow narrowed to its last direct early-deed target: the unresolved **1833 John Murray** entry. The repo's active front-door now centers on reader orientation (`Home`, `index`, `How to Read This Research`, `Family Tree`, `Family Branch Guide`, `Who Was Alive When`, and `Sources and Evidence Index`), so new work should either:
+Maintain the public reader path and evidence-status pages while keeping the Murray Settlement workflow focused on its next live proof targets now that the direct John Murray deed path has closed. The repo's active front-door now centers on reader orientation (`Home`, `index`, `How to Read This Research`, `Family Tree`, `Family Branch Guide`, `Who Was Alive When`, and `Sources and Evidence Index`), so new work should either:
 
 - materially improve that reader path, or
 - advance one of the still-live proof questions without reopening retired Murray leads.
@@ -25,6 +25,37 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
 - When a historical handoff conflicts with this file, this file wins.
 
 ## What Was Just Completed
+
+- Integrated `~/Downloads/tom-emails.zip` / `/mnt/c/Users/zach/Downloads/tom-emails.zip` as a source-lead set rather than proven evidence.
+- Created `References/Thomas Copley May 2026 Email Leads.md` to summarize four May 7-8, 2026 emails from Tom Copley and separate actionable leads from forwarded AI-generated claims.
+- Updated `Dolan Family.md`, `People/Michael Copley Sr.md`, `People/Bridget Copley Reynolds.md`, and `Places/Kilgefin Ireland.md` with:
+  - the unresolved John Copley + Sarah Dolan parentage hypothesis for Michael Copley Sr.
+  - the unverified but high-value Bridget-line family Bible / Lewis County probate lead
+  - Dolan / Kilgefin search targets for parish, Tithe, estate, Registry of Deeds, probate, and heirship records
+- Updated `Sources and Evidence Index.md`, `Research Priorities and Action Items.md`, `Search Index.md`, and `CHANGELOG.md` so the parentage question is visible as unresolved and the family Bible / probate path is a first-class research target.
+- Ran `npm run build` successfully after the email integration; build processed 155 Markdown files and emitted only existing LaTeX unicode warnings.
+- Ran `npm run check:mermaid` successfully after the email integration.
+- Attempted `node scripts/check-internal-links.mjs`, but the script is not present in the repo.
+- Reverted regenerated tracked `public/` output after local build verification so the working diff stayed source-focused.
+
+- Integrated Zach's May 8, 2026 Claude for Chrome correction for the long-carried **1833 John Murray** lead.
+- Created `References/Claude for Chrome Lewis County John Murray 1833 Misindex Check.md`.
+- Updated `RQ-M1-JOHN-MURRAY-DEED-FINDINGS.md` with:
+  - the conclusion that the FamilySearch "1833" date is a computer-indexing error
+  - the corrected record type and date: **1899** oil and gas lease
+  - the corrected grantee: **Fred S. Rich**
+  - the retirement of the old 1833 John Murray slot as a closed negative lead for RQ-M1
+  - the shift from direct John Murray deed hunting to FAN-sweep and Kinawley-household work
+- Updated `References/Claude for Chrome Lewis County Deed Research Brief.md`, `Sources and Evidence Index.md`, `Research Priorities and Action Items.md`, `Tier 1 Research Execution Kit.md`, `Topics/Murray Settlement.md`, `Topics/Murray Settlement Research Roadmap.md`, `Search Index.md`, and `CHANGELOG.md` so the Murray deed task no longer treats the 1833 entry as a live pre-1843 deed lead.
+- Integrated Zach's May 8, 2026 Claude for Chrome **1850 Lewis County FAN sweep** handoff.
+- Created `References/Claude for Chrome Lewis County 1850 FAN Sweep.md`.
+- Updated `RQ-M1-LEWIS-COUNTY-FAN-SWEEP.md` with:
+  - the completed 1850 Coopley / Murray / settlement-surname sweep
+  - the positive Coopley household result in District 30
+  - the negative result for an Irish-born Murray household in 1850 Lewis County
+  - the broader negative result that Dolan / Hanley / Hannon / Reynolds / Mahon and related surnames do not yet appear in Lewis County in 1850
+  - the narrowed next-step workflow focusing on the **1860** FAN sweep
+- Updated `Research Priorities and Action Items.md`, `Tier 1 Research Execution Kit.md`, `Sources and Evidence Index.md`, `Topics/Murray Settlement.md`, `Topics/Murray Settlement Research Roadmap.md`, `Search Index.md`, and `CHANGELOG.md` so the Murray workflow now treats the 1850 FAN pass as complete and points next to 1860.
 
 - Added a reader-facing `What's Proven vs What's Still Open` callout to `Home.md` and `index.md`.
 - Added a compact `At A Glance: Proven vs Open` summary near the top of `Visual Story Atlas.md`.
@@ -214,6 +245,9 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
 - The critical Partlow proof gaps are Frank/Nollie identity, John H. -> Jacob, and Jacob -> Benjamin.
 - Public web searching did not prove Frank Partlow = Nollie Franklin Partlow; the next concrete action is the Clark County, Illinois marriage record/citation for the reported 10 Jun 1900 marriage to Alice/Mary Alice Rude.
 - Public web searching also did not prove Jacob Partlow = son of Benjamin Partlow; broad search surfaced only derivative/collateral leads. Prioritize compiled Partlow books, Benjamin probate/estate, and Culpeper/Clark land/tax records.
+- Tom Copley's May 2026 email archive is now integrated as a research-lead source, not proof. The live parentage hypothesis is **John Copley + Sarah Dolan -> Michael Copley Sr.**, but it remains unresolved until direct or near-direct evidence appears.
+- The highest-value new Michael Copley Sr. parentage lead is the unverified possibility of a Bridget Copley Reynolds line family Bible, or Lewis County probate / heirship / oil-title paperwork citing such a Bible.
+- Any future use of the Tom email archive should start from `References/Thomas Copley May 2026 Email Leads.md` and preserve the evidence caution that most message bodies are AI-generated output.
 
 ## Next Step
 
@@ -221,12 +255,18 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
   - Keep the main reader path synchronized: `Home`, `index`, `How to Read This Research`, `Family Tree`, `Family Branch Guide`, `Who Was Alive When`, `People Directory`, `Visual Story Atlas`, and `Sources and Evidence Index`.
   - Prefer high-signal orientation improvements over more diagram sprawl. Add visuals only when they clearly reduce confusion.
   - If another visible improvement is needed, favor concise branch, evidence-status, or timeline aids rather than more all-in-one charts.
+- Michael Copley parentage next steps:
+  - Treat John Copley + Sarah Dolan as an unresolved hypothesis, not a claim.
+  - Search Lewis County probate, chancery, estate, heirship, and oil-title files after Michael Copley Sr.'s January 1897 death for Bible extracts, family-record exhibits, or filings naming his parents.
+  - Build Bridget Copley Reynolds forward through Reynolds records to identify whether a family Bible, transcript, probate packet, or inherited correspondence could survive in that line.
+  - Verify any Dolan / Kilgefin townland leads from original Tithe Applotment, parish, estate, or Registry of Deeds records before adding them as evidence.
 - Murray deed next steps:
   - Treat the built-in Deed Book C-D `Marwee` path as retired for Murray-specific work.
   - Treat the old `1826 John Murray / Fred L. Fish` slot as closed; it is a misindexed **1899** oil-and-gas lease.
-  - The only remaining direct early-deed lead is the **1833 John Murray** entry. Claude for Chrome should work that next.
+  - Treat the old `1833 John Murray` slot as closed; it is also a misindexed **1899** oil-and-gas lease.
+  - The direct John Murray deed path is now exhausted. The **1850 Lewis County FAN sweep** is complete, and Claude for Chrome should shift next to the **1860 Lewis County FAN sweep**.
   - The exact prompt to hand to Claude for Chrome is now preserved in `Tier 1 Research Execution Kit.md` under `Current Highest-Value Claude for Chrome Task`.
-  - Preserve any new deed images, citation paths, transcripts, abstracts, and interpretation first in `RQ-M1-JOHN-MURRAY-DEED-FINDINGS.md`, then update `Sources and Evidence Index.md`, `Topics/Murray Settlement.md`, `Research Priorities and Action Items.md`, and `People/Ann Copley.md` only if the result materially changes the case.
+  - Preserve any new FAN-sweep images, citation paths, neighbor captures, and interpretation first in `RQ-M1-LEWIS-COUNTY-FAN-SWEEP.md`, then update `Sources and Evidence Index.md`, `Topics/Murray Settlement.md`, `Research Priorities and Action Items.md`, and `People/Ann Copley.md` only if the result materially changes the case.
 - Partlow next steps:
   - Prove Frank Partlow = Nollie Franklin Partlow and Alice Rude = Mary Alice Rude/Partlow, starting with the 10 Jun 1900 marriage record and 1880/1900/1910/1920 census.
   - Capture original 1880 and 1900 Johnson Township, Clark County, Illinois census images for Marion McDonald Partlow and Frank Partlow, then capture original 1850 and 1860 Johnson Township census images for John H. Partlow.
@@ -268,10 +308,18 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
 - `References/Harry C Partlow 1960 Letter and Handwritten Lineage.md`
 - `References/New England Ball Project Partlow Census Citation Extract.md`
 - `References/Copley History Part 1 and Appendix Source Audit.md`
+- `References/Thomas Copley May 2026 Email Leads.md`
+- `Dolan Family.md`
+- `People/Michael Copley Sr.md`
+- `People/Bridget Copley Reynolds.md`
+- `Places/Kilgefin Ireland.md`
 
 ## Open Questions
 
 - Which Kinawley Murray household was Ann's family?
+- Were John Copley and Sarah Dolan actually Michael Copley Sr.'s parents?
+- Does a Bridget Copley Reynolds descendant line preserve a Copley family Bible, Bible transcript, probate packet, or inherited correspondence naming Michael's parents?
+- Do Lewis County probate, heirship, chancery, or oil-title files after Michael Copley Sr.'s 1897 death cite a family Bible or name his parents?
 - Did a Murray family arrive in the Lewis County settlement area before the Copleys?
 - Is there a surviving marriage or church record that names Ann's maiden surname directly?
 - Is Frank Partlow the same person as Nollie Franklin Partlow, and is Alice Rude the same person as Mary Alice Rude/Partlow?

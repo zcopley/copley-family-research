@@ -33,9 +33,9 @@ When a search produces a record, a negative result, or a corrected claim:
 
 ---
 
-## 1. Remaining Early John Murray Deed
+## 1. Early John Murray Deed Path (Now Closed)
 
-**Goal:** Determine whether John Murray or another Murray household anchored the Lewis County Irish Catholic settlement before Michael and Patrick Copley's 1843 land purchase.
+**Goal:** Preserve the direct John Murray deed results cleanly and shift active browser work to the Lewis County FAN sweep now that the direct deed path has closed.
 
 **Primary pages:** [[RQ-M1-JOHN-MURRAY-DEED-FINDINGS|RQ-M1 John Murray Deed Findings]], [[Topics/Murray Settlement]], [[People/Ann Copley]], [[Sources and Evidence Index]]
 
@@ -48,13 +48,14 @@ When a search produces a record, a negative result, or a corrected claim:
 - Variant spellings to check: Murray, Murry, Murrey, Murroe, Murrow, Marree
 - Negative check already recorded: compiled Grantor Index M-S, DGS 8293317, image 60, did not show clear Murray between Munson and Musgrave
 - Exact-surname Murray grantee search already recorded: DGS 8293314 exact Murray entries appear only on images 553-554 and are dated 1865-1934
+- Former 1833 John Murray lead retired: actual record is a **1899** oil and gas lease to **Fred S. Rich** in DGS 008293302
 
 ### Current Highest-Value Claude for Chrome Task
 
-For a single bounded Claude-for-Chrome session, the highest-value next task is the remaining **1833 John Murray** lead. This is now the only surviving direct early-deed target in the Murray Settlement workflow, and it offers the best expected return per session because it could either:
+For a single bounded Claude-for-Chrome session, the highest-value next task is the **1860 Lewis County FAN sweep** around the Copley / Murray / Dolan / Hanley / Hannon cluster. The 1850 pass is now complete and found the Coopleys early but no broader Irish surname cluster, so the next best expected-return step is the first census where Dolans and other associated families are likely to appear.
 
-- produce the last missing early Murray deed body, or
-- close out the final direct John Murray deed path as another misindex / dead end
+- This can reveal whether the settlement families actually begin clustering together by 1860, rather than only appearing later in narrative tradition and deed context.
+- It also tests whether the 1850 isolation of the Coopleys was temporary or whether the settlement framework only becomes visible in the 1850s.
 
 Use this exact prompt:
 
@@ -62,109 +63,94 @@ Use this exact prompt:
 Do one narrow research task only. Do not browse broadly and do not do any repo work.
 
 Goal:
-Resolve the remaining Lewis County John Murray deed lead currently carried as:
-- John Murray
-- 1833
-- FamilySearch index entry already noted in project notes
-- DGS 008293302, image 24 was previously cited as the index location
+Run the next bounded Lewis County FAN-sweep session for the Murray Settlement question.
 
 Known context:
 - The old “1826 John Murray / Fred L. Fish” lead is already closed: it is actually an 1899 oil-and-gas lease.
-- The built-in Deed Book C-D “Marwee” path is also retired from Murray-specific work.
-- So this session is only about the remaining “1833 John Murray” entry.
-- Do not work on Marwee, Sawig, page 334, page 404, or the Murray/Fish lease in this session.
+- The old “1833 John Murray” lead is also closed: it is actually an 1899 oil-and-gas lease to Fred S. Rich.
+- The built-in Deed Book C-D “Marwee” path is retired from Murray-specific work.
+- So this session should shift from deed-hunting to census-neighbor research.
+- This session is only about the 1860 Lewis County census.
+- Do not work on deeds, Marwee, page 334, page 404, or later deed books in this session.
 
 Your task:
-1. Open the FamilySearch index result for the 1833 John Murray entry.
-2. Capture the exact indexed details as shown:
-   - name
-   - counterparty
-   - role wording
-   - date/year
-   - page
-   - book if shown
-   - film/DGS title
-3. Verify the actual film title and date range, because the earlier Murray/Fish lead proved that FamilySearch computer dates can be wrong.
-4. Determine whether this is truly an 1833 deed or another misindexed later record.
-5. If possible, locate the actual deed body from the book/page reference.
-6. If the deed continues across multiple pages, follow only as far as needed to capture the full instrument.
-7. Stop after this one deed.
+1. Search the 1860 Lewis County, Virginia census for these surnames and close variants:
+   - Copley / Copely
+   - Murray / Murry / Murrey
+   - Dolan
+   - Hanley
+   - Hannon
+   - Gillooly / Gilhooly
+   - Mullooly
+   - Reynolds
+   - Mulroney
+   - Mahon
+   - Munday / Monday / Mundy
+2. Capture every relevant hit in Lewis County in 1850.
+3. For the strongest target households — especially any Copley/Copely household, any Murray household, and any Irish-origin settlement-family household — capture 10 to 15 households before and after on the census image.
+4. Record district / locality wording exactly as shown.
+5. Note whether the cluster looks like Court House District / Weston-area, Cove Lick / Camden / Loveberry-adjacent, or not clear.
+6. Stop after 1860 only. Do not expand to 1840, 1850, or 1870 in this session.
 
 Capture this exact output format:
 
-INDEX ENTRY
-- DGS / collection:
-- Film title as shown:
-- Index image number:
-- Direct URL:
-- Exact indexed name:
-- Exact counterparty:
-- Exact role wording:
-- Exact year/date:
-- Exact book:
-- Exact page:
-- Confidence that this is the correct remaining John Murray lead:
+SEARCH SCOPE
+- Collection / website:
+- Census year:
+- County / state:
+- Search terms used:
+- Any obvious indexing problems:
 
-FILM / DATE CHECK
-- Does the film title fit an 1833 deed?:
-- If not, explain the mismatch:
-- Does this look like another computer-indexing error?:
+HOUSEHOLD HITS
+- For each relevant household:
+  - Indexed name:
+  - Written name:
+  - Surname category:
+  - Location / district:
+  - Household summary:
+  - Birthplaces:
+  - Occupation:
+  - Page / image / URL:
 
-DEED LOCATION
-- Deed-book DGS:
-- Deed-book title:
-- Image number(s):
-- Direct URL(s):
-- Physical page(s):
-- Was the deed body located?:
-
-DEED DETAILS
-- Date written:
-- Date recorded:
-- Grantor(s):
-- Grantee(s):
-- Type of instrument:
-- Acreage:
-- Price/consideration:
-- Watercourse / location:
-- Nearby names / neighbors:
-- Witnesses:
-- Clerk / official:
-
-SHORT ABSTRACT
-- 3 to 8 bullets with the substance of the deed
+NEIGHBOR CLUSTERS
+- For each strongest target household:
+  - Target household:
+  - Previous neighbor surnames:
+  - Following neighbor surnames:
+  - Irish / Catholic clues:
+  - Land-associate clues:
+  - Cluster interpretation:
 
 RQ-M1 INTERPRETATION
-- Is this truly a pre-1843 Lewis County John Murray record, or not?
-- Does this place John Murray in Lewis County before 1843?
-- Is the land near Cove Lick / Camden / Loveberry / St. Michael’s, or not clear?
-- Does this strengthen, weaken, or close out the Murray-anchor question?
+- Do the 1860 named households support a Murray-centered settlement cluster, or not yet?
+- Do the Copleys appear near Murray / Dolan / Hanley / Hannon / related surnames, or not?
+- Does the census point more toward a Court House District / Weston cluster, a Cove Lick / Camden / Loveberry cluster, or neither?
+- Does this strengthen, weaken, or leave unchanged the Murray Settlement framework?
 
 FAILURE MODE
 - If you cannot fully resolve it, state exactly why:
-  - index only, deed book not identified
-  - date appears misindexed
-  - deed page not found
+  - no relevant households found
+  - indexing too poor
   - image unreadable
-  - continuation missing
-  - wrong John Murray
+  - district/location unclear
+  - neighbor capture incomplete
   - other exact issue
 
 Rules:
 - Be conservative.
-- Do not assume the indexed year is correct.
-- Verify the film title before trusting the date.
+- Record exact written names, not just indexed names.
+- Preserve negative results too.
 - Do not do any repo editing.
-- Stop after this one deed.
+- Stop after 1860 only.
 ```
 
 ### Request Template: Lewis County Clerk / FamilySearch Helper
 
-Subject: Lewis County WV deed lookup request - John Murray, 1833
+Subject: Lewis County WV deed lookup request - John Murray variants and early settlement context
 
 Hello,
 
-I am researching early Lewis County land records connected to the Irish Catholic settlement near Cove Lick / Camden / Loveberry. I am looking for the remaining early deed entry involving John Murray in 1833.
+I am researching early Lewis County land records connected to the Irish Catholic settlement near Cove Lick / Camden / Loveberry. The direct FamilySearch John Murray deed leads formerly indexed as 1826 and 1833 have now both proved to be 1899 oil-and-gas lease misindexes, so I am now looking for any independent pre-1843 Murray land entries or variant-surname deed records in Lewis County.
 
 Could you please help identify or provide copies/transcriptions for any deed-book entries matching:
 
@@ -172,7 +158,7 @@ Could you please help identify or provide copies/transcriptions for any deed-boo
 - County: Lewis County, Virginia / West Virginia
 - Date range: 1820-1840, with priority on 1833
 - Record type: deed, land purchase, land sale, lease, or related land instrument
-- Specific FamilySearch targets: compiled grantee index image 553 partially blocked 1865 Murray rows, the remaining 1833 John Murray deed body, and any independent Murray-variant index path outside the retired built-in M-index line
+- Specific FamilySearch targets: compiled grantee index image 553 partially blocked 1865 Murray rows, and any independent pre-1843 Murray-variant index path outside the retired built-in M-index line
 
 For each matching record, I am hoping to capture the book/page, date, grantor, grantee, acreage, price, watercourse or land description, neighbors, witnesses, and any index references.
 
@@ -205,7 +191,7 @@ Thank you for any guidance on the correct deed book, index, image, or copy-reque
 ### Evidence Questions
 
 - Does the land fall near Cove Lick, Camden, Loveberry, St. Michael's, or the later Copley parcel?
-- Does the exact-surname grantee-index evidence stay late (1865+) while earlier pre-1843 Murray evidence survives only in the remaining 1833 deed body or some other independent index path?
+- Does the exact-surname grantee-index evidence stay late (1865+) while earlier pre-1843 Murray evidence survives only under some independent Murray-variant index path?
 - Does the deed show Murray settlement before the Copley 1843 Hoffman deed?
 - Do witnesses or neighbors include Copley, Dolan, Hanley, Gillooly, Hannon, Reynolds, Mullooly, Mulroney, or Mahon?
 - Does any record connect Murray land to Ann Copley / Ann Munday / likely Murray?

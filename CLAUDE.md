@@ -158,6 +158,13 @@ If a diagram cannot be updated because the relationship is still uncertain, add 
 - Mention section names in prose when a specific section changed (e.g., "Section 13 of [[Topics/Captain John Copley Research|Captain John Copley Research]]")
 - Prefer `[[People/Full Name|Display Name]]` over bare names so readers can navigate directly from the changelog
 
+### AI-forwarded family emails and source leads
+- Treat family emails that forward AI research sessions as **research leads**, not proof, unless the message includes an original record image, archive citation, transcript, or firsthand family testimony.
+- Preserve the lead in `References/` with a clear evidence caution before spreading it into narrative pages.
+- Do not convert AI-generated parentage, land, parish, Tithe, Griffith's Valuation, or estate assertions into fact without checking the underlying source.
+- Current example: `References/Thomas Copley May 2026 Email Leads.md` preserves Tom Copley's May 2026 emails about the unresolved John Copley + Sarah Dolan parentage hypothesis and the possible Bridget-line family Bible / Lewis County probate lead.
+- When a source-lead note creates a new proof path, update the affected person/place/topic pages, `Sources and Evidence Index.md`, `Research Priorities and Action Items.md`, `Search Index.md`, `CHANGELOG.md`, and `.agents/AGENT_RESUME.md` in the same edit.
+
 ### Person page structure
 ```markdown
 # Full Name (birth–death or b. YYYY)
@@ -366,6 +373,7 @@ See `Phase 1 Questions and Answers.md` for the full list. Key unresolved questio
 | Q19 | Michael Copley Sr. naturalization record | Not found |
 | Q20 | John & Mary Ellen marriage date/place | Inferred only |
 | Q22 | Dolan family reconstruction | Sparse |
+| Q22a | John Copley + Sarah Dolan as Michael Copley Sr.'s parents | Unresolved; Tom Copley's May 2026 emails preserve a lead, not proof |
 | Q23 | "Tom" at Chancellorsville identity | No documentary chain |
 | Q28 | John Copley's Civil War service | No conclusive proof |
 | Q33–35 | Living family biographical sketches | Incomplete (Stephen line) |
@@ -417,24 +425,23 @@ Tom proposes that some or all Protestant Copleys (Bredon, Woolbedding lines) may
 
 **Progress to Date:**
 
-✅ **Index Entries Located via FamilySearch:**
-- **1826 Murray/Fish** — Index page 39, early Lewis County deed book (FamilySearch DGS 008293302, Image 17, ARK `/ark:/61903/1:1:6X4N-WJ51`)
-- **1833 John Murray** — Index entry confirmed (FamilySearch DGS 008293302, Image 24)
+✅ **Former deed leads resolved:**
+- **1826 Murray/Fish** — now confirmed as a FamilySearch OCR error; actual record is an **1899** oil-and-gas lease
+- **1833 John Murray** — now confirmed as a second OCR error; actual record is an **1899** oil-and-gas lease to Fred S. Rich
 
-⏳ **Deed Text Pending:**
-- Actual deed pages for both entries still being located in FamilySearch collection DGS 008293301 (Lewis. Deed Books 1808–1902, 680 images)
-- Collection is organized reverse-chronologically; earliest deed books likely in images 500–680
-- Page-to-image offset varies by section and must be determined empirically
+🔄 **Current RQ-M1 workstream:**
+- Direct John Murray deed hunting is exhausted for now
+- The live Lewis County task is the census-neighbor / FAN-club path
+- The completed **1850** pass found the Coopleys in **District 30**, but no broader Irish surname cluster and no Irish-born Murray household
 
 **Next Steps:**
-1. Navigate DGS 008293301 to locate page 39 (1826 deed)
-2. Extract grantor/grantee, property description, location (Cove Lick area?), consideration
-3. Locate and extract 1833 John Murray deed
-4. Compare transaction dates and property locations to 1843 Copley/Hoffman deed
+1. Run the **1860 Lewis County FAN sweep**
+2. Compare the first appearance and clustering of Dolan, Hanley, Hannon, and related surnames
+3. Keep working the Kinawley Murray-household question and any independent non-Marwee Murray-variant evidence
 
 **Key Finding Threshold:**
-- If both Murray deeds predate 1843 AND are in Cove Lick/Camden/Loveberry area → **Strong evidence Murrays arrived first and anchored the settlement**
-- If deeds post-1843 or different area → Complicates anchor family hypothesis
+- If the 1860-plus FAN sweep shows Copley / Murray / Dolan / Hanley / Hannon clustering in the expected Lewis County zone, the Murray Settlement framework gains stronger support even without a pre-1843 John Murray deed
+- If those surnames still fail to cluster, the anchor-family model weakens and may need to be reframed
 
 **Detailed Research Brief:** See [[RQ-M1-LEWIS-COUNTY-DEED-SEARCH|RQ-M1 Lewis County Deed Search]] for FamilySearch technical details, navigation strategy, and required data format for deed records.
 
@@ -489,6 +496,7 @@ Identify Ann's Murray father. Start with the Kinawley Griffith male heads: Patri
 - Do not use "Brian Bird" — it's Bryan Bird
 - Do not conflate Thomas E. Copley (1892–1968, G24) with Thomas Partlow Copley (b.1944, G25)
 - Do not conflate Michael Copley Sr. (1813–1897) with Michael Joseph Copley (1898–1988) with Michael Copley (b.1959)
+- Do not state John Copley and Sarah Dolan were Michael Copley Sr.'s parents as fact unless a direct or near-direct record is found. Keep it framed as an unresolved hypothesis.
 
 ---
 

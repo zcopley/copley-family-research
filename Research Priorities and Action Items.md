@@ -20,8 +20,8 @@ This is the public research operating list for the Copley family wiki. Use [[Sou
 | Area | Current Status | Best Next Action |
 |---|---|---|
 | Ann Munday / likely Murray | Strong working conclusion; direct identity record still missing. | Identify Ann's Kinawley Murray household and keep searching for a direct marriage, passenger, church, or child death record. |
-| Murray Settlement | Plausible high-value framework for the Lewis County Irish Catholic cluster; the exact-surname grantee search is complete, physical pages 334 and 404 are confirmed mismatches, the former "Marwee Sawig" line has been retired as non-Murray, and the old 1826 Murray/Fish lead is now closed as a 1899 oil-and-gas lease misindex. | Recover the remaining 1833 deed body first, then complete the settlement FAN sweep. |
-| Michael Copley Sr. origins | Kilgefin / Fairymount remains the strongest working origin. | Connect the documented Fairymount Copely family to Michael through parish, civil, or collateral records. |
+| Murray Settlement | Plausible high-value framework for the Lewis County Irish Catholic cluster; the exact-surname grantee search is complete, physical pages 334 and 404 are confirmed mismatches, the former "Marwee Sawig" line has been retired as non-Murray, the old 1826 Murray/Fish and 1833 John Murray leads are now both closed as 1899 oil-and-gas lease misindexes, and the 1850 FAN sweep found the Coopleys early but no broader Irish surname cluster. | Continue the FAN sweep with 1860, then keep working the Kinawley Murray-household question. |
+| Michael Copley Sr. origins | Kilgefin / Fairymount remains the strongest working origin; John Copley + Sarah Dolan remains an unresolved parentage hypothesis. | Connect the documented Fairymount Copely family to Michael through parish, civil, or collateral records, and test the May 2026 family Bible / Lewis County probate lead. |
 | Mary Copely Giblin / Iowa branch | Verified person; relationship to Michael is plausible but unproven. | Build the Iowa descendant chain and identify Stephen Donald Copley's parents. |
 | Copley No. 1 oil strike | Oil-strike context is verified; family financial effect remains plausible. | Locate lease, royalty, title-chain, probate, and estate records for 1899-1925. |
 | Bredon / Captain John descent | Valuable origin hypothesis, not proven generation-by-generation. | Seek the missing Irish bridge from Captain John Copley to the 19th-century Roscommon Copelys. |
@@ -34,22 +34,23 @@ This is the public research operating list for the Copley family wiki. Use [[Sou
 
 The highest-impact items below have practical templates in [[Tier 1 Research Execution Kit]].
 
-### 1. Resolve the Remaining Early John Murray Deed Lead
+### 1. Shift from Closed Deed Leads to the Settlement FAN Sweep
 **Relevance:** [[Topics/Murray Settlement|Murray Settlement]], [[People/Ann Copley|Ann Copley]], [[Sources and Evidence Index]]  
-**Impact:** HIGH - The remaining early deed could still show whether a Murray family anchored the settlement before Michael and Patrick Copley purchased land in 1843.  
-**Research Status:** Narrowed. The former **1826 Murray / Fish** lead is now closed as a **1899** oil-and-gas lease misindex. The compiled Grantor Index M-S check did not show a clear Murray entry between Munson and Musgrave, the compiled exact-surname Grantee Index G-M search is now complete with only 1865-1934 Murray entries on images 553-554, physical pages 334 and 404 in Deed Book C-D are confirmed mismatches, and the former "Marwee Sawig" line has now been retired as non-Murray. Findings belong in [[RQ-M1-JOHN-MURRAY-DEED-FINDINGS|RQ-M1 John Murray Deed Findings]].
+**Impact:** HIGH - The direct deed path is now exhausted, so the best remaining way to test the settlement framework in Lewis County is the named-household and neighbor-cluster record trail.
+**Research Status:** The former **1826 Murray / Fish** lead is now closed as a **1899** oil-and-gas lease misindex. The former **1833 John Murray** lead is also now closed as a **1899** oil-and-gas lease misindex. The compiled Grantor Index M-S check did not show a clear Murray entry between Munson and Musgrave, the compiled exact-surname Grantee Index G-M search is now complete with only 1865-1934 Murray entries on images 553-554, physical pages 334 and 404 in Deed Book C-D are confirmed mismatches, and the former "Marwee Sawig" line has now been retired as non-Murray. Findings belong in [[RQ-M1-JOHN-MURRAY-DEED-FINDINGS|RQ-M1 John Murray Deed Findings]].
 
-**Current execution priority:** For a single browser-based research session such as Claude for Chrome, the highest-value next move is the **1833 John Murray** lookup. It is the best expected-return microtask because it could either recover the last direct early Murray deed body or close out that final direct path cleanly.
+**Current execution priority:** For a single browser-based research session such as Claude for Chrome, the highest-value next move is the **1860 Lewis County FAN sweep**. The 1850 pass is now complete and shows the Coopleys without the broader Irish cluster, so 1860 is the clearest next test of when Dolans and other associated families enter the Lewis County picture.
 
 **How to proceed:**
 - Treat the exact-surname Grantee Index G-M search as complete for **Murray** and preserve its negative pre-1843 result.
-- Preserve the old **1826 Murray / Fish** slot as a controlled misindex: actual record = **1899** oil and gas lease.
+- Preserve the old **1826 Murray / Fish** and **1833 John Murray** slots as controlled misindexes: both actual records are **1899** oil and gas leases.
 - Preserve physical pages 334 and 404 as controlled mismatches, not live direct deed targets.
 - Verify the partially blocked 1865 Murray rows on compiled grantee index image 553 if the toolbar can be bypassed.
-- Acquire or transcribe the remaining **1833** John Murray deed image from Lewis County records.
-- Capture date, grantor, grantee, acreage, price, watercourse, neighbors, witnesses, and legal description.
-- Compare locations to the 1843 Hoffman-Copley deed and Cove Lick / Camden / Loveberry area.
-- Add the citation, transcript, and interpretation to [[RQ-M1-JOHN-MURRAY-DEED-FINDINGS|RQ-M1 John Murray Deed Findings]], then update [[Topics/Murray Settlement]], [[Sources and Evidence Index]], and [[People/Ann Copley]] if the deeds identify settlement leadership or Ann's possible kin.
+- Preserve the completed 1850 FAN-sweep result: Coopleys in District 30, no Irish-born Murray household, and no Dolan / Hanley / Hannon-type cluster yet visible in Lewis County.
+- Run the 1860 Lewis County FAN sweep next, then expand to 1840 or 1870 if needed.
+- Capture exact written names, districts, household composition, birthplaces, occupations, and 10-15 neighboring households around the strongest targets.
+- Compare the resulting cluster to the 1843 Hoffman-Copley deed area and the Cove Lick / Camden / Loveberry / St. Michael's framework.
+- Add the citation, transcript, and interpretation to [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]], then update [[Topics/Murray Settlement]], [[Sources and Evidence Index]], and [[People/Ann Copley]] if the cluster materially changes the case.
 
 ---
 
@@ -93,7 +94,21 @@ The highest-impact items below have practical templates in [[Tier 1 Research Exe
 
 ---
 
-### 5. Prove or Limit the Oil-Wealth Education Hypothesis
+### 5. Test the Michael Copley Parentage / Family Bible Lead
+**Relevance:** [[People/Michael Copley Sr|Michael Copley Sr.]], [[People/Bridget Copley Reynolds|Bridget Copley Reynolds]], [[Dolan Family]], [[References/Thomas Copley May 2026 Email Leads|Thomas Copley May 2026 Email Leads]]
+**Impact:** HIGH - A Bible extract, probate exhibit, heirship affidavit, or court filing naming Michael's parents would directly attack the oldest immigrant-generation gap.
+**Research Status:** Open; Tom Copley's May 2026 emails preserve the lead, but the lead is not yet evidence.
+
+**How to proceed:**
+- Search Lewis County probate, chancery, estate, and oil-title files after Michael Copley Sr.'s January 1897 death for family Bible extracts, heirship schedules, and affidavits.
+- Search the "Michael Copley Heirs" oil-lease and title-chain records for filings that required proof of lineage.
+- Build [[People/Bridget Copley Reynolds|Bridget Copley Reynolds]] forward through Reynolds records to identify whether a Bible, transcript, or inherited correspondence could survive in that line.
+- Keep **John Copley + Sarah Dolan** framed as an unresolved hypothesis until a direct or near-direct record is found.
+- If a Bible or probate record appears, update [[Sources and Evidence Index]], [[People/Michael Copley Sr]], [[Dolan Family]], [[Family Tree]], and [[The Copley Family Narrative]] in the same edit.
+
+---
+
+### 6. Prove or Limit the Oil-Wealth Education Hypothesis
 **Relevance:** [[Topics/1900 Copley Oil Strike|1900 Copley Oil Strike]], [[People/John Copley|John Copley]], [[The Copley Family Narrative]]  
 **Impact:** MEDIUM-HIGH - This would clarify whether the family farm's oil strike materially supported later education and professional mobility.  
 **Research Status:** Open; the oil strike is verified, but lease and financial effects remain unresolved.
@@ -104,7 +119,7 @@ The highest-impact items below have practical templates in [[Tier 1 Research Exe
 - Cross-check timing against education and relocation milestones for John and Mary Ellen's children.
 - Keep the narrative cautious unless direct financial evidence appears.
 
-### 6. Prove the Partlow Revolutionary Line
+### 7. Prove the Partlow Revolutionary Line
 **Relevance:** [[People/Marion Elizabeth Partlow|Marion Elizabeth Partlow]], [[People/Benjamin Partlow|Benjamin Partlow]], [[RQ-P1-PARTLOW-REVOLUTIONARY-LINE|RQ-P1 Partlow Revolutionary Line]]  
 **Impact:** MEDIUM-HIGH - This would document Marion's paternal line back to a Revolutionary War veteran and clarify the family's Virginia-to-Illinois migration path.  
 **Research Status:** Open; plausible line identified, with online census support for Marion McDonald Partlow as a child of John Halleck / Hallick Partlow and family-manuscript support for the full line.
@@ -123,7 +138,7 @@ The highest-impact items below have practical templates in [[Tier 1 Research Exe
 
 ## Tier 2 - Strong Supporting Work
 
-### 7. Verify St. Michael's Church and Turnpike Context
+### 8. Verify St. Michael's Church and Turnpike Context
 **Relevance:** [[Topics/Murray Settlement|Murray Settlement]], [[Topics/B&O Railroad Labor History|B&O Railroad Labor History]]  
 **Impact:** MEDIUM-HIGH - These records would strengthen the infrastructure-labor and Catholic-settlement context without overstating named B&O employment.
 
@@ -134,7 +149,7 @@ The highest-impact items below have practical templates in [[Tier 1 Research Exe
 
 ---
 
-### 8. Connect Fairymount Copelys to Michael Copley Sr.
+### 9. Connect Fairymount Copelys to Michael Copley Sr.
 **Relevance:** [[Topics/Captain John Copley Research|Captain John Copley Research]], [[Topics/Bredon Descent|Bredon Descent]], [[Places/Kilgefin Ireland|Kilgefin, Ireland]]  
 **Impact:** MEDIUM-HIGH - A direct link to the documented Fairymount Copely family would improve the Irish-origin proof trail.
 
@@ -145,7 +160,7 @@ The highest-impact items below have practical templates in [[Tier 1 Research Exe
 
 ---
 
-### 9. Maintain the Bredon / Captain John Evidence Trail
+### 10. Maintain the Bredon / Captain John Evidence Trail
 **Relevance:** [[Topics/Bredon Descent|Bredon Descent]], [[Topics/Captain John Copley Research|Captain John Copley Research]], [[Topics/Copley Family Catholicism|Copley Family Catholicism]]  
 **Impact:** MEDIUM - This remains a valuable long-range hypothesis, but it should not outrank the immigrant-generation proof targets.
 
@@ -156,7 +171,7 @@ The highest-impact items below have practical templates in [[Tier 1 Research Exe
 
 ---
 
-### 10. Deepen Stephen Line Documentation With Consent
+### 11. Deepen Stephen Line Documentation With Consent
 **Relevance:** [[People/Stephen Michael Copley|Stephen Michael Copley]], [[Family Tree]], [[People/People Directory|People Directory]]  
 **Impact:** MEDIUM - This would balance the modern family coverage with the Tom line, but living-person privacy controls matter.
 

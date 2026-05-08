@@ -102,9 +102,12 @@ timeline
 3. **Naturalization (Q19):** Date, court, and certificate details unknown.
 4. **B&O service detail (Q16/Q17):** Specific payroll/crew records not yet located.
 5. **Death-date discrepancy:** 18 Jan vs 19 Jan 1897 across derivative narratives.
+6. **Family Bible / probate lead:** Tom Copley's May 2026 email reports an unverified AI suggestion that a Copley family Bible in [[Bridget Copley Reynolds|Bridget Copley's]] line, or a Lewis County probate filing citing that Bible, may name Michael's parents as John and Sarah. Treat this as a high-value lead, not evidence. See [[References/Thomas Copley May 2026 Email Leads|Thomas Copley May 2026 Email Leads]].
 
 ## Acquisition Strategy
 - **Irish parish registers (NLI):** Systematic baptism search c.1808-1820 in Kilgefin and nearby Roscommon parishes for Michael + siblings.
+- **Lewis County probate / Bible path:** Search probate, estate, chancery, heirship, and oil-lease title files after Michael's 1897 death for family Bible extracts, heirship affidavits, or filings naming his parents.
+- **Collateral descendants:** Identify descendants of [[Bridget Copley Reynolds|Bridget Copley Reynolds]] and ask whether any family Bible, transcript, probate packet, or inherited correspondence survives.
 - **Naturalization search by corridor:** County/state courts in MD/VA/WV aligned to B&O routes; extract occupation and arrival data.
 - **Marriage targeting:** Catholic sacramental records and civil records in Potomac-adjacent communities (Harpers Ferry–Cumberland corridor).
 - **Railroad records:** Investigate B&O archival holdings and local historical collections for labor/contractor references.
@@ -116,3 +119,4 @@ timeline
 3. [[copley_research_findings]] (`/home/ubuntu/copley_research_findings.md`) — reliability and research strategy framework.
 4. Powhatan manifest reference via findings synthesis (NARA microfilm pathway).
 5. B&O historical context: https://www.wvencyclopedia.org/entries/830
+6. [[References/Thomas Copley May 2026 Email Leads|Thomas Copley May 2026 Email Leads]] — family-correspondence lead for possible Bridget-line Bible / Lewis County probate proof path; unverified.

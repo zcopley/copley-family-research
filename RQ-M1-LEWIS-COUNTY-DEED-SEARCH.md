@@ -169,7 +169,7 @@ graph TB
 
 | Question | Status | Implication |
 |---|---|---|
-| **RQ-M1: Did Murrays buy land first?** | ⏳ Pending deed text | If yes → confirms anchor family hypothesis |
+| **RQ-M1: Did Murrays buy land first?** | 🔄 Direct deed path closed; FAN sweep active | Settlement case now depends on indirect clustering, variant evidence, and later corroboration |
 | **RQ-M5: Was Ann "Munday" actually Ann "Murray"?** | 🔄 In progress (Phase 2M) | If yes → Michael Sr. married into anchor family |
 | **RQ-M7: How many Murray families in Lewis County?** | ⏳ Pending FAN sweep | More than one → supports chain migration |
 
@@ -177,12 +177,9 @@ graph TB
 
 ## For Next Researcher
 
-The index entries (1826 Murray/Fish, 1833 John Murray) are **promising leads**. Both predate the 1843 Copley/Hoffman reference deed, suggesting Murrays may have arrived earlier. 
+These navigation notes remain useful for understanding the FamilySearch film structure, but the old **1826 Murray/Fish** and **1833 John Murray** leads are no longer live. Both are now confirmed **1899** oil-and-gas lease misindexes, not pre-1843 deeds.
 
-**Priority action:** Locate images 500–680 of DGS 008293301 and find page 39. The deed text should resolve whether:
-- Murrays were **purchasing** land (establishing settlement) or **selling** land (leaving area)
-- The property was in the **Cove Lick/Camden/Loveberry cluster** (geographic match to settlement)
-- Multiple Murrays were transacting in the area (supporting chain migration model)
+**Priority action now:** Use [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]] as the active Lewis County workstream. The 1850 pass is complete, and the next bounded step is the **1860 Lewis County FAN sweep** to test when the broader Irish surname cluster first becomes visible.
 
 If the digitized images don't contain page 39, contact Lewis County Courthouse directly — they hold the original deed books and can provide certified copies.
 

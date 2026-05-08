@@ -16,11 +16,11 @@ tags:
 
 # RQ-M1 John Murray Deed Findings
 
-This page is the findings log for the early John Murray deed leads in Lewis County, Virginia / West Virginia. It now also captures the April 28 through May 1, 2026 Claude for Chrome FamilySearch deed-index passes summarized in [[References/Claude for Chrome Lewis County Deed Research Brief|Claude for Chrome Lewis County Deed Research Brief]], [[References/Claude for Chrome Lewis County Murray Grantee Search|Claude for Chrome Lewis County Murray Grantee Search]], [[References/Claude for Chrome Lewis County Deed Book C-D Page 404 Check|Claude for Chrome Lewis County Deed Book C-D Page 404 Check]], [[References/Claude for Chrome Lewis County Deed Book C-D Page 334 Check|Claude for Chrome Lewis County Deed Book C-D Page 334 Check]], [[References/Claude for Chrome Lewis County Built-in M Index Marwee Sawig Check|Claude for Chrome Lewis County Built-in M Index Marwee Sawig Check]], and [[References/Claude for Chrome Lewis County John Murray Fred L Fish Lease Check|Claude for Chrome Lewis County John Murray Fred L Fish Lease Check]].
+This page is the findings log for the early John Murray deed leads in Lewis County, Virginia / West Virginia. It now also captures the April 28 through May 8, 2026 Claude for Chrome FamilySearch deed-index passes summarized in [[References/Claude for Chrome Lewis County Deed Research Brief|Claude for Chrome Lewis County Deed Research Brief]], [[References/Claude for Chrome Lewis County Murray Grantee Search|Claude for Chrome Lewis County Murray Grantee Search]], [[References/Claude for Chrome Lewis County Deed Book C-D Page 404 Check|Claude for Chrome Lewis County Deed Book C-D Page 404 Check]], [[References/Claude for Chrome Lewis County Deed Book C-D Page 334 Check|Claude for Chrome Lewis County Deed Book C-D Page 334 Check]], [[References/Claude for Chrome Lewis County Built-in M Index Marwee Sawig Check|Claude for Chrome Lewis County Built-in M Index Marwee Sawig Check]], [[References/Claude for Chrome Lewis County John Murray Fred L Fish Lease Check|Claude for Chrome Lewis County John Murray Fred L Fish Lease Check]], and [[References/Claude for Chrome Lewis County John Murray 1833 Misindex Check|Claude for Chrome Lewis County John Murray 1833 Misindex Check]].
 
-**Current status:** The supposed **1826 Murray / Fish** lead is now closed as a FamilySearch computer-indexing error: it is actually an **1899** John Murray -> Fred L. Fish oil-and-gas lease. The compiled grantee index exact-surname Murray search is complete and produced only later entries dated 1865-1934. The built-in Deed Book C-D M-index path is now retired from the Murray investigation: physical **page 334** and physical **page 404** are both confirmed mismatches, and the formerly live **"Marwee Sewig"** line now reads best as **"Marwee Sawig" -> John Simpson**, not a Murray-variant entry. The remaining direct early deed target is now the **1833 John Murray** entry. Use [[Tier 1 Research Execution Kit]] for the request and transcription template.
+**Current status:** The supposed **1826 Murray / Fish** lead is now closed as a FamilySearch computer-indexing error: it is actually an **1899** John Murray -> Fred L. Fish oil-and-gas lease. The supposed **1833 John Murray** lead is now also closed as a FamilySearch computer-indexing error: it is actually an **1899** John Murray -> Fred S. Rich oil-and-gas lease. The compiled grantee index exact-surname Murray search is complete and produced only later entries dated 1865-1934. The built-in Deed Book C-D M-index path is now retired from the Murray investigation: physical **page 334** and physical **page 404** are both confirmed mismatches, and the formerly live **"Marwee Sewig"** line now reads best as **"Marwee Sawig" -> John Simpson**, not a Murray-variant entry. The direct John Murray deed path is now exhausted.
 
-**Operational note:** For a single Claude-for-Chrome session, the repo now treats the **1833 John Murray** lookup as the highest-value remaining Murray task. It is the best expected-return microtask because it could either recover the last direct early-deed lead or close that path cleanly.
+**Operational note:** The highest-value next Claude-for-Chrome work should now shift away from direct John Murray deed hunting and onto the Lewis County FAN sweep, beginning with the 1850 census cluster around Copley, Murray, Dolan, Hanley, Hannon, Gillooly, Reynolds, Mullooly, Mulroney, Mahon, and associated land surnames.
 
 ## Research Question
 
@@ -33,27 +33,27 @@ This matters because an early Murray land record near Cove Lick, Camden, Loveber
 | Lead | Current Evidence | Status | Next Action |
 |---|---|---|---|
 | Murray / Fish entry formerly carried as 1826 | FamilySearch index entry at DGS 008293302, image 17, page 39; follow-up note confirms the structured "1826" date is a computer misread and the actual record is a **1899 oil and gas lease**. | Closed negative lead for RQ-M1. | Preserve as a controlled misindex; do not treat as pre-1843 Murray evidence. |
-| 1833 John Murray entry | FamilySearch index entry; DGS 008293302, image 24. | Index confirmed; deed text not yet located. | Capture book/page details and locate the corresponding deed text. |
+| 1833 John Murray entry | FamilySearch index entry at DGS 008293302, image 24; follow-up note confirms the structured "1833" date is a computer misread and the actual record is a **1899** oil and gas lease to Fred S. Rich. | Closed negative lead for RQ-M1. | Preserve as a controlled misindex; do not treat as pre-1843 Murray evidence. |
 | Deed Book C-D built-in M index | DGS 8219256, image 10, right page; old "Marwee" entries on pages 334, obscured 3??, and 404 have now been rechecked through follow-up notes. The 3?? line reads best as **Marwee Sawig -> John Simpson**, while pages 334 and 404 are controlled mismatches. | Retired as Murray evidence. | Preserve as a closed negative path; do not treat the built-in M index as an active Murray lead unless a new independent reading emerges. |
 | Compiled Grantor Index M-S negative check | DGS 8293317, image 60; no clear Murray entry between Munson and Musgrave. | Negative finding for compiled grantor index position. | Keep as a negative control while evaluating variant spellings and deed-book targets. |
-| Compiled Grantee Index G-M exact Murray search | DGS 8293314, all 558 images; exact Murray entries reported only on images 553-554, all dated 1865-1934. | Search complete for exact Murray; no pre-1843 exact Murray grantee entry found in this compiled index. | Verify the partially blocked 1865 rows, then prioritize the remaining 1833 lead and any separate non-Marwee variant search. |
+| Compiled Grantee Index G-M exact Murray search | DGS 8293314, all 558 images; exact Murray entries reported only on images 553-554, all dated 1865-1934. | Search complete for exact Murray; no pre-1843 exact Murray grantee entry found in this compiled index. | Verify the partially blocked 1865 rows, then shift to FAN sweep and any separate non-Marwee variant search. |
 
 ## Current Claude for Chrome Microtask
 
-If a fresh Claude-for-Chrome session is available, send it after the **1833 John Murray** entry before any broader FAN sweep or variant-deed browsing. The exact repo prompt is preserved in [[Tier 1 Research Execution Kit]] under `Current Highest-Value Claude for Chrome Task`.
+If a fresh Claude-for-Chrome session is available, send it after the completed **1850 Lewis County FAN sweep** and have it run the **1860 Lewis County FAN sweep** before any broader 1840/1870 expansion. The exact repo prompt is preserved in [[Tier 1 Research Execution Kit]] under `Current Highest-Value Claude for Chrome Task`.
 
 Success for that task means one of two things:
 
-- the 1833 entry is confirmed as a real early Lewis County deed and its deed body is abstracted, or
-- the 1833 entry is proved to be another misindex / wrong record / dead end, which closes the last direct early John Murray deed path
+- the next named Lewis County census cluster around Copley / Murray / Dolan / Hanley / Hannon and related households is captured with neighbor context in 1860, or
+- the sweep produces a precise negative result showing that those surnames still do not cluster in the expected district in 1860
 
-Until that happens, treat the 1833 entry as the only live direct early-deed lead in RQ-M1.
+Until that happens, treat the direct John Murray deed path as closed and the FAN sweep as the next live RQ-M1 workstream.
 
 See [[RQ-M1-LEWIS-COUNTY-DEED-SEARCH|RQ-M1 Lewis County Deed Search]] for the earlier FamilySearch navigation notes.
 
 ## April 28, 2026 FamilySearch Deed-Index Pass
 
-**Source notes:** [[References/Claude for Chrome Lewis County Deed Research Brief|Claude for Chrome Lewis County Deed Research Brief]], [[References/Claude for Chrome Lewis County Murray Grantee Search|Claude for Chrome Lewis County Murray Grantee Search]], [[References/Claude for Chrome Lewis County Deed Book C-D Page 404 Check|Claude for Chrome Lewis County Deed Book C-D Page 404 Check]], [[References/Claude for Chrome Lewis County Deed Book C-D Page 334 Check|Claude for Chrome Lewis County Deed Book C-D Page 334 Check]], and [[References/Claude for Chrome Lewis County Built-in M Index Marwee Sawig Check|Claude for Chrome Lewis County Built-in M Index Marwee Sawig Check]]
+**Source notes:** [[References/Claude for Chrome Lewis County Deed Research Brief|Claude for Chrome Lewis County Deed Research Brief]], [[References/Claude for Chrome Lewis County Murray Grantee Search|Claude for Chrome Lewis County Murray Grantee Search]], [[References/Claude for Chrome Lewis County Deed Book C-D Page 404 Check|Claude for Chrome Lewis County Deed Book C-D Page 404 Check]], [[References/Claude for Chrome Lewis County Deed Book C-D Page 334 Check|Claude for Chrome Lewis County Deed Book C-D Page 334 Check]], [[References/Claude for Chrome Lewis County Built-in M Index Marwee Sawig Check|Claude for Chrome Lewis County Built-in M Index Marwee Sawig Check]], [[References/Claude for Chrome Lewis County John Murray Fred L Fish Lease Check|Claude for Chrome Lewis County John Murray Fred L Fish Lease Check]], and [[References/Claude for Chrome Lewis County John Murray 1833 Misindex Check|Claude for Chrome Lewis County John Murray 1833 Misindex Check]]
 
 **Repository:** FamilySearch, Lewis County (West Virginia) County Clerk, *Deeds, 1817-1902; deed index, 1817-1965*.
 
@@ -72,7 +72,7 @@ See [[RQ-M1-LEWIS-COUNTY-DEED-SEARCH|RQ-M1 Lewis County Deed Search]] for the ea
 | Marwee Sawig | Best current reading is a non-Murray surname beginning with **S** | John Simpson | obscured 3?? | Retire from Murray-specific work; page number remains unreadable under tape. |
 | Marwee Levi wife | Not resolved as Murray; physical page target is a mismatch | G.D. Camden | 404 | Preserve page 404 as a controlled mismatch. |
 
-**Interpretation:** The built-in M-index path no longer provides a live Murray-specific lead. Two of the three tested page targets are controlled mismatches, and the surviving obscured line now reads best as **Marwee Sawig**, not Murray. The later follow-up on the Murray / Fish entry also proved that the supposed **1826** deed is actually a **1899** lease. That leaves the **1833 John Murray** deed as the remaining direct early RQ-M1 deed lead.
+**Interpretation:** The built-in M-index path no longer provides a live Murray-specific lead. Two of the three tested page targets are controlled mismatches, and the surviving obscured line now reads best as **Marwee Sawig**, not Murray. Later follow-up on the Murray / Fish entry proved that the supposed **1826** deed is actually a **1899** lease. The May 8 follow-up on the final **1833 John Murray** entry proved that it too is a **1899** lease misindex. The direct John Murray deed path is now closed.
 
 ### Negative Finding: Compiled Grantor Index
 
@@ -180,14 +180,36 @@ See [[References/Claude for Chrome Lewis County John Murray Fred L Fish Lease Ch
 
 See [[References/Claude for Chrome Lewis County Built-in M Index Marwee Sawig Check|the full Sawig check note]] for the exact wording, URL, and failure analysis.
 
+### May 8, 2026 John Murray "1833" Recheck: 1899 Lease, Not 1833 Deed
+
+Claude then followed the last remaining FamilySearch index lead for **John Murray**, previously treated here as a possible **1833** deed because the FamilySearch structured record showed that year.
+
+**Reported facts:**
+
+- the index entry is in **DGS 008293302**, image **24**, ARK `/ark:/61903/1:1:6X4N-WVZC`
+- the deed body is fully located in the **same DGS**, image **52**, page **39**
+- the actual document is dated **October 7, 1899**, and recorded **October 17, 1899**
+- the instrument is an **oil and gas lease**, not an early land-transfer deed
+- the grantor is **John Murray**, signing by mark
+- the grantee is **Fred S. Rich**
+- the land is **130 acres** in **Court House District**, Lewis County, West Virginia, bounded by **J. P. Coulson**, **Thomas White**, and **Mrs. Bridget Cummings**
+
+**Implications:**
+
+- the FamilySearch "1833" date is a **computer-indexing error**
+- this record is **irrelevant** to the pre-1843 Murray-anchor question
+- the old **1833 John Murray** slot should now be preserved as a **controlled misindex / closed lead**
+- the direct John Murray deed path is now exhausted, so RQ-M1 should shift to the FAN sweep and Kinawley-household work
+
+See [[References/Claude for Chrome Lewis County John Murray 1833 Misindex Check|the full 1833 misindex correction note]] for the exact URLs, abstract, and failure analysis.
+
 ### Priority Workflow
 
 1. Verify the partially blocked **1865** rows on compiled grantee index image 553 if the FamilySearch toolbar can be bypassed.
 2. Treat physical pages **334** and **404** as confirmed mismatches and preserve the **Marwee Sawig** line as a retired non-Murray index path.
-3. Revisit the **1833** John Murray index lead and capture the missing book/page and deed-body details.
-4. Check Deed Books A-B, DGS 8219258, for pre-1824 Murray variants.
-5. Check Deed Book E-F, DGS 8219257, if the 1833 lead falls outside the DGS 8219256 range.
-6. Consult the Hacker's Creek abstracts volume for Deed Books A-C if direct images remain difficult to read.
+3. Shift the next Claude-for-Chrome work to the **1860 Lewis County FAN sweep**, then expand to 1840 or 1870 as needed.
+4. Reassess whether any independent Murray-variant evidence survives outside the closed direct deed path.
+5. Continue the Kinawley Murray-household work and other non-deed proof targets.
 
 ## Closed Lead: Murray / Fish Misindexed as 1826
 
@@ -206,39 +228,39 @@ See [[References/Claude for Chrome Lewis County Built-in M Index Marwee Sawig Ch
 
 **Research significance:** Negative for RQ-M1. This record shows a John Murray active in Lewis County in **1899**, not before **1843**.
 
-## Deed 1: 1833 John Murray
+## Closed Lead: John Murray Misindexed as 1833
 
 **Index entry:**
 - Name: John Murray
-- Role: pending confirmation
-- Counterparty: pending
-- Date/year: 1833
-- Book/page: pending
+- Role: grantor
+- Counterparty: Fred S. Rich
+- Date/year: 1833 in FamilySearch structured index; actual deed date **October 7, 1899**
+- Book/page: page 39
 - Index source: FamilySearch DGS 008293302, image 24
 
 **Record citation:**
 - Repository: FamilySearch / Lewis County land records
 - Collection: Lewis County deed books / indexes
-- Film/image group: DGS 008293302 for index; deed text expected in DGS 008293301 or courthouse deed book
-- URL: not yet captured for deed image
+- Film/image group: DGS 008293302 for both index and deed body
+- URL: `https://www.familysearch.org/ark:/61903/1:1:6X4N-WVZC` (index) and `https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSR7-7Q8V-7?i=51&cc=3158864` (deed body)
 
 **Deed details:**
-- Date written: pending
-- Date recorded: pending
-- Grantor: pending
-- Grantee: pending
-- Acreage: pending
-- Price: pending
-- Land description: pending
-- Watercourse / landmark: pending
-- Neighbors: pending
-- Witnesses: pending
-- Clerk: pending
-- Other names: pending
+- Date written: October 7, 1899
+- Date recorded: October 17, 1899
+- Grantor: John Murray
+- Grantee: Fred S. Rich
+- Acreage: 130 acres, more or less
+- Price: $32.50
+- Land description: oil and gas lease in Court House District, Lewis County, West Virginia
+- Watercourse / landmark: no named watercourse; Court House District / Weston-area context
+- Neighbors: J. P. Coulson; Thomas White & als.; Mrs. Bridget Cummings & als.
+- Witnesses: Perry G. Alfred; Pat Murray
+- Clerk: E. A. Bennett
+- Other names: Perry G. Alfred, Notary Public
 
-**Transcript or abstract:** Pending image extraction.
+**Transcript or abstract:** Standard 1899 oil and gas lease. John Murray, signing by mark, leased 130 acres in Court House District to Fred S. Rich for $32.50, with one-eighth oil royalty reserved and standard gas / rental terms.
 
-**Research significance:** Unknown until the deed text is read. If this deed is also before 1843 and located in the settlement area, it may materially strengthen the Murray anchor-family hypothesis.
+**Research significance:** Negative for RQ-M1. This record shows a John Murray active in Lewis County in **1899**, not before **1843**. It closes the last direct John Murray deed lead as a misindex.
 
 ## Evaluation Rules
 
@@ -252,8 +274,9 @@ See [[References/Claude for Chrome Lewis County Built-in M Index Marwee Sawig Ch
 | Compiled grantor index remains negative, but grantee index or built-in book index finds Murray variants | Treat as a variant-indexing problem, not a contradiction. |
 | Compiled grantee index exact Murray search yields only 1865-1934 entries | Treat as a later settlement-cluster result, not proof against earlier Murray presence under other index paths or spellings. |
 | Physical page 334 does not match the built-in "Marwee J." target | Treat page 334 as a controlled mismatch and do not use it as a live direct deed target unless the built-in index line is reinterpreted. |
-| Physical page 404 does not match the built-in "Marwee Levi wife" target | Treat page 404 as a controlled mismatch and keep effort on the remaining 1833 deed or other independent variant paths. |
+| Physical page 404 does not match the built-in "Marwee Levi wife" target | Treat page 404 as a controlled mismatch and keep effort on FAN sweep / Kinawley-household work or other independent variant paths. |
 | FamilySearch "1826" Murray / Fish entry proves to be a late-1899 oil and gas lease | Treat the old 1826 slot as a controlled misindex / closed lead, not as pre-1843 Murray evidence. |
+| FamilySearch "1833" John Murray entry proves to be a late-1899 oil and gas lease | Treat the old 1833 slot as a controlled misindex / closed lead and shift RQ-M1 to FAN sweep / Kinawley-household work. |
 | The built-in line reads best as "Marwee Sawig" -> John Simpson with an S-surname, not Murray | Retire the built-in M-index path from Murray-specific work unless a new independent reading emerges. |
 
 ## Update Targets When Findings Arrive

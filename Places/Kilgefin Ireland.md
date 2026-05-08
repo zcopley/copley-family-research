@@ -45,6 +45,7 @@ The three images shown on this page are drawn from that Kilgefin figure cluster.
 - Reported birthplace of [[Michael Copley Sr]] (1813).
 - Sibling-origin context for [[Patrick Copley]], [[Bridget Copley Reynolds]], [[Catherine Kitty Copley Hannon]], [[William Copley]].
 - Foundation point of the immigrant branch later established in West Virginia.
+- Working hypothesis location for the still-unproven **John Copley / Sarah Dolan** parentage question. See [[References/Thomas Copley May 2026 Email Leads|Thomas Copley May 2026 Email Leads]].
 
 ## Research Resources
 - National Library of Ireland registers: <https://registers.nli.ie>
@@ -56,7 +57,11 @@ The three images shown on this page are drawn from that Kilgefin figure cluster.
 1. Run surname-variant parish sweeps (Copley/Copely/Copeley).
 2. Correlate tithe + valuation data with sibling-age hypotheses.
 3. Add local-archivist or professional genealogist lookups for parish gaps.
+4. Verify Dolan townland leads from original Tithe Applotment images before using them as evidence.
+5. Investigate Strokestown Park / Pakenham-Mahon estate papers for Kilgefin Dolan lease lives, tenant lists, and marriage-settlement clues.
+6. Check Registry of Deeds memorials for Copley-Dolan lease, marriage, or inheritance transactions around 1790-1815.
 
 ## Source Notes
 - [[References/Copley History Part 1 and Appendix Source Audit|Copley History Part 1 and Appendix Source Audit]]
+- [[References/Thomas Copley May 2026 Email Leads|Thomas Copley May 2026 Email Leads]]
 - Raw family-history source: `COPLEY HISTORY PART 1 final 2.pdf`, pp. 4-7, figs. 1-5

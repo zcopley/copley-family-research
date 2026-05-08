@@ -71,7 +71,7 @@ This note captures the Claude for Chrome follow-up on the long-carried FamilySea
 
 - The supposed **1826 Murray / Fish** lead is now closed.
 - The built-in Deed Book C-D **Marwee** path was already retired.
-- The remaining direct early Murray deed target is now the **1833 John Murray** entry.
+- The later **1833 John Murray** lead was also rechecked and is now closed as a second **1899** misindex, so the direct John Murray deed path is exhausted.
 
 See also:
 - [[RQ-M1-JOHN-MURRAY-DEED-FINDINGS|RQ-M1 John Murray Deed Findings]]
