@@ -1,0 +1,138 @@
+1870 LEWIS COUNTY, WEST VIRGINIA - TARGETED IMAGE REVIEW
+
+Received from Zach Copley on 2026-05-10.
+
+IMAGE REVIEW SCOPE
+
+Collection / website: FamilySearch.org - United States, Census, 1870 - Collection ID 1438024
+Film / folder: Digital Folder 004268429_001_M9CX-5FK / NARA M593, Roll 1691 - "West Virginia, 1870 federal census: population schedules: Lewis. Census 1870" - 268 images total
+Images reviewed: Images 8, 45, 261, 265
+
+District / post office header wording:
+
+- Image 8, page 4: Schedule 1, Battelle Township, Lewis County, West Virginia, enumerated August 23, 1870. Post office partly legible; likely Weston, W. Va., based on image 45 confirmation.
+- Image 45, page 41: Battelle Township, Lewis County, West Virginia, enumerated September 6, 1870. Post office confirmed Weston, W. Va.
+- Image 261, page 53: township name unclear from thumbnail; indexed as Willey, Lewis, West Virginia. Post office partly legible and likely Weston, but not confirmed from image 261.
+- Image 265, page 57: indexed as Willey, Lewis, West Virginia. Post office confirmed Weston, W. Va.
+
+Image / viewer caveats:
+- FamilySearch viewer toolbar obscured the top of the census image until controls were hidden via JavaScript.
+- Image 8 lower third was difficult to inspect at high zoom due to viewer scroll behavior.
+- Image 261 / 265 headers were read from thumbnails; image 265 post office was clear enough to confirm Weston.
+- Some lower-page names remain unread at available resolution.
+
+HOUSEHOLD TRANSCRIPTS
+
+IMAGE 8 / PAGE 4 / BATTELLE TOWNSHIP
+
+Household A - Lines 5-9
+- Written name: Fish Michael, surname-first convention. Confidence high.
+- Household number: dwelling / family likely 17 / 17.
+- District / post office: Battelle Township, Lewis County, West Virginia; post office likely Weston, W. Va.
+- Members: Michael Fish (52, Ireland), Bridget Fish (40, Ireland), John Fish (13, Virginia), James Fish (7, Virginia), Bridget Fish (4, West Virginia).
+- Occupation: farmer.
+- Estate: $1,000 real estate / $410 personal estate.
+- Interpretation: unindexed Ireland-born farming household outside the target surname list.
+
+Household B - Lines 13-24
+- Written name: [F/R]oley Michael, surname-first convention. Most likely Foley, but Riley remains possible. Confidence medium.
+- Household number: appears anomalous, possibly 2 / 2.
+- District / post office: Battelle Township, Lewis County, West Virginia; post office likely Weston, W. Va.
+- Members: Michael [Foley?] (40, Ireland), Catherine [Foley?] (42, Ireland), Jimmie (18, Maryland), Mary (16, Virginia), [?]uleta / Julieta (10, Virginia), John (12, Virginia), Bride / Bridget (10, Virginia), Catherine (9, Virginia), Ellen (8, Virginia), Rosa / Rose (6, West Virginia), name unclear (3, West Virginia), Michael (3, West Virginia).
+- Occupation: farmer.
+- Estate: $1,200 real estate / $468 personal estate.
+- Interpretation: unindexed Ireland-born farming household outside the target surname list; Maryland-born child suggests Baltimore / Maryland transit before Lewis County settlement.
+
+Household C - Lines 25-40
+- Written name: Mulooly Owen, surname-first convention. Confidence high.
+- Indexed name: Owen Mulooly; ARK MZ4L-GSH.
+- Household number: 22 / 22.
+- District / post office: Battelle Township, Lewis County, West Virginia; post office likely Weston, W. Va.
+- Members: Owen Mulooly (53, Ireland), Catharine Mulooly (53, Ireland), John (16, Virginia), Thomas (14, Virginia), James (12, Virginia), William (10, Virginia), Owen Jr. (8, Virginia), Catharine Jr. (6, West Virginia), Michael (4, West Virginia).
+- Occupation: farmer.
+- Estate: $1,800 real estate / $575 personal estate.
+- FamilySearch tree: Owen Mullooly, 1823-1903, KHW6-Z1H.
+
+Household D - Approximately lines 43-50
+- Written name: unreadable at available resolution. First letter may be C.
+- District / post office: Battelle Township, Lewis County, West Virginia.
+- Head: Ireland-born male farmer; family includes wife-equivalent and children with Virginia / West Virginia birthplaces.
+- Estate: approximately $1,800 real estate / $400-600 personal estate, not confirmed.
+- Interpretation: confirmed Ireland-born farming household but surname and full composition remain unresolved.
+
+IMAGE 45 / PAGE 41 / BATTELLE TOWNSHIP
+
+Household E - Lines 26-32
+- Written name: Ferril Patrick, surname-first convention. Confidence high.
+- Indexed household includes Patrick Dolan; ARK MZ4L-K2Z.
+- District / post office: Battelle Township, Lewis County, West Virginia; post office confirmed Weston, W. Va.
+- Members: Patrick Ferril (55, Ireland), Mary Ferril (45, Ireland), James Ferril (22, Ireland), Elizabeth Dolan (20, Ireland), Patrick Dolan (23, Ireland), James Thomas Dolan (infant, West Virginia), Mary Ferril (20, Virginia).
+- Occupation: farmer for Patrick Ferril; Patrick Dolan also appears to be listed as farmer.
+- Estate: personal estate about $300; real estate uncertain, perhaps $912 or $1,912.
+- Interpretation: isolated Ireland-born household on this page, not a dense same-page cluster.
+
+IMAGE 261 / PAGE 53 / WILLEY DISTRICT
+
+Household F - Lines 21-24
+- Written name: Hanahan Thomas, surname-first convention. Enumerator wrote Hanahan, not Hanrahan. Confidence high.
+- Indexed name: Thomas Hanrahan; ARK MZ4G-7MN.
+- District / post office: Willey from index; post office on image 261 uncertain, likely Weston by analogy with image 265.
+- Members: Thomas Hanahan / Hanrahan (52, Ireland), Mary R. (36, Virginia), John C. (2, West Virginia), James P. (1, West Virginia).
+- Occupation: farmer.
+- Estate: $200 real estate; personal estate unclear.
+- Interpretation: Hannon / Hanahan / Hanrahan phonetic variant candidate.
+
+IMAGE 265 / PAGE 57 / WILLEY DISTRICT
+
+Household G - Approximately lines 5-12
+- Written name: partially legible; surname unresolved. Head appears to be male, about 35, Ireland-born farmer.
+- District / post office: Willey, Lewis County, West Virginia; post office confirmed Weston, W. Va.
+- Members: head Ireland-born; wife and children unclear.
+- Estate: approximately $1,900 real estate / $1,000 personal estate.
+- Interpretation: second unindexed Ireland-born Willey farming household outside the target surname list.
+
+Household H - Lines 13-21
+- Written name: Cummings Thomas, surname-first convention. Confidence high.
+- Indexed name: Thomas Cummings; ARK MZ4G-DDM.
+- District / post office: Willey, Lewis County, West Virginia; post office confirmed Weston, W. Va.
+- Members: Thomas Cummings (43, Ireland), Bridget Cummings (36, Ireland), Patrick H. (15, Virginia), Margaret (14, Virginia), Francis (11, Virginia), Thomas Jr. (9, Virginia), Michael (5, West Virginia), John J. (3, West Virginia), Mary A. (2, West Virginia).
+- Occupation: farmer.
+- Estate: $200 real estate / $500 personal estate.
+
+NEIGHBOR CLUSTERS
+
+Image 8, Battelle:
+- Confirmed Ireland-born household heads: Michael Fish, Michael [Foley/Riley?], Owen Mulooly, and an unread Ireland-born farmer near line 43.
+- These four Ireland-born farming heads appear on one census page.
+- Given names and household names include Michael, Bridget, Catharine, Owen, James, Patrick, and Mary, fitting Irish Catholic naming patterns.
+- All confirmed Ireland-born heads are farmers with real estate values of about $1,000-$1,800.
+- Interpretation: image 8 is a dense Battelle Township Irish farming cluster and is larger than the target-surname search revealed.
+
+Image 45, Battelle:
+- Patrick Ferril / Dolan household is the only confirmed Ireland-born household on the page.
+- Interpretation: isolated Ireland-born household page within Battelle, not a dense same-page cluster.
+
+Image 261, Willey:
+- Thomas Hanahan / Hanrahan and Thomas Cummings are sequential Ireland-born households on the same image, with no Virginia-born household between them.
+- Interpretation: dense small Willey Irish cluster page.
+
+Image 265, Willey:
+- At least two Ireland-born household heads appear: unresolved Household G and Thomas Cummings.
+- Interpretation: Willey Irish cluster spans at least multiple pages.
+
+RQ-M1 INTERPRETATION
+
+- Image 8 proves the Battelle Irish cluster is broader than the named target surnames. The target-surname sweep found Owen Mulooly, but the image review shows at least four Ireland-born farming households on the page.
+- Confirmed and likely post office wording places Battelle and Willey in the Weston postal area. This suggests the 1870 clusters are in the Weston / courthouse hinterland, not clearly Cove Lick / Camden / Loveberry.
+- The direct image review strengthens the broader Irish farming-cluster model and further weakens a narrow Murray-only model.
+- The written form "Hanahan" matters because it may explain Hannon / Hanrahan indexing and phonetic search behavior.
+
+FAILURE MODE
+
+1. Household D surname on image 8 remains unread.
+2. Household G surname on image 265 remains unread.
+3. Image 261 post office not confirmed directly.
+4. Image 8 post office exact town name not confirmed directly; image 45 supports Weston for Battelle.
+5. Patrick Ferril real estate value uncertain.
+6. Willey township name was not confirmed from image header, only from index metadata.
+7. Household D family composition was not transcribed.
