@@ -52,11 +52,11 @@ When a search produces a record, a negative result, or a corrected claim:
 
 ### Current Highest-Value Claude for Chrome Task
 
-For a single bounded Claude-for-Chrome session, the highest-value next task is **targeted 1870 image review for Battelle and Willey**. The 1850, 1860, and 1870 broad FAN-sweep passes are now complete. The 1870 pass found Irish farming clusters in Battelle and Willey, but also exposed unresolved image-level issues: unindexed Ireland-born farmers on Battelle image 8, uncertain district / post-office headers, and the need to map 1850 District 30 and 1860 blank rural pages to later township names.
+For a single bounded Claude-for-Chrome session, the highest-value next task is **line-level review of two unread 1870 Ireland-born households**. The broad 1870 sweep and first image review are complete. The remaining image-level gaps are the unread Ireland-born farmer near line 43 on Battelle image 8 and the unread Ireland-born farmer near line 5 on Willey image 265.
 
-- This turns the 1870 Claude extraction into proof-grade evidence by reading the actual images and headers.
-- It can identify Irish households outside the target surname list, which are now the biggest missing piece in the Battelle cluster.
-- It can clarify whether Battelle / Willey have any geographic relationship to the earlier Copley District 30 / Cove Lick framework.
+- This finishes the key unresolved image-review work from the 1870 pass.
+- It can add two non-target-surname Irish farming families to the FAN cluster.
+- It keeps the work narrow enough to avoid drifting into a new broad census search.
 
 Use this exact prompt:
 
@@ -64,7 +64,7 @@ Use this exact prompt:
 Do one narrow research task only. Do not browse broadly and do not do any repo work.
 
 Goal:
-Run one targeted image-review session for the 1870 Lewis County FAN-sweep result.
+Run one line-level image-review session for two unread Ireland-born households in the 1870 Lewis County FAN-sweep result.
 
 Known context:
 - The old “1826 John Murray / Fred L. Fish” lead is already closed: it is actually an 1899 oil-and-gas lease.
@@ -74,7 +74,8 @@ Known context:
 - The 1850 Lewis County pass is complete: it found the Micheal / Patrick Coopley household in District 30, but no broader Irish surname cluster.
 - The 1860 Lewis County pass is complete: it found a dense rural Dolan-centered Irish cluster, Ireland-born Luke and Patrick Murry, and a Weston Irish boarding-house cluster, but no indexed Copley / Coopley household.
 - The 1870 Lewis County pass is complete: it found Battelle and Willey Irish farming clusters, no Ireland-born Murray / Murry household, and no Copley farming household.
-- This session is only about direct image review for the 1870 Lewis County census.
+- The first 1870 image review is complete: Battelle image 8 contains Fish Michael, likely [F/R]oley Michael, Mulooly Owen, and one unread Ireland-born farmer near line 43; Willey image 265 contains Thomas Cummings and one unread Ireland-born farmer near line 5.
+- This session is only about resolving those two unread households.
 - Do not run a new broad surname sweep. Do not work on deeds, Marwee, page 334, page 404, 1880, or later records.
 
 Your task:
@@ -82,29 +83,26 @@ Your task:
    - FamilySearch collection ID: 1438024
    - Digital Folder: 004268429_001_M9CX-5FK
    - NARA M593, Roll 1691
-2. Review these exact images only:
-   - Image 8 / page 4: Owen Mulooly, Battelle district
-   - Image 45 / page 41: Patrick Ferril household with Patrick and Elizabeth Dolan, Battelle district
-   - Image 261 / page 53: Thomas Hanrahan, Willey district
-   - Image 265 / page 57: Thomas and Bridget Cummings, Willey district
-3. For image 8, identify and transcribe every Ireland-born household on the page, including the unindexed Irish farmers before and after Owen Mulooly.
-4. For images 45, 261, and 265, verify the written names, district headers, post office names, household numbers, line numbers, occupations, birthplaces, and estate values.
-5. Record whether each household is in Battelle, Willey, Weston, or another district exactly as written or indexed.
-6. Do not expand beyond these four images unless the page continues onto the immediately next image.
-7. Stop after this image-review task.
+2. Review these exact image areas only:
+   - Image 8 / page 4 / Battelle Township: lower page around lines 41-50, immediately after the Owen Mulooly household.
+   - Image 265 / page 57 / Willey district: upper page around lines 1-12, immediately before the Thomas Cummings household.
+3. For each unread Ireland-born household, transcribe the head's written name, all household members, household/dwelling numbers, ages, sex, color, occupations, real estate, personal estate, birthplaces, and any marks in school/literacy/citizenship columns if readable.
+4. Confirm whether the head's birthplace is Ireland and whether spouse / children birthplaces are Ireland, Maryland, Virginia, or West Virginia.
+5. Do not expand beyond these two line ranges unless a household begins or continues onto the immediately adjacent line range.
+6. Stop after these two households.
 
 Capture this exact output format:
 
-IMAGE REVIEW SCOPE
+LINE-LEVEL REVIEW SCOPE
 - Collection / website:
 - Film / folder:
-- Images reviewed:
-- District / post office header wording:
-- Any image or toolbar obstruction problems:
+- Images and line ranges reviewed:
+- Zoom / toolbar workaround used:
+- Any image or scroll problems:
 
 HOUSEHOLD TRANSCRIPTS
-- For every Ireland-born household on the reviewed images:
-  - Image / page / line:
+- For each unread Ireland-born household:
+  - Image / page / line range:
   - Household number:
   - Written name:
   - Indexed name if different:
@@ -115,29 +113,17 @@ HOUSEHOLD TRANSCRIPTS
   - Real estate / personal estate:
   - URL / ARK:
 
-NEIGHBOR CLUSTERS
-- For image 8 Battelle:
-  - All Ireland-born households on page:
-  - Previous neighbor surnames:
-  - Following neighbor surnames:
-  - Irish / Catholic clues:
-  - Land-associate clues:
-  - Cluster interpretation:
-- For images 45, 261, and 265:
-  - Confirm whether each page is an Irish cluster page or an isolated Irish household page.
-
 RQ-M1 INTERPRETATION
-- Does image 8 prove a broader Battelle Irish cluster beyond the named target surnames?
-- Do the district or post office headers help place Battelle / Willey relative to Cove Lick, Camden, Loveberry, or Weston?
-- Does the direct image review change the 1870 interpretation in any way?
+- Do these two unread households add new surnames to the Battelle / Willey Irish cluster?
+- Do their birthplaces or estate values change the interpretation of the 1870 cluster?
+- Does either household connect to known settlement surnames or the Weston postal area?
 
 FAILURE MODE
 - If you cannot fully resolve it, state exactly why:
-  - no relevant households found
   - indexing too poor
   - image unreadable
-  - district/location unclear
-  - neighbor capture incomplete
+  - line range inaccessible due to scrolling
+  - household continuation on another image
   - other exact issue
 
 Rules:
@@ -145,7 +131,7 @@ Rules:
 - Record exact written names, not just indexed names.
 - Preserve uncertainty and unreadable entries.
 - Do not do any repo editing.
-- Stop after the four-image review only.
+- Stop after the two unread households only.
 ```
 
 ### Request Template: Lewis County Clerk / FamilySearch Helper

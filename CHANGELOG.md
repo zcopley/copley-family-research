@@ -10,6 +10,18 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4BG - 1870 Battelle and Willey Image Review Integrated (May 10, 2026)
+
+**MURRAY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome targeted image review for the 1870 Battelle and Willey census pages. The review confirms that Battelle image 8 contains a dense Irish farming cluster larger than the surname search revealed: Michael Fish, likely Michael Foley / Riley, Owen Mulooly, and one still-unread Ireland-born farmer.
+
+### Updated Pages
+
+- [[References/Claude for Chrome Lewis County 1870 Image Review|Claude for Chrome Lewis County 1870 Image Review]] - new browser-readable source note preserving the direct image-review findings, unresolved line reads, and next follow-up targets; raw text is published under `static/sources/claude-1870-fan-sweep/`.
+- [[References/Claude for Chrome Lewis County 1870 FAN Sweep|Claude for Chrome Lewis County 1870 FAN Sweep]] - linked the image-review follow-up and updated the 1870 summary with the Fish / Foley-Mulooly cluster and Weston post-office findings.
+- [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]] - added Michael Fish, likely Michael Foley / Riley, the unread Battelle household, and the unread Willey household to the 1870 cluster record.
+- [[Tier 1 Research Execution Kit|Tier 1 Research Execution Kit]] and [[Research Priorities and Action Items|Research Priorities and Action Items]] - narrowed the next Claude-for-Chrome task to line-level review of the two remaining unread 1870 Ireland-born households.
+- [[Topics/Murray Settlement|Murray Settlement]], [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]], [[Sources and Evidence Index|Sources and Evidence Index]], [[Search Index|Search Index]], and `.agents/AGENT_RESUME.md` - updated the interpretation so the 1870 Battelle / Willey evidence now reflects the image-review expansion beyond target surnames.
+
 ## Phase 4BF - 1870 Lewis County FAN Sweep Integrated (May 10, 2026)
 
 **MURRAY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome 1870 Lewis County FAN-sweep output. The result weakens a Murray-specific anchor model because no Ireland-born Murray / Murry household appears in 1870, but it strengthens the broader Irish-settlement model by identifying Battelle and Willey farming clusters around Mulooly, Ferril / Dolan, Hanrahan, and Cummings.

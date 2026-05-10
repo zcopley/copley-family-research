@@ -84,6 +84,7 @@ graph TD
 - St. Michael's Church 1849 land donation — Diocese of Richmond records (to verify)
 - 1860 Lewis County census FAN sweep — dense rural Ireland-born cluster centered on Dolan households, with Ireland-born Luke / Patrick Murry nearby and a separate Weston Irish boarding-house cluster; image capture still needed for proof-grade citation
 - 1870 Lewis County census FAN sweep — Battelle and Willey Ireland-born farming clusters around Mulooly, Ferril / Dolan, Hanrahan, and Cummings; no Ireland-born Murray / Murry household and no Copley farming household found
+- 1870 image review — Battelle image 8 contains at least four Ireland-born farming heads: Fish, likely Foley / Riley, Mulooly, and one unread surname; Willey image 265 includes Cummings plus another unread Ireland-born farmer
 
 ⚠️ **PLAUSIBLE (Contextual Evidence):**
 - Murray family as settlement anchor — supported by name "Murray's Settlement" and 1860 Ireland-born Murry presence, but weakened by the 1870 absence of Ireland-born Murray / Murry households; visible census clusters are broader Irish farming clusters rather than clearly Murray-led
@@ -109,7 +110,7 @@ graph TD
 
 | Action | Where | Time | Verdict Impact |
 |--------|-------|------|-----------------|
-| Targeted 1870 image review | FamilySearch images 8, 45, 261, and 265; capture in [[References/Claude for Chrome Lewis County 1870 FAN Sweep]] and [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]] | 1–2 hrs | **CRITICAL:** identifies unindexed Battelle Ireland-born farmers and confirms district / post-office wording |
+| Line-level 1870 unread-household review | FamilySearch image 8 lines ~43-50 and image 265 lines ~1-12; capture in [[References/Claude for Chrome Lewis County 1870 Image Review]] and [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]] | 1 hr | **CRITICAL:** identifies the remaining unindexed Ireland-born farmers in Battelle and Willey |
 | Full *Powhatan* 1838 passenger manifest scan | Ancestry / FamilySearch NARA M237 | 1 hr | **HIGH:** Shows if Murrays/Dolans traveled with Copleys |
 | Independent 1860 image capture | FamilySearch images 113, 120, 123, and 191; capture in [[References/Claude for Chrome Lewis County 1860 FAN Sweep]] and [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]] | 1–2 hrs | **HIGH:** Turns the Claude extraction into proof-grade census evidence |
 | Contact Diocese of Wheeling-Charleston | archive request | email | **HIGH:** St. Michael's Church marriage records may show Ann's maiden name |
@@ -441,7 +442,7 @@ graph LR
 - [ ] Griffith's Valuation remaining families (RQ-M3, RQ-M7)
 
 **Week 2: Census & Roscommon Records**
-- [ ] Targeted 1870 Battelle / Willey image review in [[References/Claude for Chrome Lewis County 1870 FAN Sweep]] and [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]] (RQ-M1, RQ-M2)
+- [ ] Line-level follow-up for unread 1870 Ireland-born households in [[References/Claude for Chrome Lewis County 1870 Image Review]] and [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]] (RQ-M1, RQ-M2)
 - [ ] Independent image capture for the 1860 Dolan / Murry / Weston Irish clusters in [[References/Claude for Chrome Lewis County 1860 FAN Sweep]] (RQ-M1)
 - [ ] Kinawley Murray father-candidate workup and Lewis County John Murray deed transcription (RQ-M5)
 - [ ] Roscommon Journal searches (RQ-M6)
