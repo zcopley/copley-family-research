@@ -52,11 +52,11 @@ When a search produces a record, a negative result, or a corrected claim:
 
 ### Current Highest-Value Claude for Chrome Task
 
-For a single bounded Claude-for-Chrome session, the highest-value next task is the **1870 Lewis County FAN sweep** around the Copley / Murray / Dolan / Hanley / Hannon cluster. The 1850 and 1860 passes are now complete: 1850 found the Coopleys but no broader Irish cluster, while 1860 found a dense Dolan-centered Irish rural cluster and Ireland-born Luke / Patrick Murry, but no indexed Copley / Coopley household.
+For a single bounded Claude-for-Chrome session, the highest-value next task is **targeted 1870 image review for Battelle and Willey**. The 1850, 1860, and 1870 broad FAN-sweep passes are now complete. The 1870 pass found Irish farming clusters in Battelle and Willey, but also exposed unresolved image-level issues: unindexed Ireland-born farmers on Battelle image 8, uncertain district / post-office headers, and the need to map 1850 District 30 and 1860 blank rural pages to later township names.
 
-- This can test whether the 1860 rural Dolan / Murry cluster persists after West Virginia statehood.
-- It can also test whether the Copleys reappear near the cluster after their unexplained 1860 index absence.
-- The 1910 anchor claim involving John Murray, born about 1822 in Ireland, requires a plausible 1870 presence if it is to remain connected to the Lewis County Courthouse District tradition.
+- This turns the 1870 Claude extraction into proof-grade evidence by reading the actual images and headers.
+- It can identify Irish households outside the target surname list, which are now the biggest missing piece in the Battelle cluster.
+- It can clarify whether Battelle / Willey have any geographic relationship to the earlier Copley District 30 / Cove Lick framework.
 
 Use this exact prompt:
 
@@ -64,78 +64,72 @@ Use this exact prompt:
 Do one narrow research task only. Do not browse broadly and do not do any repo work.
 
 Goal:
-Run the next bounded Lewis County FAN-sweep session for the Murray Settlement question.
+Run one targeted image-review session for the 1870 Lewis County FAN-sweep result.
 
 Known context:
 - The old “1826 John Murray / Fred L. Fish” lead is already closed: it is actually an 1899 oil-and-gas lease.
 - The old “1833 John Murray” lead is also closed: it is actually an 1899 oil-and-gas lease to Fred S. Rich.
 - The built-in Deed Book C-D “Marwee” path is retired from Murray-specific work.
 - So this session should shift from deed-hunting to census-neighbor research.
-- The 1850 Lewis County pass is complete: it found the Micheal / Patrick Coopley household, but no broader Irish surname cluster.
+- The 1850 Lewis County pass is complete: it found the Micheal / Patrick Coopley household in District 30, but no broader Irish surname cluster.
 - The 1860 Lewis County pass is complete: it found a dense rural Dolan-centered Irish cluster, Ireland-born Luke and Patrick Murry, and a Weston Irish boarding-house cluster, but no indexed Copley / Coopley household.
-- This session is only about the 1870 Lewis County, West Virginia census.
-- Do not work on deeds, Marwee, page 334, page 404, or later deed books in this session.
+- The 1870 Lewis County pass is complete: it found Battelle and Willey Irish farming clusters, no Ireland-born Murray / Murry household, and no Copley farming household.
+- This session is only about direct image review for the 1870 Lewis County census.
+- Do not run a new broad surname sweep. Do not work on deeds, Marwee, page 334, page 404, 1880, or later records.
 
 Your task:
-1. Search the 1870 Lewis County, West Virginia census for these surnames and close variants:
-   - Copley / Copely
-   - Murray / Murry / Murrey
-   - Dolan
-   - Hanley
-   - Hannon
-   - Gillooly / Gilhooly
-   - Mullooly
-   - Reynolds
-   - Mulroney
-   - Mahon
-   - Munday / Monday / Mundy
-   - White
-   - Cummings / Cummons
-2. Capture every relevant hit in Lewis County in 1870.
-3. For the strongest target households — especially any Copley/Copely household, any Murray household, and any Irish-origin settlement-family household — capture 10 to 15 households before and after on the census image.
-4. Record district / locality wording exactly as shown.
-5. Compare any 1870 findings to the 1860 cluster pages:
-   - Luke / Patrick Murry: page 114, image 120
-   - Michael Dolan: page 107, image 113
-   - Thomas / John Dolan: page 117, image 123
-   - Weston Loftus / Mc Mahan: page 185, image 191
-6. Note whether the cluster looks like Court House District / Weston-area, Cove Lick / Camden / Loveberry-adjacent, or not clear.
-7. Stop after 1870 only. Do not expand to 1840, 1850, 1860, or 1880 in this session.
+1. Open the 1870 Lewis County, West Virginia census film:
+   - FamilySearch collection ID: 1438024
+   - Digital Folder: 004268429_001_M9CX-5FK
+   - NARA M593, Roll 1691
+2. Review these exact images only:
+   - Image 8 / page 4: Owen Mulooly, Battelle district
+   - Image 45 / page 41: Patrick Ferril household with Patrick and Elizabeth Dolan, Battelle district
+   - Image 261 / page 53: Thomas Hanrahan, Willey district
+   - Image 265 / page 57: Thomas and Bridget Cummings, Willey district
+3. For image 8, identify and transcribe every Ireland-born household on the page, including the unindexed Irish farmers before and after Owen Mulooly.
+4. For images 45, 261, and 265, verify the written names, district headers, post office names, household numbers, line numbers, occupations, birthplaces, and estate values.
+5. Record whether each household is in Battelle, Willey, Weston, or another district exactly as written or indexed.
+6. Do not expand beyond these four images unless the page continues onto the immediately next image.
+7. Stop after this image-review task.
 
 Capture this exact output format:
 
-SEARCH SCOPE
+IMAGE REVIEW SCOPE
 - Collection / website:
-- Census year:
-- County / state:
-- Search terms used:
-- Any obvious indexing problems:
+- Film / folder:
+- Images reviewed:
+- District / post office header wording:
+- Any image or toolbar obstruction problems:
 
-HOUSEHOLD HITS
-- For each relevant household:
-  - Indexed name:
+HOUSEHOLD TRANSCRIPTS
+- For every Ireland-born household on the reviewed images:
+  - Image / page / line:
+  - Household number:
   - Written name:
-  - Surname category:
-  - Location / district:
-  - Household summary:
+  - Indexed name if different:
+  - District / post office:
+  - Household members:
   - Birthplaces:
   - Occupation:
-  - Page / image / URL:
+  - Real estate / personal estate:
+  - URL / ARK:
 
 NEIGHBOR CLUSTERS
-- For each strongest target household:
-  - Target household:
+- For image 8 Battelle:
+  - All Ireland-born households on page:
   - Previous neighbor surnames:
   - Following neighbor surnames:
   - Irish / Catholic clues:
   - Land-associate clues:
   - Cluster interpretation:
+- For images 45, 261, and 265:
+  - Confirm whether each page is an Irish cluster page or an isolated Irish household page.
 
 RQ-M1 INTERPRETATION
-- Do the 1870 named households support a Murray-centered settlement cluster, a Dolan-centered cluster, or a broader Irish cluster?
-- Do the Copleys appear near Murray / Dolan / Hanley / Hannon / related surnames, or not?
-- Does the census point more toward a Court House District / Weston cluster, a Cove Lick / Camden / Loveberry cluster, or neither?
-- Does this strengthen, weaken, or leave unchanged the Murray Settlement framework?
+- Does image 8 prove a broader Battelle Irish cluster beyond the named target surnames?
+- Do the district or post office headers help place Battelle / Willey relative to Cove Lick, Camden, Loveberry, or Weston?
+- Does the direct image review change the 1870 interpretation in any way?
 
 FAILURE MODE
 - If you cannot fully resolve it, state exactly why:
@@ -149,9 +143,9 @@ FAILURE MODE
 Rules:
 - Be conservative.
 - Record exact written names, not just indexed names.
-- Preserve negative results too.
+- Preserve uncertainty and unreadable entries.
 - Do not do any repo editing.
-- Stop after 1870 only.
+- Stop after the four-image review only.
 ```
 
 ### Request Template: Lewis County Clerk / FamilySearch Helper

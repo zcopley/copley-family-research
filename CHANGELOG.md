@@ -10,6 +10,17 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4BF - 1870 Lewis County FAN Sweep Integrated (May 10, 2026)
+
+**MURRAY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome 1870 Lewis County FAN-sweep output. The result weakens a Murray-specific anchor model because no Ireland-born Murray / Murry household appears in 1870, but it strengthens the broader Irish-settlement model by identifying Battelle and Willey farming clusters around Mulooly, Ferril / Dolan, Hanrahan, and Cummings.
+
+### Updated Pages
+
+- [[References/Claude for Chrome Lewis County 1870 FAN Sweep|Claude for Chrome Lewis County 1870 FAN Sweep]] - new browser-readable source note preserving the 1870 search scope, household hits, ARKs, cluster interpretation, and evidence cautions; raw text is published under `static/sources/claude-1870-fan-sweep/`.
+- [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]] - added the 1870 Battelle / Willey household findings, neighbor-cluster summaries, Copley / Murray / White negative results, and the next targeted image-review workflow.
+- [[Tier 1 Research Execution Kit|Tier 1 Research Execution Kit]] and [[Research Priorities and Action Items|Research Priorities and Action Items]] - replaced the broad 1870 FAN-sweep prompt with a narrower Battelle / Willey image-review task.
+- [[Topics/Murray Settlement|Murray Settlement]], [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]], [[Sources and Evidence Index|Sources and Evidence Index]], [[Search Index|Search Index]], and `.agents/AGENT_RESUME.md` - updated the public interpretation and handoff state so the 1870 pass is complete and the next work is image capture plus district mapping.
+
 ## Phase 4BE - 1860 Lewis County FAN Sweep Integrated (May 8, 2026)
 
 **MURRAY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome 1860 Lewis County FAN-sweep output. The result materially strengthens the Irish-settlement framework by showing a dense rural Ireland-born Dolan-centered cluster and Ireland-born Luke / Patrick Murry, but it also reframes the model away from a simple Murray-only anchor and creates a critical 1860 Copley / Coopley absence to resolve.

@@ -83,9 +83,10 @@ graph TD
 - Copley-Hoffman deed 1843 — Lewis County settlement location verified
 - St. Michael's Church 1849 land donation — Diocese of Richmond records (to verify)
 - 1860 Lewis County census FAN sweep — dense rural Ireland-born cluster centered on Dolan households, with Ireland-born Luke / Patrick Murry nearby and a separate Weston Irish boarding-house cluster; image capture still needed for proof-grade citation
+- 1870 Lewis County census FAN sweep — Battelle and Willey Ireland-born farming clusters around Mulooly, Ferril / Dolan, Hanrahan, and Cummings; no Ireland-born Murray / Murry household and no Copley farming household found
 
 ⚠️ **PLAUSIBLE (Contextual Evidence):**
-- Murray family as settlement anchor — supported by name "Murray's Settlement" and 1860 Ireland-born Murry presence, but the visible 1860 rural cluster is more clearly Dolan-centered than Murray-centered
+- Murray family as settlement anchor — supported by name "Murray's Settlement" and 1860 Ireland-born Murry presence, but weakened by the 1870 absence of Ireland-born Murray / Murry households; visible census clusters are broader Irish farming clusters rather than clearly Murray-led
 - Chain migration model — consistent with documented arrivals but not yet documented in Lewis County deeds
 - Staunton-Parkersburg Turnpike labor draw — Ancestry forum source (needs verification)
 - Roscommon estate community (Sandford) as origin nucleus — supported by Griffith's clustering but pre-emigration social bonds not yet documented
@@ -108,7 +109,7 @@ graph TD
 
 | Action | Where | Time | Verdict Impact |
 |--------|-------|------|-----------------|
-| Run the next bounded Lewis County FAN sweep | 1870 Lewis County, West Virginia census plus adjacent-household capture in [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]] | 2–3 hrs | **CRITICAL:** tests whether the 1860 Dolan / Murry Irish cluster persists and whether Copleys reappear nearby |
+| Targeted 1870 image review | FamilySearch images 8, 45, 261, and 265; capture in [[References/Claude for Chrome Lewis County 1870 FAN Sweep]] and [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]] | 1–2 hrs | **CRITICAL:** identifies unindexed Battelle Ireland-born farmers and confirms district / post-office wording |
 | Full *Powhatan* 1838 passenger manifest scan | Ancestry / FamilySearch NARA M237 | 1 hr | **HIGH:** Shows if Murrays/Dolans traveled with Copleys |
 | Independent 1860 image capture | FamilySearch images 113, 120, 123, and 191; capture in [[References/Claude for Chrome Lewis County 1860 FAN Sweep]] and [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]] | 1–2 hrs | **HIGH:** Turns the Claude extraction into proof-grade census evidence |
 | Contact Diocese of Wheeling-Charleston | archive request | email | **HIGH:** St. Michael's Church marriage records may show Ann's maiden name |
@@ -133,7 +134,7 @@ graph TD
 
 **Primary Sources to Search:**
 1. **Lewis County deed records (1825–1855)** — Weston Courthouse, FamilySearch. Look for any independent "Murray" land purchase in Cove Lick/Camden/Loveberry area that does not rely on the now-closed FamilySearch misindex path. The exact-surname compiled grantee index search is now complete and produced only 1865-1934 Murray entries on images 553-554. Physical pages 334 and 404 in Deed Book C-D are controlled mismatches, the former "Marwee Sawig" line has now been retired as non-Murray, and the old **1826 Murray / Fish** and **1833 John Murray** leads are both now closed as **1899** lease misindexes.
-2. **US Census 1840, 1850, 1860, 1870** — Ancestry / FamilySearch. FAN-club sweep: all Irish surnames within Copley settlement zone; capture raw findings in [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]]. The 1850 and 1860 passes are complete; next census sweep is 1870, with independent 1860 image capture still needed.
+2. **US Census 1840, 1850, 1860, 1870** — Ancestry / FamilySearch. FAN-club sweep: all Irish surnames within Copley settlement zone; capture raw findings in [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]]. The 1850, 1860, and 1870 passes are complete; next census work is independent image capture and mapping from 1850 / 1860 districts to 1870 townships.
 3. **Lewis County local histories** — *History of Lewis County, West Virginia* (1881+), Archive.org, HathiTrust. May contain founding narratives
 4. **Catholic parish records (St. Michael's Church)** — Diocese of Wheeling-Charleston archive. Marriage/baptism records 1838–1870 showing Murray witnesses/godparents
 
@@ -440,7 +441,7 @@ graph LR
 - [ ] Griffith's Valuation remaining families (RQ-M3, RQ-M7)
 
 **Week 2: Census & Roscommon Records**
-- [ ] 1870 Lewis County census FAN sweep in [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]] (RQ-M1, RQ-M2)
+- [ ] Targeted 1870 Battelle / Willey image review in [[References/Claude for Chrome Lewis County 1870 FAN Sweep]] and [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]] (RQ-M1, RQ-M2)
 - [ ] Independent image capture for the 1860 Dolan / Murry / Weston Irish clusters in [[References/Claude for Chrome Lewis County 1860 FAN Sweep]] (RQ-M1)
 - [ ] Kinawley Murray father-candidate workup and Lewis County John Murray deed transcription (RQ-M5)
 - [ ] Roscommon Journal searches (RQ-M6)

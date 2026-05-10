@@ -9,7 +9,7 @@ tags:
 
 # Agent Resume State
 
-Last updated: 2026-05-08
+Last updated: 2026-05-10
 
 ## Current Goal
 
@@ -65,8 +65,18 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
   - the Ireland-born Luke / Patrick Murry household on page 114 / image 120
   - the Weston Irish boarding-house cluster around Loftus / Mc Mahan / Mahan
   - the critical negative result that no indexed Copley / Coopley household appears in 1860 Lewis County
-  - the narrowed next-step workflow focusing on the **1870** FAN sweep and independent 1860 image capture
-- Updated `Research Priorities and Action Items.md`, `Tier 1 Research Execution Kit.md`, `Sources and Evidence Index.md`, `Topics/Murray Settlement.md`, `Topics/Murray Settlement Research Roadmap.md`, `Search Index.md`, and `CHANGELOG.md` so the Murray workflow now treats the 1860 FAN pass as complete and points next to 1870.
+  - the then-current next-step workflow focusing on the **1870** FAN sweep and independent 1860 image capture, now superseded by the completed 1870 pass below
+- Updated `Research Priorities and Action Items.md`, `Tier 1 Research Execution Kit.md`, `Sources and Evidence Index.md`, `Topics/Murray Settlement.md`, `Topics/Murray Settlement Research Roadmap.md`, `Search Index.md`, and `CHANGELOG.md` so the Murray workflow treated the 1860 FAN pass as complete before the later 1870 integration.
+- Integrated Zach's May 10, 2026 Claude for Chrome **1870 Lewis County FAN sweep** handoff.
+- Created `References/Claude for Chrome Lewis County 1870 FAN Sweep.md` and preserved the raw text under `static/sources/claude-1870-fan-sweep/`.
+- Updated `RQ-M1-LEWIS-COUNTY-FAN-SWEEP.md` with:
+  - the completed 1870 census-neighbor sweep
+  - the Battelle Irish farming cluster around Owen Mulooly and the Patrick Ferril / Patrick Dolan household
+  - the Willey Irish farming cluster around Thomas Hanrahan and Thomas / Bridget Cummings
+  - the negative result that no Ireland-born Murray / Murry household appears in 1870 Lewis County
+  - the continuing negative result that no Copley / Coopley farming household appears in 1870 Lewis County
+  - the next-step workflow focusing on targeted 1870 image review and district mapping
+- Updated `Research Priorities and Action Items.md`, `Tier 1 Research Execution Kit.md`, `Sources and Evidence Index.md`, `Topics/Murray Settlement.md`, `Topics/Murray Settlement Research Roadmap.md`, `Search Index.md`, and `CHANGELOG.md` so the Murray workflow now treats the 1870 FAN pass as complete.
 
 - Added a reader-facing `What's Proven vs What's Still Open` callout to `Home.md` and `index.md`.
 - Added a compact `At A Glance: Proven vs Open` summary near the top of `Visual Story Atlas.md`.
@@ -248,7 +258,7 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
 - `Visual Story Atlas.md` is now the diagram-first public entry point for the story, evidence status, and research quests.
 - `RQ-M1-JOHN-MURRAY-DEED-FINDINGS.md` now exists as the place to paste John Murray deed images, transcripts, abstracts, and interpretation.
 - The Murray deed task now has Claude for Chrome handoffs integrated into the wiki for the original Deed Book C-D / grantor-index brief, the completed exact-surname grantee-index result, the controlled negative page-404 and page-334 checks, the final built-in-index recheck showing that "Marwee Sawig" is not Murray, and the corrected 1826/1833 misindex results. The direct John Murray deed path is now exhausted.
-- The Lewis County FAN-sweep task now has 1850 and 1860 Claude for Chrome handoffs integrated into the wiki. The 1860 pass is the first strong census-neighbor evidence for a dense rural Ireland-born cluster, centered on Dolan households with Ireland-born Luke / Patrick Murry nearby, but it also creates a Copley gap because no indexed Copley / Coopley household appears in 1860.
+- The Lewis County FAN-sweep task now has 1850, 1860, and 1870 Claude for Chrome handoffs integrated into the wiki. The 1870 pass weakens a Murray-specific anchor by finding no Ireland-born Murray / Murry household, but strengthens the broader Irish-cluster model through Battelle and Willey farming clusters around Mulooly, Ferril / Dolan, Hanrahan, and Cummings. The Copley gap now spans both 1860 and 1870 because no indexed Copley / Coopley farming household appears in either census.
 - `RQ-P1-PARTLOW-REVOLUTIONARY-LINE.md` is now the active Partlow proof-chain log.
 - `References/Harry C Partlow 1960 Letter and Handwritten Lineage.md` is the local family-source note for the 1960 Harry Partlow letter and 1977 handwritten lineage.
 - The Partlow working line is: Marion Elizabeth Partlow Copley -> Nollie Franklin / Frank Partlow -> Marion McDonald / M. Partlow -> John H. / John Halleck / Hallick Partlow -> Jacob Partlow / Jacob Newton Partlow -> Benjamin Partlow.
@@ -277,7 +287,8 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
   - Treat the built-in Deed Book C-D `Marwee` path as retired for Murray-specific work.
   - Treat the old `1826 John Murray / Fred L. Fish` slot as closed; it is a misindexed **1899** oil-and-gas lease.
   - Treat the old `1833 John Murray` slot as closed; it is also a misindexed **1899** oil-and-gas lease.
-  - The direct John Murray deed path is now exhausted. The **1850 and 1860 Lewis County FAN sweeps** are complete, and Claude for Chrome should shift next to the **1870 Lewis County FAN sweep**.
+  - The direct John Murray deed path is now exhausted. The **1850, 1860, and 1870 Lewis County FAN sweeps** are complete, and Claude for Chrome should shift next to targeted **1870 Battelle / Willey image review**.
+  - Independently capture/read the 1870 census images for Battelle page 4 / image 8, Battelle page 41 / image 45, Willey page 53 / image 261, and Willey page 57 / image 265. Identify unindexed Ireland-born farmers on Battelle image 8.
   - Independently capture/read the 1860 census images for page 107 / image 113, page 114 / image 120, page 117 / image 123, and page 185 / image 191 when possible so the Claude extraction can become proof-grade evidence.
   - The exact prompt to hand to Claude for Chrome is now preserved in `Tier 1 Research Execution Kit.md` under `Current Highest-Value Claude for Chrome Task`.
   - Preserve any new FAN-sweep images, citation paths, neighbor captures, and interpretation first in `RQ-M1-LEWIS-COUNTY-FAN-SWEEP.md`, then update `Sources and Evidence Index.md`, `Topics/Murray Settlement.md`, `Research Priorities and Action Items.md`, and `People/Ann Copley.md` only if the result materially changes the case.
@@ -324,6 +335,7 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
 - `References/New England Ball Project Partlow Census Citation Extract.md`
 - `References/Copley History Part 1 and Appendix Source Audit.md`
 - `References/Claude for Chrome Lewis County 1860 FAN Sweep.md`
+- `References/Claude for Chrome Lewis County 1870 FAN Sweep.md`
 - `References/Thomas Copley May 2026 Email Leads.md`
 - `References/Tom Copley Email 2026-05-07 Ballymoe Ballinasloe Question.md`
 - `References/Tom Copley Email 2026-05-07 Focus Dolan Family.md`
@@ -341,8 +353,10 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
 - Does a Bridget Copley Reynolds descendant line preserve a Copley family Bible, Bible transcript, probate packet, or inherited correspondence naming Michael's parents?
 - Do Lewis County probate, heirship, chancery, or oil-title files after Michael Copley Sr.'s 1897 death cite a family Bible or name his parents?
 - Did a Murray family arrive in the Lewis County settlement area before the Copleys?
-- Why do Copley / Coopley households disappear from the indexed 1860 Lewis County census after appearing in 1850?
+- Why do Copley / Coopley households disappear from the indexed 1860 and 1870 Lewis County censuses after appearing in 1850?
 - What rural district or locality contains the 1860 Dolan / Murry Irish cluster once the census schedule header is independently read?
+- How do 1850 District 30 and the 1860 blank rural district pages map onto 1870 Battelle, Willey, Weston, or other Lewis County township names?
+- Who are the unindexed Ireland-born farmers on 1870 Battelle image 8?
 - Is there a surviving marriage or church record that names Ann's maiden surname directly?
 - Is Frank Partlow the same person as Nollie Franklin Partlow, and is Alice Rude the same person as Mary Alice Rude/Partlow?
 - Can original records prove Jacob Partlow as the son of Benjamin Partlow?

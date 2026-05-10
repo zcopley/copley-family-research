@@ -1,0 +1,164 @@
+1870 LEWIS COUNTY, WEST VIRGINIA - FAN-SWEEP CENSUS REPORT
+
+Received from Zach Copley on 2026-05-10.
+
+SEARCH SCOPE
+
+Collection / website: FamilySearch.org - United States, Census, 1870 - Collection ID 1438024
+Film: Digital Folder 004268429_001_M9CX-5FK / NARA Microcopy M593, Roll 1691 - "West Virginia, 1870 federal census: population schedules: Lewis. Census 1870" - 268 images total
+Census year: 1870
+County / state: Lewis County, West Virginia
+Search terms used: Copley / Coopley; Murray / Murry; Dolan; Hanley; Hannon / Hanrahan; Gillooly; Mullooly / Mulooly; Reynolds; Mulroney; Mahon / McMahon / McMahan; Munday / Monday / Mondy; White; Cummings / Cummins
+
+Indexing problems / caveats:
+- The 1860 Ireland-born Murry brothers Luke (b. 1822) and Patrick (b. 1826) do not appear in the 1870 Lewis County index under any spelling variant. The Murray/Murry count dropped from 13 Lewis County hits in 1860 to 3 in 1870, none Ireland-born.
+- Mullooly is indexed and written as "Mulooly" throughout.
+- Hannon is indexed as "Hanrahan"; returned as hits on Hannon search.
+- Cummings returned 12 hits clearly including Ireland-born household heads.
+- "Nancy Coplin" (Weston, b. 1823, Virginia) is the only Copley-variant hit; written name was not verified and may be correct as Coplin, not Copley.
+- District headers for Battelle and Willey were partly obscured by the viewer toolbar; district names were confirmed from indexed Event Place (Original) fields.
+
+HOUSEHOLD HITS
+
+Household 1: Owen Mulooly, Battelle District
+- Indexed / written name: Owen Mulooly
+- Surname category: Mullooly target surname
+- Location / district: Battelle, Lewis, West Virginia. Post office tentatively Buster / Butler Fork / Stonecoal Fork, not fully legible.
+- Household: Owen Mulooly (53, Ireland), Catharine Mulooly (53, Ireland), John (16, VA), Thomas (14, VA), James (12, VA), William (10, VA), Owen (8, VA), Catharine (6, WV), Michael (4, WV).
+- Occupation: Farmer.
+- Estate: approximately $1775 real estate / $475 personal estate, not dollar-verified.
+- Page / image / ARK: Page 4, image 8, ARK MZ4L-GSH, Household Identifier 22, line 33.
+- FamilySearch tree: Owen Mullooly, 1823-1903, KHW6-Z1H.
+
+Household 2: Patrick Ferril + Patrick Dolan + Elizabeth Dolan, Battelle District
+- Indexed names: Patrick Dolan; Elizabeth Dolan.
+- Written names: Patrick Ferril (head), Patrick Dolan, Elizabeth Dolan.
+- Surname category: Dolan target surname; Ferril associated surname.
+- Location / district: Battelle, Lewis, West Virginia.
+- Household: Patrick Ferril (55, Ireland), Mary Ferril (45, Ireland), James Ferril (22, Ireland), Elizabeth Dolan (20, Ireland), Patrick Dolan (23, Ireland), James Thomas Dolan (infant, WV), Mary Ferril (20, VA).
+- Occupation: Farmer.
+- Estate: approximately $1900 real estate / $500 personal estate, not dollar-verified.
+- Page / image / ARK: Page 41, image 45, ARK MZ4L-K2Z, Household Identifier 278, line 26.
+- FamilySearch tree: Patrick Dolan, 1846-1912, LZW3-4QZ.
+
+Household 3: Thomas Hanrahan, Willey District
+- Indexed name: Thomas Hanrahan.
+- Written name: Hanahan Thomas, surname-first convention.
+- Surname category: Hannon variant / Hanrahan.
+- Location / district: Willey, Lewis, West Virginia.
+- Household: Thomas Hanrahan (52, Ireland), Mary R Hanrahan (36, VA), John C Hanrahan (2, WV), James P Hanrahan (1, WV).
+- Occupation: Farmer.
+- Estate: $200 real estate visible.
+- Page / image / ARK: Page 53, image 261, ARK MZ4G-7MN, Household Identifier 360, line 23.
+- FamilySearch tree: Thomas Hanrahan, 1818-1881, 9HLD-KYB.
+
+Household 4: Thomas Cummings + Bridget Cummings, Willey District
+- Indexed / written name: Thomas Cummings; written surname-first as Cummings Thomas.
+- Surname category: Cummings target surname, confirmed Ireland-born.
+- Location / district: Willey, Lewis, West Virginia.
+- Household: Thomas Cummings (43, Ireland), Bridget Cummings (36, Ireland), Patrick H (15, VA), Margaret (14, VA), Francis (11, VA), Thomas (9, VA), Michael (5, WV), John J (3, WV), Mary A (2, WV).
+- Occupation: Farmer.
+- Estate: $200 real estate / $500 personal estate.
+- Page / image / ARK: Page 57, image 265, ARK MZ4G-DDM, Household Identifier 387, line 13.
+- FamilySearch tree: Thomas Cummings, 1825-deceased, 9KNG-LHB.
+
+Household 5: Joana McMahon, Weston
+- Indexed name: Joana McMahon.
+- Written name: not separately verified.
+- Surname category: Mahon / McMahon target surname.
+- Location / district: Weston, Lewis, West Virginia.
+- Household: Joana McMahon (37, Ireland), listed alone; likely boarder or servant in institution / boarding house.
+- Page / image / ARK: Page 27, image 207, ARK MZ4L-N4Y, line 11.
+
+Household 6: Nancy Coplin, Weston
+- Indexed name: Nancy Coplin.
+- Written name: not verified from image.
+- Surname category: tentative Copley-variant only; likely not Copley.
+- Location / district: Weston, Lewis, West Virginia.
+- Household: Nancy Coplin (47, Virginia), in a very large institutional group headed by Ralph Hilly and Emily G. Hilly, likely Trans-Allegheny Lunatic Asylum / Weston State Hospital. Ireland-born John Cavanaugh and Ellen Shane also appear in the same institutional household.
+- Page / image / ARK: Page 23, image 202, ARK MZ4L-FL5, Household Identifier 151, line 17.
+- Interpretation: not a Copley farming household; no evident connection to the 1850 Micheal / Patrick Coopley household.
+
+Household 7: Murray / Murry remnant households
+- Margaret Murray (25, Virginia, Weston), boarder in John W. Varney household, page 4, image 184.
+- John D Murry (12, Virginia, Jane Lew), child in Virginia-born family.
+- Elmira Murry (9, Indiana), child, no specific Lewis County sub-location shown.
+- Interpretation: no Ireland-born Murray / Murry household in 1870 Lewis County.
+
+Households 8-11: Hanrahan family
+- All four Hanrahan index entries belong to the Thomas Hanrahan household already listed.
+
+Household 12: James Dolan, Weston
+- Indexed name: James Dolan.
+- Location: Weston, Lewis, West Virginia.
+- Birthplace: Virginia, b. 1845.
+- Not Ireland-born and not a primary target.
+
+NEGATIVE RESULTS
+
+- Copley / Coopley / Copely: zero hits; Nancy Coplin is likely unrelated and institutional.
+- Murray / Murry, Ireland-born: zero; three hits all Virginia / Indiana-born.
+- Hanley: zero.
+- Gillooly / Gilhooly: zero.
+- Mulroney: zero.
+- Reynolds, Ireland-born: zero; three Reynolds hits all Virginia-born.
+- Munday / Monday / Mundy, Ireland-born in Lewis County: effectively zero. Mary Monday b. 1847 Ireland appeared without confirmed Lewis County location.
+- White, Ireland-born: zero. The 1860 Ireland-born White family disappears from the 1870 Lewis County index.
+
+NEIGHBOR CLUSTERS
+
+Cluster 1: Battelle district, images 8 and 45 - Irish farming cluster
+
+Target: Owen Mulooly, image 8, page 4, line 33
+- Previous neighbors include mostly Virginia / WV-born households plus at least one unindexed Ireland-born farmer with substantial estate, surname outside the target list.
+- Following neighbors include the continuing Mulooly household and at least one, possibly two, additional Ireland-born farming households outside the target surname list.
+- Interpretation: image 8, page 4 of Battelle district contains a dense concentration of Ireland-born farming households. Owen Mulooly is flanked by other Ireland-born farmers outside the 13-surname target list.
+
+Target: Patrick Ferril / Patrick Dolan, image 45, page 41, line 26
+- Previous neighbors on image 45 are predominantly Virginia / WV-born farming families.
+- Following neighbors include continuation of Ferril / Dolan household and mostly Virginia / WV-born households.
+- Interpretation: Ferril / Dolan is in Battelle but 37 pages after Mulooly, not immediate neighbors on the same page. The household belongs to the broader Battelle township Irish cluster.
+
+Cluster 2: Willey district, images 261 and 265 - Irish farming cluster
+
+Target: Thomas Hanrahan and Thomas Cummings
+- Thomas Hanrahan and Thomas Cummings are sequential households in Willey district.
+- Both are Ireland-born heads; Bridget Cummings is also Ireland-born.
+- Cummings child birthplace pattern suggests arrival in Virginia about 1854-1855.
+- Land values are more modest than Battelle cluster values.
+- Interpretation: Willey contains a smaller but distinct Irish farming sub-cluster, geographically separate from Battelle.
+
+RQ-M1 INTERPRETATION
+
+- The 1870 evidence supports a broader Irish cluster pattern, not a Murray-centered cluster.
+- No Ireland-born Murray / Murry head appears in 1870 Lewis County; Luke and Patrick Murry from 1860 vanish.
+- Dolan continues through Patrick Dolan in the Ferril household, but the prominent 1860 Dolan heads Thomas and John do not appear in the 1870 index.
+- The cluster is now most visible through Mulooly, Ferril / Dolan, Hanrahan, and Cummings households in Battelle and Willey.
+- No Copley farming household appears in 1870; the only Copley-like hit is Nancy Coplin in a Weston institutional household and is likely not relevant.
+- The 1870 census points to two rural township clusters, Battelle and Willey, neither obviously Weston / Courthouse. The relation between 1850 District 30 and 1870 township names remains unresolved.
+- The 1870 result weakens a Murray-specific anchor model but strengthens the broader Irish-settlement model.
+- Owen Mulooly emerges as a major 1870 anchor household.
+- Ferril becomes a key Battelle associated surname.
+- Cummings is confirmed as an Ireland-born Lewis County household by 1870, resolving the 1860 Cummons ambiguity.
+- The continuing 1860-1870 Copley / Coopley absence deserves separate attention.
+
+FAILURE MODE
+
+1. Battelle district header: township confirmed from index, post office not fully legible.
+2. Willey district header: township confirmed from index, post office not read.
+3. Nancy Coplin written name not verified from image.
+4. Luke and Patrick Murry absent from 1870 with no explanation found.
+5. Ireland-born White family absent from 1870 with no explanation found.
+6. Unindexed Ireland-born farmers on Battelle image 8 were not captured.
+7. 1850 District 30 to 1870 township mapping remains unresolved.
+8. No Ireland-born Murray / Murry household confirmed in 1870.
+9. Mary Monday b. 1847 Ireland lacks confirmed Lewis County location.
+10. Neighbor reads for Patrick Dolan / Battelle image 45 were small-scale and need confirmation.
+
+FILM IDENTIFICATION
+
+- Collection: United States, Census, 1870 - FamilySearch Collection ID 1438024
+- NARA Publication: M593, Roll 1691
+- Film title: West Virginia, 1870 federal census: population schedules: Lewis. Census 1870
+- Digital Folder: 004268429_001_M9CX-5FK
+- Total images: 268

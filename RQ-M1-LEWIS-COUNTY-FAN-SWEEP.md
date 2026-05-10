@@ -19,7 +19,7 @@ tags:
 
 This page is the findings log for census and neighbor-network research around the Murray Settlement hypothesis in Lewis County, Virginia / West Virginia.
 
-**Current status:** The bounded Claude for Chrome FAN-sweep passes for **1850** and **1860** are now complete. The 1850 pass found the **Micheal / Patrick Coopley** household in **District 30**, but no broader Irish surname cluster. The 1860 pass found a dense rural Ireland-born cluster centered on **Dolan / McLaughlin / Rogers or Rogan / Burke / Fealey / Buck / Murry** households, plus a separate Weston Irish boarding-house cluster, but no indexed Copley / Coopley household. The next bounded census step is now **1870**.
+**Current status:** The bounded Claude for Chrome FAN-sweep passes for **1850**, **1860**, and **1870** are now complete. The 1850 pass found the **Micheal / Patrick Coopley** household in **District 30**, but no broader Irish surname cluster. The 1860 pass found a dense rural Ireland-born cluster centered on **Dolan / McLaughlin / Rogers or Rogan / Burke / Fealey / Buck / Murry** households, plus a separate Weston Irish boarding-house cluster, but no indexed Copley / Coopley household. The 1870 pass found rural Irish farming clusters in **Battelle** and **Willey** around **Mulooly, Ferril / Dolan, Hanrahan, and Cummings**, but no Ireland-born Murray / Murry household and no Copley farming household. The next bounded work is targeted image capture and district mapping, not another broad 1870 sweep.
 
 ## Research Question
 
@@ -34,7 +34,7 @@ This matters because a census-neighbor cluster near Cove Lick, Camden, Loveberry
 | 1840 | Lewis County, Virginia | Earliest practical snapshot before the 1843 Copley deed. | Pending |
 | 1850 | Lewis County, Virginia | First named household census after settlement formation. | Complete |
 | 1860 | Lewis County, Virginia | Confirms persistence and neighbor clustering. | Complete |
-| 1870 | Lewis County, West Virginia | Post-Civil War continuity check. | Next |
+| 1870 | Lewis County, West Virginia | Post-Civil War continuity check. | Complete |
 
 ## Priority Surnames
 
@@ -55,7 +55,7 @@ This matters because a census-neighbor cluster near Cove Lick, Camden, Loveberry
 | 1850 | Hudson Murray | Hudson Murray | District not confirmed; later image sequence | Hudson (50, VA), Elizabeth (50, VA) | Both Virginia | Not captured | Image 195 of 237; ARK `1:1:M8DC-X3T` | No cluster work completed around this household | Not clearly relevant to immigrant Irish settlement question. |
 | 1860 | Luke Murry; Patrick Murry | Likely Luke Murry; Patrick Murry | Rural Lewis County; Event Place (Original) indexed as `[Blank], Lewis, Virginia`; page 114 | Luke (38), Ann (24), children Patrick, John, Mary; Patrick Murry (34); Owen Loghan / Logan boarder | Luke, Ann, Patrick Murry = Ireland; children = Virginia | Not fully captured | Image 120; page 114; ARKs `1:1:M41D-7S4` and `1:1:M41D-7S6` | Same-page Irish clues include Barnard Lightwood / Leighwood [?], Patrick Green [?], and Owen Loghan / Logan | First Ireland-born Murry / Murray household found in Lewis County FAN work; likely post-1850 immigrants and important cluster component, but not a proven pre-1843 anchor family. |
 | 1860 | Hudson Murry | Not independently checked | Lewis County, exact page not captured | Hudson (59), Elizabeth (52), William, Mary F., Mary E., John D. | All Virginia | Not captured | Image not captured | No neighbor cluster captured | Carries over from 1850 as a Virginia-born Murray line with no clear Irish-settlement relevance. |
-| 1870 |  |  |  |  |  |  |  |  |  |
+| 1870 | Margaret Murray; John D. Murry; Elmira Murry | Not fully checked | Weston / Jane Lew / unspecified | Margaret (25, VA), boarder; John D. (12, VA), child; Elmira (9, IN), child | No Ireland-born Murray / Murry household found | Not applicable | Margaret: page 4, image 184; others not fully captured | No Ireland-born Murray / Murry cluster; Luke and Patrick Murry from 1860 disappear from the Lewis County index. |
 
 ## Copley / Copely Household Findings
 
@@ -64,7 +64,7 @@ This matters because a census-neighbor cluster near Cove Lick, Camden, Loveberry
 | 1840 |  |  |  |  |  |  |  |  |  |
 | 1850 | Micheal Coopley; Patrick Coopley | Micheal Coopley; Patrick Coopley | District 30 | Micheal (36, Ireland, farmer, $1,000), Ann (26, Ireland), Patrick (48, Ireland, laborer), children John, Mary, Catharine, Ann all Virginia-born | Micheal, Ann, Patrick = Ireland; children = Virginia | Farmer; Laborer | Image 209 of 237; ARKs `1:1:M8DC-FQ9` and `1:1:M8DC-FQ4` | Immediate neighbors mostly Scottish- and Virginia-born; Thomas White from Ireland appears nearby on next image | Strongest positive 1850 Irish-origin household in the target surname set; confirms early Copley presence, but not a dense Irish cluster. |
 | 1860 | Copley / Coopley / Copely |  | Lewis County | No indexed household found |  |  | FamilySearch 1860 census search, collection `1473181` | Negative result despite 1850 Coopley presence | Critical gap: the 1850 Coopley household does not survive into the 1860 index under recognizable variants, preventing a direct 1860 census-neighbor link to the Dolan / Murry cluster. |
-| 1870 |  |  |  |  |  |  |  |  |  |
+| 1870 | Nancy Coplin | Not verified from image | Weston, likely institutional household | Nancy Coplin (47, VA) in a large household headed by Ralph and Emily Hilly | Virginia-born; no Copley farming household found | None | Page 23, image 202; ARK `1:1:MZ4L-FL5` | Tentative Copley-like hit only. Likely not a Copley match and likely a Weston asylum resident; no link to the 1850 Coopley farming household. |
 
 ## Settlement-Family Findings
 
@@ -76,7 +76,11 @@ This matters because a census-neighbor cluster near Cove Lick, Camden, Loveberry
 | 1860 | Dolan | Thomas Dolan; John Dolan | Rural Lewis County; Event Place (Original) `[Blank], Lewis, Virginia` | Thomas / Honora Dolan with older Ireland-born children and younger Virginia-born children; John / Ann Dolan with Virginia-born children and Patrick Malady boarder | McLaughlin, Rogers / Rogan, Evans / Davis, Spratt, Arnold, Burke, Buck, Fealey, Malady, possible Leary / Murray | Image 123; page 117; ARKs `1:1:M41D-7BB` and `1:1:M41D-717` | Strongest Irish-born farming cluster found so far; likely Famine-era or immediate post-Famine settlement. |
 | 1860 | Mahon / Mahan / Mc Mahan | Michael Loftus household with James Mc Mahan; Bridget Mahan nearby | Weston, Lewis County | Irish boarding-house and nearby Mahan entries | Loftus, Barret, Mc Mahan, Mahan, Dolan | Image 191; page 185; ARKs `1:1:M41D-C66` and `1:1:M41D-ZWJ` | Separate Weston urban Irish cluster, distinct from the rural Dolan / Murry cluster. |
 | 1860 | White | James, Esther, Thomas, Mary, and younger James White entries | Lewis County and Weston | Several Ireland-born White entries | Not captured | Images not captured | Needs direct image/page and neighbor capture because White is a recurring Irish/land-associate clue. |
-| 1870 |  |  |  |  |  |  |  |
+| 1870 | Mullooly / Mulooly | Owen Mulooly | Battelle, Lewis County | Owen and Catharine Mulooly with seven children | Owen and Catharine born Ireland; children born Virginia / West Virginia | Page 4; image 8; ARK `1:1:MZ4L-GSH` | Major 1870 Ireland-born farming household and strongest Battelle anchor found so far. |
+| 1870 | Dolan / Ferril | Patrick Ferril household with Patrick and Elizabeth Dolan | Battelle, Lewis County | Patrick and Mary Ferril, James Ferril, Patrick and Elizabeth Dolan, infant James Thomas Dolan, Mary Ferril | Ferril and Dolan adults born Ireland; infant born West Virginia | Page 41; image 45; ARK `1:1:MZ4L-K2Z` | Battelle Irish household tying Ferril and Dolan names together, but not same-page neighbors with Owen Mulooly. |
+| 1870 | Hannon / Hanrahan | Thomas Hanrahan | Willey, Lewis County | Thomas Hanrahan, Mary R., John C., James P. | Thomas born Ireland; wife born Virginia; children born West Virginia | Page 53; image 261; ARK `1:1:MZ4G-7MN` | Hannon-variant candidate; adjacent to Cummings cluster. |
+| 1870 | Cummings / Cummins | Thomas and Bridget Cummings | Willey, Lewis County | Thomas and Bridget with seven children | Thomas and Bridget born Ireland; older children born Virginia, younger children West Virginia | Page 57; image 265; ARK `1:1:MZ4G-DDM` | Confirms Ireland-born Cummings household and resolves the 1860 Cummons ambiguity. |
+| 1870 | Mahon / McMahon | Joana McMahon | Weston, Lewis County | Joana McMahon listed alone | Born Ireland | Page 27; image 207; ARK `1:1:MZ4L-N4Y` | Weston Irish remnant, likely boarder / servant / institutional resident. |
 
 ## Neighbor-Cluster Capture
 
@@ -89,6 +93,9 @@ For any promising Murray, Copley, Dolan, Hanley, Hannon, Gillooly, Reynolds, or 
 | 1860 | Thomas Dolan / John Dolan | Fealey; Rogers / Rogan; Evans / Davis; Spratt; Arnold; Burke; Buck; Miller | Moneypenny; Collins | Dense Ireland-born run: McLaughlin, Lapham / Leapham / Laughlan, Dolan, Malady, possible Leary / Murray, plus multiple Irish-born households on prior page | McLaughlin, Buck, Evans, Rogers / Rogan show real estate values; Dolans are farming households | Strongest settlement-cluster evidence so far. The cluster is Irish and rural, but district locality remains unresolved from the index. |
 | 1860 | Luke / Patrick Murry | Ellis; Franklin; Barnard Lightwood / Leighwood [?] | Thomas C. Lightwood / Leighwood; James E. Lightwood / Leighwood; Patrick Green [?] | Luke and Patrick Murry are Ireland-born; Owen Loghan / Logan boarder; nearby Ireland-born Lightwood / Leighwood and Green candidates | Barnard Lightwood / Leighwood appears to hold $1,000 real estate; Patrick Green has smaller real estate | Important Ireland-born Murry presence in a mixed neighborhood near other Irish families, but less dense than the Dolan cluster. |
 | 1860 | Michael Loftus / James Mc Mahan | Not fully captured | Not fully captured | Loftus, Barret, Mc Mahan, Mahan, Dolan Weston entries | Weston boarding-house pattern rather than rural farm cluster | Separate urban Irish cluster at Weston. |
+| 1870 | Owen Mulooly | Mostly Virginia / West Virginia-born households, plus at least one unindexed Ireland-born farmer immediately before the Mulooly household | Mulooly household continuation, plus at least one and possibly two additional unindexed Ireland-born farmers | Battelle image 8 has multiple Ireland-born farmers outside the target surname list | Owen Mulooly has substantial real estate; neighboring Irish farmers also appear to have substantial estate values | Strongest 1870 cluster clue. Battelle is an Irish farming cluster larger than the target-surname list. |
+| 1870 | Patrick Ferril / Patrick Dolan | Mostly Virginia / West Virginia-born farmers on same image | Ferril / Dolan continuation and mostly Virginia / West Virginia-born households | Ferril / Dolan adults are Ireland-born | Patrick Ferril appears to hold substantial real estate | Same Battelle district as Mulooly, but 37 pages later; not an immediate same-page Irish cluster. |
+| 1870 | Thomas Hanrahan / Thomas Cummings | Mostly Virginia / West Virginia-born farmers before Hanrahan | Cummings household follows Hanrahan; later neighbors mostly Virginia / West Virginia-born | Hanrahan and Cummings are sequential Ireland-born households; Bridget Cummings also Ireland-born | Hanrahan and Cummings hold more modest real estate than Battelle Irish farmers | Smaller but distinct Willey Irish farming sub-cluster. |
 
 ## Negative Findings
 
@@ -109,6 +116,12 @@ For any promising Murray, Copley, Dolan, Hanley, Hannon, Gillooly, Reynolds, or 
 | 1860 | Reynolds | FamilySearch U.S. Census, Lewis County VA | Exact surname search | No Lewis County proper hit | Two Preston County hits excluded. |
 | 1860 | Munday / Monday / Mundy | FamilySearch U.S. Census, Lewis County VA | Exact and variant surname search | No independent household found | False positives were Monepenny. |
 | 1860 | Cummings / Cummons | FamilySearch U.S. Census, Lewis County VA | Variant surname search | Not confirmed in Lewis County proper | Locality data incomplete; one result clearly Preston County. |
+| 1870 | Copley / Coopley / Copely | FamilySearch U.S. Census, Lewis County WV | Variant surname search | No Copley farming household found | Nancy Coplin is Virginia-born, likely institutional, and not treated as a Copley match without image confirmation. |
+| 1870 | Murray / Murry, Ireland-born | FamilySearch U.S. Census, Lewis County WV | Variant surname search | No Ireland-born household found | Three Murray / Murry hits are Virginia / Indiana-born; Luke and Patrick Murry from 1860 disappear. |
+| 1870 | Hanley, Gillooly / Gilhooly, Mulroney | FamilySearch U.S. Census, Lewis County WV | Exact and variant surname search | No Lewis County hit |  |
+| 1870 | Reynolds, Ireland-born | FamilySearch U.S. Census, Lewis County WV | Exact surname search | No Ireland-born Lewis County hit | Three Reynolds hits are Virginia-born. |
+| 1870 | Munday / Monday / Mundy, Ireland-born in Lewis County | FamilySearch U.S. Census, Lewis County WV | Variant surname search | No confirmed Lewis County hit | Mary Monday (b. 1847, Ireland) has no confirmed Lewis County sub-location. |
+| 1870 | White, Ireland-born | FamilySearch U.S. Census, Lewis County WV | Exact surname search | No Ireland-born Lewis County hit | The 1860 Ireland-born White family disappears from the 1870 index. |
 
 ## Evaluation Rules
 
@@ -143,3 +156,4 @@ For any promising Murray, Copley, Dolan, Hanley, Hannon, Gillooly, Reynolds, or 
 - [[Tier 1 Research Execution Kit]]
 - [[References/Claude for Chrome Lewis County 1850 FAN Sweep]]
 - [[References/Claude for Chrome Lewis County 1860 FAN Sweep]]
+- [[References/Claude for Chrome Lewis County 1870 FAN Sweep]]

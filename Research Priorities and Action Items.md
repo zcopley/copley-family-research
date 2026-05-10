@@ -20,7 +20,7 @@ This is the public research operating list for the Copley family wiki. Use [[Sou
 | Area | Current Status | Best Next Action |
 |---|---|---|
 | Ann Munday / likely Murray | Strong working conclusion; direct identity record still missing. | Identify Ann's Kinawley Murray household and keep searching for a direct marriage, passenger, church, or child death record. |
-| Murray Settlement | Plausible high-value framework for the Lewis County Irish Catholic cluster; the exact-surname grantee search is complete, physical pages 334 and 404 are confirmed mismatches, the former "Marwee Sawig" line has been retired as non-Murray, the old 1826 Murray/Fish and 1833 John Murray leads are both closed as 1899 oil-and-gas lease misindexes, the 1850 FAN sweep found the Coopleys early but no broader Irish cluster, and the 1860 FAN sweep found a dense rural Dolan-centered Irish cluster with Ireland-born Luke / Patrick Murry but no indexed Copley household. | Continue the FAN sweep with 1870, then keep working the Kinawley Murray-household question. |
+| Murray Settlement | Plausible high-value framework for the Lewis County Irish Catholic cluster; the direct deed path is exhausted; the 1850, 1860, and 1870 FAN sweeps are complete. The 1870 pass weakens a Murray-specific anchor by finding no Ireland-born Murray / Murry household, but strengthens the broader Irish-cluster model with Battelle and Willey farming clusters around Mulooly, Ferril / Dolan, Hanrahan, and Cummings. | Do targeted 1870 image review for Battelle / Willey and map 1850 District 30 / 1860 blank rural pages to later township names. |
 | Michael Copley Sr. origins | Kilgefin / Fairymount remains the strongest working origin; John Copley + Sarah Dolan remains an unresolved parentage hypothesis. | Connect the documented Fairymount Copely family to Michael through parish, civil, or collateral records, and test the May 2026 family Bible / Lewis County probate lead. |
 | Mary Copely Giblin / Iowa branch | Verified person; relationship to Michael is plausible but unproven. | Build the Iowa descendant chain and identify Stephen Donald Copley's parents. |
 | Copley No. 1 oil strike | Oil-strike context is verified; family financial effect remains plausible. | Locate lease, royalty, title-chain, probate, and estate records for 1899-1925. |
@@ -39,7 +39,7 @@ The highest-impact items below have practical templates in [[Tier 1 Research Exe
 **Impact:** HIGH - The direct deed path is now exhausted, so the best remaining way to test the settlement framework in Lewis County is the named-household and neighbor-cluster record trail.
 **Research Status:** The former **1826 Murray / Fish** lead is now closed as a **1899** oil-and-gas lease misindex. The former **1833 John Murray** lead is also now closed as a **1899** oil-and-gas lease misindex. The compiled Grantor Index M-S check did not show a clear Murray entry between Munson and Musgrave, the compiled exact-surname Grantee Index G-M search is now complete with only 1865-1934 Murray entries on images 553-554, physical pages 334 and 404 in Deed Book C-D are confirmed mismatches, and the former "Marwee Sawig" line has now been retired as non-Murray. Findings belong in [[RQ-M1-JOHN-MURRAY-DEED-FINDINGS|RQ-M1 John Murray Deed Findings]].
 
-**Current execution priority:** For a single browser-based research session such as Claude for Chrome, the highest-value next move is the **1870 Lewis County FAN sweep**. The 1850 and 1860 passes are now complete: 1850 shows the Coopleys without the broader Irish cluster, while 1860 shows a dense rural Dolan-centered Irish cluster, Ireland-born Luke / Patrick Murry, and a separate Weston Irish boarding-house cluster, but no indexed Copley / Coopley household.
+**Current execution priority:** For a single browser-based research session such as Claude for Chrome, the highest-value next move is **targeted 1870 image review for Battelle and Willey**. The 1850, 1860, and 1870 broad FAN-sweep passes are complete; the next step is to verify the 1870 images, identify unindexed Ireland-born farmers on Battelle image 8, and resolve district / post-office wording.
 
 **How to proceed:**
 - Treat the exact-surname Grantee Index G-M search as complete for **Murray** and preserve its negative pre-1843 result.
@@ -48,7 +48,8 @@ The highest-impact items below have practical templates in [[Tier 1 Research Exe
 - Verify the partially blocked 1865 Murray rows on compiled grantee index image 553 if the toolbar can be bypassed.
 - Preserve the completed 1850 FAN-sweep result: Coopleys in District 30, no Irish-born Murray household, and no Dolan / Hanley / Hannon-type cluster yet visible in Lewis County.
 - Preserve the completed 1860 FAN-sweep result: dense rural Dolan-centered Irish cluster, Ireland-born Luke / Patrick Murry, Weston Irish boarding-house cluster, and no indexed Copley / Coopley household.
-- Run the 1870 Lewis County FAN sweep next, then expand to 1840 or targeted image review if needed.
+- Preserve the completed 1870 FAN-sweep result: Battelle and Willey Irish farming clusters, no Ireland-born Murray / Murry household, no Copley farming household, and Cummings confirmed as an Ireland-born Lewis County household.
+- Run targeted image review for 1870 Battelle image 8, Battelle image 45, Willey image 261, and Willey image 265.
 - Capture exact written names, districts, household composition, birthplaces, occupations, and 10-15 neighboring households around the strongest targets.
 - Compare the resulting cluster to the 1843 Hoffman-Copley deed area and the Cove Lick / Camden / Loveberry / St. Michael's framework.
 - Add the citation, transcript, and interpretation to [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]], then update [[Topics/Murray Settlement]], [[Sources and Evidence Index]], and [[People/Ann Copley]] if the cluster materially changes the case.
@@ -71,11 +72,11 @@ The highest-impact items below have practical templates in [[Tier 1 Research Exe
 ### 3. Complete the Lewis County Settlement FAN Sweep
 **Relevance:** [[Topics/Murray Settlement|Murray Settlement]], [[Topics/Irish Immigration to West Virginia|Irish Immigration to West Virginia]]  
 **Impact:** HIGH - A full neighbor / associate / kin sweep would test whether the settlement was a coordinated Irish Catholic transplant rather than isolated family migration.  
-**Research Status:** Partially complete; independent Munday/Monday households were already searched in FamilySearch for Lewis County, 1840-1860, with none found.
+**Research Status:** Partially complete; bounded 1850, 1860, and 1870 passes are complete, but independent image capture and district mapping remain open.
 
 **How to proceed:**
 - Record findings in [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]] before changing narrative conclusions.
-- Sweep 1840, 1850, 1860, and 1870 Lewis County census records for Murray, Dolan, Hanley, Gillooly, Mullooly, Hannon, Reynolds, Mulroney, Mahon, and spelling variants.
+- Preserve the 1850, 1860, and 1870 sweep results, then use targeted image review and mapping to connect census clusters to physical settlement geography.
 - Prioritize households near Cove Lick, Camden, Loveberry, St. Michael's, and the Copley land cluster.
 - Record ages, birthplaces, neighbors, occupations, and adjacent surnames.
 - Compare results against passenger manifests and Lewis County deed records.
