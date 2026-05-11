@@ -10,6 +10,18 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4BI - Lewis County Census District Geography Integrated (May 11, 2026)
+
+**MURRAY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome census district-geography pass for the Lewis County FAN-sweep workstream. The pass reads the 1850, 1860, and 1870 census headers and checks White's 1875 West Virginia county/district map. It points the 1850 District 30 / 1860 blank rural pages / 1870 Battelle evidence toward the **Weston / courthouse hinterland** rather than directly toward Cove Lick / Camden / Loveberry, while preserving uncertainty about exact township boundaries.
+
+### Updated Pages
+
+- [[References/Claude for Chrome Lewis County Census District Geography|Claude for Chrome Lewis County Census District Geography]] - new browser-readable source note preserving the header readings, map citation, geographic inference, unresolved boundary gaps, and Mary Casey lead; raw text is published under `static/sources/claude-1870-fan-sweep/`.
+- [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]] - added a district-geography capture table and flagged Mary Casey of Willey as a new 1870 Ireland-born lead.
+- [[References/Claude for Chrome Lewis County 1870 FAN Sweep|Claude for Chrome Lewis County 1870 FAN Sweep]] and [[References/Claude for Chrome Lewis County 1870 Image Review|Claude for Chrome Lewis County 1870 Image Review]] - linked the district-geography follow-up and shifted follow-up from mapping to Mary Casey / image capture.
+- [[Tier 1 Research Execution Kit|Tier 1 Research Execution Kit]] and [[Research Priorities and Action Items|Research Priorities and Action Items]] - replaced the completed district-mapping Claude prompt with a narrow Mary Casey / Willey household-check prompt.
+- [[Topics/Murray Settlement|Murray Settlement]], [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]], [[Sources and Evidence Index|Sources and Evidence Index]], [[Search Index|Search Index]], and `.agents/AGENT_RESUME.md` - updated the public interpretation and next-step handoff.
+
 ## Phase 4BH - 1870 Image Review Correction Integrated (May 10, 2026)
 
 **MURRAY-WORKFLOW CORRECTION:** Integrated Zach's Claude for Chrome targeted correction for the 1870 Lewis County image-review pass. The FamilySearch Names panel corrected the Battelle image 8 sequence from Fish / Foley-or-Riley / Mulooly / unread to **Bush / Leely / Mulooly / McDonald**, and corrected the suspected extra Willey image 265 Ireland-born household as the Virginia-born **Jasper Butcher** household.

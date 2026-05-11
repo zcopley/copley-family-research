@@ -1,0 +1,191 @@
+LEWIS COUNTY CENSUS DISTRICT GEOGRAPHY - RESEARCH OUTPUT
+
+TASK SCOPE COMPLETED
+
+Five sub-tasks executed:
+1. 1850 image header.
+2. 1860 image headers.
+3. 1870 Battelle and Willey headers via index record zoom.
+4. White's 1875 County & District Map review, David Rumsey.
+5. FamilySearch index records to confirm Event Place (Original) for all three years.
+
+No new surname sweeps were run.
+
+1. 1850 - DISTRICT NO. 30, LEWIS COUNTY, VIRGINIA
+
+Image checked: Film 004206378, FamilySearch collection 1401638, image 209 of 237.
+
+Page header read directly from image with toolbar hidden:
+- "SCHEDULE I - Free Inhabitants in District No. 30 in the County of Lewis [State] of Virginia"
+- "enumerated by me, on the 26th day of September 1850. Chas. James Ass't Marshal"
+- Page number: 102.
+
+Households on this page:
+- Line 1: James Chaney, farmer, Scotland.
+- Line 7: Micheal Coopley, farmer, Ireland.
+- Line 8: Ann Coopley, wife, Ireland.
+- Line 9: John Coopley, child, Virginia.
+- Line 13: Patrick Coopley, laborer, Ireland. ARK M8DC-FQ4; Household Identifier 1388, House No. 1361, Line 13.
+
+Key geographic data:
+- Sub-district label: District No. 30.
+- No post office label present on 1850 schedule form.
+- Enumeration date: 26 September 1850.
+- Assistant marshal: Chas. James.
+
+2. 1860 - BLANK SUB-DISTRICT, POST OFFICE = WESTON, LEWIS CO. VA.
+
+Images checked: Film 005171727, FamilySearch collection 1473181, images 119, 120, 122 of 206.
+
+Page header read from images 119 and 120, confirmed on 122:
+- "SCHEDULE 1 - Free Inhabitants in ____________ in the County of Lewis State"
+- "of Virginia enumerated by me, on the 10th day of July 1860. Alfred H. [Jostrom/Jarrum?] Ass't Marshal"
+- "Post Office Weston Lewis Co. Va."
+- Page numbers: 113, image 119; 114, image 120; 116, image 122.
+
+Sub-district name: blank. FamilySearch indexes this as Event Place (Original) = "[Blank], Lewis, Virginia, United States."
+
+Ireland-born households confirmed on images 119-122:
+- Image 119 / page 113: Michael Brannan, 30, male, farmer, 1500 / 100, Ireland, partially visible at bottom.
+- Image 120 / page 114: Luke Murry, ARK M41D-7S4, 38, male, farmer, 800 / 1400, Ireland; children Patrick and John born Virginia.
+- Image 122 / page 116: William Ryan, dwelling/family 747/747, farmer, Ireland.
+- Image 122 / page 116: John [Dolan?], dwelling/family 748/748, farmer, Ireland.
+- Image 122 / page 116: Gideon Carter, laborer, "Free [Colored?]."
+- Image 122 / page 116: Michael Carroll, dwelling/family 749/749, farmer, 625 / 75, Ireland.
+
+Marshal: Alfred H. [surname unclear, possibly Jostrom / Jarrum / similar], different from the 1850 Chas. James.
+
+Post Office: Weston, Lewis Co. Va.
+
+3. 1870 - BATTELLE TOWNSHIP AND WILLEY DISTRICT, LEWIS COUNTY, WV
+
+3a. Battelle Township
+
+Confirmed by index record and header thumbnail.
+
+Index record:
+- Harriet Mitchel, ARK MZ4L-X57.
+- Event Place (Original): Battelle, Lewis, West Virginia, United States.
+- Image 5, Household Identifier 1, Line 3, Page 1.
+
+Header thumbnail:
+- Owen Mulooly record, ARK MZ4L-GSH.
+- "SCHEDULE 1 - Inhabitants in Battelle Township in the County of Lewis, State"
+- "of West Virginia enumerated by me, on the 22nd day of August 1870."
+- "[Name] Folley? Ass't Marshal"
+- "Post Office: Weston, West Va."
+- Image 8, Page 4.
+
+Key confirmation: 1870 uses the term Battelle Township, a formally named township, not just a numbered district. Post Office = Weston.
+
+3b. Willey District
+
+Confirmed by index record and header thumbnail.
+
+Index record:
+- Mary Casey, ARK MZ4L-G5R.
+- Event Place (Original): Willey, Lewis, West Virginia, United States.
+- Image approximately 390 in the film's page numbering, HH 8, Line 39.
+
+Header thumbnail:
+- "SCHEDULE 1 - Inhabitants in Willey in the County of Lewis, State"
+- "of West Virginia enumerated by me, on the 12th day of [June?] 1870."
+- "Post Office: [?] Weston Va."
+
+Note: Mary Casey is Ireland-born, born 1830, HH 8, Willey district, Page 390. This is a new find not in prior summaries. She should be flagged for the next research session but was not investigated in this task scope.
+
+4. MAP EVIDENCE - WHITE'S COUNTY & DISTRICT MAP OF WEST VIRGINIA, 1875
+
+Map: White, M. Wood. "White's County and District Map of the State of West Virginia from the most recent Surveys & Authentic Sources." Grafton, WV: M. Wood White, 1875. David Rumsey Historical Map Collection, ID RUMSEY~8~1~361995.
+
+URL: https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~361995~90129517
+
+Lewis County districts visible on the 1875 White map:
+1. Freemans Creek - northwestern Lewis County. Place names: Finks Creek P.O., Freemans Creek P.O., Troy, Leading Creek.
+2. Hackers Creek - northeastern Lewis County, adjacent to Weston. Place names: Hackers Creek P.O.
+3. Courthouse - central Lewis County, containing Weston. The district is labeled Court / House diagonally. Place names: Murphy's Creek, Middle R., Leading Creek P.O.
+4. Collins Settlement - southern Lewis County. Place names: Jacksonville, Walkersville, Ireland P.O., Beechtown.
+5. Skidmore - eastern Lewis County, partially visible at map margin. Place names: Allure's Mills, Gaston P.O., Bush P.O., Georgetown.
+
+Critical observation: The 1875 White map does not label "Battelle Township" or "Willey District." These are 1870 census enumeration district names that differ from the magisterial district names used on the White map. The relationship between the 1870 census township labels and the 1875 White magisterial district labels is not directly readable from the map at the available zoom level.
+
+Geographic inference: The Ireland-born households in Battelle Township have Weston as their post office, and Weston is in the Courthouse / Hackers Creek area of Lewis County. The Battelle Township households cluster near the county seat area, consistent with the Courthouse / Hackers Creek district boundary zone on White's map.
+
+5. GEOGRAPHIC CORRESPONDENCE TABLE
+
+1850:
+- Census division label: District No. 30, Lewis Co., VA.
+- Post office: none on form.
+- Marshal: Chas. James.
+- Pages/images: Page 102, image 209/237.
+- Key Irish households: Micheal / Patrick Coopley.
+
+1860:
+- Census division label: [Blank], Lewis Co., VA.
+- Post office: Weston, Lewis Co. Va.
+- Marshal: Alfred H. [?].
+- Pages/images: Pages 113-116, images 119-122/206.
+- Key Irish households: Murry, Ryan, [Dolan], Carroll.
+
+1870:
+- Census division label: Battelle Township, Lewis Co., WV.
+- Post office: Weston, West Va.
+- Marshal: [Folley?].
+- Pages/images: Pages 1-[~60], images 5-45/268.
+- Key Irish households: Bush, Leely, Mulooly, McDonald.
+
+1870:
+- Census division label: Willey [District], Lewis Co., WV.
+- Post office: [Weston?], West Va.
+- Marshal: [?].
+- Pages/images: Pages 57-[390+], images 216-268/268.
+- Key Irish households: Hanrahan, Cummings, Casey.
+
+6. DOES DISTRICT 30 (1850) MAP TO BATTELLE TOWNSHIP (1870)?
+
+Evidence suggesting yes, partial but probable:
+
+1. Both use Weston as the post office center. The 1860 sub-district explicitly uses Weston P.O. The 1870 Battelle header also shows Weston. District 30 in 1850 would have been served by Weston too.
+
+2. Continuity of Irish farming households. The 1850 Coopley households are Ireland-born farmers in District 30. The 1870 Battelle Irish households are Ireland-born farmers. This is consistent with the same rural farming area northwest / west of Weston.
+
+3. The 1860 blank sub-district was enumerated by Alfred H. [?], a different marshal from 1850 Chas. James. This fits the known fact that Virginia renumbered magisterial districts between 1850 and 1860.
+
+4. White's 1875 map shows Lewis County divided into five districts. Courthouse district contains Weston and is the central zone. District 30 of 1850 was likely the predecessor of this Courthouse / hinterland area, which then became Battelle Township under 1870 West Virginia township reorganization.
+
+Cautions:
+- The 1860 sub-district is explicitly blank. The census enumerator did not write a name.
+- The 1875 White map labels districts differently from the 1870 census. Battelle Township does not appear on the White map.
+- No direct documentary evidence links "District No. 30" to "Battelle Township" by name.
+
+Provisional conclusion: 1850 District 30 = rural area southwest-to-west of Weston, served by the Weston post office. This almost certainly includes or overlaps with what became Battelle Township in 1870. The Coopley households in 1850 and the Mulooly / Bush / Leely / McDonald households in 1870 are likely in the same general farming community, both centered on Weston and both populated by Ireland-born farmers.
+
+7. WHAT REMAINS UNRESOLVED
+
+1. Exact boundaries of Battelle Township vs. 1850 District 30 cannot be confirmed without a Lewis County township plat or county history that maps township boundaries. White's 1875 map is too coarse-grained to identify Battelle Township by name.
+
+2. The 1860 sub-district name is permanently blank from the census. A state-level source, West Virginia Archives, Lewis County historical atlas, or Hacker's Creek Pioneer Descendants publication would be needed.
+
+3. The Willey district geographic extent is unknown from census headers alone. Willey appears late in the film, suggesting a large district that may cover a different part of Lewis County from Battelle.
+
+4. Mary Casey, born 1830 in Ireland, Willey, HH 8, Page 390, was encountered during the Willey header check and was not in the prior Ireland-born inventory. She should be added to the next session's flagged list.
+
+5. The 1860 marshal's name, Alfred H. [Jostrom/Jarrum?], is partially illegible from the thumbnail. Direct image reading of images 119-120 with full zoom could recover this name.
+
+6. The Battelle marshal name, [Folley?], is only partially readable from the thumbnail. Recovering it would help confirm the enumeration officer roster.
+
+8. MAP CITATION
+
+Primary map citation:
+White, M. Wood. White's County and District Map of the State of West Virginia from the most recent Surveys & Authentic Sources. Grafton, WV: M. Wood White, 1875. David Rumsey Historical Map Collection, ID RUMSEY~8~1~361995. URL: https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~361995~90129517
+
+Supplementary geographic reference:
+FamilySearch Wiki. "Lewis County, West Virginia Genealogy." https://www.familysearch.org/en/wiki/Lewis_County,_West_Virginia_Genealogy. Confirms county seat = Weston; populated places include Ireland, Jacksonville, Camden.
+
+9. INTERPRETATION
+
+The result strongly supports a Weston / courthouse-hinterland interpretation. All three census years, 1850 District 30, 1860 blank sub-district, and 1870 Battelle Township, point to Weston as the postal center. The Ireland-born farming households cluster within easy range of Weston. The 1870 Battelle Township is almost certainly part of the Weston hinterland, the farming territory surrounding the county seat.
+
+The evidence does not support Cove Lick, Camden, or Loveberry as the primary location for the Battelle Irish cluster. Those place names do not appear in the post office or index data for the Ireland-born households reviewed.
+
+Willey is a separate geographic zone. The Hanrahan, Cummings, and Casey households in Willey also use Weston as a post office, but their enumeration date, June 12, differs from Battelle, August 22, suggesting Willey may be a more rural or distant district enumerated earlier in summer 1870.

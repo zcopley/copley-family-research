@@ -91,6 +91,16 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
 - Corrected the 1870 Battelle image 8 cluster from Fish / Foley-or-Riley / Mulooly / unread to **Bush / Leely / Mulooly / McDonald**.
 - Corrected the supposed extra Willey image 265 Ireland-born household before Thomas Cummings as the Virginia-born **Jasper Butcher** household.
 - Updated `RQ-M1-LEWIS-COUNTY-FAN-SWEEP.md`, `References/Claude for Chrome Lewis County 1870 FAN Sweep.md`, `Research Priorities and Action Items.md`, `Tier 1 Research Execution Kit.md`, `Sources and Evidence Index.md`, `Topics/Murray Settlement.md`, `Topics/Murray Settlement Research Roadmap.md`, `Search Index.md`, and `CHANGELOG.md` so the next Claude for Chrome task is district mapping rather than unread-household review.
+- Integrated Zach's May 11, 2026 Claude for Chrome **Lewis County census district-geography** handoff.
+- Created `References/Claude for Chrome Lewis County Census District Geography.md` and preserved the raw text at `static/sources/claude-1870-fan-sweep/lewis-county-census-district-geography-claude-output.txt`.
+- Updated `RQ-M1-LEWIS-COUNTY-FAN-SWEEP.md` with:
+  - 1850 District No. 30 header details for the Coopley page
+  - 1860 blank-subdistrict / Weston post-office header details for the Murry / Ryan / Carroll pages
+  - 1870 Battelle and Willey header / post-office details
+  - the White 1875 West Virginia county/district map citation
+  - the working interpretation that the visible 1850-1870 rural cluster evidence points toward the Weston / courthouse hinterland rather than directly to Cove Lick / Camden / Loveberry
+  - the new Mary Casey, Ireland-born, Willey, ARK `MZ4L-G5R`, follow-up lead
+- Updated `References/Claude for Chrome Lewis County 1870 FAN Sweep.md`, `References/Claude for Chrome Lewis County 1870 Image Review.md`, `Research Priorities and Action Items.md`, `Tier 1 Research Execution Kit.md`, `Sources and Evidence Index.md`, `Topics/Murray Settlement.md`, `Topics/Murray Settlement Research Roadmap.md`, `Search Index.md`, and `CHANGELOG.md` so the next Claude for Chrome task is the Mary Casey / Willey household check.
 
 - Added a reader-facing `What's Proven vs What's Still Open` callout to `Home.md` and `index.md`.
 - Added a compact `At A Glance: Proven vs Open` summary near the top of `Visual Story Atlas.md`.
@@ -272,7 +282,7 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
 - `Visual Story Atlas.md` is now the diagram-first public entry point for the story, evidence status, and research quests.
 - `RQ-M1-JOHN-MURRAY-DEED-FINDINGS.md` now exists as the place to paste John Murray deed images, transcripts, abstracts, and interpretation.
 - The Murray deed task now has Claude for Chrome handoffs integrated into the wiki for the original Deed Book C-D / grantor-index brief, the completed exact-surname grantee-index result, the controlled negative page-404 and page-334 checks, the final built-in-index recheck showing that "Marwee Sawig" is not Murray, and the corrected 1826/1833 misindex results. The direct John Murray deed path is now exhausted.
-- The Lewis County FAN-sweep task now has 1850, 1860, and 1870 Claude for Chrome handoffs integrated into the wiki, plus the corrected 1870 image-review pass. The 1870 image review confirms Battelle image 8 is a dense Irish farming cluster beyond the target surnames, with Michael Bush, Michael Leely, Owen Mulooly, and Michael McDonald. The suspected extra Willey image 265 Ireland-born household was a false read of the Virginia-born Butcher household. The Copley gap now spans both 1860 and 1870 because no indexed Copley / Coopley farming household appears in either census.
+- The Lewis County FAN-sweep task now has 1850, 1860, and 1870 Claude for Chrome handoffs integrated into the wiki, plus the corrected 1870 image-review pass and the district-geography pass. The 1870 image review confirms Battelle image 8 is a dense Irish farming cluster beyond the target surnames, with Michael Bush, Michael Leely, Owen Mulooly, and Michael McDonald. The district-geography pass points the visible 1850-1870 rural cluster evidence toward the Weston / courthouse hinterland rather than directly to Cove Lick / Camden / Loveberry. The Copley gap now spans both 1860 and 1870 because no indexed Copley / Coopley farming household appears in either census.
 - `RQ-P1-PARTLOW-REVOLUTIONARY-LINE.md` is now the active Partlow proof-chain log.
 - `References/Harry C Partlow 1960 Letter and Handwritten Lineage.md` is the local family-source note for the 1960 Harry Partlow letter and 1977 handwritten lineage.
 - The Partlow working line is: Marion Elizabeth Partlow Copley -> Nollie Franklin / Frank Partlow -> Marion McDonald / M. Partlow -> John H. / John Halleck / Hallick Partlow -> Jacob Partlow / Jacob Newton Partlow -> Benjamin Partlow.
@@ -302,7 +312,7 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
   - Treat the old `1826 John Murray / Fred L. Fish` slot as closed; it is a misindexed **1899** oil-and-gas lease.
   - Treat the old `1833 John Murray` slot as closed; it is also a misindexed **1899** oil-and-gas lease.
   - The direct John Murray deed path is now exhausted. The **1850, 1860, and 1870 Lewis County FAN sweeps** are complete, and the two unread 1870 household targets are resolved.
-  - Claude for Chrome should shift next to district mapping: determine how 1850 District 30, the 1860 Murry / Dolan rural pages, and 1870 Battelle / Willey relate to Weston, Cove Lick, Camden, Loveberry, and the 1843 Copley parcel.
+  - Claude for Chrome should shift next to the Mary Casey / Willey household check: ARK `MZ4L-G5R`, 1870 Lewis County, Willey district, HH 8, line 39.
   - Independently capture/read the 1860 census images for page 107 / image 113, page 114 / image 120, page 117 / image 123, and page 185 / image 191 when possible so the Claude extraction can become proof-grade evidence.
   - The exact prompt to hand to Claude for Chrome is now preserved in `Tier 1 Research Execution Kit.md` under `Current Highest-Value Claude for Chrome Task`.
   - Preserve any new FAN-sweep images, citation paths, neighbor captures, and interpretation first in `RQ-M1-LEWIS-COUNTY-FAN-SWEEP.md`, then update `Sources and Evidence Index.md`, `Topics/Murray Settlement.md`, `Research Priorities and Action Items.md`, and `People/Ann Copley.md` only if the result materially changes the case.
@@ -370,7 +380,8 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
 - Did a Murray family arrive in the Lewis County settlement area before the Copleys?
 - Why do Copley / Coopley households disappear from the indexed 1860 and 1870 Lewis County censuses after appearing in 1850?
 - What rural district or locality contains the 1860 Dolan / Murry Irish cluster once the census schedule header is independently read?
-- How do 1850 District 30 and the 1860 blank rural district pages map onto 1870 Battelle, Willey, Weston, or other Lewis County township names?
+- What is the full Mary Casey / Willey household and neighbor context in 1870?
+- What source can map exact 1850 District No. 30 / 1870 Battelle / Willey boundaries beyond the coarse White 1875 county map?
 - Is the 1870 image 8 surname indexed as Leely actually Leely, Lealy, Leahy, Liley, O'Leary, or another Irish surname?
 - What are the direct-image estate values for Michael McDonald on 1870 Battelle image 8?
 - Is there a surviving marriage or church record that names Ann's maiden surname directly?

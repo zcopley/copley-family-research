@@ -19,7 +19,7 @@ tags:
 
 This page is the findings log for census and neighbor-network research around the Murray Settlement hypothesis in Lewis County, Virginia / West Virginia.
 
-**Current status:** The bounded Claude for Chrome FAN-sweep passes for **1850**, **1860**, and **1870** are now complete. The 1850 pass found the **Micheal / Patrick Coopley** household in **District 30**, but no broader Irish surname cluster. The 1860 pass found a dense rural Ireland-born cluster centered on **Dolan / McLaughlin / Rogers or Rogan / Burke / Fealey / Buck / Murry** households, plus a separate Weston Irish boarding-house cluster, but no indexed Copley / Coopley household. The 1870 pass found rural Irish farming clusters in **Battelle** and **Willey**. Follow-up image review now corrects the Battelle image 8 cluster to **Bush / Leely / Mulooly / McDonald** and resolves the supposed extra Willey image 265 Ireland-born household as a false read of the Virginia-born **Butcher** household. No Ireland-born Murray / Murry household and no Copley farming household appeared in 1870. The next bounded work is district mapping and independent image capture for the 1850-1870 cluster pages.
+**Current status:** The bounded Claude for Chrome FAN-sweep passes for **1850**, **1860**, and **1870** are now complete. The 1850 pass found the **Micheal / Patrick Coopley** household in **District 30**, but no broader Irish surname cluster. The 1860 pass found a dense rural Ireland-born cluster centered on **Dolan / McLaughlin / Rogers or Rogan / Burke / Fealey / Buck / Murry** households, plus a separate Weston Irish boarding-house cluster, but no indexed Copley / Coopley household. The 1870 pass found rural Irish farming clusters in **Battelle** and **Willey**. Follow-up image review now corrects the Battelle image 8 cluster to **Bush / Leely / Mulooly / McDonald** and resolves the supposed extra Willey image 265 Ireland-born household as a false read of the Virginia-born **Butcher** household. The district-geography pass points the 1850-1870 rural cluster evidence toward the **Weston / courthouse hinterland** rather than directly toward Cove Lick / Camden / Loveberry. No Ireland-born Murray / Murry household and no Copley farming household appeared in 1870. The next bounded work is a narrow **Mary Casey / Willey** household check and independent image capture for the key cluster pages.
 
 ## Research Question
 
@@ -83,6 +83,7 @@ This matters because a census-neighbor cluster near Cove Lick, Camden, Loveberry
 | 1870 | Dolan / Ferril | Patrick Ferril household with Patrick and Elizabeth Dolan | Battelle, Lewis County | Patrick and Mary Ferril, James Ferril, Patrick and Elizabeth Dolan, infant James Thomas Dolan, Mary Ferril | Ferril and Dolan adults born Ireland; infant born West Virginia | Page 41; image 45; ARK `1:1:MZ4L-K2Z` | Battelle Irish household tying Ferril and Dolan names together, but not same-page neighbors with Owen Mulooly. |
 | 1870 | Hannon / Hanrahan | Thomas Hanrahan | Willey, Lewis County | Thomas Hanrahan, Mary R., John C., James P. | Thomas born Ireland; wife born Virginia; children born West Virginia | Page 53; image 261; ARK `1:1:MZ4G-7MN` | Hannon-variant candidate; adjacent to Cummings cluster. |
 | 1870 | Cummings / Cummins | Thomas and Bridget Cummings | Willey, Lewis County | Thomas and Bridget with seven children | Thomas and Bridget born Ireland; older children born Virginia, younger children West Virginia | Page 57; image 265; ARK `1:1:MZ4G-DDM` | Confirms Ireland-born Cummings household and resolves the 1860 Cummons ambiguity. |
+| 1870 | Casey | Mary Casey | Willey, Lewis County | Not yet investigated; surfaced during district-header check | Mary Casey born Ireland, about 1830 | ARK `1:1:MZ4L-G5R`; Willey district, household 8, line 39 | New narrow follow-up lead; not part of prior Ireland-born inventory. |
 | 1870 | Mahon / McMahon | Joana McMahon | Weston, Lewis County | Joana McMahon listed alone | Born Ireland | Page 27; image 207; ARK `1:1:MZ4L-N4Y` | Weston Irish remnant, likely boarder / servant / institutional resident. |
 
 ## Neighbor-Cluster Capture
@@ -99,6 +100,19 @@ For any promising Murray, Copley, Dolan, Hanley, Hannon, Gillooly, Reynolds, or 
 | 1870 | Battelle image 8 cluster | Carryover Virginia / West Virginia-born household, then Michael Bush, John R. King, Michael Leely, and Owen Mulooly | Michael McDonald immediately after Mulooly | Battelle image 8 has four Ireland-born farming heads: Bush, Leely, Mulooly, and McDonald | Bush, Leely, Mulooly, and McDonald are all Ireland-born farming households; Mulooly estate is confirmed, McDonald estate still needs image verification | Strongest 1870 cluster clue. The page proves the Battelle Irish cluster is much larger than the target-surname search indicated; no Murray / Murry appears among them. |
 | 1870 | Patrick Ferril / Patrick Dolan | Mostly Virginia / West Virginia-born farmers on same image | Ferril / Dolan continuation and mostly Virginia / West Virginia-born households | Ferril / Dolan adults are Ireland-born | Patrick Ferril appears to hold substantial real estate | Same Battelle district as Mulooly, but 37 pages later; not an immediate same-page Irish cluster. |
 | 1870 | Thomas Hanrahan / Thomas Cummings | Mostly Virginia / West Virginia-born farmers before Hanrahan | Cummings household follows Hanrahan; later neighbors mostly Virginia / West Virginia-born | Hanrahan and Cummings are sequential Ireland-born households; Bridget Cummings also Ireland-born | Hanrahan and Cummings hold more modest real estate than Battelle Irish farmers | Smaller but distinct Willey Irish farming sub-cluster. |
+
+## District Geography Capture
+
+| Year | Census Label | Post Office | Marshal | Pages / Images | Geographic Interpretation |
+|---|---|---|---|---|---|
+| 1850 | District No. 30, Lewis County, Virginia | None on form | Chas. James | Page 102; image 209 of 237 | Coopley page is explicitly District No. 30, but the 1850 form does not provide a post office. |
+| 1860 | Blank sub-district, Lewis County, Virginia | Weston, Lewis Co. Va. | Alfred H. [surname unclear] | Pages 113-116; images 119-122 of 206 | Rural Murry / Ryan / Carroll pages are in a blank district served by Weston. |
+| 1870 | Battelle Township, Lewis County, West Virginia | Weston, West Va. | [Folley?] | Pages 1+; images 5-45+ of 268 | Battelle is the corrected Bush / Leely / Mulooly / McDonald cluster area and clearly uses Weston as post office. |
+| 1870 | Willey, Lewis County, West Virginia | Likely Weston, West Va. | Unclear | Late-film Willey pages | Separate district from Battelle; includes Hanrahan / Cummings and newly flagged Mary Casey. |
+
+**Map check:** M. Wood White's 1875 county and district map shows Lewis County magisterial districts including **Courthouse**, **Hackers Creek**, **Freemans Creek**, **Collins Settlement**, and **Skidmore**, but it does not label `Battelle Township` or `Willey` under those names. The map supports a central Weston / Courthouse-Hackers Creek orientation but does not prove exact 1870 township boundaries.
+
+**Working interpretation:** The 1850-1870 rural Irish farming evidence currently points most directly to the **Weston / courthouse hinterland**. It does not yet directly place the Battelle cluster in Cove Lick, Camden, or Loveberry. The relationship between those settlement place names, the 1843 Copley parcel, and the census district labels remains a map / land-record problem.
 
 ## Negative Findings
 
@@ -161,3 +175,4 @@ For any promising Murray, Copley, Dolan, Hanley, Hannon, Gillooly, Reynolds, or 
 - [[References/Claude for Chrome Lewis County 1860 FAN Sweep]]
 - [[References/Claude for Chrome Lewis County 1870 FAN Sweep]]
 - [[References/Claude for Chrome Lewis County 1870 Image Review]]
+- [[References/Claude for Chrome Lewis County Census District Geography]]

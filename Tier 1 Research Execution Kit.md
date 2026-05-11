@@ -52,11 +52,11 @@ When a search produces a record, a negative result, or a corrected claim:
 
 ### Current Highest-Value Claude for Chrome Task
 
-For a single bounded Claude-for-Chrome session, the highest-value next task is **district mapping for the Lewis County census clusters**. The broad 1870 sweep and image-review correction are complete: Battelle image 8 is now Bush / Leely / Mulooly / McDonald, and the supposed extra Willey image 265 Ireland-born household was a false read of the Virginia-born Butcher household.
+For a single bounded Claude-for-Chrome session, the highest-value next task is a **Mary Casey / Willey household check**. The district-mapping pass is complete enough for the current phase and surfaced Mary Casey, born about 1830 in Ireland, in Willey district, household 8, line 39, ARK `MZ4L-G5R`.
 
-- This addresses the main remaining interpretive gap: whether 1850 District 30, the 1860 blank rural pages, and the 1870 Battelle / Willey township pages point toward Weston / courthouse hinterland, Cove Lick, Camden, Loveberry, or another locality.
-- It keeps the task geographic and bounded instead of starting a new broad surname sweep.
-- It should capture raw source links, maps, and image-header evidence when possible.
+- This tests a newly surfaced Ireland-born Willey household without starting a broad surname sweep.
+- It may clarify whether the Willey cluster is larger than Hanahan / Hanrahan and Cummings.
+- It keeps the next session narrow: one household, nearby neighbors, and no expansion unless the household continues across an adjacent image.
 
 Use this exact prompt:
 
@@ -64,7 +64,7 @@ Use this exact prompt:
 Do one narrow research task only. Do not browse broadly and do not do any repo work.
 
 Goal:
-Map the Lewis County census district geography for the Murray Settlement FAN-sweep evidence.
+Check the newly surfaced Mary Casey household in the 1870 Lewis County, West Virginia census and capture immediate Willey-neighbor context.
 
 Known context:
 - The old “1826 John Murray / Fred L. Fish” lead is already closed: it is actually an 1899 oil-and-gas lease.
@@ -74,92 +74,82 @@ Known context:
 - The 1860 Lewis County pass is complete: it found a dense rural Dolan-centered Irish cluster, Ireland-born Luke and Patrick Murry, and a Weston Irish boarding-house cluster, but no indexed Copley / Coopley household.
 - The 1870 Lewis County pass is complete: it found Battelle and Willey Irish farming clusters, no Ireland-born Murray / Murry household, and no Copley farming household.
 - The corrected 1870 image review identifies Battelle image 8 as a dense Irish farming page with Bush, Leely, Mulooly, and McDonald. It also corrects the supposed extra Willey image 265 Ireland-born household as the Virginia-born Butcher household.
-- This session is only about geography and district mapping.
-- Do not run a new broad surname sweep. Do not work on deeds, Marwee, page 334, page 404, 1880, or later records.
+- The district-geography pass points the 1850-1870 rural cluster evidence toward the Weston / courthouse hinterland, but it also surfaced Mary Casey, born about 1830 in Ireland, in Willey district, HH 8, line 39, ARK MZ4L-G5R.
+- This session is only about Mary Casey and her immediate census context.
+- Do not run a new broad surname sweep. Do not work on deeds, Marwee, page 334, page 404, 1880, later records, or unrelated Casey families.
 
 Your task:
-1. Determine what 1850 “District 30” in Lewis County, Virginia corresponds to geographically, if possible.
-   - Use the FamilySearch 1850 census image headers around the Micheal / Patrick Coopley household.
-   - Capture the image number, page number, post office if written, assistant marshal name, and any district wording.
-2. Determine what the 1860 blank rural district pages around these households correspond to geographically, if possible:
-   - Luke / Patrick Murry: image 120 / page 114.
-   - Thomas / John Dolan cluster: images 122-123 / pages 116-117.
-   - Capture headers, post office, assistant marshal, page sequence, and any district wording.
-3. Compare those findings to 1870 township geography:
-   - Battelle Township, including image 8 / page 4 and image 45 / page 41.
-   - Willey district, including image 261 / page 53 and image 265 / page 57.
-4. Find one or two reliable historical maps or county references that show Lewis County townships / districts around 1870, especially Battelle, Willey, Weston, Cove Lick, Camden, and Loveberry.
-5. Do not do genealogy expansion. Stop after district geography and map evidence.
+1. Open the 1870 Lewis County, West Virginia census:
+   - FamilySearch collection ID: 1438024
+   - Digital Folder: 004268429_001_M9CX-5FK
+   - NARA M593, Roll 1691
+2. Open the Mary Casey record:
+   - ARK: MZ4L-G5R
+   - Event Place Original: Willey, Lewis, West Virginia
+   - Household 8, line 39
+3. Transcribe Mary Casey's full household from the image and the Names panel:
+   - written name
+   - indexed name
+   - age
+   - sex / color
+   - occupation
+   - real estate / personal estate
+   - birthplace
+   - household and dwelling numbers
+   - all household members
+   - any school, literacy, citizenship, or disability marks if readable
+4. Capture 10 households before and 10 households after Mary Casey if feasible, but do not expand beyond the same image unless the household continues onto an adjacent image.
+5. Stop after Mary Casey and immediate neighbor context.
 
 Capture this exact output format:
 
-DISTRICT MAPPING SCOPE
+MARY CASEY CHECK SCOPE
 - Collection / website:
-- Census years / films checked:
-- Map or locality sources checked:
-- Images / pages reviewed:
-- Any image-header or map-access problems:
+- Film / folder:
+- Record / ARK:
+- Image / page / line:
+- Viewer or Names-panel method used:
+- Any image or scroll problems:
 
-IMAGE HEADER RESULTS
-- 1850 District 30 / Coopley page:
-  - Image / page:
-  - Exact header wording:
-  - Post office:
-  - Assistant marshal:
-  - Inference:
-- 1860 Murry page:
-  - Image / page:
-  - Exact header wording:
-  - Post office:
-  - Assistant marshal:
-  - Inference:
-- 1860 Dolan cluster pages:
-  - Image / page:
-  - Exact header wording:
-  - Post office:
-  - Assistant marshal:
-  - Inference:
-- 1870 Battelle pages:
-  - Images / pages:
-  - Exact header wording:
-  - Post office:
-  - Assistant marshal:
-  - Inference:
-- 1870 Willey pages:
-  - Images / pages:
-  - Exact header wording:
-  - Post office:
-  - Assistant marshal:
-  - Inference:
+HOUSEHOLD TRANSCRIPT
+- Written head name:
+- Indexed name:
+- Household / dwelling numbers:
+- District / post office:
+- Household members:
+- Birthplaces:
+- Occupations:
+- Real estate / personal estate:
+- Marks / notes:
+- URL / ARK:
 
-MAP / LOCALITY RESULTS
-- Battelle Township location:
-- Willey district location:
-- Weston relation:
-- Cove Lick / Camden / Loveberry relation:
-- Any map URLs or citations:
+NEIGHBOR CONTEXT
+- 10 households before, if feasible:
+- 10 households after, if feasible:
+- Other Ireland-born persons on the same image:
+- Any Catholic / Irish surname clues:
 
 RQ-M1 INTERPRETATION
-- Does 1850 District 30 appear to correspond to the later Battelle / Willey / Weston area, or not?
-- Do the 1860 Murry and Dolan pages appear to correspond to Battelle, Willey, Weston, Cove Lick, Camden, Loveberry, or another locality?
-- Does the geography strengthen or weaken the Murray Settlement framework?
-- What remains unresolved?
+- Does Mary Casey add a meaningful new Ireland-born household to the Willey cluster?
+- Is she isolated, institutional, a boarder, or part of a family household?
+- Does her page support a broader Willey Irish cluster beyond Hanahan / Hanrahan and Cummings?
+- Does anything connect her to known settlement surnames or the Weston postal area?
 
 FAILURE MODE
 - If you cannot fully resolve it, state exactly why:
-  - header unreadable
-  - map unavailable
-  - township boundaries unclear
-  - post office not equivalent to residence
+  - record inaccessible
+  - image unreadable
+  - household split across images
+  - Names panel conflicts with image
   - other exact issue
 
 Rules:
 - Be conservative.
 - Separate evidence from inference.
-- Record exact header wording where readable.
+- Record exact written names where readable.
 - Preserve uncertainty and unreadable entries.
 - Do not do any repo editing.
-- Stop after district geography and map evidence only.
+- Stop after Mary Casey and immediate neighbor context only.
 ```
 
 ### Request Template: Lewis County Clerk / FamilySearch Helper

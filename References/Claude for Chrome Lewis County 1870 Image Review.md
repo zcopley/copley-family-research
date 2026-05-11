@@ -85,19 +85,20 @@ The image review materially strengthens the **broader Irish farming-cluster** in
 
 The Willey correction narrows that district's Irish evidence back to the previously documented Hanahan / Hanrahan and Cummings households. It also reinforces the need to separate direct image reads from indexed household-map corrections when resolving uncertain line-level interpretations.
 
-The geography still points to the **Weston postal area** for the reviewed Battelle and Willey pages, so the 1870 Irish clusters currently point more toward Weston / courthouse hinterland than directly toward Cove Lick / Camden / Loveberry. The relationship between those postal / township labels and the 1850 Coopley District 30 location remains unresolved.
+The geography still points to the **Weston postal area** for the reviewed Battelle and Willey pages. A later district-geography pass in [[References/Claude for Chrome Lewis County Census District Geography]] strengthens the Weston / courthouse-hinterland reading, though exact 1850 District 30 and 1870 township boundaries remain unresolved.
 
 ## Follow-Up Targets
 
 - Verify the written form of `Leely` against the image, because it may represent Lealy, Leahy, Liley, O'Leary, or another Irish surname.
 - Confirm estate values for Michael McDonald directly from the image.
 - Confirm the image 8 and image 261 post office lines directly if higher-resolution image capture becomes practical.
-- Map Battelle and Willey township boundaries against Weston, Cove Lick, Camden, Loveberry, and the 1843 Copley parcel.
+- Check the newly surfaced Mary Casey household in Willey, ARK `MZ4L-G5R`.
 - Use Bush, Leely, McDonald, and Ferril as newly surfaced Lewis County Irish cluster surnames in future FAN work.
 
 ## Related Pages
 
 - [[References/Claude for Chrome Lewis County 1870 FAN Sweep]]
+- [[References/Claude for Chrome Lewis County Census District Geography]]
 - [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]]
 - [[Topics/Murray Settlement]]
 - [[Topics/Murray Settlement Research Roadmap]]

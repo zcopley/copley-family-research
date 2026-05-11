@@ -85,6 +85,7 @@ graph TD
 - 1860 Lewis County census FAN sweep — dense rural Ireland-born cluster centered on Dolan households, with Ireland-born Luke / Patrick Murry nearby and a separate Weston Irish boarding-house cluster; image capture still needed for proof-grade citation
 - 1870 Lewis County census FAN sweep — Battelle and Willey Ireland-born farming clusters around Mulooly, Ferril / Dolan, Hanrahan, and Cummings; no Ireland-born Murray / Murry household and no Copley farming household found
 - 1870 image review correction — Battelle image 8 contains at least four Ireland-born farming heads: Bush, Leely, Mulooly, and McDonald; the suspected extra Willey image 265 Ireland-born household was a false read of the Virginia-born Butcher household
+- 1850-1870 census district geography pass — points District 30 / blank 1860 rural pages / 1870 Battelle toward the Weston / courthouse hinterland, not directly to Cove Lick / Camden / Loveberry
 
 ⚠️ **PLAUSIBLE (Contextual Evidence):**
 - Murray family as settlement anchor — supported by name "Murray's Settlement" and 1860 Ireland-born Murry presence, but weakened by the 1870 absence of Ireland-born Murray / Murry households; visible census clusters are broader Irish farming clusters rather than clearly Murray-led
@@ -110,7 +111,7 @@ graph TD
 
 | Action | Where | Time | Verdict Impact |
 |--------|-------|------|-----------------|
-| District mapping for 1850-1870 cluster pages | FamilySearch image headers plus historical Lewis County maps; capture in [[References/Claude for Chrome Lewis County 1870 Image Review]] and [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]] | 1-2 hrs | **CRITICAL:** tests whether 1850 District 30, 1860 rural pages, and 1870 Battelle / Willey point toward Weston, Cove Lick, Camden, or Loveberry |
+| Mary Casey / Willey household check | FamilySearch 1870 Lewis County, ARK `MZ4L-G5R`; capture in [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]] | 1 hr | **HIGH:** tests whether Willey has another Ireland-born household beyond Hanrahan / Cummings |
 | Full *Powhatan* 1838 passenger manifest scan | Ancestry / FamilySearch NARA M237 | 1 hr | **HIGH:** Shows if Murrays/Dolans traveled with Copleys |
 | Independent 1860 image capture | FamilySearch images 113, 120, 123, and 191; capture in [[References/Claude for Chrome Lewis County 1860 FAN Sweep]] and [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]] | 1–2 hrs | **HIGH:** Turns the Claude extraction into proof-grade census evidence |
 | Contact Diocese of Wheeling-Charleston | archive request | email | **HIGH:** St. Michael's Church marriage records may show Ann's maiden name |
@@ -442,7 +443,7 @@ graph LR
 - [ ] Griffith's Valuation remaining families (RQ-M3, RQ-M7)
 
 **Week 2: Census & Roscommon Records**
-- [ ] District mapping for 1850 District 30, the 1860 Murry / Dolan rural pages, and 1870 Battelle / Willey township pages in [[References/Claude for Chrome Lewis County 1870 Image Review]] and [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]] (RQ-M1, RQ-M2)
+- [ ] Mary Casey / Willey household check from the district-geography pass in [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]] (RQ-M1, RQ-M2)
 - [ ] Independent image capture for the 1860 Dolan / Murry / Weston Irish clusters in [[References/Claude for Chrome Lewis County 1860 FAN Sweep]] (RQ-M1)
 - [ ] Kinawley Murray father-candidate workup and Lewis County John Murray deed transcription (RQ-M5)
 - [ ] Roscommon Journal searches (RQ-M6)
