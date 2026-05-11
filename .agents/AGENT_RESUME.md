@@ -80,12 +80,17 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
 - Integrated Zach's May 10, 2026 Claude for Chrome **1870 Battelle / Willey image review** handoff.
 - Created `References/Claude for Chrome Lewis County 1870 Image Review.md` and preserved the raw text under `static/sources/claude-1870-fan-sweep/`.
 - Updated `RQ-M1-LEWIS-COUNTY-FAN-SWEEP.md` with:
-  - the confirmed Battelle image 8 dense Irish farming cluster: Michael Fish, likely Michael Foley / Riley, Owen Mulooly, and one still-unread Ireland-born farmer
+  - the first-pass Battelle image 8 dense Irish farming cluster, later corrected to Michael Bush, Michael Leely, Owen Mulooly, and Michael McDonald
   - the confirmed written form `Hanahan Thomas` for the Willey Hanrahan household
-  - a second still-unread Ireland-born farmer on Willey image 265
+  - a first-pass suspected second Ireland-born farmer on Willey image 265, later corrected as the Virginia-born Butcher household
   - the Weston post-office confirmation for Battelle image 45 and Willey image 265
-  - the next-step workflow focusing on line-level review of the two unread 1870 Ireland-born households
+  - the next-step workflow that initially focused on line-level review and now shifts to district mapping after correction
 - Updated `References/Claude for Chrome Lewis County 1870 FAN Sweep.md`, `Research Priorities and Action Items.md`, `Tier 1 Research Execution Kit.md`, `Sources and Evidence Index.md`, `Topics/Murray Settlement.md`, `Topics/Murray Settlement Research Roadmap.md`, `Search Index.md`, and `CHANGELOG.md` so the 1870 image review expands the cluster beyond the original target-surname search.
+- Integrated Zach's May 10, 2026 Claude for Chrome **1870 image-review correction** handoff.
+- Added `static/sources/claude-1870-fan-sweep/1870-lewis-county-image-review-correction-claude-output.txt` and linked it from `References/Claude for Chrome Lewis County 1870 Image Review.md`.
+- Corrected the 1870 Battelle image 8 cluster from Fish / Foley-or-Riley / Mulooly / unread to **Bush / Leely / Mulooly / McDonald**.
+- Corrected the supposed extra Willey image 265 Ireland-born household before Thomas Cummings as the Virginia-born **Jasper Butcher** household.
+- Updated `RQ-M1-LEWIS-COUNTY-FAN-SWEEP.md`, `References/Claude for Chrome Lewis County 1870 FAN Sweep.md`, `Research Priorities and Action Items.md`, `Tier 1 Research Execution Kit.md`, `Sources and Evidence Index.md`, `Topics/Murray Settlement.md`, `Topics/Murray Settlement Research Roadmap.md`, `Search Index.md`, and `CHANGELOG.md` so the next Claude for Chrome task is district mapping rather than unread-household review.
 
 - Added a reader-facing `What's Proven vs What's Still Open` callout to `Home.md` and `index.md`.
 - Added a compact `At A Glance: Proven vs Open` summary near the top of `Visual Story Atlas.md`.
@@ -267,7 +272,7 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
 - `Visual Story Atlas.md` is now the diagram-first public entry point for the story, evidence status, and research quests.
 - `RQ-M1-JOHN-MURRAY-DEED-FINDINGS.md` now exists as the place to paste John Murray deed images, transcripts, abstracts, and interpretation.
 - The Murray deed task now has Claude for Chrome handoffs integrated into the wiki for the original Deed Book C-D / grantor-index brief, the completed exact-surname grantee-index result, the controlled negative page-404 and page-334 checks, the final built-in-index recheck showing that "Marwee Sawig" is not Murray, and the corrected 1826/1833 misindex results. The direct John Murray deed path is now exhausted.
-- The Lewis County FAN-sweep task now has 1850, 1860, and 1870 Claude for Chrome handoffs integrated into the wiki, plus the first 1870 image-review pass. The 1870 image review confirms Battelle image 8 is a dense Irish farming cluster beyond the target surnames, with Michael Fish, likely Michael Foley / Riley, Owen Mulooly, and one still-unread Ireland-born farmer. The Copley gap now spans both 1860 and 1870 because no indexed Copley / Coopley farming household appears in either census.
+- The Lewis County FAN-sweep task now has 1850, 1860, and 1870 Claude for Chrome handoffs integrated into the wiki, plus the corrected 1870 image-review pass. The 1870 image review confirms Battelle image 8 is a dense Irish farming cluster beyond the target surnames, with Michael Bush, Michael Leely, Owen Mulooly, and Michael McDonald. The suspected extra Willey image 265 Ireland-born household was a false read of the Virginia-born Butcher household. The Copley gap now spans both 1860 and 1870 because no indexed Copley / Coopley farming household appears in either census.
 - `RQ-P1-PARTLOW-REVOLUTIONARY-LINE.md` is now the active Partlow proof-chain log.
 - `References/Harry C Partlow 1960 Letter and Handwritten Lineage.md` is the local family-source note for the 1960 Harry Partlow letter and 1977 handwritten lineage.
 - The Partlow working line is: Marion Elizabeth Partlow Copley -> Nollie Franklin / Frank Partlow -> Marion McDonald / M. Partlow -> John H. / John Halleck / Hallick Partlow -> Jacob Partlow / Jacob Newton Partlow -> Benjamin Partlow.
@@ -296,8 +301,8 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
   - Treat the built-in Deed Book C-D `Marwee` path as retired for Murray-specific work.
   - Treat the old `1826 John Murray / Fred L. Fish` slot as closed; it is a misindexed **1899** oil-and-gas lease.
   - Treat the old `1833 John Murray` slot as closed; it is also a misindexed **1899** oil-and-gas lease.
-  - The direct John Murray deed path is now exhausted. The **1850, 1860, and 1870 Lewis County FAN sweeps** are complete, and Claude for Chrome should shift next to line-level review of the **two unread 1870 Ireland-born households**.
-  - Re-open 1870 Battelle image 8 near lines 43-50 to identify the unread Ireland-born farmer after the Mulooly household, and 1870 Willey image 265 near lines 1-12 to identify the unread Ireland-born farmer before Thomas Cummings.
+  - The direct John Murray deed path is now exhausted. The **1850, 1860, and 1870 Lewis County FAN sweeps** are complete, and the two unread 1870 household targets are resolved.
+  - Claude for Chrome should shift next to district mapping: determine how 1850 District 30, the 1860 Murry / Dolan rural pages, and 1870 Battelle / Willey relate to Weston, Cove Lick, Camden, Loveberry, and the 1843 Copley parcel.
   - Independently capture/read the 1860 census images for page 107 / image 113, page 114 / image 120, page 117 / image 123, and page 185 / image 191 when possible so the Claude extraction can become proof-grade evidence.
   - The exact prompt to hand to Claude for Chrome is now preserved in `Tier 1 Research Execution Kit.md` under `Current Highest-Value Claude for Chrome Task`.
   - Preserve any new FAN-sweep images, citation paths, neighbor captures, and interpretation first in `RQ-M1-LEWIS-COUNTY-FAN-SWEEP.md`, then update `Sources and Evidence Index.md`, `Topics/Murray Settlement.md`, `Research Priorities and Action Items.md`, and `People/Ann Copley.md` only if the result materially changes the case.
@@ -366,8 +371,8 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
 - Why do Copley / Coopley households disappear from the indexed 1860 and 1870 Lewis County censuses after appearing in 1850?
 - What rural district or locality contains the 1860 Dolan / Murry Irish cluster once the census schedule header is independently read?
 - How do 1850 District 30 and the 1860 blank rural district pages map onto 1870 Battelle, Willey, Weston, or other Lewis County township names?
-- Who is the unread Ireland-born farmer on 1870 Battelle image 8 after the Mulooly household?
-- Who is the unread Ireland-born farmer on 1870 Willey image 265 before the Cummings household?
+- Is the 1870 image 8 surname indexed as Leely actually Leely, Lealy, Leahy, Liley, O'Leary, or another Irish surname?
+- What are the direct-image estate values for Michael McDonald on 1870 Battelle image 8?
 - Is there a surviving marriage or church record that names Ann's maiden surname directly?
 - Is Frank Partlow the same person as Nollie Franklin Partlow, and is Alice Rude the same person as Mary Alice Rude/Partlow?
 - Can original records prove Jacob Partlow as the son of Benjamin Partlow?

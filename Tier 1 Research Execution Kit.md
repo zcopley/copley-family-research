@@ -52,11 +52,11 @@ When a search produces a record, a negative result, or a corrected claim:
 
 ### Current Highest-Value Claude for Chrome Task
 
-For a single bounded Claude-for-Chrome session, the highest-value next task is **line-level review of two unread 1870 Ireland-born households**. The broad 1870 sweep and first image review are complete. The remaining image-level gaps are the unread Ireland-born farmer near line 43 on Battelle image 8 and the unread Ireland-born farmer near line 5 on Willey image 265.
+For a single bounded Claude-for-Chrome session, the highest-value next task is **district mapping for the Lewis County census clusters**. The broad 1870 sweep and image-review correction are complete: Battelle image 8 is now Bush / Leely / Mulooly / McDonald, and the supposed extra Willey image 265 Ireland-born household was a false read of the Virginia-born Butcher household.
 
-- This finishes the key unresolved image-review work from the 1870 pass.
-- It can add two non-target-surname Irish farming families to the FAN cluster.
-- It keeps the work narrow enough to avoid drifting into a new broad census search.
+- This addresses the main remaining interpretive gap: whether 1850 District 30, the 1860 blank rural pages, and the 1870 Battelle / Willey township pages point toward Weston / courthouse hinterland, Cove Lick, Camden, Loveberry, or another locality.
+- It keeps the task geographic and bounded instead of starting a new broad surname sweep.
+- It should capture raw source links, maps, and image-header evidence when possible.
 
 Use this exact prompt:
 
@@ -64,74 +64,102 @@ Use this exact prompt:
 Do one narrow research task only. Do not browse broadly and do not do any repo work.
 
 Goal:
-Run one line-level image-review session for two unread Ireland-born households in the 1870 Lewis County FAN-sweep result.
+Map the Lewis County census district geography for the Murray Settlement FAN-sweep evidence.
 
 Known context:
 - The old “1826 John Murray / Fred L. Fish” lead is already closed: it is actually an 1899 oil-and-gas lease.
 - The old “1833 John Murray” lead is also closed: it is actually an 1899 oil-and-gas lease to Fred S. Rich.
 - The built-in Deed Book C-D “Marwee” path is retired from Murray-specific work.
-- So this session should shift from deed-hunting to census-neighbor research.
 - The 1850 Lewis County pass is complete: it found the Micheal / Patrick Coopley household in District 30, but no broader Irish surname cluster.
 - The 1860 Lewis County pass is complete: it found a dense rural Dolan-centered Irish cluster, Ireland-born Luke and Patrick Murry, and a Weston Irish boarding-house cluster, but no indexed Copley / Coopley household.
 - The 1870 Lewis County pass is complete: it found Battelle and Willey Irish farming clusters, no Ireland-born Murray / Murry household, and no Copley farming household.
-- The first 1870 image review is complete: Battelle image 8 contains Fish Michael, likely [F/R]oley Michael, Mulooly Owen, and one unread Ireland-born farmer near line 43; Willey image 265 contains Thomas Cummings and one unread Ireland-born farmer near line 5.
-- This session is only about resolving those two unread households.
+- The corrected 1870 image review identifies Battelle image 8 as a dense Irish farming page with Bush, Leely, Mulooly, and McDonald. It also corrects the supposed extra Willey image 265 Ireland-born household as the Virginia-born Butcher household.
+- This session is only about geography and district mapping.
 - Do not run a new broad surname sweep. Do not work on deeds, Marwee, page 334, page 404, 1880, or later records.
 
 Your task:
-1. Open the 1870 Lewis County, West Virginia census film:
-   - FamilySearch collection ID: 1438024
-   - Digital Folder: 004268429_001_M9CX-5FK
-   - NARA M593, Roll 1691
-2. Review these exact image areas only:
-   - Image 8 / page 4 / Battelle Township: lower page around lines 41-50, immediately after the Owen Mulooly household.
-   - Image 265 / page 57 / Willey district: upper page around lines 1-12, immediately before the Thomas Cummings household.
-3. For each unread Ireland-born household, transcribe the head's written name, all household members, household/dwelling numbers, ages, sex, color, occupations, real estate, personal estate, birthplaces, and any marks in school/literacy/citizenship columns if readable.
-4. Confirm whether the head's birthplace is Ireland and whether spouse / children birthplaces are Ireland, Maryland, Virginia, or West Virginia.
-5. Do not expand beyond these two line ranges unless a household begins or continues onto the immediately adjacent line range.
-6. Stop after these two households.
+1. Determine what 1850 “District 30” in Lewis County, Virginia corresponds to geographically, if possible.
+   - Use the FamilySearch 1850 census image headers around the Micheal / Patrick Coopley household.
+   - Capture the image number, page number, post office if written, assistant marshal name, and any district wording.
+2. Determine what the 1860 blank rural district pages around these households correspond to geographically, if possible:
+   - Luke / Patrick Murry: image 120 / page 114.
+   - Thomas / John Dolan cluster: images 122-123 / pages 116-117.
+   - Capture headers, post office, assistant marshal, page sequence, and any district wording.
+3. Compare those findings to 1870 township geography:
+   - Battelle Township, including image 8 / page 4 and image 45 / page 41.
+   - Willey district, including image 261 / page 53 and image 265 / page 57.
+4. Find one or two reliable historical maps or county references that show Lewis County townships / districts around 1870, especially Battelle, Willey, Weston, Cove Lick, Camden, and Loveberry.
+5. Do not do genealogy expansion. Stop after district geography and map evidence.
 
 Capture this exact output format:
 
-LINE-LEVEL REVIEW SCOPE
+DISTRICT MAPPING SCOPE
 - Collection / website:
-- Film / folder:
-- Images and line ranges reviewed:
-- Zoom / toolbar workaround used:
-- Any image or scroll problems:
+- Census years / films checked:
+- Map or locality sources checked:
+- Images / pages reviewed:
+- Any image-header or map-access problems:
 
-HOUSEHOLD TRANSCRIPTS
-- For each unread Ireland-born household:
-  - Image / page / line range:
-  - Household number:
-  - Written name:
-  - Indexed name if different:
-  - District / post office:
-  - Household members:
-  - Birthplaces:
-  - Occupation:
-  - Real estate / personal estate:
-  - URL / ARK:
+IMAGE HEADER RESULTS
+- 1850 District 30 / Coopley page:
+  - Image / page:
+  - Exact header wording:
+  - Post office:
+  - Assistant marshal:
+  - Inference:
+- 1860 Murry page:
+  - Image / page:
+  - Exact header wording:
+  - Post office:
+  - Assistant marshal:
+  - Inference:
+- 1860 Dolan cluster pages:
+  - Image / page:
+  - Exact header wording:
+  - Post office:
+  - Assistant marshal:
+  - Inference:
+- 1870 Battelle pages:
+  - Images / pages:
+  - Exact header wording:
+  - Post office:
+  - Assistant marshal:
+  - Inference:
+- 1870 Willey pages:
+  - Images / pages:
+  - Exact header wording:
+  - Post office:
+  - Assistant marshal:
+  - Inference:
+
+MAP / LOCALITY RESULTS
+- Battelle Township location:
+- Willey district location:
+- Weston relation:
+- Cove Lick / Camden / Loveberry relation:
+- Any map URLs or citations:
 
 RQ-M1 INTERPRETATION
-- Do these two unread households add new surnames to the Battelle / Willey Irish cluster?
-- Do their birthplaces or estate values change the interpretation of the 1870 cluster?
-- Does either household connect to known settlement surnames or the Weston postal area?
+- Does 1850 District 30 appear to correspond to the later Battelle / Willey / Weston area, or not?
+- Do the 1860 Murry and Dolan pages appear to correspond to Battelle, Willey, Weston, Cove Lick, Camden, Loveberry, or another locality?
+- Does the geography strengthen or weaken the Murray Settlement framework?
+- What remains unresolved?
 
 FAILURE MODE
 - If you cannot fully resolve it, state exactly why:
-  - indexing too poor
-  - image unreadable
-  - line range inaccessible due to scrolling
-  - household continuation on another image
+  - header unreadable
+  - map unavailable
+  - township boundaries unclear
+  - post office not equivalent to residence
   - other exact issue
 
 Rules:
 - Be conservative.
-- Record exact written names, not just indexed names.
+- Separate evidence from inference.
+- Record exact header wording where readable.
 - Preserve uncertainty and unreadable entries.
 - Do not do any repo editing.
-- Stop after the two unread households only.
+- Stop after district geography and map evidence only.
 ```
 
 ### Request Template: Lewis County Clerk / FamilySearch Helper

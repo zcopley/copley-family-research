@@ -22,7 +22,7 @@ This note preserves Zach Copley's May 10, 2026 Claude for Chrome output for the 
 ## Raw Source File
 
 - [Download raw Claude output text](../static/sources/claude-1870-fan-sweep/1870-lewis-county-fan-sweep-claude-output.txt)
-- Follow-up image review: [[References/Claude for Chrome Lewis County 1870 Image Review|Claude for Chrome Lewis County 1870 Image Review]]
+- Follow-up image review and correction: [[References/Claude for Chrome Lewis County 1870 Image Review|Claude for Chrome Lewis County 1870 Image Review]]
 
 ## Search Scope
 
@@ -39,7 +39,8 @@ This note preserves Zach Copley's May 10, 2026 Claude for Chrome output for the 
 - **1870 strengthens the broader Irish-cluster model, not a Murray-centered model.** No Ireland-born Murray / Murry household appears in Lewis County in 1870.
 - **Battelle district is the strongest 1870 Irish farming cluster.** Owen Mulooly appears with an established farm family, and Patrick Dolan appears in the Patrick Ferril household.
 - **Willey district has a smaller Irish farming cluster.** Thomas Hanrahan and Thomas / Bridget Cummings are sequential or near-sequential Ireland-born households.
-- **Follow-up image review confirmed the cluster is larger than the surname search showed.** Battelle page 4 / image 8 contains at least four Ireland-born farming heads: Michael Fish, likely Michael Foley / Riley, Owen Mulooly, and one unread Ireland-born farmer.
+- **Follow-up image review confirmed the cluster is larger than the surname search showed.** Battelle page 4 / image 8 contains at least four Ireland-born farming heads: Michael Bush, Michael Leely, Owen Mulooly, and Michael McDonald. This corrects the earlier Fish / Foley-Riley / unread readings.
+- **The supposed extra Willey image 265 Ireland-born household was a false read.** The lines before Thomas Cummings are the Virginia-born Jasper Butcher household, not an additional Ireland-born farmer.
 - **Battelle and Willey tie to the Weston postal area.** Image 45 confirms `Weston, W. Va.` for Battelle; image 265 confirms `Weston, W. Va.` for Willey.
 - **The Copley / Coopley absence continues.** No Copley farming household appears in 1870; Nancy Coplin in Weston appears to be an institutional resident and is not treated as a Copley match.
 - **Cummings is now confirmed as relevant.** The 1860 Cummings / Cummons ambiguity resolves into an Ireland-born Thomas and Bridget Cummings household in Willey by 1870.
@@ -49,7 +50,10 @@ This note preserves Zach Copley's May 10, 2026 Claude for Chrome output for the 
 
 | Household | District | Page / Image | Birthplace Pattern | Interpretation |
 |---|---|---:|---|---|
+| Michael Bush | Battelle | Page 4 / image 8 | Michael and Bridget born Ireland; children born Virginia / West Virginia | Corrects prior misread Fish; additional non-target surname in the Battelle Irish cluster. |
+| Michael Leely | Battelle | Page 4 / image 8 | Michael and Catharine born Ireland; children born Maryland / Virginia / West Virginia | Corrects prior Foley / Riley guess; surname still needs image-form verification. |
 | Owen Mulooly | Battelle | Page 4 / image 8 | Owen and Catharine born Ireland; children born Virginia / West Virginia | Major 1870 Ireland-born farming household; possible anchor for Battelle Irish cluster. |
+| Michael McDonald | Battelle | Page 4 / image 8 | Michael and Mary born Ireland; children born Virginia / West Virginia | Resolves the prior unread Battelle household after Mulooly. |
 | Patrick Ferril / Patrick Dolan | Battelle | Page 41 / image 45 | Ferril and Dolan adults born Ireland; infant born West Virginia | Battelle Irish household tying Ferril and Dolan names together. |
 | Thomas Hanrahan | Willey | Page 53 / image 261 | Thomas born Ireland; wife Virginia; children West Virginia | Hannon / Hanrahan variant candidate in Willey cluster. |
 | Thomas and Bridget Cummings | Willey | Page 57 / image 265 | Parents born Ireland; older children Virginia; younger children West Virginia | Confirms Ireland-born Cummings household established by about the mid-1850s. |
@@ -61,7 +65,11 @@ This note preserves Zach Copley's May 10, 2026 Claude for Chrome output for the 
 
 | Person / Household | ARK |
 |---|---|
+| Michael Bush | `https://www.familysearch.org/ark:/61903/1:1:MZ4L-G9V` |
+| Michael Leely | `https://www.familysearch.org/ark:/61903/1:1:MZ4L-G9T` |
 | Owen Mulooly | `https://www.familysearch.org/ark:/61903/1:1:MZ4L-GSH` |
+| Michael McDonald | `https://www.familysearch.org/ark:/61903/1:1:MZ4L-GSJ` |
+| Mary McDonald | `https://www.familysearch.org/ark:/61903/1:1:MZ4L-GSV` |
 | Patrick Dolan | `https://www.familysearch.org/ark:/61903/1:1:MZ4L-K2Z` |
 | Thomas Hanrahan | `https://www.familysearch.org/ark:/61903/1:1:MZ4G-7MN` |
 | Thomas Cummings | `https://www.familysearch.org/ark:/61903/1:1:MZ4G-DDM` |
@@ -72,14 +80,14 @@ This note preserves Zach Copley's May 10, 2026 Claude for Chrome output for the 
 
 The 1870 pass **weakens a Murray-specific anchor-family reading** because the 1860 Ireland-born Luke and Patrick Murry do not reappear and no other Ireland-born Murray / Murry household is found.
 
-It **strengthens the broader Irish Catholic settlement-cluster model** by identifying rural Ireland-born farming clusters in **Battelle** and **Willey**. The strongest visible 1870 names are Mulooly, Ferril / Dolan, Hanrahan, and Cummings, not Murray.
+It **strengthens the broader Irish Catholic settlement-cluster model** by identifying rural Ireland-born farming clusters in **Battelle** and **Willey**. The strongest visible 1870 names are Bush, Leely, Mulooly, McDonald, Ferril / Dolan, Hanrahan, and Cummings, not Murray.
 
 The persistent absence of Copley / Coopley households in both 1860 and 1870 remains a significant unresolved gap. It may indicate migration away, death, unrecognized indexing, a district mapping issue, or another record problem.
 
 ## Follow-Up Targets
 
 - Independently capture and read the 1870 images for Battelle page 4 / image 8, Battelle page 41 / image 45, Willey page 53 / image 261, Willey page 57 / image 265, Weston page 23 / image 202, and Weston page 27 / image 207.
-- Identify the still-unread Ireland-born farmers on Battelle image 8 and Willey image 265; the Irish cluster is larger than the target-surname list.
+- Verify the written form of Leely and the McDonald estate values on Battelle image 8; the previously unread Battelle household is now identified as McDonald, and the supposed extra Willey household was a false read of the Butcher household.
 - Map 1850 District 30 and 1860 blank rural district pages to 1870 Battelle / Willey / other township boundaries.
 - Verify whether Nancy Coplin is written as Coplin or Copley and whether the household is the Trans-Allegheny Lunatic Asylum.
 - Track Luke / Patrick Murry and the Ireland-born White households after 1860 through death, migration, land, probate, or alternate-index searches.

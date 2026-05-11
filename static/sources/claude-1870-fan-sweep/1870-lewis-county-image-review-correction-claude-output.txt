@@ -1,0 +1,125 @@
+TARGETED IMAGE REVIEW - 1870 LEWIS COUNTY CENSUS
+Images 8 and 265 | Film 004268429_001_M9CX-5FK | NARA M593 Roll 1691
+
+IMAGE REVIEW SCOPE
+
+Two locations reviewed:
+1. Image 8 / Page 4 / Battelle Township - lines ~34-40, the fourth Ireland-born household after Owen Mulooly.
+2. Image 265 / Page 57 / Willey district - lines ~1-12, the question of an Ireland-born household before Thomas Cummings at line 13.
+
+Method: The FamilySearch image viewer's "Names" index panel, which lists every indexed person grouped by household for each image, was used in addition to direct image zoom reading. This panel gave a definitive census-page household map that confirmed and corrected the image-reading attempts.
+
+HOUSEHOLD 1: Battelle Image 8 - Line 39, HH 23
+
+IDENTIFIED. Surname: McDONALD.
+
+Full transcript:
+- Written name: McDonald Michael.
+- Indexed name: Michael McDonald.
+- ARK: MZ4L-GSJ for head; MZ4L-GSV for wife Mary.
+- District: Battelle, Lewis, West Virginia.
+- Page / image: Page 4 / Image 8.
+- Household identifier: 23.
+- Indexed line number: 39.
+- Dwelling / family numbers: 33 / 23 as visible on image.
+- Sex: Male.
+- Age: 50.
+- Estimated birth year: 1820.
+- Birthplace: Ireland.
+- Relationship: Head.
+- Occupation: Farmer.
+- Real estate: not confirmed from image during this session.
+- Personal estate: not confirmed from image during this session.
+- Voter / citizenship marks: Yes, one checked.
+
+Wife:
+- Written name: McDonald Mary.
+- Indexed name: Mary McDonald.
+- ARK: MZ4L-GSV.
+- Sex: Female.
+- Age: 36.
+- Estimated birth year: 1834.
+- Birthplace: Ireland.
+- Occupation: Keeping house.
+
+Children, all Virginia or West Virginia born:
+- Maria McDonald, female, 12, Virginia.
+- John McDonald, male, 11, Virginia.
+- Anne McDonald, female, 8, Virginia.
+- Catharine McDonald, female, 6, West Virginia.
+- Patrick McDonald, male, 5, West Virginia.
+- Bridget McDonald, female, 4, West Virginia.
+- Ellen McDonald, female, 2, West Virginia.
+- Margaret McDonald, female, 0, West Virginia.
+
+Household total: 10 persons, head plus wife plus eight children.
+
+Cluster context: This household immediately follows Owen Mulooly, HH 22, lines 25-38, on image 8. The Mulooly and McDonald households are neighbors in the Battelle district. Both heads are Ireland-born farmers. The McDonald children's birthplaces, Virginia through West Virginia, suggest the family arrived in Lewis County from Ireland via Maryland or Virginia sometime before 1858.
+
+BONUS CORRECTION: Image 8 Ireland-Born Household Map
+
+The Names index panel revealed the full household structure of image 8, resolving two prior misreadings:
+
+- HH 19, line 6: Bush Michael, indexed Michael Bush, ARK MZ4L-G9V, age 52, Ireland. Prior reading "Fish Michael" was a misread capital B.
+- HH 19: Bush Bridget, wife, age 40, Ireland. Children John, Ellen, Bridget, ages 13 / 7 / 4, born Virginia / Virginia / West Virginia.
+- HH 21, line 24: Leely Michael, indexed Michael Leely, ARK MZ4L-G9T, age 46, Ireland. Prior reading "[Filey?] Michael" was a misread "Le".
+- HH 21: Leely Catharine, wife, age 42, Ireland; 10 Leely children, ages 0-18, born Maryland / Virginia / West Virginia.
+- HH 22, line 33: Mulooly Owen, indexed Owen Mulooly, ARK MZ4L-GSH, age 53, Ireland. Prior session confirmed this household.
+- HH 22: Mulooly Catharine and eight children.
+- HH 23, line 39: McDonald Michael, indexed Michael McDonald, ARK MZ4L-GSJ, age 50, Ireland. Newly identified this session.
+- HH 23: McDonald Mary plus eight children.
+
+Corrected surname readings:
+- "Fish" -> Bush.
+- "[Filey/Riley/Foley?]" -> Leely.
+- "Unread fourth Battelle household" -> McDonald.
+
+Note on Leely: The surname "Leely" is likely a phonetic transcription of an Irish surname, possibly Leahy, Lilly, or similar, but this was not resolved.
+
+HOUSEHOLD 2: Willey Image 265 - Unread Household Before Thomas Cummings
+
+Finding: No separate Ireland-born household exists on lines ~1-12 of image 265. The prior note about an unidentified Ireland-born household at approximately line 5 of page 57, image 265, was a misidentification.
+
+What is actually on image 265 before Thomas Cummings:
+- HH 386, line 1: Jasper Butcher, head, age 65, Virginia. Not Ireland-born.
+- Barberry Butcher, wife, age 56, Virginia.
+- Hughes Butcher, son, age 21, Virginia.
+- Mary Bush, child with different surname, age 6, West Virginia. Appears in Names panel as Mary Bush; not Ireland-born.
+- Additional Butcher / Bush household members occupy lines 1-12 before Cummings.
+- HH 387, line 13: Thomas Cummings, head, age 43, Ireland. Confirmed from prior session.
+
+Thomas Cummings record:
+- HH 387, line 13, page 57, image 265.
+- Thomas Cummings, 43, Ireland, farmer.
+- Bridget Cummings, 36, Ireland.
+- Children include Patrick H., Margaret, Francis Cummings, plus additional indexed and unindexed members.
+- ARK: MZ4G-DDM.
+
+RQ-M1 INTERPRETATION
+
+New / corrected Ireland-born surnames now identified on image 8, Battelle:
+
+1. Bush: Michael and Bridget Bush, born about 1818 / 1830 in Ireland. HH 19, line 6. Formerly misread as Fish.
+2. Leely: Michael and Catharine Leely, born about 1824 / 1828 in Ireland. HH 21, line 24. Formerly misread as Filey / Riley / Foley. Unusual spelling; may represent a phonetic or corrupted Irish surname.
+3. McDonald: Michael and Mary McDonald, born about 1820 / 1834 in Ireland. HH 23, line 39. Newly identified this session. Common Ulster-Irish surname; not a Murray-specific FAN-cluster surname, but relevant as a Battelle neighbor.
+
+Cluster geography: The Battelle Irish cluster on image 8 now shows four Ireland-born households in sequence: Bush (HH 19), Leely (HH 21), Mulooly (HH 22), McDonald (HH 23). All four are farmers. This is a dense rural Irish settlement within the Battelle district, all enumerated by the same enumerator on August 23, 1870. No Murray / Murry household appears among them.
+
+Image 265, Willey: No new Ireland-born surname was found. The area before Cummings was occupied by the Virginia-born Butcher household. The Willey district Irish cluster remains as documented: Hanrahan (image 261) and Cummings (image 265).
+
+FAILURE MODE
+
+Resolved this session:
+- Fourth Battelle household = McDonald.
+- "Fish Michael" = Bush Michael.
+- "[Filey?] Michael" = Leely Michael.
+- Image 265 line ~5 Ireland-born household = false; it was a Virginia / West Virginia-born member of the Butcher household.
+
+Still uncertain:
+- The written surname "Leely" on image 8: whether the enumerator wrote Leely, Lealy, or another spelling was not confirmed by direct handwriting zoom due to viewer limitations. The FamilySearch index reads it as Leely.
+- Estate values for the McDonald household were not read directly from the image.
+- Specific line numbers for Bush household members and the gap between HH 19 and HH 20, John R. King, were not verified at line level.
+- Whether "Leely" corresponds to a recognizable Irish name such as Leahy, O'Leary, Liley, etc. remains unresolved.
+
+Remaining open task from image 8:
+- One additional household appears in the Names panel between Bush (HH 19) and Leely (HH 21): John R. King, Mary E. King, Margaret R. King, a Virginia-born family, HH 20. Not Ireland-born and not relevant to the Murray Settlement question.

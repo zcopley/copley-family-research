@@ -19,9 +19,12 @@ This note preserves Zach Copley's May 10, 2026 Claude for Chrome targeted image 
 
 **Evidence caution:** This is still a browser-based extraction. It is stronger than index-only searching because it reads census images directly, but unresolved names and estate values still require independent image capture and review.
 
+**Correction status:** A later May 10, 2026 targeted follow-up used the FamilySearch Names panel to correct the first image review. The corrected Battelle image 8 sequence is **Bush -> Leely -> Mulooly -> McDonald**, and the supposed additional Willey image 265 Ireland-born household before Thomas Cummings was a false read of the Virginia-born Butcher household.
+
 ## Raw Source File
 
 - [Download raw Claude image-review text](../static/sources/claude-1870-fan-sweep/1870-lewis-county-image-review-claude-output.txt)
+- [Download raw Claude correction text](../static/sources/claude-1870-fan-sweep/1870-lewis-county-image-review-correction-claude-output.txt)
 - Related broad sweep: [[References/Claude for Chrome Lewis County 1870 FAN Sweep|Claude for Chrome Lewis County 1870 FAN Sweep]]
 
 ## Images Reviewed
@@ -35,20 +38,37 @@ This note preserves Zach Copley's May 10, 2026 Claude for Chrome targeted image 
 
 ## Major Findings
 
-- **Battelle image 8 is a dense Irish farming-cluster page.** It contains at least four Ireland-born farming household heads: Michael Fish, Michael [Foley/Riley?], Owen Mulooly, and an unread Ireland-born farmer near the bottom of the page.
+- **Battelle image 8 is a dense Irish farming-cluster page.** The corrected household sequence contains at least four Ireland-born farming household heads: Michael Bush, Michael Leely, Owen Mulooly, and Michael McDonald.
 - **The target-surname sweep undercounted the Irish cluster.** Only Owen Mulooly was found by the target surname list, but image review shows at least three additional Ireland-born farming households on the same page.
 - **The Battelle and Willey clusters use the Weston postal area.** Image 45 confirms `Weston, W. Va.` for Battelle; image 265 confirms the same for Willey.
 - **Thomas Hanrahan is written as `Hanahan Thomas`.** The index expands the name to Hanrahan, but the written form matters for future Hannon / Hanahan / Hanrahan variant searching.
-- **Two Irish household heads remain unresolved.** The fourth Ireland-born farmer on Battelle image 8 and an Ireland-born farmer on Willey image 265 still need higher-resolution line-level review.
+- **The prior unread-household targets are resolved.** The fourth Battelle Ireland-born farmer is Michael McDonald. The supposed Willey image 265 Ireland-born farmer before Cummings was not a separate Irish household; it was the Virginia-born Jasper Butcher household.
 
 ## Image 8: Battelle Irish Households
 
-| Line | Written Head | Birthplace | Estate | Notes |
-|---:|---|---|---|---|
-| 5 | Fish Michael | Ireland | $1,000 real / $410 personal | Unindexed by target surnames; household includes Bridget, John, James, and Bridget. |
-| 13 | [F/R]oley Michael | Ireland | $1,200 real / $468 personal | Surname likely Foley but not certain; household includes Catherine and children born Maryland, Virginia, and West Virginia. |
-| 25 | Mulooly Owen | Ireland | $1,800 real / $575 personal | Indexed as Owen Mulooly, ARK `MZ4L-GSH`; household includes Catharine and seven children. |
-| ~43 | Unread | Ireland | About $1,800 real / $400-$600 personal | Surname and family composition unresolved. |
+| HH | Line | Written Head | Indexed Head | Birthplace | Notes |
+|---:|---:|---|---|---|---|
+| 19 | 6 | Bush Michael | Michael Bush, ARK `MZ4L-G9V` | Ireland | Previously misread as Fish; wife Bridget born Ireland; children John, Ellen, and Bridget born Virginia / West Virginia. |
+| 21 | 24 | Leely Michael | Michael Leely, ARK `MZ4L-G9T` | Ireland | Previously misread as Foley / Riley; wife Catharine born Ireland; 10 children born Maryland / Virginia / West Virginia. |
+| 22 | 33 | Mulooly Owen | Owen Mulooly, ARK `MZ4L-GSH` | Ireland | Confirmed major Battelle anchor household; wife Catharine and children. |
+| 23 | 39 | McDonald Michael | Michael McDonald, ARK `MZ4L-GSJ` | Ireland | Newly identified fourth Battelle Irish household; wife Mary, ARK `MZ4L-GSV`, and eight children. |
+
+## Corrected McDonald Household
+
+| Person | Age | Birthplace | Notes |
+|---|---:|---|---|
+| Michael McDonald | 50 | Ireland | Farmer; dwelling / family appears as 33 / 23; voter / citizenship mark checked. |
+| Mary McDonald | 36 | Ireland | Keeping house. |
+| Maria McDonald | 12 | Virginia | Child. |
+| John McDonald | 11 | Virginia | Child. |
+| Anne McDonald | 8 | Virginia | Child. |
+| Catharine McDonald | 6 | West Virginia | Child. |
+| Patrick McDonald | 5 | West Virginia | Child. |
+| Bridget McDonald | 4 | West Virginia | Child. |
+| Ellen McDonald | 2 | West Virginia | Child. |
+| Margaret McDonald | 0 | West Virginia | Child. |
+
+Estate values for the McDonald household were not confirmed during the correction session.
 
 ## Other Reviewed Households
 
@@ -56,22 +76,24 @@ This note preserves Zach Copley's May 10, 2026 Claude for Chrome targeted image 
 |---:|---|---|---|
 | 45 | Ferril Patrick | Battelle | Isolated Ireland-born household page; includes Patrick and Elizabeth Dolan. |
 | 261 | Hanahan Thomas | Willey by index | Written as Hanahan, indexed as Hanrahan; Ireland-born farmer beside Cummings cluster. |
-| 265 | Unread | Willey by index | Additional unindexed Ireland-born farmer, about age 35, with substantial estate. |
+| 265 | Jasper Butcher | Willey by index | Correction: the top of image 265 is a Virginia-born Butcher household, not an additional Ireland-born household. |
 | 265 | Cummings Thomas | Willey by index | Confirms Thomas and Bridget Cummings as Ireland-born farming household. |
 
 ## Interpretation for RQ-M1
 
-The image review materially strengthens the **broader Irish farming-cluster** interpretation. Battelle image 8 shows a compact Ireland-born farming group far denser than the surname-index sweep suggested, with multiple established farmers holding real estate.
+The image review materially strengthens the **broader Irish farming-cluster** interpretation. Battelle image 8 shows a compact Ireland-born farming group far denser than the surname-index sweep suggested, with four Ireland-born farming households: Bush, Leely, Mulooly, and McDonald. No Murray / Murry household appears among them.
 
-It also shifts the geography: Battelle and Willey are tied to the **Weston postal area**, so the 1870 Irish clusters currently point more toward Weston / courthouse hinterland than directly toward Cove Lick / Camden / Loveberry. The relationship between those postal / township labels and the 1850 Coopley District 30 location remains unresolved.
+The Willey correction narrows that district's Irish evidence back to the previously documented Hanahan / Hanrahan and Cummings households. It also reinforces the need to separate direct image reads from indexed household-map corrections when resolving uncertain line-level interpretations.
+
+The geography still points to the **Weston postal area** for the reviewed Battelle and Willey pages, so the 1870 Irish clusters currently point more toward Weston / courthouse hinterland than directly toward Cove Lick / Camden / Loveberry. The relationship between those postal / township labels and the 1850 Coopley District 30 location remains unresolved.
 
 ## Follow-Up Targets
 
-- Re-open image 8 at high zoom and identify the unread Ireland-born household beginning near line 43.
-- Re-open image 265 at high zoom and identify the unread Ireland-born household near line 5.
-- Confirm the image 8 and image 261 post office lines directly.
+- Verify the written form of `Leely` against the image, because it may represent Lealy, Leahy, Liley, O'Leary, or another Irish surname.
+- Confirm estate values for Michael McDonald directly from the image.
+- Confirm the image 8 and image 261 post office lines directly if higher-resolution image capture becomes practical.
 - Map Battelle and Willey township boundaries against Weston, Cove Lick, Camden, Loveberry, and the 1843 Copley parcel.
-- Use Fish, Foley / Riley, and Ferril as newly surfaced Lewis County Irish cluster surnames in future FAN work.
+- Use Bush, Leely, McDonald, and Ferril as newly surfaced Lewis County Irish cluster surnames in future FAN work.
 
 ## Related Pages
 

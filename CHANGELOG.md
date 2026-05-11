@@ -10,6 +10,17 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4BH - 1870 Image Review Correction Integrated (May 10, 2026)
+
+**MURRAY-WORKFLOW CORRECTION:** Integrated Zach's Claude for Chrome targeted correction for the 1870 Lewis County image-review pass. The FamilySearch Names panel corrected the Battelle image 8 sequence from Fish / Foley-or-Riley / Mulooly / unread to **Bush / Leely / Mulooly / McDonald**, and corrected the suspected extra Willey image 265 Ireland-born household as the Virginia-born **Jasper Butcher** household.
+
+### Updated Pages
+
+- [[References/Claude for Chrome Lewis County 1870 Image Review|Claude for Chrome Lewis County 1870 Image Review]] - added the raw correction file, corrected the Battelle household map, added Michael McDonald's household, and removed the false Willey unread-household target.
+- [[References/Claude for Chrome Lewis County 1870 FAN Sweep|Claude for Chrome Lewis County 1870 FAN Sweep]] and [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]] - updated 1870 household rows, ARKs, and interpretation to reflect Bush, Leely, Mulooly, and McDonald as the corrected Battelle cluster.
+- [[Tier 1 Research Execution Kit|Tier 1 Research Execution Kit]] and [[Research Priorities and Action Items|Research Priorities and Action Items]] - replaced the now-complete line-level unread-household task with a district-mapping task for 1850 District 30, the 1860 rural pages, and 1870 Battelle / Willey.
+- [[Topics/Murray Settlement|Murray Settlement]], [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]], [[Sources and Evidence Index|Sources and Evidence Index]], [[Search Index|Search Index]], and `.agents/AGENT_RESUME.md` - updated the public research state and next-step handoff.
+
 ## Phase 4BG - 1870 Battelle and Willey Image Review Integrated (May 10, 2026)
 
 **MURRAY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome targeted image review for the 1870 Battelle and Willey census pages. The review confirms that Battelle image 8 contains a dense Irish farming cluster larger than the surname search revealed: Michael Fish, likely Michael Foley / Riley, Owen Mulooly, and one still-unread Ireland-born farmer.
