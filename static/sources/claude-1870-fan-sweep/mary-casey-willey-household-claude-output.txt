@@ -1,0 +1,94 @@
+MARY CASEY HOUSEHOLD - 1870 WILLEY, LEWIS COUNTY, WV
+Image 209 of 268 | Film 004268429 | Collection 1438024 | Page 390
+
+SCOPE
+
+Image: 209 / 268, Film 004268429_001_M9CX-5FK.
+Page: 390, confirmed from both record index and image header.
+Sub-district: Willey, Lewis County, West Virginia.
+Post Office: [Weston], West Va., partially legible from header thumbnail.
+Enumeration date: 12 [June?], 1870. Assistant marshal name illegible.
+Source: NARA M593, Roll 1691.
+Method: Index via FamilySearch Names panel for image 209, individual record panels for Thomas Casey (MZ4L-G55), Mary Casey (MZ4L-G5R), John Casey (MZ4L-G5T), and image zoom for bottom data rows.
+
+MARY CASEY HOUSEHOLD TRANSCRIPT
+
+Household 8, Page 390, Image 209/268, Willey Township, Lewis Co., WV.
+
+Critical clarification from index: Thomas Casey is listed as the Head of Household 8. Mary Casey and John Casey are co-members. The FamilySearch Names panel showed Thomas Casey separated from Mary and John by a separator, but this was a display artifact. All three share Source Household Id 8.
+
+Household members:
+
+- Thomas Casey, indexed Thomas Casey, relationship Head, age 47, male, white, occupation not fully read but possibly farm / farmer, birthplace Ireland, ARK MZ4L-G55. FamilySearch tree match: Thomas Casey 1825-1898, L446-LG3.
+- Mary Casey, indexed Mary Casey, relationship blank in index but probable wife, age 40, female, white, occupation not fully read but likely keeping house, birthplace Ireland, ARK MZ4L-G5R. FamilySearch tree match: Mary Callahan 1835-1901, L446-GFZ.
+- John Casey, indexed John Casey, relationship blank but probable son, age 15, male, white, birthplace Virginia, ARK MZ4L-G5T. FamilySearch tree match: John Casey 1855-1937, LT1M-YRP.
+
+Notes:
+- Mary Casey's line number is 39 from the index.
+- Thomas and John Casey line numbers were not directly confirmed from the image. Thomas likely occupies line 37 or 38, and John likely line 40 or before Mary.
+- Thomas Casey's occupation was not clearly read from the image.
+- Real estate and personal estate values were not readable at the achieved zoom level.
+- John Casey's Virginia birth about 1855 suggests Thomas and Mary Casey were in Virginia by the mid-1850s.
+
+NEIGHBOR CONTEXT - ALL HOUSEHOLDS ON IMAGE 209, PAGE 390
+
+Complete household sequence from the FamilySearch Names panel:
+
+1. George Keller with Matilda, Dora E, Eugene, Nora B, Georgia A, Jesse T, Almedia Keller; 8 persons.
+2. Washington Simmons with Emmaranda, James W, Adam Simmons; 4 persons.
+3. Mahala Bush with Charles, Elisabeth, James B, William Bush; 5 persons.
+4. Arni Simmons with Lucinda, Jacob Simmons and George Lochard; 4 persons.
+5. John Byrne with Ellen, Elisabeth Byrne; 3 persons.
+6. John Balentine with Mersaline, Alice M, Minnie L, Kate C, Mary C Balentine; 6 persons.
+7. Jasper Butcher with Amanda, Jasper Jr., William, Charles, Perry Butcher and Agustus Castalo; 7 persons.
+8. Thomas Casey / Mary Casey / John Casey; 3 persons.
+
+Partial handwritten read of lines 26-32 was uncertain and mostly involved the Balentine / Butcher area. Lines 37-40 for the Casey household were not readable at achieved zoom and were confirmed from index data.
+
+NAMES ON IMAGE 210, ADJACENT PAGE
+
+The index for Mary Casey and John Casey shows the next page contains:
+- Thomas Carey
+- Patrick Carey
+- Edward A Carey
+- Sarah B Carey
+- Martin Carey
+- Michael Carey
+- Mary Ann Carey
+- Ellen Carey
+
+This is an 8-person Carey household on image 210, immediately after the Casey household. Carey is a common Irish surname / variant, and this may be an adjacent Irish-origin household. It was outside this session's scope and needs follow-up.
+
+IRELAND-BORN PERSONS ON IMAGE 209
+
+Confirmed Ireland-born people on image 209:
+- Thomas Casey, ARK MZ4L-G55, age 47, male, HH 8, Ireland, head.
+- Mary Casey, ARK MZ4L-G5R, age 40, female, HH 8, Ireland, household member / probable wife.
+
+Other Ireland-born on same image:
+- John Byrne, HH 5, has an Irish surname but birthplace was not verified in this session. He should be checked separately.
+- No additional Ireland-born people were confirmed from the panels examined.
+
+RQ-M1 INTERPRETATION
+
+Mary Casey is the probable wife of Thomas Casey, head age 47, born Ireland, in a nuclear family household in Willey, page 390. The household has three members: a middle-aged Irish-born couple and a Virginia-born teenage son, John Casey, age 15. This is consistent with an immigrant Irish family that arrived in Virginia by about 1855 and remained in Lewis County through 1870.
+
+Mary Casey is not a boarder, not institutional, and not isolated as a lone person. She is part of an Ireland-born married-couple household. On image 209 itself, the Caseys are the only confirmed Ireland-born household. The Byrne household has an Irish surname but unverified birthplace. The adjacent Carey household on image 210 may represent another Irish-origin household and deserves follow-up.
+
+Geographic position: Page 390 is near the end of the Willey enumeration. This suggests the Caseys lived in an outer portion of Willey Township, likely a mixed Irish / American-born farming neighborhood rather than a dense Irish enclave like Battelle image 8.
+
+FAILURE MODES / UNCERTAINTIES
+
+1. Mary Casey's relationship to head is not indexed; wife is inferred from same household, surname, age, and sex.
+2. Thomas Casey source page number discrepancy: Thomas shows source page 1 while Mary shows page 390. Correct page is 390.
+3. Thomas and John Casey line numbers were not confirmed from direct image reading.
+4. John Byrne birthplace was not verified.
+5. Thomas Casey occupation was not directly read.
+6. Real estate and personal estate values were not readable.
+7. Adjacent Carey household on image 210 was not checked.
+8. John Casey's later profile match should be verified with 1880 follow-up if this line becomes important.
+
+NEW PERSONS ADDED TO IRELAND-BORN INVENTORY
+
+- Thomas Casey, ARK MZ4L-G55, age 47, male, HH 8, head, birthplace Ireland, page 390, image 209. Previously unrecorded; now confirmed.
+- Mary Casey, ARK MZ4L-G5R, age 40, female, HH 8, probable wife, birthplace Ireland, page 390, image 209. Previously found; now documented in household context.
