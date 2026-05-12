@@ -24,6 +24,7 @@ This note preserves Zach Copley's May 10, 2026 Claude for Chrome output for the 
 - [Download raw Claude output text](../static/sources/claude-1870-fan-sweep/1870-lewis-county-fan-sweep-claude-output.txt)
 - Follow-up image review and correction: [[References/Claude for Chrome Lewis County 1870 Image Review|Claude for Chrome Lewis County 1870 Image Review]]
 - District-geography follow-up: [[References/Claude for Chrome Lewis County Census District Geography|Claude for Chrome Lewis County Census District Geography]]
+- Mary Casey follow-up: [[References/Claude for Chrome Lewis County Mary Casey Household|Claude for Chrome Lewis County Mary Casey Household]]
 
 ## Search Scope
 
@@ -46,6 +47,7 @@ This note preserves Zach Copley's May 10, 2026 Claude for Chrome output for the 
 - **District geography currently favors a Weston / courthouse-hinterland reading.** The later district-mapping pass found that 1850 District 30, the 1860 blank rural pages, and 1870 Battelle point more directly to Weston than to Cove Lick / Camden / Loveberry.
 - **The Copley / Coopley absence continues.** No Copley farming household appears in 1870; Nancy Coplin in Weston appears to be an institutional resident and is not treated as a Copley match.
 - **Cummings is now confirmed as relevant.** The 1860 Cummings / Cummons ambiguity resolves into an Ireland-born Thomas and Bridget Cummings household in Willey by 1870.
+- **The Mary Casey lead resolves into a Thomas / Mary Casey household.** Thomas and Mary Casey are both Ireland-born in Willey, with a Virginia-born son John, adding a small family household to the Willey Irish inventory.
 - **Ireland-born Whites disappear from the 1870 Lewis County index.** This creates a second continuity gap beside the vanished 1860 Murry brothers.
 
 ## Household Hits
@@ -59,7 +61,7 @@ This note preserves Zach Copley's May 10, 2026 Claude for Chrome output for the 
 | Patrick Ferril / Patrick Dolan | Battelle | Page 41 / image 45 | Ferril and Dolan adults born Ireland; infant born West Virginia | Battelle Irish household tying Ferril and Dolan names together. |
 | Thomas Hanrahan | Willey | Page 53 / image 261 | Thomas born Ireland; wife Virginia; children West Virginia | Hannon / Hanrahan variant candidate in Willey cluster. |
 | Thomas and Bridget Cummings | Willey | Page 57 / image 265 | Parents born Ireland; older children Virginia; younger children West Virginia | Confirms Ireland-born Cummings household established by about the mid-1850s. |
-| Mary Casey | Willey | ARK `MZ4L-G5R`; HH 8 / line 39 | Born Ireland, about 1830 | New lead surfaced during district mapping; household not yet transcribed. |
+| Thomas and Mary Casey | Willey | Page 390 / image 209 | Thomas and Mary born Ireland; son John born Virginia | Small nuclear Irish immigrant household; not institutional or a lone boarder. |
 | Joana McMahon | Weston | Page 27 / image 207 | Born Ireland | Mahon / McMahon variant; likely boarder, servant, or institutional resident. |
 | Nancy Coplin | Weston | Page 23 / image 202 | Born Virginia | Tentative Copley-like hit only; likely unrelated institutional resident. |
 | Murray / Murry hits | Weston / Jane Lew / unspecified | Various | No Ireland-born hits | Weakens Murray-specific 1870 anchor model. |
@@ -76,7 +78,9 @@ This note preserves Zach Copley's May 10, 2026 Claude for Chrome output for the 
 | Patrick Dolan | `https://www.familysearch.org/ark:/61903/1:1:MZ4L-K2Z` |
 | Thomas Hanrahan | `https://www.familysearch.org/ark:/61903/1:1:MZ4G-7MN` |
 | Thomas Cummings | `https://www.familysearch.org/ark:/61903/1:1:MZ4G-DDM` |
+| Thomas Casey | `https://www.familysearch.org/ark:/61903/1:1:MZ4L-G55` |
 | Mary Casey | `https://www.familysearch.org/ark:/61903/1:1:MZ4L-G5R` |
+| John Casey | `https://www.familysearch.org/ark:/61903/1:1:MZ4L-G5T` |
 | Joana McMahon | `https://www.familysearch.org/ark:/61903/1:1:MZ4L-N4Y` |
 | Nancy Coplin | `https://www.familysearch.org/ark:/61903/1:1:MZ4L-FL5` |
 
@@ -92,7 +96,7 @@ The persistent absence of Copley / Coopley households in both 1860 and 1870 rema
 
 - Independently capture and read the 1870 images for Battelle page 4 / image 8, Battelle page 41 / image 45, Willey page 53 / image 261, Willey page 57 / image 265, Weston page 23 / image 202, and Weston page 27 / image 207.
 - Verify the written form of Leely and the McDonald estate values on Battelle image 8; the previously unread Battelle household is now identified as McDonald, and the supposed extra Willey household was a false read of the Butcher household.
-- Check Mary Casey in Willey, ARK `MZ4L-G5R`, because she surfaced during district mapping and was not in the prior Ireland-born inventory.
+- Check John Byrne on image 209 and the adjacent Thomas Carey household on image 210, because they may extend the Willey Irish-origin cluster around the Casey household.
 - Verify whether Nancy Coplin is written as Coplin or Copley and whether the household is the Trans-Allegheny Lunatic Asylum.
 - Track Luke / Patrick Murry and the Ireland-born White households after 1860 through death, migration, land, probate, or alternate-index searches.
 

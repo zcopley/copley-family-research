@@ -92,13 +92,14 @@ The geography still points to the **Weston postal area** for the reviewed Battel
 - Verify the written form of `Leely` against the image, because it may represent Lealy, Leahy, Liley, O'Leary, or another Irish surname.
 - Confirm estate values for Michael McDonald directly from the image.
 - Confirm the image 8 and image 261 post office lines directly if higher-resolution image capture becomes practical.
-- Check the newly surfaced Mary Casey household in Willey, ARK `MZ4L-G5R`.
+- Check John Byrne on image 209 and the adjacent Thomas Carey household on image 210; the Mary Casey follow-up confirmed an Ireland-born Thomas / Mary Casey household.
 - Use Bush, Leely, McDonald, and Ferril as newly surfaced Lewis County Irish cluster surnames in future FAN work.
 
 ## Related Pages
 
 - [[References/Claude for Chrome Lewis County 1870 FAN Sweep]]
 - [[References/Claude for Chrome Lewis County Census District Geography]]
+- [[References/Claude for Chrome Lewis County Mary Casey Household]]
 - [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]]
 - [[Topics/Murray Settlement]]
 - [[Topics/Murray Settlement Research Roadmap]]

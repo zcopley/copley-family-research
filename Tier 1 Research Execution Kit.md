@@ -52,11 +52,11 @@ When a search produces a record, a negative result, or a corrected claim:
 
 ### Current Highest-Value Claude for Chrome Task
 
-For a single bounded Claude-for-Chrome session, the highest-value next task is a **Mary Casey / Willey household check**. The district-mapping pass is complete enough for the current phase and surfaced Mary Casey, born about 1830 in Ireland, in Willey district, household 8, line 39, ARK `MZ4L-G5R`.
+For a single bounded Claude-for-Chrome session, the highest-value next task is a **John Byrne / Carey household check** around the 1870 Willey Casey page. The Mary Casey follow-up is complete: Thomas and Mary Casey were both born in Ireland, and their son John was born in Virginia.
 
-- This tests a newly surfaced Ireland-born Willey household without starting a broad surname sweep.
-- It may clarify whether the Willey cluster is larger than Hanahan / Hanrahan and Cummings.
-- It keeps the next session narrow: one household, nearby neighbors, and no expansion unless the household continues across an adjacent image.
+- This tests whether the Caseys are adjacent to more Irish-origin Willey households.
+- John Byrne is on the same image as the Caseys but has unverified birthplace.
+- The immediately adjacent image 210 contains an 8-person Carey household that may be Irish-origin.
 
 Use this exact prompt:
 
@@ -64,7 +64,7 @@ Use this exact prompt:
 Do one narrow research task only. Do not browse broadly and do not do any repo work.
 
 Goal:
-Check the newly surfaced Mary Casey household in the 1870 Lewis County, West Virginia census and capture immediate Willey-neighbor context.
+Check John Byrne on image 209 and the adjacent Carey household on image 210 in the 1870 Lewis County, West Virginia census.
 
 Known context:
 - The old “1826 John Murray / Fred L. Fish” lead is already closed: it is actually an 1899 oil-and-gas lease.
@@ -74,8 +74,11 @@ Known context:
 - The 1860 Lewis County pass is complete: it found a dense rural Dolan-centered Irish cluster, Ireland-born Luke and Patrick Murry, and a Weston Irish boarding-house cluster, but no indexed Copley / Coopley household.
 - The 1870 Lewis County pass is complete: it found Battelle and Willey Irish farming clusters, no Ireland-born Murray / Murry household, and no Copley farming household.
 - The corrected 1870 image review identifies Battelle image 8 as a dense Irish farming page with Bush, Leely, Mulooly, and McDonald. It also corrects the supposed extra Willey image 265 Ireland-born household as the Virginia-born Butcher household.
-- The district-geography pass points the 1850-1870 rural cluster evidence toward the Weston / courthouse hinterland, but it also surfaced Mary Casey, born about 1830 in Ireland, in Willey district, HH 8, line 39, ARK MZ4L-G5R.
-- This session is only about Mary Casey and her immediate census context.
+- The district-geography pass points the 1850-1870 rural cluster evidence toward the Weston / courthouse hinterland.
+- The Mary Casey follow-up confirmed a small Thomas / Mary Casey Ireland-born household on image 209 / page 390, Willey.
+- That same image includes a John Byrne household whose birthplace was not checked.
+- The adjacent image 210 contains an 8-person Carey household: Thomas Carey, Patrick Carey, Edward A. Carey, Sarah B. Carey, Martin Carey, Michael Carey, Mary Ann Carey, Ellen Carey.
+- This session is only about John Byrne and the adjacent Carey household.
 - Do not run a new broad surname sweep. Do not work on deeds, Marwee, page 334, page 404, 1880, later records, or unrelated Casey families.
 
 Your task:
@@ -83,11 +86,14 @@ Your task:
    - FamilySearch collection ID: 1438024
    - Digital Folder: 004268429_001_M9CX-5FK
    - NARA M593, Roll 1691
-2. Open the Mary Casey record:
-   - ARK: MZ4L-G5R
-   - Event Place Original: Willey, Lewis, West Virginia
-   - Household 8, line 39
-3. Transcribe Mary Casey's full household from the image and the Names panel:
+2. Re-open image 209 / page 390, Willey district:
+   - Confirm the John Byrne household from the Names panel and image.
+   - Capture John Byrne, Ellen Byrne, and Elisabeth Byrne.
+   - Determine each birthplace, especially whether any Byrne household member was born in Ireland.
+3. Open image 210, the page immediately after the Thomas / Mary Casey household:
+   - Transcribe the full Carey household listed in the Names panel: Thomas, Patrick, Edward A., Sarah B., Martin, Michael, Mary Ann, Ellen Carey.
+   - Determine each birthplace and whether the household is Ireland-born, Irish-American, or not Irish-born.
+4. For the Byrne and Carey households, capture:
    - written name
    - indexed name
    - age
@@ -98,42 +104,54 @@ Your task:
    - household and dwelling numbers
    - all household members
    - any school, literacy, citizenship, or disability marks if readable
-4. Capture 10 households before and 10 households after Mary Casey if feasible, but do not expand beyond the same image unless the household continues onto an adjacent image.
-5. Stop after Mary Casey and immediate neighbor context.
+5. Do not expand beyond image 209 and image 210 unless the Carey household continues onto image 211.
+6. Stop after Byrne and Carey.
 
 Capture this exact output format:
 
-MARY CASEY CHECK SCOPE
+BYRNE / CAREY CHECK SCOPE
 - Collection / website:
 - Film / folder:
-- Record / ARK:
-- Image / page / line:
+- Images / pages checked:
 - Viewer or Names-panel method used:
 - Any image or scroll problems:
 
-HOUSEHOLD TRANSCRIPT
-- Written head name:
-- Indexed name:
-- Household / dwelling numbers:
-- District / post office:
-- Household members:
-- Birthplaces:
-- Occupations:
-- Real estate / personal estate:
-- Marks / notes:
-- URL / ARK:
+HOUSEHOLD TRANSCRIPTS
+- John Byrne household:
+  - Image / page / line range:
+  - Written names:
+  - Indexed names:
+  - Household / dwelling numbers:
+  - District / post office:
+  - Household members:
+  - Birthplaces:
+  - Occupations:
+  - Real estate / personal estate:
+  - Marks / notes:
+  - URLs / ARKs:
+- Carey household:
+  - Image / page / line range:
+  - Written names:
+  - Indexed names:
+  - Household / dwelling numbers:
+  - District / post office:
+  - Household members:
+  - Birthplaces:
+  - Occupations:
+  - Real estate / personal estate:
+  - Marks / notes:
+  - URLs / ARKs:
 
 NEIGHBOR CONTEXT
-- 10 households before, if feasible:
-- 10 households after, if feasible:
-- Other Ireland-born persons on the same image:
+- Relationship to Thomas / Mary Casey household:
+- Other Ireland-born persons on images 209-210:
 - Any Catholic / Irish surname clues:
 
 RQ-M1 INTERPRETATION
-- Does Mary Casey add a meaningful new Ireland-born household to the Willey cluster?
-- Is she isolated, institutional, a boarder, or part of a family household?
-- Does her page support a broader Willey Irish cluster beyond Hanahan / Hanrahan and Cummings?
-- Does anything connect her to known settlement surnames or the Weston postal area?
+- Does John Byrne add another Ireland-born household or person on image 209?
+- Is the Carey household Ireland-born, Irish-American, or unrelated?
+- Does this create a small Casey / Byrne / Carey Irish cluster in Willey?
+- Does this change the interpretation of Willey compared with Battelle?
 
 FAILURE MODE
 - If you cannot fully resolve it, state exactly why:
@@ -149,7 +167,7 @@ Rules:
 - Record exact written names where readable.
 - Preserve uncertainty and unreadable entries.
 - Do not do any repo editing.
-- Stop after Mary Casey and immediate neighbor context only.
+- Stop after John Byrne and the Carey household only.
 ```
 
 ### Request Template: Lewis County Clerk / FamilySearch Helper

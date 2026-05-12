@@ -62,7 +62,7 @@ This **does not prove** that the Battelle cluster was in Cove Lick, Camden, or L
 
 ## New Lead
 
-During the Willey header check, Claude surfaced **Mary Casey**, born about 1830 in Ireland, in Willey district, household 8, line 39, ARK `MZ4L-G5R`. She was not part of the prior Ireland-born inventory and should be checked in a narrow future session.
+During the Willey header check, Claude surfaced **Mary Casey**, born about 1830 in Ireland, in Willey district, household 8, line 39, ARK `MZ4L-G5R`. A later follow-up in [[References/Claude for Chrome Lewis County Mary Casey Household]] confirmed that she belonged to a Thomas / Mary Casey household: Thomas and Mary were born in Ireland and their son John was born in Virginia.
 
 ## Remaining Gaps
 
@@ -71,6 +71,7 @@ During the Willey header check, Claude surfaced **Mary Casey**, born about 1830 
 - The 1870 Battelle and Willey labels do not appear on the 1875 White map under those names.
 - The 1860 assistant marshal surname and 1870 Battelle assistant marshal surname remain partially unread.
 - Willey district's exact relationship to Weston, Battelle, Cove Lick, Camden, and Loveberry remains unresolved.
+- The adjacent John Byrne and Thomas Carey households still need a narrow birthplace check.
 
 ## Related Pages
 
@@ -79,6 +80,7 @@ During the Willey header check, Claude surfaced **Mary Casey**, born about 1830 
 - [[References/Claude for Chrome Lewis County 1860 FAN Sweep]]
 - [[References/Claude for Chrome Lewis County 1870 FAN Sweep]]
 - [[References/Claude for Chrome Lewis County 1870 Image Review]]
+- [[References/Claude for Chrome Lewis County Mary Casey Household]]
 - [[Topics/Murray Settlement]]
 - [[Topics/Murray Settlement Research Roadmap]]
 - [[Research Priorities and Action Items]]
