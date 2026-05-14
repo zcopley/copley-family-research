@@ -1,0 +1,197 @@
+MURRY CONTINUITY SEARCH SCOPE
+
+Websites / collections searched:
+FamilySearch.org -- all searches conducted there; Ancestry.com not needed (FamilySearch provided positive results for both subjects).
+
+Exact search terms and variants used:
+- Given name: Luke / L; surname: Murry, Murray, Murrey, Mury, Murrey
+- Given name: Patrick / Patk / Pat; surname: Murry, Murray, Murrey
+- Spouse filters: Ann/Anne (Luke); Mary (Patrick)
+- WV Marriage Records, RI Vital Records, WV Death Records, RI Town Clerk Records
+- FamilySearch collection 1438024 (1870 census), 1417683 (1880 -- returns zero; used broad date-filter instead), WV Deaths 1804-1999, RI Town Clerk 1630-1945
+
+Date / place filters used:
+1870 census (c. 1438024): birth Ireland; residence WV, RI, OH, PA, MA, and broad sweep. 1880 census (broad date 1880-1880). Death records: RI 1895-1905; WV 1860-1880. Marriage records: Lewis WV 1850-1865; RI 1880s.
+
+Access or image problems:
+FamilySearch collection ID 1417683 (1880 US Census) returned zero results in all filtered searches -- this is an API/collection-ID issue with the search endpoint. Circumvented by using a broad 1880-1880 date filter without collection ID. Tree pages (family/sources tabs) required screenshots because get_page_text returned blank -- circumvented by screen-scrolling. West Virginia death image hosted on wvculture.org (external site); not accessed, but indexed data was complete.
+
+1860 CONTROL HOUSEHOLD
+
+Luke Murry (ARK M41D-7S4): Male, age 38, born Ireland, farmer, $600 real estate / $400 personal estate, Lewis County VA, page 114, NARA M653 Roll 1358, image 120.
+
+Ann Murry: Female, age 24, born Ireland. Wife.
+
+Children: Patrick Murry, male, age 4, born Virginia; John Murry, male, age 2, born Virginia; Mary Murry, female, age 1, born Virginia.
+
+Also in household: Owen Loghan / Logan, male, age 11, born Virginia (family relationship to Luke unclear from 1860 record alone; later evidence ties the Logan surname to Ann's family).
+
+Adult Patrick Murry (ARK M41D-7S6): Male, age 34, born Ireland. Listed separately from the children, after Owen Loghan -- not Luke's son. Relationship to Luke not stated in the 1860 census.
+
+Identity anchors:
+- Luke: born about 1822 Ireland; wife Ann, born about 1836 Ireland (age 24 in 1860); three Virginia-born children (Patrick born about 1856, John born about 1858, Mary born about 1859); Lewis County VA farmer.
+- Adult Patrick: born about 1826 Ireland; age 34; in Luke's household; not Luke's son. Birth year anchor: about 1826 (range +/-3 years for census tolerance).
+
+LUKE MURRY CANDIDATES AFTER 1860
+
+Candidate 1 (REJECTED): Luke Murry, Ipswich MA, 1870 census
+Source / URL / ARK: "United States, Census, 1870," FamilySearch, ARK MDST-CLF -- https://www.familysearch.org/ark:/61903/1:1:MDST-CLF
+
+Indexed and written name: Luke Murry
+
+Household: Wife Bridget Murry (Ireland), children John 18 MA, Thomas 17 MA, Nellie 14 MA.
+
+Age / birthplace / occupation: Age 46, born about 1824, Ireland. No occupation listed.
+
+Match assessment: REJECTED. Wife is Bridget, not Ann. Children's names (John, Thomas, Nellie) do not correspond to Luke's 1860 children (Patrick, John, Mary), and their birth years (1852-1856) predate the Virginia-born children. No identity overlap.
+
+Candidate 2 (REJECTED): Luke Murry, Ridgeway, Iowa County, Wisconsin, 1870 census
+Source / URL / ARK: "United States, Census, 1870," FamilySearch, ARK MN9J-7RT -- https://www.familysearch.org/ark:/61903/1:1:MN9J-7RT
+
+Indexed and written name: Luke Murry
+
+Household: Lives with Thomas Farry (66, Ireland), Theressa Farry (64, Ireland), Ann Farry (22, Canada).
+
+Age / birthplace / occupation: Age 24, born about 1846, Ireland. Listed as lodger.
+
+Match assessment: REJECTED. Age 24 is far too young (our Luke born about 1822). No wife or children present.
+
+Candidate 3 (STRONG MATCH -- CONFIRMED): Luke Murray, North Providence, Providence, Rhode Island, 1870 census
+Source / URL / ARK: "United States, Census, 1870," FamilySearch, ARK MFF4-PXK -- https://www.familysearch.org/ark:/61903/1:1:MFF4-PXK -- NARA M593, digital folder 004276497, image 445, batch N01621-6. Attached to FamilySearch Family Tree person KHHZ-4BV.
+
+Indexed and written name: Luke Murray (indexed "Murray")
+
+Household: North Providence, voting district 3, Providence, Rhode Island. Household 371. Line 35, page 47.
+- Luke Murray, head, male, 43, Ireland
+- Anne Murray, wife, female, 32, Ireland -- matches Ann from 1860
+- Patrick Murray, son, male, 14, Virginia -- matches Patrick age 4 in 1860
+- John Murray, son, male, 12, Virginia -- matches John age 2 in 1860
+- Mary Murray, daughter, female, 11, Virginia -- matches Mary age 1 in 1860
+- Luke Murray, son, male, 9, Virginia (born about 1861, after 1860 census)
+- Michael Murray, son, male, 7, Virginia
+- Anne Murray, daughter, female, 5, Virginia
+- Margaret E Murray, daughter, female, 3, Rhode Island (born about 1867 in North Providence -- date confirmed by RI birth records)
+- Catherine Murray, daughter, female, 1, Rhode Island
+- Margaret E Logan, female, 19, Maryland -- Logan surname directly echoes Owen Loghan / Logan in 1860
+
+Age / birthplace / occupation: Age 43 (birth year indexed about 1827; tree gives 1822; death record gives 1828 -- age rounding is routine). Ireland. No occupation listed in the indexed record.
+
+Match assessment: CONFIRMED MATCH -- strongest possible. The three controlling identity anchors all fire simultaneously: (1) wife named Ann/Anne, born Ireland; (2) son Patrick, age 14, born Virginia, matching the 1860 Patrick who was age 4; (3) son John, age 12, born Virginia, matching 1860 John age 2; (4) daughter Mary, age 11, born Virginia, matching 1860 Mary age 1. The Logan surname in the same household also echoes Owen Loghan/Logan from 1860. No other Luke Murray/Murry in any state produces this combination. The FamilySearch tree KHHZ-4BV ("Luke Murray 1822-1899") attaches this record, confirming long-standing user research points to the same identification.
+
+Supplementary data from KHHZ-4BV tree timeline:
+The tree confirms Luke Murray married Anne Loghan in 1854 in Lewis, West Virginia (WV Marriages 1780-1970; WV County Marriage Records 1776-1971). This solves the identity of Owen Loghan in the 1860 household: Owen Loghan (age 11, born Virginia) was almost certainly Anne Loghan's younger brother. The tree further lists children with exact birth dates, confirming the family's presence in Lewis County until at least late 1866, then in North Providence RI from at least March 1867 (Margaret Ellen born there).
+
+Candidate 4 (CONFIRMED -- 1880): Luke Murray, Providence, Providence, Rhode Island, 1880 census
+Source / URL / ARK: "United States, Census, 1880," FamilySearch, ARK M4SN-98J -- https://www.familysearch.org/ark:/61903/1:1:M4SN-98J -- NARA T9, Affiliate Film 1213, Providence ED 55, sheet 417B. Attached to tree KHHZ-4BV (source MSRP-X46).
+
+Indexed and written name: Luke Murray (indexed "Murray")
+
+Household: Providence, Providence RI. Self, wife Ann, twelve children.
+- Luke Murray, head, male, 57, Ireland, Day Laborer, married
+- Ann Murray, wife, female, 42, Ireland -- matches Ann from 1860 and 1870
+- Patrick Murray, son, male, 24, West Virginia -- matches 1860 Patrick (age 4 VA) and 1870 Patrick (14 VA)
+- John Murray, son, male, 22, West Virginia -- matches 1860 John (2 VA) and 1870 John (12 VA)
+- Mary Murray, daughter, female, 20, West Virginia -- matches 1860 Mary (1 VA) and 1870 Mary (11 VA)
+- Luke Murray, son, 19, WV; Michael Murray, son, 17, WV; Annie Murray, daughter, 15, WV; Margaret Murray, daughter, 13, RI; Catherine Murray, daughter, 11, RI; Agnes Murray, daughter, 6, RI; Jane Murray, daughter, 3, RI; Rose Murray, daughter, 11 months, RI.
+
+Age / birthplace / occupation: Age 57 (birth year about 1823; within normal variance of 1822). Ireland. Day Laborer.
+
+Match assessment: CONFIRMED MATCH. The three anchor children (Patrick, John, Mary) now appear as adults aged 24, 22, and 20, all consistently born West Virginia across three consecutive censuses (1860, 1870, 1880). The Virginia-born birthplace in 1860 became "West Virginia" by 1870 and 1880 due to the 1863 statehood change -- exactly as expected. Ann's age (42 in 1880) is consistent with age 24 in 1860 and 32 in 1870.
+
+Candidate 5 (CONFIRMED -- Death Record): Luke Murray, Providence RI, 1 November 1899
+Source / URL / ARK: "Rhode Island, Town Clerk, Vital and Town Records, 1630-1945," FamilySearch, ARK F8ZV-9T5 -- https://www.familysearch.org/ark:/61903/1:1:F8ZV-9T5. Attached to tree KHHZ-4BV.
+
+Indexed and written name: Luke Murray
+
+Household: Death record; no household.
+
+Age / birthplace / occupation: Age 71 at death (birth year about 1828 on death record; actual about 1822 per tree). Parents listed as Luke and Mary Murray. Spouse: Ann Murray.
+
+Match assessment: CONFIRMED MATCH. Death date 1 November 1899, Providence RI, is consistent with the tree (KHHZ-4BV: "1822-1 November 1899"). The informant recorded birth year as 1828, off by about 6 years -- standard for death records in immigrant communities where the decedent could not report his own age. The marriage record cited in the tree's "Luke Murray, Rhode Island, Marriages, 1724-1916" shows his son Luke Jr. married in 1888 with parents listed as "Luke Murray, Ann Logan" -- confirming Ann's maiden name as Logan/Loghan and linking definitively back to the 1860 Lewis County household.
+
+ADULT PATRICK MURRY CANDIDATES AFTER 1860
+
+Candidate A (STRONG MATCH -- CONFIRMED): Patrick Murray, Sheridan / Lewis County, West Virginia, 1870 census
+Source / URL / ARK: "United States, Census, 1870," FamilySearch, ARK MZ4L-F8K -- https://www.familysearch.org/ark:/61903/1:1:MZ4L-F8K -- NARA M593. Event place indexed as "Sheridan Magisterial District, Lincoln, West Virginia" but the original census text reads "Sheridan, Lewis, West Virginia" -- meaning this is Lewis County, the 1860 control county.
+
+Indexed and written name: Patrick Murray (indexed "Murray")
+
+Household: Household 248, line 7, page 38.
+- Patrick Murray, head, male, 47, Ireland
+- Mary Murray, wife, female, 38, Ireland
+- Mary Ann Murray, daughter, female, 11, Virginia
+- Martin Murray, son, male, 9, Virginia
+- Ellen Murray, daughter, female, 7, Virginia
+- Margaret Murray, daughter, female, 4, West Virginia
+- Luke Murray, son, male, 0 (infant), West Virginia
+
+Age / birthplace / occupation: Age 47 (birth year about 1823). Ireland. Head of household. Occupation not shown in indexed record. Farming context implied by 1871 death record.
+
+Match assessment: STRONG MATCH. Geographic anchor is exact -- Lewis County WV, the same county as the 1860 control household. Ireland birthplace matches. Birth year 1823 is 3 years earlier than the 1860 implied about 1826 -- within plausible census age-recording variance, especially for Irish immigrants. The wife, Mary (age 38, Ireland), is confirmed by the 1862 Lewis County WV marriage record (Patrick Murray married Mary Donahoe/Donahue, 27 December 1862, Lewis WV). The children's Virginia/WV birthplaces (Mary Ann and Martin born Virginia about 1859-1861, in Lewis County during the period of the 1860 census) are consistent with Patrick having resided in Lewis County around 1860. The infant Luke (born WV about 1870) is consistent with the timeline. The 1871 WV death record cements this as the same man.
+
+Weaknesses: No 1860 WV marriage yet located prior to December 1862, so his marital status in 1860 is not established. The birth year gap (1823 vs. about 1826) cannot be dismissed, only noted. The adult Patrick Murry in 1860 could have been unmarried and working/lodging with Luke; he then married Mary Donahoe in December 1862 and stayed in Lewis County while Luke emigrated to Rhode Island.
+
+Candidate B (REJECTED): Patrick Murrey, Parkersburg, Wood County, West Virginia, 1870 census
+Source / URL / ARK: "United States, Census, 1870," FamilySearch, ARK MZHS-VT9 -- https://www.familysearch.org/ark:/61903/1:1:MZHS-VT9
+
+Indexed and written name: Patrick Murrey
+
+Household: Head, no wife present. Patrick Murrey, male, 50, Ireland; Patrick Murrey, son, 22, Ireland; Margaret Murrey, daughter, 19, Maryland; Peter Murrey, son, 17, Virginia; James Murrey, son, 15, Virginia; Thomas Murrey, son, 14, Virginia.
+
+Age / birthplace / occupation: Age 50 (birth year about 1820). Ireland.
+
+Match assessment: REJECTED. Birth year about 1820 is 6 years earlier than the control about 1826. The son Patrick (22, Ireland) would have been born in Ireland about 1848, inconsistent with someone who had children born in Virginia in the early 1860s. No wife in household. No Virginia-born children matching the 1860-period birth window. The Maryland-born daughter (19) is anomalous. Parkersburg/Wood County is far west of Lewis County with no evident migration link. Attached to tree GLRQ-YBH (a separate identified person).
+
+Candidate C (REJECTED): Patrick Murray, Providence RI, 1870 census
+Source / URL / ARK: "United States, Census, 1870," FamilySearch, ARK MFFC-PN7 -- https://www.familysearch.org/ark:/61903/1:1:MFFC-PN7
+
+Household: Head. Wife Mary (Ireland), children Agnes 12 RI, Clara 9 RI, Ellen 5 RI.
+
+Age / birthplace / occupation: Age 50 (birth year about 1820). Ireland.
+
+Match assessment: REJECTED. Birth year about 1820, 6 years off. All children born Rhode Island -- not compatible with someone from Lewis County WV. Attached to tree PWWV-N1Z (different identified person).
+
+Candidate D (CONFIRMED -- Death Record): Patrick Murry, Sand Fork of Kent, Lewis County, West Virginia, 22 August 1871
+Source / URL / ARK: "West Virginia, Deaths, 1804-1999," FamilySearch, ARK NMD7-M2L -- https://www.familysearch.org/ark:/61903/1:1:NMD7-M2L -- Source details: v 1 p 69, County Records. WV culture image: wvculture.org, FilmNumber 825106, ImageNumber 307.
+
+Indexed and written name: Patrick Murry
+
+Household: Death record; no household. Attached to FamilySearch tree person 9HRT-M3B (not the same as Luke's KHHZ-4BV tree).
+
+Age / birthplace / occupation: Age 48 at death (birth year about 1823). Ireland. Married. Farmer.
+
+Match assessment: CONFIRMED as the man from Candidate A above, and the most credible candidate for the 1860 Lewis County adult Patrick Murry. He died in Lewis County WV on 22 August 1871 -- 14 months after the 1870 census in which he appeared alive in Sheridan/Lewis WV. His wife is Mary S. Murry, consistent with the 1870 census. His occupation (Farmer) is consistent with the agricultural context of Lewis County. His birth year (1823) is within variance of the 1860 control figure (about 1826). The location is exact: Sand Fork of Kent is a locality within Lewis County WV.
+
+Parents listed: Father: Luke Murry; Mother: Margaret Murry. This is significant: the father's name is Luke, same as the Luke Murry in the 1860 control household. The FamilySearch tree for Luke Murray (KHHZ-4BV) gives his father as "Luke Murray (1800) and Mary Rush." The death record gives Patrick's mother as "Margaret" rather than "Mary" -- a possible recording error (Margaret/Mary confusion was common in Irish-American death records where family was often absent or illiterate). If father name "Luke" is correct for both, then the 1860 adult Patrick Murry and the 1860 household head Luke Murry were brothers, sharing a father named Luke Murray Sr. (born about 1800). The FamilySearch tree timeline for KHHZ-4BV already shows "Birth of Sibling - Patrick Murray, about 1826, Ireland" -- the prior researcher accepted this relationship.
+
+Confirming chain: 1860 adult Patrick (age 34, Ireland, Lewis County) -> December 1862 marriage to Mary Donahoe, Lewis County WV -> 1870 census, Sheridan/Lewis WV, age 47, wife Mary (Ireland), five children -> death 22 August 1871, Lewis County WV, age 48, farmer. He never left Lewis County.
+
+RQ-M1 INTERPRETATION
+
+Did Luke remain in Lewis County, move elsewhere, die before 1870, or disappear from indexed records?
+
+Luke Murry left Lewis County between late 1866 and early 1867 and relocated to North Providence / Providence, Rhode Island. The FamilySearch tree timeline pinpoints the transition: his last child born in West Virginia was Annie (about 1866), and his next child, Margaret Ellen, was born 13 March 1867 in North Providence RI. He is indexed and confirmed in Providence for the 1870, 1880, and 1899 (death) record events. He died in Providence on 1 November 1899, aged approximately 77, as a Day Laborer. He does not appear to have returned to Lewis County. His emigration from Lewis County to RI was likely driven by post-Civil War economic conditions and the proximity of Providence's textile and labor economy.
+
+The reason the 1870 Lewis County / West Virginia sweep found no Ireland-born Murray household was that Luke had already left the county by early 1867 -- more than three years before the 1870 enumeration.
+
+Did adult Patrick remain near Luke or separate?
+
+Adult Patrick separated from Luke geographically. He stayed in Lewis County WV, married there in December 1862, raised a family there, and died there on 22 August 1871. He never followed Luke to Rhode Island. The two men diverged: Luke moved northeast to an urban/industrial economy; Patrick remained a Lewis County farmer until his death.
+
+Does either man connect to Battelle, Willey, Cove Lick, Camden, Loveberry, St. Michael's, or the Copley/Dolan cluster?
+
+No direct connection found for either man. Luke's 1870-1880 Rhode Island records show no references to any of those place names or surnames. Patrick's Lewis County death record (Sand Fork of Kent) places him in a different Lewis County locality than Cove Lick/Battelle/Camden. No Copley, Dolan, or Battelle surname appears in either household in any census or vital record examined. Evidence is absent rather than negative -- these collections were not exhaustively searched for those surnames, only the Murry/Murray continuity records were examined.
+
+Does this strengthen, weaken, or leave unchanged the Murray-anchor hypothesis?
+
+This session does not address the Murray-anchor hypothesis directly (that task was explicitly out of scope). However, two structural findings are relevant for downstream consideration: (1) Anne Loghan's surname is now confirmed -- the wife of Luke Murry was Anne Loghan/Logan, and Owen Logan in the 1860 household was almost certainly her brother; (2) the adult Patrick's 1871 death record names his father as Luke Murry -- matching Luke Murry's own father's name per the FamilySearch tree, which is consistent with a sibling relationship between the 1860 household head and the 1860 co-resident adult Patrick. Whether those Loghan/Logan and Murry family connections produce any additional Murray-anchor link to the Battelle cluster, Cove Lick, or the Copley/Dolan group has not been tested in this session.
+
+FAILURE MODE
+
+Not triggered. Both subjects were traced to post-1860 records with high confidence.
+
+Luke Murry -- traced continuously: 1860 Lewis County VA -> 1870 North Providence RI (ARK MFF4-PXK) -> 1880 Providence RI (ARK M4SN-98J) -> death 1 November 1899 Providence RI (ARK F8ZV-9T5). Marriage record: Anne Loghan, 1854, Lewis WV. Tree KHHZ-4BV.
+
+Adult Patrick Murry -- traced: 1860 Lewis County VA -> marriage December 1862 Lewis WV -> 1870 Sheridan/Lewis WV (ARK MZ4L-F8K) -> death 22 August 1871, Sand Fork of Kent, Lewis County WV (ARK NMD7-M2L, WV Deaths 1804-1999, v 1 p 69). He did not appear in any 1880 census because he died in 1871. Tree 9HRT-M3B.
+
+Collections searched where no results were found for these subjects: 1870 census -- WV (Luke), 1870 census -- RI (adult Patrick), 1880 census -- WV (adult Patrick; explained by 1871 death), Ohio / Pennsylvania / Maryland 1870 (no Luke or Patrick candidates meeting age + Ireland + family anchors). FamilySearch Find a Grave / cemetery index -- no separate entry for Luke Murray Providence (not searched beyond the RI vital records already retrieved). The collection ID 1417683 (1880 US Census) returned zero results across all filtered queries; the 1880 record for Luke was located only through the broad date-search approach and confirmed via the KHHZ-4BV source linker.

@@ -1,0 +1,161 @@
+BYRNE / CAREY CHECK SCOPE
+
+Collection / website: United States, Census, 1870 -- FamilySearch (familysearch.org), collection ID 1438024
+
+Film / folder: NARA M593, Roll 1691; Digital Folder 004268429; Group ID M9CX-5FK
+
+Images / pages checked: Image 209 (page 390, Willey district) and image 210 (page 391, Willey district continuation)
+
+Viewer / Names-panel method used: FamilySearch image viewer with Names panel (grid mode); individual index record pages accessed via ARK; JavaScript DOM extraction of full names list for both images; image zoom and pan to read handwritten entries
+
+Any image or scroll problems: The direct ARK URL for the digital folder initially returned "Image Unavailable." Resolved by navigating from a search result. The image viewer toolbar partially obscures the first 6-9 lines of image 210 at certain zoom levels. Line-number assignment in the index is internally inconsistent.
+
+HOUSEHOLD TRANSCRIPTS
+
+John Byrne Household
+
+Image / page / line range: Image 209, page 390, Willey district, lines 22-24 (image line count); FamilySearch index assigns Line Number 24 to the head -- discrepancy of 2 lines noted; likely an indexing error in line count
+
+Written names from image:
+- Image line 22: Byrne J[ohn], farmer, Ireland. Head; dwelling/family column reads "5".
+- Image line 23: Ellen, keeping house, Ireland. Wife; dashes indicate continued household.
+- Image line 24: Eliz[abeth/Elisabeth], blank occupation, Maryland. Daughter.
+
+Indexed names (Names panel, image 209):
+1. John Byrne
+2. Ellen Byrne
+3. Elisabeth Byrne
+
+Household / dwelling numbers: Household identifier 5 (FamilySearch index); dwelling sequence "5" visible in left-margin columns on the image
+
+District / post office: Willey, Lewis County, West Virginia
+
+Household members (index record details):
+- John Byrne: male, 52, estimated birth year 1818, Ireland, farmer, $1,710 real estate, $230 personal estate, 1|1 citizen marks.
+- Ellen Byrne: female, 45, estimated birth year about 1825, Ireland, keeping house, 1|1 marks.
+- Elisabeth Byrne: female, 17, estimated birth year about 1853, Maryland, 1|1 and "1" marks, possibly literacy.
+
+Race: All three indexed as White.
+
+Relationship to head: John = Head; Ellen = wife inferred; Elisabeth = daughter inferred.
+
+Occupations: John Byrne -- Farmer; Ellen Byrne -- Keeping house; Elisabeth Byrne -- none listed.
+
+Real estate / personal estate: John: $1,710 real estate, $230 personal estate; Ellen and Elisabeth: no entries.
+
+Marks / notes:
+- John and Ellen both show two check marks in the right-side columns.
+- Elisabeth shows a single "1" further right, possibly a literacy or school mark.
+- No disability entries visible.
+
+URLs / ARKs:
+- John Byrne index record: https://www.familysearch.org/ark:/61903/1:1:MZ4L-G5H
+- Image 209 viewer: https://www.familysearch.org/ark:/61903/3:1:S3HY-6FM7-8QF?view=index&cc=1438024&lang=en&groupId=M9CX-5FK
+
+"Carey" Household -- Image 210
+
+Critical structural finding: What the user's known context described as a separate "8-person Carey household on image 210" is, according to the FamilySearch index, the continuation of Thomas Casey's household (household identifier 8) that begins on image 209 at lines 38-40 and overflows onto image 210. All ten people -- Thomas Casey, Mary Casey, John Casey, and eight children enumerated under the surname Carey -- share the same household identifier (8) and the same index entry cluster. The question of whether the enumerator wrote "Casey" or "Carey" for the children cannot be resolved with certainty from the thumbnail image alone (the first 6-9 lines of image 210 are partially obscured by the toolbar at available zoom levels), but the index assigns them the surname "Carey" while the parents remain "Casey."
+
+Image / page / line range:
+- Household 8 begins: image 209, page 390, line 38 (Thomas Casey, head)
+- Household 8 continues: image 210, page 391, approximately lines 1-8 (the eight Carey-surnamed children); the household likely ends around line 8 of image 210
+- FamilySearch index assigns all Carey children "Line Number 39, Page Number 2" (internally inconsistent with the parent entries)
+
+Written names (from Names panel, image 210 -- as indexed):
+1. Michael Carey
+2. Patrick Carey
+3. Mary Ann Carey
+4. Thomas Carey
+5. Martin Carey
+6. Ellen Carey
+7. Sarah B Carey
+8. Edward A Carey
+
+Mary Casey and John Casey are cross-referenced from image 209 under "Others mentioned."
+
+Indexed names (Names panel, image 210): Same as above list. Cross-reference: the Names panel for image 209 shows the Carey members as "Others mentioned in this record -- referenced in relation to Mary [Casey] on other pages," confirming the cross-image household relationship.
+
+Household / dwelling numbers: Household identifier 8 (FamilySearch index); dwelling sequence number not individually visible for continuation lines.
+
+District / post office: Willey, Lewis County, West Virginia.
+
+All members of household 8 consolidated across images 209-210:
+- Thomas Casey: male, 47, estimated birth year 1823, Ireland, head.
+- Mary Casey: female, 40, estimated birth year 1830, Ireland, wife.
+- John Casey: male, 15, estimated birth year 1855, Virginia, son.
+- Michael Carey: male, 13, estimated birth year 1857, Virginia.
+- Patrick Carey: male, 11, estimated birth year about 1859, Virginia.
+- Mary Ann Carey: female, 10, estimated birth year about 1860, Virginia.
+- Thomas Carey: male, 8, estimated birth year about 1862, Virginia.
+- Martin Carey: male, 6, estimated birth year about 1864, West Virginia.
+- Ellen Carey: female, 4, estimated birth year about 1866, West Virginia.
+- Sarah B Carey: female, 2, estimated birth year about 1868, West Virginia.
+- Edward A Carey: male, 0, estimated birth year about 1870, West Virginia.
+
+Occupation, real estate, and personal estate for household 8 members other than the head were not separately readable from available zoom; Thomas Casey's occupation would ordinarily appear at his line (38, image 209) but is not in the index record text.
+
+Race: All indexed as White.
+
+Birthplaces summary: Thomas Casey and Mary Casey = Ireland. John Casey = Virginia. Michael, Patrick, Mary Ann, Thomas Carey = Virginia (born before West Virginia statehood, before 1863). Martin, Ellen, Sarah B, Edward A Carey = West Virginia (born after 1863 statehood).
+
+The birthplace pattern is internally consistent: the older children (ages 13-8) were born in Virginia (pre-1863) and the younger (ages 6-0) in West Virginia (post-1863 statehood). This is a standard pattern for a family resident in what became West Virginia around the time of statehood.
+
+Marks / notes:
+- No Irish birthplace for any Carey child.
+- The surname "Carey" vs. "Casey" for the children vs. the parents is unresolved from the image alone. Possible explanations: (a) enumerator's handwriting rendered "Casey" differently for children vs. parents; (b) the children have a different legal surname, such as from a previous union. This requires direct image examination at high resolution.
+- Edward A Carey is recorded with age 0 and no further birth year estimate.
+
+URLs / ARKs:
+- Thomas Casey index record: https://www.familysearch.org/ark:/61903/1:1:MZ4L-G55
+- Mary Casey index record: https://www.familysearch.org/ark:/61903/1:1:MZ4L-G5R
+- Michael Carey index record: https://www.familysearch.org/ark:/61903/1:1:MZ4L-G5Y
+- Thomas Carey (age 8) index record: https://www.familysearch.org/ark:/61903/1:1:MZ4L-GRM
+- Image 210 viewer: https://www.familysearch.org/ark:/61903/3:1:S3HY-6FM7-4T9?view=index&cc=1438024&lang=en&groupId=M9CX-5FK
+
+NEIGHBOR CONTEXT
+
+Relationship to Thomas / Mary Casey household:
+The John Byrne household (image 209, lines 22-24) is separated from the Thomas Casey household (image 209, lines 38-40) by approximately 14-15 lines (roughly 4-5 intervening households: John Balentine, Jasper Butcher, Agustus Castalo, and possibly others). They are on the same image (209) in the same Willey district but are not consecutive neighbors -- there are several households between them.
+
+Other Ireland-born persons on images 209-210:
+- John Byrne, line 22, image 209 -- Ireland
+- Ellen Byrne, line 23, image 209 -- Ireland
+- Thomas Casey, line 38, image 209 -- Ireland
+- Mary Casey, line 39, image 209 -- Ireland
+- No other Ireland-born persons visible in the names panel for images 209-210
+
+Any Catholic / Irish surname clues:
+- Byrne: strongly Irish (common Leinster name)
+- Casey: Irish (common Munster/Connacht name)
+- Carey: Irish variant / possible spelling of Casey, or independent Irish surname
+- Balentine, Butcher, Castalo, Keller, Simmons, Lochard: largely English/German surnames; no obvious Irish cluster beyond Byrne and Casey
+
+RQ-M1 INTERPRETATION
+
+Does John Byrne add another Ireland-born household on image 209?
+Yes, confirmed. John Byrne (52, Ireland) and Ellen Byrne (45, Ireland) form a second Ireland-born household on image 209, in addition to Thomas Casey (47, Ireland) and Mary Casey (40, Ireland). Elisabeth Byrne (17, Maryland) was born in Maryland, not Ireland. The Byrne household is a complete Ireland-born head-of-household unit (both spouses born in Ireland). This is directly confirmed from both the written image and the FamilySearch index.
+
+Is the Carey household Ireland-born, Irish-American, or unrelated?
+This is the most significant finding: The "8-person Carey household" on image 210 is not an independent household. It is the continuation of Thomas and Mary Casey's household (household 8) across the page break between images 209 and 210. The eight children enumerated under the surname "Carey" are -- in the index -- all within the same household as the Ireland-born parents Thomas and Mary Casey.
+
+- None of the Carey children are listed as born in Ireland. The four oldest were born in Virginia; the four youngest in West Virginia.
+- Whether the surname discrepancy (parents = Casey, children = Carey) reflects an enumerator variant or a genuine different surname cannot be determined from the index alone. It requires direct, high-resolution examination of the handwriting on images 209-210.
+- Conservatively stated: The "Carey" entries on image 210 represent, at minimum, the children of Ireland-born parents (Thomas and Mary Casey, both Ireland). They are Irish-American by parentage, not Ireland-born themselves.
+
+Does this create a small Casey / Byrne / Carey Irish cluster in Willey?
+Yes, with qualification. On images 209-210, Willey district, there are at minimum two Ireland-born households:
+1. John Byrne (Ireland) + Ellen Byrne (Ireland) -- a self-contained Ireland-born couple
+2. Thomas Casey (Ireland) + Mary Casey (Ireland) -- Ireland-born parents with a large family of Virginia/West Virginia-born children
+
+These are on the same two census pages and in the same enumeration district, suggesting a small but real Irish presence in Willey. Whether this constitutes a geographic "cluster" or is coincidental proximity within the enumerator's route is not determinable from the census alone.
+
+Does this change the interpretation of Willey compared with Battelle?
+That comparison is beyond scope per the research rules, and I have not examined any Battelle data. Stated conservatively on the Willey evidence alone: Willey has at least two Ireland-born households confirmed on images 209-210, giving a small Irish presence, not a large one. The "Carey" children extend the Casey family numerically but do not add Ireland-born birthplaces. The Byrne household is an independent Ireland-born unit. All findings are from the FamilySearch index and image viewer for collection 1438024, M593 Roll 1691, images 209-210 only.
+
+Uncertainty flags:
+- The written surname "Carey" vs. "Casey" for the children vs. parents requires high-resolution image verification.
+- John Byrne's index-assigned line number (24) differs from the line visible in the image (appearing to be line 22) -- possible indexing error, or off-by-one in how the enumerator numbered the page.
+- Elisabeth Byrne's exact relationship to John and Ellen is not stated in the index (assumed daughter).
+- Occupation, real estate, and personal estate for the Carey/Casey children and for Thomas Casey were not readable at the zoom levels available during this session.
+- Edward A Carey's age is given as 0 with no further detail; no birth month is captured.
+- No disability, school, or literacy marks were individually verified for image 210 entries.
