@@ -73,7 +73,7 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
   - the completed 1870 census-neighbor sweep
   - the Battelle Irish farming cluster around Owen Mulooly and the Patrick Ferril / Patrick Dolan household
   - the Willey Irish farming cluster around Thomas Hanrahan and Thomas / Bridget Cummings
-  - the negative result that no Ireland-born Murray / Murry household appears in 1870 Lewis County
+  - the negative result that no Ireland-born Murray / Murry household appeared in the initial 1870 search; this was later corrected by the Murry continuity pass, which found adult Patrick Murray at Sheridan / Lewis under a FamilySearch event-place indexing problem
   - the continuing negative result that no Copley / Coopley farming household appears in 1870 Lewis County
   - the next-step workflow focusing on targeted 1870 image review and district mapping
 - Updated `Research Priorities and Action Items.md`, `Tier 1 Research Execution Kit.md`, `Sources and Evidence Index.md`, `Topics/Murray Settlement.md`, `Topics/Murray Settlement Research Roadmap.md`, `Search Index.md`, and `CHANGELOG.md` so the Murray workflow now treats the 1870 FAN pass as complete.
@@ -110,6 +110,34 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
   - the interpretation that the Casey household is a small immigrant family household, not a boarder / institution case
   - the next follow-up leads: John Byrne on image 209 and the adjacent 8-person Carey household on image 210
 - Updated `References/Claude for Chrome Lewis County 1870 FAN Sweep.md`, `References/Claude for Chrome Lewis County 1870 Image Review.md`, `References/Claude for Chrome Lewis County Census District Geography.md`, `Research Priorities and Action Items.md`, `Tier 1 Research Execution Kit.md`, `Sources and Evidence Index.md`, `Topics/Murray Settlement.md`, `Topics/Murray Settlement Research Roadmap.md`, `Search Index.md`, and `CHANGELOG.md` so the next Claude for Chrome task is the Byrne / Carey household check.
+- Integrated Zach's May 13, 2026 Claude for Chrome **Byrne / Carey household** handoff.
+- Created `References/Claude for Chrome Lewis County Byrne Carey Household.md` and preserved the raw text at `static/sources/claude-1870-fan-sweep/byrne-carey-willey-household-claude-output.txt`.
+- Updated `RQ-M1-LEWIS-COUNTY-FAN-SWEEP.md` with:
+  - John Byrne, ARK `MZ4L-G5H`, age 52, Ireland, farmer, $1,710 real estate and $230 personal estate
+  - Ellen Byrne, age 45, Ireland, probable wife
+  - Elisabeth Byrne, age 17, Maryland, probable daughter
+  - the conclusion that the apparent 8-person Carey household on image 210 is likely a continuation of the Thomas / Mary Casey household, not a separate Irish-origin household
+  - the remaining need to resolve the written `Carey` versus `Casey` surname at higher resolution
+- Updated `References/Claude for Chrome Lewis County Mary Casey Household.md`, `References/Claude for Chrome Lewis County 1870 FAN Sweep.md`, `References/Claude for Chrome Lewis County 1870 Image Review.md`, `References/Claude for Chrome Lewis County Census District Geography.md`, `Research Priorities and Action Items.md`, `Tier 1 Research Execution Kit.md`, `Sources and Evidence Index.md`, `Topics/Murray Settlement.md`, `Topics/Murray Settlement Research Roadmap.md`, `Search Index.md`, and `CHANGELOG.md` so the next Claude for Chrome task is independent image capture for the key 1860 / 1870 census-cluster pages.
+- Integrated Zach's May 14, 2026 Claude for Chrome **Lewis County census image-capture** handoff.
+- Created `References/Claude for Chrome Lewis County Census Image Capture.md` and preserved the raw text at `static/sources/claude-1870-fan-sweep/lewis-county-census-image-capture-claude-output.txt`.
+- Updated `RQ-M1-LEWIS-COUNTY-FAN-SWEEP.md` with:
+  - the direct-image confirmation of Luke Murry, age 38, Ireland, farmer, $600 real estate and $400 personal estate
+  - the correction that the same 1860 household contains both a Virginia-born child Patrick Murry and a separate Ireland-born adult Patrick Murry, age 34
+  - the direct-image confirmation of Thomas and John Dolan households on 1860 page 117
+  - the tightened 1860 Weston household boundary: Michael Loftus / James Mc Mahan is separate from the same-image Lyttle / John Loftus boarding cluster
+  - the correction that Owen Mulooly's 1870 image reads Ireland even though FamilySearch indexes Virginia
+  - the interpretation that Battelle remains the strongest 1870 Irish farming cluster and Willey remains smaller / more scattered
+- Updated `References/Claude for Chrome Lewis County 1860 FAN Sweep.md`, `References/Claude for Chrome Lewis County 1870 FAN Sweep.md`, `References/Claude for Chrome Lewis County 1870 Image Review.md`, `References/Claude for Chrome Lewis County Byrne Carey Household.md`, `Research Priorities and Action Items.md`, `Tier 1 Research Execution Kit.md`, `Sources and Evidence Index.md`, `Topics/Murray Settlement.md`, `Topics/Murray Settlement Research Roadmap.md`, `Search Index.md`, and `CHANGELOG.md` so the next Claude for Chrome task is a Luke Murry / adult Patrick Murry continuity search after 1860.
+- Integrated Zach's May 14, 2026 Claude for Chrome **Luke / adult Patrick Murry continuity** handoff.
+- Created `References/Claude for Chrome Lewis County Murry Continuity Search.md` and preserved the raw text at `static/sources/claude-1870-fan-sweep/luke-patrick-murry-continuity-claude-output.txt`.
+- Updated `RQ-M1-LEWIS-COUNTY-FAN-SWEEP.md` with:
+  - the confirmed Luke Murry trail from 1860 Lewis County to North Providence / Providence, Rhode Island in 1870 and 1880, then death in Providence on 1 November 1899
+  - the confirmed adult Patrick Murry trail from 1860 Lewis County to the 27 December 1862 Patrick Murray / Mary Donahoe marriage, 1870 Sheridan / Lewis County household, and 22 August 1871 death at Sand Fork of Kent
+  - the correction that the earlier 1870 no-Murray result missed Patrick because FamilySearch indexed Sheridan under Lincoln County while the original record reads Lewis County
+  - the new network leads through Anne Loghan / Logan and Mary Donahoe / Donahue
+  - the remaining need to capture the marriage and death images and map Sheridan / Sand Fork of Kent against Weston, Battelle, Willey, Cove Lick, Camden, Loveberry, and St. Michael's
+- Updated `References/Claude for Chrome Lewis County 1860 FAN Sweep.md`, `References/Claude for Chrome Lewis County 1870 FAN Sweep.md`, `References/Claude for Chrome Lewis County Census Image Capture.md`, `Research Priorities and Action Items.md`, `Tier 1 Research Execution Kit.md`, `Sources and Evidence Index.md`, `Topics/Murray Settlement.md`, `Topics/Murray Settlement Research Roadmap.md`, `Search Index.md`, and `CHANGELOG.md` so the next Claude for Chrome task is Murry vital-record image capture and Sheridan / Sand Fork locality mapping.
 
 - Added a reader-facing `What's Proven vs What's Still Open` callout to `Home.md` and `index.md`.
 - Added a compact `At A Glance: Proven vs Open` summary near the top of `Visual Story Atlas.md`.
@@ -291,7 +319,7 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
 - `Visual Story Atlas.md` is now the diagram-first public entry point for the story, evidence status, and research quests.
 - `RQ-M1-JOHN-MURRAY-DEED-FINDINGS.md` now exists as the place to paste John Murray deed images, transcripts, abstracts, and interpretation.
 - The Murray deed task now has Claude for Chrome handoffs integrated into the wiki for the original Deed Book C-D / grantor-index brief, the completed exact-surname grantee-index result, the controlled negative page-404 and page-334 checks, the final built-in-index recheck showing that "Marwee Sawig" is not Murray, and the corrected 1826/1833 misindex results. The direct John Murray deed path is now exhausted.
-- The Lewis County FAN-sweep task now has 1850, 1860, and 1870 Claude for Chrome handoffs integrated into the wiki, plus the corrected 1870 image-review pass, the district-geography pass, and the Mary Casey household check. The 1870 image review confirms Battelle image 8 is a dense Irish farming cluster beyond the target surnames, with Michael Bush, Michael Leely, Owen Mulooly, and Michael McDonald. The district-geography pass points the visible 1850-1870 rural cluster evidence toward the Weston / courthouse hinterland rather than directly to Cove Lick / Camden / Loveberry. The Mary Casey check confirms an additional small Thomas / Mary Casey Ireland-born household in Willey. The Copley gap now spans both 1860 and 1870 because no indexed Copley / Coopley farming household appears in either census.
+- The Lewis County FAN-sweep task now has 1850, 1860, and 1870 Claude for Chrome handoffs integrated into the wiki, plus the corrected 1870 image-review pass, the district-geography pass, the Mary Casey household check, the Byrne / Carey follow-up, the 1860 / 1870 census image-capture pass, and the Luke / adult Patrick Murry continuity pass. The image-capture pass confirms Luke Murry and a separate adult Patrick Murry in 1860, confirms the Thomas / John Dolan rural cluster, tightens the Weston Loftus / Mc Mahan boarding-house boundary, corrects Owen Mulooly's indexed birthplace to image-read Ireland, and confirms Battelle as the densest 1870 Irish farming cluster. The Murry continuity pass traces Luke to Rhode Island by 1870 and adult Patrick to Sheridan / Lewis in 1870 and Sand Fork of Kent in 1871, correcting the earlier 1870 no-Murray result. The district-geography pass points the visible 1850-1870 rural cluster evidence toward the Weston / courthouse hinterland rather than directly to Cove Lick / Camden / Loveberry. The Copley gap now spans both 1860 and 1870 because no indexed Copley / Coopley farming household appears in either census.
 - `RQ-P1-PARTLOW-REVOLUTIONARY-LINE.md` is now the active Partlow proof-chain log.
 - `References/Harry C Partlow 1960 Letter and Handwritten Lineage.md` is the local family-source note for the 1960 Harry Partlow letter and 1977 handwritten lineage.
 - The Partlow working line is: Marion Elizabeth Partlow Copley -> Nollie Franklin / Frank Partlow -> Marion McDonald / M. Partlow -> John H. / John Halleck / Hallick Partlow -> Jacob Partlow / Jacob Newton Partlow -> Benjamin Partlow.
@@ -321,8 +349,9 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
   - Treat the old `1826 John Murray / Fred L. Fish` slot as closed; it is a misindexed **1899** oil-and-gas lease.
   - Treat the old `1833 John Murray` slot as closed; it is also a misindexed **1899** oil-and-gas lease.
   - The direct John Murray deed path is now exhausted. The **1850, 1860, and 1870 Lewis County FAN sweeps** are complete, and the two unread 1870 household targets are resolved.
-  - Claude for Chrome should shift next to the John Byrne / Carey household check around the Casey page: image 209 for Byrne and image 210 for the adjacent Carey household.
-  - Independently capture/read the 1860 census images for page 107 / image 113, page 114 / image 120, page 117 / image 123, and page 185 / image 191 when possible so the Claude extraction can become proof-grade evidence.
+  - Claude for Chrome should shift next to Murry vital-record image capture and locality mapping.
+  - Capture the Luke Murray / Anne Loghan marriage record in Lewis County, 1854; the Patrick Murray / Mary Donahoe marriage record in Lewis County, 27 December 1862; and the Patrick Murry death record at Sand Fork of Kent, Lewis County, 22 August 1871.
+  - Map Sheridan / Lewis County and Sand Fork of Kent against Weston, Battelle, Willey, Cove Lick, Camden, Loveberry, and St. Michael's to test whether Patrick remained in the same settlement geography or a different Lewis County locality.
   - The exact prompt to hand to Claude for Chrome is now preserved in `Tier 1 Research Execution Kit.md` under `Current Highest-Value Claude for Chrome Task`.
   - Preserve any new FAN-sweep images, citation paths, neighbor captures, and interpretation first in `RQ-M1-LEWIS-COUNTY-FAN-SWEEP.md`, then update `Sources and Evidence Index.md`, `Topics/Murray Settlement.md`, `Research Priorities and Action Items.md`, and `People/Ann Copley.md` only if the result materially changes the case.
 - Partlow next steps:
@@ -370,6 +399,7 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
 - `References/Claude for Chrome Lewis County 1860 FAN Sweep.md`
 - `References/Claude for Chrome Lewis County 1870 FAN Sweep.md`
 - `References/Claude for Chrome Lewis County 1870 Image Review.md`
+- `References/Claude for Chrome Lewis County Murry Continuity Search.md`
 - `References/Thomas Copley May 2026 Email Leads.md`
 - `References/Tom Copley Email 2026-05-07 Ballymoe Ballinasloe Question.md`
 - `References/Tom Copley Email 2026-05-07 Focus Dolan Family.md`
@@ -389,7 +419,8 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
 - Did a Murray family arrive in the Lewis County settlement area before the Copleys?
 - Why do Copley / Coopley households disappear from the indexed 1860 and 1870 Lewis County censuses after appearing in 1850?
 - What rural district or locality contains the 1860 Dolan / Murry Irish cluster once the census schedule header is independently read?
-- Are John Byrne on image 209 and the adjacent Carey household on image 210 Ireland-born or otherwise part of the Willey Irish cluster?
+- Can the Luke Murray / Anne Loghan 1854 marriage, Patrick Murray / Mary Donahoe 1862 marriage, and Patrick Murry 1871 death images verify the indexed Murry continuity chain?
+- Where exactly are Sheridan / Lewis County and Sand Fork of Kent relative to Weston, Battelle, Willey, Cove Lick, Camden, Loveberry, and St. Michael's?
 - What source can map exact 1850 District No. 30 / 1870 Battelle / Willey boundaries beyond the coarse White 1875 county map?
 - Is the 1870 image 8 surname indexed as Leely actually Leely, Lealy, Leahy, Liley, O'Leary, or another Irish surname?
 - What are the direct-image estate values for Michael McDonald on 1870 Battelle image 8?

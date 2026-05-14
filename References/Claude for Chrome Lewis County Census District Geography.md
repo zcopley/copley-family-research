@@ -62,7 +62,7 @@ This **does not prove** that the Battelle cluster was in Cove Lick, Camden, or L
 
 ## New Lead
 
-During the Willey header check, Claude surfaced **Mary Casey**, born about 1830 in Ireland, in Willey district, household 8, line 39, ARK `MZ4L-G5R`. A later follow-up in [[References/Claude for Chrome Lewis County Mary Casey Household]] confirmed that she belonged to a Thomas / Mary Casey household: Thomas and Mary were born in Ireland and their son John was born in Virginia.
+During the Willey header check, Claude surfaced **Mary Casey**, born about 1830 in Ireland, in Willey district, household 8, line 39, ARK `MZ4L-G5R`. A later follow-up in [[References/Claude for Chrome Lewis County Mary Casey Household]] confirmed that she belonged to a Thomas / Mary Casey household: Thomas and Mary were born in Ireland and their son John was born in Virginia. A second follow-up in [[References/Claude for Chrome Lewis County Byrne Carey Household]] confirmed John and Ellen Byrne as another Ireland-born couple on image 209 and showed that the apparent image 210 Carey household is probably a continuation of the Casey household rather than a separate household.
 
 ## Remaining Gaps
 
@@ -71,7 +71,7 @@ During the Willey header check, Claude surfaced **Mary Casey**, born about 1830 
 - The 1870 Battelle and Willey labels do not appear on the 1875 White map under those names.
 - The 1860 assistant marshal surname and 1870 Battelle assistant marshal surname remain partially unread.
 - Willey district's exact relationship to Weston, Battelle, Cove Lick, Camden, and Loveberry remains unresolved.
-- The adjacent John Byrne and Thomas Carey households still need a narrow birthplace check.
+- Images 209-210 still need higher-resolution capture to resolve the written `Carey` versus `Casey` surname and to read Thomas Casey's occupation / estate values.
 
 ## Related Pages
 
@@ -81,6 +81,7 @@ During the Willey header check, Claude surfaced **Mary Casey**, born about 1830 
 - [[References/Claude for Chrome Lewis County 1870 FAN Sweep]]
 - [[References/Claude for Chrome Lewis County 1870 Image Review]]
 - [[References/Claude for Chrome Lewis County Mary Casey Household]]
+- [[References/Claude for Chrome Lewis County Byrne Carey Household]]
 - [[Topics/Murray Settlement]]
 - [[Topics/Murray Settlement Research Roadmap]]
 - [[Research Priorities and Action Items]]

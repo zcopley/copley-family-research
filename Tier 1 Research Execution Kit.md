@@ -52,11 +52,7 @@ When a search produces a record, a negative result, or a corrected claim:
 
 ### Current Highest-Value Claude for Chrome Task
 
-For a single bounded Claude-for-Chrome session, the highest-value next task is a **John Byrne / Carey household check** around the 1870 Willey Casey page. The Mary Casey follow-up is complete: Thomas and Mary Casey were both born in Ireland, and their son John was born in Virginia.
-
-- This tests whether the Caseys are adjacent to more Irish-origin Willey households.
-- John Byrne is on the same image as the Caseys but has unverified birthplace.
-- The immediately adjacent image 210 contains an 8-person Carey household that may be Irish-origin.
+For a single bounded Claude-for-Chrome session, the highest-value next task is a **Murry vital-record image and locality check**. The continuity search traced Luke to Rhode Island and adult Patrick to Sheridan / Lewis County and an 1871 Lewis County death, but the underlying marriage/death images and local geography still need proof-grade capture.
 
 Use this exact prompt:
 
@@ -64,110 +60,92 @@ Use this exact prompt:
 Do one narrow research task only. Do not browse broadly and do not do any repo work.
 
 Goal:
-Check John Byrne on image 209 and the adjacent Carey household on image 210 in the 1870 Lewis County, West Virginia census.
+Capture and verify the key Murry vital records and localities that explain the 1860 Luke / adult Patrick Murry household. This is not a broad surname sweep.
 
 Known context:
-- The old “1826 John Murray / Fred L. Fish” lead is already closed: it is actually an 1899 oil-and-gas lease.
-- The old “1833 John Murray” lead is also closed: it is actually an 1899 oil-and-gas lease to Fred S. Rich.
-- The built-in Deed Book C-D “Marwee” path is retired from Murray-specific work.
-- The 1850 Lewis County pass is complete: it found the Micheal / Patrick Coopley household in District 30, but no broader Irish surname cluster.
-- The 1860 Lewis County pass is complete: it found a dense rural Dolan-centered Irish cluster, Ireland-born Luke and Patrick Murry, and a Weston Irish boarding-house cluster, but no indexed Copley / Coopley household.
-- The 1870 Lewis County pass is complete: it found Battelle and Willey Irish farming clusters, no Ireland-born Murray / Murry household, and no Copley farming household.
-- The corrected 1870 image review identifies Battelle image 8 as a dense Irish farming page with Bush, Leely, Mulooly, and McDonald. It also corrects the supposed extra Willey image 265 Ireland-born household as the Virginia-born Butcher household.
-- The district-geography pass points the 1850-1870 rural cluster evidence toward the Weston / courthouse hinterland.
-- The Mary Casey follow-up confirmed a small Thomas / Mary Casey Ireland-born household on image 209 / page 390, Willey.
-- That same image includes a John Byrne household whose birthplace was not checked.
-- The adjacent image 210 contains an 8-person Carey household: Thomas Carey, Patrick Carey, Edward A. Carey, Sarah B. Carey, Martin Carey, Michael Carey, Mary Ann Carey, Ellen Carey.
-- This session is only about John Byrne and the adjacent Carey household.
-- Do not run a new broad surname sweep. Do not work on deeds, Marwee, page 334, page 404, 1880, later records, or unrelated Casey families.
+- The direct early John Murray deed path is closed. The old 1826 Murray / Fish and 1833 John Murray leads are both 1899 oil-and-gas lease misindexes.
+- The 1860 image-capture pass confirms Luke Murry, age 38, born Ireland, farmer, $600 real estate and $400 personal estate, with wife Ann and children in Lewis County, Virginia.
+- The same 1860 household includes Owen Loghan / Logan, age 11, born Virginia, and a separate adult Patrick Murry, age 34, born Ireland.
+- The continuity search found Luke Murray in North Providence / Providence, Rhode Island in 1870 and 1880, with wife Anne and the same Virginia-born children, then death in Providence on 1 November 1899.
+- The continuity search reports a Lewis County marriage lead: Luke Murray married Anne Loghan in 1854.
+- The continuity search found adult Patrick Murray in Sheridan / Lewis County in 1870 with wife Mary and children, then death at Sand Fork of Kent, Lewis County, on 22 August 1871.
+- The continuity search reports a Lewis County marriage lead: Patrick Murray married Mary Donahoe / Donahue on 27 December 1862.
+- This session is only about capturing those marriage/death records and locating Sheridan / Sand Fork of Kent relative to the Murray Settlement geography.
+- Do not work on Marwee, page 334, page 404, Casey / Carey, Battelle cluster details, Dolan cluster details, Partlow, or broad unrelated Murray families.
 
 Your task:
-1. Open the 1870 Lewis County, West Virginia census:
-   - FamilySearch collection ID: 1438024
-   - Digital Folder: 004268429_001_M9CX-5FK
-   - NARA M593, Roll 1691
-2. Re-open image 209 / page 390, Willey district:
-   - Confirm the John Byrne household from the Names panel and image.
-   - Capture John Byrne, Ellen Byrne, and Elisabeth Byrne.
-   - Determine each birthplace, especially whether any Byrne household member was born in Ireland.
-3. Open image 210, the page immediately after the Thomas / Mary Casey household:
-   - Transcribe the full Carey household listed in the Names panel: Thomas, Patrick, Edward A., Sarah B., Martin, Michael, Mary Ann, Ellen Carey.
-   - Determine each birthplace and whether the household is Ireland-born, Irish-American, or not Irish-born.
-4. For the Byrne and Carey households, capture:
-   - written name
-   - indexed name
-   - age
-   - sex / color
-   - occupation
-   - real estate / personal estate
-   - birthplace
-   - household and dwelling numbers
-   - all household members
-   - any school, literacy, citizenship, or disability marks if readable
-5. Do not expand beyond image 209 and image 210 unless the Carey household continues onto image 211.
-6. Stop after Byrne and Carey.
+1. Capture the Luke Murray / Anne Loghan marriage record:
+   - Search FamilySearch West Virginia Marriages / West Virginia County Marriage Records.
+   - Target: Luke Murray / Murry and Anne / Ann Loghan / Logan, Lewis County, 1854.
+   - Capture the image if available, or the full indexed citation if image is not available.
+2. Capture the Patrick Murray / Mary Donahoe marriage record:
+   - Search FamilySearch West Virginia Marriages / West Virginia County Marriage Records.
+   - Target: Patrick Murray / Murry and Mary Donahoe / Donahue, Lewis County, 27 December 1862.
+   - Capture the image if available, or the full indexed citation if image is not available.
+3. Capture the Patrick Murry death record:
+   - FamilySearch ARK: NMD7-M2L
+   - Collection: West Virginia Deaths, 1804-1999
+   - Target: Patrick Murry, died 22 August 1871, Sand Fork of Kent, Lewis County, WV
+   - Source details from prior handoff: v. 1 p. 69, County Records; WV Culture image, FilmNumber 825106, ImageNumber 307
+   - Capture the image if accessible through WV Culture or FamilySearch; otherwise record exact access limits.
+4. Map the localities:
+   - Sheridan / Lewis County, West Virginia
+   - Sand Fork of Kent, Lewis County, West Virginia
+   - Compare to Weston, Battelle, Willey, Cove Lick, Camden, Loveberry, and St. Michael's Church if a reliable map or county-history source is available.
+5. Stop after these three records and the locality check.
 
-Capture this exact output format:
+Output format:
 
-BYRNE / CAREY CHECK SCOPE
-- Collection / website:
-- Film / folder:
-- Images / pages checked:
-- Viewer or Names-panel method used:
-- Any image or scroll problems:
+MURRY VITAL-RECORD CHECK SCOPE
+- Websites / collections searched:
+- Exact search terms used:
+- Images or records accessed:
+- Access or image problems:
 
-HOUSEHOLD TRANSCRIPTS
-- John Byrne household:
-  - Image / page / line range:
+VITAL RECORDS
+- Luke Murray / Anne Loghan marriage:
+  - Source / URL / ARK:
+  - Image / page / line:
   - Written names:
-  - Indexed names:
-  - Household / dwelling numbers:
-  - District / post office:
-  - Household members:
-  - Birthplaces:
-  - Occupations:
-  - Real estate / personal estate:
-  - Marks / notes:
-  - URLs / ARKs:
-- Carey household:
-  - Image / page / line range:
+  - Date / place:
+  - Ages, residences, parents, witnesses, officiant, notes:
+  - Evidence value:
+- Patrick Murray / Mary Donahoe marriage:
+  - Source / URL / ARK:
+  - Image / page / line:
   - Written names:
-  - Indexed names:
-  - Household / dwelling numbers:
-  - District / post office:
-  - Household members:
-  - Birthplaces:
-  - Occupations:
-  - Real estate / personal estate:
-  - Marks / notes:
-  - URLs / ARKs:
+  - Date / place:
+  - Ages, residences, parents, witnesses, officiant, notes:
+  - Evidence value:
+- Patrick Murry death:
+  - Source / URL / ARK:
+  - Image / page / line:
+  - Written name:
+  - Date / place:
+  - Age, birthplace, occupation, spouse, parents, informant, cause if present:
+  - Evidence value:
 
-NEIGHBOR CONTEXT
-- Relationship to Thomas / Mary Casey household:
-- Other Ireland-born persons on images 209-210:
-- Any Catholic / Irish surname clues:
+LOCALITY CHECK
+- Sheridan / Lewis County:
+- Sand Fork of Kent:
+- Relationship to Weston / Battelle / Willey / Cove Lick / Camden / Loveberry / St. Michael's:
+- Sources used for locality mapping:
 
 RQ-M1 INTERPRETATION
-- Does John Byrne add another Ireland-born household or person on image 209?
-- Is the Carey household Ireland-born, Irish-American, or unrelated?
-- Does this create a small Casey / Byrne / Carey Irish cluster in Willey?
-- Does this change the interpretation of Willey compared with Battelle?
+- Do the marriage/death records support Luke and adult Patrick as brothers or close kin?
+- Does Anne Loghan / Logan create a new local kin-network lead?
+- Does Mary Donahoe / Donahue create a new local kin-network lead?
+- Does Sheridan / Sand Fork of Kent place Patrick near or away from the known Murray Settlement geography?
+- Does this change the Murray-anchor hypothesis?
 
 FAILURE MODE
-- If you cannot fully resolve it, state exactly why:
-  - record inaccessible
-  - image unreadable
-  - household split across images
-  - Names panel conflicts with image
-  - other exact issue
+- If an image is inaccessible, state exactly which collection, URL, and access problem blocked it.
 
 Rules:
 - Be conservative.
 - Separate evidence from inference.
-- Record exact written names where readable.
-- Preserve uncertainty and unreadable entries.
-- Do not do any repo editing.
-- Stop after John Byrne and the Carey household only.
+- Do not treat FamilySearch tree relationships as proof unless the underlying record supports them.
+- Do not do repo editing.
 ```
 
 ### Request Template: Lewis County Clerk / FamilySearch Helper

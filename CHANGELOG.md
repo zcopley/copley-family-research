@@ -10,6 +10,42 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4BM - Murry Continuity Search Integrated (May 14, 2026)
+
+**MURRAY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome Luke / adult Patrick Murry continuity search. The search resolves the 1860 Murry household split: Luke Murry moved to North Providence / Providence, Rhode Island by 1870, while the separate adult Patrick Murry stayed in Lewis County, appeared in Sheridan / Lewis in 1870, and died at Sand Fork of Kent in 1871.
+
+### Updated Pages
+
+- [[References/Claude for Chrome Lewis County Murry Continuity Search|Claude for Chrome Lewis County Murry Continuity Search]] - new browser-readable source note preserving the search scope, candidate rejections, confirmed Luke and Patrick continuity chains, ARKs, and raw text under `static/sources/claude-1870-fan-sweep/`.
+- [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]] - added Luke's Rhode Island trail, Patrick's Sheridan / Lewis and Sand Fork trail, the correction to the earlier 1870 no-Murray result, and the Loghan / Donahoe follow-up leads.
+- [[References/Claude for Chrome Lewis County 1860 FAN Sweep|Claude for Chrome Lewis County 1860 FAN Sweep]], [[References/Claude for Chrome Lewis County 1870 FAN Sweep|Claude for Chrome Lewis County 1870 FAN Sweep]], and [[References/Claude for Chrome Lewis County Census Image Capture|Claude for Chrome Lewis County Census Image Capture]] - linked the continuity search and corrected the post-1860 Murry interpretation.
+- [[Tier 1 Research Execution Kit|Tier 1 Research Execution Kit]] and [[Research Priorities and Action Items|Research Priorities and Action Items]] - shifted the current Claude-for-Chrome task to Murry vital-record image capture and Sheridan / Sand Fork locality mapping.
+- [[Topics/Murray Settlement|Murray Settlement]], [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]], [[Sources and Evidence Index|Sources and Evidence Index]], [[Search Index|Search Index]], and `.agents/AGENT_RESUME.md` - updated the public research state and next-step handoff.
+
+## Phase 4BL - Lewis County Census Image Capture Integrated (May 14, 2026)
+
+**MURRAY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome proof-oriented image-capture pass for the key 1860 and 1870 Lewis County census pages. The pass strengthens the Irish-cluster evidence by directly confirming the 1860 Dolan / Murry / Weston Irish contexts and the 1870 Battelle / Willey cluster pages where image quality allowed.
+
+### Updated Pages
+
+- [[References/Claude for Chrome Lewis County Census Image Capture|Claude for Chrome Lewis County Census Image Capture]] - new browser-readable source note preserving the image-capture scope, direct image reads, corrections, uncertainty flags, and raw text under `static/sources/claude-1870-fan-sweep/`.
+- [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]] - updated the current status, 1860 Murry row, Weston Loftus / Mc Mahan row, 1870 Mulooly row, Ferril / Dolan row, and Byrne / Casey neighbor-cluster interpretation.
+- [[References/Claude for Chrome Lewis County 1860 FAN Sweep|Claude for Chrome Lewis County 1860 FAN Sweep]], [[References/Claude for Chrome Lewis County 1870 FAN Sweep|Claude for Chrome Lewis County 1870 FAN Sweep]], [[References/Claude for Chrome Lewis County 1870 Image Review|Claude for Chrome Lewis County 1870 Image Review]], and [[References/Claude for Chrome Lewis County Byrne Carey Household|Claude for Chrome Lewis County Byrne Carey Household]] - linked the image-capture follow-up and incorporated the major corrections.
+- [[Tier 1 Research Execution Kit|Tier 1 Research Execution Kit]] and [[Research Priorities and Action Items|Research Priorities and Action Items]] - shifted the current Claude-for-Chrome task from image capture to a narrow Luke Murry / adult Patrick Murry continuity search after 1860.
+- [[Topics/Murray Settlement|Murray Settlement]], [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]], [[Sources and Evidence Index|Sources and Evidence Index]], [[Search Index|Search Index]], and `.agents/AGENT_RESUME.md` - updated the evidence status and next-step handoff.
+
+## Phase 4BK - Byrne / Carey Willey Household Integrated (May 13, 2026)
+
+**MURRAY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome follow-up on John Byrne and the apparent Carey household near the 1870 Willey Casey page. The check confirms **John and Ellen Byrne** as another Ireland-born couple on image 209 and corrects the "Carey household" lead: the image 210 Carey-indexed children appear to continue the Thomas / Mary Casey household rather than form a separate household.
+
+### Updated Pages
+
+- [[References/Claude for Chrome Lewis County Byrne Carey Household|Claude for Chrome Lewis County Byrne Carey Household]] - new browser-readable source note preserving the Byrne transcript, Casey / Carey continuation finding, uncertainty flags, ARKs, and raw source link under `static/sources/claude-1870-fan-sweep/`.
+- [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]] - added John / Ellen Byrne and the Casey / Carey page-break correction to the 1870 Willey household inventory and neighbor-cluster table.
+- [[References/Claude for Chrome Lewis County Mary Casey Household|Claude for Chrome Lewis County Mary Casey Household]], [[References/Claude for Chrome Lewis County 1870 FAN Sweep|Claude for Chrome Lewis County 1870 FAN Sweep]], [[References/Claude for Chrome Lewis County 1870 Image Review|Claude for Chrome Lewis County 1870 Image Review]], and [[References/Claude for Chrome Lewis County Census District Geography|Claude for Chrome Lewis County Census District Geography]] - linked the Byrne / Carey follow-up and replaced the completed household-check prompt with higher-resolution image-capture needs.
+- [[Tier 1 Research Execution Kit|Tier 1 Research Execution Kit]] and [[Research Priorities and Action Items|Research Priorities and Action Items]] - shifted the current Claude-for-Chrome task to independent image capture for the key 1860 and 1870 census-cluster pages.
+- [[Topics/Murray Settlement|Murray Settlement]], [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]], [[Sources and Evidence Index|Sources and Evidence Index]], [[Search Index|Search Index]], and `.agents/AGENT_RESUME.md` - updated the public interpretation and next-step handoff.
+
 ## Phase 4BJ - Mary Casey Willey Household Integrated (May 11, 2026)
 
 **MURRAY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome follow-up on the Mary Casey lead in the 1870 Willey district. The check confirms Mary Casey was not isolated or institutional: she was part of a three-person Thomas / Mary Casey household, with both adults born in Ireland and son John born in Virginia.

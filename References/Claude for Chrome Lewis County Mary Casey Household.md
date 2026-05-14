@@ -19,9 +19,12 @@ This note preserves Zach Copley's May 11, 2026 Claude for Chrome household check
 
 **Evidence caution:** This is a browser-based FamilySearch extraction using the Names panel and record panels. It is sufficient for research direction, but the original census image should still be captured and read directly for proof-grade citation.
 
+**Follow-up status:** The Byrne / Carey follow-up is now complete in [[References/Claude for Chrome Lewis County Byrne Carey Household]]. It confirms John and Ellen Byrne as an additional Ireland-born couple on image 209 and shows that the apparent Carey household on image 210 is not clearly separate; it appears to be a continuation of the Thomas / Mary Casey household across the image break.
+
 ## Raw Source File
 
 - [Download raw Claude Mary Casey text](../static/sources/claude-1870-fan-sweep/mary-casey-willey-household-claude-output.txt)
+- Follow-up Byrne / Carey check: [[References/Claude for Chrome Lewis County Byrne Carey Household]]
 - Related district note: [[References/Claude for Chrome Lewis County Census District Geography]]
 
 ## Source Details
@@ -60,7 +63,7 @@ The FamilySearch Names panel shows these households on image 209 / page 390:
 | 7 | Jasper Butcher household | 7 persons. |
 | 8 | Thomas Casey household | Thomas and Mary born Ireland; John born Virginia. |
 
-The Caseys are the only confirmed Ireland-born household on image 209. The page is mixed rather than a dense Irish enclave.
+The original Mary Casey check treated the Caseys as the only confirmed Ireland-born household on image 209. The later Byrne / Carey follow-up corrected this: **John and Ellen Byrne** on the same image were also born in Ireland. The page is still mixed rather than a dense Irish enclave.
 
 ## Adjacent Carey Lead
 
@@ -75,18 +78,18 @@ The index for Mary and John Casey reports these names on adjacent image 210:
 - Mary Ann Carey
 - Ellen Carey
 
-This 8-person Carey household immediately follows the Casey household and may be Irish-origin. It should be checked next, together with the John Byrne household on image 209.
+The later Byrne / Carey follow-up found that this apparent 8-person Carey household is not clearly separate. FamilySearch indexes the Carey entries as part of the same household cluster as Thomas and Mary Casey, continuing across the image break from image 209 to image 210. The children were born in Virginia / West Virginia, not Ireland, and the written `Carey` versus `Casey` surname needs higher-resolution image verification.
 
 ## Interpretation for RQ-M1
 
 Mary Casey is not isolated, institutional, or merely a boarder. She is the probable wife in a nuclear Irish immigrant household headed by **Thomas Casey**, with a Virginia-born son **John Casey**. The family likely arrived in Virginia by about 1855 and remained in Lewis County's Willey district through 1870.
 
-This adds a confirmed Ireland-born Casey household to the Willey inventory. It strengthens the idea that Willey had scattered Irish farming households beyond Hanahan / Hanrahan and Cummings, but it does not make Willey look like the dense Battelle Irish page.
+This adds a confirmed Ireland-born Casey household to the Willey inventory. The later Byrne / Carey check adds John and Ellen Byrne as another Ireland-born couple on the same image. Together they strengthen the idea that Willey had scattered Irish households beyond Hanahan / Hanrahan and Cummings, but Willey still does not look like the dense Battelle Irish page.
 
 ## Follow-Up
 
-- Check **John Byrne** on image 209 for birthplace and household context.
-- Check the adjacent **Carey** household on image 210 for birthplaces and possible relationship to the Caseys.
+- Preserve the completed Byrne / Carey result in [[References/Claude for Chrome Lewis County Byrne Carey Household]].
+- Recheck images 209-210 at higher resolution to resolve the written `Carey` versus `Casey` surname for the children.
 - Capture the original census image at higher zoom if possible to read Thomas Casey's occupation and estate values.
 
 ## Related Pages
@@ -94,5 +97,6 @@ This adds a confirmed Ireland-born Casey household to the Willey inventory. It s
 - [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]]
 - [[References/Claude for Chrome Lewis County Census District Geography]]
 - [[References/Claude for Chrome Lewis County 1870 FAN Sweep]]
+- [[References/Claude for Chrome Lewis County Byrne Carey Household]]
 - [[Topics/Murray Settlement]]
 - [[Topics/Murray Settlement Research Roadmap]]
