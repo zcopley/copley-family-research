@@ -10,6 +10,17 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4BN - Murry Vital Records Integrated (May 14, 2026)
+
+**MURRAY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome verification report for the Luke Murray / Anne Loghan marriage, Patrick Murray / Mary Donahoe marriage, and Patrick Murry death record. The report verifies the main ARKs and record identifiers, but it also sharpens the kinship problem: Patrick's death index names father **Luke Murry**, which conflicts with treating the 1854 Luke as Patrick's same-generation brother unless there are two Lukes, a bad birth year, or an indexing / image-reading issue.
+
+### Updated Pages
+
+- [[References/Claude for Chrome Lewis County Murry Vital Records|Claude for Chrome Lewis County Murry Vital Records]] - new browser-readable source note preserving the record ARKs, image / film identifiers, access problems, locality summary, and kinship caution; raw text is published under `static/sources/claude-1870-fan-sweep/`.
+- [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]] and [[References/Claude for Chrome Lewis County Murry Continuity Search|Claude for Chrome Lewis County Murry Continuity Search]] - updated the Patrick Murry row and kinship interpretation to treat the Luke-as-father evidence as unresolved until original images are transcribed.
+- [[Tier 1 Research Execution Kit|Tier 1 Research Execution Kit]] and [[Research Priorities and Action Items|Research Priorities and Action Items]] - shifted the next Claude-for-Chrome task from vital-record index capture to original-image transcription for the WV Culture / FamilySearch Murry records.
+- [[Topics/Murray Settlement|Murray Settlement]], [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]], [[Sources and Evidence Index|Sources and Evidence Index]], [[Search Index|Search Index]], and `.agents/AGENT_RESUME.md` - updated the public research state and next-step handoff.
+
 ## Phase 4BM - Murry Continuity Search Integrated (May 14, 2026)
 
 **MURRAY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome Luke / adult Patrick Murry continuity search. The search resolves the 1860 Murry household split: Luke Murry moved to North Providence / Providence, Rhode Island by 1870, while the separate adult Patrick Murry stayed in Lewis County, appeared in Sheridan / Lewis in 1870, and died at Sand Fork of Kent in 1871.

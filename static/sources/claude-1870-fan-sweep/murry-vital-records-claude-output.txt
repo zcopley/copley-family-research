@@ -1,0 +1,128 @@
+Three Murry Records - Lewis County, WV: Full Verification Report
+
+Record 1 - Luke Murray / Anne Loghan Marriage, 1854
+
+Two separate FamilySearch documents cover this event.
+
+1-A. West Virginia, County Marriage Records, 1776-1971
+
+FamilySearch ARK: https://www.familysearch.org/ark:/61903/1:1:Q2ZX-G78G
+Collection: West Virginia, County Marriage Records, 1776-1971, collection 4375852
+Digital Folder: 007617564
+Microfilm: 000250047
+Image Number: 183
+Event Type: Marriage
+Event Date: 30 December 1854
+Event Place, indexed: Lewis, West Virginia, United States
+Event Place, original: West Virginia, United States
+Groom name as written: Luke Murray
+Bride name as written: Anne Loghan
+Bride ARK: /ark:/61903/1:1:Q2ZX-G78Y
+Ages, parents, witnesses, officiant: Not extracted in the index; image unavailable on FamilySearch
+Image access: Image Unavailable on FamilySearch; must be viewed on wvculture.org
+Possible tree match: Luke Murray 1822-1899, PID KHHZ-4BV
+
+1-B. West Virginia, Marriages, 1780-1970, Marriage Consent / Bond
+
+FamilySearch ARK: https://www.familysearch.org/ark:/61903/1:1:FRRG-HPT
+Collection: West Virginia, Marriages, 1780-1970, collection 1408729
+Digital Folder: 4130803
+Microfilm: 825111
+Image Number: 00184
+Indexing Batch: M02127-4
+Event Type: Marriage Consent, a bond or consent register distinct from the register of marriages performed
+Event Date: 1854, year only
+Event Place: Lewis, West Virginia, United States
+Groom name as written: Luke Murray
+Bride name as written: Anne Log?an, surname partially illegible in image; question mark is the indexer's notation, suggesting Logan or Loghan
+Reference: County Records
+Image access: Image viewable via wvculture.org button on the FamilySearch record page
+Possible tree match: Luke Murray 1822-1899, PID KHHZ-4BV
+
+Summary for Record 1: Both documents cover the Luke Murray / Anne Loghan union in Lewis County. The county register gives the full date 30 December 1854; the bond / consent register gives year only. The bride's surname is rendered Loghan in the register index and Log?an in the bond index. No age, parents, witnesses, or officiant are captured in the FamilySearch index fields. The full image on wvculture.org may contain those details but was inaccessible to read in this Claude for Chrome session.
+
+Record 2 - Patrick Murray / Mary Donahoe Marriage, 27 Dec 1862
+
+2-A. West Virginia, County Marriage Records, 1776-1971, the Marriage Register
+
+FamilySearch ARK: https://www.familysearch.org/ark:/61903/1:1:Q2ZF-7BF6
+Collection: West Virginia, County Marriage Records, 1776-1971, collection 4375852
+Digital Folder: 007618364
+Microfilm: 000464954
+Image Number: 652
+Volume title: Lewis. Birth Records 1853-1899, Marriage Records 1817-1864, Death Records 1853-1899, Wills 1853, 1864-1899
+Event Type: Marriage
+Event Date: 27 December 1862
+Event Place, indexed: Lewis, West Virginia, United States
+Event Place, original: West Virginia, United States
+Groom name as written: Patrick Murray
+Bride name as written: Mary Donahue, indexed spelling; companion WV Marriages 1780-1970 record spells it Donahoe
+Bride ARK: /ark:/61903/1:1:Q2ZF-7BFF
+Officiant: From the document image, appears to read Daniel O. Carter in the "By Whom Solemnized" column in the ledger image at image 652
+Ages, parents, witnesses: Not extracted in the FamilySearch index; column headings on the register include "By Whom Solemnized" and presumably witnesses, but those fields are not indexed
+Image access: Image viewable on FamilySearch, direct image path /ark:/61903/3:1:3QS7-99K9-Q9FM?view=index&personArk=%2Fark%3A%2F61903%2F1%3A1%3AQ2ZF-7BF6&action=view&cc=4375852
+Attached in FamilySearch tree: Patrick Murray 1823-1871, PID 9HRT-M3B
+
+2-B. West Virginia, Marriages, 1780-1970, Marriage Bond / Consent
+
+From the broad search, a companion record exists: Patrick Murray / Mary Donahoe, date indexed as 1863, Lewis County. This is the bond or consent document and gives a slightly different date, year only or possibly a different document date. The ARK was not separately retrieved, but it appeared as a Similar Record on the county marriage record page, indicating FamilySearch has linked them as duplicates of the same event.
+
+Summary for Record 2: The county register confirms the date as 27 December 1862, the county as Lewis, WV, the groom as Patrick Murray, and the bride as Mary Donahue / Donahoe. The officiant column in the ledger image reads Daniel O. Carter. Full witness names and ages require reading the original image carefully; the register format typically has columns for groom's name, bride's name, by whom solemnized, and date, with no ages or parents in this register type.
+
+Record 3 - Patrick Murry Death, 22 Aug 1871
+
+FamilySearch ARK: https://www.familysearch.org/ark:/61903/1:1:NMD7-M2L
+Collection: West Virginia, Deaths, 1804-1999
+Digital Folder: 4130795
+Microfilm / Film Number: 825106
+Image Number: 307
+Source Details: v 1 p 69
+Reference: County Records
+Name as written: Patrick Murry
+Sex: Male
+Age: 48 years
+Estimated birth year: 1823
+Birthplace: Ireland
+Marital Status: Married
+Occupation: Farmer
+Event Date: 22 Aug 1871
+Event Place: Sand Fork of Kent, Lewis Co., West Virginia
+Spouse on record: Mary S. Murry, ARK NMD7-M25, listed as wife in the same register grouping
+Father named on record: Luke Murry, ARK NMD7-M2G, Mentioned in the Record of Patrick Murry
+Mother named on record: Margaret Murry, ARK NMD7-M2P
+Cause of death: Not extracted in index
+Informant: Not extracted in index
+Image access: Image hosted exclusively on wvculture.org. FamilySearch shows a View on wvculture.org button. Direct WV Culture URL: https://archive.wvculture.org/vrr/va_view2.aspx?FilmNumber=825106&ImageNumber=307. This tab opened successfully in the session but the domain was not readable programmatically.
+
+Critical derived finding: The FamilySearch indexing of the death register at v. 1 p. 69 extracted Luke Murry as Patrick Murry's father and Margaret Murry as his mother. This is not a separate death record for Luke; it is a mention derived from a field in Patrick's death entry, likely the father's-name column. Patrick's wife at death is recorded as Mary S. Murry.
+
+Locality check:
+
+Weston: county seat of Lewis County; courthouse where the three records were registered.
+
+Sand Fork of Kent: locality on Sand Fork Creek, a tributary of the Little Kanawha River, in southeastern Lewis County; roughly 15-20 miles south-southeast of Weston by road.
+
+Sheridan: village or district in northern Lewis County, on or near the West Fork River corridor, north of Weston toward Clarksburg. Sheridan district was one of the civil or magisterial districts of Lewis County used for census and civil purposes.
+
+Battelle: civil or magisterial district in northwestern Lewis County, also along the West Fork corridor, adjacent to or overlapping what is now the Alum Bridge / Burnt House area.
+
+Willey: magisterial district in central Lewis County, named for Waitman Thomas Willey, encompassing land near the Buckhannon River headwaters and central uplands.
+
+Cove Lick: settlement or district in eastern or central Lewis County, likely in the Skin Creek or Brushy Fork drainage.
+
+Camden: in Lewis County context likely Camden District or a community associated with the Camden family; may also refer to Camden-on-Gauley in broader regional usage.
+
+Loveberry: small community or post-office community in Lewis County, likely western or central.
+
+St. Michael's: likely St. Michael's Catholic Church or parish serving Lewis County. Civil records should be compared with St. Michael's sacramental registers, which may contain ages, parents, witnesses, sponsors, and other details.
+
+Access problems:
+
+1. Luke Murray / Anne Loghan marriage image, Record 1-A, marked Image Unavailable on FamilySearch. Must go to wvculture.org directly.
+2. WV Culture images generally opened in tabs but could not be read programmatically in this Claude for Chrome session. The Patrick death image URL was confirmed active.
+3. FamilySearch Wiki had auth errors during the session.
+4. Non-indexed fields for ages, parents, witnesses, cause of death, and informant require direct original-image reading.
+
+Interpretation:
+
+The records do not support Luke and the adult Patrick Murry who died in 1871 as brothers without qualification. The death register index names Luke Murry as Patrick's father and Margaret Murry as his mother. If that father is the same Luke Murray who married Anne Loghan in 1854 and is born about 1822 in the FamilySearch tree, the dates are impossible because Patrick was born about 1823. This suggests at least one unresolved issue: the Luke named as father may be an older Luke Murry; the FamilySearch tree birth year for the 1854 Luke may be wrong; there may be two different Luke Murrys; or the indexed father field must be checked against the original image. Original death-register image verification is required before drawing a final kinship conclusion.

@@ -52,7 +52,7 @@ When a search produces a record, a negative result, or a corrected claim:
 
 ### Current Highest-Value Claude for Chrome Task
 
-For a single bounded Claude-for-Chrome session, the highest-value next task is a **Murry vital-record image and locality check**. The continuity search traced Luke to Rhode Island and adult Patrick to Sheridan / Lewis County and an 1871 Lewis County death, but the underlying marriage/death images and local geography still need proof-grade capture.
+For a single bounded Claude-for-Chrome session, the highest-value next task is a **Murry original-image transcription check**. The vital-record index pass verified the key ARKs, but the WV Culture images were not readable programmatically and Patrick's death index creates an unresolved age / two-Luke kinship problem.
 
 Use this exact prompt:
 
@@ -60,82 +60,85 @@ Use this exact prompt:
 Do one narrow research task only. Do not browse broadly and do not do any repo work.
 
 Goal:
-Capture and verify the key Murry vital records and localities that explain the 1860 Luke / adult Patrick Murry household. This is not a broad surname sweep.
+Read and transcribe the original images behind the key Murry vital records. This is not a broad surname sweep.
 
 Known context:
 - The direct early John Murray deed path is closed. The old 1826 Murray / Fish and 1833 John Murray leads are both 1899 oil-and-gas lease misindexes.
 - The 1860 image-capture pass confirms Luke Murry, age 38, born Ireland, farmer, $600 real estate and $400 personal estate, with wife Ann and children in Lewis County, Virginia.
 - The same 1860 household includes Owen Loghan / Logan, age 11, born Virginia, and a separate adult Patrick Murry, age 34, born Ireland.
 - The continuity search found Luke Murray in North Providence / Providence, Rhode Island in 1870 and 1880, with wife Anne and the same Virginia-born children, then death in Providence on 1 November 1899.
-- The continuity search reports a Lewis County marriage lead: Luke Murray married Anne Loghan in 1854.
+- The vital-record pass verified a Lewis County marriage index: Luke Murray married Anne Loghan on 30 December 1854. FamilySearch ARK Q2ZX-G78G; companion bond / consent ARK FRRG-HPT.
 - The continuity search found adult Patrick Murray in Sheridan / Lewis County in 1870 with wife Mary and children, then death at Sand Fork of Kent, Lewis County, on 22 August 1871.
-- The continuity search reports a Lewis County marriage lead: Patrick Murray married Mary Donahoe / Donahue on 27 December 1862.
-- This session is only about capturing those marriage/death records and locating Sheridan / Sand Fork of Kent relative to the Murray Settlement geography.
+- The vital-record pass verified Patrick Murray married Mary Donahoe / Donahue on 27 December 1862. FamilySearch ARK Q2ZF-7BF6; image 652 is viewable on FamilySearch and the officiant appears to be Daniel O. Carter.
+- The vital-record pass verified Patrick Murry's death index: ARK NMD7-M2L, WV Deaths, Film 825106, Image 307, v. 1 p. 69. The index names Patrick's father as Luke Murry and mother as Margaret Murry.
+- This creates a kinship problem: if the 1854 Luke was born about 1822, he cannot be father of Patrick born about 1823. The original death image must be checked before treating Patrick as the 1854 Luke's son, brother, or other kin.
+- This session is only about original-image transcription for these records and access notes.
 - Do not work on Marwee, page 334, page 404, Casey / Carey, Battelle cluster details, Dolan cluster details, Partlow, or broad unrelated Murray families.
 
 Your task:
-1. Capture the Luke Murray / Anne Loghan marriage record:
-   - Search FamilySearch West Virginia Marriages / West Virginia County Marriage Records.
-   - Target: Luke Murray / Murry and Anne / Ann Loghan / Logan, Lewis County, 1854.
-   - Capture the image if available, or the full indexed citation if image is not available.
-2. Capture the Patrick Murray / Mary Donahoe marriage record:
-   - Search FamilySearch West Virginia Marriages / West Virginia County Marriage Records.
-   - Target: Patrick Murray / Murry and Mary Donahoe / Donahue, Lewis County, 27 December 1862.
-   - Capture the image if available, or the full indexed citation if image is not available.
-3. Capture the Patrick Murry death record:
+1. Open and transcribe the Luke Murray / Anne Loghan county marriage image if possible:
+   - FamilySearch ARK: Q2ZX-G78G
+   - Collection: West Virginia, County Marriage Records, 1776-1971
+   - Digital Folder 007617564; Microfilm 000250047; Image 183
+   - If FamilySearch says Image Unavailable, use the WV Culture route if available.
+2. Open and transcribe the Luke Murray / Anne Loghan bond / consent image:
+   - FamilySearch ARK: FRRG-HPT
+   - Collection: West Virginia, Marriages, 1780-1970
+   - Digital Folder 4130803; Microfilm 825111; Image 00184
+   - Verify whether the bride's written surname is Loghan, Logan, or another spelling.
+3. Open and transcribe the Patrick Murray / Mary Donahoe marriage register image:
+   - FamilySearch ARK: Q2ZF-7BF6
+   - Digital Folder 007618364; Microfilm 000464954; Image 652
+   - Direct image path from prior pass: /ark:/61903/3:1:3QS7-99K9-Q9FM?view=index&personArk=%2Fark%3A%2F61903%2F1%3A1%3AQ2ZF-7BF6&action=view&cc=4375852
+   - Verify bride spelling and whether the officiant is Daniel O. Carter.
+4. Open and transcribe the Patrick Murry death image:
    - FamilySearch ARK: NMD7-M2L
-   - Collection: West Virginia Deaths, 1804-1999
-   - Target: Patrick Murry, died 22 August 1871, Sand Fork of Kent, Lewis County, WV
-   - Source details from prior handoff: v. 1 p. 69, County Records; WV Culture image, FilmNumber 825106, ImageNumber 307
-   - Capture the image if accessible through WV Culture or FamilySearch; otherwise record exact access limits.
-4. Map the localities:
-   - Sheridan / Lewis County, West Virginia
-   - Sand Fork of Kent, Lewis County, West Virginia
-   - Compare to Weston, Battelle, Willey, Cove Lick, Camden, Loveberry, and St. Michael's Church if a reliable map or county-history source is available.
-5. Stop after these three records and the locality check.
+   - WV Culture URL: https://archive.wvculture.org/vrr/va_view2.aspx?FilmNumber=825106&ImageNumber=307
+   - Film 825106; Image 307; v. 1 p. 69
+   - Verify the written father, mother, wife, cause, informant, and any remarks.
+5. Stop after these original-image checks.
 
 Output format:
 
-MURRY VITAL-RECORD CHECK SCOPE
+MURRY ORIGINAL-IMAGE CHECK SCOPE
 - Websites / collections searched:
 - Exact search terms used:
 - Images or records accessed:
 - Access or image problems:
 
-VITAL RECORDS
-- Luke Murray / Anne Loghan marriage:
+ORIGINAL IMAGE TRANSCRIPTS
+- Luke Murray / Anne Loghan county marriage:
   - Source / URL / ARK:
   - Image / page / line:
   - Written names:
   - Date / place:
   - Ages, residences, parents, witnesses, officiant, notes:
-  - Evidence value:
+  - Does the image add anything beyond the index?
+- Luke Murray / Anne Loghan bond / consent:
+  - Source / URL / ARK:
+  - Image / page / line:
+  - Written names:
+  - Date / place:
+  - Surname reading for Anne:
+  - Any bondsmen, witnesses, consent names, officiant, notes:
 - Patrick Murray / Mary Donahoe marriage:
   - Source / URL / ARK:
   - Image / page / line:
   - Written names:
   - Date / place:
   - Ages, residences, parents, witnesses, officiant, notes:
-  - Evidence value:
 - Patrick Murry death:
   - Source / URL / ARK:
   - Image / page / line:
   - Written name:
   - Date / place:
   - Age, birthplace, occupation, spouse, parents, informant, cause if present:
-  - Evidence value:
-
-LOCALITY CHECK
-- Sheridan / Lewis County:
-- Sand Fork of Kent:
-- Relationship to Weston / Battelle / Willey / Cove Lick / Camden / Loveberry / St. Michael's:
-- Sources used for locality mapping:
 
 RQ-M1 INTERPRETATION
-- Do the marriage/death records support Luke and adult Patrick as brothers or close kin?
+- Does the original death image really name Luke Murry as Patrick's father?
+- If yes, is there any clue whether that father is the 1854 Luke or an older Luke?
 - Does Anne Loghan / Logan create a new local kin-network lead?
 - Does Mary Donahoe / Donahue create a new local kin-network lead?
-- Does Sheridan / Sand Fork of Kent place Patrick near or away from the known Murray Settlement geography?
 - Does this change the Murray-anchor hypothesis?
 
 FAILURE MODE

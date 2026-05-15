@@ -89,7 +89,7 @@ graph TD
 - 1870 Mary Casey household check — confirms Thomas and Mary Casey as Ireland-born Willey household members with a Virginia-born son
 - 1870 Byrne / Carey household check — confirms John and Ellen Byrne as an additional Ireland-born couple on the same Willey page as the Caseys; shows the apparent image 210 Carey household is probably a Casey continuation rather than a separate household
 - 1860 / 1870 census image-capture pass — confirms the key cluster pages and corrects Owen Mulooly's indexed birthplace from Virginia to image-read Ireland
-- Murry continuity search — traces Luke Murry from Lewis County to Providence, Rhode Island by 1870 and traces adult Patrick Murry to Sheridan / Lewis County in 1870 and death at Sand Fork of Kent in 1871
+- Murry continuity and vital-record checks — trace Luke Murry from Lewis County to Providence, Rhode Island by 1870; trace adult Patrick Murry to Sheridan / Lewis County in 1870 and death at Sand Fork of Kent in 1871; verify the Luke / Anne Loghan and Patrick / Mary Donahoe marriage indexes; and create an unresolved age / two-Luke problem because Patrick's death index names father Luke Murry
 
 ⚠️ **PLAUSIBLE (Contextual Evidence):**
 - Murray family as settlement anchor — supported by name "Murray's Settlement" and 1860-1871 Ireland-born Murry continuity, but the visible census clusters are broader Irish farming clusters rather than clearly Murray-led
@@ -115,7 +115,7 @@ graph TD
 
 | Action | Where | Time | Verdict Impact |
 |--------|-------|------|-----------------|
-| Murry marriage / death image capture | FamilySearch / WV Culture: Luke Murray-Anne Loghan marriage, Patrick Murray-Mary Donahoe marriage, Patrick Murry 1871 death; capture in [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]] | 1-2 hrs | **HIGH:** turns the Murry continuity chain into proof-grade local evidence |
+| Murry original-image transcription | FamilySearch / WV Culture: directly read Luke Murray-Anne Loghan marriage, Patrick Murray-Mary Donahoe marriage, and Patrick Murry 1871 death images; capture in [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]] | 1-2 hrs | **HIGH:** resolves whether Patrick's death register really names Luke Murry as father and clarifies the two-Luke problem |
 | Full *Powhatan* 1838 passenger manifest scan | Ancestry / FamilySearch NARA M237 | 1 hr | **HIGH:** Shows if Murrays/Dolans traveled with Copleys |
 | Contact Diocese of Wheeling-Charleston | archive request | email | **HIGH:** St. Michael's Church marriage records may show Ann's maiden name |
 | Search "Murray" Griffith's Valuation other Roscommon parishes | askaboutireland.ie | 1–2 hrs | **MEDIUM:** Confirms Murrays in Roscommon origin cluster |
@@ -139,7 +139,7 @@ graph TD
 
 **Primary Sources to Search:**
 1. **Lewis County deed records (1825–1855)** — Weston Courthouse, FamilySearch. Look for any independent "Murray" land purchase in Cove Lick/Camden/Loveberry area that does not rely on the now-closed FamilySearch misindex path. The exact-surname compiled grantee index search is now complete and produced only 1865-1934 Murray entries on images 553-554. Physical pages 334 and 404 in Deed Book C-D are controlled mismatches, the former "Marwee Sawig" line has now been retired as non-Murray, and the old **1826 Murray / Fish** and **1833 John Murray** leads are both now closed as **1899** lease misindexes.
-2. **US Census 1840, 1850, 1860, 1870** — Ancestry / FamilySearch. FAN-club sweep: all Irish surnames within Copley settlement zone; capture raw findings in [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]]. The 1850, 1860, and 1870 passes are complete, the key 1860 / 1870 pages now have a direct image-capture pass, and Luke / adult Patrick Murry continuity after 1860 is complete. Next census-adjacent work is Murry marriage/death image capture and later mapping from 1850 / 1860 districts to 1870 townships.
+2. **US Census 1840, 1850, 1860, 1870** — Ancestry / FamilySearch. FAN-club sweep: all Irish surnames within Copley settlement zone; capture raw findings in [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]]. The 1850, 1860, and 1870 passes are complete, the key 1860 / 1870 pages now have a direct image-capture pass, and Luke / adult Patrick Murry continuity after 1860 is complete. Next census-adjacent work is original-image transcription for the Murry vital records and later mapping from 1850 / 1860 districts to 1870 townships.
 3. **Lewis County local histories** — *History of Lewis County, West Virginia* (1881+), Archive.org, HathiTrust. May contain founding narratives
 4. **Catholic parish records (St. Michael's Church)** — Diocese of Wheeling-Charleston archive. Marriage/baptism records 1838–1870 showing Murray witnesses/godparents
 
@@ -449,7 +449,8 @@ graph LR
 - [x] John Byrne / Carey household check around the Casey page in [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]] (RQ-M1, RQ-M2)
 - [x] Independent image capture for the 1860 Dolan / Murry / Weston Irish clusters and the 1870 Battelle / Willey cluster pages in [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]] (RQ-M1)
 - [x] Luke Murry / adult Patrick Murry continuity search after 1860 in [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]] (RQ-M1)
-- [ ] Murry marriage / death image capture and Sheridan / Sand Fork locality check in [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]] (RQ-M1)
+- [x] Murry vital-record index and locality check in [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]] (RQ-M1)
+- [ ] Murry original-image transcription for Luke / Anne, Patrick / Mary, and Patrick's death register in [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]] (RQ-M1)
 - [ ] Kinawley Murray father-candidate workup and Lewis County John Murray deed transcription (RQ-M5)
 - [ ] Roscommon Journal searches (RQ-M6)
 

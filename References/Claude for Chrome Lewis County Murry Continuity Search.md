@@ -19,6 +19,8 @@ This note preserves Zach Copley's May 14, 2026 Claude for Chrome continuity sear
 
 **Evidence caution:** This is a browser-based FamilySearch research handoff. It includes strong identity matches through census, marriage, death, and FamilySearch tree source-link evidence, but original image capture should still be pursued for the key marriage and death records before turning the kinship conclusions into proof statements.
 
+**Follow-up status:** A later vital-record check in [[References/Claude for Chrome Lewis County Murry Vital Records]] verified the key FamilySearch ARKs and sharpened the kinship problem. Patrick's death index names **Luke Murry** as father and **Margaret Murry** as mother, but that father cannot safely be assumed to be the 1854 groom Luke unless the age conflict is resolved from original images or additional records.
+
 ## Raw Source File
 
 - [Download raw Claude Murry continuity text](../static/sources/claude-1870-fan-sweep/luke-patrick-murry-continuity-claude-output.txt)
@@ -65,9 +67,9 @@ Claude found a strong continuity path for the separate adult Patrick from the 18
 
 ## Kinship Implication
 
-The 1871 death record naming Patrick's father as **Luke Murry** is important because Luke Murry's own FamilySearch tree also gives a father named Luke Murray. That is consistent with the working hypothesis that 1860 household head Luke Murry and adult Patrick Murry were brothers.
+The 1871 death record naming Patrick's father as **Luke Murry** is important, but the later vital-record check shows that the relationship should remain unresolved. If the 1854 groom Luke Murray was born about 1822, as currently suggested by the FamilySearch tree, he was essentially Patrick's contemporary and cannot be Patrick's father.
 
-This remains a kinship hypothesis until the underlying marriage, death, church, probate, or family records are imaged and evaluated directly.
+The safer interpretation is that Patrick belonged to a Luke Murry line. The exact relationship between Patrick and the 1854 Luke may be father-son only if the Luke birth year is wrong; otherwise it likely requires an older Luke, a two-Luke scenario, or an indexing / reading correction. This remains unresolved until the underlying marriage, death, church, probate, or family records are imaged and evaluated directly.
 
 ## Interpretation for RQ-M1
 
@@ -80,10 +82,10 @@ This continuity search changes the census interpretation:
 
 ## Remaining Gaps
 
-- Capture the 1854 Luke Murray / Anne Loghan marriage image or full county-record citation.
-- Capture the 1862 Patrick Murray / Mary Donahoe marriage image or full county-record citation.
-- Capture the 1871 Patrick Murry death image from West Virginia Culture / county death records.
-- Map **Sheridan, Lewis County** and **Sand Fork of Kent** against Weston, Battelle, Willey, Cove Lick, Camden, Loveberry, and St. Michael's.
+- Directly transcribe the 1854 Luke Murray / Anne Loghan marriage image from WV Culture or the county record.
+- Directly transcribe the 1862 Patrick Murray / Mary Donahoe marriage image on FamilySearch.
+- Directly transcribe the 1871 Patrick Murry death image from WV Culture / county death records, especially the father and mother columns.
+- Refine the map placement of **Sheridan, Lewis County** and **Sand Fork of Kent** against Weston, Battelle, Willey, Cove Lick, Camden, Loveberry, and St. Michael's.
 - Test whether the Loghan / Logan and Donahoe / Donahue families connect to the Copley / Dolan / Catholic settlement network.
 
 ## Related Pages
