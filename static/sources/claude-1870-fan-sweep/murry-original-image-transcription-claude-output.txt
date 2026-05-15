@@ -1,0 +1,119 @@
+Murry Vital Records - Image Transcription Report
+
+Record 1 - Luke Murray / Anne Loghan County Marriage Register
+
+Source: West Virginia, County Marriage Records, 1776-1971, FamilySearch
+ARK: https://www.familysearch.org/ark:/61903/1:1:Q2ZX-G78G
+Digital Folder: 007617564
+Microfilm: 000250047
+Image: 183
+
+Access problem: FamilySearch displays Image Unavailable for this ARK. No image is rendered; only the indexed abstract is accessible.
+
+Indexed abstract:
+Groom: Luke Murray
+Bride: Anne Loghan
+Event type: Marriage
+Date: 30 December 1854
+Place: West Virginia, United States
+Collection: WV County Marriage Records, 1776-1971
+
+Conclusion: The county register image is not viewable through FamilySearch or WV Culture at the cited digital folder. The bride's surname as indexed reads Loghan, not Logan. No additional fields, such as witnesses, officiant, ages, or parents, are retrievable from the blocked image.
+
+Record 2 - Luke Murray / Anne Log?an Marriage Bond / Consent
+
+Source: West Virginia, Marriages, 1780-1970, FamilySearch
+ARK: https://www.familysearch.org/ark:/61903/1:1:FRRG-HPT
+Digital Folder: 4130803
+Microfilm: 825111
+Image: 00184
+WV Culture URL attempted: https://archive.wvculture.org/vrr/va_view2.aspx?FilmNumber=825111&ImageNumber=184
+
+Access problem: partial. FamilySearch shows a small blurry thumbnail, with a tabular register page faintly visible but unreadable at thumbnail scale, and routes to WV Culture via View on wvculture.org. At WV Culture, Film 825111 Images 183, 184, and 185 all return blank or dark frames. The image file 4130803_00184.jpg loads as microfilm equipment, book clamp, and dark background, with no document content. The actual bond page is present as a thumbnail on FamilySearch but not legibly accessible through WV Culture at that image reference.
+
+Indexed abstract:
+Groom: Luke Murray
+Bride: Anne Log?an
+Event type: Marriage Consent
+Date: 1854
+Place: Lewis, West Virginia
+Collection: WV Marriages, 1780-1970
+Cite: Entry for Anne Log?an and Luke Murray, 1854
+
+Bride surname conclusion: The FamilySearch indexer could not confidently read one letter, rendering the surname as Log?an. The county-register record independently indexes the bride as Loghan, suggesting the intended spelling is Loghan rather than Logan, though the ambiguous letter prevents certainty from the bond alone.
+
+Record 3 - Patrick Murray / Mary Donahoe Marriage Register
+
+Source: West Virginia, County Marriage Records, 1776-1971, FamilySearch
+ARK: https://www.familysearch.org/ark:/61903/1:1:Q2ZF-7BF6
+Digital Folder: 007618364
+Microfilm: 000464954
+Image: 652, within Digital Folder 3:1:3QS7-99K9-Q9FM
+Collection volume: Lewis County - Birth Records 1853-1899, Marriage Records 1817-1864, Death Records 1853-1899, Image 652 of 1,038
+
+Image accessed and read: yes. The FamilySearch image viewer rendered the marriage register page clearly.
+
+Transcription of Patrick Murray row from original image:
+Groom: Patrick Murray
+Bride: Mary Donahoe
+Officiant: Daniel O. Carter
+Date: 12/27/1862
+
+Surrounding entries for context:
+Addison Hall / Sarah Brasley / Benj. Beeghley / 11/22/1862
+Fanny Kessler / D. O. Conner / 11/24/1862
+
+The register lists groom, bride, officiant, and date in four columns.
+
+Key findings:
+Bride surname written: Donahoe, not Donahue as FamilySearch normalizes it.
+Date: 12/27/1862, 27 December 1862
+Place: Lewis County, West Virginia
+Officiant: Daniel O. Carter; the final letter is r, not n. The FamilySearch-indexed record abstract omits the officiant field entirely; only the image confirms Carter.
+No witnesses column visible in this register format.
+
+Record 4 - Patrick Murry Death Record
+
+Source, FamilySearch: West Virginia, Deaths, 1804-1999
+ARK: https://www.familysearch.org/ark:/61903/1:1:NMD7-M2L
+WV Culture URL: https://archive.wvculture.org/vrr/va_view2.aspx?FilmNumber=825106&ImageNumber=307
+Film: 825106
+Image: 307
+Source details: v. 1 p. 69
+
+Image accessed and read: yes. WV Culture image 4130795_00307.jpg, 5,384 x 4,276 pixels. The image contains two sections on one frame: the left half is the alphabetical name index for page 69, and the right half is the full tabular death register for page 69.
+
+Patrick Murry index entry, left section, line 19:
++19 Murry Patrick " [ditto = White]
+
+Patrick Murry full register entry, right section, line 19:
+Name: Murry Patrick
+Sex: m
+Date of death: Aug 22 [1871]
+Residence / place: Sand Fork of Kent [Lewis Co., WV]
+Cause of death: ditto, carried from row 17, meaning Not Known
+Age, years: 48
+Age, months: blank
+Age, days: blank
+Parents' names: Luke & Margaret Murry
+Birthplace: Ireland
+Occupation: Farmer
+Informant name: Mary S. Murry
+Informant relationship: Wife
+Remarks: not visible / blank
+
+Zoom confirmation of parents field:
+Luke & Margaret Morray, or Murry. The terminal letters read as -rray or -rry in the ink and are consistent with other occurrences of Murry in this register.
+
+Summary of access problems:
+Luke Murray county marriage Q2ZX-G78G: FamilySearch Image Unavailable; WV Culture not available.
+Luke Murray bond FRRG-HPT: FamilySearch thumbnail only, unreadable; WV Culture blank frames at Film 825111 Images 183-185.
+Patrick Murray marriage Q2ZF-7BF6: FamilySearch image readable, Image 652.
+Patrick Murry death NMD7-M2L: FamilySearch abstract only; WV Culture full register image readable at Film 825106 Image 307.
+
+Conclusion:
+The original death image really names Luke Murry as Patrick's father. The death register entry, WV Culture Film 825106, Image 307, page 69, line 19, unambiguously writes the parents as Luke & Margaret Murry in the Parents' Names column. This is not a secondary abstraction or a FamilySearch transcription error.
+
+The original death record gives no age for the father, no further identification, and no additional detail beyond the name pair Luke & Margaret Murry and Patrick's birthplace of Ireland.
+
+The 1854 Luke Murray is almost certainly too young to be Patrick's father if his approximate 1822 birth year is correct. A man born about 1822-1826 would have been only about 1-3 years old when Patrick was born about 1823. The death record's Luke is therefore most likely a separate, older Luke Murry, born about 1790-1800 in Ireland, who was Patrick's father and distinct from the 1854 bridegroom. No direct primary evidence for this older Luke was found within these four records.
