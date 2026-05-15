@@ -20,11 +20,12 @@ This note preserves Zach Copley's May 14, 2026 Claude for Chrome verification re
 - Patrick Murray and Mary Donahoe / Donahue marriage, 27 December 1862.
 - Patrick Murry death, 22 August 1871, Sand Fork of Kent, Lewis County, West Virginia.
 
-**Evidence caution:** The report verifies the indexed records and several image / film identifiers, but the WV Culture-hosted images were not programmatically readable in the Claude for Chrome session. The next proof-grade task is direct original-image transcription, especially the Patrick Murry death register's father column.
+**Follow-up status:** A later original-image transcription pass in [[References/Claude for Chrome Lewis County Murry Original Image Transcription]] confirmed the Patrick Murry death-register parent column directly from the WV Culture image. The original manuscript writes Patrick's parents as **Luke & Margaret Murry**.
 
 ## Raw Source File
 
 - [Download raw Claude Murry vital-record report](../static/sources/claude-1870-fan-sweep/murry-vital-records-claude-output.txt)
+- Original-image transcription follow-up: [[References/Claude for Chrome Lewis County Murry Original Image Transcription]]
 - Prior continuity note: [[References/Claude for Chrome Lewis County Murry Continuity Search]]
 
 ## Record Summary
@@ -33,7 +34,7 @@ This note preserves Zach Copley's May 14, 2026 Claude for Chrome verification re
 |---|---|---|---|
 | Luke Murray / Anne Loghan marriage | FamilySearch ARK `1:1:Q2ZX-G78G`; companion bond / consent ARK `1:1:FRRG-HPT` | County marriage record gives 30 December 1854, Lewis County; bride indexed as Anne Loghan / Log?an. | County marriage image unavailable on FamilySearch and must be viewed through WV Culture; bond / consent image is linked through WV Culture. |
 | Patrick Murray / Mary Donahoe marriage | FamilySearch ARK `1:1:Q2ZF-7BF6` | Marriage register confirms 27 December 1862, Lewis County; bride spelling varies Donahue / Donahoe; officiant appears to be Daniel O. Carter. | FamilySearch image viewable at image 652; full witness / column details still need careful original-image transcription. |
-| Patrick Murry death | FamilySearch ARK `1:1:NMD7-M2L` | Death index confirms Patrick Murry, age 48, Ireland-born farmer, married, died 22 August 1871 at Sand Fork of Kent; spouse Mary S. Murry; parents Luke Murry and Margaret Murry. | WV Culture image URL active: `https://archive.wvculture.org/vrr/va_view2.aspx?FilmNumber=825106&ImageNumber=307`; image not programmatically readable in the session. |
+| Patrick Murry death | FamilySearch ARK `1:1:NMD7-M2L` | Death index confirms Patrick Murry, age 48, Ireland-born farmer, married, died 22 August 1871 at Sand Fork of Kent; spouse Mary S. Murry; parents Luke Murry and Margaret Murry. | Later original-image transcription confirms page 69, line 19, parents written **Luke & Margaret Murry**. |
 
 ## Kinship Interpretation
 
@@ -45,7 +46,7 @@ That does **not** prove that the 1854 groom Luke Murray was Patrick's father. If
 - The FamilySearch tree birth year for the 1854 Luke is substantially wrong.
 - The indexed father field or its interpretation needs correction from the original image.
 
-For now, the safest conclusion is that Patrick was closely connected to a Luke Murry line, but the exact relationship between Patrick and the 1854 Luke remains unresolved until the original death-register image is transcribed directly.
+The later original-image transcription confirms the father field. The safest conclusion is now that Patrick was son of an older **Luke Murry** and **Margaret Murry**, while the exact relationship between Patrick and the 1854 Luke remains unresolved.
 
 ## Locality Interpretation
 
@@ -60,11 +61,10 @@ This places adult Patrick's known 1870-1871 trail in Lewis County, but likely ou
 
 ## Remaining Gaps
 
-- Directly transcribe the original WV Culture image for Patrick Murry's 1871 death, Film 825106, Image 307.
-- Directly transcribe the WV Culture image or available original for the Luke Murray / Anne Loghan 1854 marriage.
-- Directly transcribe the FamilySearch image for the Patrick Murray / Mary Donahoe 1862 marriage register, image 652.
+- Identify the older Luke Murry and Margaret Murry named as Patrick's parents.
+- Find death, probate, cemetery, land, tax, or church records for older Luke / Margaret in Lewis, Gilmer, Harrison, or nearby counties.
 - Search or request St. Michael's Catholic sacramental registers for Luke / Anne and Patrick / Mary marriage entries.
-- Resolve whether the Luke named as Patrick's father is the 1854 groom, an older father, or an indexing / reading problem.
+- Directly transcribe the WV Culture image or available original for the Luke Murray / Anne Loghan 1854 marriage if it becomes accessible.
 
 ## Related Pages
 

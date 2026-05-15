@@ -52,7 +52,7 @@ When a search produces a record, a negative result, or a corrected claim:
 
 ### Current Highest-Value Claude for Chrome Task
 
-For a single bounded Claude-for-Chrome session, the highest-value next task is a **Murry original-image transcription check**. The vital-record index pass verified the key ARKs, but the WV Culture images were not readable programmatically and Patrick's death index creates an unresolved age / two-Luke kinship problem.
+For a single bounded Claude-for-Chrome session, the highest-value next task is an **older Luke & Margaret Murry identity search**. The original-image transcription pass confirmed Patrick Murry's parents as `Luke & Margaret Murry`; the known 1854 Luke is too close in age to Patrick to be treated as Patrick's father.
 
 Use this exact prompt:
 
@@ -60,7 +60,7 @@ Use this exact prompt:
 Do one narrow research task only. Do not browse broadly and do not do any repo work.
 
 Goal:
-Read and transcribe the original images behind the key Murry vital records. This is not a broad surname sweep.
+Identify the older Luke Murry and Margaret Murry named as Patrick Murry's parents in the 1871 Lewis County death register. This is a narrow parent-couple search, not a broad unrelated Murray sweep.
 
 Known context:
 - The direct early John Murray deed path is closed. The old 1826 Murray / Fish and 1833 John Murray leads are both 1899 oil-and-gas lease misindexes.
@@ -70,79 +70,78 @@ Known context:
 - The vital-record pass verified a Lewis County marriage index: Luke Murray married Anne Loghan on 30 December 1854. FamilySearch ARK Q2ZX-G78G; companion bond / consent ARK FRRG-HPT.
 - The continuity search found adult Patrick Murray in Sheridan / Lewis County in 1870 with wife Mary and children, then death at Sand Fork of Kent, Lewis County, on 22 August 1871.
 - The vital-record pass verified Patrick Murray married Mary Donahoe / Donahue on 27 December 1862. FamilySearch ARK Q2ZF-7BF6; image 652 is viewable on FamilySearch and the officiant appears to be Daniel O. Carter.
-- The vital-record pass verified Patrick Murry's death index: ARK NMD7-M2L, WV Deaths, Film 825106, Image 307, v. 1 p. 69. The index names Patrick's father as Luke Murry and mother as Margaret Murry.
-- This creates a kinship problem: if the 1854 Luke was born about 1822, he cannot be father of Patrick born about 1823. The original death image must be checked before treating Patrick as the 1854 Luke's son, brother, or other kin.
-- This session is only about original-image transcription for these records and access notes.
+- The original-image transcription pass verified Patrick Murry's death register: WV Culture Film 825106, Image 307, v. 1 p. 69, line 19. It writes Patrick's parents as `Luke & Margaret Murry`, birthplace Ireland, occupation farmer, informant Mary S. Murry, wife.
+- The 1854 Luke Murray is probably not Patrick's father if his approximate 1822 birth year is correct; he is Patrick's near-contemporary. The death-register parents likely point to an older Luke Murry and Margaret Murry, probably born circa 1790-1800 in Ireland.
+- This session is only about finding direct or near-direct records for that older Luke & Margaret parent couple.
 - Do not work on Marwee, page 334, page 404, Casey / Carey, Battelle cluster details, Dolan cluster details, Partlow, or broad unrelated Murray families.
 
 Your task:
-1. Open and transcribe the Luke Murray / Anne Loghan county marriage image if possible:
-   - FamilySearch ARK: Q2ZX-G78G
-   - Collection: West Virginia, County Marriage Records, 1776-1971
-   - Digital Folder 007617564; Microfilm 000250047; Image 183
-   - If FamilySearch says Image Unavailable, use the WV Culture route if available.
-2. Open and transcribe the Luke Murray / Anne Loghan bond / consent image:
-   - FamilySearch ARK: FRRG-HPT
-   - Collection: West Virginia, Marriages, 1780-1970
-   - Digital Folder 4130803; Microfilm 825111; Image 00184
-   - Verify whether the bride's written surname is Loghan, Logan, or another spelling.
-3. Open and transcribe the Patrick Murray / Mary Donahoe marriage register image:
-   - FamilySearch ARK: Q2ZF-7BF6
-   - Digital Folder 007618364; Microfilm 000464954; Image 652
-   - Direct image path from prior pass: /ark:/61903/3:1:3QS7-99K9-Q9FM?view=index&personArk=%2Fark%3A%2F61903%2F1%3A1%3AQ2ZF-7BF6&action=view&cc=4375852
-   - Verify bride spelling and whether the officiant is Daniel O. Carter.
-4. Open and transcribe the Patrick Murry death image:
-   - FamilySearch ARK: NMD7-M2L
-   - WV Culture URL: https://archive.wvculture.org/vrr/va_view2.aspx?FilmNumber=825106&ImageNumber=307
-   - Film 825106; Image 307; v. 1 p. 69
-   - Verify the written father, mother, wife, cause, informant, and any remarks.
-5. Stop after these original-image checks.
+1. Search FamilySearch and WV Culture for an older Luke Murry / Murray / Murrey:
+   - likely born Ireland circa 1780-1805
+   - wife or associated woman Margaret Murry / Murray
+   - possible son Patrick Murry, born Ireland about 1823, died Lewis County WV 1871
+   - possible associated younger Luke Murray, born about 1822, married Anne Loghan in Lewis County in 1854
+2. Search death, probate, estate, cemetery, land, tax, and court records in:
+   - Lewis County, West Virginia / Virginia
+   - Gilmer County, West Virginia
+   - Harrison County, West Virginia / Virginia
+   - nearby counties only if the search result is directly tied to Luke, Margaret, Patrick, Mary Donahoe, Anne Loghan, or Sand Fork of Kent
+3. Search St. Michael's Catholic / Weston Catholic sacramental leads if accessible:
+   - Patrick Murray / Mary Donahoe marriage
+   - Luke Murray / Anne Loghan marriage
+   - Patrick's burial
+   - baptisms of Patrick and Mary's children
+   - any sponsor / witness names connecting Luke, Margaret, Loghan / Logan, or Donahoe / Donahue
+4. Search Patrick's widow and children for parent clues:
+   - Mary S. Murry / Mary Donahoe / Donahue after 1871
+   - children Mary Ann, Martin, Ellen, Margaret, and Luke
+   - later death, marriage, obituary, cemetery, or probate records that name grandparents or Irish origins
+5. Stop after this bounded older-Luke/Margaret search. Do not expand to every Murray in West Virginia unless the record is tied to the target family.
 
 Output format:
 
-MURRY ORIGINAL-IMAGE CHECK SCOPE
+OLDER LUKE / MARGARET MURRY SEARCH SCOPE
 - Websites / collections searched:
 - Exact search terms used:
-- Images or records accessed:
+- Date / place filters used:
 - Access or image problems:
 
-ORIGINAL IMAGE TRANSCRIPTS
-- Luke Murray / Anne Loghan county marriage:
+POSITIVE OR POSSIBLE MATCHES
+- Older Luke Murry / Murray candidate:
   - Source / URL / ARK:
-  - Image / page / line:
-  - Written names:
+  - Record type:
+  - Name as written:
   - Date / place:
-  - Ages, residences, parents, witnesses, officiant, notes:
-  - Does the image add anything beyond the index?
-- Luke Murray / Anne Loghan bond / consent:
+  - Age / estimated birth year / birthplace:
+  - Spouse / associates / children:
+  - Evidence for or against being Patrick's father:
+- Margaret Murry / Murray candidate:
   - Source / URL / ARK:
-  - Image / page / line:
-  - Written names:
+  - Record type:
+  - Name as written:
   - Date / place:
-  - Surname reading for Anne:
-  - Any bondsmen, witnesses, consent names, officiant, notes:
-- Patrick Murray / Mary Donahoe marriage:
+  - Age / estimated birth year / birthplace:
+  - Spouse / associates / children:
+  - Evidence for or against being Patrick's mother:
+- Collateral record for Patrick / Mary / children:
   - Source / URL / ARK:
-  - Image / page / line:
-  - Written names:
+  - Record type:
+  - Name(s):
   - Date / place:
-  - Ages, residences, parents, witnesses, officiant, notes:
-- Patrick Murry death:
-  - Source / URL / ARK:
-  - Image / page / line:
-  - Written name:
-  - Date / place:
-  - Age, birthplace, occupation, spouse, parents, informant, cause if present:
+  - Parent / grandparent / witness / sponsor clues:
+
+NEGATIVE SEARCHES
+- Searches that found no relevant older Luke / Margaret:
+- Rejected candidates and why:
 
 RQ-M1 INTERPRETATION
-- Does the original death image really name Luke Murry as Patrick's father?
-- If yes, is there any clue whether that father is the 1854 Luke or an older Luke?
-- Does Anne Loghan / Logan create a new local kin-network lead?
-- Does Mary Donahoe / Donahue create a new local kin-network lead?
+- Did you find direct evidence for an older Luke & Margaret Murry couple?
+- Does the evidence separate older Luke from the 1854 Luke Murray?
+- Does this change the interpretation of the 1860 Luke / adult Patrick household?
 - Does this change the Murray-anchor hypothesis?
 
 FAILURE MODE
-- If an image is inaccessible, state exactly which collection, URL, and access problem blocked it.
+- If no older Luke / Margaret record is found, say so and list the best searched collections.
 
 Rules:
 - Be conservative.

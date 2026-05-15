@@ -147,6 +147,14 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
   - the correction that the Luke-as-father index field creates an unresolved age / two-Luke problem, not proof that the 1854 Luke and adult Patrick were brothers
   - the next need for original-image transcription of the WV Culture and FamilySearch images, especially Patrick's death-register parent columns
 - Updated `References/Claude for Chrome Lewis County Murry Continuity Search.md`, `Research Priorities and Action Items.md`, `Tier 1 Research Execution Kit.md`, `Sources and Evidence Index.md`, `Topics/Murray Settlement.md`, `Topics/Murray Settlement Research Roadmap.md`, `Search Index.md`, and `CHANGELOG.md` so the next Claude for Chrome task is Murry original-image transcription.
+- Integrated Zach's May 15, 2026 Claude for Chrome **Murry original-image transcription** handoff.
+- Created `References/Claude for Chrome Lewis County Murry Original Image Transcription.md` and preserved the raw text at `static/sources/claude-1870-fan-sweep/murry-original-image-transcription-claude-output.txt`.
+- Updated `RQ-M1-LEWIS-COUNTY-FAN-SWEEP.md` with:
+  - the blocked Luke Murray / Anne Loghan county marriage image and unreadable / blank WV Culture bond images
+  - the original Patrick Murray / Mary Donahoe marriage row: Patrick Murray, Mary Donahoe, Daniel O. Carter, 12/27/1862
+  - the original Patrick Murry death-register row on WV Culture Film 825106 Image 307, page 69 line 19, naming parents `Luke & Margaret Murry`, birthplace Ireland, occupation farmer, and informant Mary S. Murry, wife
+  - the revised conclusion that Patrick's parent names are manuscript-confirmed and likely point to an older Luke / Margaret Murry couple distinct from the 1854 Luke
+- Updated `References/Claude for Chrome Lewis County Murry Vital Records.md`, `Research Priorities and Action Items.md`, `Tier 1 Research Execution Kit.md`, `Sources and Evidence Index.md`, `Topics/Murray Settlement.md`, `Topics/Murray Settlement Research Roadmap.md`, `Search Index.md`, and `CHANGELOG.md` so the next Claude for Chrome task is an older Luke & Margaret Murry identity search.
 
 - Added a reader-facing `What's Proven vs What's Still Open` callout to `Home.md` and `index.md`.
 - Added a compact `At A Glance: Proven vs Open` summary near the top of `Visual Story Atlas.md`.
@@ -328,7 +336,7 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
 - `Visual Story Atlas.md` is now the diagram-first public entry point for the story, evidence status, and research quests.
 - `RQ-M1-JOHN-MURRAY-DEED-FINDINGS.md` now exists as the place to paste John Murray deed images, transcripts, abstracts, and interpretation.
 - The Murray deed task now has Claude for Chrome handoffs integrated into the wiki for the original Deed Book C-D / grantor-index brief, the completed exact-surname grantee-index result, the controlled negative page-404 and page-334 checks, the final built-in-index recheck showing that "Marwee Sawig" is not Murray, and the corrected 1826/1833 misindex results. The direct John Murray deed path is now exhausted.
-- The Lewis County FAN-sweep task now has 1850, 1860, and 1870 Claude for Chrome handoffs integrated into the wiki, plus the corrected 1870 image-review pass, the district-geography pass, the Mary Casey household check, the Byrne / Carey follow-up, the 1860 / 1870 census image-capture pass, the Luke / adult Patrick Murry continuity pass, and the Murry vital-record verification pass. The image-capture pass confirms Luke Murry and a separate adult Patrick Murry in 1860, confirms the Thomas / John Dolan rural cluster, tightens the Weston Loftus / Mc Mahan boarding-house boundary, corrects Owen Mulooly's indexed birthplace to image-read Ireland, and confirms Battelle as the densest 1870 Irish farming cluster. The Murry continuity pass traces Luke to Rhode Island by 1870 and adult Patrick to Sheridan / Lewis in 1870 and Sand Fork of Kent in 1871, correcting the earlier 1870 no-Murray result. The vital-record pass verifies the Luke / Anne Loghan and Patrick / Mary Donahoe marriage indexes and Patrick's death index; it also flags the unresolved Luke-as-father age conflict. The district-geography pass points the visible 1850-1870 rural cluster evidence toward the Weston / courthouse hinterland rather than directly to Cove Lick / Camden / Loveberry. The Copley gap now spans both 1860 and 1870 because no indexed Copley / Coopley farming household appears in either census.
+- The Lewis County FAN-sweep task now has 1850, 1860, and 1870 Claude for Chrome handoffs integrated into the wiki, plus the corrected 1870 image-review pass, the district-geography pass, the Mary Casey household check, the Byrne / Carey follow-up, the 1860 / 1870 census image-capture pass, the Luke / adult Patrick Murry continuity pass, the Murry vital-record verification pass, and the Murry original-image transcription pass. The image-capture pass confirms Luke Murry and a separate adult Patrick Murry in 1860, confirms the Thomas / John Dolan rural cluster, tightens the Weston Loftus / Mc Mahan boarding-house boundary, corrects Owen Mulooly's indexed birthplace to image-read Ireland, and confirms Battelle as the densest 1870 Irish farming cluster. The Murry continuity pass traces Luke to Rhode Island by 1870 and adult Patrick to Sheridan / Lewis in 1870 and Sand Fork of Kent in 1871, correcting the earlier 1870 no-Murray result. The vital-record and original-image passes verify the Luke / Anne Loghan and Patrick / Mary Donahoe marriage evidence and confirm from the death-register manuscript that Patrick's parents were Luke & Margaret Murry. The district-geography pass points the visible 1850-1870 rural cluster evidence toward the Weston / courthouse hinterland rather than directly to Cove Lick / Camden / Loveberry. The Copley gap now spans both 1860 and 1870 because no indexed Copley / Coopley farming household appears in either census.
 - `RQ-P1-PARTLOW-REVOLUTIONARY-LINE.md` is now the active Partlow proof-chain log.
 - `References/Harry C Partlow 1960 Letter and Handwritten Lineage.md` is the local family-source note for the 1960 Harry Partlow letter and 1977 handwritten lineage.
 - The Partlow working line is: Marion Elizabeth Partlow Copley -> Nollie Franklin / Frank Partlow -> Marion McDonald / M. Partlow -> John H. / John Halleck / Hallick Partlow -> Jacob Partlow / Jacob Newton Partlow -> Benjamin Partlow.
@@ -358,9 +366,9 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
   - Treat the old `1826 John Murray / Fred L. Fish` slot as closed; it is a misindexed **1899** oil-and-gas lease.
   - Treat the old `1833 John Murray` slot as closed; it is also a misindexed **1899** oil-and-gas lease.
   - The direct John Murray deed path is now exhausted. The **1850, 1860, and 1870 Lewis County FAN sweeps** are complete, and the two unread 1870 household targets are resolved.
-  - Claude for Chrome should shift next to Murry original-image transcription.
-  - Open and transcribe the original images for Luke Murray / Anne Loghan marriage ARK `Q2ZX-G78G`, companion bond / consent ARK `FRRG-HPT`, Patrick Murray / Mary Donahoe marriage ARK `Q2ZF-7BF6`, and Patrick Murry death ARK `NMD7-M2L` / WV Culture Film 825106 Image 307.
-  - Focus on written names, Anne's surname spelling, Patrick marriage officiant / witnesses, and Patrick death-register father / mother / wife / cause / informant columns.
+  - Claude for Chrome should shift next to an older Luke & Margaret Murry identity search.
+  - Search death, probate, cemetery, land, tax, court, and St. Michael's Catholic records for an older Luke Murry / Murray and Margaret Murry / Murray, likely Ireland-born and plausibly born circa 1780-1805, connected to Patrick Murry of Sand Fork of Kent.
+  - Use Patrick's widow Mary S. Murry / Mary Donahoe and children Mary Ann, Martin, Ellen, Margaret, and Luke as collateral routes for parent / grandparent clues.
   - The exact prompt to hand to Claude for Chrome is now preserved in `Tier 1 Research Execution Kit.md` under `Current Highest-Value Claude for Chrome Task`.
   - Preserve any new FAN-sweep images, citation paths, neighbor captures, and interpretation first in `RQ-M1-LEWIS-COUNTY-FAN-SWEEP.md`, then update `Sources and Evidence Index.md`, `Topics/Murray Settlement.md`, `Research Priorities and Action Items.md`, and `People/Ann Copley.md` only if the result materially changes the case.
 - Partlow next steps:
@@ -410,6 +418,7 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
 - `References/Claude for Chrome Lewis County 1870 Image Review.md`
 - `References/Claude for Chrome Lewis County Murry Continuity Search.md`
 - `References/Claude for Chrome Lewis County Murry Vital Records.md`
+- `References/Claude for Chrome Lewis County Murry Original Image Transcription.md`
 - `References/Thomas Copley May 2026 Email Leads.md`
 - `References/Tom Copley Email 2026-05-07 Ballymoe Ballinasloe Question.md`
 - `References/Tom Copley Email 2026-05-07 Focus Dolan Family.md`
@@ -429,8 +438,8 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
 - Did a Murray family arrive in the Lewis County settlement area before the Copleys?
 - Why do Copley / Coopley households disappear from the indexed 1860 and 1870 Lewis County censuses after appearing in 1850?
 - What rural district or locality contains the 1860 Dolan / Murry Irish cluster once the census schedule header is independently read?
-- Do the original Luke Murray / Anne Loghan 1854 marriage, Patrick Murray / Mary Donahoe 1862 marriage, and Patrick Murry 1871 death images verify the indexed Murry continuity chain?
-- Does Patrick's 1871 death register truly name father Luke Murry and mother Margaret Murry, and if so is that an older Luke or the same person as the 1854 groom?
+- Can older Luke Murry and Margaret Murry, Patrick's manuscript-confirmed parents, be identified in death, probate, cemetery, land, tax, church, or collateral family records?
+- Does the older Luke / Margaret trail connect the 1860 Luke Murry household to a pre-1850 or pre-1843 Lewis County Murray presence?
 - What source can map exact 1850 District No. 30 / 1870 Battelle / Willey boundaries beyond the coarse White 1875 county map?
 - Is the 1870 image 8 surname indexed as Leely actually Leely, Lealy, Leahy, Liley, O'Leary, or another Irish surname?
 - What are the direct-image estate values for Michael McDonald on 1870 Battelle image 8?

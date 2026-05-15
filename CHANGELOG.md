@@ -10,6 +10,17 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4BO - Murry Original Image Transcription Integrated (May 15, 2026)
+
+**MURRAY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome original-image transcription pass for the Murry vital records. The Patrick Murry death register, WV Culture Film 825106 Image 307, page 69 line 19, confirms in the original manuscript that Patrick's parents were **Luke & Margaret Murry** and that his informant was wife **Mary S. Murry**. This moves the next research target to the older Luke / Margaret parent couple.
+
+### Updated Pages
+
+- [[References/Claude for Chrome Lewis County Murry Original Image Transcription|Claude for Chrome Lewis County Murry Original Image Transcription]] - new browser-readable source note preserving the original-image transcriptions, access failures for Luke / Anne images, Patrick / Mary marriage row, Patrick death-register row, and raw source link.
+- [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]] and [[References/Claude for Chrome Lewis County Murry Vital Records|Claude for Chrome Lewis County Murry Vital Records]] - updated the current status and Patrick row to treat Luke & Margaret as manuscript-confirmed parent names.
+- [[Tier 1 Research Execution Kit|Tier 1 Research Execution Kit]] and [[Research Priorities and Action Items|Research Priorities and Action Items]] - shifted the next Claude-for-Chrome task to an older Luke & Margaret Murry identity search.
+- [[Topics/Murray Settlement|Murray Settlement]], [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]], [[Sources and Evidence Index|Sources and Evidence Index]], [[Search Index|Search Index]], and `.agents/AGENT_RESUME.md` - updated the public research state and next-step handoff.
+
 ## Phase 4BN - Murry Vital Records Integrated (May 14, 2026)
 
 **MURRAY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome verification report for the Luke Murray / Anne Loghan marriage, Patrick Murray / Mary Donahoe marriage, and Patrick Murry death record. The report verifies the main ARKs and record identifiers, but it also sharpens the kinship problem: Patrick's death index names father **Luke Murry**, which conflicts with treating the 1854 Luke as Patrick's same-generation brother unless there are two Lukes, a bad birth year, or an indexing / image-reading issue.
