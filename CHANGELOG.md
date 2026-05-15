@@ -10,6 +10,17 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4BP - Older Luke / Margaret Murry Indexed Search Integrated (May 15, 2026)
+
+**MURRAY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome indexed search for the older Luke and Margaret Murry named as Patrick Murry's parents. The search found no independent FamilySearch / WV Culture / Find A Grave record for an older Luke or Margaret. The only FamilySearch tree entries for them appear to be placeholders sourced solely to Patrick's 1871 death register.
+
+### Updated Pages
+
+- [[References/Claude for Chrome Lewis County Older Luke Margaret Murry Search|Claude for Chrome Lewis County Older Luke Margaret Murry Search]] - new browser-readable source note preserving the searched collections, rejected candidates, collateral clues, negative conclusion, and raw source link.
+- [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]] - updated the current status to record the negative indexed older-Luke / Margaret search and shift the next step to non-indexed county records.
+- [[Tier 1 Research Execution Kit|Tier 1 Research Execution Kit]] and [[Research Priorities and Action Items|Research Priorities and Action Items]] - shifted the next Claude-for-Chrome task to Lewis County tax / estate / probate / grantor-path checking.
+- [[Topics/Murray Settlement|Murray Settlement]], [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]], [[Sources and Evidence Index|Sources and Evidence Index]], [[Search Index|Search Index]], and `.agents/AGENT_RESUME.md` - updated the public research state and next-step handoff.
+
 ## Phase 4BO - Murry Original Image Transcription Integrated (May 15, 2026)
 
 **MURRAY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome original-image transcription pass for the Murry vital records. The Patrick Murry death register, WV Culture Film 825106 Image 307, page 69 line 19, confirms in the original manuscript that Patrick's parents were **Luke & Margaret Murry** and that his informant was wife **Mary S. Murry**. This moves the next research target to the older Luke / Margaret parent couple.

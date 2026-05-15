@@ -52,7 +52,7 @@ When a search produces a record, a negative result, or a corrected claim:
 
 ### Current Highest-Value Claude for Chrome Task
 
-For a single bounded Claude-for-Chrome session, the highest-value next task is an **older Luke & Margaret Murry identity search**. The original-image transcription pass confirmed Patrick Murry's parents as `Luke & Margaret Murry`; the known 1854 Luke is too close in age to Patrick to be treated as Patrick's father.
+For a single bounded Claude-for-Chrome session, the highest-value next task is a **Lewis County non-indexed Murray tax / estate path check**. The older Luke & Margaret indexed search found no independent digitized record for Patrick's parents, so repeating broad FamilySearch / WV Culture searches is low value.
 
 Use this exact prompt:
 
@@ -60,7 +60,7 @@ Use this exact prompt:
 Do one narrow research task only. Do not browse broadly and do not do any repo work.
 
 Goal:
-Identify the older Luke Murry and Margaret Murry named as Patrick Murry's parents in the 1871 Lewis County death register. This is a narrow parent-couple search, not a broad unrelated Murray sweep.
+Find whether non-indexed or browse-only Lewis County records preserve an older Luke Murry / Murray before 1860. Focus on tax, estate, probate, and grantor-side land paths. This is not a broad surname sweep.
 
 Known context:
 - The direct early John Murray deed path is closed. The old 1826 Murray / Fish and 1833 John Murray leads are both 1899 oil-and-gas lease misindexes.
@@ -72,76 +72,76 @@ Known context:
 - The vital-record pass verified Patrick Murray married Mary Donahoe / Donahue on 27 December 1862. FamilySearch ARK Q2ZF-7BF6; image 652 is viewable on FamilySearch and the officiant appears to be Daniel O. Carter.
 - The original-image transcription pass verified Patrick Murry's death register: WV Culture Film 825106, Image 307, v. 1 p. 69, line 19. It writes Patrick's parents as `Luke & Margaret Murry`, birthplace Ireland, occupation farmer, informant Mary S. Murry, wife.
 - The 1854 Luke Murray is probably not Patrick's father if his approximate 1822 birth year is correct; he is Patrick's near-contemporary. The death-register parents likely point to an older Luke Murry and Margaret Murry, probably born circa 1790-1800 in Ireland.
-- This session is only about finding direct or near-direct records for that older Luke & Margaret parent couple.
+- The older Luke & Margaret indexed search found no independent record for that parent couple in FamilySearch, WV Culture, Find A Grave, or indexed census / vital collections. The only FamilySearch tree entries for older Luke / Margaret are sourced only to Patrick's 1871 death record.
+- This session is only about locating and checking non-indexed or browse-only county-record paths that could preserve an older Luke before 1860.
 - Do not work on Marwee, page 334, page 404, Casey / Carey, Battelle cluster details, Dolan cluster details, Partlow, or broad unrelated Murray families.
 
 Your task:
-1. Search FamilySearch and WV Culture for an older Luke Murry / Murray / Murrey:
-   - likely born Ireland circa 1780-1805
-   - wife or associated woman Margaret Murry / Murray
-   - possible son Patrick Murry, born Ireland about 1823, died Lewis County WV 1871
-   - possible associated younger Luke Murray, born about 1822, married Anne Loghan in Lewis County in 1854
-2. Search death, probate, estate, cemetery, land, tax, and court records in:
-   - Lewis County, West Virginia / Virginia
-   - Gilmer County, West Virginia
-   - Harrison County, West Virginia / Virginia
-   - nearby counties only if the search result is directly tied to Luke, Margaret, Patrick, Mary Donahoe, Anne Loghan, or Sand Fork of Kent
-3. Search St. Michael's Catholic / Weston Catholic sacramental leads if accessible:
-   - Patrick Murray / Mary Donahoe marriage
-   - Luke Murray / Anne Loghan marriage
-   - Patrick's burial
-   - baptisms of Patrick and Mary's children
-   - any sponsor / witness names connecting Luke, Margaret, Loghan / Logan, or Donahoe / Donahue
-4. Search Patrick's widow and children for parent clues:
-   - Mary S. Murry / Mary Donahoe / Donahue after 1871
-   - children Mary Ann, Martin, Ellen, Margaret, and Luke
-   - later death, marriage, obituary, cemetery, or probate records that name grandparents or Irish origins
-5. Stop after this bounded older-Luke/Margaret search. Do not expand to every Murray in West Virginia unless the record is tied to the target family.
+1. Check FamilySearch Catalog / image-only collections for Lewis County records that are not fully indexed:
+   - personal property tax lists
+   - land tax lists
+   - will books
+   - estate / fiduciary / settlement books
+   - probate packets or loose estate files
+   - grantor indexes and deed books not already covered by the exact grantee-index search
+2. For each accessible record set, determine whether it can be browsed online from home, requires FamilySearch center access, or is locked / unavailable.
+3. If browsable, check the relevant index pages for Murray / Murry / Murrey / Murray variants and specifically Luke, Patrick, Mary, Margaret, and Anne / Ann.
+4. If tax lists are browsable, check years around 1840-1860 for:
+   - Luke Murry / Murray
+   - Patrick Murry / Murray
+   - nearby Loghan / Logan or Donahoe / Donahue names
+5. If will / estate records are browsable, check indexes for:
+   - Luke Murry / Murray
+   - Patrick Murry / Murray
+   - Mary S. Murry / Mary Donahoe
+6. Stop after identifying and checking the best non-indexed county-record paths. Do not redo the already-completed broad FamilySearch / WV Culture indexed search.
 
 Output format:
 
-OLDER LUKE / MARGARET MURRY SEARCH SCOPE
+NON-INDEXED COUNTY RECORD CHECK SCOPE
 - Websites / collections searched:
-- Exact search terms used:
-- Date / place filters used:
+- Catalog entries / films checked:
+- Exact index pages or image ranges checked:
 - Access or image problems:
 
-POSITIVE OR POSSIBLE MATCHES
-- Older Luke Murry / Murray candidate:
-  - Source / URL / ARK:
+COUNTY RECORD PATHS
+- Tax records:
+  - Collection / film / URL:
+  - Years available:
+  - Access status:
+  - Murray / Murry entries found or not found:
+- Will / estate / probate records:
+  - Collection / film / URL:
+  - Years available:
+  - Access status:
+  - Murray / Murry entries found or not found:
+- Grantor / deed records:
+  - Collection / film / URL:
+  - Years available:
+  - Access status:
+  - Murray / Murry entries found or not found:
+
+MATCHES OR LEADS
+- Any Luke / Patrick / Mary / Margaret Murry entry:
+  - Source / image:
   - Record type:
   - Name as written:
   - Date / place:
-  - Age / estimated birth year / birthplace:
-  - Spouse / associates / children:
-  - Evidence for or against being Patrick's father:
-- Margaret Murry / Murray candidate:
-  - Source / URL / ARK:
-  - Record type:
-  - Name as written:
-  - Date / place:
-  - Age / estimated birth year / birthplace:
-  - Spouse / associates / children:
-  - Evidence for or against being Patrick's mother:
-- Collateral record for Patrick / Mary / children:
-  - Source / URL / ARK:
-  - Record type:
-  - Name(s):
-  - Date / place:
-  - Parent / grandparent / witness / sponsor clues:
+  - Associated names:
+  - Why it may or may not connect to older Luke / Margaret:
 
 NEGATIVE SEARCHES
-- Searches that found no relevant older Luke / Margaret:
+- Non-indexed paths that were checked and negative:
 - Rejected candidates and why:
 
 RQ-M1 INTERPRETATION
-- Did you find direct evidence for an older Luke & Margaret Murry couple?
-- Does the evidence separate older Luke from the 1854 Luke Murray?
-- Does this change the interpretation of the 1860 Luke / adult Patrick household?
+- Did non-indexed records reveal any older Luke / Margaret clue?
+- If not, which offline or archive-only record sets should be requested next?
+- Does the result change the interpretation of the 1860 Luke / adult Patrick household?
 - Does this change the Murray-anchor hypothesis?
 
 FAILURE MODE
-- If no older Luke / Margaret record is found, say so and list the best searched collections.
+- If no relevant record is found, say exactly which non-indexed paths were checked and what remains offline or locked.
 
 Rules:
 - Be conservative.
