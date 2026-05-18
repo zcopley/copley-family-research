@@ -18,9 +18,12 @@ This note preserves Zach Copley's Claude for Chrome search for the older **Luke 
 
 **Main result:** No independent digitized or indexed record was found for an older Luke Murry / Murray, born roughly 1780-1805 in Ireland, or for a wife / partner Margaret. The only FamilySearch tree entries for Luke and Margaret appear to be constructed placeholders based solely on Patrick's 1871 death record.
 
+**Follow-up status:** A Round 2 search in [[References/Claude for Chrome Lewis County Older Luke Margaret Round 2 Search]] extended the negative result. It found no Luke or Irish-born Murray / Murry / Murrey in the complete indexed 1850 Lewis County census, and no older Luke in indexed Virginia land tax, indexed Virginia personal property tax, indexed West Virginia probate, 1870 West Virginia census, Lewis County marriage, or Find A Grave searches.
+
 ## Raw Source File
 
 - [Download raw Claude older Luke / Margaret search report](../static/sources/claude-1870-fan-sweep/older-luke-margaret-murry-search-claude-output.txt)
+- Round 2 follow-up: [[References/Claude for Chrome Lewis County Older Luke Margaret Round 2 Search]]
 - Prior image-transcription note: [[References/Claude for Chrome Lewis County Murry Original Image Transcription]]
 
 ## Scope
@@ -55,7 +58,7 @@ The most likely explanation is that Patrick's father Luke died in Ireland, died 
 
 ## Next Research Target
 
-Do not repeat the same indexed FamilySearch / WV Culture search as the next step. The next useful work is targeted non-indexed county-record work:
+Do not repeat the same indexed FamilySearch / WV Culture / Find A Grave search as the next step. The Round 2 follow-up has already tested the obvious indexed census, tax, probate, marriage, and grave paths. The next useful work is request-ready non-indexed county-record and church-record pathfinding:
 
 - Lewis County personal property tax lists before 1860.
 - Lewis County land tax lists before 1860.
@@ -68,5 +71,6 @@ Do not repeat the same indexed FamilySearch / WV Culture search as the next step
 - [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]]
 - [[References/Claude for Chrome Lewis County Murry Original Image Transcription]]
 - [[References/Claude for Chrome Lewis County Murry Vital Records]]
+- [[References/Claude for Chrome Lewis County Older Luke Margaret Round 2 Search]]
 - [[Topics/Murray Settlement]]
 - [[Topics/Murray Settlement Research Roadmap]]

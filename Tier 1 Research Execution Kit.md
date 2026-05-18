@@ -52,7 +52,7 @@ When a search produces a record, a negative result, or a corrected claim:
 
 ### Current Highest-Value Claude for Chrome Task
 
-For a single bounded Claude-for-Chrome session, the highest-value next task is a **Lewis County non-indexed Murray tax / estate path check**. The older Luke & Margaret indexed search found no independent digitized record for Patrick's parents, so repeating broad FamilySearch / WV Culture searches is low value.
+For a single bounded Claude-for-Chrome session, the highest-value next task is a **Lewis County non-indexed records access map and request packet**. The older Luke & Margaret indexed searches are now complete enough to stop repeating search boxes: FamilySearch / WV Culture / Find A Grave did not produce an independent older-Luke record, and the Round 2 search found no Luke or Irish-born Murray in the indexed 1850 Lewis County census.
 
 Use this exact prompt:
 
@@ -60,7 +60,7 @@ Use this exact prompt:
 Do one narrow research task only. Do not browse broadly and do not do any repo work.
 
 Goal:
-Find whether non-indexed or browse-only Lewis County records preserve an older Luke Murry / Murray before 1860. Focus on tax, estate, probate, and grantor-side land paths. This is not a broad surname sweep.
+Create a request-ready access map for non-indexed or archive-held Lewis County records that could preserve an older Luke Murry / Murray before 1860. Focus on where the records are, what years they cover, whether they are browsable online, locked, FamilySearch-center-only, courthouse-only, WV State Archives-only, or diocesan-only, and exactly what should be requested next. This is not a broad surname sweep.
 
 Known context:
 - The direct early John Murray deed path is closed. The old 1826 Murray / Fish and 1833 John Murray leads are both 1899 oil-and-gas lease misindexes.
@@ -73,75 +73,88 @@ Known context:
 - The original-image transcription pass verified Patrick Murry's death register: WV Culture Film 825106, Image 307, v. 1 p. 69, line 19. It writes Patrick's parents as `Luke & Margaret Murry`, birthplace Ireland, occupation farmer, informant Mary S. Murry, wife.
 - The 1854 Luke Murray is probably not Patrick's father if his approximate 1822 birth year is correct; he is Patrick's near-contemporary. The death-register parents likely point to an older Luke Murry and Margaret Murry, probably born circa 1790-1800 in Ireland.
 - The older Luke & Margaret indexed search found no independent record for that parent couple in FamilySearch, WV Culture, Find A Grave, or indexed census / vital collections. The only FamilySearch tree entries for older Luke / Margaret are sourced only to Patrick's 1871 death record.
-- This session is only about locating and checking non-indexed or browse-only county-record paths that could preserve an older Luke before 1860.
+- The Round 2 indexed search found no Luke or Irish-born Murray / Murry / Murrey in the complete indexed 1850 Lewis County census; the 36 Lewis County Murray / Murry / Murrey entries were all Virginia-born. Indexed Virginia land tax, Virginia personal property tax, West Virginia probate, 1870 West Virginia census, Lewis County marriage, and Find A Grave searches were also negative for older Luke / Margaret.
+- This session is only about locating the surviving non-indexed, locked, or offline record paths and producing a request-ready plan. Do not repeat the already-completed indexed searches.
 - Do not work on Marwee, page 334, page 404, Casey / Carey, Battelle cluster details, Dolan cluster details, Partlow, or broad unrelated Murray families.
 
 Your task:
-1. Check FamilySearch Catalog / image-only collections for Lewis County records that are not fully indexed:
+1. Check FamilySearch Catalog, WV State Archives catalog pages, Lewis County Clerk information, diocesan archive information, and any reliable repository guides for Lewis County records that are not fully indexed:
    - personal property tax lists
    - land tax lists
    - will books
    - estate / fiduciary / settlement books
    - probate packets or loose estate files
    - grantor indexes and deed books not already covered by the exact grantee-index search
-2. For each accessible record set, determine whether it can be browsed online from home, requires FamilySearch center access, or is locked / unavailable.
-3. If browsable, check the relevant index pages for Murray / Murry / Murrey / Murray variants and specifically Luke, Patrick, Mary, Margaret, and Anne / Ann.
-4. If tax lists are browsable, check years around 1840-1860 for:
-   - Luke Murry / Murray
-   - Patrick Murry / Murray
-   - nearby Loghan / Logan or Donahoe / Donahue names
-5. If will / estate records are browsable, check indexes for:
-   - Luke Murry / Murray
-   - Patrick Murry / Murray
-   - Mary S. Murry / Mary Donahoe
-6. Stop after identifying and checking the best non-indexed county-record paths. Do not redo the already-completed broad FamilySearch / WV Culture indexed search.
+   - St. Michael's / St. Patrick's Catholic sacramental registers, parish histories, cemetery registers, or early parishioner lists
+2. For each record set, determine:
+   - exact repository / website
+   - title of record set
+   - year coverage
+   - film / DGS / call number / book title if available
+   - access status from home, FamilySearch center, affiliate library, courthouse, WV State Archives, or diocese
+   - whether an index exists and where it is
+   - whether copy requests are possible and what information is needed
+3. If an online browse-only index is immediately available from home, check only the relevant Murray / Murry / Murrey index pages and record exact image references. Do not spend the session browsing year-by-year tax pages unless the index points to a target.
+4. Identify the three highest-value concrete requests a human should make next. Each request should include repository, record title, date range, names / variants, and why it matters.
+5. Stop after producing the access map and request packet. Do not redo the already-completed broad FamilySearch / WV Culture / Find A Grave indexed search.
 
 Output format:
 
-NON-INDEXED COUNTY RECORD CHECK SCOPE
+NON-INDEXED RECORD ACCESS MAP SCOPE
 - Websites / collections searched:
 - Catalog entries / films checked:
-- Exact index pages or image ranges checked:
+- Archive / courthouse / diocesan guides checked:
 - Access or image problems:
 
 COUNTY RECORD PATHS
 - Tax records:
-  - Collection / film / URL:
+  - Repository / collection / film / URL:
   - Years available:
   - Access status:
-  - Murray / Murry entries found or not found:
+  - Index status:
+  - Request instructions:
 - Will / estate / probate records:
-  - Collection / film / URL:
+  - Repository / collection / film / URL:
   - Years available:
   - Access status:
-  - Murray / Murry entries found or not found:
+  - Index status:
+  - Request instructions:
 - Grantor / deed records:
-  - Collection / film / URL:
+  - Repository / collection / film / URL:
   - Years available:
   - Access status:
-  - Murray / Murry entries found or not found:
+  - Index status:
+  - Request instructions:
+- Catholic church records:
+  - Parish / repository / URL:
+  - Years available:
+  - Access status:
+  - Sacrament types:
+  - Request instructions:
 
-MATCHES OR LEADS
-- Any Luke / Patrick / Mary / Margaret Murry entry:
-  - Source / image:
-  - Record type:
-  - Name as written:
-  - Date / place:
-  - Associated names:
-  - Why it may or may not connect to older Luke / Margaret:
+REQUEST PACKET
+- Request 1:
+  - Repository:
+  - Record set:
+  - Names / variants:
+  - Date range:
+  - Exact lookup question:
+  - Why this is high value:
+- Request 2:
+- Request 3:
 
 NEGATIVE SEARCHES
-- Non-indexed paths that were checked and negative:
-- Rejected candidates and why:
+- Indexed paths not to repeat:
+- Locked / offline paths that remain:
 
 RQ-M1 INTERPRETATION
-- Did non-indexed records reveal any older Luke / Margaret clue?
-- If not, which offline or archive-only record sets should be requested next?
+- What is the best next human request?
+- Which record set has the highest chance of preserving older Luke / Margaret?
 - Does the result change the interpretation of the 1860 Luke / adult Patrick household?
 - Does this change the Murray-anchor hypothesis?
 
 FAILURE MODE
-- If no relevant record is found, say exactly which non-indexed paths were checked and what remains offline or locked.
+- If no accessible browse-only record is found, say exactly which offline or locked record sets remain and how to request them.
 
 Rules:
 - Be conservative.

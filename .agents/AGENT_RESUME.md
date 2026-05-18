@@ -9,7 +9,7 @@ tags:
 
 # Agent Resume State
 
-Last updated: 2026-05-10
+Last updated: 2026-05-18
 
 ## Current Goal
 
@@ -163,6 +163,14 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
   - the confirmed separation between younger Luke Murray (born about 1822, married Anne Loghan) and Patrick Murry as near-contemporaries in the 1860 census
   - the next need for non-indexed county-record pathfinding: Lewis County tax lists, will / estate records, probate files, grantor indexes, deed books, and St. Michael's sacramental records
 - Updated `Research Priorities and Action Items.md`, `Tier 1 Research Execution Kit.md`, `Sources and Evidence Index.md`, `Topics/Murray Settlement.md`, `Topics/Murray Settlement Research Roadmap.md`, `Search Index.md`, and `CHANGELOG.md` so the next Claude for Chrome task is a non-indexed Lewis County tax / estate path check.
+- Integrated Zach's May 18, 2026 Claude for Chrome **older Luke / Margaret Murry Round 2 indexed search** handoff.
+- Created `References/Claude for Chrome Lewis County Older Luke Margaret Round 2 Search.md` and preserved the raw text at `static/sources/claude-1870-fan-sweep/older-luke-margaret-round-2-claude-output.txt`.
+- Updated `RQ-M1-LEWIS-COUNTY-FAN-SWEEP.md` with:
+  - the Round 2 negative result that the complete indexed 1850 Lewis County Murray / Murry / Murrey population includes 36 people, all Virginia-born, with no Luke and no Irish-born Murray
+  - the negative indexed checks for Luke in Virginia land tax, Virginia personal property tax, West Virginia probate, 1870 West Virginia census, Lewis County marriage, and Find A Grave paths
+  - the revised working timeline that younger Luke Murry and adult Patrick Murry likely arrived in Lewis County after 1850 and before the 1854 Luke / Anne Loghan marriage or by the 1860 census
+  - the conclusion that the online indexed path for older Luke / Margaret is now sufficiently exhausted for the current workflow
+- Updated `References/Claude for Chrome Lewis County Older Luke Margaret Murry Search.md`, `Research Priorities and Action Items.md`, `Tier 1 Research Execution Kit.md`, `Sources and Evidence Index.md`, `Topics/Murray Settlement.md`, `Topics/Murray Settlement Research Roadmap.md`, `Search Index.md`, and `CHANGELOG.md` so the next Claude for Chrome task is a non-indexed records access map and request packet, not another indexed search.
 
 - Added a reader-facing `What's Proven vs What's Still Open` callout to `Home.md` and `index.md`.
 - Added a compact `At A Glance: Proven vs Open` summary near the top of `Visual Story Atlas.md`.
@@ -344,7 +352,7 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
 - `Visual Story Atlas.md` is now the diagram-first public entry point for the story, evidence status, and research quests.
 - `RQ-M1-JOHN-MURRAY-DEED-FINDINGS.md` now exists as the place to paste John Murray deed images, transcripts, abstracts, and interpretation.
 - The Murray deed task now has Claude for Chrome handoffs integrated into the wiki for the original Deed Book C-D / grantor-index brief, the completed exact-surname grantee-index result, the controlled negative page-404 and page-334 checks, the final built-in-index recheck showing that "Marwee Sawig" is not Murray, and the corrected 1826/1833 misindex results. The direct John Murray deed path is now exhausted.
-- The Lewis County FAN-sweep task now has 1850, 1860, and 1870 Claude for Chrome handoffs integrated into the wiki, plus the corrected 1870 image-review pass, the district-geography pass, the Mary Casey household check, the Byrne / Carey follow-up, the 1860 / 1870 census image-capture pass, the Luke / adult Patrick Murry continuity pass, the Murry vital-record verification pass, the Murry original-image transcription pass, and the negative older Luke / Margaret indexed search. The image-capture pass confirms Luke Murry and a separate adult Patrick Murry in 1860, confirms the Thomas / John Dolan rural cluster, tightens the Weston Loftus / Mc Mahan boarding-house boundary, corrects Owen Mulooly's indexed birthplace to image-read Ireland, and confirms Battelle as the densest 1870 Irish farming cluster. The Murry continuity pass traces Luke to Rhode Island by 1870 and adult Patrick to Sheridan / Lewis in 1870 and Sand Fork of Kent in 1871, correcting the earlier 1870 no-Murray result. The vital-record and original-image passes verify the Luke / Anne Loghan and Patrick / Mary Donahoe marriage evidence and confirm from the death-register manuscript that Patrick's parents were Luke & Margaret Murry, but the indexed parent-couple search found no independent older Luke / Margaret record. The district-geography pass points the visible 1850-1870 rural cluster evidence toward the Weston / courthouse hinterland rather than directly to Cove Lick / Camden / Loveberry. The Copley gap now spans both 1860 and 1870 because no indexed Copley / Coopley farming household appears in either census.
+- The Lewis County FAN-sweep task now has 1850, 1860, and 1870 Claude for Chrome handoffs integrated into the wiki, plus the corrected 1870 image-review pass, the district-geography pass, the Mary Casey household check, the Byrne / Carey follow-up, the 1860 / 1870 census image-capture pass, the Luke / adult Patrick Murry continuity pass, the Murry vital-record verification pass, the Murry original-image transcription pass, and two negative older Luke / Margaret indexed searches. The image-capture pass confirms Luke Murry and a separate adult Patrick Murry in 1860, confirms the Thomas / John Dolan rural cluster, tightens the Weston Loftus / Mc Mahan boarding-house boundary, corrects Owen Mulooly's indexed birthplace to image-read Ireland, and confirms Battelle as the densest 1870 Irish farming cluster. The Murry continuity pass traces Luke to Rhode Island by 1870 and adult Patrick to Sheridan / Lewis in 1870 and Sand Fork of Kent in 1871, correcting the earlier 1870 no-Murray result. The vital-record and original-image passes verify the Luke / Anne Loghan and Patrick / Mary Donahoe marriage evidence and confirm from the death-register manuscript that Patrick's parents were Luke & Margaret Murry. The indexed parent-couple searches found no independent older Luke / Margaret record and no Luke or Irish-born Murray in the complete indexed 1850 Lewis County Murray population, shifting the next task to non-indexed records access mapping. The district-geography pass points the visible 1850-1870 rural cluster evidence toward the Weston / courthouse hinterland rather than directly to Cove Lick / Camden / Loveberry. The Copley gap now spans both 1860 and 1870 because no indexed Copley / Coopley farming household appears in either census.
 - `RQ-P1-PARTLOW-REVOLUTIONARY-LINE.md` is now the active Partlow proof-chain log.
 - `References/Harry C Partlow 1960 Letter and Handwritten Lineage.md` is the local family-source note for the 1960 Harry Partlow letter and 1977 handwritten lineage.
 - The Partlow working line is: Marion Elizabeth Partlow Copley -> Nollie Franklin / Frank Partlow -> Marion McDonald / M. Partlow -> John H. / John Halleck / Hallick Partlow -> Jacob Partlow / Jacob Newton Partlow -> Benjamin Partlow.
@@ -374,9 +382,9 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
   - Treat the old `1826 John Murray / Fred L. Fish` slot as closed; it is a misindexed **1899** oil-and-gas lease.
   - Treat the old `1833 John Murray` slot as closed; it is also a misindexed **1899** oil-and-gas lease.
   - The direct John Murray deed path is now exhausted. The **1850, 1860, and 1870 Lewis County FAN sweeps** are complete, and the two unread 1870 household targets are resolved.
-  - Claude for Chrome should shift next to non-indexed Lewis County tax / estate pathfinding.
-  - Use FamilySearch Catalog / image-only paths and WV archive leads to identify whether Lewis County personal property tax lists, land tax lists, will books, estate / fiduciary books, probate packets, grantor indexes, deed books, or St. Michael's sacramental records can be browsed or require archive access.
-  - Do not repeat the broad indexed FamilySearch / WV Culture older-Luke search unless a non-indexed path points to a specific record.
+  - Claude for Chrome should shift next to a non-indexed Lewis County records access map and request packet.
+  - Use FamilySearch Catalog / image-only paths, WV State Archives leads, Lewis County courthouse guidance, and diocesan archive information to identify whether Lewis County personal property tax lists, land tax lists, will books, estate / fiduciary books, probate packets, grantor indexes, deed books, or St. Michael's / St. Patrick's sacramental records can be browsed, require FamilySearch center access, or require archive / courthouse / diocesan requests.
+  - Do not repeat the broad indexed FamilySearch / WV Culture / Find A Grave older-Luke search unless a non-indexed path points to a specific record.
   - The exact prompt to hand to Claude for Chrome is now preserved in `Tier 1 Research Execution Kit.md` under `Current Highest-Value Claude for Chrome Task`.
   - Preserve any new FAN-sweep images, citation paths, neighbor captures, and interpretation first in `RQ-M1-LEWIS-COUNTY-FAN-SWEEP.md`, then update `Sources and Evidence Index.md`, `Topics/Murray Settlement.md`, `Research Priorities and Action Items.md`, and `People/Ann Copley.md` only if the result materially changes the case.
 - Partlow next steps:
@@ -428,6 +436,7 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
 - `References/Claude for Chrome Lewis County Murry Vital Records.md`
 - `References/Claude for Chrome Lewis County Murry Original Image Transcription.md`
 - `References/Claude for Chrome Lewis County Older Luke Margaret Murry Search.md`
+- `References/Claude for Chrome Lewis County Older Luke Margaret Round 2 Search.md`
 - `References/Thomas Copley May 2026 Email Leads.md`
 - `References/Tom Copley Email 2026-05-07 Ballymoe Ballinasloe Question.md`
 - `References/Tom Copley Email 2026-05-07 Focus Dolan Family.md`
@@ -447,7 +456,7 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
 - Did a Murray family arrive in the Lewis County settlement area before the Copleys?
 - Why do Copley / Coopley households disappear from the indexed 1860 and 1870 Lewis County censuses after appearing in 1850?
 - What rural district or locality contains the 1860 Dolan / Murry Irish cluster once the census schedule header is independently read?
-- Which non-indexed Lewis County tax, estate, probate, grantor-side deed, and St. Michael's sacramental records are available online, locked, or archive-only?
+- Which non-indexed Lewis County tax, estate, probate, grantor-side deed, and St. Michael's / St. Patrick's sacramental records are available online, locked, FamilySearch-center-only, courthouse-only, WV State Archives-only, or diocesan-only?
 - Do non-indexed county records connect older Luke / Margaret or Patrick Murry to a pre-1850 or pre-1843 Lewis County Murray presence?
 - What source can map exact 1850 District No. 30 / 1870 Battelle / Willey boundaries beyond the coarse White 1875 county map?
 - Is the 1870 image 8 surname indexed as Leely actually Leely, Lealy, Leahy, Liley, O'Leary, or another Irish surname?

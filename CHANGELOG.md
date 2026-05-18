@@ -10,6 +10,17 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4BQ - Older Luke / Margaret Murry Round 2 Search Integrated (May 18, 2026)
+
+**MURRAY-WORKFLOW UPDATE:** Integrated Zach's Round 2 Claude for Chrome search for the older Luke and Margaret Murry parent couple. The follow-up found no Luke and no Irish-born Murray / Murry / Murrey among 36 indexed 1850 Lewis County Murray entries, and no older Luke in indexed Virginia tax, West Virginia probate, 1870 census, Lewis County marriage, or Find A Grave paths. This closes the current online indexed path and shifts the next browser task to a non-indexed records access map and request packet.
+
+### Updated Pages
+
+- [[References/Claude for Chrome Lewis County Older Luke Margaret Round 2 Search|Claude for Chrome Lewis County Older Luke Margaret Round 2 Search]] - new browser-readable source note preserving the Round 2 search scope, 1850 Lewis County negative result, null indexed collections, interpretation, and raw source link.
+- [[References/Claude for Chrome Lewis County Older Luke Margaret Murry Search|Claude for Chrome Lewis County Older Luke Margaret Murry Search]] and [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]] - updated the older-Luke status to include the Round 2 negative findings and the post-1850 arrival inference for the younger Luke / adult Patrick pair.
+- [[Tier 1 Research Execution Kit|Tier 1 Research Execution Kit]] and [[Research Priorities and Action Items|Research Priorities and Action Items]] - shifted the next Claude-for-Chrome task to building a request-ready access map for non-indexed county, archive, and church records.
+- [[Topics/Murray Settlement|Murray Settlement]], [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]], [[Sources and Evidence Index|Sources and Evidence Index]], [[Search Index|Search Index]], and `.agents/AGENT_RESUME.md` - updated the public research state and next-step handoff.
+
 ## Phase 4BP - Older Luke / Margaret Murry Indexed Search Integrated (May 15, 2026)
 
 **MURRAY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome indexed search for the older Luke and Margaret Murry named as Patrick Murry's parents. The search found no independent FamilySearch / WV Culture / Find A Grave record for an older Luke or Margaret. The only FamilySearch tree entries for them appear to be placeholders sourced solely to Patrick's 1871 death register.

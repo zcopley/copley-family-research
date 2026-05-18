@@ -1,0 +1,61 @@
+Continuation Report: Additional Collections Searched
+
+New Collections Searched (Round 2)
+
+Collection | Platform | Search terms / filters | Result
+US Census 1870, WV (FamilySearch coll. 1615782) | FamilySearch | Luke Murray, West Virginia | 0 results
+US Census 1850, Lewis County VA (FamilySearch coll. 1401638) | FamilySearch | All Murray/Murry/Murrey surnames in Lewis, Virginia | 36 results - no Luke, no Irish-born
+Virginia Land Tax Records (FamilySearch coll. 1417669) | FamilySearch | Luke Murray, Virginia; Luke Murray, West Virginia; Lewis Co. specifically | 0 results each
+Virginia Personal Property Tax Lists (FamilySearch coll. 1877874) | FamilySearch | Luke Murray, Virginia | 0 results
+WV Probate Records (FamilySearch coll. 1888768) | FamilySearch | Luke Murray, West Virginia | 0 results
+Lewis County Births/Marriages/Deaths/Wills (FamilySearch coll. 4375852) | FamilySearch | Luke Murray; Murray surname (all persons) | 0 results - collection appears image-only, not indexed for search
+Lewis/Virginia all-collection record search | FamilySearch | Luke Murray, Lewis County VA, all collections, count=30 | 0 results
+Murray marriages, Lewis VA (FamilySearch) | FamilySearch | Murray surname, marriage place Lewis, Virginia | 0 results
+Find A Grave - Margaret Murray, Lewis County WV | findagrave.com | Margaret Murray/Murry, Lewis County WV (no date filter) | 0 results
+Find A Grave - Luke Murray, all WV | findagrave.com | Luke Murray/Murry, West Virginia state (no date filter) | 0 results
+WV Culture Marriage Records search | archive.wvculture.org | Page not available (404 error - marriage record search removed) | -
+
+Key New Finding: 1850 Census of Lewis County, Virginia
+
+The complete 1850 census index for Lewis County, Virginia yields 36 Murray/Murry/Murrey persons, all belonging to a small number of households. Critical observations:
+
+- Every Murray in Lewis County in 1850 was born in Virginia - John Murray (b. 1802 VA), Jane Murray (b. 1808 VA), Hudson Murray (b. 1800 VA), Elizabeth Murray (b. 1800 VA), and various children and younger persons.
+- No Luke Murray of any age appears in Lewis County in 1850.
+- No Irish-born Murray appears in Lewis County in 1850.
+- Irish-born Murrays in Virginia (James, Thomas, Michael, James, Bridget, John) appear exclusively in Preston County, not Lewis.
+- Patrick Murry (~age 27 in 1850) does not appear as a head of household or named individual in Lewis County's 1850 census index, though he was living in Lewis County by 1860.
+
+This means either Patrick (and his father's family) had not yet arrived in Lewis County by 1850, arrived between 1850 and 1860, or Patrick was recorded in a household but was not indexed as a named individual.
+
+The 1860 census showed Patrick (age 34, Ireland) sharing a household with the younger Luke Murry (age 38, Ireland). If both arrived together as immigrants, they could be brothers who came to Lewis County sometime in the 1850s, possibly after 1850.
+
+Summary of All Null Results
+
+Across all searchable digital collections, the following are confirmed absent:
+
+- No Luke Murray/Murry in Virginia Land Tax Records (indexed)
+- No Luke Murray/Murry in Virginia Personal Property Tax Lists (indexed)
+- No Luke Murray/Murry in WV Probate Records (indexed)
+- No Luke Murray/Murry in the 1870 WV census (indexed)
+- No Luke Murray/Murry in the 1850 Lewis County census
+- No Luke or Margaret Murray/Murry in Lewis County marriage records (indexed)
+- No Luke or Margaret Murray/Murry grave in Find A Grave for West Virginia
+
+Updated Conclusions
+
+The older Luke Murry (Patrick's father) remains a brick wall in all accessible online digital sources. The continuation search has deepened rather than resolved the mystery, yielding several important negative findings.
+
+What is now firmly established:
+
+The 1850 census of Lewis County shows no Irish-born Murrays and no Luke Murray whatsoever. This strongly suggests the older Luke either (a) died in Ireland before the family emigrated, (b) died during or just after emigration, (c) settled in a different county or state, or (d) arrived in Lewis County after 1850 but died before Virginia/WV vital registration captured him (WV death registration began 1853, Lewis County records survive from 1853 onward with gaps). Since no death record for him appears even in the 1853-1860 window, option (a) or (b) are now the most probable.
+
+Patrick and the younger Luke (1822) both appear in Lewis County in 1860, together in the same household, suggesting they emigrated together - possibly as brothers or close kin - and arrived in Lewis County in the 1850s. If the older Luke was their father, he very likely never emigrated to America or died early in the emigration process.
+
+The FamilySearch tree person 9HRT-MSZ (Luke Murray, 1792-Deceased, one source: the 1871 death entry) remains the only formal record of the older Luke's existence, and it is entirely derivative of the death register informant statement. No independent corroboration exists in any digital collection searched.
+
+Recommended next steps beyond online sources:
+
+- Lewis County deed/land books, Wills and Inventories, and personal property tax books in paper form at the WV State Archives (Charleston) - these pre-1863 records are not indexed online and would capture any Luke Murray who owned property in the county.
+- Church records at St. Patrick's Catholic Church (Weston, Lewis Co.) or St. Michael's (Weston) - Irish Catholic immigrants in Lewis County often kept baptism/marriage/death registers not yet digitized.
+- Ireland-side research - if the older Luke died in Ireland, the Griffith's Valuation (1847-1864) and Irish civil registration (births from 1864, marriages from 1845) or surviving Catholic parish registers might locate a Luke Murray with wife Margaret and sons Patrick (~1823) and Luke (~1822) in County Mayo, Sligo, Galway, or another emigrant-sending county.
+- Passenger lists (Ancestry, FamilySearch) for a Luke Murray or Patrick Murray arriving ~1847-1855 - might confirm whether the older Luke accompanied them or if Patrick arrived alone/with the younger Luke only.
