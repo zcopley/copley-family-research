@@ -21,7 +21,7 @@ This is the public research operating list for the Copley family wiki. Use [[Sou
 |---|---|---|
 | Ann Munday surname | Recorded family form preferred; the Murray hypothesis is now downgraded after Tom Copley's May 2026 correction because no direct record proves she was Murray. | Search direct surname records for Ann: marriage, passenger, church, child death, Bible, probate, cemetery, or obituary records. |
 | Murray Settlement | Plausible high-value framework for the Lewis County Irish Catholic cluster; the direct deed path is exhausted; the 1850, 1860, and 1870 FAN sweeps are complete, and the key 1860 / 1870 census pages now have a direct image-capture pass. The Murry continuity, vital-record, original-image, and older-Luke indexed searches show Luke moved to Rhode Island by 1870 while adult Patrick remained in Lewis County and died there in 1871; Patrick's original death register names parents Luke and Margaret Murry, but no independent indexed record for that older couple has been found. The Round 2 indexed search found no Luke or Irish-born Murray in the complete indexed 1850 Lewis County census and no older Luke in indexed tax / probate / grave paths. | Build a request-ready access map for non-indexed Lewis County tax, estate, probate, grantor-side land, and Catholic church records. |
-| Michael Copley Sr. origins | Kilgefin / Fairymount remains the strongest working origin; John Copley + Sarah Dolan remains an unresolved parentage hypothesis. | Connect the documented Fairymount Copely family to Michael through parish, civil, or collateral records, and test the May 2026 family Bible / Lewis County probate lead. |
+| Michael Copley Sr. origins | Kilgefin / Fairymount remains the strongest working origin; John Copley + Sarah Dolan remains an unresolved parentage hypothesis. The May 15-17 Tom/Steve thread adds a reported death-index clue but also a spouse-error warning, will caution, and ambiguous Bridget / Bible lead. | Capture the underlying death-index image, connect the documented Fairymount Copely family to Michael through parish, civil, or collateral records, and test the May 2026 family Bible / Lewis County probate lead. |
 | Mary Copely Giblin / Iowa branch | Verified person; relationship to Michael is plausible but unproven. | Build the Iowa descendant chain and identify Stephen Donald Copley's parents. |
 | Copley No. 1 oil strike | Oil-strike context is verified; family financial effect remains plausible. | Locate lease, royalty, title-chain, probate, and estate records for 1899-1925. |
 | Bredon / Captain John descent | Valuable origin hypothesis, not proven generation-by-generation. | Seek the missing Irish bridge from Captain John Copley to the 19th-century Roscommon Copelys. |
@@ -105,14 +105,16 @@ The highest-impact items below have practical templates in [[Tier 1 Research Exe
 ---
 
 ### 5. Test the Michael Copley Parentage / Family Bible Lead
-**Relevance:** [[People/Michael Copley Sr|Michael Copley Sr.]], [[People/Bridget Copley Reynolds|Bridget Copley Reynolds]], [[Dolan Family]], [[References/Thomas Copley May 2026 Email Leads|Thomas Copley May 2026 Email Leads]]
+**Relevance:** [[People/Michael Copley Sr|Michael Copley Sr.]], [[People/Bridget Copley Reynolds|Bridget Copley Reynolds]], [[People/Bridget Bitty Copley Gillooly|Bridget "Bitty" Copley Gillooly]], [[Dolan Family]], [[References/Thomas Copley May 2026 Email Leads|Thomas Copley May 2026 Email Leads]], [[References/Tom and Steve Copley May 2026 Michael Parents Thread|Tom and Steve Copley May 2026 Michael Parents Thread]]
 **Impact:** HIGH - A Bible extract, probate exhibit, heirship affidavit, or court filing naming Michael's parents would directly attack the oldest immigrant-generation gap.
 **Research Status:** Open; Tom Copley's May 2026 emails preserve the lead, but the lead is not yet evidence.
 
 **How to proceed:**
 - Search Lewis County probate, chancery, estate, and oil-title files after Michael Copley Sr.'s January 1897 death for family Bible extracts, heirship schedules, and affidavits.
+- Locate and capture the exact Ancestry / U.S. death-index source that reportedly named John and Sarah while misidentifying Michael's spouse.
+- Obtain a clearer copy of Michael's will / probate packet. Current family reading says the will does not name parents and was signed by mark, so use it as estate evidence unless the original image shows otherwise.
 - Search the "Michael Copley Heirs" oil-lease and title-chain records for filings that required proof of lineage.
-- Build [[People/Bridget Copley Reynolds|Bridget Copley Reynolds]] forward through Reynolds records to identify whether a Bible, transcript, or inherited correspondence could survive in that line.
+- Build [[People/Bridget Copley Reynolds|Bridget Copley Reynolds]] forward through Reynolds records and check [[People/Bridget Bitty Copley Gillooly|Bridget "Bitty" Copley Gillooly]] / Gillooly collateral records to identify whether a Bible, transcript, or inherited correspondence could survive in either path.
 - Keep **John Copley + Sarah Dolan** framed as an unresolved hypothesis until a direct or near-direct record is found.
 - If a Bible or probate record appears, update [[Sources and Evidence Index]], [[People/Michael Copley Sr]], [[Dolan Family]], [[Family Tree]], and [[The Copley Family Narrative]] in the same edit.
 

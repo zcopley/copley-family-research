@@ -26,6 +26,15 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
 
 ## What Was Just Completed
 
+- Integrated `~/Downloads/tom_and_steve_emails_may2026.zip` / `/mnt/c/Users/zach/Downloads/tom_and_steve_emails_may2026.zip` as a source-lead update to the Michael Copley Sr. parentage question.
+- Published the raw archive and five normalized `.eml` files under `static/sources/tom-steve-emails/`.
+- Created `References/Tom and Steve Copley May 2026 Michael Parents Thread.md` to preserve the thread and its evidence cautions:
+  - the reported Ancestry / U.S. death-index clue naming John and Sarah must be checked against the original because Tom reported the same index had Michael's spouse wrong;
+  - Tom and Steve both treated John / Sarah and Sarah Dolan as possible but unproven;
+  - Tom reported that Michael's will did not mention parents and was signed with an `X`, while Steve doubted the blurry microfilm will mentioned parents;
+  - the "Bridget Copley" family Bible lead is now ambiguous between possible sibling Bridget Copley Reynolds and daughter Bridget "Bitty" Copley Gillooly / Gillooly collateral paths.
+- Updated `References/Thomas Copley May 2026 Email Leads.md`, `People/Michael Copley Sr.md`, `People/Bridget Copley Reynolds.md`, `People/Bridget Bitty Copley Gillooly.md`, `Dolan Family.md`, `Sources and Evidence Index.md`, `Research Priorities and Action Items.md`, `Search Index.md`, and `CHANGELOG.md` so the parentage workflow now prioritizes original death-index capture, will/probate image capture, and ambiguity-aware Bible/probate follow-up.
+
 - Integrated `~/Downloads/tom-emails.zip` / `/mnt/c/Users/zach/Downloads/tom-emails.zip` as a source-lead set rather than proven evidence.
 - Created `References/Thomas Copley May 2026 Email Leads.md` to summarize four May 7-8, 2026 emails from Tom Copley and separate actionable leads from forwarded AI-generated claims.
 - Updated `Dolan Family.md`, `People/Michael Copley Sr.md`, `People/Bridget Copley Reynolds.md`, and `Places/Kilgefin Ireland.md` with:
@@ -365,8 +374,8 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
 - Public web searching did not prove Frank Partlow = Nollie Franklin Partlow; the next concrete action is the Clark County, Illinois marriage record/citation for the reported 10 Jun 1900 marriage to Alice/Mary Alice Rude.
 - Public web searching also did not prove Jacob Partlow = son of Benjamin Partlow; broad search surfaced only derivative/collateral leads. Prioritize compiled Partlow books, Benjamin probate/estate, and Culpeper/Clark land/tax records.
 - Tom Copley's May 2026 email archive is now integrated as a research-lead source, not proof. The live parentage hypothesis is **John Copley + Sarah Dolan -> Michael Copley Sr.**, but it remains unresolved until direct or near-direct evidence appears.
-- The highest-value new Michael Copley Sr. parentage lead is the unverified possibility of a Bridget Copley Reynolds line family Bible, or Lewis County probate / heirship / oil-title paperwork citing such a Bible.
-- Any future use of the Tom email archive should start from `References/Thomas Copley May 2026 Email Leads.md` and preserve the evidence caution that most message bodies are AI-generated output. Browser-readable transcript pages live in `References/`; downloadable source files live under `static/sources/tom-emails/`.
+- The highest-value Michael Copley Sr. parentage leads are now: original capture of the reported Ancestry / U.S. death-index clue naming John and Sarah despite a spouse-field error; Lewis County probate / heirship / oil-title paperwork; and the ambiguous "Bridget Copley" Bible path, which should be tested through both Reynolds and Gillooly / collateral possibilities.
+- Any future use of the Tom email archives should start from `References/Thomas Copley May 2026 Email Leads.md` and `References/Tom and Steve Copley May 2026 Michael Parents Thread.md`. Preserve the evidence caution that the earlier May 7-8 messages are mostly AI-generated output, while the May 15-17 thread is family correspondence that sharpens leads but does not prove parentage. Browser-readable transcript/source-note pages live in `References/`; downloadable source files live under `static/sources/tom-emails/` and `static/sources/tom-steve-emails/`.
 - Standing source-ingestion rule: when future agents use raw materials such as `.eml`, `.txt`, `.pdf`, `.zip`, images, spreadsheets, record exports, or downloaded source packets, they should commit publishable raw files to the repo, preferably under `static/sources/<short-source-slug>/`; create browser-readable `References/` pages when practical; and link wiki citations to both the readable derivatives and the raw files instead of leaving machine-local-only paths.
 
 ## Next Step
@@ -377,8 +386,10 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
   - If another visible improvement is needed, favor concise branch, evidence-status, or timeline aids rather than more all-in-one charts.
 - Michael Copley parentage next steps:
   - Treat John Copley + Sarah Dolan as an unresolved hypothesis, not a claim.
+  - Locate and capture the exact Ancestry / U.S. death-index source that reportedly names John and Sarah while misidentifying Michael's spouse.
   - Search Lewis County probate, chancery, estate, heirship, and oil-title files after Michael Copley Sr.'s January 1897 death for Bible extracts, family-record exhibits, or filings naming his parents.
-  - Build Bridget Copley Reynolds forward through Reynolds records to identify whether a family Bible, transcript, probate packet, or inherited correspondence could survive in that line.
+  - Build Bridget Copley Reynolds forward through Reynolds records and check Bridget "Bitty" Copley Gillooly / Gillooly collateral paths to identify whether a family Bible, transcript, probate packet, or inherited correspondence could survive in either line.
+  - Obtain a clearer image or courthouse copy of Michael's will / probate packet; current family reading says the will does not name parents and was signed by mark.
   - Verify any Dolan / Kilgefin townland leads from original Tithe Applotment, parish, estate, or Registry of Deeds records before adding them as evidence.
 - Murray deed next steps:
   - Treat the built-in Deed Book C-D `Marwee` path as retired for Murray-specific work.
@@ -441,6 +452,7 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
 - `References/Claude for Chrome Lewis County Older Luke Margaret Murry Search.md`
 - `References/Claude for Chrome Lewis County Older Luke Margaret Round 2 Search.md`
 - `References/Thomas Copley May 2026 Email Leads.md`
+- `References/Tom and Steve Copley May 2026 Michael Parents Thread.md`
 - `References/Tom Copley Email 2026-05-07 Ballymoe Ballinasloe Question.md`
 - `References/Tom Copley Email 2026-05-07 Focus Dolan Family.md`
 - `References/Tom Copley Email 2026-05-07 Dolan Murray.md`
@@ -449,13 +461,15 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
 - `Dolan Family.md`
 - `People/Michael Copley Sr.md`
 - `People/Bridget Copley Reynolds.md`
+- `People/Bridget Bitty Copley Gillooly.md`
 - `Places/Kilgefin Ireland.md`
 
 ## Open Questions
 
 - What direct record names Ann Munday Copley's maiden surname?
 - Were John Copley and Sarah Dolan actually Michael Copley Sr.'s parents?
-- Does a Bridget Copley Reynolds descendant line preserve a Copley family Bible, Bible transcript, probate packet, or inherited correspondence naming Michael's parents?
+- Does the reported Ancestry / U.S. death-index source actually name Michael's parents as John and Sarah, and what original field or informant produced that index?
+- Does a Reynolds or Gillooly / collateral Bridget path preserve a Copley family Bible, Bible transcript, probate packet, or inherited correspondence naming Michael's parents?
 - Do Lewis County probate, heirship, chancery, or oil-title files after Michael Copley Sr.'s 1897 death cite a family Bible or name his parents?
 - Did a Murray family arrive in the Lewis County settlement area before the Copleys?
 - Why do Copley / Coopley households disappear from the indexed 1860 and 1870 Lewis County censuses after appearing in 1850?

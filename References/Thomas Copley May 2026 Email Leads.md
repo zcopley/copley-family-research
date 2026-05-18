@@ -16,6 +16,8 @@ tags:
 
 This note summarizes four May 2026 emails from [[People/Thomas Partlow Copley|Thomas Partlow Copley]]. The original archive and normalized `.eml` files are now published with the wiki under `static/sources/tom-emails/`.
 
+For the later May 15-17, 2026 follow-up thread between Tom and [[People/Stephen Michael Copley|Steve Copley]] about the same Michael-parentage question, see [[References/Tom and Steve Copley May 2026 Michael Parents Thread|Tom and Steve Copley May 2026 Michael Parents Thread]].
+
 ## Source Description
 
 Browser-readable transcript pages:
@@ -57,9 +59,10 @@ For the current public history:
 
 The most actionable item is in Tom's 8 May 2026 email to Steve and Zach. Tom wrote that the AI, after follow-up questioning, suggested that **someone in Bridget Copley's line might hold a Copley family Bible showing John and Sarah as Michael's parents**, and that this Bible may once have been cited in **Lewis County court clerk probate documents**.
 
-This is unverified, but it matters because it points to a testable proof path:
+This is unverified, but it matters because it points to a testable proof path. The later Tom/Steve thread makes the Bridget identity ambiguous: Tom may have been thinking of Michael's daughter [[People/Bridget Bitty Copley Gillooly|Bridget "Bitty" Copley Gillooly]], while earlier handling pointed toward possible sibling [[People/Bridget Copley Reynolds|Bridget Copley Reynolds]]. Treat this as a Bridget-identity problem, not as a solved branch assignment.
 
 - Identify [[People/Bridget Copley Reynolds|Bridget Copley Reynolds]] descendants, if she emigrated and had descendants.
+- Check [[People/Bridget Bitty Copley Gillooly|Bridget "Bitty" Copley Gillooly]] and Gillooly collateral lines, while reconciling this with the current family narrative that Bridget had no children.
 - Search Lewis County probate, estate, chancery, heirship, and oil-lease litigation records after [[People/Michael Copley Sr|Michael Copley Sr.]] died in January 1897.
 - Look specifically for affidavits, Bible extracts, family-record exhibits, heirship schedules, or attorney filings naming Michael's parents.
 - Search the 1900 Copley Oil Pool / "Michael Copley Heirs" title and lease trail for documents that required proof of heirship.
@@ -76,6 +79,16 @@ Current handling:
 - Treat naming patterns as weak supporting context only.
 - Prioritize direct or near-direct records: baptism, marriage, Bible, probate, estate, church, cemetery, or heirship material.
 - Keep Sarah Dolan's own parentage unresolved unless an original record names her parents.
+- Treat the reported Ancestry / U.S. death-index clue naming John and Sarah with caution until the original image or collection record is captured, because Tom reported that the same index had Michael's spouse wrong.
+
+## May 15-17 Follow-Up Thread
+
+The later [[References/Tom and Steve Copley May 2026 Michael Parents Thread|Tom and Steve Copley May 2026 Michael Parents Thread]] adds several cautions:
+
+- Steve thought the death-index clue could have confused Michael's family members because Michael had daughters named Bridget and Sarah.
+- Tom and Steve both treated John and Sarah as possible, but neither had direct proof.
+- Tom reported that Michael's will does not mention his parents and that Michael signed it with an `X`; Steve also doubted the blurry microfilm will mentioned parents.
+- Tom remembered Weston Dolans introduced by his father but framed any link to an earlier Sarah Dolan as uncertain.
 
 ## Dolan / Kilgefin Leads
 
@@ -100,10 +113,12 @@ Current handling:
 
 ## Research Actions Added
 
-1. Add the possible Bridget-line family Bible / Lewis County probate lead to [[People/Michael Copley Sr|Michael Copley Sr.]] and [[People/Bridget Copley Reynolds|Bridget Copley Reynolds]].
+1. Add the possible Bridget-line family Bible / Lewis County probate lead to [[People/Michael Copley Sr|Michael Copley Sr.]], [[People/Bridget Copley Reynolds|Bridget Copley Reynolds]], and [[People/Bridget Bitty Copley Gillooly|Bridget "Bitty" Copley Gillooly]] with the Bridget identity marked as unresolved.
 2. Add Dolan / Kilgefin record targets to [[Dolan Family]] and [[Places/Kilgefin Ireland]].
 3. Update [[Sources and Evidence Index]] and [[Research Priorities and Action Items]] so Michael's parentage search includes probate/Bible/heirship paths, not only Irish parish records.
+4. Add the Tom/Steve follow-up thread as a caution that the death-index clue, Michael's will, and the Bridget Bible lead all need original-source follow-up before any parentage claim is upgraded.
 
 ## Source
 
 1. [Published `tom-emails.zip`](../static/sources/tom-emails/tom-emails.zip) - four email messages from Thomas Partlow Copley to Zach Copley and/or Stephen Copley, dated 7-8 May 2026.
+2. [[References/Tom and Steve Copley May 2026 Michael Parents Thread|Tom and Steve Copley May 2026 Michael Parents Thread]] - five forwarded messages preserving the May 15-17, 2026 follow-up discussion.

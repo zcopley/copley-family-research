@@ -13,7 +13,7 @@ The Dolan family is part of the Lewis County Catholic settlement network and the
 - Mary Ellen Dolan Copley's relationship to [[People/John Copley|John Copley]] and their children is part of the established family narrative.
 - The broader Dolan network remains under-documented and should be treated as an active research area.
 - A separate, earlier Dolan question is now active: whether **Sarah Dolan** of Kilgefin / Roscommon was the mother of [[People/Michael Copley Sr|Michael Copley Sr.]]. This is a research hypothesis, not a proven relationship.
-- Tom Copley's May 2026 email archive preserves several AI-generated Dolan / Kilgefin leads. These are useful for search planning but should not be treated as evidence until checked against original records. See [[References/Thomas Copley May 2026 Email Leads|Thomas Copley May 2026 Email Leads]].
+- Tom Copley's May 2026 email archive preserves several AI-generated Dolan / Kilgefin leads. These are useful for search planning but should not be treated as evidence until checked against original records. The later Tom/Steve thread confirms that the Sarah Dolan maiden-name idea remained speculative and AI-assisted. See [[References/Thomas Copley May 2026 Email Leads|Thomas Copley May 2026 Email Leads]] and [[References/Tom and Steve Copley May 2026 Michael Parents Thread|Tom and Steve Copley May 2026 Michael Parents Thread]].
 - See [[Sources and Evidence Index]] for current claim status and [[Research Priorities and Action Items]] for the highest-value next work.
 
 ## Sarah Dolan / Kilgefin Hypothesis
@@ -22,11 +22,13 @@ The current working question is whether a woman named **Sarah Dolan** married a 
 
 High-value proof targets:
 
+- Original source capture for the Ancestry / U.S. death-index clue that reportedly named John and Sarah while misidentifying Michael's spouse.
 - Kilgefin / Ballagh Catholic registers for Dolan and Copley / Copely entries, sponsors, and witnesses.
 - Tithe Applotment Book images for Dolan households in Kilgefin, especially any townlands later tied to family or estate records.
 - Strokestown Park / Pakenham-Mahon estate rentals and tenant lists for Dolan lease lives, subtenants, or marriage-settlement clues.
 - Registry of Deeds memorials for any Dolan-Copley lease, marriage settlement, or family transfer around 1790-1815.
 - Lewis County WV probate, heirship, oil-lease, and family Bible references that might name Michael Copley Sr.'s parents.
+- Weston Dolan family-memory follow-up, but only as a network clue; it does not prove that Sarah Dolan existed or that Weston Dolans connect to her.
 
 ## Related Pages
 
@@ -42,3 +44,4 @@ High-value proof targets:
 - Check church, census, deed, marriage, and probate records for Dolan links to Murray Settlement families.
 - Prove or reject the separate Sarah Dolan / John Copley parentage hypothesis for Michael Copley Sr.
 - Verify any named Kilgefin Dolan townland leads from original Tithe Applotment, estate, or parish records before using them as narrative evidence.
+- Test whether Weston Dolan families known to Michael Joseph Copley connect only to [[People/Mary Ellen Dolan Copley|Mary Ellen Dolan Copley's]] line or also to any earlier Roscommon Dolan line.

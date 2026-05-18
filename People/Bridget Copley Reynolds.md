@@ -34,14 +34,14 @@ tags:
 2. Husband's first name and background unknown.
 3. Whether Bridget emigrated to the United States or remained in Ireland is unconfirmed.
 4. No marriage, death, or descendant records located.
-5. Tom Copley's May 2026 email archive raises an unverified but important lead that a Copley family Bible may survive in Bridget's line, or may have been cited in Lewis County probate material connected to [[Michael Copley Sr|Michael Copley Sr.]]. See [[References/Thomas Copley May 2026 Email Leads|Thomas Copley May 2026 Email Leads]].
+5. Tom Copley's May 2026 email archive raises an unverified but important lead that a Copley family Bible may survive in "Bridget Copley's" line, or may have been cited in Lewis County probate material connected to [[Michael Copley Sr|Michael Copley Sr.]]. The later Tom/Steve thread makes that Bridget identity ambiguous and may point instead to [[Bridget Bitty Copley Gillooly|Bridget "Bitty" Copley Gillooly]] or Gillooly collateral relatives. See [[References/Thomas Copley May 2026 Email Leads|Thomas Copley May 2026 Email Leads]] and [[References/Tom and Steve Copley May 2026 Michael Parents Thread|Tom and Steve Copley May 2026 Michael Parents Thread]].
 
 ## Acquisition Strategy
 
 - Search 1850–1880 US Federal Census for Bridget Reynolds (Irish-born, appropriate age range) near Lewis County WV or B&O corridor communities.
 - Search Catholic parish marriage registers in the Potomac/Baltimore corridor for a Bridget Copley marrying a Reynolds in the 1840s–1860s.
 - Check Irish parish registers at NLI (Kilgefin/Roscommon) for Copley baptisms that could identify her birth year and parents.
-- Build any Reynolds descendant chain far enough to identify possible living or archival holders of a Copley family Bible, Bible transcript, probate packet, or inherited correspondence.
+- Build any Reynolds descendant chain far enough to identify possible living or archival holders of a Copley family Bible, Bible transcript, probate packet, or inherited correspondence, while keeping open the possibility that the May 2026 "Bridget" lead belongs to a different Bridget.
 - Search Lewis County WV probate, chancery, and oil-title files after Michael's 1897 death for any document citing a family Bible or naming John and Sarah as Michael's parents.
 
 ## Sources
@@ -49,3 +49,4 @@ tags:
 1. `~/Downloads/COPLEY HISTORY PART 1 final 2.pdf` — listed as sibling of Michael Copley Sr.; no further detail.
 2. [[Family Tree]] — internal branch mapping.
 3. [[References/Thomas Copley May 2026 Email Leads|Thomas Copley May 2026 Email Leads]] — unverified family Bible / probate lead from Tom Copley's May 2026 email.
+4. [[References/Tom and Steve Copley May 2026 Michael Parents Thread|Tom and Steve Copley May 2026 Michael Parents Thread]] — follow-up thread showing the Bridget identity is ambiguous.

@@ -10,6 +10,16 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4BS - Tom / Steve Michael Parentage Thread Integrated (May 18, 2026)
+
+**SOURCE-LEAD UPDATE:** Reviewed `~/Downloads/tom_and_steve_emails_may2026.zip` and integrated the useful material from the May 15-17, 2026 Tom / Steve thread. The thread does not prove Michael Copley Sr.'s parents, but it sharpens the next proof path: capture the underlying death-index source, treat the spouse error as a warning, expect Michael's will not to name parents unless a better image contradicts the family reading, and treat the "Bridget Bible" lead as ambiguous between Reynolds and Gillooly/collateral possibilities.
+
+### Updated Pages
+
+- [[References/Tom and Steve Copley May 2026 Michael Parents Thread|Tom and Steve Copley May 2026 Michael Parents Thread]] - new source note with direct links to the published raw archive and normalized `.eml` files.
+- [[References/Thomas Copley May 2026 Email Leads|Thomas Copley May 2026 Email Leads]], [[People/Michael Copley Sr|Michael Copley Sr.]], [[People/Bridget Copley Reynolds|Bridget Copley Reynolds]], [[People/Bridget Bitty Copley Gillooly|Bridget "Bitty" Copley Gillooly]], and [[Dolan Family]] - updated the death-index, will, Bridget/Bible, and Dolan-memory cautions.
+- [[Sources and Evidence Index|Sources and Evidence Index]], [[Research Priorities and Action Items|Research Priorities and Action Items]], [[Search Index|Search Index]], and `.agents/AGENT_RESUME.md` - added the new source note and shifted the Michael-parentage task toward original death-index capture plus ambiguity-aware Bible/probate follow-up.
+
 ## Phase 4BR - Tom Copley Research Corrections Integrated (May 18, 2026)
 
 **EVIDENCE-STATUS CORRECTION:** Integrated Tom Copley's May 2026 corrections on two earlier AI-assisted leads. The alleged *Calendar of State Papers, Ireland, 1633-1647*, p. 301 citation for Captain John Copley and Arigna is now treated as fabricated after Tom checked the Internet Archive volume and found no Copley or variant spellings. The Ann Munday-to-Murray connection is also downgraded: Munday remains the preferred recorded surname unless a direct record proves otherwise.
