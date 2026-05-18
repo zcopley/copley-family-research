@@ -29,6 +29,7 @@ Welcome to the Copley family research vault. This project consolidates evidence,
 
 ## What's New / Recently Clarified
 
+- Tom Copley's May 2026 correction downgrades two earlier AI-assisted leads: the *Calendar of State Papers* Arigna/Copley citation is treated as fabricated, and Ann remains recorded as Munday unless a direct record proves otherwise.
 - [[Family Tree]] is now a branch-by-branch relationship guide instead of one giant hard-to-read chart.
 - [[Who Was Alive When]] now gives a chronology-first view of overlapping generations and key family eras.
 - The Lewis County Murray-deed chase has now effectively closed: the old `1826 Murray / Fish` and `1833 John Murray` items are both confirmed **1899** oil-and-gas lease misindexes, so the active Murray work has shifted to the Lewis County FAN sweep, beginning with the completed **1850** pass and the next **1860** pass.
@@ -47,7 +48,7 @@ Welcome to the Copley family research vault. This project consolidates evidence,
 ### Still Open
 
 - Michael Copley Sr.'s Irish parents are still unproven.
-- Ann Copley's exact maiden name still lacks a direct record; `Murray` is a strong working conclusion, not a closed proof.
+- Ann Copley's exact maiden name still lacks a direct record; `Munday` remains the recorded family form, and the `Murray` hypothesis is now downgraded unless direct evidence appears.
 - The Murray Settlement framework is still a working model rather than a finished demonstration.
 - The direct bridge from Captain John Copley to the Roscommon Copleys remains unresolved.
 
@@ -122,7 +123,7 @@ This vault uses an evidence-tier framework:
 ## Quick Links
 
 - [[People/Michael Copley Sr.|Michael Copley Sr.]] — G23 ancestor
-- [[People/Ann Copley|Ann Copley]] — recorded as Munday; likely Murray
+- [[People/Ann Copley|Ann Copley]] — recorded as Munday; Murray hypothesis downgraded
 - [[People/John Copley|John Copley]] — G23/G24
 - [[People/Mary Ellen Dolan|Mary Ellen Dolan Copley]]
 - [[People/Mary Copely Giblin|Mary Copely Giblin]] — likely Iowa-branch relative

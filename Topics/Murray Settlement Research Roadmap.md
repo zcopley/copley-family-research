@@ -45,7 +45,7 @@ graph TD
     TIER1 --> RQ3["RQ-M3: Estate-mates<br/>in Roscommon?"]
     
     TIER2 --> RQ4["RQ-M4: How organized?<br/>Mechanism of migration"]
-    TIER2 --> RQ5["RQ-M5: Munday=Murray?<br/>Ann in the network?"]
+    TIER2 --> RQ5["RQ-M5: Ann's<br/>maiden surname?"]
     TIER2 --> RQ6["RQ-M6: Push factors?<br/>Why 1830s exodus?"]
     
     TIER3 --> RQ7["RQ-M7: Other families?<br/>Mullooly, Hannon, Reynolds"]
@@ -102,7 +102,7 @@ graph TD
 - Did families travel on same ships (chain migration timing)?
 - Pre-emigration social bonds documented (parish records, witnesses, godparents)?
 - How was migration organized (letters home? priest networks? chain brokers)?
-- Was Ann Munday actually Ann Murray (phonetic transcription)?
+- What direct record names Ann Munday Copley's maiden surname, and is there any proof for the downgraded Murray hypothesis?
 - What specific push factors in Roscommon (1830s)?
 - Mullooly, Reynolds, other suspected families in settlement?
 - Iowa branch as parallel organized chain or independent migration?
@@ -118,7 +118,7 @@ graph TD
 | Non-indexed Lewis County records access map | FamilySearch Catalog / WV archives / courthouse / diocesan pathfinding: tax lists, will / estate files, probate books, grantor indexes, deed books, and Catholic sacramental records; capture a request-ready packet in [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]] | 1-2 hrs | **HIGH:** moves beyond the negative indexed searches for older Luke / Margaret into the records most likely to preserve pre-1860 evidence |
 | Full *Powhatan* 1838 passenger manifest scan | Ancestry / FamilySearch NARA M237 | 1 hr | **HIGH:** Shows if Murrays/Dolans traveled with Copleys |
 | Contact Diocese of Wheeling-Charleston | archive request | email | **HIGH:** St. Michael's Church marriage records may show Ann's maiden name |
-| Search "Murray" Griffith's Valuation other Roscommon parishes | askaboutireland.ie | 1–2 hrs | **MEDIUM:** Confirms Murrays in Roscommon origin cluster |
+| Direct Ann surname record search | church / passenger / child death / Bible / probate / cemetery records | 1-2 hrs to scope | **HIGH:** tests the recorded Munday surname directly instead of relying on indirect Murray-context clues |
 
 ---
 
@@ -309,13 +309,13 @@ flowchart TD
 
 ---
 
-### **RQ-M5: Was Ann Munday actually Ann Murray?** 🟡 MEDIUM
+### **RQ-M5: What Was Ann Munday Copley's Maiden Surname?** 🟡 MEDIUM
 
-**Objective:** Determine whether Michael Copley Sr.'s wife's maiden name was "Munday" (family tradition) or a phonetic transcription of "Murray" (Tom's hypothesis), which would place her inside the anchor family network.
+**Objective:** Find a direct record naming Michael Copley Sr.'s wife's maiden surname. Family tradition records **Munday**; the earlier Murray hypothesis is now downgraded unless a direct source proves it.
 
-**Status:** ✅ **RESOLVED FOR WORKING GENEALOGY** — See `[[People/Ann Copley|Ann Copley]]`, `[[RQ-M5-PHASE-2-FINDINGS|RQ-M5 Phase 2 Findings]]`, and `[[RQ-M5-TITHE-APPLOTMENT-SEARCH|RQ-M5 Tithe Search Research Note]]` for full analysis.
+**Status:** ⚠️ **REOPENED / DOWNGRADED** — See `[[People/Ann Copley|Ann Copley]]`, `[[RQ-M5-PHASE-2-FINDINGS|RQ-M5 Phase 2 Findings]]`, `[[RQ-M5-TITHE-APPLOTMENT-SEARCH|RQ-M5 Tithe Search Research Note]]`, and `[[References/Tom Copley May 2026 Research Corrections|Tom Copley May 2026 Research Corrections]]`.
 
-**Verdict:** Ann "Munday" was almost certainly Ann Murray. No "Munday" appears in Griffith's Valuation (c.1858) Kinawley or all Fermanagh; 14 "Murray" occupiers appear in Kinawley; FamilySearch census searches found 0 independent Munday households in Lewis County WV, 1840-1860. NAI and Ancestry Tithe searches are inconclusive because Kinawley is not indexed in either database. Next steps shift to identifying Ann's Murray father and connecting the Kinawley Murrays to the Lewis County Murray deeds.
+**Verdict:** Preserve **Munday** as the preferred recorded surname. No "Munday" appears in Griffith's Valuation (c.1858) Kinawley or all Fermanagh; 14 "Murray" occupiers appear in Kinawley; FamilySearch census searches found 0 independent Munday households in Lewis County WV, 1840-1860. Those facts made the Murray hypothesis plausible, but they are not identity proof. Tom's May 2026 correction says the Munday-to-Murray connection is probably a false lead. Next steps shift to direct surname records: marriage, passenger, church, child death, Bible, probate, cemetery, or obituary evidence.
 
 ---
 

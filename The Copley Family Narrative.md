@@ -35,7 +35,7 @@ The records are thin, but the pressure is visible in the era itself: tithe dispu
 
 *[_Speculative based on typical patterns in western Irish migration:_ Michael likely grew up in a kin-and-neighbor network where departure was first discussed as a temporary labor strategy, not a permanent goodbye.]*
 
-And in nearby [[Places/Kinawley Ireland|Kinawley, County Fermanagh]], [[People/Ann Copley|Ann Copley]] began her own path. She entered American family memory as Ann Munday, but current evidence now supports a working conclusion that the original Irish surname was probably **Murray**: Griffith’s Valuation shows multiple Murray occupiers in Kinawley and no Munday entries in Kinawley or all Fermanagh, while Lewis County census searches found no independent Munday household in the settlement period.[^murray] Family memory says her father died in the Potomac far from home, a sorrow that traveled ahead of her into the American story.[^potomac-gap]
+And in nearby [[Places/Kinawley Ireland|Kinawley, County Fermanagh]], [[People/Ann Copley|Ann Copley]] began her own path. She entered American family memory as Ann Munday. Earlier research tested whether that surname might have been a mistaken rendering of Murray, because Griffith’s Valuation shows multiple Murray occupiers in Kinawley and no Munday entries in Kinawley or all Fermanagh, while Lewis County census searches found no independent Munday household in the settlement period.[^murray] Tom Copley's later correction downgrades that idea as probably a false lead unless a direct record appears. Family memory says her father died in the Potomac far from home, a sorrow that traveled ahead of her into the American story.[^potomac-gap]
 
 ## Chapter 2 — The Journey
 
@@ -67,7 +67,7 @@ The children of John and Mary Ellen carried the family into professional America
 
 The story also widened sideways. Mary Copely Giblin, born in Roscommon in 1814 and buried in Crawford County, Iowa in 1884, is now the strongest known sign that the Roscommon Copely network did not flow only to West Virginia. It branched across the American Midwest as well, carrying the same spelling, generation, and migration-era clues.[^iowa]
 
-From Roscommon fields to Iowa cemeteries, West Virginia farms, laboratories, and lecture halls, the family arc widened across states and decades. Yet the old questions remain at the edge of the page: Who were Michael’s parents in Kilgefin? Which Kinawley Murray household was Ann’s family? What documents settle the Quartermaster claim, the Dolan reconstruction, the oil royalty story?
+From Roscommon fields to Iowa cemeteries, West Virginia farms, laboratories, and lecture halls, the family arc widened across states and decades. Yet the old questions remain at the edge of the page: Who were Michael’s parents in Kilgefin? What direct record proves Ann Munday’s maiden surname? What documents settle the Quartermaster claim, the Dolan reconstruction, the oil royalty story?
 
 So the narrative closes where good genealogy always opens—at the archive door.
 

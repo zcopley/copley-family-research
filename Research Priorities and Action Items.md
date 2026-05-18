@@ -19,7 +19,7 @@ This is the public research operating list for the Copley family wiki. Use [[Sou
 
 | Area | Current Status | Best Next Action |
 |---|---|---|
-| Ann Munday / likely Murray | Strong working conclusion; direct identity record still missing. | Identify Ann's Kinawley Murray household and keep searching for a direct marriage, passenger, church, or child death record. |
+| Ann Munday surname | Recorded family form preferred; the Murray hypothesis is now downgraded after Tom Copley's May 2026 correction because no direct record proves she was Murray. | Search direct surname records for Ann: marriage, passenger, church, child death, Bible, probate, cemetery, or obituary records. |
 | Murray Settlement | Plausible high-value framework for the Lewis County Irish Catholic cluster; the direct deed path is exhausted; the 1850, 1860, and 1870 FAN sweeps are complete, and the key 1860 / 1870 census pages now have a direct image-capture pass. The Murry continuity, vital-record, original-image, and older-Luke indexed searches show Luke moved to Rhode Island by 1870 while adult Patrick remained in Lewis County and died there in 1871; Patrick's original death register names parents Luke and Margaret Murry, but no independent indexed record for that older couple has been found. The Round 2 indexed search found no Luke or Irish-born Murray in the complete indexed 1850 Lewis County census and no older Luke in indexed tax / probate / grave paths. | Build a request-ready access map for non-indexed Lewis County tax, estate, probate, grantor-side land, and Catholic church records. |
 | Michael Copley Sr. origins | Kilgefin / Fairymount remains the strongest working origin; John Copley + Sarah Dolan remains an unresolved parentage hypothesis. | Connect the documented Fairymount Copely family to Michael through parish, civil, or collateral records, and test the May 2026 family Bible / Lewis County probate lead. |
 | Mary Copely Giblin / Iowa branch | Verified person; relationship to Michael is plausible but unproven. | Build the Iowa descendant chain and identify Stephen Donald Copley's parents. |
@@ -64,15 +64,15 @@ The highest-impact items below have practical templates in [[Tier 1 Research Exe
 
 ---
 
-### 2. Identify Ann's Kinawley Murray Household
+### 2. Prove Ann's Maiden Surname Directly
 **Relevance:** [[People/Ann Copley|Ann Copley]], [[RQ-M5-PHASE-2-FINDINGS|RQ-M5 Phase 2 Findings]], [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]]  
-**Impact:** HIGH - This is now the core Ann question: not whether Murray is likely, but which Murray family she came from.  
-**Research Status:** Open; RQ-M5 surname test is resolved for working genealogy.
+**Impact:** HIGH - This is now the core Ann question: the recorded surname is Munday, while the Murray hypothesis is downgraded unless a direct record proves it.
+**Research Status:** Open; RQ-M5 is reopened / downgraded after Tom Copley's May 2026 correction.
 
 **How to proceed:**
-- Work up the 14 Murray occupiers in Kinawley from Griffith's Valuation into household candidates.
+- Search Munday / Monday / Mundy first, while retaining Murray / Murry as a secondary search variant.
 - Contact PRONI about Kinawley parish Tithe Applotment material in the TAB/5 series, since indexed NAI and Ancestry searches do not cover Kinawley.
-- Search for Ann Murray / Munday candidates in Kinawley baptism, marriage, passenger, and U.S. church records.
+- Search for Ann Munday / Monday / Mundy and Ann Murray / Murry candidates in Kinawley baptism, marriage, passenger, and U.S. church records.
 - Track direct-record attempts separately from surname-probability evidence.
 
 ---
@@ -196,10 +196,10 @@ The highest-impact items below have practical templates in [[Tier 1 Research Exe
 
 | Task | Current Handling |
 |---|---|
-| Search for independent Munday/Monday households in Lewis County, 1840-1860. | Completed: FamilySearch searches found 0 independent households. Preserve as evidence for Ann Munday / likely Murray. |
+| Search for independent Munday/Monday households in Lewis County, 1840-1860. | Completed: FamilySearch searches found 0 independent households. Preserve as context, but it does not prove Ann was Murray. |
 | Search indexed Tithe Applotment sources for Munday/Murray in Kinawley. | Closed inconclusive: Kinawley is absent from the searched indexed NAI and Ancestry coverage. PRONI TAB/5 is the next source path. |
 | Test whether Munday is an impossible Irish surname. | Rejected: Munday exists elsewhere in Ireland, but not in the relevant Kinawley/Fermanagh evidence currently found. |
-| Search Ask About Ireland / Griffith's Valuation for Murray in Kinawley. | Completed: 14 Murray occupiers in Kinawley and 0 Munday in Kinawley / all Fermanagh. |
+| Search Ask About Ireland / Griffith's Valuation for Murray in Kinawley. | Completed: 14 Murray occupiers in Kinawley and 0 Munday in Kinawley / all Fermanagh. This supports a Murray-context lead, but after Tom's correction it should not be treated as Ann identity proof. |
 | Treat B&O employment as the main labor explanation for Michael or Patrick. | Downgraded: use broader infrastructure-labor context unless named employment evidence appears. |
 
 ---
@@ -211,7 +211,7 @@ The highest-impact items below have practical templates in [[Tier 1 Research Exe
 - [[Tier 1 Research Execution Kit]] - request templates and evidence-capture forms for Tier 1 tasks
 - [[Topics/Murray Settlement|Murray Settlement]] - settlement framework and research questions
 - [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]] - detailed Murray Settlement execution plan
-- [[RQ-M5-PHASE-2-FINDINGS|RQ-M5 Phase 2 Findings]] - Ann Munday / likely Murray evidence
+- [[RQ-M5-PHASE-2-FINDINGS|RQ-M5 Phase 2 Findings]] - Ann Munday / Murray evidence, now reopened / downgraded
 - [[RQ-M5-TITHE-APPLOTMENT-SEARCH|RQ-M5 Tithe Search Research Note]] - Tithe coverage result
 - [[Topics/1900 Copley Oil Strike|1900 Copley Oil Strike]] - oil-strike context
 - [[Topics/Captain John Copley Research|Captain John Copley Research]] - deep-origin research trail

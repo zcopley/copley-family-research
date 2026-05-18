@@ -17,7 +17,7 @@ This index points to profile pages in `People/` and is organized by generation. 
 
 ## Name Disambiguation Notes
 - **Michael Copley:** use [[Michael Copley Sr|Michael Copley]] (1813–1897), [[Michael Joseph Copley]] (1898–1988), or [[Michael Copley (b. 1959)]].
-- **Ann Copley:** use [[Ann Copley]] for the G23 matriarch; [[Ann Elizabeth Munday Copley]] is only an alternate-name form. Current working genealogy treats her as Ann Munday / likely Murray.
+- **Ann Copley:** use [[Ann Copley]] for the G23 matriarch; [[Ann Elizabeth Munday Copley]] is only an alternate-name form. Current working genealogy preserves Munday as the recorded surname; Murray is a downgraded hypothesis.
 - **Anne Copley:** use [[Anne Copley (b. 1850)|Anne Copley (b. 1850)]] or [[Anne Copley (daughter of John Copley)|Anne Copley (daughter of John)]].
 - **Mary/Sarah name variants:** use the exact person page titles (e.g., [[Mary Ellen Dolan Copley]], [[Mary Copley Flesch]], [[Sara Copley Cox]], [[Sarah Copley]]).
 

@@ -347,7 +347,7 @@ Tom Copley's hypothesis: the Murray/Irish Settlement in Lewis County, WV was not
 
 ### Ann Munday / Murray Question (RQ-M5)
 
-Tom Copley notes "Munday" and "Murray" are phonetically similar. If Ann's surname is a transcription of "Murray," it would place Michael Copley Sr. **inside the Murray family network through marriage** — not merely as a neighbor. This is the single most leveraged open question in the Murray Settlement investigation and directly tests whether Michael Sr. arrived as part of the Murray anchor-family chain or independently.
+Current handling after Tom Copley's May 2026 correction: preserve **Munday** as Ann's recorded working surname unless a direct record proves otherwise. The earlier "Munday = Murray" idea remains a tested hypothesis / search variant, but it is now downgraded as probably a false lead because no primary source names Ann as Murray.
 
 ### Research Focus
 
@@ -386,7 +386,7 @@ See `Phase 1 Questions and Answers.md` for the full list. Key unresolved questio
 | Q28 | John Copley's Civil War service | No conclusive proof |
 | Q33–35 | Living family biographical sketches | Incomplete (Stephen line) |
 | Q45 | Nelle's birth year (1896 vs 1897) | Working conclusion: 1897 |
-| RQ-M5 | Which Kinawley Murray household was Ann "Munday" Copley's family? | Critical — RQ-M5 now treats Murray as Ann's likely original Irish surname |
+| RQ-M5 | What direct record names Ann Munday Copley's maiden surname? | Critical — Munday is preferred until direct evidence proves Murray or another surname |
 | RQ-M1–M8 | Murray Settlement research questions | 8 formal questions; see `[[Topics/Murray Settlement]]` |
 | Murray ID | Who were the Murray anchor family? | Central to settlement hypothesis; LDS microfilm 989747 promising |
 
@@ -477,9 +477,9 @@ Contact **PRONI** for Kinawley parish material in the Fermanagh Tithe Applotment
 
 **Detailed Findings:** See [[RQ-M5-TITHE-APPLOTMENT-SEARCH|RQ-M5 Tithe Applotment Books Search]] for full search results, database coverage map, and revised priority actions.
 
-## RQ-M5 Resolution — Ann Munday / Murray (April 25, 2026)
+## RQ-M5 Update — Ann Munday / Murray (May 18, 2026)
 
-**Result:** **RESOLVED FOR WORKING GENEALOGY** — Ann "Munday" was almost certainly Ann Murray.
+**Result:** **REOPENED / DOWNGRADED** — Ann remains Ann Munday in working genealogy unless a direct record proves otherwise.
 
 **Critical Evidence:**
 - Ask About Ireland / Griffith's Valuation found **14 Murray occupiers** in Kinawley parish, County Fermanagh, and **0 Munday entries** in Kinawley or all Fermanagh
@@ -487,11 +487,11 @@ Contact **PRONI** for Kinawley parish material in the Fermanagh Tithe Applotment
 - FamilySearch U.S. Census searches found **0 independent Munday households** in Lewis County WV, 1840-1860
 - NAI and Ancestry Tithe searches are inconclusive only because Kinawley is not indexed
 
-**Working Conclusion:**
-Treat "Murray" as Ann's likely original Irish surname and "Munday" as the received American-family spelling caused by phonetic transcription, clerical error, or oral-family transmission.
+**Current correction:**
+Tom Copley now thinks the Munday-to-Murray connection is probably a false lead. The indirect evidence above remains useful context, but it is not proof of identity.
 
 **Next Research Focus:**
-Identify Ann's Murray father. Start with the Kinawley Griffith male heads: Patrick, Peter, Edward, James, Michael, and John Murray. Then transcribe the Lewis County John Murray deeds from 1826 and 1833 and search direct church/passenger/marriage records.
+Find a direct surname record: marriage, passenger list, church register, child death record, Bible entry, probate file, cemetery record, or obituary. Search Munday / Monday / Mundy first, with Murray / Murry retained only as secondary variants.
 
 ---
 

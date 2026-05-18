@@ -10,6 +10,17 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4BR - Tom Copley Research Corrections Integrated (May 18, 2026)
+
+**EVIDENCE-STATUS CORRECTION:** Integrated Tom Copley's May 2026 corrections on two earlier AI-assisted leads. The alleged *Calendar of State Papers, Ireland, 1633-1647*, p. 301 citation for Captain John Copley and Arigna is now treated as fabricated after Tom checked the Internet Archive volume and found no Copley or variant spellings. The Ann Munday-to-Murray connection is also downgraded: Munday remains the preferred recorded surname unless a direct record proves otherwise.
+
+### Updated Pages
+
+- [[References/Tom Copley May 2026 Research Corrections|Tom Copley May 2026 Research Corrections]] - new correction note preserving both updates and their current handling.
+- [[Topics/Captain John Copley Research|Captain John Copley Research]] and [[Sources and Evidence Index|Sources and Evidence Index]] - closed the Calendar of State Papers / Arigna citation as a fabricated AI reference.
+- [[People/Ann Copley|Ann Copley]], [[RQ-M5-PHASE-2-FINDINGS|RQ-M5 Phase 2 Findings]], [[RQ-M5-TITHE-APPLOTMENT-SEARCH|RQ-M5 Tithe Search Research Note]], [[Topics/Murray Settlement|Murray Settlement]], and [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]] - reopened / downgraded RQ-M5 so Ann remains Munday in working genealogy until direct evidence proves otherwise.
+- [[Home]], [[index|Copley Family Research Vault]], [[People Directory|People Directory]], [[People/People Directory|People Directory (Individual Profiles)]], [[Visual Story Atlas|Visual Story Atlas]], [[Topics/Irish Immigration to West Virginia|Irish Immigration to West Virginia]], [[The Copley Family Narrative|The Copley Family Narrative]], [[Research Priorities and Action Items|Research Priorities and Action Items]], [[Search Index|Search Index]], `CLAUDE.md`, `GEMINI.md`, and `.agents/AGENT_RESUME.md` - updated public orientation and agent guidance to match the corrected evidence status.
+
 ## Phase 4BQ - Older Luke / Margaret Murry Round 2 Search Integrated (May 18, 2026)
 
 **MURRAY-WORKFLOW UPDATE:** Integrated Zach's Round 2 Claude for Chrome search for the older Luke and Margaret Murry parent couple. The follow-up found no Luke and no Irish-born Murray / Murry / Murrey among 36 indexed 1850 Lewis County Murray entries, and no older Luke in indexed Virginia tax, West Virginia probate, 1870 census, Lewis County marriage, or Find A Grave paths. This closes the current online indexed path and shifts the next browser task to a non-indexed records access map and request packet.

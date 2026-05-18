@@ -13,13 +13,14 @@ This is an alternate/full-name form for [[Ann Copley]] (1823–1909), matriarch 
 ## Name Clarification
 - Use [[Ann Copley]] as the canonical person page.
 - "Ann Elizabeth Munday" appears in family narrative traditions and secondary sources.
-- Current working genealogy treats the original Irish surname as likely **Murray**, with "Munday" preserved as the received American-family form.
+- Current working genealogy now preserves **Munday** as the preferred recorded surname unless a direct record proves otherwise. The earlier **Murray** hypothesis has been tested but is now downgraded after Tom Copley's May 2026 correction.
 - Direct primary-record confirmation of her maiden surname remains an open research task.
 
 ## Evidence Trail
 - Claim-level status: [[Sources and Evidence Index]]
 - Research note: [[RQ-M5-PHASE-2-FINDINGS|RQ-M5 Phase 2 Findings]]
 - Tithe-source note: [[RQ-M5-TITHE-APPLOTMENT-SEARCH|RQ-M5 Tithe Search Research Note]]
+- Correction note: [[References/Tom Copley May 2026 Research Corrections]]
 - Settlement context: [[Topics/Murray Settlement|Murray Settlement]]
 
 ## Not a Separate Person

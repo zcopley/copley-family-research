@@ -139,7 +139,7 @@ Earlier NAI searches suggested possible Fermanagh Munday entries in Inishmacsain
 **Phase 2M / 2N Findings:**
 - Griffith's Valuation (c.1858), Kinawley: 0 Munday entries in Kinawley or all Fermanagh; 14 Murray occupiers in Kinawley
 - FamilySearch U.S. Census searches: 0 independent Munday households in Lewis County WV, 1840-1860
-- Current working conclusion: Ann "Munday" was almost certainly Ann Murray; the remaining task is identifying her Murray family
+- Current working conclusion after Tom Copley's May 2026 correction: Ann remains **Munday** in working genealogy unless a direct record proves otherwise; Murray is a tested but downgraded hypothesis
 
 ---
 
@@ -182,7 +182,7 @@ graph TB
 
 ## Summary
 
-The Tithe Applotment Books search revealed that **Kinawley parish is not indexed in either the National Archives of Ireland online database or Ancestry.com Collection #1270** for this question. That coverage gap makes the tithe-source test inconclusive. However, the later Griffith's Valuation and FamilySearch census results resolve the larger RQ-M5 question for working genealogy: Ann "Munday" was almost certainly Ann Murray.
+The Tithe Applotment Books search revealed that **Kinawley parish is not indexed in either the National Archives of Ireland online database or Ancestry.com Collection #1270** for this question. That coverage gap makes the tithe-source test inconclusive. Later Griffith's Valuation and FamilySearch census results created a plausible Murray hypothesis, but Tom Copley's May 2026 correction downgrades that hypothesis: without a direct record, Ann should remain **Munday** in working genealogy.
 
 The next high-priority actions are a Kinawley Murray father-candidate workup, transcription of the 1826 and 1833 Lewis County John Murray deeds, and direct church/passenger/marriage record searches.
 

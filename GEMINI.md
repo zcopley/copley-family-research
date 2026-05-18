@@ -147,7 +147,7 @@ Tom and Steve Copley (G25) conducted research into the English/Irish origins of 
   - **Hanleys** — **BREAKTHROUGH (April 22, 2026):** Peter Hanley documented in Ballindrumlea on Sandford estate — **same townland and landlord as Murrays, Dolans, Copleys**. **Also:** Hanleys in Fairymount under Anne Lyster (same townland as William Copely of Fairymount, the remaining Catholic Copely) — Hanleys were direct neighbors of the Catholic Copely branch. Bridget Copley married Hanley (estate-mate marriage reproduced)
   - **Hannons** — **BREAKTHROUGH (April 22, 2026):** Thomas Hannon documented on Sandford estate (Longford, same landlord). Catherine "Kitty" Copley married Hannon (estate-mate marriage)
   - **Giloolys** — Connected family; no Griffith's Valuation entries found (possibly different parish origin or marriage connection)
-- **Critical question:** Was Ann Munday actually Ann Murray? If so, Copleys inside Murray network through marriage (RQ-M5)
+- **Critical question:** What direct record names Ann Munday's maiden surname? The earlier Ann-as-Murray hypothesis is downgraded unless direct evidence appears (RQ-M5)
 - **Sandford estate as settlement nucleus:** Five documented families (Copleys, Dolans, Murrays, Hanleys, Hannons) all tenants of same landlord in Roscommon — this is the physical anchor of the coordinated transplant hypothesis
 - **Research strategy:** 5 tiers, 16 actions; see `[[Topics/Murray Settlement]]`
 

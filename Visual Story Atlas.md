@@ -33,7 +33,7 @@ Use [[Sources and Evidence Index]] when you need the claim-by-claim version of t
 graph LR
     DEEP["Deep-origin hypothesis<br/>Bredon / Captain John<br/>1375-1813"]:::plausible
     KIL["Kilgefin + Fairymount<br/>Copely roots<br/>1813-1837"]:::strong
-    KIN["Kinawley<br/>Ann Munday / likely Murray<br/>1823+"]:::strong
+    KIN["Kinawley<br/>Ann Munday<br/>1823+"]:::unresolved
     SEA["Atlantic migration<br/>Kutusoff + Powhatan<br/>1837-1838"]:::verified
     LAB["Infrastructure labor<br/>roads / turnpike / rail<br/>1838-1843"]:::plausible
     SET["Murray Settlement<br/>Lewis County<br/>1838-1849"]:::plausible
@@ -75,7 +75,7 @@ graph TB
     
     subgraph SETTLE["Lewis County settlement"]
         MIC["Michael Copley Sr."]:::person
-        ANN["Ann Copley<br/>Munday / likely Murray"]:::person
+        ANN["Ann Copley<br/>Munday"]:::person
         PAT["Patrick Copley"]:::person
         MUR["Murray anchor family"]:::unknown
         DOL["Dolan family"]:::family
@@ -141,9 +141,9 @@ graph TB
     VER --> V3["Copley No. 1<br/>oil strike"]:::verified
     VER --> V4["Captain John<br/>documented records"]:::verified
     
-    STR --> S1["Ann Munday<br/>likely Murray"]:::strong
-    STR --> S2["Ann from<br/>Kinawley"]:::strong
-    STR --> S3["Michael from<br/>Kilgefin"]:::strong
+    STR --> S1["Ann from<br/>Kinawley"]:::strong
+    STR --> S2["Michael from<br/>Kilgefin"]:::strong
+    STR --> S3["Fairymount<br/>Copely presence"]:::strong
     
     PLA --> P1["Murray Settlement<br/>community framework"]:::plausible
     PLA --> P2["Turnpike / labor<br/>pathway"]:::plausible
@@ -151,7 +151,7 @@ graph TB
     PLA --> P4["Oil helped<br/>education mobility"]:::plausible
     
     UNR --> U1["Michael's parents"]:::unresolved
-    UNR --> U2["Ann's exact<br/>Murray household"]:::unresolved
+    UNR --> U2["Ann's direct<br/>maiden-name proof"]:::unresolved
     UNR --> U3["Captain John to<br/>Roscommon bridge"]:::unresolved
     UNR --> U4["Oil lease / royalty<br/>records"]:::unresolved
     

@@ -23,7 +23,7 @@ tags:
 
 ```mermaid
 graph TB
-    G23["<b>G23 — Immigrant Generation</b><br/>Michael Copley Sr. (b.1813)<br/>Ann Munday / likely Murray (b.1823)<br/>+ siblings and near-kin"]
+    G23["<b>G23 — Immigrant Generation</b><br/>Michael Copley Sr. (b.1813)<br/>Ann Munday (b.1823)<br/>+ siblings and near-kin"]
     
     G24["<b>G24 — Lewis County Core</b><br/>John Copley (1843-1925)<br/>+ 7 siblings"]
     
@@ -50,7 +50,7 @@ Use this directory to find profiles for specific people. Start at the generation
 ## Name Disambiguation Notes
 - **Michael Copley:** use [[Michael Copley Sr|Michael Copley]] (1813–1897), [[Michael Joseph Copley]] (1898–1988), or [[Michael Copley (b. 1959)]].
 - **Anne Copley:** use [[Anne Copley (b. 1850)|Anne Copley (b. 1850)]] or [[Anne Copley (daughter of John Copley)|Anne Copley (daughter of John)]].
-- **Ann/Anne distinction:** [[Ann Copley]] is the G23 matriarch (1823–1909), recorded as Munday but now treated as likely Murray for working genealogy. Both Anne pages are daughters in later generations.
+- **Ann/Anne distinction:** [[Ann Copley]] is the G23 matriarch (1823–1909), recorded as Munday; the earlier Murray hypothesis is now downgraded unless direct evidence appears. Both Anne pages are daughters in later generations.
 
 ## Current Evidence Notes
 
@@ -72,8 +72,8 @@ Use this directory to find profiles for specific people. Start at the generation
 ### [[Ann Copley]] (1823–1909)
 - Born: [[Places/Kinawley Ireland|Kinawley, Ireland]] (County Fermanagh context; reported in family narrative).
 - Family tradition: father drowned in Potomac.
-- Maiden surname recorded as "Munday" in secondary family sources; current working conclusion treats her original Irish surname as likely **Murray**.
-- Research gaps: Q3, Q11/Q14/RQ-M5 (marriage documentation, father identity, direct surname record, and Kinawley Murray household).
+- Maiden surname recorded as "Munday" in secondary family sources; Murray remains only a downgraded search variant.
+- Research gaps: Q3, Q11/Q14/RQ-M5 (marriage documentation, father identity, and direct surname record).
 
 ### [[Patrick Copley]]
 - Michael’s brother; co-purchaser in 1843 land agreement.

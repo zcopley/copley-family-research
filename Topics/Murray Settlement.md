@@ -324,7 +324,7 @@ The Sandford estate connection is critical because:
 - Did the Sandford-tenant Murrays (especially the Ballindrumlea cluster) emigrate to Lewis County?
 - Are any of the Kilkeevin Murrays identifiable as relatives of the Kilgefin Murrays (Patrick and John)?
 - Did the Murrays emigrate before the Copleys (supporting anchor-family hypothesis) or alongside them?
-- Is [[People/Ann Copley|Ann Munday]] (wife of Michael Copley Sr.) actually **Ann Murray** — possibly a daughter of one of these documented Murray families? (See Section 4.)
+- Is [[People/Ann Copley|Ann Munday]] (wife of Michael Copley Sr.) connected to these Murray families at all? The former Ann-as-Murray reading is now downgraded unless direct evidence appears. (See Section 5.)
 - Are there Murray family members documented in Lewis County Irish Catholic parish records? (Can search Diocese of Wheeling-Charleston archive, St. Michael's Church records)
 - What were the birth/death dates and family relationships among the documented Murrays? (Can search Irish civil registration, burial records)
 
@@ -409,7 +409,7 @@ This is the single most leveraged open question in the entire Murray Settlement 
 ⚠️ **[PLAUSIBLE — Tom Copley's hypothesis]** Tom notes that:
 - "Munday" and "Murray" are **phonetically similar**, especially when transcribed by American record-keepers hearing an Irish accent
 - The Lewis County Irish community was known specifically as **"Murray's Settlement"**
-- If Ann's surname was actually Murray, it would place [[People/Michael Copley Sr.|Michael Copley Sr.]] **inside** the Murray family network through marriage — not merely as a neighbor, but as a son-in-law of the Murrays
+- If Ann's surname were ever proven as Murray, it would place [[People/Michael Copley Sr.|Michael Copley Sr.]] **inside** the Murray family network through marriage. That is now only a downgraded hypothesis, not a working conclusion.
 
 ⚠️ **[PLAUSIBLE]** A marriage into the anchor family would elegantly explain how Michael Copley ended up in Lewis County specifically: he didn't just follow information, he married into the family that organized the destination.
 
@@ -460,11 +460,11 @@ graph LR
 
 **FamilySearch Census Result:** FamilySearch U.S. Census searches for Lewis County, Virginia / West Virginia, 1840-1860 found **0 independent Munday households** in the settlement area, and 0 Munday results in the searched Virginia / West Virginia records. This removes the main American-side alternative: that Ann belonged to a separate Munday family that emigrated alongside the Copleys.
 
-**Status:** **Resolved for working genealogy.** Ann "Munday" was almost certainly Ann Murray, with "Munday" entering American records as a phonetic transcription, clerical error, or oral-family transmission. This conclusion rests on converging indirect evidence: no Munday in Kinawley or all Fermanagh, 14 Murrays in Kinawley, no independent Munday household in Lewis County, and a settlement historically known as Murray's Settlement.
+**Status:** **Reopened / downgraded.** The evidence above created a plausible Murray hypothesis, but Tom Copley's May 2026 correction says the Munday-to-Murray connection is probably a false lead and that no source proves Ann was Murray. The recorded family form **Munday** is now preferred unless a direct record proves otherwise.
 
-**Next critical research step:** Shift from proving the Munday/Murray hypothesis to identifying Ann's Murray family. The leading tasks are to extract townland details for the 14 Kinawley Murray occupiers, run the Lewis County FAN sweep, and search direct church/passenger/marriage records for Ann.
+**Next critical research step:** Find a direct surname record for Ann: marriage, passenger list, church register, child death record, Bible entry, probate file, cemetery record, or obituary. Search Munday / Monday / Mundy first, while retaining Murray / Murry as a downgraded variant hypothesis.
 
-The GEDCOM data, family narrative documents, and the [[People/Marion Elizabeth Partlow|Partlow family sources]] still preserve the "Munday" spelling. Keep that spelling as the received American-family form, but treat "Murray" as the most likely original Irish surname.
+The GEDCOM data, family narrative documents, and the [[People/Marion Elizabeth Partlow|Partlow family sources]] preserve the "Munday" spelling. Keep that spelling as the working surname until a direct source says otherwise.
 
 ---
 
@@ -540,13 +540,13 @@ The following Roscommon townlands and parishes are documented in relation to the
 
 13. **Lewis County historical societies** — The Lewis County Historical Society (Weston) may hold letters, diaries, or local histories containing the settlement's origin story in the settlers' own words.
 
-### Tier 5 — Ann Murray Family Identification
+### Tier 5 — Ann Munday Surname Proof
 
-**RQ-16 (from Captain John research):** Which Kinawley Murray household was Ann "Munday" Copley's family?
+**RQ-16 (from Captain John research):** What direct record names Ann Copley's maiden surname?
 
-14. **Work up Kinawley Murray father candidates** — The Griffith's Valuation male heads Patrick, Peter, Edward, James, Michael, and John Murray are the first candidate pool for Ann's father or close kin.
+14. **Search direct surname records** — Prioritize Michael Copley / Ann marriage evidence, early Catholic church records, passenger lists, child death records, Bible entries, probate files, cemetery records, and obituaries.
 
-15. **Search PRONI and Fermanagh parish registers** — Look for Murray baptism, marriage, and tithe records in Kinawley parish, Fermanagh, 1820–1840, especially records that could name an Ann born c. 1823.
+15. **Search PRONI and Fermanagh parish registers** — Look for Munday / Monday / Mundy first, and Murray / Murry as a secondary variant, in Kinawley parish, Fermanagh, 1820–1840, especially records that could name an Ann born c. 1823.
 
 16. **Run the next Lewis County FAN-sweep phase** — The direct John Murray deed path is now closed: the supposed **1826 Murray / Fish** and **1833 John Murray** leads both proved to be misindexed **1899** oil-and-gas leases, the exact-surname compiled grantee-index search is complete and negative for pre-1843 entries, physical pages 334 and 404 are confirmed mismatches, and the former "Marwee Sawig" line has been retired as non-Murray. The 1850, 1860, and 1870 FAN sweeps are now complete, the corrected 1870 Battelle / Willey image review is integrated, the 1860 / 1870 image-capture pass is integrated, the Murry continuity, vital-record, original-image, and older-Luke indexed checks are integrated, district mapping now points the visible cluster toward the Weston / courthouse hinterland, and the Mary Casey plus Byrne / Carey household checks are integrated. The next work is non-indexed Lewis County tax / estate / probate pathfinding.
 
@@ -573,7 +573,7 @@ graph TD
     DATA3 --> CORE
     
     GOAL --> RQ4["🟡 RQ-M4: How organized?"]
-    GOAL --> RQ5["🟡 RQ-M5: Munday=Murray?"]
+    GOAL --> RQ5["🟡 RQ-M5: Ann's<br/>maiden surname?"]
     GOAL --> RQ6["🟡 RQ-M6: Push factors?"]
     
     CORE --> SUPPORT["SUPPORTING<br/>EVIDENCE"]
@@ -602,7 +602,7 @@ graph TD
 | RQ-M2 | Did the settlement families travel together on the same ships? | 🔴 High | *Powhatan* and *Kutusoff* full manifests; NARA M237 |
 | RQ-M3 | Were the Lewis County settlement families neighbors in Roscommon? | 🔴 High | Griffith's Valuation; parish registers; irishgenealogy.ie |
 | RQ-M4 | What was the organizational mechanism of the migration? | 🟡 Medium | Lewis County deed sequence; Catholic parish records; local histories |
-| RQ-M5 | Which Kinawley Murray household was Ann "Munday" Copley's family? | 🔴 High | Lewis County Murray deeds; PRONI; Fermanagh parish records; passenger lists |
+| RQ-M5 | What direct record names Ann "Munday" Copley's maiden surname? | 🔴 High | Marriage record; passenger lists; Catholic church records; child death records; PRONI; Fermanagh parish records |
 | RQ-M6 | What was the push factor in Roscommon in the 1830s? | 🟡 Medium | Roscommon Journal; Parliamentary Papers; estate records |
 | RQ-M7 | Were the Mullooly, Hannon, Reynolds families part of the settlement? | 🟢 Lower | Lewis County census; Catholic parish records |
 | RQ-M8 | Does the Iowa parallel (Mary Copely Giblin) reflect a separate organized chain? | 🟢 Lower | Crawford County Iowa records; Iowa Catholic parish records |
@@ -629,7 +629,7 @@ The following can be done immediately with free online resources:
 
 - [[People/Michael Copley Sr.|Michael Copley Sr.]] — primary Copley emigrant; arrived Lewis County 1838–1843
 - [[People/Patrick Copley|Patrick Copley]] — co-emigrant on *Powhatan*; co-purchaser of 1843 Hoffman deed
-- [[People/Ann Copley|Ann Copley]] — wife of Michael Sr.; née Munday (possibly Murray — see RQ-M5)
+- [[People/Ann Copley|Ann Copley]] — wife of Michael Sr.; née Munday in family tradition; Murray hypothesis downgraded (see RQ-M5)
 - [[People/Weeden Hoffman|Weeden Hoffman]] — land seller; possible broker of Irish immigrant settlement and endpoint of the proposed Pickering / Camden / Bailey land-chain path
 - [[People/Gideon D. Camden|Gideon D. Camden]], [[People/Richard P. Camden|Richard P. Camden]], and [[People/Minter Bailey|Minter Bailey]] — Camden, Bailey and Camden land-chain figures in Appendix 2
 - [[People/Mary Ellen Dolan Copley|Mary Ellen Dolan Copley]] — G24 Dolan-Copley marriage cementing two Roscommon immigrant families

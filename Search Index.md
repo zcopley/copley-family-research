@@ -27,7 +27,7 @@ If you do not know the name yet and only know the general family line, start wit
 | Name | Born | Died | Also Known As |
 |------|------|------|---------------|
 | [[People/Michael Copley Sr\|Michael Copley Sr.]] | Sep 29, 1813, Kilgefin, Co. Roscommon, Ireland | Jan 19, 1897, Lewis Co. WV | Michael Copley (immigrant) |
-| [[People/Ann Copley\|Ann Elizabeth Munday Copley]] | 1823, Kinawley, Ireland | Nov 2, 1909 | Ann Munday; likely Ann Murray |
+| [[People/Ann Copley\|Ann Elizabeth Munday Copley]] | 1823, Kinawley, Ireland | Nov 2, 1909 | Ann Munday; Murray hypothesis downgraded |
 | [[People/Patrick Copley\|Patrick Copley]] | c.1810s, Ireland | unknown | — |
 | [[People/William Copley\|William Copley]] | c.1820s, Ireland | unknown | possibly emigrated to Australia |
 | [[People/Mary Copely Giblin\|Mary Copely Giblin]] | 1814, Tully, Kilcorkey, Co. Roscommon, Ireland | Oct 27, 1884, Crawford County, Iowa | likely Michael Copley Sr.'s sister or close relative; Iowa branch |
@@ -194,7 +194,7 @@ If you do not know the name yet and only know the general family line, start wit
 | Place | State/Country | Significance |
 |-------|--------------|--------------|
 | [[Places/Kilgefin Ireland\|Kilgefin, Co. Roscommon]] | Ireland | Birthplace of Michael Copley Sr. |
-| [[Places/Kinawley Ireland\|Kinawley]] | Ireland | Birthplace of Ann Munday / likely Ann Murray |
+| [[Places/Kinawley Ireland\|Kinawley]] | Ireland | Reported birthplace of Ann Munday |
 | [[Places/County Roscommon Ireland\|County Roscommon]] | Ireland | Irish ancestral county |
 | [[Places/Lewis County West Virginia\|Lewis County, WV]] | West Virginia | Core family settlement; Copley farm & oil strike |
 | [[Places/Cove Lick West Virginia\|Cove Lick]] | Lewis County, WV | Copley farm location; Copley Road |
@@ -255,6 +255,7 @@ If you do not know the name yet and only know the general family line, start wit
 | [[References/Claude for Chrome Lewis County Murry Original Image Transcription\|Claude for Chrome Lewis County Murry Original Image Transcription]] | Original-image transcription confirming Patrick Murry's death-register parents as Luke and Margaret Murry and Patrick / Mary Donahoe's marriage officiant as Daniel O. Carter |
 | [[References/Claude for Chrome Lewis County Older Luke Margaret Murry Search\|Claude for Chrome Lewis County Older Luke Margaret Murry Search]] | Negative indexed search for older Luke and Margaret Murry, Patrick's parents; shows no independent FamilySearch / WV Culture / Find A Grave record located and shifts next work to non-indexed county records |
 | [[References/Claude for Chrome Lewis County Older Luke Margaret Round 2 Search\|Claude for Chrome Lewis County Older Luke Margaret Round 2 Search]] | Round 2 older-Luke search showing no Luke or Irish-born Murray in the complete indexed 1850 Lewis County Murray population and no older Luke in indexed tax, probate, marriage, 1870 census, or grave paths |
+| [[References/Tom Copley May 2026 Research Corrections\|Tom Copley May 2026 Research Corrections]] | Tom Copley's corrections downgrading the Ann Munday-to-Murray hypothesis and closing the alleged Calendar of State Papers Arigna/Copley citation as fabricated |
 | [[References/Thomas Copley May 2026 Email Leads\|Thomas Copley May 2026 Email Leads]] | Tom Copley's May 2026 email archive, with browser-readable transcript pages plus direct links to the published `tom-emails.zip` and extracted `.eml` source files |
 | [[References/Copley History Part 1 and Appendix Source Audit\|Copley History Part 1 and Appendix Source Audit]] | Control note showing what the Part 1 history and appendix PDFs already contributed, what place-rich details remain underused, and where future raw-PDF extraction should go next |
 | [[Topics/1900 Copley Oil Strike\|1900 Copley Oil Strike]] | Copley No. 1 well, South Penn Oil, ~4,800 bbl/day, Lewis County |
@@ -274,7 +275,7 @@ If you do not know the name yet and only know the general family line, start wit
 | c.1375–1657 | Proposed English-origin line from Sir Richard Copley through Captain John Copley; documented and assessed in Bredon Descent research |
 | Sep 29, 1813 | Michael Copley Sr. born, Kilgefin, Co. Roscommon, Ireland |
 | 1814 | Mary Copely Giblin born, Tully, Kilcorkey, Co. Roscommon; likely Iowa-branch relative |
-| c.1823 | Ann Elizabeth Munday / likely Murray born, Kinawley, Ireland |
+| c.1823 | Ann Elizabeth Munday born, Kinawley, Ireland |
 | Jun 13, 1837 | Michael & Patrick Copley arrive New York aboard the *Kutusoff* |
 | Jan 5, 1843 | Hoffman–Copley land deed signed; 200 acres in Lewis County WV |
 | Nov 3, 1843 | John Copley born, Lewis County WV |

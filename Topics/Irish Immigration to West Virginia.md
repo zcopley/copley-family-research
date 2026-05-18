@@ -48,7 +48,7 @@ graph LR
 
     KIL -->|Copely emigrants| SHIP
     KIL -.->|parallel diaspora| IOWA
-    KIN -->|Ann likely Murray| DIRECT
+    KIN -->|Ann surname unresolved| DIRECT
     DIRECT -.->|would confirm| MURWV
     SAND -->|estate-mate ties| MARR
     SAND -->|neighbor network| MURWV
@@ -63,7 +63,7 @@ graph LR
     style WV fill:#f4fbf4,stroke:#a5d6a7,color:#102411
 ```
 
-**How to read this:** the strongest current model is not a single straight line from Ireland to a farm. It is a network model: Irish source communities, infrastructure labor, land acquisition, Catholic parish formation, and marriage ties all reinforce one another. The main unresolved bridge is still direct proof of Ann's original surname and Murray household.
+**How to read this:** the strongest current model is not a single straight line from Ireland to a farm. It is a network model: Irish source communities, infrastructure labor, land acquisition, Catholic parish formation, and marriage ties all reinforce one another. The main unresolved bridge is still direct proof of Ann's original surname.
 
 ## Copley Family Connection
 - Core lineage links:
@@ -80,10 +80,10 @@ graph LR
 
 The Copley pathway reflects a common immigrant sequence: Irish origin locality -> Atlantic crossing -> labor frontier -> county-level landholding -> multigenerational rooted community. The best current interpretation adds a second layer: the Copleys likely moved inside a larger Catholic settlement network, not as an isolated household.
 
-Ann's identity is central to this interpretation. She is recorded in the family as Ann Munday, but RQ-M5 now treats her original Irish surname as likely **Murray**, making her a probable member of the family network that gave Murray's Settlement its name.
+Ann's identity is central to this interpretation. She is recorded in the family as Ann Munday. The earlier RQ-M5 Murray hypothesis is now downgraded after Tom Copley's May 2026 correction because no direct record proves she was Murray.
 
 ## Timeline
-- **1813-1837**: Michael Copley Sr. comes from Kilgefin, County Roscommon; Ann Munday / likely Murray comes from Kinawley, County Fermanagh.
+- **1813-1837**: Michael Copley Sr. comes from Kilgefin, County Roscommon; Ann Munday comes from Kinawley, County Fermanagh per family tradition.
 - **1837-1838**: Copley/Copely-linked arrivals appear in U.S. passenger-list evidence.
 - **Late 1830s-1840s**: Irish labor flows into road, turnpike, canal, and rail corridors in Mid-Atlantic/Appalachian zones.
 - **1843**: Copley/Hoffman land agreement marks permanent Lewis County settlement arc for Michael and Patrick.
@@ -126,7 +126,7 @@ The dedicated research page tracks the settlement as a coordinated community-tra
 ## Research Gaps
 - Full reconstruction of companion/cluster migration groups with the Copleys — see [[Topics/Murray Settlement|Murray Settlement]] for active investigation.
 - Identity and arrival date of the Murray family or families.
-- Which Kinawley Murray household was Ann's family.
+- Direct proof of Ann's maiden surname.
 - Definitive route and arrival documentation for all Copley siblings.
 - Better evidence for Catholic parish/community institutional ties in early settlement years.
 - Direct marriage, passenger, church, or death-record evidence naming Ann's maiden surname.

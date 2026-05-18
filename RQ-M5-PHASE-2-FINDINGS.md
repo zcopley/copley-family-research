@@ -135,7 +135,7 @@ Searched FamilySearch U.S. Census collections for Lewis County, Virginia / West 
 
 **Wider Virginia / West Virginia result:** 0 Munday results in the searched FamilySearch records.
 
-**Implication:** No independent Munday family appears in the settlement area where Ann would be expected to have relatives if Munday were her original surname. This strongly supports the view that "Munday" entered the American family record as a phonetic or clerical rendering of "Murray."
+**Implication:** No independent Munday family appears in the settlement area where Ann might be expected to have relatives if Munday were her original surname. This supports testing the Murray hypothesis, but it does not prove that "Munday" was a phonetic or clerical rendering of "Murray."
 
 ---
 
@@ -148,20 +148,21 @@ Searched FamilySearch U.S. Census collections for Lewis County, Virginia / West 
 | Parish records for Ann's baptism (c. 1823) | ❌ Unavailable | Cannot verify Munday via church records |
 | Tithe Applotment Books (1823-1837) | ⏳ Closed inconclusive | Kinawley absent from NAI and Ancestry indexes; Munday real Irish surname |
 | FamilySearch census, Lewis County WV (1840-1860) | ❌ 0 Munday households | No independent Munday family found near the Copleys in America |
+| Tom Copley May 2026 correction | ⚠️ Downgrades Murray hypothesis | Tom now thinks the Munday-to-Murray link is probably a false lead; no direct proof names Ann as Murray |
 
-**RQ-M5 status: RESOLVED - hypothesis confirmed by converging indirect evidence.**
+**Updated RQ-M5 status: REOPENED / DOWNGRADED.**
 
-Across Irish land records and U.S. census searches, "Munday" has no demonstrated presence in Ann's reported Irish origin parish, County Fermanagh, or the Lewis County WV settlement environment. "Murray" is well established in Kinawley, and the American settlement was historically known as Murray's Settlement. The most likely interpretation is that Ann "Munday" was Ann Murray, with "Munday" entering the American family record through phonetic transcription, clerical error, or oral-family transmission.
+Across Irish land records and U.S. census searches, "Munday" has no demonstrated presence in Ann's reported Irish origin parish, County Fermanagh, or the Lewis County WV settlement environment. "Murray" is well established in Kinawley, and the American settlement was historically known as Murray's Settlement. These are real indirect clues, but they are not a direct identity record.
 
-This is not the same as having a direct baptism, marriage, or passenger record naming Ann Murray. Those direct-record searches remain open, but the surname-identification question is now resolved for working genealogical purposes.
+Tom Copley's May 2026 correction changes the handling: the Munday-to-Murray link should be treated as probably a false lead unless a direct record appears. The recorded family surname **Munday** is now preferred for working genealogy, while Murray remains a search variant / hypothesis only.
 
 ---
 
 ## Next Actions
 
-1. **Identify Ann's likely Murray father** using the 14 Griffith's Valuation Kinawley Murray occupiers as leads. Candidate male heads include Patrick, Peter, Edward, James, Michael, and John Murray.
+1. **Find a direct surname record** for Ann: marriage, passenger list, church register, child death record, Bible entry, probate file, cemetery record, or obituary.
 
-2. **Transcribe Lewis County WV Murray deed records** for John Murray, 1826 (page 39, DGS 008293301, image ~17) and John Murray, 1833 (image ~24). These may name family members, neighbors, witnesses, or property locations that connect Murray and Copley.
+2. **Search Munday / Monday / Mundy first**, while retaining Murray / Murry as a downgraded search variant. A Murray result should not be treated as Ann evidence without a direct link.
 
 3. **Search direct identity records**: Kinawley / Clogher Catholic registers if available, PRONI holdings, *Powhatan* and *Kutusoff* passenger lists, and early Catholic marriage records for Michael Copley + Ann.
 
@@ -180,12 +181,12 @@ This is not the same as having a direct baptism, marriage, or passenger record n
 
 ## Assessment
 
-**Confidence Level: HIGH - resolved for working genealogy; direct record still desired**
+**Confidence Level: LOW for Murray as Ann's surname; direct record required**
 
-The combined evidence is now strong enough to treat the Munday/Murray hypothesis as confirmed for working research:
+The earlier combined evidence supported testing the Munday/Murray hypothesis:
 - No Munday in Kinawley or all Fermanagh in Griffith's Valuation
 - 14 Murray occupiers in Kinawley in Griffith's Valuation
 - No Munday households in Lewis County WV in 1840-1860 FamilySearch census searches
 - No Kinawley tithe index result available to contradict this conclusion
 
-The remaining work shifts from "Was Ann Munday actually Ann Murray?" to "Which Murray family was Ann's family?"
+But because no direct record names Ann as Murray, and because Tom now regards the link as probably false, the safer conclusion is: **Ann remains Ann Munday in working genealogy until a direct source proves otherwise.**
