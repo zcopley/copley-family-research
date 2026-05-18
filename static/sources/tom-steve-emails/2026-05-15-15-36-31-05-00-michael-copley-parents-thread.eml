@@ -1,0 +1,151 @@
+Return-Path: <tom.copley@gmail.com>
+X-Original-To: zcopley@protonmail.com
+Delivered-To: zcopley@protonmail.com
+Authentication-Results: mail.protonmail.ch; dkim=pass (Good 2048 bit
+    rsa-sha256 signature) header.d=gmail.com header.a=rsa-sha256
+Authentication-Results: mail.protonmail.ch; dmarc=pass (p=none dis=none)
+ header.from=gmail.com
+Authentication-Results: mail.protonmail.ch; spf=pass smtp.mailfrom=gmail.com
+Authentication-Results: mail.protonmail.ch; arc=pass smtp.remote-ip=209.85.215.170
+ arc.chain=:google.com
+Authentication-Results: mail.protonmail.ch; dkim=pass (2048-bit key) header.d=gmail.com
+ header.i=@gmail.com header.b="eRrpwLy7"
+Received: from mail-pg1-f170.google.com (mail-pg1-f170.google.com [209.85.215.170])
+ (using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+  key-exchange X25519 server-signature RSA-PSS (4096 bits) server-digest SHA256) (No
+ client certificate requested) by mailin050.protonmail.ch (Postfix) with ESMTPS id
+ 4gHJrb3xwTz3h for <zcopley@protonmail.com>; Fri, 15 May 2026 20:36:31 +0000 (UTC)
+Received: by mail-pg1-f170.google.com with SMTP id 41be03b00d2f7-c80148ae949so91042a12.2
+        for <zcopley@protonmail.com>; Fri, 15 May 2026 13:36:31 -0700 (PDT)
+Arc-Seal: i=1; a=rsa-sha256; t=1778877390; cv=none;
+        d=google.com; s=arc-20240605;
+        b=Uukf7PNLq2PKgas+zSsr9MizgKZMVeqg8KwtIMlRbLWhJBvDut9k0sdSTfmrLptSEs
+         +oZtPJx+qwYfOHzPUYgBCyCrP01oSqBvfGvrL92D/rkmLuYZzS8F/tuf463844vOFUd7
+         /qOJRzVc0VeixFaFLvicjoYR/IfFtFxK11P4fGmfESre1D3EaDJ85gWZZB6ABeAQ1ETo
+         HDC66RCIkwnpP1dVUwi9LU3deNhOT9vBsZlR1KaiYnJP96tCzERHLbqNu0KFWzqRdGgy
+         flOVGO9qaFAc9p4aSQHWQ/oLcdsiyqkz3ZwfVIVCs7dM4W4p1oAWG7H8Y8ZChkk52Q40
+         jLmQ==
+Arc-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20240605;
+        h=to:subject:message-id:date:from:in-reply-to:references:mime-version
+         :dkim-signature;
+        bh=RyzbqZJPXeUY+J3tm2SnKOw/SHbfihjsVG1cMbx9LCo=;
+        fh=awaD+n2xXe0AcAXAQqJwQNEYP7KcOt+i8q5A+GEO6v0=;
+        b=gcO/PqSfI3Gg2JcTs86s70Wt7GvfdBOY9c4xnYqBQo9mGlSU20ut9E6VfXyu5+U+kQ
+         btDT6jQNYiPdgep4qIz8kaVjSuNpW7pHza7nPFvGcvKXwCO8xynYS0M7Dg3/OLgQw6PJ
+         J5RC3FrlcTf6Q5gGHcbDE9bj0HRwYF+DHZ4yAqURR8+IlQ9SnY7Tp4x9deKr3wCJb67t
+         gJW1nl/QwvGE3HGk/ZqMkVA01qVUkCOwbIpoEcnrWu3MsPCfJFsfGo6u0LN/6TOZYHR2
+         gS2XcANOpoWbPd07PkwK6kOYFJjg9rp9DMB/pOmPw0aZ6VpNhhwKAXbTSLLAxGFKzo/y
+         fDPQ==;
+        darn=protonmail.com
+Arc-Authentication-Results: i=1; mx.google.com; arc=none
+Dkim-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20251104; t=1778877390; x=1779482190; darn=protonmail.com;
+        h=to:subject:message-id:date:from:in-reply-to:references:mime-version
+         :from:to:cc:subject:date:message-id:reply-to;
+        bh=RyzbqZJPXeUY+J3tm2SnKOw/SHbfihjsVG1cMbx9LCo=;
+        b=eRrpwLy7J3CEzEfHSur4mPa8nQnKq/KRXkPY5qzEqwazSFPDanup1G8usxImPYACnG
+         Gn6lnrR350CQawmGnqZFnf4yGdeuXOMpq2RRa81pdUvXYfJf96W6eEGZ9yOqgSMUbQSI
+         Nxx8mvjOyWFk+aRZNjcpEfJuFSpRmKr2OcWUvQdVn/Ty7iWI+UN/FYF42Wdr3gLCgdU/
+         UZklentENehUysUrlLCk+QhoSyduIJljD/nWK/rxD/hl3h4apK02u6sWaQOF3Hhr20wv
+         6fZ+SCPzGAme+W/1kwrdUdie8WhAMbKdxWRQ6Vv1btmTCmn0Ln4OKGXoT294tj9LyDAU
+         45DA==
+X-Google-Dkim-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20251104; t=1778877390; x=1779482190;
+        h=to:subject:message-id:date:from:in-reply-to:references:mime-version
+         :x-gm-gg:x-gm-message-state:from:to:cc:subject:date:message-id
+         :reply-to;
+        bh=RyzbqZJPXeUY+J3tm2SnKOw/SHbfihjsVG1cMbx9LCo=;
+        b=LgYy5PimRngYztP4+Qr6b0rhOZUkHYYyzWfMB0fx73q7oiH57QXTsd8KYYl9Uc6pna
+         5tYINg2UXrDt67+asRj47gOfGTPLIN5jnT0SkiS4jQsTrr0BfRBzMwHH+gKxIh0LCU7E
+         Wh++ZM10/3vln6W9akEdPbHlXOdpOvkiDkvs+nPveCJYo1w9c0Fjca54av1XLT7X41Mk
+         OW6CSrk1GgOhFxGvmnIskByl5ZtbUxZ2Bh3AbcsX0e1IlnQc9vEKlvvFHR09vwbMHOwj
+         d6jIIxu7V7kFFHZe7og4gHBXKgA8CkoXGHP3lB6G2yDKmzf1g9IIMWA9ieyC8Rx4tDLq
+         2Bzg==
+X-Gm-Message-State: AOJu0Yw8SVdOx69p7lK4VQOkYzGuecpgIU9jcDKDhb4XcmF3//o4tCvL
+ dgDvdzO4mapF4iTTEW4EaQTFHMOytl48R9JaQR063qrjvoiHAXiD1NtB1zrJ5IsEXok5JIiaM0Q
+ YyTHRuOc6rbBL0kLuW58puB7c6KqH38nnhg==
+X-Gm-Gg: Acq92OHdIg0Mxy75HCdBnXfyJNk+fG2+ITSzognQqc4NuDBZhxQ0JFj7qIpBvZb83Pn
+ OloP8F7ig45RHsQ3bW3lpHJvN0RqQg32MFxS/aaZcYhCU63q1qtvZ0ZuMk7c6wHbGplJtCkweMY
+ ux7pAbUts4is1SsaHVZqOjOSvMccoDofciQGpNX9IrZ6HCx1RE7iMIQB+Z4HtyDGbaq/qAdxkGj
+ nbOsuCRgUSix0bAeVIj/TBlI9QVizMPx4nBmtmh9nCfkLwBRXbYP4h8P/MH/yrKeCZW6oLzf7Hj ZPTL7kVe
+X-Received: by 2002:a05:6a20:a120:b0:3a1:1120:796e with SMTP id
+ adf61e73a8af0-3b22ed5e1admr6000516637.41.1778877389811; Fri, 15 May 2026 13:36:29 -0700
+ (PDT)
+Mime-Version: 1.0
+References: <CAERmenV6SqnKWTGvn784e3HJe0tQ2ahgx6jO_jvo=O6JEizJ-w@mail.gmail.com>
+ <89E052F5-FE89-419B-9687-B8B8E1E6A934@comcast.net>
+In-Reply-To: <89E052F5-FE89-419B-9687-B8B8E1E6A934@comcast.net>
+From: Tom Copley <tom.copley@gmail.com>
+Date: Fri, 15 May 2026 13:36:17 -0700
+X-Gm-Features: AVHnY4JkaNy7S-rMow2jUwcHDT_7OjzVzk-AcWmJk-v39p9H74-0hdRT9ho6OHo
+Message-Id: <CAERmenU6TL6ay5pyny0w5zAPWOq2MChzz4d514qEnLytWbn_-g@mail.gmail.com>
+Subject: =?utf-8?Q?Fwd:_Michael_Copley=E2=80=99s_(b._1813)_parents?=
+To: Zach Copley <zcopley@protonmail.com>
+Content-Type: multipart/mixed;boundary=---------------------9164ef0fb7eb9cfbdbd855aeaeef8e41
+X-Pm-Spam: 0yezJI6YSpyJec91ztFGcjIwoJyLCvXBZcQniisnOERJt9TTVOUdSRQUiwslOjLdFJEL
+ CN0lSXZ1BElETjIbpAuLTsV0MIRkLf1USkVMFRfSUiVUQOsltx4CMSXiwtJREWV9TQxUJF9FRiR6I0
+ wWydjFLLJCGFVkUUTJF9GTFNk9UIpjbiwCMGdt9NvLmlGxcetVhn1FdWbpF5jbCi20bXwSiNRFSFTN
+ 9NTRVFUdQIpjbs0FMkIT1lER0S0ZXT10fBRVT0XFhRFQU6iIUWBzdSJCL1QEZlOX0T01XUlELI9VRy
+ M6IAsWzwjIIO4S4y4SNTMuUcwMTpGxIcR3lpBCZib3B5tbCsWlYcB3puU2amb0V0sIlDlJIVRkff5U
+ SVTQNtFSUM1dXIpjbs0FMlIQN9IRlPUxRX50PiUkTlOwswiXSG1BUXB1BiM1UlOts19MFzCJLY92y6
+ ISZCMiwNvc2kmVcIojty4CMSfiwIic3insOYNW0u9WajIio5iaWi3gbLJCtz9Fb2Yy9I6ZSQyJeU9k
+ EtojIjMsUBSIlf0RTUJFFDlEREVPlI6TiiCwMUMli00iOjLykJTLC6SIQLATuiwiM2XlRVnYnu2lXZ
+ 8miisnOFUPJI6RCpyJebFWnu9VZWYl1oiIj0HNaYNWrpZ2XmbfVVudHfWRZcVHfyAjMjNzAMiMDtCJ
+ LYlWswNzXlct9Rlb26CIbI1mhzwWaHctIIwLTwjYMMAT20BnLiIiwFpbWzF8bcJHfvJHciY6I4wMCy
+ DAMOIT55kTOTOwAE2NTyTIMNwiipFWbHblRRfeHiW1ZZRWkn5Wa2Xv1VsZGijoIa5W0vxmZXYvQVsb
+ XsGlda5WnsFWdWL1UNtLXsWxYIwiiz9FcGctFowIjwjALMMj5zczMDOzgMyMj0DcNMMzsfBnI3chB9
+ ibVlXNYIojwwAjLjM5MczMzzDgOMMjy0cDNzMsMBfInp3dcdNGovR3X3XoBNoaXnW5aIojwwAjLDM5
+ YU4Mj1TINMMD21cjMzMskJ1Inul9bY1WliojI2d0FhsY20XNaLNXllRmbicw19zdV02ldYg2i91XfC
+ LzJlkcmijoINEmwzgzNDZyIlmMj4GQOYEz4lFTZ2N5Y19In
+X-Pm-Origin: external
+X-Pm-Transfer-Encryption: TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+X-Pm-Content-Encryption: on-delivery
+X-Pm-Spamscore: 0
+X-Pm-Spam-Action: inbox
+
+-----------------------9164ef0fb7eb9cfbdbd855aeaeef8e41
+Content-Type: multipart/related;boundary=---------------------d8c5b554e50934d65df963a29073148d
+
+-----------------------d8c5b554e50934d65df963a29073148d
+Content-Type: text/html;charset=utf-8
+Content-Transfer-Encoding: base64
+
+PGRpdj48YnI+PC9kaXY+PGRpdj48YnIgY2xlYXI9ImFsbCI+PGJyIGNsZWFyPSJhbGwiPjxkaXY+
+PGRpdiBkaXI9Imx0ciIgY2xhc3M9ImdtYWlsX3NpZ25hdHVyZSIgZGF0YS1zbWFydG1haWw9Imdt
+YWlsX3NpZ25hdHVyZSI+X19fX19fX19fX19fX19fX19fX188YnI+PGEgaHJlZj0ibWFpbHRvOnRv
+bS5jb3BsZXlAZ21haWwuY29tIiB0YXJnZXQ9Il9ibGFuayI+dG9tLmNvcGxleUBnbWFpbC5jb208
+L2E+PC9kaXY+PC9kaXY+PC9kaXY+PGRpdj48YnI+PGRpdiBjbGFzcz0iZ21haWxfcXVvdGUgZ21h
+aWxfcXVvdGVfY29udGFpbmVyIj48ZGl2IGRpcj0ibHRyIiBjbGFzcz0iZ21haWxfYXR0ciI+LS0t
+LS0tLS0tLSBGb3J3YXJkZWQgbWVzc2FnZSAtLS0tLS0tLS08YnI+RnJvbTogPHN0cm9uZyBjbGFz
+cz0iZ21haWxfc2VuZGVybmFtZSIgZGlyPSJhdXRvIj5TdGVwaGVuIENvcGxleTwvc3Ryb25nPiA8
+c3BhbiBkaXI9ImF1dG8iPiZsdDs8YSBocmVmPSJtYWlsdG86c3RlcGhlbl9jb3BsZXlAY29tY2Fz
+dC5uZXQiPnN0ZXBoZW5fY29wbGV5QGNvbWNhc3QubmV0PC9hPiZndDs8L3NwYW4+PGJyPkRhdGU6
+IEZyaSwgTWF5IDE1LCAyMDI2IGF0IDEyOjAw4oCvUE08YnI+U3ViamVjdDogUmU6IE1pY2hhZWwg
+Q29wbGV54oCZcyAoYi4gMTgxMykgcGFyZW50czxicj5UbzogVG9tIENvcGxleSAmbHQ7PGEgaHJl
+Zj0ibWFpbHRvOnRvbS5jb3BsZXlAZ21haWwuY29tIj50b20uY29wbGV5QGdtYWlsLmNvbTwvYT4m
+Z3Q7PGJyPjwvZGl2Pjxicj48YnI+PGRpdiBkaXI9ImF1dG8iPkhpIFRvbSw8ZGl2PkkgYW0gZG91
+YnRmdWwgYWxzby4gTWljaGFlbCBhbmQgQW5uIGhhZCBzaXggY2hpbGRyZW4sIHR3byBzb25zIGFu
+ZCBmb3VyIGRhdWdodGVycy4gVHdvIG9mIHRoZSBkYXVnaHRlcnMgd2VyZSBuYW1lZCBCcmlkZ2V0
+LCBiLiAxODUxLCBhbmQgU2FyYWgsIGIuIDE4NTkuIFRoaXMgbWF5IGJlIHdoZXJlIHRoZSBtaXN0
+YWtlIGNhbWUgZnJvbS4gSXQgaXMgdmVyeSBkaWZmaWN1bHQgcmVhZGluZyBNaWNoYWVs4oCZcyB3
+aWxsIHdoaWNoIGlzIG9uIG1pY3JvZmlsbSwgdmVyeSBibHVycnkuIEkgZG91YnQgdGhhdCBpdCBt
+ZW50aW9ucyBoaXMgcGFyZW50cy48L2Rpdj48ZGl2PlN0ZXZlPGJyIGlkPSJtXy03Njc1NTc0ODI1
+NjgzOTY2MTIwbGluZUJyZWFrQXRCZWdpbm5pbmdPZlNpZ25hdHVyZSI+PGRpdiBkaXI9Imx0ciI+
+U2VudCBmcm9tIG15IGlQYWQ8L2Rpdj48ZGl2IGRpcj0ibHRyIj48YnI+PGJsb2NrcXVvdGUgdHlw
+ZT0iY2l0ZSI+T24gTWF5IDE0LCAyMDI2LCBhdCA3OjEx4oCvUE0sIFRvbSBDb3BsZXkgJmx0Ozxh
+IGhyZWY9Im1haWx0bzp0b20uY29wbGV5QGdtYWlsLmNvbSIgdGFyZ2V0PSJfYmxhbmsiPnRvbS5j
+b3BsZXlAZ21haWwuY29tPC9hPiZndDsgd3JvdGU6PGJyPjxicj48L2Jsb2NrcXVvdGU+PC9kaXY+
+PGJsb2NrcXVvdGUgdHlwZT0iY2l0ZSI+PGRpdiBkaXI9Imx0ciI+77u/PGRpdj48ZGl2IGRpcj0i
+YXV0byI+QWNjb3JkaW5nIHRvIHRoZSBVLlMuIERlYXRoIGluZGV4LCBNaWNoYWVs4oCZcyBwYXJl
+bnRzIHdlcmUgSm9obiBhbmQgU2FyYWggQ29wbGV5LiBVbmZvcnR1bmF0ZWx5LCBpdCBoYXMgdGhl
+IG5hbWUgb2YgaGlzIHNwb3VzZSB3cm9uZywgc28gSeKAmW0gYSBsaXR0bGUgZG91YnRmdWwgYWJv
+dXQgdGhlIHZhbGlkaXR5IG9mIHRoaXMgcmVjb3JkLiBTZWUgYmVsb3cuIEkgZm91bmQgaXQgb24g
+QW5jZXN0cnkuY29tPGRpdj48ZGl2PiZsdDtJTUdfMDIxMi5wbmcmZ3Q7PC9kaXY+PC9kaXY+PC9k
+aXY+PGRpdiBkaXI9ImF1dG8iPjxicj48L2Rpdj48ZGl2IGRpcj0iYXV0byI+PGJyIGNsZWFyPSJh
+bGwiPjxiciBjbGVhcj0iYWxsIj48ZGl2IGRpcj0iYXV0byI+PGRpdiBkaXI9Imx0ciIgY2xhc3M9
+ImdtYWlsX3NpZ25hdHVyZSIgZGF0YS1zbWFydG1haWw9ImdtYWlsX3NpZ25hdHVyZSI+X19fX19f
+X19fX19fX19fX19fX188YnI+PGEgaHJlZj0ibWFpbHRvOnRvbS5jb3BsZXlAZ21haWwuY29tIiB0
+YXJnZXQ9Il9ibGFuayI+dG9tLmNvcGxleUBnbWFpbC5jb208L2E+PC9kaXY+PC9kaXY+PC9kaXY+
+CjwvZGl2Pgo8L2Rpdj48L2Jsb2NrcXVvdGU+PC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+Cg==
+-----------------------d8c5b554e50934d65df963a29073148d--
+-----------------------9164ef0fb7eb9cfbdbd855aeaeef8e41--
