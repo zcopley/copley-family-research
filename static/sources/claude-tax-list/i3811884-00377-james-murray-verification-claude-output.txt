@@ -1,0 +1,122 @@
+Research Report: James Murray - Virginia Personal Property Tax, Lewis County
+
+Images checked:
+
+- i3811884-00377, Ancestry image 378 of 646, page 15 of district list, contains Murray James.
+- i3811884-00378, Ancestry image 379 of 646, adjacent commissioner's summary / proof page.
+
+James Murray row transcription:
+
+Confirmed: page 15, line 24 reads Murray James, surname first. A period / dot appears after the name.
+
+Collection: Virginia, U.S., Personal Property Tax Records, 1782-1900 - Lewis County.
+URL: https://www.ancestry.com/imageviewer/collections/62774/images/i3811884-00377?usePUB=true&pId=394416
+
+Tax columns:
+
+- One tithable mark appears in the tithables section.
+- Main property columns appear blank: no horses, no livestock, no luxury goods.
+- Far-right total columns show 5 and 8 as two separate column figures.
+- Summary: 1 white male tithable; no horses; no livestock; no luxury goods. Minimal taxpayer, consistent with laborer or young man with no real property.
+
+Year:
+
+Not directly legible on image 00377. The year header is on adjacent summary page 00378.
+
+District / commissioner:
+
+Page 15 header reads "List of Taxable Persons, Property, &c. within the District of"; district-name field appears blank, as often happens on interior pages.
+
+District / year evidence from image i3811884-00378:
+
+The header reads "A Commissioner of the Revenue in the [faint / washed-out text] for the year 185".
+
+- The year shows "185" with final digit cut off at the right margin, same problem as image i3811884-00379 for Patrick Murry.
+- The faint text between "in the" and "for the year" appears to contain approximately three or four words, possibly a name plus district designation, but is too degraded to read reliably.
+- Fragments might look like "4th" followed by something, but this is not confirmable.
+- No commissioner name is legible from the available scan quality.
+
+Proof section totals on image i3811884-00378:
+
+- White males, 40 cents each: count 51; tax $19.40.
+- Slaves, 60 cents each: count 2; tax $1.20.
+- Horses, mules, asses, and jennets: count 41; value $2,060; tax about $4.12.
+- Cattle, sheep, and hogs: count 6 (possibly x11); value $5,039; tax about $6.17.
+- Pleasure carriages / stage coaches: count 1; value $105; tax $0.13.
+- Watches: count 4; value $170; tax $0.34.
+- Clocks: count 10; value $54; tax about $0.64.
+- Pianos and harps: count 1; value $500; tax $0.61.
+- Plate and jewelry: value $95; tax $0.19.
+- Household and kitchen furniture: value $2,009; tax about $5.21.
+- Moneys, bonds, securities, and claims: value $865; tax about $1.71.
+- Capital in mining / manufacturing: value $20; tax $0.04.
+- Other personal property: value $196; tax about $0.38.
+- Fees of office: tax about $1.50.
+- Grand total: value about $3,780; tax about $19.40.
+
+Nearby names on page 15, image i3811884-00377:
+
+1. Lyger / Singer Joseph
+2. Lyger / Singer Philip
+3. Lyger / Singer John S.
+4. Lyger / Singer Nicholas G.
+5. Lyger / Singer Nicholas
+6. Lyger / Singer John H.
+7. Lohan / Johan Peter
+8. Lohan / Johan Michael
+9. Lohan / Johan John
+10. Lambert Richard
+11. Lowthen / Lowther Harrison
+12. Lowden / Lowdon George
+13. Long [?] [?]
+14. County / Lorenty John, 2 tithables
+15. Lockridge Elesha F.
+16. Mcandlish R.I. / R.S.
+17. Moneypeny James
+18. More / Moore John I. / T.
+19. Marsh John S.
+20. Rabe / Mabe Thomas V.
+21. Murnow / Murneis Hudson
+22. Moneypeny, Ann
+23. Moneypeny Thomas
+24. Murray James
+25. Mary / Mzz Martin, possibly Miss Martin
+26. Moneypeny, John, 1 tithable
+27. Moneypeny, Edward
+28. Mabely / Nabely James
+29. Murphey / Murphy, L...
+30. Anemer / Miner / Murner David
+31. Moneypeny / Moneypong, G...
+
+Irish-associated surnames on the page:
+
+- Murray, line 24.
+- Murphy / Murphey, line 29.
+- McAndlish, line 16.
+- Possibly Moore, line 18.
+
+The Moneypeny cluster is dominant on this page. The Lohan / Johan cluster may be German-origin.
+
+Sequence comparison:
+
+- James Murray: i3811884-00377, image 378 of 646, page 15, line 24.
+- Patrick Murry: i3811884-00379, image 380 of 646, page 16, line 14.
+- Separating image: i3811884-00378, commissioner's summary / proof page.
+
+Conclusion:
+
+James Murray and Patrick Murry are unambiguously in the same district list sequence. Image 00377 (page 15) -> image 00378 (summary / proof page) -> image 00379 (page 16) is a continuous run. The summary page falls between their pages in the standard format. Both entries are under the same commissioner, same district, and almost certainly the same year, with final year digit cut off on the summary image.
+
+Year:
+
+- Summary page i3811884-00378 shows "for the year 185", with final digit cut off.
+- Patrick Murry's record on i3811884-00379 is assigned probable 1854 based on the same cutoff and sequence.
+- James Murray, being on the immediately preceding page of the same commissioner list, is from the same probable 1854 year.
+- No visible final digit can be confirmed from the available scan.
+
+Best next image:
+
+i3811884-00376, sequence 377 of 646, immediately before page 15. This may be either:
+
+1. The cover page or header sheet for this commissioner's district, possibly containing commissioner name, district number, and full year; or
+2. The end of the previous district's list, which could still help confirm year and district sequence.
