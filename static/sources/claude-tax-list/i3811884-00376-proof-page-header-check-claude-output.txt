@@ -1,0 +1,87 @@
+i3811884-00376 Research Report
+
+Page type:
+
+Proof / summary page. This is the standard Virginia personal-property-tax proof sheet that accompanies a block of taxable-persons pages. It contains no individual names, only numeric column totals by row and the formal PROOF table on the right half. It is the summary page immediately before James Murray's page, i3811884-00377.
+
+Image / URL:
+
+- Image ID: i3811884-00376
+- URL: https://www.ancestry.com/imageviewer/collections/62774/images/i3811884-00376
+- Ancestry viewer position: page 377 of 646. The viewer counts from 1, so image suffix -00376 maps to display position 377.
+- pId: 394415. James Murray's page i3811884-00377 is pId=394416.
+- Ancestry metadata: "No record has been selected or there is no record in this collection." This page is not individually indexed.
+
+Full year:
+
+The header reads "for the year 185"; the last digit is cut off or runs off the right edge of the scan, identical to the situation on i3811884-00378. The year is definitely in the 1850s, but the final digit is not readable on this image.
+
+District / commissioner:
+
+Blank or not legible. Header reads:
+
+A Commissioner of the Revenue in the [blank]     for the year 185[?]
+
+The space between "in the" and "for the year" appears blank, or the ink has faded completely. No district number or commissioner name is visible on this image.
+
+Header transcription:
+
+A Commissioner of the Revenue in the [blank]     for the year 185[?]
+
+Column headers are the standard Virginia personal-property-tax multi-column format, partly rotated and partly legible: number of white males, horses / mules, cattle / sheep, value columns, tax columns, and remarks.
+
+PROOF table, right side, key figures:
+
+- White males, at 40 cents: 25; tax 1000.
+- Male free negroes, at 100 cents: none.
+- Slaves, at 60 cents: none.
+- Horses, mules, asses, and jennets: 25; value 1152; tax 23.40.
+- Cattle, sheep, and hogs: 25A; value about 1432-1692; tax about 2.48-2.78.
+- Pleasure carriages, stage coaches, etc.: none.
+- Watches: 5; value 174(?); tax 84.20(?).
+- Clocks: 8; 54 / 6.80.
+- Pianos and harps: none.
+- Plate and jewelry: 21; 4.00.
+- Household and kitchen furniture: about 1174; about 234.80.
+- Moneys, bonds, securities, and claims: 725; tax 1.45.
+- Capital invested in mining / manufacturing: 1550; tax 3.10.
+- Other articles of general property: 254; tax 46.80.
+- Amount of income: 37.50.
+- Totals, values and tax thereon: 6355 / 13106(0); tax 1511.00.
+- Grand total tax: about 2348.7x.
+
+Left-side data:
+
+Approximately 30 rows of per-person numeric data, aggregated from the taxable-persons pages. Row numbers visible: 1-30+. No taxpayer names appear on this page.
+
+Page-sequence relationship to i3811884-00377:
+
+This proof page is the concluding summary for the block immediately preceding James Murray's page. The standard Virginia personal-property-tax structure is:
+
+1. Several taxable-persons pages, with names listed alphabetically or by entry.
+2. A proof page summarizing their totals.
+3. Next block: more taxable-persons pages beginning with the next set of names.
+
+i3811884-00376 is the proof page for whatever block ends just before James Murray's section begins on i3811884-00377, page 15, line 24.
+
+Does it clarify the year / district?
+
+Partially. It confirms:
+
+- The same "185_" year format as i3811884-00378. All three pages, -00376, -00377, and -00378, share the same truncated-year context, strongly suggesting they are all from the same year's list.
+- The district-name field is blank or faded on this proof page too, which may mean the forms were pre-printed and this commissioner left the field blank, or that the district appeared on a cover page earlier in the sequence.
+
+It does not resolve:
+
+- The missing final digit of the year.
+- The district or commissioner name.
+
+Best next images:
+
+1. i3811884-00375, the image immediately before this proof page. This is most likely either the last taxable-persons page of the block whose proof is on -00376, or a cover / title page for the entire district list. If it is a cover page, it may show the full year and district.
+2. i3811884-00374 or earlier if -00375 is another proof or persons page. Keep stepping back until a cover sheet appears.
+3. i3811884-00379 onward is already covered for Patrick Murry.
+
+Recommended next task:
+
+Check i3811884-00375, the single image before this proof page, to determine whether it is a cover / header page or the last taxable-persons page of the prior block.

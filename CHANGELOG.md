@@ -10,6 +10,16 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4BW - Tax Proof Page Header Check Integrated (May 22, 2026)
+
+**MURRY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome check of Ancestry image `i3811884-00376`. The image is another proof / summary page, not a cover page or taxable-persons page. It repeats the unresolved `for the year 185_` problem and has no legible district or commissioner, so it does not settle the probable-1854 year caveat for the James Murray / Patrick Murry sequence.
+
+### Updated Pages
+
+- [[References/Claude for Chrome Lewis County Personal Property Tax Check|Claude for Chrome Lewis County Personal Property Tax Check]] - added the `00376` proof-page result, raw source link, and revised next image target.
+- [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]] and [[Tier 1 Research Execution Kit|Tier 1 Research Execution Kit]] - shifted the next Claude for Chrome task to `i3811884-00375`, looking for a cover/header page or prior taxable-persons page.
+- [[Sources and Evidence Index|Sources and Evidence Index]], [[Research Priorities and Action Items|Research Priorities and Action Items]], [[Topics/Murray Settlement|Murray Settlement]], [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]], [[Search Index|Search Index]], and `.agents/AGENT_RESUME.md` - updated the active Murray workflow so `00376` is treated as useful but unresolved and `00375` is the next bite-size target.
+
 ## Phase 4BV - James Murray Tax Row Image Verification Integrated (May 22, 2026)
 
 **MURRY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome verification report for Ancestry images `i3811884-00377` and `i3811884-00378`. The follow-up confirms page 15, line 24 reads **Murray James**, with one white male tithable and no listed horses, livestock, or luxury goods. The proof page between James and Patrick still reads only `185_`, with the final digit cut off, but the sequence now shows James and Patrick are in the same district list.
