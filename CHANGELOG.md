@@ -10,6 +10,26 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4BU - Patrick Murry Tax Row Image Verification Integrated (May 22, 2026)
+
+**MURRY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome verification report for Ancestry image `i3811884-00379`. The follow-up confirms the row itself: page 16, line 14 reads **Murry Patrick**, with one white male tithable age 21+ and one horse valued at $50. The exact final year digit is cut off on the related proof page, so the row is handled as **probable 1854** based on sequence and prior context rather than as an internally visible 1854 date.
+
+### Updated Pages
+
+- [[References/Claude for Chrome Lewis County Personal Property Tax Check|Claude for Chrome Lewis County Personal Property Tax Check]] - added the Patrick row verification details, raw source link, year caveat, nearby Irish-associated names, and next James Murray target.
+- [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]] and [[Tier 1 Research Execution Kit|Tier 1 Research Execution Kit]] - shifted the next Claude for Chrome task to verifying `Murray James` on `i3811884-00377` and inspecting proof page `i3811884-00378` for district / commissioner / year context.
+- [[Sources and Evidence Index|Sources and Evidence Index]], [[Research Priorities and Action Items|Research Priorities and Action Items]], [[Topics/Murray Settlement|Murray Settlement]], [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]], [[Search Index|Search Index]], and `.agents/AGENT_RESUME.md` - updated the public workflow so Patrick's tax row is treated as image-verified by Claude for Chrome, while James, Eliza Jane, Loghan, and the 1855-1860 gaps remain open.
+
+## Phase 4BT - Lewis County Personal Property Tax Check Integrated (May 21, 2026)
+
+**MURRY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome Lewis County personal-property-tax handoff. The check found the first pre-1860 Lewis County Murry tax evidence so far: **Murry Eliza Jane** in 1853, **Murray James** in 1854, and **Murry Patrick** in 1854. It found no **Luke / Lucas Murray / Murry** in the checked 1817-1855 M-sections, strengthening the post-1850 arrival / first-tax-appearance model and weakening any older-taxable-Luke-in-Lewis-County interpretation. The handoff says 1856 in one place but the year table says 1856 was not reached, so 1856 and 1857-1860 remain open.
+
+### Updated Pages
+
+- [[References/Claude for Chrome Lewis County Personal Property Tax Check|Claude for Chrome Lewis County Personal Property Tax Check]] - new browser-readable source note preserving the scope, positive 1853-1854 rows, negative Luke result, caveats, and raw source link.
+- [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]] and [[References/Claude for Chrome Lewis County Older Luke Margaret Round 2 Search|Claude for Chrome Lewis County Older Luke Margaret Round 2 Search]] - added the tax-list result and shifted the next work to original-image capture and 1855-1860 gap closure.
+- [[Sources and Evidence Index|Sources and Evidence Index]], [[Research Priorities and Action Items|Research Priorities and Action Items]], [[Tier 1 Research Execution Kit|Tier 1 Research Execution Kit]], [[Topics/Murray Settlement|Murray Settlement]], [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]], [[Search Index|Search Index]], and `.agents/AGENT_RESUME.md` - updated the Murray workflow from access-map planning to tax-list proof capture, marriage/bond image capture, and 1852-1860 deed / court / probate / church follow-up.
+
 ## Phase 4BS - Tom / Steve Michael Parentage Thread Integrated (May 18, 2026)
 
 **SOURCE-LEAD UPDATE:** Reviewed `~/Downloads/tom_and_steve_emails_may2026.zip` and integrated the useful material from the May 15-17, 2026 Tom / Steve thread. The thread does not prove Michael Copley Sr.'s parents, but it sharpens the next proof path: capture the underlying death-index source, treat the spouse error as a warning, expect Michael's will not to name parents unless a better image contradicts the family reading, and treat the "Bridget Bible" lead as ambiguous between Reynolds and Gillooly/collateral possibilities.

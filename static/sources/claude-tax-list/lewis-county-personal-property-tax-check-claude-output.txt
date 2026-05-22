@@ -1,0 +1,112 @@
+LEWIS COUNTY PERSONAL PROPERTY TAX CHECK
+
+Collection: Virginia, U.S., Personal Property Tax Records, 1782-1900
+Website: Ancestry.com
+County: County of Lewis
+Years available (this set): 1851-1870 (title target on image 9; browse page labelled 1851-1856 and 1857-1860 in separate links)
+Years actually checked: 1817-1856 across all three image sets (i3800149, i3800150, i3811884)
+Access problems: The image counter note warned of possible skipped counter numbers. Proof/summary pages vastly outnumber name-list pages in the 1852-onward format, making systematic coverage harder. The rightmost column of year headings is cut off on many microfilm frames, though the year was confirmed by zooming. The 1852 Kester district M-section name pages were not found among the name-list images retrieved (may coincide with images occupied by statistical summary sheets).
+
+YEAR-BY-YEAR RESULTS
+
+1817-1850 (from prior session - i3800149 + i3800150):
+
+Year | Image / page | Murray / Murry / Murrey entries | Luke / Lucas? | Patrick? | Notes
+1817 | ~4-11 | None | No | No | Very small district
+1820 | ~47-55 | None | No | No | M section: Martin, Maxwell, Mc-names
+1821 | ~65-72 | None | No | No | Murphy John present (different surname)
+1829 A | ~249-251 | None | No | No | McNemar, Maxwell, McHenney
+1829 B | ~265-266 | None | No | No | Montgomery, Malone, Moss, Murphy George
+1834 | ~393-400 | None | No | No | McBoy, Morrison, Mitchell, Marsh
+~1839 | ~497-517 | None | No | No | Mintor family
+1840 | ~596-610 | None | No | No | Very short list
+1841 A | 8-9 | None | No | No |
+1841 B | 23-24 | None | No | No | "Moury Sarah" - almost certainly Mowry (German/Dutch), not Murray
+1842 A | 43-45 | None | No | No | McDonahue James noted
+1842 B | 62-63 | None | No | No |
+1843 A/B | 80-100 | None | No | No |
+1844 A/B | 115-137 | None | No | No | McCullough Patrick noted
+1845 A/B | 151-166 | None | No | No |
+1846 | 182-193 | None | No | No |
+1847 | 215-230 | None | No | No | Morrison Luke (Morrison = different surname); Murphy James (Murphy != Murray)
+1848 | 248-265 | None | No | No |
+1849 | 297-313 | None | No | No | McCullen Patrick noted
+1850 | 344-352 | None | No | No |
+
+1851-1856 (i3811884, 646 images; image numbers below are Ancestry display numbers):
+
+Year | Image / page | Murray / Murry / Murrey entries | Luke / Lucas? | Patrick? | Notes
+1851 | 20-95 (A: Stuart Bennett + Elijah Flesher; B: summaries) | None | No | No | Both Book A districts' M-sections checked; Book B for Flesher is mostly statistical summaries
+1852 | 97-183 (Jackson + Kester districts) | None confirmed | No | No | Jackson M-section at image 101 checked; Kester M name pages not isolated from summary images
+1853 | 247-264 (John Kee district) | "Murry Eliza Jane" (image 263, line 5) | No | No | First confirmed Murry surname in Lewis County; female, not Luke/Patrick; no Loghan/Donahoe adjacent
+1854 | 302-401 (multiple districts incl. unnamed Commissioner + Kee continuation) | "Murray James" (image 378, pg 15, line 24); "Murry Patrick" (image 380, pg 16, line 14) | No | YES | Also: "Murrers/Murrows Hudson" (image 378, line 21) - uncertain variant. Loghan John + Loghan Owen/Queen found at image 320 (L-section of same year). No Luke/Lucas.
+1855 | ~447-500 (C. Kester + continuation) | None found in sampled name pages | No | Not seen | Checked start of 1855 C. Kester district pages; M-section pages not retrieved for this year
+1856 | Not reached | Not checked | - | - | See 1857-1860 image set (i3811885)
+
+MATCHES
+
+Match A - Partial / Significant
+
+Name as written: Murry Eliza Jane (surname first format)
+Year: 1853
+County: Lewis
+Image number / URL: image 263 of 646; https://www.ancestry.com/imageviewer/collections/62774/images/i3811884-00262?usePUB=true
+Tax-list details: 1 (tithable?); 12, 12 in value columns; "1 5...", total "40." Minimal property holding, consistent with a widow or female head of household.
+Nearby relevant names: District of John Kee, page 14. Nearby M-names include Miller Henry, McCullough Patrick, Maxwell Levi, McDonald James B. No Loghan or Donahoe visible on same page.
+Why this may or may not be relevant: This is the first Murry surname confirmed in Lewis County before 1854. It is female ("Eliza Jane"), so she cannot be Luke or Patrick. She may be a widow of someone named Murry. Her presence shows the Murry surname was established in the John Kee district by 1853. If Luke Murry (Patrick's father) was an older man, his widow or a female relative could appear here; alternatively she is a distinct branch.
+
+Match B - STRONG POSITIVE (Patrick Murry, the 1871 decedent)
+
+Name as written: Murry Patrick (surname first format)
+Year: 1854
+County: Lewis
+Image number / URL: image 380 of 646; https://www.ancestry.com/imageviewer/collections/62774/images/i3811884-00379?usePUB=true
+Tax-list details: Page 16 of the commissioner's list. 1 tithable; 1 value entry "55"; secondary column "12 51"; final column "15 05." Modest taxpayer, consistent with a young man.
+Nearby relevant names: Same page includes Manning Patrick, Mulledy Owen, McLaughlin Michael, McLaughlin John (strong Irish Catholic cluster). No Loghan on this exact page, but Loghan John and Loghan Owen/Queen appear in the same year's L-section (image 320).
+Why this may or may not be relevant: Patrick Murry died in Lewis County WV on 22 Aug 1871. His death register names his parents as "Luke & Margaret Murry." This 1854 tax entry is the first direct confirmation that a Patrick Murry was taxable in Lewis County. It pre-dates the known 1854 Luke Murray / Anne Loghan marriage by months. This is almost certainly the same Patrick Murry who appears in the 1871 death record - the age fits (taxpaying adult ca. 1854 -> death 1871 at roughly age 35-45).
+
+Match C - Secondary / Same Year
+
+Name as written: Murray James (surname first format)
+Year: 1854
+County: Lewis
+Image number / URL: image 378 of 646; https://www.ancestry.com/imageviewer/collections/62774/images/i3811884-00377?usePUB=true
+Tax-list details: Page 15. Appears on same page as many Moneypenny entries. Small tax entry, value "3."
+Nearby relevant names: Moneypenny James, Moore Thos J, Marsh John C, Moneypenny Ann, Moneypenny Thomas, Moneypenny John, Moneypenny Edward, Mobley James, Murphton Wm. Also: "Murrers Hudson" (line 21, uncertain spelling) - could be Murrow, Murrers, or a variant surname; not clearly Murray/Murry.
+Why this may or may not be relevant: First name is "James," not Luke or Patrick. He may be a relative (brother? uncle?) of Patrick. His presence in 1854 on the same district as Patrick Murry further confirms a Murry family cluster in Lewis County in 1854. Not the Patrick's father (who was "Luke"), but possibly a sibling or cousin.
+
+Match D - Loghan entries (research context only)
+
+Names as written: "Loghan John" and "Loghan Owen" (or "Loghan Queen")
+Year: 1854
+Image: 320 of 646; https://www.ancestry.com/imageviewer/collections/62774/images/i3811884-00319?usePUB=true (L-section of John Kee district)
+Why relevant: Anne Loghan married Luke Murray in 1854. The Loghan family appears in the same county, same year, and likely same district as the Murry entries, confirming the two families were neighbors. "Loghan John" is likely Anne's father or brother.
+
+NEGATIVE SUMMARY
+
+Earliest year checked: 1817 (i3800149)
+Latest year checked: 1855 (i3811884, partially; 1856 not reached)
+Were any Luke / Lucas Murray variants found? NO. No entry reading "Murray Luke," "Murry Luke," "Murray Lucas," or "Murry Lucas" was found in any year from 1817 through 1855 in Lewis County, across all image sets browsed. The 1854 list for the district containing Patrick Murry was checked through multiple M-section pages (images 378-384), and no Luke appeared.
+Were any Patrick Murray variants found before 1860? YES - Murry Patrick, Lewis County, 1854 (image 380 of i3811884). This is Patrick Murry who matches the 1871 death record.
+
+RQ-M1 INTERPRETATION
+
+Does the tax-list evidence support an older Luke Murry in Lewis County before 1854?
+
+No. After checking every available M-section page across all three Lewis County image sets from 1817 through 1855, no "Luke Murray" / "Luke Murry" / "Lucas Murray" ever appears as a taxpayer. If an older Luke existed - old enough to father Patrick before the 1854 marriage year - he would have been taxpaying in the 1830s-1840s at the latest. The complete absence of any Luke Murry across the entire 1817-1855 span is strong negative evidence. The only Murry family members who do appear are female ("Murry Eliza Jane," 1853) and two men named Patrick and James (both 1854).
+
+Does it support Patrick and younger Luke arriving only after 1850?
+
+Partly, yes. Patrick Murry first appears in Lewis County in 1854. "Murry Eliza Jane" appears in 1853, suggesting the Murry name entered Lewis County no earlier than ca. 1852-1853. The complete absence before 1853 across 36 years of annual lists confirms this is a recent family arrival. The 1854 cluster (Patrick + James Murray + the Loghan family in the same district) looks like a group migration event.
+
+What does this mean for the "Luke Murray who married Anne Loghan" in 1854?
+
+The 1854 Luke Murray who married Anne Loghan is almost certainly not Patrick Murry's father, for two reasons: (1) Patrick himself is already a taxable adult in 1854, making him a near-contemporary of the groom; and (2) no older Luke Murry ever appears in the tax lists. The "Murray James" who also appears in 1854 may be another brother. The family group (Patrick + James + possibly "Eliza Jane" as a widowed mother or sister) may have migrated to Lewis County ca. 1852-1853, with Luke coming at roughly the same time or slightly earlier (hence no tax record for him before the year of his marriage).
+
+What exact next record should be checked after this?
+
+The highest-priority follow-up is the Lewis County deed and court records for 1852-1860, specifically:
+1. The 1854 Lewis County marriage register to confirm the full names Luke Murray / Anne Loghan - and whether any witness or bondsman is named Patrick, James, or "Murry."
+2. The 1860 Lewis County federal census (Lewis County, WV) - search for Luke Murray, Patrick Murray, and James Murray households. If they are brothers, they may appear as near neighbors.
+3. The WV county deed indexes for Lewis County ca. 1852-1860 for any Murray land purchase (would fix the immigration date precisely).
+4. The 1855-1856 and 1857-1860 tax lists (i3811885) should be browsed for "Luke Murry" - this remains the only gap in the current survey.

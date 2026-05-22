@@ -26,6 +26,23 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
 
 ## What Was Just Completed
 
+- Integrated Zach's May 22, 2026 Claude for Chrome **Patrick Murry personal-property-tax row verification** handoff.
+- Preserved the raw verification report at `static/sources/claude-tax-list/i3811884-00379-patrick-murry-verification-claude-output.txt`.
+- Updated `References/Claude for Chrome Lewis County Personal Property Tax Check.md`, `RQ-M1-LEWIS-COUNTY-FAN-SWEEP.md`, `Tier 1 Research Execution Kit.md`, `Research Priorities and Action Items.md`, `Sources and Evidence Index.md`, `Topics/Murray Settlement.md`, `Topics/Murray Settlement Research Roadmap.md`, `Search Index.md`, and `CHANGELOG.md` so:
+  - `Murry Patrick` on Ancestry image `i3811884-00379`, page 16, line 14, is treated as image-verified by Claude for Chrome;
+  - the row shows one white male tithable age 21+ and one horse valued at $50;
+  - the exact year remains **probable 1854** because the final digit in `185_` is cut off on the related proof page;
+  - the next bite-size Claude for Chrome task is `Murray James` on `i3811884-00377` plus proof page `i3811884-00378` for district / commissioner / year context.
+
+- Integrated Zach's May 21, 2026 Claude for Chrome **Lewis County personal-property-tax check** handoff.
+- Created `References/Claude for Chrome Lewis County Personal Property Tax Check.md` and preserved the raw text at `static/sources/claude-tax-list/lewis-county-personal-property-tax-check-claude-output.txt`.
+- Updated `RQ-M1-LEWIS-COUNTY-FAN-SWEEP.md` with:
+  - the first pre-1860 Lewis County Murry tax evidence so far: `Murry Eliza Jane` in 1853, `Murray James` in 1854, and `Murry Patrick` in 1854;
+  - the negative result that no `Luke` / `Lucas` Murray / Murry appears in checked 1817-1855 M-sections;
+  - the caveat that the source handoff says 1856 in one place but the year table says 1856 was not reached, so 1856 and 1857-1860 remain open;
+  - the revised interpretation that the tax evidence supports a post-1850 arrival / first-tax-appearance model for the Ireland-born Murry group, not a pre-1843 Murray anchor proof.
+- Updated `References/Claude for Chrome Lewis County Older Luke Margaret Round 2 Search.md`, `Research Priorities and Action Items.md`, `Tier 1 Research Execution Kit.md`, `Sources and Evidence Index.md`, `Topics/Murray Settlement.md`, `Topics/Murray Settlement Research Roadmap.md`, `Search Index.md`, and `CHANGELOG.md` so the next RQ-M1 work is original tax-image capture, 1855-1860 tax gap closure, 1854 Luke / Anne Loghan marriage/bond image capture, and 1852-1860 deed / court / probate / church follow-up.
+
 - Integrated `~/Downloads/tom_and_steve_emails_may2026.zip` / `/mnt/c/Users/zach/Downloads/tom_and_steve_emails_may2026.zip` as a source-lead update to the Michael Copley Sr. parentage question.
 - Published the raw archive and five normalized `.eml` files under `static/sources/tom-steve-emails/`.
 - Created `References/Tom and Steve Copley May 2026 Michael Parents Thread.md` to preserve the thread and its evidence cautions:
@@ -364,7 +381,7 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
 - `Visual Story Atlas.md` is now the diagram-first public entry point for the story, evidence status, and research quests.
 - `RQ-M1-JOHN-MURRAY-DEED-FINDINGS.md` now exists as the place to paste John Murray deed images, transcripts, abstracts, and interpretation.
 - The Murray deed task now has Claude for Chrome handoffs integrated into the wiki for the original Deed Book C-D / grantor-index brief, the completed exact-surname grantee-index result, the controlled negative page-404 and page-334 checks, the final built-in-index recheck showing that "Marwee Sawig" is not Murray, and the corrected 1826/1833 misindex results. The direct John Murray deed path is now exhausted.
-- The Lewis County FAN-sweep task now has 1850, 1860, and 1870 Claude for Chrome handoffs integrated into the wiki, plus the corrected 1870 image-review pass, the district-geography pass, the Mary Casey household check, the Byrne / Carey follow-up, the 1860 / 1870 census image-capture pass, the Luke / adult Patrick Murry continuity pass, the Murry vital-record verification pass, the Murry original-image transcription pass, and two negative older Luke / Margaret indexed searches. The image-capture pass confirms Luke Murry and a separate adult Patrick Murry in 1860, confirms the Thomas / John Dolan rural cluster, tightens the Weston Loftus / Mc Mahan boarding-house boundary, corrects Owen Mulooly's indexed birthplace to image-read Ireland, and confirms Battelle as the densest 1870 Irish farming cluster. The Murry continuity pass traces Luke to Rhode Island by 1870 and adult Patrick to Sheridan / Lewis in 1870 and Sand Fork of Kent in 1871, correcting the earlier 1870 no-Murray result. The vital-record and original-image passes verify the Luke / Anne Loghan and Patrick / Mary Donahoe marriage evidence and confirm from the death-register manuscript that Patrick's parents were Luke & Margaret Murry. The indexed parent-couple searches found no independent older Luke / Margaret record and no Luke or Irish-born Murray in the complete indexed 1850 Lewis County Murray population, shifting the next task to non-indexed records access mapping. The district-geography pass points the visible 1850-1870 rural cluster evidence toward the Weston / courthouse hinterland rather than directly to Cove Lick / Camden / Loveberry. The Copley gap now spans both 1860 and 1870 because no indexed Copley / Coopley farming household appears in either census.
+- The Lewis County FAN-sweep task now has 1850, 1860, and 1870 Claude for Chrome handoffs integrated into the wiki, plus the corrected 1870 image-review pass, the district-geography pass, the Mary Casey household check, the Byrne / Carey follow-up, the 1860 / 1870 census image-capture pass, the Luke / adult Patrick Murry continuity pass, the Murry vital-record verification pass, the Murry original-image transcription pass, two negative older Luke / Margaret indexed searches, the 1817-1855 personal-property-tax handoff, and the Patrick Murry tax-row verification. The image-capture pass confirms Luke Murry and a separate adult Patrick Murry in 1860, confirms the Thomas / John Dolan rural cluster, tightens the Weston Loftus / Mc Mahan boarding-house boundary, corrects Owen Mulooly's indexed birthplace to image-read Ireland, and confirms Battelle as the densest 1870 Irish farming cluster. The Murry continuity pass traces Luke to Rhode Island by 1870 and adult Patrick to Sheridan / Lewis in 1870 and Sand Fork of Kent in 1871, correcting the earlier 1870 no-Murray result. The vital-record and original-image passes verify the Luke / Anne Loghan and Patrick / Mary Donahoe marriage evidence and confirm from the death-register manuscript that Patrick's parents were Luke & Margaret Murry. The tax-list handoff finds Eliza Jane Murry in 1853 and James Murray plus Patrick Murry in the apparent 1854 sequence, with no Luke / Lucas in checked 1817-1855 M-sections; Patrick's row is now image-verified by Claude for Chrome on page 16, line 14, but the exact final year digit remains cut off. This strengthens a post-1850 Murry arrival / first-tax-appearance model but still does not prove a pre-1843 Murray anchor. The district-geography pass points the visible 1850-1870 rural cluster evidence toward the Weston / courthouse hinterland rather than directly to Cove Lick / Camden / Loveberry. The Copley gap now spans both 1860 and 1870 because no indexed Copley / Coopley farming household appears in either census.
 - `RQ-P1-PARTLOW-REVOLUTIONARY-LINE.md` is now the active Partlow proof-chain log.
 - `References/Harry C Partlow 1960 Letter and Handwritten Lineage.md` is the local family-source note for the 1960 Harry Partlow letter and 1977 handwritten lineage.
 - The Partlow working line is: Marion Elizabeth Partlow Copley -> Nollie Franklin / Frank Partlow -> Marion McDonald / M. Partlow -> John H. / John Halleck / Hallick Partlow -> Jacob Partlow / Jacob Newton Partlow -> Benjamin Partlow.
@@ -396,9 +413,13 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
   - Treat the old `1826 John Murray / Fred L. Fish` slot as closed; it is a misindexed **1899** oil-and-gas lease.
   - Treat the old `1833 John Murray` slot as closed; it is also a misindexed **1899** oil-and-gas lease.
   - The direct John Murray deed path is now exhausted. The **1850, 1860, and 1870 Lewis County FAN sweeps** are complete, and the two unread 1870 household targets are resolved.
-  - Claude for Chrome should shift next to a non-indexed Lewis County records access map and request packet.
-  - Use FamilySearch Catalog / image-only paths, WV State Archives leads, Lewis County courthouse guidance, and diocesan archive information to identify whether Lewis County personal property tax lists, land tax lists, will books, estate / fiduciary books, probate packets, grantor indexes, deed books, or St. Michael's / St. Patrick's sacramental records can be browsed, require FamilySearch center access, or require archive / courthouse / diocesan requests.
-  - Do not repeat the broad indexed FamilySearch / WV Culture / Find A Grave older-Luke search unless a non-indexed path points to a specific record.
+  - Claude for Chrome should shift next to the James Murray tax-row verification and district / commissioner context check, using the prompt now preserved in `Tier 1 Research Execution Kit.md`.
+  - Verify `Murray James` on `i3811884-00377` and inspect proof page `i3811884-00378`; compare the page sequence to the already verified `Murry Patrick` row on `i3811884-00379`.
+  - Capture / independently transcribe the 1853 Eliza Jane Murry and 1854 Loghan tax rows from Ancestry image set `i3811884`.
+  - Finish the unresolved tax-list gap: 1855 partial M-section coverage, 1856, and 1857-1860 image set `i3811885`.
+  - Pull the 1854 Luke Murray / Anne Loghan marriage register and bond / consent images for witnesses, bondsmen, or parent clues.
+  - Search 1852-1860 Lewis County deed, court, probate, estate, and Catholic church paths for Patrick, James, Eliza Jane, Luke, Loghan / Logan, and Donahoe / Donahue.
+  - Do not repeat the broad indexed FamilySearch / WV Culture / Find A Grave older-Luke search unless a new image or county record points to a specific record.
   - The exact prompt to hand to Claude for Chrome is now preserved in `Tier 1 Research Execution Kit.md` under `Current Highest-Value Claude for Chrome Task`.
   - Preserve any new FAN-sweep images, citation paths, neighbor captures, and interpretation first in `RQ-M1-LEWIS-COUNTY-FAN-SWEEP.md`, then update `Sources and Evidence Index.md`, `Topics/Murray Settlement.md`, `Research Priorities and Action Items.md`, and `People/Ann Copley.md` only if the result materially changes the case.
 - Partlow next steps:
@@ -451,6 +472,7 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
 - `References/Claude for Chrome Lewis County Murry Original Image Transcription.md`
 - `References/Claude for Chrome Lewis County Older Luke Margaret Murry Search.md`
 - `References/Claude for Chrome Lewis County Older Luke Margaret Round 2 Search.md`
+- `References/Claude for Chrome Lewis County Personal Property Tax Check.md`
 - `References/Thomas Copley May 2026 Email Leads.md`
 - `References/Tom and Steve Copley May 2026 Michael Parents Thread.md`
 - `References/Tom Copley Email 2026-05-07 Ballymoe Ballinasloe Question.md`
@@ -474,8 +496,9 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
 - Did a Murray family arrive in the Lewis County settlement area before the Copleys?
 - Why do Copley / Coopley households disappear from the indexed 1860 and 1870 Lewis County censuses after appearing in 1850?
 - What rural district or locality contains the 1860 Dolan / Murry Irish cluster once the census schedule header is independently read?
-- Which non-indexed Lewis County tax, estate, probate, grantor-side deed, and St. Michael's / St. Patrick's sacramental records are available online, locked, FamilySearch-center-only, courthouse-only, WV State Archives-only, or diocesan-only?
-- Do non-indexed county records connect older Luke / Margaret or Patrick Murry to a pre-1850 or pre-1843 Lewis County Murray presence?
+- Do original Ancestry tax-list images confirm the 1853 Eliza Jane Murry, 1854 James Murray, and 1854 Loghan rows exactly as reported, and can `i3811884-00378` clarify the district / commissioner / year context for the verified Patrick row?
+- Does any Luke / Lucas Murray / Murry appear in the still-open 1855-1860 personal-property-tax gap?
+- Do 1852-1860 deed, court, probate, estate, or church records connect older Luke / Margaret, Patrick, James, Eliza Jane, or younger Luke Murry to each other or to a pre-1850 / pre-1843 Lewis County Murray presence?
 - What source can map exact 1850 District No. 30 / 1870 Battelle / Willey boundaries beyond the coarse White 1875 county map?
 - Is the 1870 image 8 surname indexed as Leely actually Leely, Lealy, Leahy, Liley, O'Leary, or another Irish surname?
 - What are the direct-image estate values for Michael McDonald on 1870 Battelle image 8?

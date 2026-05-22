@@ -76,11 +76,18 @@ The next useful work is an **access map and request packet** for non-indexed or 
 - Passenger-list searches for likely 1847-1855 arrivals if county and church paths remain closed.
 - Ireland-side Griffith's Valuation / Catholic parish paths for a Luke + Margaret Murray family with sons Patrick and Luke.
 
+## Follow-Up: Personal Property Tax Check
+
+The next May 2026 handoff partially executed the tax-list path. See [[References/Claude for Chrome Lewis County Personal Property Tax Check|Claude for Chrome Lewis County Personal Property Tax Check]].
+
+That check found **Murry Eliza Jane** in 1853, **Murray James** in 1854, and **Murry Patrick** in the apparent 1854 sequence, but no taxable **Luke / Lucas Murray / Murry** in the checked 1817-1855 Lewis County M-sections. A May 22 follow-up image-verified the Patrick row itself while keeping the exact year as probable 1854 because the final digit is cut off. Current handling: this strengthens the post-1850 Murry arrival / first-tax-appearance model, while leaving James, Eliza Jane, Loghan, 1855 partial, 1856, and 1857-1860 tax-list coverage open.
+
 ## Related Pages
 
 - [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]]
 - [[References/Claude for Chrome Lewis County Older Luke Margaret Murry Search]]
 - [[References/Claude for Chrome Lewis County Murry Original Image Transcription]]
 - [[References/Claude for Chrome Lewis County Murry Vital Records]]
+- [[References/Claude for Chrome Lewis County Personal Property Tax Check]]
 - [[Topics/Murray Settlement]]
 - [[Topics/Murray Settlement Research Roadmap]]

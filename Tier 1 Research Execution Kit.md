@@ -52,7 +52,7 @@ When a search produces a record, a negative result, or a corrected claim:
 
 ### Current Highest-Value Claude for Chrome Task
 
-For a single bounded Claude-for-Chrome session, the highest-value next task is a **Lewis County non-indexed records access map and request packet**. The older Luke & Margaret indexed searches are now complete enough to stop repeating search boxes: FamilySearch / WV Culture / Find A Grave did not produce an independent older-Luke record, and the Round 2 search found no Luke or Irish-born Murray in the indexed 1850 Lewis County census.
+For a single bounded Claude-for-Chrome session, the highest-value next task is **verify the James Murray tax row and recover the district / commissioner context if possible**. The Patrick Murry row on `i3811884-00379` is now image-verified as `Murry Patrick`, page 16 line 14, one white male tithable, one horse valued at $50. The year is still contextual because the final digit in `185_` is cut off, so the next image should test whether `i3811884-00377` and the proof page `i3811884-00378` clarify the district/year sequence.
 
 Use this exact prompt:
 
@@ -60,7 +60,7 @@ Use this exact prompt:
 Do one narrow research task only. Do not browse broadly and do not do any repo work.
 
 Goal:
-Create a request-ready access map for non-indexed or archive-held Lewis County records that could preserve an older Luke Murry / Murray before 1860. Focus on where the records are, what years they cover, whether they are browsable online, locked, FamilySearch-center-only, courthouse-only, WV State Archives-only, or diocesan-only, and exactly what should be requested next. This is not a broad surname sweep.
+Verify the reported James Murray personal-property-tax entry on Ancestry image `i3811884-00377`, and use the surrounding proof / summary page `i3811884-00378` to identify the district, commissioner, and year if possible. This is one image-target task, not a broad surname sweep.
 
 Known context:
 - The direct early John Murray deed path is closed. The old 1826 Murray / Fish and 1833 John Murray leads are both 1899 oil-and-gas lease misindexes.
@@ -74,87 +74,55 @@ Known context:
 - The 1854 Luke Murray is probably not Patrick's father if his approximate 1822 birth year is correct; he is Patrick's near-contemporary. The death-register parents likely point to an older Luke Murry and Margaret Murry, probably born circa 1790-1800 in Ireland.
 - The older Luke & Margaret indexed search found no independent record for that parent couple in FamilySearch, WV Culture, Find A Grave, or indexed census / vital collections. The only FamilySearch tree entries for older Luke / Margaret are sourced only to Patrick's 1871 death record.
 - The Round 2 indexed search found no Luke or Irish-born Murray / Murry / Murrey in the complete indexed 1850 Lewis County census; the 36 Lewis County Murray / Murry / Murrey entries were all Virginia-born. Indexed Virginia land tax, Virginia personal property tax, West Virginia probate, 1870 West Virginia census, Lewis County marriage, and Find A Grave searches were also negative for older Luke / Margaret.
-- This session is only about locating the surviving non-indexed, locked, or offline record paths and producing a request-ready plan. Do not repeat the already-completed indexed searches.
+- A later personal-property-tax handoff in Ancestry's Virginia personal-property-tax collection found: `Murry Eliza Jane` in 1853, `Murray James` in 1854, and `Murry Patrick` in the apparent 1854 sequence. It found no Luke / Lucas in checked 1817-1855 M-sections. The handoff says 1856 in one place but the year table says 1856 was not reached, so treat 1856 and 1857-1860 as open.
+- A follow-up verified the Patrick row directly on `i3811884-00379`: page 16 line 14 reads `Murry Patrick`, with 1 white male tithable and 1 horse valued at 50. The final year digit is cut off, so the year is probable 1854 by sequence rather than internally visible on that image.
+- This session is only about the James Murray row and district/year context. Do not repeat the already-completed indexed searches.
 - Do not work on Marwee, page 334, page 404, Casey / Carey, Battelle cluster details, Dolan cluster details, Partlow, or broad unrelated Murray families.
 
 Your task:
-1. Check FamilySearch Catalog, WV State Archives catalog pages, Lewis County Clerk information, diocesan archive information, and any reliable repository guides for Lewis County records that are not fully indexed:
-   - personal property tax lists
-   - land tax lists
-   - will books
-   - estate / fiduciary / settlement books
-   - probate packets or loose estate files
-   - grantor indexes and deed books not already covered by the exact grantee-index search
-   - St. Michael's / St. Patrick's Catholic sacramental registers, parish histories, cemetery registers, or early parishioner lists
-2. For each record set, determine:
-   - exact repository / website
-   - title of record set
-   - year coverage
-   - film / DGS / call number / book title if available
-   - access status from home, FamilySearch center, affiliate library, courthouse, WV State Archives, or diocese
-   - whether an index exists and where it is
-   - whether copy requests are possible and what information is needed
-3. If an online browse-only index is immediately available from home, check only the relevant Murray / Murry / Murrey index pages and record exact image references. Do not spend the session browsing year-by-year tax pages unless the index points to a target.
-4. Identify the three highest-value concrete requests a human should make next. Each request should include repository, record title, date range, names / variants, and why it matters.
-5. Stop after producing the access map and request packet. Do not redo the already-completed broad FamilySearch / WV Culture / Find A Grave indexed search.
+1. In Ancestry's `Virginia, U.S., Personal Property Tax Records, 1782-1900`, Lewis County, open image `i3811884-00377`.
+2. Confirm whether page 15 line 24 reads `Murray James`.
+3. Capture:
+   - exact written name
+   - year, district / commissioner if visible, page, line, image number, URL
+   - all tax columns and totals as written
+   - 10-15 nearby names, especially Irish-associated surnames
+   - whether the row is original-image confirmed or still an index / visual read
+4. Open adjacent proof / summary page `i3811884-00378`; inspect top and bottom of the image for year, commissioner, district, or page-sequence clues. Note whether the final year digit is visible anywhere.
+5. Compare whether James Murray and Patrick Murry appear to be in the same district/list sequence.
+6. Stop after the James row and district/year-context check. Do not broaden to other years.
 
 Output format:
 
-NON-INDEXED RECORD ACCESS MAP SCOPE
-- Websites / collections searched:
-- Catalog entries / films checked:
-- Archive / courthouse / diocesan guides checked:
+TAX-LIST IMAGE CAPTURE SCOPE
+- Collection / website:
+- Images checked:
+- Year / district evidence:
 - Access or image problems:
 
-COUNTY RECORD PATHS
-- Tax records:
-  - Repository / collection / film / URL:
-  - Years available:
-  - Access status:
-  - Index status:
-  - Request instructions:
-- Will / estate / probate records:
-  - Repository / collection / film / URL:
-  - Years available:
-  - Access status:
-  - Index status:
-  - Request instructions:
-- Grantor / deed records:
-  - Repository / collection / film / URL:
-  - Years available:
-  - Access status:
-  - Index status:
-  - Request instructions:
-- Catholic church records:
-  - Parish / repository / URL:
-  - Years available:
-  - Access status:
-  - Sacrament types:
-  - Request instructions:
+POSITIVE ROW TRANSCRIPTIONS
+- 1854/probable 1854 James Murray:
+  - Exact written name:
+  - District / commissioner:
+  - Page / line / image / URL:
+  - Tax columns:
+  - Nearby names:
+  - Interpretation:
 
-REQUEST PACKET
-- Request 1:
-  - Repository:
-  - Record set:
-  - Names / variants:
-  - Date range:
-  - Exact lookup question:
-  - Why this is high value:
-- Request 2:
-- Request 3:
-
-NEGATIVE SEARCHES
-- Indexed paths not to repeat:
-- Locked / offline paths that remain:
+DISTRICT / YEAR CONTEXT
+- What does image i3811884-00378 show?
+- Is the final year digit visible anywhere?
+- Is the district or commissioner legible?
+- Does James appear in the same list sequence as Patrick?
 
 RQ-M1 INTERPRETATION
-- What is the best next human request?
-- Which record set has the highest chance of preserving older Luke / Margaret?
-- Does the result change the interpretation of the 1860 Luke / adult Patrick household?
-- Does this change the Murray-anchor hypothesis?
+- Does original-image review confirm James Murray?
+- Does this strengthen a same-year Murry cluster with Patrick?
+- Does the result support post-1850 arrival or pre-1843 anchor status?
+- What exact image should be checked next?
 
 FAILURE MODE
-- If no accessible browse-only record is found, say exactly which offline or locked record sets remain and how to request them.
+- If the Ancestry images cannot be opened, say exactly what subscription / library / alternate repository path is needed and preserve the current row targets for a human lookup.
 
 Rules:
 - Be conservative.
