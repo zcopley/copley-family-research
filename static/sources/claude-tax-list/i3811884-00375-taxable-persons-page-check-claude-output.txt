@@ -1,0 +1,101 @@
+Research Report: Ancestry Image i3811884-00375
+
+Page type:
+
+Taxable-persons page. This is a standard "List of Taxable Persons, Property, &c." sheet, printed form with handwritten entries. It is the last taxable-persons page of a district list that ends immediately before the proof / summary page i3811884-00376.
+
+Image / URL:
+
+- Image ID: i3811884-00375
+- Collection: Virginia, U.S., Personal Property Tax Records, 1782-1900, Ancestry collection 62774
+- URL: https://www.ancestry.com/imageviewer/collections/62774/images/i3811884-00375
+- Film sequence position: image 376 of 646 on the microfilm roll
+
+Full year if visible:
+
+Not legible. The printed form header reads "List of Taxable Persons, Property, &c. within the District of"; no second line with a year appears above the column headers. No "for the year 185_" text is present on this taxable-persons page, since that phrasing belongs to the proof / summary pages. The year is not determinable from this image alone.
+
+District name / commissioner:
+
+District name blank or too faint to read. The handwritten district name that should follow "District of" in the header is either not filled in or has faded to near-invisibility. At every examined zoom level, the space to the right of "of" is white / blank. No commissioner name appears anywhere on the page; commissioners' signatures appear on proof / summary pages, not on taxable-persons sheets.
+
+Header transcription:
+
+List of Taxable Persons, Property, &c. within the District of ___________
+
+Column headers:
+
+Persons Chargeable with Tax; Tithables, including free male persons above age 16, slaves age 16, white male inhabitants age 21; horses, mules, asses, and jennets; cattle, sheep, and hogs; watches; clocks; pianos and harps; all gold and silver plate and jewelry; all household and kitchen furniture; and further tax columns on the right side.
+
+Page number:
+
+14, written in the left margin.
+
+Names on the page, as readable:
+
+Top of page, lines 1-8 approximately:
+
+1. Kelley Michael
+2. Ru[th?] Wm B, or Rut[h] Wm B
+3. Kelly Michael, second entry
+4. [?]caid Thomas
+5. Wright Jefferson
+6. [?]ng Johns S
+7. [?]ten Conrad
+8. Continuing unread entries
+
+Middle section, lines about 9-18:
+
+- [?]ris A A
+- [?]da A I
+- [?]kaner Wm C
+- [?]ntz Jacob
+- [Pfenber]ger John / George / Nicholas H / Wm C / Isaac / Philip M
+- Love D S
+- Padget Nathan
+
+Bottom of page, last entries:
+
+- [Ly]pe [given name]
+- [Lan/San?], 3-4 entries
+- Hand Thomas
+- Hand Samuel
+- Schwartz A A
+- Schwartz Marcellus
+- [Ro]ach Thomas H, or Hand Thomas H
+- [Ro]ach Thomas
+- [?] Albert
+- [Lang/Stang]ford Anderson
+- [Lang/Stang]ford Banks
+- [Lang/Stang]ford Henry
+
+Last visible entry before page end:
+
+Padget Nathan in the bottom cluster from the detailed tile view. The page ends with about 25-30 total entries, after which the sheet is blank.
+
+Relationship to i3811884-00376 / i3811884-00377:
+
+This page is the direct predecessor to proof page i3811884-00376, which opens the James Murray / Patrick Murry sequence.
+
+Sequence:
+
+- i3811884-00375: taxable-persons page, page 14, ending with surnames like Padget / Schwartz / Langford.
+- i3811884-00376: proof / summary page, "for the year 185_", district illegible.
+- i3811884-00377: taxable-persons page, page 15, James Murray at line 24.
+- i3811884-00378: proof / summary page.
+- i3811884-00379: taxable-persons page, page 16, Patrick Murry at line 14.
+
+Does i3811884-00375 clarify the year / district?
+
+No. The district name in the header is blank or unreadable, no year is written on this page, and no commissioner signature appears. This page is from the same film run as the Murray entries and shares the same proof pages, but it adds no new identifying information.
+
+Best next image:
+
+i3811884-00374, the image immediately before this one. It is likely either:
+
+- The cover / title page for this same district, which would state the district number, year, and commissioner's name explicitly; or
+- The proof / summary page for the preceding district list, which would contain "for the year 185_" and possibly a commissioner signature and district number.
+
+Recommended next task:
+
+Check i3811884-00374, the single image before this taxable-persons page.

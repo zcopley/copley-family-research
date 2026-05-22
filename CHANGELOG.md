@@ -10,6 +10,16 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4BX - Taxable-Persons Page Header Check Integrated (May 22, 2026)
+
+**MURRY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome check of Ancestry image `i3811884-00375`. The image is a taxable-persons page, page 14, directly before proof page `i3811884-00376`, but it has no visible year, no legible district name, and no commissioner signature. It confirms the backward page sequence but still does not settle the probable-1854 year caveat for the James Murray / Patrick Murry tax-list sequence.
+
+### Updated Pages
+
+- [[References/Claude for Chrome Lewis County Personal Property Tax Check|Claude for Chrome Lewis County Personal Property Tax Check]] - added the `00375` taxable-persons page result, raw source link, and revised next image target.
+- [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]] and [[Tier 1 Research Execution Kit|Tier 1 Research Execution Kit]] - shifted the next Claude for Chrome task to `i3811884-00374`, looking for a cover/header page or proof page with full year, district, or commissioner context.
+- [[Sources and Evidence Index|Sources and Evidence Index]], [[Research Priorities and Action Items|Research Priorities and Action Items]], [[Topics/Murray Settlement|Murray Settlement]], [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]], [[Search Index|Search Index]], and `.agents/AGENT_RESUME.md` - updated the active Murray workflow so `00375` is treated as useful but unresolved and `00374` is the next bite-size target.
+
 ## Phase 4BW - Tax Proof Page Header Check Integrated (May 22, 2026)
 
 **MURRY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome check of Ancestry image `i3811884-00376`. The image is another proof / summary page, not a cover page or taxable-persons page. It repeats the unresolved `for the year 185_` problem and has no legible district or commissioner, so it does not settle the probable-1854 year caveat for the James Murray / Patrick Murry sequence.
