@@ -1,0 +1,86 @@
+VERIFICATION REPORT - i3811884-00379
+
+SOURCE
+
+Website: Ancestry.com
+Collection: Virginia, U.S., Personal Property Tax Records, 1782-1900
+County: Lewis
+Image URL: https://www.ancestry.com/imageviewer/collections/62774/images/i3811884-00379?usePUB=true
+Image number: 380 of 646 (Ancestry displays this as the sequential frame number within the file group)
+Year: 185_ - The adjacent proof/summary page (i3811884-00378) carries the printed heading "A Commissioner of the Revenue in the ___ for the year 185" but the final digit is physically cut off at the right margin of the scan. The Ancestry source metadata dates this file group "1851-1856." The task-reported year 1854 is consistent with the "185" stub, and the positioning of images 00377-00379 within the 1851-1856 block strongly supports that identification. No internally visible "4" could be confirmed from the image itself.
+District / commissioner: The form heading on image 00379 reads "List of Taxable Persons, Property, &c. within the District of ___." The handwritten district name following "District of" is present but too faint/small to read with certainty at any zoom level attainable through the Ancestry viewer. The proof page (00378) reads "A Commissioner of the Revenue in the ___" - the name in the blank is likewise illegible. District name: not legible from this image.
+Page: 16 (printed in the left margin of image 00379)
+Access issues: The Ancestry index panel returned "We were unable to retrieve the record details for the selected person," meaning no transcribed detail record is attached to this image frame. The "380 of 646" counter overlay intermittently obscured the district name in the header and portions of some rows. The year's final digit is cut off at the right-hand margin of the original document.
+
+TARGET ROW
+
+Exact written name: •Murry Patrick - A bullet-point/dot precedes the name (as it does for every entry on this page). The surname is written first: Murry. The given name follows: Patrick. The "M" is clearly a capital M, followed by "urry" in slanted cursive. The surname is unambiguously Murry, not Murray, Murrey, or any other variant.
+Line: 14 (line number printed in the left margin)
+Tax columns / totals (as written): The form columns are: (1) Date of receiving list - blank; (2) TITHABLES - Free males >16: blank; Slaves >16: blank; White male inhabitants >=21 (not exempt): 1; Male free Negroes 21-55: blank; Slaves >=12: blank; (3) Horses, mules, asses and jennets - No.: 1, Value: 50; (4) Cattle, sheep and hogs - No.: blank, Value: blank; (5) Pleasure carriages &c. - blank; (6) Watches - blank; (7) Clocks - blank; (8) [further property columns] - all blank; (9) Totals area (right side): 15 / 65 (likely 15 cents and 65 fractions, or two separate tax-total columns); (10) Far-right column: 8.
+Does this confirm Murry Patrick? YES - Confirmed unambiguously. The name "Murry Patrick" is clearly legible at high zoom on line 14 of page 16.
+Notes on handwriting: Neat, consistent clerk's cursive. The surname "Murry" has a clean double-r and a clear terminal y. The bullet prefix appears before every entry and is a copying convention, not part of the name. The "M" of Murry is distinctly different from the "Mc" prefix seen on most other entries on this page - Murry Patrick is not "McUrry" or any Mc-name. Row 1 on the same page reads "McAnenny Patrick" (a completely different person - same given name, different surname).
+
+NEARBY NAMES
+
+10 names before Murry Patrick (lines 4-13, reading up from line 14):
+4 | McLaughlin John
+5 | McAn Barny (McAn Barney)
+6 | Marsha Ann (or Marshy Ann)
+7 | Morrison James S
+8 | Mattison Wm
+9 | McCardell James
+10 | Morrison Jacob
+11 | Mnemar Lott (McNemar Lott)
+12 | Mnemar Philips (McNemar Philips)
+13 | Mnemar John B (McNemar John B)
+
+Lines 1-3 are:
+1 | McAnenny Patrick
+2 | Mullooly Owen
+3 | McLaughlin Michael
+
+10 names after Murry Patrick (lines 15-24):
+15 | McLaughlin Jacob
+16 | McLaughlin Lott
+17 | McLaughlin Catharine
+18 | McColley Jacob P
+19 | Matthews Patience
+20 | McNay Alexander
+21 | Mitchel Paul J
+22 | McDaniel Levison
+23 | Meeks Lott (or Mahe Lott - cursive ambiguous)
+24 | Mulvay Owen
+
+Lines 25-31 continue:
+25 | McCutchan Ro B
+26 | McKisic Andrews S/J
+27 | McNay James
+28 | McCray Robert E
+29 | McCond Aaron
+30 | McCantney Elijah
+31 | Morrison David
+
+Irish-associated names found on this page:
+- McLaughlin: lines 3, 4, 15, 16, and 17
+- Mullooly / Mulledy: line 2, Mullooly Owen (written "Mullooly Oien" or "Mulloaly Owen")
+- Murry / Murray / Murrey: line 14, Murry Patrick
+- Manning: not found on this page
+- Loghan / Logan: not found on this page
+- Donahoe / Donahue: not found on this page
+- Dolan: not found on this page
+- Additional Irish-adjacent name: line 1, McAnenny Patrick
+
+INTERPRETATION
+
+Is this likely the adult Patrick Murry later seen in 1860/1870/1871?
+Yes, very likely. A single "1" in the white-male-tithable column (males >=21, not infirm) confirms he was a free adult white male aged 21 or older in the tax year. With only 1 horse valued at $50 and no recorded cattle, hogs, or pleasure carriages, his taxable estate was modest - consistent with a recent immigrant or young household head rather than an established farmer. That profile fits a mid-career Patrick Murry who would appear in census records in 1860/1870 with a growing household.
+
+Does this confirm Patrick was taxable in Lewis County in 1854?
+Yes, as far as this image can tell. He appears as line 14 on page 16 of a Lewis County personal property tax list filed within the 1851-1856 range. The task-reported year of 1854 is internally consistent with the "185_" date visible on the proof page and with the positioning of this image within the film sequence. He is recorded as owing tax (the "15 / 65" and "8" in the totals columns represent his liability), and he held at least one horse, making him a bona fide Lewis County resident subject to personal property taxation.
+
+What should be checked next?
+1. i3811884-00377 - The James Murray page (the task's next stated target). Viewing it will establish whether a second Murray/Murry was taxable in the same year/district and whether James and Patrick appear in the same district list.
+2. The district name - Compare the header on 00377 to try to identify the commissioner or district. The proof page (00378) may name the commissioner at the bottom; scrolling to the bottom of that image was not fully completed.
+3. Earlier years (pre-1851 images) - Search images before the 1851-1856 block to see when Patrick Murry first appears in Lewis County tax records (immigration/arrival window).
+4. Later years (post-1856 images) - Track Patrick through to 1860 to bridge the tax records and the 1860 census.
+5. Cross-reference Mullooly Owen (line 2) - He appears immediately near Patrick and bears one of the Irish names on your watch list; he may be a neighbor, kinsman, or fellow emigrant.
