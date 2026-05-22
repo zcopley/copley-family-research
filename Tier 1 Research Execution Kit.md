@@ -52,7 +52,7 @@ When a search produces a record, a negative result, or a corrected claim:
 
 ### Current Highest-Value Claude for Chrome Task
 
-For a single bounded Claude-for-Chrome session, the highest-value next task is **verify the James Murray tax row and recover the district / commissioner context if possible**. The Patrick Murry row on `i3811884-00379` is now image-verified as `Murry Patrick`, page 16 line 14, one white male tithable, one horse valued at $50. The year is still contextual because the final digit in `185_` is cut off, so the next image should test whether `i3811884-00377` and the proof page `i3811884-00378` clarify the district/year sequence.
+For a single bounded Claude-for-Chrome session, the highest-value next task is **check `i3811884-00376` for the missing tax-list header context**. The James Murray row on `i3811884-00377` and the Patrick Murry row on `i3811884-00379` are now image-verified by Claude for Chrome and appear in the same probable-1854 district-list sequence. The intervening proof page `i3811884-00378` still cuts off the final year digit and does not reveal a legible commissioner name, so the immediately preceding image is the next best chance to recover the full year, district number, or commissioner.
 
 Use this exact prompt:
 
@@ -60,7 +60,7 @@ Use this exact prompt:
 Do one narrow research task only. Do not browse broadly and do not do any repo work.
 
 Goal:
-Verify the reported James Murray personal-property-tax entry on Ancestry image `i3811884-00377`, and use the surrounding proof / summary page `i3811884-00378` to identify the district, commissioner, and year if possible. This is one image-target task, not a broad surname sweep.
+Check Ancestry image `i3811884-00376`, the image immediately before the verified James Murray page, to see whether it is a cover page, header sheet, district title page, or prior page that can identify the full year, district number, and commissioner for the James Murray / Patrick Murry tax-list sequence. This is one image-target task, not a broad surname sweep.
 
 Known context:
 - The direct early John Murray deed path is closed. The old 1826 Murray / Fish and 1833 John Murray leads are both 1899 oil-and-gas lease misindexes.
@@ -76,49 +76,59 @@ Known context:
 - The Round 2 indexed search found no Luke or Irish-born Murray / Murry / Murrey in the complete indexed 1850 Lewis County census; the 36 Lewis County Murray / Murry / Murrey entries were all Virginia-born. Indexed Virginia land tax, Virginia personal property tax, West Virginia probate, 1870 West Virginia census, Lewis County marriage, and Find A Grave searches were also negative for older Luke / Margaret.
 - A later personal-property-tax handoff in Ancestry's Virginia personal-property-tax collection found: `Murry Eliza Jane` in 1853, `Murray James` in 1854, and `Murry Patrick` in the apparent 1854 sequence. It found no Luke / Lucas in checked 1817-1855 M-sections. The handoff says 1856 in one place but the year table says 1856 was not reached, so treat 1856 and 1857-1860 as open.
 - A follow-up verified the Patrick row directly on `i3811884-00379`: page 16 line 14 reads `Murry Patrick`, with 1 white male tithable and 1 horse valued at 50. The final year digit is cut off, so the year is probable 1854 by sequence rather than internally visible on that image.
-- This session is only about the James Murray row and district/year context. Do not repeat the already-completed indexed searches.
+- A follow-up verified the James row directly on `i3811884-00377`: page 15 line 24 reads `Murray James`, with 1 white male tithable and no listed horses, livestock, or luxury goods.
+- The intervening proof page `i3811884-00378` shows `for the year 185`, with the final digit cut off; no commissioner name is legible.
+- James and Patrick are in the same continuous district-list sequence: page 15 (`i3811884-00377`) -> proof page (`i3811884-00378`) -> page 16 (`i3811884-00379`).
+- Claude suggested `i3811884-00376` as the best next image because it may be a cover page or header sheet for the same commissioner list.
+- This session is only about image `i3811884-00376` and district/year context. Do not repeat the already-completed indexed searches or reverify James / Patrick unless needed for page sequence.
 - Do not work on Marwee, page 334, page 404, Casey / Carey, Battelle cluster details, Dolan cluster details, Partlow, or broad unrelated Murray families.
 
 Your task:
-1. In Ancestry's `Virginia, U.S., Personal Property Tax Records, 1782-1900`, Lewis County, open image `i3811884-00377`.
-2. Confirm whether page 15 line 24 reads `Murray James`.
-3. Capture:
-   - exact written name
-   - year, district / commissioner if visible, page, line, image number, URL
-   - all tax columns and totals as written
-   - 10-15 nearby names, especially Irish-associated surnames
-   - whether the row is original-image confirmed or still an index / visual read
-4. Open adjacent proof / summary page `i3811884-00378`; inspect top and bottom of the image for year, commissioner, district, or page-sequence clues. Note whether the final year digit is visible anywhere.
-5. Compare whether James Murray and Patrick Murry appear to be in the same district/list sequence.
-6. Stop after the James row and district/year-context check. Do not broaden to other years.
+1. In Ancestry's `Virginia, U.S., Personal Property Tax Records, 1782-1900`, Lewis County, open image `i3811884-00376`.
+2. Identify what type of page it is:
+   - cover / title / header page for the same district list
+   - taxable-persons page immediately before James Murray's page
+   - proof / summary page
+   - end of a previous district list
+   - unrelated separator or blank page
+3. Capture any visible:
+   - full year
+   - district number or district name
+   - commissioner name
+   - page number
+   - image number and URL
+   - neighboring page sequence clues connecting it to `i3811884-00377`
+4. If it is a taxable-persons page, transcribe the page header and 10-15 names near the bottom of the page to see whether it flows into page 15 / James Murray.
+5. If it is a cover or proof page, transcribe the header and any totals or signatures relevant to the James / Patrick sequence.
+6. Stop after `i3811884-00376`. Do not broaden to other years.
 
 Output format:
 
-TAX-LIST IMAGE CAPTURE SCOPE
+TAX-LIST HEADER CHECK SCOPE
 - Collection / website:
 - Images checked:
 - Year / district evidence:
 - Access or image problems:
 
-POSITIVE ROW TRANSCRIPTIONS
-- 1854/probable 1854 James Murray:
-  - Exact written name:
-  - District / commissioner:
-  - Page / line / image / URL:
-  - Tax columns:
-  - Nearby names:
-  - Interpretation:
+IMAGE i3811884-00376
+- Page type:
+- Image / URL:
+- Full year, if visible:
+- District / commissioner, if visible:
+- Page number / sequence clues:
+- Header transcription:
+- Bottom names or totals, if relevant:
 
-DISTRICT / YEAR CONTEXT
-- What does image i3811884-00378 show?
+DISTRICT / YEAR CONTEXT FOR JAMES / PATRICK
+- Does image i3811884-00376 clarify the `185_` year?
 - Is the final year digit visible anywhere?
 - Is the district or commissioner legible?
-- Does James appear in the same list sequence as Patrick?
+- Does image 00376 connect directly to page 15 / James Murray?
 
 RQ-M1 INTERPRETATION
-- Does original-image review confirm James Murray?
-- Does this strengthen a same-year Murry cluster with Patrick?
-- Does the result support post-1850 arrival or pre-1843 anchor status?
+- Does this confirm the probable 1854 year?
+- Does this identify the commissioner or district for James and Patrick?
+- Does this change the post-1850 arrival or pre-1843 anchor interpretation?
 - What exact image should be checked next?
 
 FAILURE MODE

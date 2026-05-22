@@ -10,6 +10,16 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4BV - James Murray Tax Row Image Verification Integrated (May 22, 2026)
+
+**MURRY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome verification report for Ancestry images `i3811884-00377` and `i3811884-00378`. The follow-up confirms page 15, line 24 reads **Murray James**, with one white male tithable and no listed horses, livestock, or luxury goods. The proof page between James and Patrick still reads only `185_`, with the final digit cut off, but the sequence now shows James and Patrick are in the same district list.
+
+### Updated Pages
+
+- [[References/Claude for Chrome Lewis County Personal Property Tax Check|Claude for Chrome Lewis County Personal Property Tax Check]] - added the James row verification, same-list sequence table, raw source link, and next image target.
+- [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]] and [[Tier 1 Research Execution Kit|Tier 1 Research Execution Kit]] - shifted the next Claude for Chrome task to checking `i3811884-00376` for a cover/header page with full year, district, or commissioner context.
+- [[Sources and Evidence Index|Sources and Evidence Index]], [[Research Priorities and Action Items|Research Priorities and Action Items]], [[Topics/Murray Settlement|Murray Settlement]], [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]], [[Search Index|Search Index]], and `.agents/AGENT_RESUME.md` - updated the Murray workflow so James and Patrick are treated as image-verified same-sequence tax rows while the exact year remains probable 1854.
+
 ## Phase 4BU - Patrick Murry Tax Row Image Verification Integrated (May 22, 2026)
 
 **MURRY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome verification report for Ancestry image `i3811884-00379`. The follow-up confirms the row itself: page 16, line 14 reads **Murry Patrick**, with one white male tithable age 21+ and one horse valued at $50. The exact final year digit is cut off on the related proof page, so the row is handled as **probable 1854** based on sequence and prior context rather than as an internally visible 1854 date.

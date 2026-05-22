@@ -16,12 +16,13 @@ tags:
 
 This note preserves Zach's Claude for Chrome handoff for the Ancestry collection **Virginia, U.S., Personal Property Tax Records, 1782-1900**, focused on Lewis County Murray / Murry / Murrey entries before the 1860 census.
 
-**Main result:** The check found the first pre-1860 Lewis County Murry tax evidence so far: **Murry Eliza Jane** in **1853**, **Murray James** in **1854**, and **Murry Patrick** in the apparent **1854** sequence. A follow-up image verification confirms the Patrick row itself: page 16, line 14, written **Murry Patrick**, with one white male tithable and one horse valued at $50. The exact year still needs a small caveat because the final digit in `185_` is cut off on the relevant summary page, but image sequence and prior task context strongly support 1854.
+**Main result:** The check found the first pre-1860 Lewis County Murry tax evidence so far: **Murry Eliza Jane** in **1853**, **Murray James** in the apparent **1854** sequence, and **Murry Patrick** in the same apparent **1854** sequence. Follow-up image verification confirms Patrick on page 16, line 14, written **Murry Patrick**, with one white male tithable and one horse valued at $50, and confirms James on page 15, line 24, written **Murray James**, with one white male tithable and no listed taxable property. The exact year still needs a small caveat because the final digit in `185_` is cut off on the relevant summary page, but image sequence and prior task context strongly support 1854.
 
 ## Raw Source File
 
 - [Download raw Claude personal-property-tax report](../static/sources/claude-tax-list/lewis-county-personal-property-tax-check-claude-output.txt)
 - [Download raw Patrick Murry image-verification report](../static/sources/claude-tax-list/i3811884-00379-patrick-murry-verification-claude-output.txt)
+- [Download raw James Murray image-verification report](../static/sources/claude-tax-list/i3811884-00377-james-murray-verification-claude-output.txt)
 - Prior indexed-search note: [[References/Claude for Chrome Lewis County Older Luke Margaret Round 2 Search]]
 - Prior original-image note: [[References/Claude for Chrome Lewis County Murry Original Image Transcription]]
 
@@ -31,7 +32,7 @@ This is a browser research handoff, not a captured primary-source transcription 
 
 There is also a scope inconsistency in the handoff. The header says 1817-1856 were checked, but the year table says **1856 was not reached** and the negative summary says the latest checked year was **1855, partially**. Current wiki handling should treat **1817-1855** as the checked span and leave **1856 plus 1857-1860** as remaining tax-list work.
 
-The Patrick Murry image-verification follow-up improves the evidence level for that specific row, but the original image itself is not yet stored in the repo. Treat the name, page, line, and tax-column read as image-verified by Claude for Chrome; treat the year as **probable 1854** until the district header / proof page sequence is fully captured.
+The Patrick Murry and James Murray image-verification follow-ups improve the evidence level for those specific rows, but the original images themselves are not yet stored in the repo. Treat the names, pages, lines, and tax-column reads as image-verified by Claude for Chrome; treat the year as **probable 1854** until a header, cover page, or uncut proof page confirms the final digit.
 
 ## Scope
 
@@ -46,7 +47,7 @@ The Patrick Murry image-verification follow-up improves the evidence level for t
 | Year | Written name | Image / page | Interpretation |
 |---|---|---|---|
 | 1853 | `Murry Eliza Jane` | Ancestry image 263 of 646, line 5 | First confirmed Murry surname in the Lewis County personal-property-tax pass. Female taxpayer; possibly widow, female head, or separate branch. |
-| 1854 | `Murray James` | Ancestry image 378 of 646, page 15, line 24 | Same-year Murry / Murray cluster clue. Could be related to Patrick and Luke, but no relationship is proven. |
+| Probable 1854 | `Murray James` | Ancestry image 378 of 646, page 15, line 24 | Image-verified by Claude for Chrome as one white male tithable with no listed horses, livestock, or luxury goods; same list sequence as Patrick Murry. Could be related to Patrick and Luke, but no relationship is proven. |
 | Probable 1854 | `Murry Patrick` | Ancestry image 380 of 646, page 16, line 14 | Image-verified by Claude for Chrome as an adult white male tithable with one horse valued at $50; likely the Patrick Murry who later married Mary Donahoe and died in Lewis County in 1871, but the original image itself is not yet stored in the repo and the final year digit is cut off. |
 | 1854 | `Loghan John`; `Loghan Owen` or `Loghan Queen` | Ancestry image 320 of 646 | Context clue. Anne Loghan married Luke Murray in 1854, so Loghan tax entries in the same year support a county/district neighbor context. |
 
@@ -76,7 +77,32 @@ The May 22, 2026 follow-up checked image `i3811884-00379` directly.
 | Nearby Irish-associated names | McLaughlin Michael / John / Jacob / Lott / Catharine; Mullooly Owen; McAnenny Patrick |
 | Interpretation | Strong positive that an adult Patrick Murry was taxable in Lewis County in the apparent 1854 sequence. Likely the later adult Patrick Murry, but identity still rests on correlation rather than a same-record relationship statement. |
 
-This row now has a better evidence status than the other tax-list positives. The next image-specific task is to verify `Murray James` on `i3811884-00377` and use that page / the intervening proof page `i3811884-00378` to identify the district or commissioner if possible.
+## James Murray Image Verification
+
+The next May 22, 2026 follow-up checked images `i3811884-00377` and `i3811884-00378` directly.
+
+| Field | Result |
+|---|---|
+| Image | Ancestry `i3811884-00377`, image 378 of 646 |
+| Page / line | Page 15, line 24 |
+| Exact written name | `Murray James`; surname-first format; followed by a period / dot |
+| Year | Not visible on page 15; adjacent proof page shows `185_`, with the final digit cut off. Sequence supports probable 1854. |
+| District / commissioner | Interior page district field appears blank; proof page text is too degraded to read reliably. |
+| Tax details | 1 white male tithable; no horses, livestock, or luxury goods listed; far-right total columns read as `5` and `8` |
+| Nearby Irish-associated names | McAndlish, Murray, Murphy / Murphey, possibly Moore |
+| Interpretation | Image-verified same-year / same-list clue. James and Patrick appear in the same district-list sequence, separated by the proof / summary page. No same-record relationship statement links them. |
+
+## Same-List Sequence
+
+The James and Patrick rows now form a tighter tax-list cluster:
+
+| Image | Page / row | Result |
+|---|---|---|
+| `i3811884-00377` | Page 15, line 24 | `Murray James` |
+| `i3811884-00378` | Proof / summary page | `185_`; final digit cut off; district / commissioner not legible |
+| `i3811884-00379` | Page 16, line 14 | `Murry Patrick` |
+
+This sequence shows that James Murray and Patrick Murry are in the same district list and almost certainly the same tax year. The year remains probable 1854, not internally proven from the visible final digit.
 
 ## RQ-M1 Interpretation
 
@@ -84,7 +110,7 @@ The tax-list result strengthens the post-1850 arrival model for the Ireland-born
 
 - No Murray / Murry / Murrey tax evidence was found in the checked 1817-1850 span.
 - Eliza Jane Murry appears in 1853.
-- Patrick Murry and James Murray appear in 1854.
+- Patrick Murry and James Murray appear in the same probable-1854 tax-list sequence.
 - Luke Murray married Anne Loghan in Lewis County in 1854, but no taxable Luke was found before or during the checked 1854 M-section pages.
 
 This makes the **older Luke & Margaret Murry** parent-couple problem sharper. Patrick's 1871 death register names parents Luke and Margaret Murry, but no older taxable Luke has appeared in Lewis County tax lists through the checked span. If the tax-list pass is complete enough, the older Luke may have died before the family's Lewis County tax appearance, remained in Ireland, settled elsewhere, or left only church / probate / deed traces outside the pages checked.
@@ -93,7 +119,7 @@ The result does **not** prove a pre-1843 Murray anchor family. It instead sugges
 
 ## Next Research Target
 
-1. Verify `Murray James` on `i3811884-00377` and inspect the related proof / summary page `i3811884-00378` for district or commissioner clues.
+1. Check `i3811884-00376`, the image immediately before the James Murray page, for a cover page, header sheet, full year, commissioner name, or district number.
 2. Capture or independently transcribe the Ancestry images for 1853 Eliza Jane Murry and the 1854 Loghan entries.
 3. Finish the remaining personal-property-tax gap: 1855 M-section coverage, 1856, and 1857-1860 image set `i3811885`.
 4. Pull the 1854 Luke Murray / Anne Loghan marriage register and bond/consent images to identify witnesses, bondsmen, or parental clues.
