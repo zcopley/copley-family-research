@@ -10,6 +10,16 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4CB - Taxable-Persons Page 00371 Check Integrated (May 24, 2026)
+
+**MURRY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome check of Ancestry image `i3811884-00371`. The image is taxable-persons page 12 with H-section names and a bottom `Jackson, George` entry, confirming sequence continuity into the later J- and M-section pages. It still does not resolve the probable-1854 year caveat because the right side of the header is cut off beyond the scan boundary.
+
+### Updated Pages
+
+- [[References/Claude for Chrome Lewis County Personal Property Tax Check|Claude for Chrome Lewis County Personal Property Tax Check]] - added the `00371` taxable-persons page result, raw source link, H-to-J sequence note, and revised next image target.
+- [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]] and [[Tier 1 Research Execution Kit|Tier 1 Research Execution Kit]] - shifted the next Claude for Chrome task to `i3811884-00370`, looking for the proof page before page 12 or any clearer district / year clue.
+- [[Sources and Evidence Index|Sources and Evidence Index]], [[Research Priorities and Action Items|Research Priorities and Action Items]], [[Topics/Murray Settlement|Murray Settlement]], [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]], [[Search Index|Search Index]], and `.agents/AGENT_RESUME.md` - updated the active Murray workflow so `00371` is treated as useful but unresolved and `00370` is the next bite-size target.
+
 ## Phase 4CA - Tax Proof Page 00372 Check Integrated (May 24, 2026)
 
 **MURRY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome check of Ancestry image `i3811884-00372`. The image is another proof / summary page in the same sequence as `00374`, `00376`, and `00378`; it has the same `for the year 185_` truncation and blank district / commissioner field. It extends the sequence backward but does not resolve the probable-1854 year caveat.

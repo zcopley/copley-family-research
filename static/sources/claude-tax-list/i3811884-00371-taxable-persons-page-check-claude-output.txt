@@ -1,0 +1,57 @@
+Image i3811884-00371 -- Analysis Report
+
+Core Identification
+
+| Field | Value |
+|---|---|
+| URL | https://www.ancestry.com/imageviewer/collections/62774/images/i3811884-00371 |
+| Ancestry viewer counter | 372 of 646. Ancestry's sequential counter is offset by 1 from the filename. |
+| Page type | Taxable-persons page; columnar ledger, not a proof or cover page. |
+| Page number | 12, written in the upper-left margin. |
+| Year | Not readable. The year/date field is in the far right of the header, which is cut off beyond the scan boundary. |
+| District / Commissioner | Not readable for the same reason. The header reads "List of Taxable Persons, Property, &c. within the District of" and then the district name and commissioner are past the right edge of the scan. |
+| Full header text | "List of Taxable Persons, Property, &c. within the District of [cut off]" |
+
+Name Transcription: Rows 1-15, Bottom of Page
+
+These are H-surname entries, consistent with alphabetical ordering just before the I/J break.
+
+| Row | Name as read |
+|---|---|
+| 1 | Houghton, Alexander |
+| 2 | Holt, John W. |
+| 3 | Hacker, C. M. or E. M. |
+| 4 | Hale & Vandervoort |
+| 5 | Hall, James A. |
+| 6 | Harris, George W. |
+| 7 | Hamilton, John W. or H. |
+| 8 | Harrison, M. W. or N. W. |
+| 9 | Hornis or Harris, George, with a "2" notation |
+| 10 | Harris, [T.?] Wolfork or Wolfolk |
+| 11 | Hannas [Louis? Dorin?], B.; partially obscured by watermark |
+| 12 | Hannis, Zachariah |
+| 13 | Hannis, [Olmsten / Almsten?] |
+| 14 | Hannis, Perry |
+| 15 | Huffman & [Staundon / Herndon?] |
+
+Rows 16-28 are blank.
+
+Row approximately 29, at the very bottom of the page: Jackson, George. This appears to be the first J-surname entry, carrying over or beginning the next alphabetical block.
+
+Sequence Analysis
+
+Image 00371 fits into the sequence as:
+
+00371 -> 00372 proof -> 00373 page 13 -> 00374 proof -> 00375 page 14 -> 00376 proof -> 00377 page 15, James Murray -> 00378 proof -> 00379 page 16, Patrick Murry.
+
+Image 00371 is page 12 of the taxable-persons list, and image 00372 is its associated proof/summary page. This confirms the alternating pattern: taxable-persons page -> proof page -> next taxable-persons page -> proof page.
+
+Year and District Clarification
+
+This page does not clarify the year or district. The right side of the header is cut off in the scan, as with the proof pages where "for the year 185_" has the final digit cut off. The district and commissioner fields are also truncated.
+
+It marginally helps by confirming continuous sequence within one year's tax roll. Cross-referencing dateable names or partnerships such as Hale & Vandervoort or Huffman may narrow the year.
+
+Best Next Image
+
+Best next image to check for year/district context: i3811884-00370. It should be the proof/summary page immediately preceding page 12. That proof page may show a more legible "for the year 185_" header or possibly the district/commissioner if the scan crop is different. If not, look further back to i3811884-00369 or i3811884-00368 for the cover/title page of this tax book.
