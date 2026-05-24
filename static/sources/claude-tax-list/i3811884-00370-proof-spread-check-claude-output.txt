@@ -1,0 +1,70 @@
+Image i3811884-00370 -- Full Report
+
+Page Type
+Two-page spread: left half = taxable-persons list with numbered rows and property columns; right half = proof page / summary totals. This is the same format as 00372, 00374, 00376, and 00378: a proof page paired with its preceding taxable page, both captured in a single scan.
+
+URL / Image Counter
+- URL: https://www.ancestry.com/imageviewer/collections/62774/images/i3811884-00370?pId=394409
+- Ancestry image counter: 371 of 646. Ancestry's internal counter runs one ahead of the filename sequence, so 00370 = counter 371.
+- pId: 394409.
+
+Page Number Visible
+The left taxable-persons side is not numbered in this image. The row numbers visible are entry-line numbers, approximately 1 through 29, not a page header number. No explicit page-number header is visible on either half.
+
+Header Text
+
+| Side | Text |
+|---|---|
+| Left taxable list | "A Commissioner of the Revenue in the _________"; district/county field blank / not filled in |
+| Right proof | "for the year 185"; followed by blank space / absent final digit |
+
+Year
+"185_". The header on the right proof side reads "for the year 185". No additional digit is visible after the 5. The physical edge of the printed form is visible immediately to the right of "185", but the last digit is cut off by the scan boundary or was never ink-filled on this copy. This image does not resolve the missing year digit.
+
+District / Commissioner
+- District: The field after "A Commissioner of the Revenue in the" is blank. No district name or number is written in.
+- Commissioner: No commissioner name appears anywhere on either half of this image.
+
+Proof Totals
+
+| No. | Item | Value | Tax/Value | Total Tax |
+|---|---|---|---|---|
+| 31 | White males, at 40 cents | -- | -- | 12.41 |
+| -- | Male free negroes, at 100 cents | -- | -- | -- |
+| 2 | Slaves, at 60 cents | -- | -- | 1.21 |
+| 49 | Horses, mules, asses and jennets | 2585 | 517 | -- |
+| 755 | Cattle, sheep and hogs | 1858 | 7716[0] | -- |
+| -- | Pleasure carriages, illegible | 1 4[?] | 2[?] | -- |
+| 2 | Watches | 35 | 7 | -- |
+| 17 | Clocks | 11 | 1420 | -- |
+| -- | Pianos and harps | -- | -- | -- |
+| -- | Plate and jewelry | 55 | 7 | -- |
+| -- | Household and kitchen furniture | 1868 | 453.60 | -- |
+| -- | Moneys, bonds, securities and claims | 7160 | 14.1[2] | -- |
+| -- | Capital invested in mining or manufacturing | -- | -- | -- |
+| -- | Moneys, &c., under control of a court, &c. | -- | -- | -- |
+| -- | Capital of companies which declare no dividend | -- | -- | -- |
+| -- | Personal property, &c. of internal improvement companies | -- | -- | -- |
+| -- | Other articles of personal property | 344 | 68.8[0] | -- |
+| -- | Fees of office | -- | -- | -- |
+| -- | Interest or profit, at 3.5 per cent | -- | -- | -- |
+| -- | Dividends, 3.5 per cent | -- | -- | -- |
+| -- | Toll-bridges and ferries, 3 per cent | -- | -- | -- |
+
+Some figures are partially obscured by fold or stain; bracketed digits are uncertain.
+
+Left-Side Taxable-Persons List
+The left half shows approximately rows 1-29 with dollar amounts in the value of personal property and tax columns. The names column is obscured or illegible in this scan; names do not appear in this portion of the spread and would be on preceding pages.
+
+Does This Clarify the James Murray / Patrick Murry Year or District?
+No. Image 00370 has the same limitation as the other proof pages in the sequence:
+- The year reads "185" with the final digit cut off or absent.
+- The district field is blank.
+- No commissioner name appears.
+
+Best Next Images to Check
+1. Go earlier in the sequence: check 00369, 00368, 00367, or further back for a cover/header/title page for this book segment, which may give the full year, county district, and commissioner's name.
+2. Check 00380 or beyond after the Patrick Murry page for a closing page or next book-segment start.
+3. Alternatively, look much earlier in the same film segment, such as the first image of this Lewis County tax-year block.
+
+The single most likely productive next image is i3811884-00369, one before 00370.

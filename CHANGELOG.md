@@ -10,6 +10,26 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4CD - Taxable-Persons Page 00369 Check Integrated (May 24, 2026)
+
+**MURRY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome check of Ancestry image `i3811884-00369`. The image is taxable-persons page 11 with H-section names, but the page still has no visible year, no filled district field, and no commissioner name. It confirms more alphabetical continuity before the James Murray / Patrick Murry pages without resolving the probable-1854 year caveat.
+
+### Updated Pages
+
+- [[References/Claude for Chrome Lewis County Personal Property Tax Check|Claude for Chrome Lewis County Personal Property Tax Check]] - added the `00369` taxable-persons page result, raw source link, H-section sequence note, and revised next image target.
+- [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]] and [[Tier 1 Research Execution Kit|Tier 1 Research Execution Kit]] - shifted the next Claude for Chrome task to `i3811884-00368`, looking for a cover/header/title page or other clearer district / year clue.
+- [[Sources and Evidence Index|Sources and Evidence Index]], [[Research Priorities and Action Items|Research Priorities and Action Items]], [[Topics/Murray Settlement|Murray Settlement]], [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]], [[Search Index|Search Index]], and `.agents/AGENT_RESUME.md` - updated the active Murray workflow so `00369` is treated as useful but unresolved and `00368` is the next bite-size target.
+
+## Phase 4CC - Tax Proof Spread 00370 Check Integrated (May 24, 2026)
+
+**MURRY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome check of Ancestry image `i3811884-00370`. The image is another proof/taxable spread in the same sequence and repeats the unresolved `for the year 185_` problem, with a blank district field and no commissioner name. It does not settle the probable-1854 year caveat.
+
+### Updated Pages
+
+- [[References/Claude for Chrome Lewis County Personal Property Tax Check|Claude for Chrome Lewis County Personal Property Tax Check]] - added the `00370` proof-spread result, raw source link, and revised next image target.
+- [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]] and [[Tier 1 Research Execution Kit|Tier 1 Research Execution Kit]] - shifted the next Claude for Chrome task to `i3811884-00369`, looking for a cover/header/title page or other clearer district / year clue.
+- [[Sources and Evidence Index|Sources and Evidence Index]], [[Research Priorities and Action Items|Research Priorities and Action Items]], [[Topics/Murray Settlement|Murray Settlement]], [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]], [[Search Index|Search Index]], and `.agents/AGENT_RESUME.md` - updated the active Murray workflow so `00370` is treated as useful but unresolved and `00369` is the next bite-size target.
+
 ## Phase 4CB - Taxable-Persons Page 00371 Check Integrated (May 24, 2026)
 
 **MURRY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome check of Ancestry image `i3811884-00371`. The image is taxable-persons page 12 with H-section names and a bottom `Jackson, George` entry, confirming sequence continuity into the later J- and M-section pages. It still does not resolve the probable-1854 year caveat because the right side of the header is cut off beyond the scan boundary.
