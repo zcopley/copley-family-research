@@ -10,6 +10,16 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4BZ - Taxable-Persons Page 00373 Check Integrated (May 24, 2026)
+
+**MURRY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome check of Ancestry image `i3811884-00373`. The image is taxable-persons page 13 with J-section names and confirms the backward page sequence before the James Murray / Patrick Murry pages, but it has no visible year, no filled district field, and no commissioner name.
+
+### Updated Pages
+
+- [[References/Claude for Chrome Lewis County Personal Property Tax Check|Claude for Chrome Lewis County Personal Property Tax Check]] - added the `00373` taxable-persons page result, raw source link, and revised next image target.
+- [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]] and [[Tier 1 Research Execution Kit|Tier 1 Research Execution Kit]] - shifted the next Claude for Chrome task to `i3811884-00372`, looking for a cover/header/proof page or other clearer district / year clue before page 13.
+- [[Sources and Evidence Index|Sources and Evidence Index]], [[Research Priorities and Action Items|Research Priorities and Action Items]], [[Topics/Murray Settlement|Murray Settlement]], [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]], [[Search Index|Search Index]], and `.agents/AGENT_RESUME.md` - updated the active Murray workflow so `00373` is treated as useful but unresolved and `00372` is the next bite-size target.
+
 ## Phase 4BY - Tax Proof Page 00374 Check Integrated (May 24, 2026)
 
 **MURRY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome check of Ancestry image `i3811884-00374`. The image is another proof / summary page, not a cover or title page. It confirms sequential continuity before the James Murray / Patrick Murry pages and preserves the Ancestry source bracket **Lewis County, 1851-1856**, but the image still cuts off the final year digit and has no legible district or commissioner.

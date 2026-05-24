@@ -1,0 +1,74 @@
+Research Report: Image i3811884-00373
+
+Page Type
+Taxable-persons page -- a standard printed "List of Taxable Persons, Property, &c." columnar form.
+
+Image / URL
+- Image ID: i3811884-00373
+- URL: https://www.ancestry.com/imageviewer/collections/62774/images/i3811884-00373
+- Ancestry film counter: 374 of 646. Ancestry's counter appears to be 1-indexed from the roll start, while the image number i3811884-00373 corresponds to frame 373 in the image ID.
+
+Full Year if Visible
+Not visible. No year appears anywhere on this page -- no header year, no column year annotation. This is consistent with the other pages in this district block: 00374, 00375, 00376, and 00378.
+
+District / Commissioner if Visible
+- District name: Blank / not filled in. The pre-printed header reads "List of Taxable Persons, Property, &c. within the District of ___"; the space after "of" is empty.
+- Commissioner: Not visible anywhere on this page.
+- Page number, manuscript top-left: 13.
+
+Header Transcription
+"List of Taxable Persons, Property, &c. within the District of" [blank]
+
+Sub-columns: Persons Chargeable with Tax; Tithables; Horses, mules, asses, and jacks; Cattle, sheep and hogs; property/tax columns; Watches; Clocks; Pianos and Harps; tax total columns.
+
+Names on the Page
+
+The page is alphabetically in the J surnames and appears to be a continuation list from a previous J-section.
+
+| Line | Name as written |
+|---|---|
+| 1 | Jackson, George[tt/s] |
+| 2 | Jarvis, Amos |
+| 3 | Jack, Thomas |
+| 4 | Jarvis, Solomon |
+| 5 | Irvine, Robert |
+| 6 | Jarvis, James |
+| 7 | Jackson, John C. |
+| 8 | Jackson, Jacob J. |
+| 9 | Jones, John |
+| 10 | Jack, John S. |
+| 11 | Jackson, George B. |
+| 12 | Johnson, Fring[?] H. |
+| 13 | Johnson, John |
+| 14 | Johnson, Richard |
+| 15 | Johnson, Martin |
+| 16 | Johnson, Chancy J. |
+| 17 | Jeffers, John J. |
+| 18 | Jennings, John P. |
+| 19 | Johns, Harvey |
+| 20 | Johns, Zachariah |
+| 21 | Jeffers, Hudson |
+| 22 | Jeffers, [E]rin |
+| 23 | Johnson, John |
+| 24 | Jackson, Geo. A. |
+| 25 | Johnson, Abel |
+| 26 | Johnson, John G. |
+| 27 | Johnson, Raymond |
+| 28 | [Krause?] Anderson John |
+| 29 | Keith, John J. |
+
+Lines 21-29 are partly obscured by the Ancestry page-counter overlay in the lower section.
+
+Assessment
+Image i3811884-00373 does not clarify the James / Patrick year or district context. Like i3811884-00375, it is a standard taxable-persons sheet with a blank district field, no year, and no commissioner name.
+
+It confirms sequence: page 13 -> proof/summary 00374 -> page 14 (00375) -> proof/summary 00376 -> page 15 with James Murray (00377) -> proof/summary 00378 -> page 16 with Patrick Murry (00379). The district block covers at least pages 13-16 with summary sheets interspersed.
+
+The alphabetical sequence in J surnames -- Jackson, Jarvis, Jack, Johnson, Jeffers, Jennings, Johns, Keith -- supports the same commissioner's district sequence as the Murray pages, with a J-to-M progression.
+
+Best Next Images to Check
+1. i3811884-00372 -- immediately before page 13. If the district started fresh here, this may be a cover/header sheet or proof/summary page with a more legible year.
+2. i3811884-00371 -- if 00372 is also a taxable-persons page, go one further back to find the cover sheet.
+3. i3811884-00380 -- immediately after Patrick Murry on page 16; may be a proof/summary page or the beginning of the next district's cover sheet.
+
+Recommended next image: i3811884-00372.
