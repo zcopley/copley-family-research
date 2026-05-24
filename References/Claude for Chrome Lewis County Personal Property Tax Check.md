@@ -25,6 +25,7 @@ This note preserves Zach's Claude for Chrome handoff for the Ancestry collection
 - [Download raw James Murray image-verification report](../static/sources/claude-tax-list/i3811884-00377-james-murray-verification-claude-output.txt)
 - [Download raw `i3811884-00376` proof-page header check](../static/sources/claude-tax-list/i3811884-00376-proof-page-header-check-claude-output.txt)
 - [Download raw `i3811884-00375` taxable-persons page check](../static/sources/claude-tax-list/i3811884-00375-taxable-persons-page-check-claude-output.txt)
+- [Download raw `i3811884-00374` proof-page check](../static/sources/claude-tax-list/i3811884-00374-proof-page-check-claude-output.txt)
 - Prior indexed-search note: [[References/Claude for Chrome Lewis County Older Luke Margaret Round 2 Search]]
 - Prior original-image note: [[References/Claude for Chrome Lewis County Murry Original Image Transcription]]
 
@@ -134,7 +135,23 @@ The next May 22, 2026 follow-up checked `i3811884-00375`, the image immediately 
 | Names / sequence | Ends with surnames such as Padget, Schwartz, and Langford; directly precedes proof page `i3811884-00376` |
 | Interpretation | Useful but unresolved. It is the last taxable-persons page before the `00376` proof page, but it does not supply the missing year digit, district, or commissioner. |
 
-The next single-image target is now `i3811884-00374`, immediately before this taxable-persons page. It may be a cover / title page for the district list or a proof / summary page for the preceding block.
+At that point, the next single-image target was `i3811884-00374`, immediately before this taxable-persons page. That follow-up is summarized below.
+
+## `i3811884-00374` Page Check
+
+The next May 2026 follow-up checked `i3811884-00374`, the image immediately before taxable-persons page `00375`.
+
+| Field | Result |
+|---|---|
+| Image | Ancestry `i3811884-00374`, viewer position 375 of 646 |
+| Page type | Proof / summary page, not a cover or title page |
+| Year | Header reads `for the year 185`; final digit is again cut off |
+| Ancestry source bracket | County of Lewis, year range 1851-1856 |
+| District / commissioner | District handwriting is too faint to read; no commissioner signature visible |
+| Sequence clue | PROOF box shows `No. 30`; adjacent `00375` is taxable-persons page 14, supporting consecutive pages in the same district book |
+| Interpretation | Useful but unresolved. It confirms continuity and the 1851-1856 source bracket, but does not supply the missing year digit, district, or commissioner. |
+
+The next single-image target is now `i3811884-00373`, the taxable-persons page directly before this proof sheet. It may show page 13 of the list and could have a more legible district header or page-sequence clue.
 
 ## RQ-M1 Interpretation
 
@@ -151,7 +168,7 @@ The result does **not** prove a pre-1843 Murray anchor family. It instead sugges
 
 ## Next Research Target
 
-1. Check `i3811884-00374`, the image immediately before the unresolved taxable-persons page, for a cover page, header sheet, full year, commissioner name, district number, or page-sequence clue.
+1. Check `i3811884-00373`, the image immediately before the unresolved proof page `00374`, for a cover page, header sheet, full year, commissioner name, district number, or page-sequence clue.
 2. Capture or independently transcribe the Ancestry images for 1853 Eliza Jane Murry and the 1854 Loghan entries.
 3. Finish the remaining personal-property-tax gap: 1855 M-section coverage, 1856, and 1857-1860 image set `i3811885`.
 4. Pull the 1854 Luke Murray / Anne Loghan marriage register and bond/consent images to identify witnesses, bondsmen, or parental clues.

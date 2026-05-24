@@ -10,6 +10,16 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4BY - Tax Proof Page 00374 Check Integrated (May 24, 2026)
+
+**MURRY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome check of Ancestry image `i3811884-00374`. The image is another proof / summary page, not a cover or title page. It confirms sequential continuity before the James Murray / Patrick Murry pages and preserves the Ancestry source bracket **Lewis County, 1851-1856**, but the image still cuts off the final year digit and has no legible district or commissioner.
+
+### Updated Pages
+
+- [[References/Claude for Chrome Lewis County Personal Property Tax Check|Claude for Chrome Lewis County Personal Property Tax Check]] - added the `00374` proof-page result, raw source link, source-bracket note, and revised next image target.
+- [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]] and [[Tier 1 Research Execution Kit|Tier 1 Research Execution Kit]] - shifted the next Claude for Chrome task to `i3811884-00373`, looking for the taxable-persons page before `00374` and any clearer district / year clue.
+- [[Sources and Evidence Index|Sources and Evidence Index]], [[Research Priorities and Action Items|Research Priorities and Action Items]], [[Topics/Murray Settlement|Murray Settlement]], [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]], [[Search Index|Search Index]], and `.agents/AGENT_RESUME.md` - updated the active Murray workflow so `00374` is treated as useful but unresolved and `00373` is the next bite-size target.
+
 ## Phase 4BX - Taxable-Persons Page Header Check Integrated (May 22, 2026)
 
 **MURRY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome check of Ancestry image `i3811884-00375`. The image is a taxable-persons page, page 14, directly before proof page `i3811884-00376`, but it has no visible year, no legible district name, and no commissioner signature. It confirms the backward page sequence but still does not settle the probable-1854 year caveat for the James Murray / Patrick Murry tax-list sequence.

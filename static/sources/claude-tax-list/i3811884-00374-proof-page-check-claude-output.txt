@@ -1,0 +1,73 @@
+Findings: Image i3811884-00374
+
+URL:
+
+https://www.ancestry.com/imageviewer/collections/62774/images/i3811884-00374
+
+Ancestry film position: image 375 of 646.
+
+Page type:
+
+Proof / summary page. This is a two-column spread with the taxable-persons list occupying the left portion, 31 visible rows, and the standard PROOF box on the right.
+
+Full year:
+
+Not fully legible from the image. The printed header reads "for the year 185" with the final digit cut off at the right margin of the document, exactly as on i3811884-00376 and i3811884-00378.
+
+The Ancestry Source tab for this image states: Source Location: County of Lewis / Year Range: 1851-1856. That narrows the year to one of 1851, 1852, 1853, 1854, 1855, or 1856, the same bracket that applies to the adjacent Murray images.
+
+District / commissioner:
+
+- District name: the handwritten text in the header between "in the" and "for the year 185" is extremely faint in the microfilm scan and not legible, the same problem noted on 00375, 00376, and 00378. No name could be read despite zoom, invert-colors, and enhanced contrast attempts.
+- Commissioner name: does not appear in the header text; no signature or certification line was visible at the bottom of the PROOF section in this scan.
+
+PROOF box: "No. 30"
+
+At the top of the PROOF box, above the category list, the handwritten number "No. 30" appears. In Virginia personal-property-tax records of this era, this "No." typically records the page number of the taxable-persons list being summarized on that proof sheet. If so, this is the proof for taxable-persons page 13, meaning page number 30 of the combined book or the 13th page of this district. The adjacent image i3811884-00375 is known to be taxable-persons page 14, which is the next page, confirming these are consecutive pages in the same continuous district book.
+
+PROOF section transcription:
+
+- White males, at 40 cents: 87; tax 11 [about $11.20?].
+- Male free negroes, at 100 cents: none.
+- Slaves, at 60 cents: 4; tax 2.41.
+- Horses, mules, asses, and jennets: 52; value 2,685; tax 537.
+- Cattle, sheep, and hogs: 504; value 3,668; tax 733.60.
+- Pleasure carriages, stage coaches, etc.: 1; tax about 50.
+- Watches: tax 15.
+- Clocks: 14; tax 24.
+- Pianos and harps: none.
+- Plate and jewelry: tax 31.
+- Household and kitchen furniture: value 1,886; tax about 257.
+- Money, bonds, securities, and claims: value 2,655; tax 931.
+- Other articles of personal property: about 879; tax 75.60.
+- Fees of office: tax 57.
+- Amount of income: 4.87 (50).
+- Interest / profit at 3.5 percent: none.
+- Toll-bridges and ferries, 3 percent: none.
+- Total: about $45.37.
+
+Taxable-persons list, left side:
+
+The page runs to at least 31 rows, rows 1-31. The names column is in the first column and is cut off by the left binding in the scan.
+
+Selected visible aggregate-value entries, column 1 of tax columns:
+
+- Rows 1-5: 55, 70, 9x, 159, 2340, with 200 and 650 in further columns.
+- Rows 6-10: 118, blank, 2875, 20, 62.
+- Rows 11-15: 983, 94, 51, 1578, 78.
+- Rows 16-20: 10, 45, 975, 220, 391.
+- Rows 21-25: 159, 25, blank, 685, 160.
+- Rows 26-31: 61, 58, 153, 503, 575, 375.
+
+Does this clarify the Murray year / district context?
+
+Partially:
+
+1. Same film group, same year bracket, 1851-1856. This image and the Murray pages 00375-00379 all belong to Lewis County, 1851-1856. The year "185_" visible on all pages is consistent; the exact digit remains unresolved from the image itself.
+2. Sequential continuity confirmed. With "No. 30" in the PROOF box and i3811884-00375 starting taxable-persons page 14, i3811884-00374 is the proof summary for the immediately preceding taxable-persons page, page 13 / "No. 30". These are consecutive pages of the same commissioner's district book.
+3. District name still unreadable. The critical handwriting in the header is as faint here as on 00375, 00376, and 00378, so the district name and commissioner cannot be resolved from this image.
+4. Not a cover or title page. There is no new district header introducing a fresh list, no year with a legible final digit, and no commissioner signature visible.
+
+Best next image:
+
+i3811884-00373, the taxable-persons page directly before this proof sheet. That page should show page 13 of the list and may have the district name written more legibly in its own header, or its upper-left corner may carry a page number and district label. If that is also hard to read, look further back for a district cover page with the commissioner's name, district number / name, and full year written prominently as a heading for the entire set.
