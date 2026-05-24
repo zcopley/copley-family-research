@@ -1,0 +1,56 @@
+Image i3811884-00372 -- Research Findings
+
+URL: https://www.ancestry.com/imageviewer/collections/62774/images/i3811884-00372
+Collection: Virginia, U.S., Personal Property Tax Records, 1782-1900 -- Lewis County
+
+Page Type
+Proof / Summary page -- identical in format and layout to the other proof pages already noted in the sequence: i3811884-00374, 00376, and 00378.
+
+Header Transcription
+"A Commissioner of the Revenue in the" [district field blank / not hand-written] "for the year 185" [last digit cut off by paper/microfilm edge]
+
+This is the same condition as the other proof pages: the printed form has "A Commissioner of the Revenue in the _____ for the year 185_", but the handwritten district name is absent and the final digit of the year is cut off at the right edge of the microfilm scan.
+
+Full Year Visible?
+No. The printed text reads "for the year 185" and the final digit is truncated by the physical edge of the document/film, identical to the other proof pages in this sequence.
+
+District / Commissioner Visible?
+No. The district/commissioner name field between "in the" and "for the year" is blank. No handwritten name is present on this proof page.
+
+PROOF Section -- Legible Totals
+
+| No. | Category | Value | Tax on Value |
+|---|---|---|---|
+| 16 | White males, at 40 cents | -- | -- |
+| 1 | Male free negroes, at 100 cents | -- | -- |
+| 4 | Slaves, at 60 cents | -- | -- |
+| 21 | Horses, mules, asses and jennets | 1,173 | ~23.46[0] |
+| 113 | Cattle, sheep and hogs | 654 | ~12.68[0] |
+| 1 | Pleasure carriages, stage coaches, &c. | 125 | ~[6]5 |
+| 5 | Watches | 167 | ~3.3[40] |
+| 7 | Clocks | 45 | 9 |
+| -- | Pianos and harps | -- | -- |
+| -- | Plate and jewelry | 15 | 3 |
+| -- | Household and kitchen furniture | 1,256 | ~25.1[?] |
+| -- | Moneys, bonds, securities and claims | ~16,000 | ~32.00 |
+| -- | Capital invested in mining or manufacturing | ~5[?] | ~1.0[0] |
+| -- | Other articles of personal property | 170 | 84 [cents?] |
+
+Bottom lines visible include "Toll-bridges and ferries, 3 per cent", "Values and tax thereon", and "Total", with a figure of approximately $[?]27.
+
+Left Side Summary Columns
+The taxable-persons summary side shows row-by-row aggregate figures. Rows 1-15 are populated and rows 16-29 are blank, with totals in the right aggregate column including values like 760, 3760, 15, 13880, 5140, 56, 87, 74, 25, 1640, 540, and 3220.
+
+Does i3811884-00372 Clarify the James/Patrick Year or District?
+No. It is another proof page in the same condition as 00374, 00376, and 00378. The district name is blank and the year's final digit is cut off.
+
+It extends the sequence one step further back:
+
+proof 00372 -> page 13 / 00373 -> proof 00374 -> page 14 / 00375 -> proof 00376 -> page 15 James / 00377 -> proof 00378 -> page 16 Patrick / 00379
+
+This means 00372 is the proof page for whatever taxable-persons page precedes it, likely page 12 or the preceding page block.
+
+Best Next Image to Check
+i3811884-00371 -- the taxable-persons page immediately before the 00372 proof page, likely page 12. It may carry a readable header with year, district, or commissioner, or may show names from an earlier letter of the alphabet confirming the alphabetical/sequential run. If the pages go further back into a new commissioner block, i3811884-00370 or earlier images may show a cover/header sheet that names the district and gives the complete year.
+
+Recommended next image: i3811884-00371.
