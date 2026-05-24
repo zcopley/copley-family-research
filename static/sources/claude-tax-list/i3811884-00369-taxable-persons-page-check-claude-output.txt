@@ -1,0 +1,72 @@
+Image 00369 -- Full Report
+
+Page Type
+Taxable-persons page, standard printed form: "List of Taxable Persons, Property, &c."
+
+URL / Image Counter / pId
+- URL: https://www.ancestry.com/imageviewer/collections/62774/images/i3811884-00369?pId=394408
+- Ancestry image counter: 370 of 646. The URL slug is 00369 but the internal counter reads 370; Ancestry's counter is 1-indexed while the filename is 0-indexed.
+- pId: 394408.
+- Ancestry Details panel: "No record has been selected or there is no record in this collection"; image is unindexed.
+
+Page Number
+Page 11, handwritten at top-left margin of the document.
+
+Header Text
+"List of Taxable Persons, Property, &c. within the District of"
+
+The district name field after "of" is blank. Nothing has been written in. The right edge of the form where a district name would appear is either empty or cut off by the scan boundary.
+
+Year
+Not visible. No year appears anywhere on this page: not in the header, not as a marginal note, and not in any column. The form is a printed template with no year pre-printed or handwritten on this sheet.
+
+District / Commissioner
+- District: Blank; the "District of ___" field is unfilled.
+- Commissioner: Not visible on this page.
+
+Names Transcribed
+
+| # | Name as written |
+|---|---|
+| 1 | Hardman, Marcellus S. |
+| 2 | Hardman, Henry G. |
+| 3 | Hamner, John |
+| 4 | Hyne, Leonard M. |
+| 5 | Harper, Warwick G. |
+| 6 | Helmrich, Ira C. |
+| 7 | Hall, David |
+| 8 | Hall, Jonathan |
+| 9 | Hall, Abraham R. |
+| 10 | Hall, Ezra |
+| 11 | Hardman, Joshuall (Joshua?) |
+| 12 | Hiter, M. C.?? |
+| 13 | Halterman, George |
+| 14 | Hepner, George |
+| 15 | Hall, Joseph |
+| 16 | Hardman, John G. |
+| 17 | Hepner, James |
+| 18 | Hepner, Michael |
+| 19 | Hepner, Godfrey G. |
+| 20 | Harper, Peter Sr. |
+| 21 | Hall, Hannabal R. |
+| 22 | Hepner, Benjamin |
+| 23 | Holt, Spell S. |
+| 24 | Holt, Jonathan |
+| 25 | Houghton, Job |
+| 26 | Haskins, Thomas |
+| 27 | Harris, John |
+| 28 | Harris, John 1B [Jr.?] |
+
+Alphabetic Sequence
+All names begin with H, running through Hard-, Ham-, Hayn-/Hyne-, Harp-, Hel-, Hall-, Har-, Hit-, Halt-, Hep-, Hop-/Holt-, Houg-, Hask-, and Harr-. This is a single continuous H-section. The list is organized alphabetically by surname, consistent with pages preceding the Murray entries.
+
+Does This Clarify the James / Patrick Year or District?
+Partially, but not definitively.
+
+- Year: Still not resolved from this image. No year is written on the page.
+- District: Still not resolved. The "District of ___" field is blank on this sheet.
+- Commissioner: Not visible.
+- Structural context gained: Page 11 is a taxable-persons page in the H-surname section. It confirms the sequence is a single continuous tax book proceeding alphabetically from H toward M. Page 15 is James Murray and page 16 is Patrick Murry, so there are four pages of taxable names between page 11 and the Murray entries, consistent with the I, J, K, L, M progression.
+
+Best Next Image to Check
+Go backwards: check i3811884-00368, or earlier, for a cover/title page, commissioner's certificate, or year heading for this book. The year is likely on a cover page at the start of this tax book's section, which would be a few images before 00369.
