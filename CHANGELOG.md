@@ -10,6 +10,17 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4CE - Tax Proof Spread 00368 Check Integrated (May 24, 2026)
+
+**MURRY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome check of Ancestry image `i3811884-00368`. The image is a two-page proof / summary spread immediately before taxable-persons page `00369`; it again shows only `185` for the year, with the district name obscured in the gutter and no visible commissioner name.
+
+### Updated Pages
+
+- [[References/Claude for Chrome Lewis County Personal Property Tax Check|Claude for Chrome Lewis County Personal Property Tax Check]] - added the `00368` proof-spread result and raw source link.
+- [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]] and [[Tier 1 Research Execution Kit|Tier 1 Research Execution Kit]] - shifted the next Claude for Chrome task to `i3811884-00367`, looking for a cover/header/title page or other clearer district / year clue.
+- [[Sources and Evidence Index|Sources and Evidence Index]], [[Research Priorities and Action Items|Research Priorities and Action Items]], [[Topics/Murray Settlement|Murray Settlement]], [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]], [[Search Index|Search Index]], and `.agents/AGENT_RESUME.md` - updated the active Murray workflow so `00368` is treated as useful but unresolved and `00367` is the next bite-size target.
+- `static/sources/claude-tax-list/i3811884-00368-proof-spread-check-claude-output.txt` - preserved the raw Claude for Chrome handoff.
+
 ## Phase 4CD - Taxable-Persons Page 00369 Check Integrated (May 24, 2026)
 
 **MURRY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome check of Ancestry image `i3811884-00369`. The image is taxable-persons page 11 with H-section names, but the page still has no visible year, no filled district field, and no commissioner name. It confirms more alphabetical continuity before the James Murray / Patrick Murry pages without resolving the probable-1854 year caveat.
