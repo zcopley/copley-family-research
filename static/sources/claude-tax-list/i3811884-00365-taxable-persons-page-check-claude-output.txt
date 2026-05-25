@@ -1,0 +1,68 @@
+Image i3811884-00365 -- Full Report
+
+Page Type
+Taxable-persons page: standard printed "List of Taxable Persons, Property, &c." ledger sheet, identical in format to pages 10-16 already known.
+
+URL / Image Counter / pId
+
+| Field | Value |
+|---|---|
+| URL | https://www.ancestry.com/imageviewer/collections/62774/images/i3811884-00365?pId=394404 |
+| Ancestry image counter | 366 of 646 |
+| pId | 394404 |
+| Note | Ancestry's counter is 1-indexed, so counter position 366 equals file suffix 00365 |
+
+Page Number
+Page 9. The numeral "9" appears handwritten in the top-left margin, consistent with its position immediately before page 10, image 00367.
+
+Header Text
+"List of Taxable Persons, Property, &c. within the District of"
+
+The fill-in blank following "District of" is empty. No district name is written. This is the same defect already noted on pages 10-16.
+
+Year
+Not visible. No year is written anywhere on this page.
+
+District / Commissioner
+- District: blank, not filled in.
+- Commissioner: not visible on this page.
+
+Names Transcribed
+
+| Row | Name as read |
+|---|---|
+| 10 | Gibson W[illia]m |
+| 11 | Gibson John J/T |
+| 12 | Green[e] W[illia]m |
+| 13 | Green [Isaac?] |
+| 14 | Gaston Hugh |
+| 15 | Garnett Jesse / Isaac |
+| 16 | Gaylor / Gaylord James |
+| 17 | Gilleoly / Gillooly Owen |
+| 18 | Gilleoly / Gillooly Patrick |
+| 19 | Greathouse Gabriel J |
+| 20 | Godfrey [first name] |
+| 21 | Godfrey Robert |
+| 22 | Gay Andrews W J |
+| 23 | Godfrey John |
+| 24 | Godfrey [first name] J |
+| 25 | Groves / Graves Washington |
+| 26 | Graves / Groves John |
+| 27 | Gain / Gavin Johnson |
+| 28 | Galford Thomas |
+| 29 | Galford John |
+| 30 | Galford James |
+| 31 | Gorvin / Gorwin Andrew M |
+
+Alphabetic Sequence
+The page is solidly G-surnames, running through Ga-, Gi-, Go-, and Gr- names. This fits as the page immediately preceding page 10 with H-surnames. The first approximately nine rows are blank.
+
+Does This Clarify Year / District for the James / Patrick Murray Sequence?
+No. Image 00365 continues the same problem as the other pages in the sequence: the "District of" fill-in is blank and no year appears anywhere on the page. This appears to be a systematic feature of the run from pages 9-16 and not just the pages closest to the Murray entries.
+
+Best Next Images to Check
+Go further back before page 9, or find a cover/title page for this district run.
+
+1. Check 00364, the image immediately before this one. It is likely either a proof/summary page for page 9, or a title/cover page for this district list. A cover page would be the best chance to show district name, year, and commissioner.
+2. If 00364 is another proof page, check 00363 next.
+3. Alternatively, 00380 onward after Patrick Murry page 16 may contain the closing proof page for this district list and could carry a signature, year, or district name.

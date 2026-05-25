@@ -1,0 +1,66 @@
+Image i3811884-00366 -- Full Report
+
+Page Type
+Proof/summary page: the right-hand proof spread that accompanies the preceding taxable-persons page. It is not a cover page and not a taxable-persons list. It is the standard Virginia personal-property-tax proof sheet occupying the right half of the opened ledger.
+
+URL / Image Counter / pId
+
+| Field | Value |
+|---|---|
+| URL | https://www.ancestry.com/imageviewer/collections/62774/images/i3811884-00366?pId=394405 |
+| Ancestry image counter | 367 of 646 |
+| pId | 394405 |
+
+Page Number
+A small handwritten character in the upper-right corner reads "9" or possibly "rho." If correct, this is the proof page paired with taxable-persons page 9, which would immediately precede image 00367, taxable-persons page 10 with H-surnames. This is consistent with the sequence logic.
+
+Header
+"A Commissioner of the Revenue in the _____ for the year 185_"
+
+The district / commissioner field after "in the" is completely blank. The year field shows "185" in bold; there are very faint marks after the "5" but no clearly legible final digit. The year digit is absent or illegible, exactly as on the other pages in the sequence.
+
+Year Visible?
+No. The form reads "for the year 185" and the last digit is either not filled in or has faded beyond recognition.
+
+District / Commissioner Visible?
+No. The district / commissioner field is blank.
+
+Proof Totals
+
+| PROOF line | No. | Value | Tax on value | Total Tax |
+|---|---|---|---|---|
+| White males, at 40 cents | 22 | -- | -- | 8.80 approx.; possibly 8.61 |
+| Male free negroes, at 100 cents | -- | -- | -- | -- |
+| Slaves, at 60 cents | -- | -- | -- | -- |
+| Horses, mules, asses and jennets | 31 | 1540 | 3.18 | -- |
+| Cattle, sheep and hogs | 45[8?] | 3194 | 63.40 or 6.36.40 | -- |
+| Pleasure carriages, stage coaches, &c. | -- | -- | -- | -- |
+| Watches | 1 | 30 | 6 | -- |
+| Clocks | 5 | 17 | 3.60 or 2.00 | -- |
+| Pianos and harps | -- | -- | -- | -- |
+| Plate and jewelry | -- | -- | -- | -- |
+| Household and kitchen furniture | -- | 905 | 180.60 or 18.06 | -- |
+| Moneys, bonds, securities and claims | -- | 1021 | 2.10 or 2.16 | -- |
+| Capital invested in mining or manufacturing | -- | -- | -- | -- |
+| Moneys, &c., under control of a court, &c. | -- | -- | -- | -- |
+| Capital of companies which declare no dividend | -- | -- | -- | -- |
+| Personal property, &c. of internal improvement companies | -- | -- | -- | -- |
+| Other articles of personal property | -- | 267 | 53.40 | -- |
+| Fees of office | -- | -- | -- | -- |
+| Amount of income | -- | -- | -- | -- |
+| Interest or profit, at 25 per cent | -- | -- | -- | -- |
+| Dividends, 25 per cent | -- | -- | -- | -- |
+| Toll-bridges and ferries, 3 per cent | -- | -- | -- | -- |
+| Values and tax thereon | -- | 4562 | 1532[...] | 1572.10 with check mark |
+| Total | -- | -- | -- | approximately 4227.10 |
+
+Names or Taxable-Person List
+This is a proof/summary page only. No taxable-person names appear on it. The left-hand columns carry forward the aggregated numeric data from the preceding taxable-persons page 9.
+
+Does Image 00366 Clarify the James Murray / Patrick Murry Year or District?
+Partially, but negatively. The proof page for page 9 has the same blank district and illegible or absent year digit as the other pages in the sequence. The printed form shows "185_" but the final digit was never clearly entered or has faded. The district name / number field is empty. No new information about the year or district is provided by 00366.
+
+The small positive finding is that the page-9 marker is consistent with 00367 being page 10, confirming that the internal sequence is intact and these pages belong to the same booklet / district return.
+
+Best Next Image to Check
+Go backwards to 00365 or 00364. Image 00365 is the single most promising next candidate because it is directly before this proof page and may be either a cover/title page for this booklet or taxable-persons page 8 with a potentially useful header.
