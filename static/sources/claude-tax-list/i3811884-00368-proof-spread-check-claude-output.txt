@@ -1,0 +1,59 @@
+Image i3811884-00368 -- Full Report
+
+Page Type
+Two-page proof/summary spread. The image captures both the final left-hand columnar-tally page, with aggregate row numbers only and no taxable-person names, and the right-hand proof summary block side by side. This is the same format as the other proof/tax spread pages in the sequence, including 00370 and 00372, except it precedes taxable page 00369 / page 11.
+
+URL / Image Counter / pId
+
+| Field | Value |
+|---|---|
+| URL | https://www.ancestry.com/imageviewer/collections/62774/images/i3811884-00368?pId=394407 |
+| Ancestry counter | 369 of 646 |
+| pId | 394407; Details panel says no record has been selected or there is no record in this collection |
+
+Page Number
+No inked book-page number is visible on the left column side. The proof block does not carry a page number. No explicit printed page number found.
+
+Header Text
+"A Commissioner of the Revenue in the" [district name obscured by page gutter/spine fold] "for the year 185" [digit cut off at right margin]
+
+The district name sits directly over the spine fold between the two physical pages and is illegible in this scan. Faint ghost text may be visible but not decipherable. The year reads "185" with no fourth digit visible, identical to the problem on 00370, 00372, 00374, 00376, and 00378.
+
+Year
+Not resolved. Shows "for the year 185"; final digit cut off or absent.
+
+District / Commissioner
+Not resolved. The district/county name in the header falls in the gutter between the two physical pages and cannot be read. No commissioner signature is visible on this image.
+
+Proof Totals
+
+| Line item | No. / Value | Tax on value | Total Tax |
+|---|---|---|---|
+| White males, at 40 cents | 26 | -- | ~10.40 |
+| Male free negroes, at 100 cents | -- | -- | -- |
+| Slaves, at 60 cents | 2 | -- | 1.20 |
+| Horses, mules, asses and jennets | 39 | 1790 / 3.58 | -- |
+| Cattle, sheep and hogs | 523 | 2309 / 4,6[1]8[0] | -- |
+| Pleasure carriages, stage coaches, &c. | 1 | 111 / 2[0] | -- |
+| Watches | -- | -- | -- |
+| Clocks | 11 | 52 / 6[4][0] | -- |
+| Pianos and harps | -- | -- | -- |
+| Plate and jewelry | -- | -- | -- |
+| Household and kitchen furniture | -- | 1166 / 2,9[1]2[0] | -- |
+| Moneys, bonds, securities and claims | -- | 1011 / [1]8[00] | -- |
+| Capital invested in mining or manufacturing | -- | 19 / 3[6][0] | -- |
+| Moneys &c., under control of a court, &c. | -- | -- | -- |
+| Capital of companies which declare no dividend | -- | -- | -- |
+| Personal property, &c. of internal improvement companies | -- | -- | -- |
+| Other articles of personal property | -- | 181 / 0.6[20] | -- |
+| Fees of office | -- | -- | -- |
+| Amount of income | -- | -- | -- |
+| Interest or profit, at 1.5 per cent | -- | -- | -- |
+
+Left-hand aggregate column shows row entries including totals such as 43, 981, 94, 18, 411, 139, 109, 253, 271, 150, 82, 261, 216, 67, 229, 242, 336, 159, 105, 52, 136, and 1223. These are page-by-page subtotals, not individual names.
+
+Does This Clarify the James / Patrick Year or District?
+No. Image 00368 presents the same problem as the other proof spreads: the year ends at "185" with the fourth digit missing, and the district name is swallowed by the page gutter. It offers no new year, district, or commissioner information for the Murray / Murry sequence.
+
+Best Next Image to Check
+Go backward before 00368 to find a cover page, section header, or district title page for this block. Check i3811884-00367 next, and if needed 00366 or 00365. A district or year title page almost certainly precedes this proof spread and would name the district and year for the entire James Murray / Patrick Murry sequence.
