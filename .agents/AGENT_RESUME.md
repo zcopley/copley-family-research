@@ -26,13 +26,29 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
 
 ## What Was Just Completed
 
+- Integrated Zach's May 25, 2026 Claude for Chrome **`i3811884-00365` taxable-persons page check** handoff.
+- Preserved the raw report at `static/sources/claude-tax-list/i3811884-00365-taxable-persons-page-check-claude-output.txt`.
+- Updated `References/Claude for Chrome Lewis County Personal Property Tax Check.md`, `RQ-M1-LEWIS-COUNTY-FAN-SWEEP.md`, `Tier 1 Research Execution Kit.md`, `Research Priorities and Action Items.md`, `Sources and Evidence Index.md`, `Topics/Murray Settlement.md`, `Topics/Murray Settlement Research Roadmap.md`, `Search Index.md`, and `CHANGELOG.md` so:
+  - `i3811884-00365` is recorded as taxable-persons page 9, with G-section names;
+  - it confirms page-sequence continuity immediately before the proof page `00366` and taxable-persons page 10 / `00367`;
+  - it still does not resolve the probable-1854 year caveat or district / commissioner identity because the district field is blank and no year appears;
+  - the next bite-size Claude for Chrome task is `i3811884-00364`, looking for a cover / header / title page, proof page before page 9, taxable-persons page 8, or any clearer header clue.
+
+- Integrated Zach's May 25, 2026 Claude for Chrome **`i3811884-00366` proof-page check** handoff.
+- Preserved the raw report at `static/sources/claude-tax-list/i3811884-00366-proof-page-check-claude-output.txt`.
+- Updated `References/Claude for Chrome Lewis County Personal Property Tax Check.md`, `RQ-M1-LEWIS-COUNTY-FAN-SWEEP.md`, `Tier 1 Research Execution Kit.md`, `Research Priorities and Action Items.md`, `Sources and Evidence Index.md`, `Topics/Murray Settlement.md`, `Topics/Murray Settlement Research Roadmap.md`, `Search Index.md`, and `CHANGELOG.md` so:
+  - `i3811884-00366` is recorded as a proof / summary page, likely paired with taxable-persons page 9;
+  - it confirms sequence continuity immediately before page 10 / `00367`;
+  - it still does not resolve the probable-1854 year caveat or district / commissioner identity because the district field is blank and the final year digit is absent or illegible;
+  - the next bite-size Claude for Chrome task then shifted to `i3811884-00365`; that check has now been completed and the current target is `i3811884-00364`.
+
 - Integrated Zach's May 25, 2026 Claude for Chrome **`i3811884-00367` taxable-persons page check** handoff.
 - Preserved the raw report at `static/sources/claude-tax-list/i3811884-00367-taxable-persons-page-check-claude-output.txt`.
 - Updated `References/Claude for Chrome Lewis County Personal Property Tax Check.md`, `RQ-M1-LEWIS-COUNTY-FAN-SWEEP.md`, `Tier 1 Research Execution Kit.md`, `Research Priorities and Action Items.md`, `Sources and Evidence Index.md`, `Topics/Murray Settlement.md`, `Topics/Murray Settlement Research Roadmap.md`, `Search Index.md`, and `CHANGELOG.md` so:
   - `i3811884-00367` is recorded as taxable-persons page 10;
   - it confirms H-section sequence continuity toward the later James / Patrick pages;
   - it still does not resolve the probable-1854 year caveat or district / commissioner identity because the district field is blank and no year appears;
-  - the next bite-size Claude for Chrome task is `i3811884-00366`, looking for a cover / header / title page, proof page, or any clearer header clue.
+  - the next bite-size Claude for Chrome task then shifted to `i3811884-00366`; the `00366` and `00365` checks have now been completed and the current target is `i3811884-00364`.
 
 - Integrated Zach's May 25, 2026 Tom Copley correction about **Murray spelling / pronunciation and Ann Munday**.
 - Preserved the raw correction at `static/sources/tom-corrections/2026-05-25-murray-pronunciation-munday-correction.txt`.
@@ -49,7 +65,7 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
   - the header again reads only `for the year 185`, with the final digit absent or cut off;
   - the district name is obscured in the page gutter and no commissioner name appears;
   - it still does not resolve the probable-1854 year caveat or district / commissioner identity;
-  - the next bite-size Claude for Chrome task then shifted to `i3811884-00367`; that check has now been completed and the current target is `i3811884-00366`.
+  - the next bite-size Claude for Chrome task then shifted to `i3811884-00367`; the `00367`, `00366`, and `00365` checks have now been completed and the current target is `i3811884-00364`.
 
 - Integrated Zach's May 24, 2026 Claude for Chrome **`i3811884-00369` taxable-persons page check** handoff.
 - Preserved the raw report at `static/sources/claude-tax-list/i3811884-00369-taxable-persons-page-check-claude-output.txt`.
@@ -57,7 +73,7 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
   - `i3811884-00369` is recorded as taxable-persons page 11;
   - it confirms H-section sequence continuity toward the later James / Patrick pages;
   - it still does not resolve the probable-1854 year caveat or district / commissioner identity because the district field is blank and no year appears;
-  - the next bite-size Claude for Chrome task then shifted to `i3811884-00368`; the `00368` and `00367` checks have now been completed and the current target is `i3811884-00366`.
+  - the next bite-size Claude for Chrome task then shifted to `i3811884-00368`; the `00368`, `00367`, `00366`, and `00365` checks have now been completed and the current target is `i3811884-00364`.
 
 - Integrated Zach's May 24, 2026 Claude for Chrome **`i3811884-00370` proof-spread check** handoff.
 - Preserved the raw report at `static/sources/claude-tax-list/i3811884-00370-proof-spread-check-claude-output.txt`.
@@ -65,7 +81,7 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
   - `i3811884-00370` is recorded as a two-page proof / taxable spread;
   - it repeats the same `for the year 185_` truncation or absence, blank district field, and missing commissioner name;
   - it still does not resolve the probable-1854 year caveat or district / commissioner identity;
-  - the next bite-size Claude for Chrome task then shifted to `i3811884-00369`; the `00369`, `00368`, and `00367` checks have now been completed and the current target is `i3811884-00366`.
+  - the next bite-size Claude for Chrome task then shifted to `i3811884-00369`; the `00369`, `00368`, `00367`, `00366`, and `00365` checks have now been completed and the current target is `i3811884-00364`.
 
 - Integrated Zach's May 24, 2026 Claude for Chrome **`i3811884-00371` taxable-persons page check** handoff.
 - Preserved the raw report at `static/sources/claude-tax-list/i3811884-00371-taxable-persons-page-check-claude-output.txt`.
@@ -73,7 +89,7 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
   - `i3811884-00371` is recorded as taxable-persons page 12;
   - it extends the sequence backward to page 12 / `00371` -> proof `00372` -> page 13 / `00373` -> proof `00374` -> page 14 / `00375` -> proof `00376` -> James page `00377` -> proof `00378` -> Patrick page `00379`;
   - it still does not resolve the probable-1854 year caveat or district / commissioner identity because the right side of the header is cut off;
-  - the next bite-size Claude for Chrome task then shifted to `i3811884-00370`; the `00370`, `00369`, `00368`, and `00367` checks have now been completed and the current target is `i3811884-00366`.
+  - the next bite-size Claude for Chrome task then shifted to `i3811884-00370`; the `00370`, `00369`, `00368`, `00367`, `00366`, and `00365` checks have now been completed and the current target is `i3811884-00364`.
 
 - Integrated Zach's May 24, 2026 Claude for Chrome **`i3811884-00372` proof-page check** handoff.
 - Preserved the raw report at `static/sources/claude-tax-list/i3811884-00372-proof-page-check-claude-output.txt`.
@@ -81,7 +97,7 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
   - `i3811884-00372` is recorded as another proof / summary page;
   - it extends the sequence backward to proof `00372` -> page 13 / `00373` -> proof `00374` -> page 14 / `00375` -> proof `00376` -> James page `00377` -> proof `00378` -> Patrick page `00379`;
   - it still does not resolve the probable-1854 year caveat or district / commissioner identity;
-  - the next bite-size Claude for Chrome task then shifted to `i3811884-00371`; the `00371`, `00370`, `00369`, `00368`, and `00367` checks have now been completed and the current target is `i3811884-00366`.
+  - the next bite-size Claude for Chrome task then shifted to `i3811884-00371`; the `00371`, `00370`, `00369`, `00368`, `00367`, `00366`, and `00365` checks have now been completed and the current target is `i3811884-00364`.
 
 - Integrated Zach's May 24, 2026 Claude for Chrome **`i3811884-00373` taxable-persons page check** handoff.
 - Preserved the raw report at `static/sources/claude-tax-list/i3811884-00373-taxable-persons-page-check-claude-output.txt`.
@@ -89,7 +105,7 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
   - `i3811884-00373` is recorded as a taxable-persons page, page 13;
   - it confirms J-section-to-M-section page continuity before the James / Patrick sequence;
   - it still does not resolve the probable-1854 year caveat or district / commissioner identity;
-  - the next bite-size Claude for Chrome task then shifted to `i3811884-00372`; the `00372`, `00371`, `00370`, `00369`, `00368`, and `00367` checks have now been completed and the current target is `i3811884-00366`.
+  - the next bite-size Claude for Chrome task then shifted to `i3811884-00372`; the `00372`, `00371`, `00370`, `00369`, `00368`, `00367`, `00366`, and `00365` checks have now been completed and the current target is `i3811884-00364`.
 
 - Integrated Zach's May 24, 2026 Claude for Chrome **`i3811884-00374` proof-page check** handoff.
 - Preserved the raw report at `static/sources/claude-tax-list/i3811884-00374-proof-page-check-claude-output.txt`.
@@ -97,7 +113,7 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
   - `i3811884-00374` is recorded as another proof / summary page, not a cover or title page;
   - it confirms sequential continuity and the Ancestry source bracket `Lewis County, 1851-1856`;
   - it still does not resolve the probable-1854 year caveat or district / commissioner identity for the verified James / Patrick sequence;
-  - the next bite-size Claude for Chrome task then shifted to `i3811884-00373`; the `00373`, `00372`, `00371`, `00370`, `00369`, `00368`, and `00367` checks have now been completed and the current target is `i3811884-00366`.
+  - the next bite-size Claude for Chrome task then shifted to `i3811884-00373`; the `00373`, `00372`, `00371`, `00370`, `00369`, `00368`, `00367`, `00366`, and `00365` checks have now been completed and the current target is `i3811884-00364`.
 
 - Integrated Zach's May 22, 2026 Claude for Chrome **`i3811884-00375` taxable-persons page check** handoff.
 - Preserved the raw report at `static/sources/claude-tax-list/i3811884-00375-taxable-persons-page-check-claude-output.txt`.
@@ -105,7 +121,7 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
   - `i3811884-00375` is recorded as a taxable-persons page, page 14;
   - its district field is blank / unreadable and it has no visible year or commissioner;
   - it does not resolve the probable-1854 year caveat for the verified James / Patrick sequence;
-  - the next bite-size Claude for Chrome task then shifted to `i3811884-00374`; the `00374`, `00373`, `00372`, `00371`, `00370`, `00369`, `00368`, and `00367` checks have now been completed and the current target is `i3811884-00366`.
+  - the next bite-size Claude for Chrome task then shifted to `i3811884-00374`; the `00374`, `00373`, `00372`, `00371`, `00370`, `00369`, `00368`, `00367`, `00366`, and `00365` checks have now been completed and the current target is `i3811884-00364`.
 
 - Integrated Zach's May 22, 2026 Claude for Chrome **`i3811884-00376` proof-page header check** handoff.
 - Preserved the raw report at `static/sources/claude-tax-list/i3811884-00376-proof-page-header-check-claude-output.txt`.
@@ -113,7 +129,7 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
   - `i3811884-00376` is recorded as a proof / summary page with no individual names;
   - it repeats the unresolved `for the year 185_` issue and has no legible district or commissioner;
   - it does not resolve the probable-1854 year caveat for the verified James / Patrick sequence;
-  - this `00376`-specific next task was completed by the `i3811884-00375` page check; the later `00374`, `00373`, `00372`, `00371`, `00370`, `00369`, `00368`, and `00367` checks have also been completed, and the current next bite-size Claude for Chrome task is `i3811884-00366`.
+  - this `00376`-specific next task was completed by the `i3811884-00375` page check; the later `00374`, `00373`, `00372`, `00371`, `00370`, `00369`, `00368`, `00367`, `00366`, and `00365` checks have also been completed, and the current next bite-size Claude for Chrome task is `i3811884-00364`.
 
 - Integrated Zach's May 22, 2026 Claude for Chrome **James Murray personal-property-tax row verification** handoff.
 - Preserved the raw verification report at `static/sources/claude-tax-list/i3811884-00377-james-murray-verification-claude-output.txt`.
@@ -122,7 +138,7 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
   - the row shows one white male tithable and no listed horses, livestock, or luxury goods;
   - James Murray and Patrick Murry are in the same continuous district-list sequence, separated by proof page `i3811884-00378`;
   - the exact year remains **probable 1854** because proof page `i3811884-00378` still cuts off the final digit in `185_`;
-  - this James-specific next task was completed by the `i3811884-00376` proof-page check, the `i3811884-00375` taxable-persons page check, the later `i3811884-00374` proof-page check, the `i3811884-00373` taxable-persons page check, the `i3811884-00372` proof-page check, the `i3811884-00371` taxable-persons page check, the `i3811884-00370` proof-spread check, the `i3811884-00369` taxable-persons page check, the `i3811884-00368` proof-spread check, and the `i3811884-00367` taxable-persons page check; the current next bite-size Claude for Chrome task is `i3811884-00366`.
+  - this James-specific next task was completed by the `i3811884-00376` proof-page check, the `i3811884-00375` taxable-persons page check, the later `i3811884-00374` proof-page check, the `i3811884-00373` taxable-persons page check, the `i3811884-00372` proof-page check, the `i3811884-00371` taxable-persons page check, the `i3811884-00370` proof-spread check, the `i3811884-00369` taxable-persons page check, the `i3811884-00368` proof-spread check, the `i3811884-00367` taxable-persons page check, the `i3811884-00366` proof-page check, and the `i3811884-00365` taxable-persons page check; the current next bite-size Claude for Chrome task is `i3811884-00364`.
 
 - Integrated Zach's May 22, 2026 Claude for Chrome **Patrick Murry personal-property-tax row verification** handoff.
 - Preserved the raw verification report at `static/sources/claude-tax-list/i3811884-00379-patrick-murry-verification-claude-output.txt`.
@@ -130,7 +146,7 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
   - `Murry Patrick` on Ancestry image `i3811884-00379`, page 16, line 14, is treated as image-verified by Claude for Chrome;
   - the row shows one white male tithable age 21+ and one horse valued at $50;
   - the exact year remains **probable 1854** because the final digit in `185_` is cut off on the related proof page;
-  - this Patrick-specific handoff was superseded by the James verification, the `i3811884-00376` proof-page check, the `i3811884-00375` taxable-persons page check, the later `i3811884-00374` proof-page check, the `i3811884-00373` taxable-persons page check, the `i3811884-00372` proof-page check, the `i3811884-00371` taxable-persons page check, the `i3811884-00370` proof-spread check, the `i3811884-00369` taxable-persons page check, the `i3811884-00368` proof-spread check, and the `i3811884-00367` taxable-persons page check; the current next bite-size Claude for Chrome task is `i3811884-00366`.
+  - this Patrick-specific handoff was superseded by the James verification, the `i3811884-00376` proof-page check, the `i3811884-00375` taxable-persons page check, the later `i3811884-00374` proof-page check, the `i3811884-00373` taxable-persons page check, the `i3811884-00372` proof-page check, the `i3811884-00371` taxable-persons page check, the `i3811884-00370` proof-spread check, the `i3811884-00369` taxable-persons page check, the `i3811884-00368` proof-spread check, the `i3811884-00367` taxable-persons page check, the `i3811884-00366` proof-page check, and the `i3811884-00365` taxable-persons page check; the current next bite-size Claude for Chrome task is `i3811884-00364`.
 
 - Integrated Zach's May 21, 2026 Claude for Chrome **Lewis County personal-property-tax check** handoff.
 - Created `References/Claude for Chrome Lewis County Personal Property Tax Check.md` and preserved the raw text at `static/sources/claude-tax-list/lewis-county-personal-property-tax-check-claude-output.txt`.
@@ -511,7 +527,7 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
   - Treat the old `1826 John Murray / Fred L. Fish` slot as closed; it is a misindexed **1899** oil-and-gas lease.
   - Treat the old `1833 John Murray` slot as closed; it is also a misindexed **1899** oil-and-gas lease.
   - The direct John Murray deed path is now exhausted. The **1850, 1860, and 1870 Lewis County FAN sweeps** are complete, and the two unread 1870 household targets are resolved.
-  - Claude for Chrome should shift next to `i3811884-00366`, looking for the page directly before taxable-persons page `00367` and any clearer header context for the James / Patrick tax-list sequence, using the prompt now preserved in `Tier 1 Research Execution Kit.md`.
+  - Claude for Chrome should shift next to `i3811884-00364`, looking for the image directly before taxable-persons page `00365` and any clearer header context for the James / Patrick tax-list sequence, using the prompt now preserved in `Tier 1 Research Execution Kit.md`.
   - Capture / independently transcribe the 1853 Eliza Jane Murry and 1854 Loghan tax rows from Ancestry image set `i3811884`.
   - Finish the unresolved tax-list gap: 1855 partial M-section coverage, 1856, and 1857-1860 image set `i3811885`.
   - Pull the 1854 Luke Murray / Anne Loghan marriage register and bond / consent images for witnesses, bondsmen, or parent clues.
