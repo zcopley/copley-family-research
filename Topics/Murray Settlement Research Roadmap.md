@@ -311,11 +311,11 @@ flowchart TD
 
 ### **RQ-M5: What Was Ann Munday Copley's Maiden Surname?** 🟡 MEDIUM
 
-**Objective:** Find a direct record naming Michael Copley Sr.'s wife's maiden surname. Family tradition records **Munday**; the earlier Murray hypothesis is now downgraded unless a direct source proves it.
+**Objective:** Find a direct record naming Michael Copley Sr.'s wife's maiden surname. Family tradition records **Munday**; the earlier Murray hypothesis is now downgraded as probably mistaken unless a direct source proves it.
 
 **Status:** ⚠️ **REOPENED / DOWNGRADED** — See `[[People/Ann Copley|Ann Copley]]`, `[[RQ-M5-PHASE-2-FINDINGS|RQ-M5 Phase 2 Findings]]`, `[[RQ-M5-TITHE-APPLOTMENT-SEARCH|RQ-M5 Tithe Search Research Note]]`, and `[[References/Tom Copley May 2026 Research Corrections|Tom Copley May 2026 Research Corrections]]`.
 
-**Verdict:** Preserve **Munday** as the preferred recorded surname. No "Munday" appears in Griffith's Valuation (c.1858) Kinawley or all Fermanagh; 14 "Murray" occupiers appear in Kinawley; FamilySearch census searches found 0 independent Munday households in Lewis County WV, 1840-1860. Those facts made the Murray hypothesis plausible, but they are not identity proof. Tom's May 2026 correction says the Munday-to-Murray connection is probably a false lead. Next steps shift to direct surname records: marriage, passenger, church, child death, Bible, probate, cemetery, or obituary evidence.
+**Verdict:** Preserve **Munday** as the preferred recorded surname. No "Munday" appears in Griffith's Valuation (c.1858) Kinawley or all Fermanagh; 14 "Murray" occupiers appear in Kinawley; FamilySearch census searches found 0 independent Munday households in Lewis County WV, 1840-1860. Those facts made the Murray hypothesis plausible, but they are not identity proof. Tom's May 2026 correction says the Munday-to-Murray connection is probably a false lead, and his May 25 clarification says he no longer believes there is any connection to Anne Munday. Next steps shift to direct surname records: marriage, passenger, church, child death, Bible, probate, cemetery, or obituary evidence.
 
 ---
 

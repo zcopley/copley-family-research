@@ -122,7 +122,7 @@ graph LR
     style TEST fill:#bbdefb,stroke:#1565c0,color:#0d1b2a
 ```
 
-**Status:** Reopened / downgraded. Ann is recorded as **Munday** in family materials. The Murray explanation remains a tested hypothesis, but it should no longer be treated as the working conclusion without direct evidence.
+**Status:** Reopened / downgraded. Ann is recorded as **Munday** in family materials. The Murray explanation remains only a tested and probably mistaken search variant; it should not be treated as the working conclusion without direct evidence.
 
 Tom Copley (April 2026) raised the possibility that “Munday” is a phonetic transcription of “Murray” — placing Ann inside the Murray family that named [[Topics/Murray Settlement|Murray's Settlement]]. **Phase 2 research (April 2026) yielded notable findings:**
 
@@ -148,7 +148,7 @@ Tom Copley (April 2026) raised the possibility that “Munday” is a phonetic t
 - **Kinawley status:** Cannot confirm or deny presence of Munday or Murray in Ann's reported birthplace using this source
 - **Detailed Findings:** See [[RQ-M5-TITHE-APPLOTMENT-SEARCH|RQ-M5 Tithe Search Research Note]]
 
-**Current correction:** Tom Copley's May 2026 view is that the Munday-to-Murray connection is probably a false lead: Ann was probably Munday only, and no source proves she was Murray. The earlier indirect clues remain useful context, but they do not outweigh the recorded surname.
+**Current correction:** Tom Copley's May 2026 view is that the Munday-to-Murray connection is probably a false lead: Ann was probably Munday only, and no source proves she was Murray. On May 25, 2026, he further clarified that he no longer believes there is any connection between the **Murray** settlement surname and **Anne Munday**. The earlier indirect clues remain useful context, but they do not outweigh the recorded surname.
 
 **Next Research Steps (revised priorities):**
 1. **Find a direct surname record** — marriage, passenger list, church register, child death record, Bible entry, probate file, cemetery record, or obituary naming Ann's maiden surname.
@@ -166,10 +166,10 @@ Tom Copley (April 2026) raised the possibility that “Munday” is a phonetic t
 
 ## Acquisition Strategy
 - Search Catholic parish marriage registers in Potomac / infrastructure-labor corridor communities (late 1830s to early 1840s).
-- Search Munday / Monday / Mundy first as the recorded surname, while retaining Murray / Murry as a downgraded variant hypothesis.
+- Search Munday / Monday / Mundy first as the recorded surname, while retaining Murray / Murry only as a downgraded variant hypothesis.
 - Transcribe Lewis County John Murray deed leads from 1826 and 1833 when images are available.
 - Use Chronicling America and regional newspaper repositories for Potomac drowning incidents matching family tradition.
-- Expand to PRONI and Irish/Fermanagh parish records for potential Ann Murray/Munday baptismal candidates.
+- Expand to PRONI and Irish/Fermanagh parish records for potential Ann Munday / Monday / Mundy baptismal candidates, with Murray only as a secondary control.
 - Reconcile maiden-name evidence across gravestone, death certificates of children, and church sacramental records.
 
 ## Source Citations

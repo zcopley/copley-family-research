@@ -9,7 +9,7 @@ tags:
 
 # Agent Resume State
 
-Last updated: 2026-05-24
+Last updated: 2026-05-25
 
 ## Current Goal
 
@@ -25,6 +25,14 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
 - When a historical handoff conflicts with this file, this file wins.
 
 ## What Was Just Completed
+
+- Integrated Zach's May 25, 2026 Tom Copley correction about **Murray spelling / pronunciation and Ann Munday**.
+- Preserved the raw correction at `static/sources/tom-corrections/2026-05-25-murray-pronunciation-munday-correction.txt`.
+- Updated `References/Tom Copley May 2026 Research Corrections.md`, `People/Ann Copley.md`, `RQ-M5-PHASE-2-FINDINGS.md`, `Sources and Evidence Index.md`, `Research Priorities and Action Items.md`, `How to Read This Research.md`, `Home.md`, `index.md`, `Tier 1 Research Execution Kit.md`, `CLAUDE.md`, `GEMINI.md`, and `CHANGELOG.md` so:
+  - the settlement surname is handled in prose as **Murray**, pronounced "Mur-ray";
+  - exact **Murry** spellings are preserved only when quoting or transcribing records that use that spelling;
+  - the Ann Munday-to-Murray connection is treated as a probably mistaken lead unless a direct source proves it;
+  - Ann's recorded surname **Munday** remains the preferred working form.
 
 - Integrated Zach's May 24, 2026 Claude for Chrome **`i3811884-00368` proof-spread check** handoff.
 - Preserved the raw report at `static/sources/claude-tax-list/i3811884-00368-proof-spread-check-claude-output.txt`.

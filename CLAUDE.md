@@ -488,7 +488,7 @@ Contact **PRONI** for Kinawley parish material in the Fermanagh Tithe Applotment
 - NAI and Ancestry Tithe searches are inconclusive only because Kinawley is not indexed
 
 **Current correction:**
-Tom Copley now thinks the Munday-to-Murray connection is probably a false lead. The indirect evidence above remains useful context, but it is not proof of identity.
+Tom Copley now thinks the Munday-to-Murray connection is probably a false lead. His May 25, 2026 clarification says the settlement surname is spelled Murray and pronounced "Mur-ray," but that he no longer believes there is any connection to Anne Munday. The indirect evidence above remains useful context, but it is not proof of identity.
 
 **Next Research Focus:**
 Find a direct surname record: marriage, passenger list, church register, child death record, Bible entry, probate file, cemetery record, or obituary. Search Munday / Monday / Mundy first, with Murray / Murry retained only as secondary variants.

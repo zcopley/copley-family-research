@@ -10,9 +10,20 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4CF - Murray Spelling and Ann Munday Correction Integrated (May 25, 2026)
+
+**SOURCE-CORRECTION UPDATE:** Integrated Tom Copley's May 25 correction that the settlement surname should be spelled **Murray** and pronounced "Mur-ray," not used as a generic **Murry** label. The update also sharpens the Ann Munday finding: Tom no longer believes there is any Murray connection to Anne Munday, and that earlier connection is now treated as probably mistaken unless a direct source proves otherwise.
+
+### Updated Pages
+
+- [[References/Tom Copley May 2026 Research Corrections|Tom Copley May 2026 Research Corrections]] - added the May 25 spelling / pronunciation / Ann Munday correction and linked the raw source note.
+- [[People/Ann Copley|Ann Copley]], [[RQ-M5-PHASE-2-FINDINGS|RQ-M5 Phase 2 Findings]], [[Sources and Evidence Index|Sources and Evidence Index]], [[Research Priorities and Action Items|Research Priorities and Action Items]], [[How to Read This Research|How to Read This Research]], `Home`, and `index` - tightened Ann wording so **Munday** remains the recorded surname and Murray is only a downgraded, probably mistaken search variant.
+- [[Tier 1 Research Execution Kit|Tier 1 Research Execution Kit]], `CLAUDE.md`, and `GEMINI.md` - updated research-agent guidance to avoid implying Ann is likely Murray.
+- `static/sources/tom-corrections/2026-05-25-murray-pronunciation-munday-correction.txt` - preserved the raw correction.
+
 ## Phase 4CE - Tax Proof Spread 00368 Check Integrated (May 24, 2026)
 
-**MURRY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome check of Ancestry image `i3811884-00368`. The image is a two-page proof / summary spread immediately before taxable-persons page `00369`; it again shows only `185` for the year, with the district name obscured in the gutter and no visible commissioner name.
+**MURRAY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome check of Ancestry image `i3811884-00368`. The image is a two-page proof / summary spread immediately before taxable-persons page `00369`; it again shows only `185` for the year, with the district name obscured in the gutter and no visible commissioner name.
 
 ### Updated Pages
 
@@ -23,7 +34,7 @@ A running record of significant additions, corrections, and improvements to this
 
 ## Phase 4CD - Taxable-Persons Page 00369 Check Integrated (May 24, 2026)
 
-**MURRY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome check of Ancestry image `i3811884-00369`. The image is taxable-persons page 11 with H-section names, but the page still has no visible year, no filled district field, and no commissioner name. It confirms more alphabetical continuity before the James Murray / Patrick Murry pages without resolving the probable-1854 year caveat.
+**MURRAY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome check of Ancestry image `i3811884-00369`. The image is taxable-persons page 11 with H-section names, but the page still has no visible year, no filled district field, and no commissioner name. It confirms more alphabetical continuity before the James Murray / Patrick Murry pages without resolving the probable-1854 year caveat.
 
 ### Updated Pages
 
@@ -33,7 +44,7 @@ A running record of significant additions, corrections, and improvements to this
 
 ## Phase 4CC - Tax Proof Spread 00370 Check Integrated (May 24, 2026)
 
-**MURRY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome check of Ancestry image `i3811884-00370`. The image is another proof/taxable spread in the same sequence and repeats the unresolved `for the year 185_` problem, with a blank district field and no commissioner name. It does not settle the probable-1854 year caveat.
+**MURRAY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome check of Ancestry image `i3811884-00370`. The image is another proof/taxable spread in the same sequence and repeats the unresolved `for the year 185_` problem, with a blank district field and no commissioner name. It does not settle the probable-1854 year caveat.
 
 ### Updated Pages
 
@@ -43,7 +54,7 @@ A running record of significant additions, corrections, and improvements to this
 
 ## Phase 4CB - Taxable-Persons Page 00371 Check Integrated (May 24, 2026)
 
-**MURRY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome check of Ancestry image `i3811884-00371`. The image is taxable-persons page 12 with H-section names and a bottom `Jackson, George` entry, confirming sequence continuity into the later J- and M-section pages. It still does not resolve the probable-1854 year caveat because the right side of the header is cut off beyond the scan boundary.
+**MURRAY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome check of Ancestry image `i3811884-00371`. The image is taxable-persons page 12 with H-section names and a bottom `Jackson, George` entry, confirming sequence continuity into the later J- and M-section pages. It still does not resolve the probable-1854 year caveat because the right side of the header is cut off beyond the scan boundary.
 
 ### Updated Pages
 
@@ -53,7 +64,7 @@ A running record of significant additions, corrections, and improvements to this
 
 ## Phase 4CA - Tax Proof Page 00372 Check Integrated (May 24, 2026)
 
-**MURRY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome check of Ancestry image `i3811884-00372`. The image is another proof / summary page in the same sequence as `00374`, `00376`, and `00378`; it has the same `for the year 185_` truncation and blank district / commissioner field. It extends the sequence backward but does not resolve the probable-1854 year caveat.
+**MURRAY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome check of Ancestry image `i3811884-00372`. The image is another proof / summary page in the same sequence as `00374`, `00376`, and `00378`; it has the same `for the year 185_` truncation and blank district / commissioner field. It extends the sequence backward but does not resolve the probable-1854 year caveat.
 
 ### Updated Pages
 
@@ -63,7 +74,7 @@ A running record of significant additions, corrections, and improvements to this
 
 ## Phase 4BZ - Taxable-Persons Page 00373 Check Integrated (May 24, 2026)
 
-**MURRY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome check of Ancestry image `i3811884-00373`. The image is taxable-persons page 13 with J-section names and confirms the backward page sequence before the James Murray / Patrick Murry pages, but it has no visible year, no filled district field, and no commissioner name.
+**MURRAY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome check of Ancestry image `i3811884-00373`. The image is taxable-persons page 13 with J-section names and confirms the backward page sequence before the James Murray / Patrick Murry pages, but it has no visible year, no filled district field, and no commissioner name.
 
 ### Updated Pages
 
@@ -73,7 +84,7 @@ A running record of significant additions, corrections, and improvements to this
 
 ## Phase 4BY - Tax Proof Page 00374 Check Integrated (May 24, 2026)
 
-**MURRY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome check of Ancestry image `i3811884-00374`. The image is another proof / summary page, not a cover or title page. It confirms sequential continuity before the James Murray / Patrick Murry pages and preserves the Ancestry source bracket **Lewis County, 1851-1856**, but the image still cuts off the final year digit and has no legible district or commissioner.
+**MURRAY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome check of Ancestry image `i3811884-00374`. The image is another proof / summary page, not a cover or title page. It confirms sequential continuity before the James Murray / Patrick Murry pages and preserves the Ancestry source bracket **Lewis County, 1851-1856**, but the image still cuts off the final year digit and has no legible district or commissioner.
 
 ### Updated Pages
 
@@ -83,7 +94,7 @@ A running record of significant additions, corrections, and improvements to this
 
 ## Phase 4BX - Taxable-Persons Page Header Check Integrated (May 22, 2026)
 
-**MURRY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome check of Ancestry image `i3811884-00375`. The image is a taxable-persons page, page 14, directly before proof page `i3811884-00376`, but it has no visible year, no legible district name, and no commissioner signature. It confirms the backward page sequence but still does not settle the probable-1854 year caveat for the James Murray / Patrick Murry tax-list sequence.
+**MURRAY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome check of Ancestry image `i3811884-00375`. The image is a taxable-persons page, page 14, directly before proof page `i3811884-00376`, but it has no visible year, no legible district name, and no commissioner signature. It confirms the backward page sequence but still does not settle the probable-1854 year caveat for the James Murray / Patrick Murry tax-list sequence.
 
 ### Updated Pages
 
@@ -93,7 +104,7 @@ A running record of significant additions, corrections, and improvements to this
 
 ## Phase 4BW - Tax Proof Page Header Check Integrated (May 22, 2026)
 
-**MURRY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome check of Ancestry image `i3811884-00376`. The image is another proof / summary page, not a cover page or taxable-persons page. It repeats the unresolved `for the year 185_` problem and has no legible district or commissioner, so it does not settle the probable-1854 year caveat for the James Murray / Patrick Murry sequence.
+**MURRAY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome check of Ancestry image `i3811884-00376`. The image is another proof / summary page, not a cover page or taxable-persons page. It repeats the unresolved `for the year 185_` problem and has no legible district or commissioner, so it does not settle the probable-1854 year caveat for the James Murray / Patrick Murry sequence.
 
 ### Updated Pages
 
@@ -103,7 +114,7 @@ A running record of significant additions, corrections, and improvements to this
 
 ## Phase 4BV - James Murray Tax Row Image Verification Integrated (May 22, 2026)
 
-**MURRY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome verification report for Ancestry images `i3811884-00377` and `i3811884-00378`. The follow-up confirms page 15, line 24 reads **Murray James**, with one white male tithable and no listed horses, livestock, or luxury goods. The proof page between James and Patrick still reads only `185_`, with the final digit cut off, but the sequence now shows James and Patrick are in the same district list.
+**MURRAY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome verification report for Ancestry images `i3811884-00377` and `i3811884-00378`. The follow-up confirms page 15, line 24 reads **Murray James**, with one white male tithable and no listed horses, livestock, or luxury goods. The proof page between James and Patrick still reads only `185_`, with the final digit cut off, but the sequence now shows James and Patrick are in the same district list.
 
 ### Updated Pages
 
@@ -113,7 +124,7 @@ A running record of significant additions, corrections, and improvements to this
 
 ## Phase 4BU - Patrick Murry Tax Row Image Verification Integrated (May 22, 2026)
 
-**MURRY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome verification report for Ancestry image `i3811884-00379`. The follow-up confirms the row itself: page 16, line 14 reads **Murry Patrick**, with one white male tithable age 21+ and one horse valued at $50. The exact final year digit is cut off on the related proof page, so the row is handled as **probable 1854** based on sequence and prior context rather than as an internally visible 1854 date.
+**MURRAY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome verification report for Ancestry image `i3811884-00379`. The follow-up confirms the row itself: page 16, line 14 reads **Murry Patrick**, with one white male tithable age 21+ and one horse valued at $50. The exact final year digit is cut off on the related proof page, so the row is handled as **probable 1854** based on sequence and prior context rather than as an internally visible 1854 date.
 
 ### Updated Pages
 
@@ -123,7 +134,7 @@ A running record of significant additions, corrections, and improvements to this
 
 ## Phase 4BT - Lewis County Personal Property Tax Check Integrated (May 21, 2026)
 
-**MURRY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome Lewis County personal-property-tax handoff. The check found the first pre-1860 Lewis County Murry tax evidence so far: **Murry Eliza Jane** in 1853, **Murray James** in 1854, and **Murry Patrick** in 1854. It found no **Luke / Lucas Murray / Murry** in the checked 1817-1855 M-sections, strengthening the post-1850 arrival / first-tax-appearance model and weakening any older-taxable-Luke-in-Lewis-County interpretation. The handoff says 1856 in one place but the year table says 1856 was not reached, so 1856 and 1857-1860 remain open.
+**MURRAY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome Lewis County personal-property-tax handoff. The check found the first pre-1860 Lewis County Murry tax evidence so far: **Murry Eliza Jane** in 1853, **Murray James** in 1854, and **Murry Patrick** in 1854. It found no **Luke / Lucas Murray / Murry** in the checked 1817-1855 M-sections, strengthening the post-1850 arrival / first-tax-appearance model and weakening any older-taxable-Luke-in-Lewis-County interpretation. The handoff says 1856 in one place but the year table says 1856 was not reached, so 1856 and 1857-1860 remain open.
 
 ### Updated Pages
 
@@ -978,7 +989,7 @@ A running record of significant additions, corrections, and improvements to this
 
 ## Phase 3D - Research Priorities Refresh (April 26, 2026)
 
-**ROADMAP ALIGNMENT:** Refreshed the public research roadmap so it now reflects the current evidence backbone, Ann Munday / likely Murray conclusion, Murray Settlement priorities, and Phase 3A-3C reader path.
+**ROADMAP ALIGNMENT:** Refreshed the public research roadmap so it reflected the then-current evidence backbone, the Ann Munday / likely Murray working conclusion, Murray Settlement priorities, and Phase 3A-3C reader path. This Ann wording was later superseded by Tom Copley's May 2026 corrections.
 
 ### Updated Pages
 
@@ -993,7 +1004,7 @@ A running record of significant additions, corrections, and improvements to this
 
 ### Updated Pages
 
-- [[People Directory|People Directory]] - added evidence-index guidance, refreshed the generation diagram, clarified Ann as Munday / likely Murray, reframed Michael's role as infrastructure-labor and Murray Settlement context, and added near-kin / deep-origin research figures
+- [[People Directory|People Directory]] - added evidence-index guidance, refreshed the generation diagram, clarified the then-current Ann as Munday / likely Murray wording, reframed Michael's role as infrastructure-labor and Murray Settlement context, and added near-kin / deep-origin research figures
 - [[People/People Directory|People Directory (Individual Profiles)]] - corrected the profile-index heading, added source-status guidance, expanded canonical / alternate-name notes for Ann, and added missing near-kin, descendant, related-person, and deep-origin links
 - [[People/Ann Copley|Ann Copley]] - updated aliases, biography, RQ-M5 evidence wording, Mermaid evidence map, acquisition strategy, and source citations to reflect the current Murray working conclusion while preserving Munday as the received American-family form
 - [[People/Ann Elizabeth Munday Copley|Ann Elizabeth Munday Copley]] - clarified this as an alternate-name page for the canonical Ann profile and linked the current evidence trail
@@ -1009,7 +1020,7 @@ A running record of significant additions, corrections, and improvements to this
 ### Updated Pages
 
 - [[Home|Home]] - added the evidence index to core pages and the recommended reading path
-- [[index|Copley Family History]] - added an evidence-check entry point and updated Ann's summary to "Munday / likely Murray"
+- [[index|Copley Family History]] - added an evidence-check entry point and updated Ann's then-current summary to "Munday / likely Murray"
 - [[Search Index|Search Index]] - added the evidence index to topic search and keywords
 - [[Topics and Themes|Topics and Themes]] - linked to the evidence index as the claim-status companion page
 - [[Topics/_Topics Index|Topics Index]] - added the evidence index to the topic hub and crosslinks
@@ -1025,13 +1036,13 @@ A running record of significant additions, corrections, and improvements to this
 ### Updated Pages
 
 - [[Home|Home]] - added Murray Settlement, Bredon Descent, Fairymount/Kilgefin, and Mary Copely Giblin links to the first-reader path
-- [[The Copley Family Narrative|The Copley Family Narrative]] - reframed the immigrant-generation story around Kilgefin/Fairymount, Ann Munday as likely Ann Murray, Murray Settlement formation, turnpike/labor-frontier context, and the Iowa Copely branch
+- [[The Copley Family Narrative|The Copley Family Narrative]] - reframed the immigrant-generation story around Kilgefin/Fairymount, the then-current Ann Munday as likely Ann Murray hypothesis, Murray Settlement formation, turnpike/labor-frontier context, and the Iowa Copely branch
 - [[Topics and Themes|Topics and Themes]] - added Murray Settlement and Bredon Descent as major themes and broadened the old B&O labor framing into infrastructure-labor context
-- [[Topics/Irish Immigration to West Virginia|Irish Immigration to West Virginia]] - reframed Copley migration around labor frontier, Catholic kinship, Murray Settlement, Ann as likely Murray, and St. Michael's / deed / passenger-list research targets
+- [[Topics/Irish Immigration to West Virginia|Irish Immigration to West Virginia]] - reframed Copley migration around labor frontier, Catholic kinship, Murray Settlement, the then-current Ann as likely Murray hypothesis, and St. Michael's / deed / passenger-list research targets
 - [[Topics/B&O Railroad Labor History|B&O Railroad Labor History]] - narrowed the page into infrastructure-labor context and explicitly separated broad B&O history from unproven named employment for Michael or Patrick
 - [[Topics/_Topics Index|Topics Index]] - updated the suggested reading flow to start with Bredon/Captain John and Murray Settlement before B&O labor context
 - [[Search Index|Search Index]] - indexed Mary Copely Giblin, English-origin figures, Murray Settlement, Bredon Descent, Fairymount, Powhatan, and related search terms
-- [[Family Tree|Family Tree]] - updated Ann's diagram label to "Munday / likely Murray"
+- [[Family Tree|Family Tree]] - updated Ann's then-current diagram label to "Munday / likely Murray"
 
 ## Phase 2N (Continued) - Surrey / London / Gatton Mermaid Chart Added (April 25, 2026)
 

@@ -200,7 +200,7 @@ Thank you for any guidance on the correct deed book, index, image, or copy-reque
 - Does the exact-surname grantee-index evidence stay late (1865+) while earlier pre-1843 Murray evidence survives only under some independent Murray-variant index path?
 - Does the deed show Murray settlement before the Copley 1843 Hoffman deed?
 - Do witnesses or neighbors include Copley, Dolan, Hanley, Gillooly, Hannon, Reynolds, Mullooly, Mulroney, or Mahon?
-- Does any record connect Murray land to Ann Copley / Ann Munday / likely Murray?
+- Does any record directly name Ann Copley's maiden surname, or connect her to any Murray household strongly enough to overcome the recorded Munday form?
 
 ---
 
@@ -233,7 +233,7 @@ Priority surnames:
 - Mulroney
 - Mahon
 
-The key research question is whether a Murray household in Kinawley could be connected to Ann Copley, recorded in American family tradition as Ann Munday but now treated as likely Ann Murray for working genealogy.
+The key research question is whether unindexed Kinawley records can identify Ann's recorded **Munday** surname, related variants, or any direct evidence connecting her to a Murray household. Tom Copley's May 2026 correction now treats the Ann-as-Murray idea as probably mistaken unless a direct record proves it.
 
 I would appreciate any catalogue references, access instructions, copy options, or advice about related Kinawley parish land/tithe material.
 
@@ -252,7 +252,7 @@ I would appreciate any catalogue references, access instructions, copy options, 
 | Variant spelling |  |
 | Image / copy status |  |
 | Citation |  |
-| Implication for Ann Murray household work |  |
+| Implication for Ann surname work |  |
 
 ### Evidence Questions
 

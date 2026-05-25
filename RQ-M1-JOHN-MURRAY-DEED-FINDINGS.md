@@ -285,6 +285,6 @@ See [[References/Claude for Chrome Lewis County John Murray 1833 Misindex Check|
 - [[Topics/Murray Settlement]]
 - [[Topics/Murray Settlement Research Roadmap]]
 - [[Research Priorities and Action Items]]
-- [[People/Ann Copley]] if the deed names Murray kin or materially changes the Ann Munday / likely Murray claim
+- [[People/Ann Copley]] if the deed names Murray kin or materially changes the Ann Munday surname question
 - [[Visual Story Atlas]] if the evidence status or research quest map changes
 - [[CHANGELOG]]

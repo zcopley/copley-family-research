@@ -50,7 +50,7 @@ Use this directory to find profiles for specific people. Start at the generation
 ## Name Disambiguation Notes
 - **Michael Copley:** use [[Michael Copley Sr|Michael Copley]] (1813–1897), [[Michael Joseph Copley]] (1898–1988), or [[Michael Copley (b. 1959)]].
 - **Anne Copley:** use [[Anne Copley (b. 1850)|Anne Copley (b. 1850)]] or [[Anne Copley (daughter of John Copley)|Anne Copley (daughter of John)]].
-- **Ann/Anne distinction:** [[Ann Copley]] is the G23 matriarch (1823–1909), recorded as Munday; the earlier Murray hypothesis is now downgraded unless direct evidence appears. Both Anne pages are daughters in later generations.
+- **Ann/Anne distinction:** [[Ann Copley]] is the G23 matriarch (1823–1909), recorded as Munday; the earlier Murray hypothesis is now downgraded as probably mistaken unless direct evidence appears. Both Anne pages are daughters in later generations.
 
 ## Current Evidence Notes
 

@@ -324,7 +324,7 @@ The Sandford estate connection is critical because:
 - Did the Sandford-tenant Murrays (especially the Ballindrumlea cluster) emigrate to Lewis County?
 - Are any of the Kilkeevin Murrays identifiable as relatives of the Kilgefin Murrays (Patrick and John)?
 - Did the Murrays emigrate before the Copleys (supporting anchor-family hypothesis) or alongside them?
-- Is [[People/Ann Copley|Ann Munday]] (wife of Michael Copley Sr.) connected to these Murray families at all? The former Ann-as-Murray reading is now downgraded unless direct evidence appears. (See Section 5.)
+- Is [[People/Ann Copley|Ann Munday]] (wife of Michael Copley Sr.) connected to these Murray families at all? The former Ann-as-Murray reading is now downgraded as probably mistaken unless direct evidence appears. (See Section 5.)
 - Are there Murray family members documented in Lewis County Irish Catholic parish records? (Can search Diocese of Wheeling-Charleston archive, St. Michael's Church records)
 - What were the birth/death dates and family relationships among the documented Murrays? (Can search Irish civil registration, burial records)
 
@@ -460,7 +460,7 @@ graph LR
 
 **FamilySearch Census Result:** FamilySearch U.S. Census searches for Lewis County, Virginia / West Virginia, 1840-1860 found **0 independent Munday households** in the settlement area, and 0 Munday results in the searched Virginia / West Virginia records. This removes the main American-side alternative: that Ann belonged to a separate Munday family that emigrated alongside the Copleys.
 
-**Status:** **Reopened / downgraded.** The evidence above created a plausible Murray hypothesis, but Tom Copley's May 2026 correction says the Munday-to-Murray connection is probably a false lead and that no source proves Ann was Murray. The recorded family form **Munday** is now preferred unless a direct record proves otherwise.
+**Status:** **Reopened / downgraded.** The evidence above created a plausible Murray hypothesis, but Tom Copley's May 2026 correction says the Munday-to-Murray connection is probably a false lead and that no source proves Ann was Murray. His May 25 clarification says he no longer believes there is any connection to Anne Munday. The recorded family form **Munday** is now preferred unless a direct record proves otherwise.
 
 **Next critical research step:** Find a direct surname record for Ann: marriage, passenger list, church register, child death record, Bible entry, probate file, cemetery record, or obituary. Search Munday / Monday / Mundy first, while retaining Murray / Murry as a downgraded variant hypothesis.
 

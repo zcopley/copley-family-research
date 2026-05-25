@@ -148,13 +148,13 @@ Searched FamilySearch U.S. Census collections for Lewis County, Virginia / West 
 | Parish records for Ann's baptism (c. 1823) | ❌ Unavailable | Cannot verify Munday via church records |
 | Tithe Applotment Books (1823-1837) | ⏳ Closed inconclusive | Kinawley absent from NAI and Ancestry indexes; Munday real Irish surname |
 | FamilySearch census, Lewis County WV (1840-1860) | ❌ 0 Munday households | No independent Munday family found near the Copleys in America |
-| Tom Copley May 2026 correction | ⚠️ Downgrades Murray hypothesis | Tom now thinks the Munday-to-Murray link is probably a false lead; no direct proof names Ann as Murray |
+| Tom Copley May 2026 correction | ⚠️ Downgrades Murray hypothesis | Tom now thinks the Munday-to-Murray link is probably a false lead; his May 25 clarification says he no longer believes there is any connection to Anne Munday; no direct proof names Ann as Murray |
 
 **Updated RQ-M5 status: REOPENED / DOWNGRADED.**
 
 Across Irish land records and U.S. census searches, "Munday" has no demonstrated presence in Ann's reported Irish origin parish, County Fermanagh, or the Lewis County WV settlement environment. "Murray" is well established in Kinawley, and the American settlement was historically known as Murray's Settlement. These are real indirect clues, but they are not a direct identity record.
 
-Tom Copley's May 2026 correction changes the handling: the Munday-to-Murray link should be treated as probably a false lead unless a direct record appears. The recorded family surname **Munday** is now preferred for working genealogy, while Murray remains a search variant / hypothesis only.
+Tom Copley's May 2026 correction changes the handling: the Munday-to-Murray link should be treated as probably a false lead unless a direct record appears. His May 25 clarification says he no longer believes there is any connection to Anne Munday. The recorded family surname **Munday** is now preferred for working genealogy, while Murray remains a search variant / hypothesis only.
 
 ---
 

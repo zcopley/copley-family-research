@@ -78,7 +78,7 @@ When in doubt, check [[Sources and Evidence Index]] before relying on a claim.
 
 ## The Core Story
 
-The central line begins with [[People/Michael Copley Sr|Michael Copley Sr.]], born around 1813 and associated by family tradition with [[Places/Kilgefin Ireland|Kilgefin, County Roscommon]], and [[People/Ann Copley|Ann Copley]], remembered as Ann Munday but now treated as likely Murray pending direct proof. Their family settled in [[Places/Lewis County West Virginia|Lewis County, West Virginia]], where land, Catholic community formation, Irish migration networks, and later oil development shaped the family's American story.
+The central line begins with [[People/Michael Copley Sr|Michael Copley Sr.]], born around 1813 and associated by family tradition with [[Places/Kilgefin Ireland|Kilgefin, County Roscommon]], and [[People/Ann Copley|Ann Copley]], remembered as Ann Munday; the earlier Ann-as-Murray idea is now treated as a probably mistaken lead unless direct proof appears. Their family settled in [[Places/Lewis County West Virginia|Lewis County, West Virginia]], where land, Catholic community formation, Irish migration networks, and later oil development shaped the family's American story.
 
 The most developed 19th- and 20th-century line runs through [[People/John Copley|John Copley]] and [[People/Mary Ellen Dolan Copley|Mary Ellen Dolan Copley]], then into the Sardo, Ruland, Stephen Copley, and Tom Copley branches.
 
@@ -89,8 +89,8 @@ These questions explain why some pages use cautious wording:
 | Question | Current Status | Best Control Page |
 |---|---|---|
 | Who were Michael Copley Sr.'s Irish parents? | Strong origin lead, parentage unresolved | [[Topics/Captain John Copley Research]] |
-| Was Ann recorded as Munday actually from a Murray family? | Strong working conclusion, direct record missing | [[People/Ann Copley]] |
-| Which Kinawley Murray household did Ann belong to? | Open | [[Research Priorities and Action Items]] |
+| What direct record names Ann Copley's maiden surname? | Unresolved; Munday is the recorded form | [[People/Ann Copley]] |
+| Was the earlier Ann-as-Murray lead a mistake? | Probably yes unless direct evidence appears | [[References/Tom Copley May 2026 Research Corrections]] |
 | Did a Murray-led settlement network anchor the Lewis County Irish Catholic community? | Plausible high-value framework | [[Topics/Murray Settlement]] |
 | How do the Fairymount Copelys connect to Michael Sr.? | Verified local Copely presence, relationship unresolved | [[Places/Kilgefin Ireland]] |
 | Was Mary Copely Giblin close kin to Michael Sr.? | Verified person, plausible relationship | [[People/Mary Copely Giblin]] |

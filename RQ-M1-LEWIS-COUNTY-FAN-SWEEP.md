@@ -146,7 +146,7 @@ For any promising Murray, Copley, Dolan, Hanley, Hannon, Gillooly, Reynolds, or 
 
 | Year | Surname / Variant Searched | Database / Collection | Search Method | Result | Notes |
 |---|---|---|---|---|---|
-| 1840-1860 | Munday / Monday | FamilySearch U.S. Census, Lewis County VA / WV | Surname search and locality check | No independent households found | Preserved as evidence for Ann Munday / likely Murray. |
+| 1840-1860 | Munday / Monday | FamilySearch U.S. Census, Lewis County VA / WV | Surname search and locality check | No independent households found | Preserved as context for the Ann Munday surname question; it does not prove Ann was Murray. |
 | 1850 | Dolan | FamilySearch U.S. Census, Lewis County VA | Exact + fuzzy surname search | No Lewis County hit | Dolans appear only from later decades in this workflow. |
 | 1850 | Hanley | FamilySearch U.S. Census, Lewis County VA | Exact surname search | No Lewis County hit | One 1850 Hanley appears in Preston County, not Lewis. |
 | 1850 | Hannon | FamilySearch U.S. Census, Lewis County VA | Exact surname search | No Lewis County hit |  |
