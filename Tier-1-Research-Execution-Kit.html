@@ -160,12 +160,12 @@ code.mermaid .edgeLabel text,
 <li>Former 1833 John Murray lead retired: actual record is a <strong>1899</strong> oil and gas lease to <strong>Fred S. Rich</strong> in DGS 008293302</li>
 </ul>
 <h3 id="current-highest-value-claude-for-chrome-task">Current Highest-Value Claude for Chrome Task<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#current-highest-value-claude-for-chrome-task" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
-<p>For a single bounded Claude-for-Chrome session, the highest-value next task is <strong>check <code>i3811884-00367</code> for the missing tax-list header context</strong>. The James Murray row on <code>i3811884-00377</code> and the Patrick Murry row on <code>i3811884-00379</code> are image-verified by Claude for Chrome and appear in the same probable-1854 district-list sequence. The proof pages / spreads <code>i3811884-00378</code>, <code>i3811884-00376</code>, <code>i3811884-00374</code>, <code>i3811884-00372</code>, <code>i3811884-00370</code>, and <code>i3811884-00368</code> all cut off the final year digit or leave it absent, and taxable-persons pages <code>i3811884-00375</code>, <code>i3811884-00373</code>, <code>i3811884-00371</code>, and <code>i3811884-00369</code> have no readable district name or year, so the immediately preceding image is the next best chance to recover the full year, district number, or commissioner.</p>
+<p>For a single bounded Claude-for-Chrome session, the highest-value next task is <strong>check <code>i3811884-00366</code> for the missing tax-list header context</strong>. The James Murray row on <code>i3811884-00377</code> and the Patrick Murry row on <code>i3811884-00379</code> are image-verified by Claude for Chrome and appear in the same probable-1854 district-list sequence. The proof pages / spreads <code>i3811884-00378</code>, <code>i3811884-00376</code>, <code>i3811884-00374</code>, <code>i3811884-00372</code>, <code>i3811884-00370</code>, and <code>i3811884-00368</code> all cut off the final year digit or leave it absent, and taxable-persons pages <code>i3811884-00375</code>, <code>i3811884-00373</code>, <code>i3811884-00371</code>, <code>i3811884-00369</code>, and <code>i3811884-00367</code> have no readable district name or year, so the immediately preceding image is the next best chance to recover the full year, district number, or commissioner.</p>
 <p>Use this exact prompt:</p>
 <figure data-rehype-pretty-code-figure><pre tabindex="0" data-language="text" data-theme="github-light github-dark"><code data-language="text" data-theme="github-light github-dark" style="display:grid;"><span data-line><span>Do one narrow research task only. Do not browse broadly and do not do any repo work.</span></span>
 <span data-line> </span>
 <span data-line><span>Goal:</span></span>
-<span data-line><span>Check Ancestry image `i3811884-00367`, the image immediately before proof-spread `i3811884-00368`, to see whether it is a cover page, header sheet, title page, proof / summary page, taxable-persons page, or separator that can identify the full year, district number, and commissioner for the James Murray / Patrick Murry tax-list sequence. This is one image-target task, not a broad surname sweep.</span></span>
+<span data-line><span>Check Ancestry image `i3811884-00366`, the image immediately before taxable-persons page `i3811884-00367`, to see whether it is a cover page, header sheet, title page, proof / summary page, taxable-persons page, or separator that can identify the full year, district number, and commissioner for the James Murray / Patrick Murry tax-list sequence. This is one image-target task, not a broad surname sweep.</span></span>
 <span data-line> </span>
 <span data-line><span>Known context:</span></span>
 <span data-line><span>- The direct early John Murray deed path is closed. The old 1826 Murray / Fish and 1833 John Murray leads are both 1899 oil-and-gas lease misindexes.</span></span>
@@ -193,15 +193,16 @@ code.mermaid .edgeLabel text,
 <span data-line><span>- A follow-up checked `i3811884-00370`. It is a two-page proof / taxable spread with the same `for the year 185` truncation or absence, blank district field, and no commissioner name.</span></span>
 <span data-line><span>- A follow-up checked `i3811884-00369`. It is taxable-persons page 11, with H-section names, a blank district field, and no visible year or commissioner.</span></span>
 <span data-line><span>- A follow-up checked `i3811884-00368`. It is a two-page proof / summary spread immediately before taxable-persons page `00369`; the district name is obscured in the gutter, the year again reads only `185`, and no commissioner name appears.</span></span>
-<span data-line><span>- Claude suggested `i3811884-00367` as the next image because it is one image earlier and may be a cover / header / title page for the book segment.</span></span>
-<span data-line><span>- This session is only about image `i3811884-00367` and district/year context. Do not repeat the already-completed indexed searches or reverify James / Patrick unless needed for page sequence.</span></span>
+<span data-line><span>- A follow-up checked `i3811884-00367`. It is taxable-persons page 10, with H-section names, a blank district field, and no visible year or commissioner.</span></span>
+<span data-line><span>- Claude suggested `i3811884-00366` as the next image because it is one image earlier and may be a cover / header / title page or a proof page for earlier pages in the book segment.</span></span>
+<span data-line><span>- This session is only about image `i3811884-00366` and district/year context. Do not repeat the already-completed indexed searches or reverify James / Patrick unless needed for page sequence.</span></span>
 <span data-line><span>- Do not work on Marwee, page 334, page 404, Casey / Carey, Battelle cluster details, Dolan cluster details, Partlow, or broad unrelated Murray families.</span></span>
 <span data-line> </span>
 <span data-line><span>Your task:</span></span>
-<span data-line><span>1. In Ancestry's `Virginia, U.S., Personal Property Tax Records, 1782-1900`, Lewis County, open image `i3811884-00367`.</span></span>
+<span data-line><span>1. In Ancestry's `Virginia, U.S., Personal Property Tax Records, 1782-1900`, Lewis County, open image `i3811884-00366`.</span></span>
 <span data-line><span>2. Identify what type of page it is:</span></span>
 <span data-line><span>   - cover / title / header page for the same district list</span></span>
-<span data-line><span>   - proof / summary page immediately before proof-spread `i3811884-00368`</span></span>
+<span data-line><span>   - proof / summary page immediately before taxable-persons page `i3811884-00367`</span></span>
 <span data-line><span>   - taxable-persons page</span></span>
 <span data-line><span>   - end of a previous district list</span></span>
 <span data-line><span>   - unrelated separator or blank page</span></span>
@@ -211,10 +212,10 @@ code.mermaid .edgeLabel text,
 <span data-line><span>   - commissioner name</span></span>
 <span data-line><span>   - page number</span></span>
 <span data-line><span>   - image number and URL</span></span>
-<span data-line><span>   - neighboring page sequence clues connecting it to `i3811884-00368`, `i3811884-00369`, `i3811884-00370`, or the later James / Patrick sequence</span></span>
-<span data-line><span>4. If it is a taxable-persons page, transcribe the page header and 10-15 names near the bottom of the page to see whether it flows into proof-spread `i3811884-00368` and page 11 / `i3811884-00369`.</span></span>
+<span data-line><span>   - neighboring page sequence clues connecting it to `i3811884-00367`, `i3811884-00368`, `i3811884-00369`, or the later James / Patrick sequence</span></span>
+<span data-line><span>4. If it is a taxable-persons page, transcribe the page header and 10-15 names near the bottom of the page to see whether it flows into page 10 / `i3811884-00367` and proof-spread `i3811884-00368`.</span></span>
 <span data-line><span>5. If it is a cover or proof page, transcribe the header and any totals or signatures relevant to the James / Patrick sequence.</span></span>
-<span data-line><span>6. Stop after `i3811884-00367`. Do not broaden to other years.</span></span>
+<span data-line><span>6. Stop after `i3811884-00366`. Do not broaden to other years.</span></span>
 <span data-line> </span>
 <span data-line><span>Output format:</span></span>
 <span data-line> </span>
@@ -224,7 +225,7 @@ code.mermaid .edgeLabel text,
 <span data-line><span>- Year / district evidence:</span></span>
 <span data-line><span>- Access or image problems:</span></span>
 <span data-line> </span>
-<span data-line><span>IMAGE i3811884-00367</span></span>
+<span data-line><span>IMAGE i3811884-00366</span></span>
 <span data-line><span>- Page type:</span></span>
 <span data-line><span>- Image / URL:</span></span>
 <span data-line><span>- Full year, if visible:</span></span>
@@ -234,10 +235,10 @@ code.mermaid .edgeLabel text,
 <span data-line><span>- Bottom names or totals, if relevant:</span></span>
 <span data-line> </span>
 <span data-line><span>DISTRICT / YEAR CONTEXT FOR JAMES / PATRICK</span></span>
-<span data-line><span>- Does image i3811884-00367 clarify the `185_` year?</span></span>
+<span data-line><span>- Does image i3811884-00366 clarify the `185_` year?</span></span>
 <span data-line><span>- Is the final year digit visible anywhere?</span></span>
 <span data-line><span>- Is the district or commissioner legible?</span></span>
-<span data-line><span>- Does image 00367 connect directly to proof-spread `i3811884-00368`, page 11 / `i3811884-00369`, proof-spread `i3811884-00370`, or the later James / Patrick sequence?</span></span>
+<span data-line><span>- Does image 00366 connect directly to page 10 / `i3811884-00367`, proof-spread `i3811884-00368`, page 11 / `i3811884-00369`, or the later James / Patrick sequence?</span></span>
 <span data-line> </span>
 <span data-line><span>RQ-M1 INTERPRETATION</span></span>
 <span data-line><span>- Does this confirm the probable 1854 year?</span></span>
