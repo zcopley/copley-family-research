@@ -10,6 +10,17 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4CG - Taxable-Persons Page 00367 Check Integrated (May 25, 2026)
+
+**MURRAY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome check of Ancestry image `i3811884-00367`. The image is taxable-persons page 10 with H-section names, but it has no visible year, no filled district field, and no commissioner name. It confirms still more alphabetical continuity before the James Murray / Patrick Murry pages without resolving the probable-1854 year caveat.
+
+### Updated Pages
+
+- [[References/Claude for Chrome Lewis County Personal Property Tax Check|Claude for Chrome Lewis County Personal Property Tax Check]] - added the `00367` taxable-persons page result, raw source link, H-section sequence note, and revised next image target.
+- [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]] and [[Tier 1 Research Execution Kit|Tier 1 Research Execution Kit]] - shifted the next Claude for Chrome task to `i3811884-00366`, looking for a cover/header/title page, a proof page for earlier pages, or other clearer district / year clue.
+- [[Sources and Evidence Index|Sources and Evidence Index]], [[Research Priorities and Action Items|Research Priorities and Action Items]], [[Topics/Murray Settlement|Murray Settlement]], [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]], [[Search Index|Search Index]], and `.agents/AGENT_RESUME.md` - updated the active Murray workflow so `00367` is treated as useful but unresolved and `00366` is the next bite-size target.
+- `static/sources/claude-tax-list/i3811884-00367-taxable-persons-page-check-claude-output.txt` - preserved the raw Claude for Chrome handoff.
+
 ## Phase 4CF - Murray Spelling and Ann Munday Correction Integrated (May 25, 2026)
 
 **SOURCE-CORRECTION UPDATE:** Integrated Tom Copley's May 25 correction that the settlement surname should be spelled **Murray** and pronounced "Mur-ray," not used as a generic **Murry** label. The update also sharpens the Ann Munday finding: Tom no longer believes there is any Murray connection to Anne Munday, and that earlier connection is now treated as probably mistaken unless a direct source proves otherwise.

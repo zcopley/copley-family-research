@@ -32,6 +32,7 @@ This note preserves Zach's Claude for Chrome handoff for the Ancestry collection
 - [Download raw `i3811884-00370` proof-spread check](../static/sources/claude-tax-list/i3811884-00370-proof-spread-check-claude-output.txt)
 - [Download raw `i3811884-00369` taxable-persons page check](../static/sources/claude-tax-list/i3811884-00369-taxable-persons-page-check-claude-output.txt)
 - [Download raw `i3811884-00368` proof-spread check](../static/sources/claude-tax-list/i3811884-00368-proof-spread-check-claude-output.txt)
+- [Download raw `i3811884-00367` taxable-persons page check](../static/sources/claude-tax-list/i3811884-00367-taxable-persons-page-check-claude-output.txt)
 - Prior indexed-search note: [[References/Claude for Chrome Lewis County Older Luke Margaret Round 2 Search]]
 - Prior original-image note: [[References/Claude for Chrome Lewis County Murry Original Image Transcription]]
 
@@ -250,7 +251,23 @@ The next May 2026 follow-up checked `i3811884-00368`, the image immediately befo
 | District / commissioner | District name is obscured in the gutter; no commissioner name appears |
 | Interpretation | Useful but unresolved. It repeats the same `185_` and unreadable-district problem as the other proof spreads and does not supply the missing year digit, district, or commissioner. |
 
-The next single-image target is now `i3811884-00367`, one image earlier. It may be a cover / header / title page or another earlier page that finally exposes the full year, district, or commissioner.
+At that point, the next single-image target was `i3811884-00367`, one image earlier. That follow-up is summarized below.
+
+## `i3811884-00367` Page Check
+
+The next May 2026 follow-up checked `i3811884-00367`, the image immediately before proof-spread `00368`.
+
+| Field | Result |
+|---|---|
+| Image | Ancestry `i3811884-00367`, viewer position 368 of 646, pId `394406` |
+| Page type | Taxable-persons page, handwritten page 10 |
+| Header | `List of Taxable Persons, Property, &c. within the District of` |
+| Year | Not visible |
+| District / commissioner | District field blank; no commissioner name appears |
+| Names / sequence | H-surnames including Harris, Hitt, Hopper, Hampton, Haydon, Hunt, Hoar, Hannahs, Hawkins, Helmick, Henzman, Hudson, Hardman, and Hammer |
+| Interpretation | Useful but unresolved. It confirms page 10 and H-section continuity toward the later James / Patrick pages, but it does not supply the missing year digit, district, or commissioner. |
+
+The next single-image target is now `i3811884-00366`, one image earlier. It may be a cover / header / title page, a proof page for pages 1-9, or another earlier page that finally exposes the full year, district, or commissioner.
 
 ## RQ-M1 Interpretation
 
@@ -267,7 +284,7 @@ The result does **not** prove a pre-1843 Murray anchor family. It instead sugges
 
 ## Next Research Target
 
-1. Check `i3811884-00367`, the image immediately before proof-spread `00368`, for a cover page, header sheet, full year, commissioner name, district number, or page-sequence clue.
+1. Check `i3811884-00366`, the image immediately before taxable-persons page `00367`, for a cover page, header sheet, full year, commissioner name, district number, or page-sequence clue.
 2. Capture or independently transcribe the Ancestry images for 1853 Eliza Jane Murry and the 1854 Loghan entries.
 3. Finish the remaining personal-property-tax gap: 1855 M-section coverage, 1856, and 1857-1860 image set `i3811885`.
 4. Pull the 1854 Luke Murray / Anne Loghan marriage register and bond/consent images to identify witnesses, bondsmen, or parental clues.

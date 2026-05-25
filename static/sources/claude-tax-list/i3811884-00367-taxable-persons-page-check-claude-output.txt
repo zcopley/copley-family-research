@@ -1,0 +1,73 @@
+Image i3811884-00367 -- Full Report
+
+Page Type
+Taxable-persons page: standard columnar "List of Taxable Persons" form.
+
+URL / Image Counter / pId
+
+| Field | Value |
+|---|---|
+| URL | https://www.ancestry.com/imageviewer/collections/62774/images/i3811884-00367?pId=394406 |
+| Ancestry image counter | 368 of 646 |
+| pId | 394406 |
+| Details panel | No record has been selected or there is no record in this collection; no indexed record attached |
+
+Page Number
+Page 10. The handwritten numeral at upper left appears like "1b" or "10"; sequence context makes it page 10, immediately before the proof/taxable sequence starting at 00368 / page 11.
+
+Header Text
+"List of Taxable Persons, Property, &c. within the District of"
+
+The blank after "District of" is empty. No district name or number is written in. This matches the other taxable pages in the sequence, including 00369 and 00371.
+
+Year
+Not visible. No year is printed or written anywhere on this page, consistent with the other taxable pages in the sequence.
+
+District / Commissioner
+Not visible. The district field in the header is blank. No commissioner name appears on this page.
+
+Names on Page 10
+The page is entirely H-surnames, proceeding alphabetically.
+
+| Row | Name |
+|---|---|
+| 1 | Harris, John S. |
+| 2 | Hitt, Zepherinali or similar |
+| 3 | Hopper, Joshua |
+| 6 | Hampton, Richard |
+| 7 | Hampton, Edmunds |
+| 8 | Haydon, John |
+| 9 | Hunt, Thomas |
+| 10 | Hunt, Anthony |
+| 11 | Hoar, Patrick |
+| 12 | Hoar, Patrick Sr. |
+| 13 | Hitt, Joseph Sr. / Jr. |
+| 14 | Hannahs, James |
+| 15 | Hitt, Francis |
+| 16 | Hitt, James |
+| 17 | Hawkins, Elias |
+| 18 | Harbing, John |
+| 19 | Helmick, John H. |
+| 20 | Henzman, W'm |
+| 21 | Henzman, Rovy G. |
+| 22 | Hudson, Jacob No. 1 |
+| 23 | Hardman, John(s?) |
+| 24 | Helmick, John |
+| 25 | Helmick, David S. |
+| 26 | Helmick, Jacob B. |
+| 27 | Hardman, Henry |
+| 28 | Hardman, Thomas |
+| 29 | Hardman, Gaved(?) |
+| 30 | Helmick, John R. |
+| 31 | Hammer, Henry |
+
+Sequence Note
+The sequence is strictly H-surnames throughout, running roughly Ha-He-Hi-Ho-Hu and back through Ha again, with multiple Hardman / Helmick clusters. This is consistent with a single-commissioner district list in alphabetical order.
+
+Does This Clarify the James Murray / Patrick Murry Year or District?
+No. Image 00367 is the same type as 00369, 00371, 00373, and 00375: a taxable-persons page with no year, no district name, and no commissioner visible. It adds no new information about the year ("185_") or the district that applies to the James Murray page 15 / Patrick Murry page 16 entries.
+
+The only difference is that 00367 is page 10, placing it two pages before the sequence already known (pages 11-16). The district and year remain opaque.
+
+Best Next Images to Check
+Work backwards before 00367. Check 00366, 00365, 00364, etc. to find the cover/title page or a proof page for this same book that may show a complete year and district name. The proof page before page 10, covering pages 1-9 of this same list, may be the most likely place to find a fully legible "for the year 185_" with the final digit intact or an unambiguous district heading.
