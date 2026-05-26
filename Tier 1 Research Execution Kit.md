@@ -52,7 +52,7 @@ When a search produces a record, a negative result, or a corrected claim:
 
 ### Current Highest-Value Claude for Chrome Task
 
-For a single bounded Claude-for-Chrome session, the highest-value next task is **check `i3811884-00364` for the missing tax-list header context**. The James Murray row on `i3811884-00377` and the Patrick Murry row on `i3811884-00379` are image-verified by Claude for Chrome and appear in the same probable-1854 district-list sequence. The proof pages / spreads `i3811884-00378`, `i3811884-00376`, `i3811884-00374`, `i3811884-00372`, `i3811884-00370`, `i3811884-00368`, and `i3811884-00366` all cut off the final year digit or leave it absent, and taxable-persons pages `i3811884-00375`, `i3811884-00373`, `i3811884-00371`, `i3811884-00369`, `i3811884-00367`, and `i3811884-00365` have no readable district name or year, so the immediately preceding image is the next best chance to recover the full year, district number, or commissioner.
+For a single bounded Claude-for-Chrome session, the highest-value next task is **check `i3811884-00363` for the missing tax-list header context**. The James Murray row on `i3811884-00377` and the Patrick Murry row on `i3811884-00379` are image-verified by Claude for Chrome and appear in the same probable-1854 district-list sequence. The proof pages / spreads `i3811884-00378`, `i3811884-00376`, `i3811884-00374`, `i3811884-00372`, `i3811884-00370`, `i3811884-00368`, `i3811884-00366`, and `i3811884-00364` all cut off the final year digit or leave it absent, and taxable-persons pages `i3811884-00375`, `i3811884-00373`, `i3811884-00371`, `i3811884-00369`, `i3811884-00367`, and `i3811884-00365` have no readable district name or year, so the immediately preceding image is the next best chance to recover the full year, district number, or commissioner.
 
 Use this exact prompt:
 
@@ -60,7 +60,7 @@ Use this exact prompt:
 Do one narrow research task only. Do not browse broadly and do not do any repo work.
 
 Goal:
-Check Ancestry image `i3811884-00364`, the image immediately before taxable-persons page `i3811884-00365`, to see whether it is a cover page, header sheet, title page, proof / summary page, taxable-persons page, or separator that can identify the full year, district number, and commissioner for the James Murray / Patrick Murry tax-list sequence. This is one image-target task, not a broad surname sweep.
+Check Ancestry image `i3811884-00363`, the image immediately before proof spread `i3811884-00364`, to see whether it is a cover page, header sheet, title page, proof / summary page, taxable-persons page, or separator that can identify the full year, district number, and commissioner for the James Murray / Patrick Murry tax-list sequence. This is one image-target task, not a broad surname sweep.
 
 Known context:
 - The direct early John Murray deed path is closed. The old 1826 Murray / Fish and 1833 John Murray leads are both 1899 oil-and-gas lease misindexes.
@@ -91,15 +91,16 @@ Known context:
 - A follow-up checked `i3811884-00367`. It is taxable-persons page 10, with H-section names, a blank district field, and no visible year or commissioner.
 - A follow-up checked `i3811884-00366`. It is a proof / summary page, likely paired with taxable-persons page 9; it has the same `for the year 185` problem, a blank district / commissioner field, and no taxable-person names.
 - A follow-up checked `i3811884-00365`. It is taxable-persons page 9, with G-section names, a blank district field, and no visible year or commissioner.
-- Claude suggested `i3811884-00364` as the next image because it is one image earlier and may be a cover / header / title page, proof page, or taxable-persons page 8 in the book segment.
-- This session is only about image `i3811884-00364` and district/year context. Do not repeat the already-completed indexed searches or reverify James / Patrick unless needed for page sequence.
+- A follow-up checked `i3811884-00364`. It is a proof / summary spread immediately before taxable-persons page `00365`, with the same `for the year 185` problem, a blank district / commissioner field, and no readable page number.
+- Claude suggested `i3811884-00363` as the next image because it is one image earlier and may be a cover / header / title page, proof page, taxable-persons page, or preceding section image.
+- This session is only about image `i3811884-00363` and district/year context. Do not repeat the already-completed indexed searches or reverify James / Patrick unless needed for page sequence.
 - Do not work on Marwee, page 334, page 404, Casey / Carey, Battelle cluster details, Dolan cluster details, Partlow, or broad unrelated Murray families.
 
 Your task:
-1. In Ancestry's `Virginia, U.S., Personal Property Tax Records, 1782-1900`, Lewis County, open image `i3811884-00364`.
+1. In Ancestry's `Virginia, U.S., Personal Property Tax Records, 1782-1900`, Lewis County, open image `i3811884-00363`.
 2. Identify what type of page it is:
    - cover / title / header page for the same district list
-   - proof / summary page immediately before taxable-persons page `i3811884-00365`
+   - proof / summary page immediately before proof spread `i3811884-00364`
    - taxable-persons page
    - end of a previous district list
    - unrelated separator or blank page
@@ -109,10 +110,10 @@ Your task:
    - commissioner name
    - page number
    - image number and URL
-   - neighboring page sequence clues connecting it to `i3811884-00365`, `i3811884-00366`, `i3811884-00367`, or the later James / Patrick sequence
-4. If it is a taxable-persons page, transcribe the page header and 10-15 names near the bottom of the page to see whether it flows into page 9 / `i3811884-00365`, proof page `i3811884-00366`, and page 10 / `i3811884-00367`.
+   - neighboring page sequence clues connecting it to `i3811884-00364`, `i3811884-00365`, `i3811884-00366`, or the later James / Patrick sequence
+4. If it is a taxable-persons page, transcribe the page header and 10-15 names near the bottom of the page to see whether it flows into proof spread `i3811884-00364`, page 9 / `i3811884-00365`, proof page `i3811884-00366`, and page 10 / `i3811884-00367`.
 5. If it is a cover or proof page, transcribe the header and any totals or signatures relevant to the James / Patrick sequence.
-6. Stop after `i3811884-00364`. Do not broaden to other years.
+6. Stop after `i3811884-00363`. Do not broaden to other years.
 
 Output format:
 
@@ -122,7 +123,7 @@ TAX-LIST HEADER CHECK SCOPE
 - Year / district evidence:
 - Access or image problems:
 
-IMAGE i3811884-00364
+IMAGE i3811884-00363
 - Page type:
 - Image / URL:
 - Full year, if visible:
@@ -132,10 +133,10 @@ IMAGE i3811884-00364
 - Bottom names or totals, if relevant:
 
 DISTRICT / YEAR CONTEXT FOR JAMES / PATRICK
-- Does image i3811884-00364 clarify the `185_` year?
+- Does image i3811884-00363 clarify the `185_` year?
 - Is the final year digit visible anywhere?
 - Is the district or commissioner legible?
-- Does image 00364 connect directly to page 9 / `i3811884-00365`, proof page `i3811884-00366`, page 10 / `i3811884-00367`, or the later James / Patrick sequence?
+- Does image 00363 connect directly to proof spread `i3811884-00364`, page 9 / `i3811884-00365`, proof page `i3811884-00366`, page 10 / `i3811884-00367`, or the later James / Patrick sequence?
 
 RQ-M1 INTERPRETATION
 - Does this confirm the probable 1854 year?

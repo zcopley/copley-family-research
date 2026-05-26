@@ -10,6 +10,17 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4CJ - Tax Proof Spread 00364 Check Integrated (May 25, 2026)
+
+**MURRAY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome check of Ancestry image `i3811884-00364`. The image is another proof / summary spread immediately before taxable-persons page 9, but it repeats the unresolved `for the year 185` problem and has a blank district / commissioner field. It confirms sequence continuity before page 9 without resolving the probable-1854 year caveat.
+
+### Updated Pages
+
+- [[References/Claude for Chrome Lewis County Personal Property Tax Check|Claude for Chrome Lewis County Personal Property Tax Check]] - added the `00364` proof-spread result, raw source link, proof totals summary, and revised next image target.
+- [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]] and [[Tier 1 Research Execution Kit|Tier 1 Research Execution Kit]] - shifted the next Claude for Chrome task to `i3811884-00363`, looking for a cover/header/title page, proof page, taxable-persons page, or other clearer district / year clue.
+- [[Sources and Evidence Index|Sources and Evidence Index]], [[Research Priorities and Action Items|Research Priorities and Action Items]], [[Topics/Murray Settlement|Murray Settlement]], [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]], [[Search Index|Search Index]], and `.agents/AGENT_RESUME.md` - updated the active Murray workflow so `00364` is treated as useful but unresolved and `00363` is the next bite-size target.
+- `static/sources/claude-tax-list/i3811884-00364-proof-spread-check-claude-output.txt` - preserved the raw Claude for Chrome handoff.
+
 ## Phase 4CI - Taxable-Persons Page 00365 Check Integrated (May 25, 2026)
 
 **MURRAY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome check of Ancestry image `i3811884-00365`. The image is taxable-persons page 9 with G-section names, including Gillooly / Gilleoly entries, but it has no visible year, no filled district field, and no commissioner name. It confirms more alphabetical continuity before the James Murray / Patrick Murry pages without resolving the probable-1854 year caveat.
