@@ -1,0 +1,79 @@
+Research Report: Ancestry Image i3811884-00364
+
+URL / Image Counter / pId
+
+- URL: https://www.ancestry.com/imageviewer/collections/62774/images/i3811884-00364?pId=394403
+- Ancestry image counter: 365 of 646 (1-indexed, so this is the 364th 0-indexed image = i3811884-00364)
+- pId: 394403
+- Details panel note: "No record has been selected or there is no record in this collection" -- no indexed record is attached to this image.
+
+Page Type
+
+Proof/summary spread -- the right half of a two-page spread. The left half (occupying roughly columns 1-9 of the viewport) is the tail end of a taxable-persons list (with row numbers and handwritten column values), and the right half is the printed PROOF box.
+
+Page Number
+
+No page number is printed on the visible portion of this image. The page number would normally appear on the facing taxable-persons leaf, which is cropped to the left edge here.
+
+Header Text (transcribed)
+
+A Commissioner of the Revenue in the [BLANK] for the year 185[?]
+
+- The district/county name field between "in the" and "for the year 185" is entirely blank -- the space where a commissioner's name or district number would be handwritten in is empty.
+- The year field reads "185" and then stops. At maximum zoom, panning all the way to the right edge of the document, there is no further digit -- the right margin of the original document ends immediately after the "5." The final digit of the year is absent from this image, exactly as on pages 00366, 00368, 00370, 00372, 00374, 00376, and 00378.
+
+Year
+
+Not resolved. The header reads "for the year 185" -- the units digit is missing on this image, consistent with every other proof page in the sequence. No clarification is gained from 00364 vs. the others.
+
+District / Commissioner
+
+Not resolved. The district/commissioner field is blank (the pre-printed form has no handwritten entry in that space). No commissioner name or district number is visible anywhere on this image.
+
+Proof Totals (right-side PROOF box)
+
+| Category | No. | Value | Tax on value | Total Tax |
+|---|---|---|---|---|
+| White males, at 40 cents | 25 | -- | -- | ~$10.00 |
+| Male free negroes, at 100 cents | -- | -- | -- | -- |
+| Slaves, at 60 cents | 2 | -- | -- | ~$1.20 |
+| Horses, mules, asses and jennets | 19 | ~$1,200 | ~$0.40 | -- |
+| Cattle, sheep and hogs | 422 | ~$225 | ~$4.11 | -- |
+| Pleasure carriages, stage coaches &c. | 1 | ~$[?] | ~$[?] | -- |
+| Watches | ~3 | $48 | ~$3.60 | -- |
+| Clocks | 16 | ~$5[?] | ~$10.80 | -- |
+| Pianos and harps | -- | -- | -- | -- |
+| Plate and jewelry | -- | ~$0 | ~$[?] | -- |
+| Household and kitchen furniture | -- | $1,025 | ~$2.05 | -- |
+| Money, bonds, securities and claims | -- | $630 | ~$1.26 | -- |
+| Capital invested in mining or manufacturing | -- | ~$150 | ~$0.50 | -- |
+| Money, &c. under control of a court | -- | -- | -- | -- |
+| Capital of companies (no dividend) | -- | -- | -- | -- |
+| Personal property (internal improvement cos.) | -- | -- | -- | -- |
+| Other articles of personal property | -- | ~$198 | ~$3.960 | -- |
+| Interest or profits at 5% | -- | -- | -- | -- |
+| Dividends at 3% | -- | -- | -- | -- |
+
+Many individual column totals are partly obscured by the image counter overlay and image quality. Values marked ~ are approximate.
+
+Left-side taxable-persons rows visible (bottom of prior page): Row numbers approximately 1-11 are visible with handwritten values in the tax columns. The handwriting shows entries for rows 4 (672, value 1, total ~13440), 5 (547, ~17840), 6 (75, ~16), and rows 8-11 with similar column entries. This appears to be the F-surname or early G-surname section immediately before image 00365 (which starts with G-surnames at page 9).
+
+Does 00364 Clarify the James/Patrick Murray Year or District?
+
+No. Image 00364 is another proof/summary spread and suffers from exactly the same deficiency as all other proof pages in the sequence:
+
+- The year header reads "for the year 185" with the final digit absent -- the right edge of the document is physically cut off or the digit was never written.
+- The district/commissioner field is blank -- the printed form was simply not filled in.
+- No page number is printed on this image.
+
+This image does not advance the date or district question.
+
+Best Next Images to Check
+
+Since the year's final digit is missing on every proof page and every taxable page in this sequence, the most productive next steps are:
+
+1. Go backwards from 00364 -- check image 00363 (and 00362, 00361, etc.). These should be the preceding tax list, possibly with a cover page, title page, or section header that names the district and gives a full four-digit year.
+2. Check image 00380 and beyond (the pages after Patrick Murry on page 16) -- the next section may begin with a fresh header page that names the district and year.
+3. Look for a cover/title image near the beginning of this district's run. Virginia personal property tax books of the 1850s typically have a hand-labeled title on the first leaf of each district's booklet, giving "District No. [X], County of Lewis, for the year 185[X]."
+
+The most promising single image to check next is i3811884-00363, as it immediately precedes the sequence and may be a title/cover leaf or the proof page for the preceding alphabetical section -- which might have a fully legible year.
