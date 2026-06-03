@@ -183,7 +183,7 @@ If you do not know the name yet and only know the general family line, start wit
 | [[People/Octavius Pickering\|Octavius Pickering]] | Boston attorney; proposed assignee link from Pickering grant to Camden, Bailey and Camden |
 | Michael Patrick Dolan | father of Mary Ellen Dolan Copley; b. 1824 Cork, Ireland; d. 9 Nov 1888 Lewis Co. WV (Ancestry, unverified) |
 | Elizabeth Mullooly Dolan | mother of Mary Ellen Dolan Copley; b. May 1829 Co. Roscommon, Ireland; d. 3 May 1913 Weston WV; maiden name Mullooly (Ancestry, unverified) |
-| John Copley and Sarah Dolan | proposed parents of Michael Copley Sr.; unresolved Kilgefin / Roscommon hypothesis from Tom Copley's May 2026 emails, not proven |
+| John Copley and Sarah Dolan | proposed parents of Michael Copley Sr.; the 1897 Lewis County death register supports parent names John and Sarah Copley but not the Dolan maiden name; still unresolved |
 | [[People/Benjamin Partlow\|Benjamin Partlow]] | Revolutionary War veteran (c.1762); Culpeper Co. VA; Virginia militia; ancestor of Marion Partlow; pension 1834 |
 | Nollie Franklin Partlow | father of Marion Partlow; b. 8 Oct 1874 Clark Co. IL; d. 21 Nov 1956 Terre Haute IN; buried Oak Point IL (Ancestry, unverified) |
 
@@ -260,6 +260,7 @@ If you do not know the name yet and only know the general family line, start wit
 | [[References/Tom Copley May 2026 Research Corrections\|Tom Copley May 2026 Research Corrections]] | Tom Copley's corrections downgrading the Ann Munday-to-Murray hypothesis as probably mistaken, clarifying Murray spelling / pronunciation, and closing the alleged Calendar of State Papers Arigna/Copley citation as fabricated |
 | [[References/Thomas Copley May 2026 Email Leads\|Thomas Copley May 2026 Email Leads]] | Tom Copley's May 2026 email archive, with browser-readable transcript pages plus direct links to the published `tom-emails.zip` and extracted `.eml` source files |
 | [[References/Tom and Steve Copley May 2026 Michael Parents Thread\|Tom and Steve Copley May 2026 Michael Parents Thread]] | May 15-17, 2026 Tom / Steve correspondence on Michael Copley Sr.'s possible John and Sarah parents, death-index caution, will caution, and ambiguous Bridget / Bible lead |
+| [[References/Claude for Chrome Michael Copley Sr Parent Name Claim\|Claude for Chrome Michael Copley Sr Parent Name Claim]] | WV Culture / FamilySearch death-register check for Michael Copley Sr.; confirms the 1897 register records parents as John Copley and Sarah Copley, but no Dolan maiden name appears and Bridget Copley is incorrectly recorded as wife / source |
 | [[References/Copley History Part 1 and Appendix Source Audit\|Copley History Part 1 and Appendix Source Audit]] | Control note showing what the Part 1 history and appendix PDFs already contributed, what place-rich details remain underused, and where future raw-PDF extraction should go next |
 | [[Topics/1900 Copley Oil Strike\|1900 Copley Oil Strike]] | Copley No. 1 well, South Penn Oil, ~4,800 bbl/day, Lewis County |
 | [[Topics/Irish Famine and Emigration\|Irish Famine & Emigration]] | 1840s–50s emigration context for Copley/Munday families |

@@ -26,6 +26,20 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
 
 ## What Was Just Completed
 
+- Integrated Zach's June 2026 Claude for Chrome **Michael Copley Sr. parent-name claim** report.
+- Verified the WV Culture death-record detail page and downloaded / visually inspected the original death-register image:
+  - WV Culture record ID `2919262`; image `4130795_00393`; Film 825106, Image 393; Lewis County Death Register volume 1, page 231.
+  - Detail page indexes `Micheal/Copley`, death 19 Jan 1897 at Sand Fork, Lewis County, age 83y 3m 20d, birthplace `Lewis Co.`, occupation farmer, father `John/Copley`, mother `Sarah/Copley`, spouse `Bridget/Copley`.
+  - Original image row visibly reads parents as `Copley John & Sarah`; no Dolan maiden name appears.
+  - Original image also names `Copley Bridget` as consort / wife and information source, and the index gives Lewis County rather than Ireland as birthplace; these concrete identity errors make the parent names important but not final proof.
+- Preserved the raw Claude report at `static/sources/claude-michael-parents/michael-copley-sr-parent-name-claim-claude-output.txt`.
+- Preserved the WV Culture image at `static/sources/claude-michael-parents/michael-copley-death-register-4130795-00393.jpg`.
+- Added `References/Claude for Chrome Michael Copley Sr Parent Name Claim.md`.
+- Updated `People/Michael Copley Sr.md`, `Sources and Evidence Index.md`, `Research Priorities and Action Items.md`, `Dolan Family.md`, `References/Tom and Steve Copley May 2026 Michael Parents Thread.md`, `Search Index.md`, and `CHANGELOG.md` so:
+  - John / Sarah is no longer an uncaptured death-index lead; it is death-register-supported parent-name evidence.
+  - Sarah Dolan remains unresolved because neither the index nor original image gives Sarah's maiden name.
+  - The best next parentage work is corroborating probate / Bible / heirship / church / Irish parish evidence, especially anything naming Sarah's maiden surname.
+
 - Integrated Zach's June 2026 Claude for Chrome **Lewis County courthouse contact check** for the remaining Luke Murray / Anne Loghan bond request.
 - Preserved the raw report at `static/sources/claude-marriage/luke-murray-anne-loghan-1854-courthouse-contact-claude-output.txt`.
 - Verified the official contact details against the WV Judiciary Lewis County Information page and the Lewis County, WV official directory:
@@ -786,8 +800,8 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
 - The critical Partlow proof gaps are Frank/Nollie identity, John H. -> Jacob, and Jacob -> Benjamin.
 - Public web searching did not prove Frank Partlow = Nollie Franklin Partlow; the next concrete action is the Clark County, Illinois marriage record/citation for the reported 10 Jun 1900 marriage to Alice/Mary Alice Rude.
 - Public web searching also did not prove Jacob Partlow = son of Benjamin Partlow; broad search surfaced only derivative/collateral leads. Prioritize compiled Partlow books, Benjamin probate/estate, and Culpeper/Clark land/tax records.
-- Tom Copley's May 2026 email archive is now integrated as a research-lead source, not proof. The live parentage hypothesis is **John Copley + Sarah Dolan -> Michael Copley Sr.**, but it remains unresolved until direct or near-direct evidence appears.
-- The highest-value Michael Copley Sr. parentage leads are now: original capture of the reported Ancestry / U.S. death-index clue naming John and Sarah despite a spouse-field error; Lewis County probate / heirship / oil-title paperwork; and the ambiguous "Bridget Copley" Bible path, which should be tested through both Reynolds and Gillooly / collateral possibilities.
+- Tom Copley's May 2026 email archive is now integrated as a research-lead source, not proof. The death-register lead now supports **John Copley + Sarah Copley** as recorded parent names for Michael Copley Sr., but **Sarah Dolan** remains unresolved until direct or near-direct evidence gives Sarah's maiden surname.
+- The highest-value Michael Copley Sr. parentage leads are now: corroboration of the death-register John / Sarah parent names through Lewis County probate / heirship / oil-title paperwork; any Bible or church evidence naming Sarah's maiden surname; and the ambiguous "Bridget Copley" Bible path, which should be tested through both Reynolds and Gillooly / collateral possibilities.
 - Any future use of the Tom email archives should start from `References/Thomas Copley May 2026 Email Leads.md` and `References/Tom and Steve Copley May 2026 Michael Parents Thread.md`. Preserve the evidence caution that the earlier May 7-8 messages are mostly AI-generated output, while the May 15-17 thread is family correspondence that sharpens leads but does not prove parentage. Browser-readable transcript/source-note pages live in `References/`; downloadable source files live under `static/sources/tom-emails/` and `static/sources/tom-steve-emails/`.
 - Standing source-ingestion rule: when future agents use raw materials such as `.eml`, `.txt`, `.pdf`, `.zip`, images, spreadsheets, record exports, or downloaded source packets, they should commit publishable raw files to the repo, preferably under `static/sources/<short-source-slug>/`; create browser-readable `References/` pages when practical; and link wiki citations to both the readable derivatives and the raw files instead of leaving machine-local-only paths.
 
@@ -798,8 +812,8 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
   - Prefer high-signal orientation improvements over more diagram sprawl. Add visuals only when they clearly reduce confusion.
   - If another visible improvement is needed, favor concise branch, evidence-status, or timeline aids rather than more all-in-one charts.
 - Michael Copley parentage next steps:
-  - Treat John Copley + Sarah Dolan as an unresolved hypothesis, not a claim.
-  - Locate and capture the exact Ancestry / U.S. death-index source that reportedly names John and Sarah while misidentifying Michael's spouse.
+  - Treat John Copley + Sarah Copley as death-register-supported parent-name evidence, but treat Sarah Dolan as unresolved until an original or near-original source gives Sarah's maiden surname.
+  - Preserve the located WV Culture death-register source for Michael Copley Sr., record ID `2919262` / image `4130795_00393`, including the Bridget-as-wife relationship error and the Lewis County birthplace problem.
   - Search Lewis County probate, chancery, estate, heirship, and oil-title files after Michael Copley Sr.'s January 1897 death for Bible extracts, family-record exhibits, or filings naming his parents.
   - Build Bridget Copley Reynolds forward through Reynolds records and check Bridget "Bitty" Copley Gillooly / Gillooly collateral paths to identify whether a family Bible, transcript, probate packet, or inherited correspondence could survive in either line.
   - Obtain a clearer image or courthouse copy of Michael's will / probate packet; current family reading says the will does not name parents and was signed by mark.
@@ -885,8 +899,8 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
 ## Open Questions
 
 - What direct record names Ann Munday Copley's maiden surname?
-- Were John Copley and Sarah Dolan actually Michael Copley Sr.'s parents?
-- Does the reported Ancestry / U.S. death-index source actually name Michael's parents as John and Sarah, and what original field or informant produced that index?
+- Were the John Copley and Sarah Copley named in Michael Copley Sr.'s 1897 death register actually his parents, and was Sarah's maiden surname Dolan?
+- Can any independent probate, Bible, church, Irish parish, estate, or heirship record corroborate the death-register John / Sarah parent names and resolve Sarah's maiden surname?
 - Does a Reynolds or Gillooly / collateral Bridget path preserve a Copley family Bible, Bible transcript, probate packet, or inherited correspondence naming Michael's parents?
 - Do Lewis County probate, heirship, chancery, or oil-title files after Michael Copley Sr.'s 1897 death cite a family Bible or name his parents?
 - Did a Murray family arrive in the Lewis County settlement area before the Copleys?

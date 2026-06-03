@@ -10,6 +10,17 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4DN - Michael Copley Death-Register Parent Clue Integrated (June 3, 2026)
+
+**MICHAEL-PARENTAGE UPDATE:** Integrated Zach's Claude for Chrome check of the reported Michael Copley Sr. parent-name clue. WV Culture record ID `2919262` / image `4130795_00393` confirms that the 1897 Lewis County death register records Michael's parents as **John Copley** and **Sarah Copley**. Codex visual inspection of the original image confirms the handwritten parent column reads `Copley John & Sarah`. No **Dolan** maiden name appears in the index or original image. The same record context incorrectly identifies **Bridget Copley** as Michael's wife / information source and gives Lewis County rather than Ireland as birthplace, so the parent names are important death-register evidence but still need corroboration.
+
+### Updated Pages
+
+- [[References/Claude for Chrome Michael Copley Sr Parent Name Claim|Claude for Chrome Michael Copley Sr Parent Name Claim]] - added a new source note with the WV Culture detail URL, image URL, original-image reading, reliability assessment, and next proof targets.
+- [[People/Michael Copley Sr|Michael Copley Sr.]], [[Sources and Evidence Index|Sources and Evidence Index]], [[Research Priorities and Action Items|Research Priorities and Action Items]], [[Dolan Family|Dolan Family]], [[References/Tom and Steve Copley May 2026 Michael Parents Thread|Tom and Steve Copley May 2026 Michael Parents Thread]], and [[Search Index|Search Index]] - upgraded John / Sarah from uncaptured lead to death-register-supported parent-name evidence while keeping Sarah Dolan unresolved.
+- `static/sources/claude-michael-parents/michael-copley-sr-parent-name-claim-claude-output.txt` - preserved the raw Claude for Chrome report.
+- `static/sources/claude-michael-parents/michael-copley-death-register-4130795-00393.jpg` - preserved the WV Culture death-register image.
+
 ## Phase 4DM - Lewis County Courthouse Contact Check Integrated (June 3, 2026)
 
 **MURRAY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome official-contact check for the remaining Luke Murray / Anne Loghan courthouse bond request. Official WV Judiciary and Lewis County directory pages identify the primary office as **Lewis County Circuit Clerk Beth Burkhart**, Lewis County Courthouse Annex, **117 Court Avenue, Weston, WV 26452**, phone **304-269-8210**, fax **304-269-8249**. No email was found on the checked official pages. The Lewis County Clerk at **110 Center Avenue**, phone **304-269-8215**, remains the secondary contact if needed.

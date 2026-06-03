@@ -33,6 +33,8 @@ The normalized `.eml` files are available directly here:
 
 This thread is family correspondence and should be used mainly to sharpen the research plan. It does **not** prove that Michael's parents were John Copley and Sarah Dolan.
 
+**June 2026 follow-up:** The reported death-index clue has now been located in the WV Culture / FamilySearch death-record path. The 1897 Lewis County death register records Michael's parents as **John Copley** and **Sarah Copley**, but it does not give Sarah's maiden name as Dolan. The same row incorrectly identifies **Bridget Copley** as Michael's wife / information source, preserving Tom and Steve's caution about the record. See [[References/Claude for Chrome Michael Copley Sr Parent Name Claim]].
+
 The referenced Ancestry / U.S. death-index clue is especially tentative because:
 
 - the image or record extract referenced as `IMG_0212.png` was not included in the forwarded archive;
@@ -72,7 +74,7 @@ Current handling: Weston Dolan family memory supports the importance of the Dola
 
 ## Research Actions Added
 
-1. Search for the underlying Ancestry / death-index source that named John and Sarah and inspect the original image, collection title, informant fields, spouse field, and indexing rules.
+1. Preserve the located WV Culture death-register source and seek corroboration for the John / Sarah parent names, especially any source giving Sarah's maiden surname.
 2. Obtain a better image or courthouse copy of Michael Copley Sr.'s will, primarily to document the estate and signature-by-mark, while expecting that it may not name parents.
 3. Treat the family Bible lead as a **Bridget-identity problem**: Reynolds line, Bridget Gillooly, Gillooly collateral relatives, or AI conflation.
 4. Keep Sarah Dolan as a parentage hypothesis only until a direct or near-direct record names her.

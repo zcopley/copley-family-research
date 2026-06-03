@@ -12,17 +12,17 @@ The Dolan family is part of the Lewis County Catholic settlement network and the
 
 - Mary Ellen Dolan Copley's relationship to [[People/John Copley|John Copley]] and their children is part of the established family narrative.
 - The broader Dolan network remains under-documented and should be treated as an active research area.
-- A separate, earlier Dolan question is now active: whether **Sarah Dolan** of Kilgefin / Roscommon was the mother of [[People/Michael Copley Sr|Michael Copley Sr.]]. This is a research hypothesis, not a proven relationship.
-- Tom Copley's May 2026 email archive preserves several AI-generated Dolan / Kilgefin leads. These are useful for search planning but should not be treated as evidence until checked against original records. The later Tom/Steve thread confirms that the Sarah Dolan maiden-name idea remained speculative and AI-assisted. See [[References/Thomas Copley May 2026 Email Leads|Thomas Copley May 2026 Email Leads]] and [[References/Tom and Steve Copley May 2026 Michael Parents Thread|Tom and Steve Copley May 2026 Michael Parents Thread]].
+- A separate, earlier Dolan question is now active: whether **Sarah Dolan** of Kilgefin / Roscommon was the mother of [[People/Michael Copley Sr|Michael Copley Sr.]]. The 1897 Lewis County death register supports a mother named **Sarah Copley**, but it does not give Dolan as her maiden name. This remains a research hypothesis, not a proven relationship.
+- Tom Copley's May 2026 email archive preserves several AI-generated Dolan / Kilgefin leads. These are useful for search planning but should not be treated as evidence until checked against original records. The later Tom/Steve thread confirms that the Sarah Dolan maiden-name idea remained speculative and AI-assisted. The June 2026 death-register check found John and Sarah Copley as parent names but no Dolan maiden-name evidence. See [[References/Thomas Copley May 2026 Email Leads|Thomas Copley May 2026 Email Leads]], [[References/Tom and Steve Copley May 2026 Michael Parents Thread|Tom and Steve Copley May 2026 Michael Parents Thread]], and [[References/Claude for Chrome Michael Copley Sr Parent Name Claim|Claude for Chrome Michael Copley Sr Parent Name Claim]].
 - See [[Sources and Evidence Index]] for current claim status and [[Research Priorities and Action Items]] for the highest-value next work.
 
 ## Sarah Dolan / Kilgefin Hypothesis
 
-The current working question is whether a woman named **Sarah Dolan** married a **John Copley** in or near Kilgefin / Roscommon around 1800 and became the mother of Michael, Patrick, Bridget, Catherine, and William Copley. No direct marriage, baptism, Bible, probate, or estate record has been located in the site evidence yet.
+The current working question is whether the **Sarah Copley** named as Michael Copley Sr.'s mother in the 1897 Lewis County death register was a woman born **Sarah Dolan** who married a **John Copley** in or near Kilgefin / Roscommon around 1800 and became the mother of Michael, Patrick, Bridget, Catherine, and William Copley. No direct marriage, baptism, Bible, probate, or estate record has been located in the site evidence yet.
 
 High-value proof targets:
 
-- Original source capture for the Ancestry / U.S. death-index clue that reportedly named John and Sarah while misidentifying Michael's spouse.
+- Corroborating source for the death-register parent names: the register now names John and Sarah Copley, but it also misidentifies Bridget Copley as Michael's wife / source and gives no Dolan maiden name.
 - Kilgefin / Ballagh Catholic registers for Dolan and Copley / Copely entries, sponsors, and witnesses.
 - Tithe Applotment Book images for Dolan households in Kilgefin, especially any townlands later tied to family or estate records.
 - Strokestown Park / Pakenham-Mahon estate rentals and tenant lists for Dolan lease lives, subtenants, or marriage-settlement clues.

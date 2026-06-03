@@ -57,6 +57,7 @@ Michael lived through the immigrant crossing and settlement-building era that tu
 For a chronology-first view of his overlaps with later generations, see [[Who Was Alive When]].
 
 ## Family Relationships
+- Parents: The 1897 Lewis County death-register row records Michael's parents as **John Copley** and **Sarah Copley**. This is official county death-register evidence, but it is secondary parent information; the same record context incorrectly identifies **Bridget Copley** as Michael's wife / informant and indexes Michael's birthplace as Lewis County rather than Ireland. No source found so far gives Sarah's maiden name as Dolan. See [[References/Claude for Chrome Michael Copley Sr Parent Name Claim]].
 - Spouse: [[Ann Copley]] (family tradition/secondary narratives identify her as Ann Elizabeth Munday)
 - Children (G24):
   - [[Mary Copley Quinn]]
@@ -103,11 +104,11 @@ timeline
 4. **B&O service detail (Q16/Q17):** Specific payroll/crew records not yet located.
 5. **Death-date discrepancy:** 18 Jan vs 19 Jan 1897 across derivative narratives.
 6. **Family Bible / probate lead:** Tom Copley's May 2026 email reports an unverified AI suggestion that a Copley family Bible in "Bridget Copley's" line, or a Lewis County probate filing citing that Bible, may name Michael's parents as John and Sarah. The later Tom/Steve thread makes the Bridget identity ambiguous between possible sibling [[Bridget Copley Reynolds]] and daughter [[Bridget Bitty Copley Gillooly|Bridget "Bitty" Copley Gillooly]] / Gillooly collateral lines. Treat this as a high-value lead, not evidence. See [[References/Thomas Copley May 2026 Email Leads|Thomas Copley May 2026 Email Leads]] and [[References/Tom and Steve Copley May 2026 Michael Parents Thread|Tom and Steve Copley May 2026 Michael Parents Thread]].
-7. **Death-index and will caution:** Tom reported a U.S. death-index / Ancestry clue naming Michael's parents as John and Sarah, but also reported that the same index had Michael's spouse wrong. Tom and Steve both reported that Michael's will is unlikely to name parents; Tom said the will did not mention them and was signed with an `X`. Capture original images before upgrading any parentage claim.
+7. **Death-register parent-name caution:** The June 2026 WV Culture death-register check confirms that the 1897 Lewis County register names Michael's parents as **John Copley** and **Sarah Copley**, but it does not give Sarah's maiden name as Dolan. The same record context incorrectly identifies Bridget Copley as Michael's wife / source of information and gives Lewis County rather than Ireland as birthplace, so the parent names remain important but need corroboration. See [[References/Claude for Chrome Michael Copley Sr Parent Name Claim]].
 
 ## Acquisition Strategy
 - **Irish parish registers (NLI):** Systematic baptism search c.1808-1820 in Kilgefin and nearby Roscommon parishes for Michael + siblings.
-- **Death-index source capture:** Locate the exact Ancestry / U.S. death-index record that named John and Sarah, then capture the original image, collection title, informant context, spouse field, and any indexing notes.
+- **Death-register source follow-up:** The exact death-index clue is now located and tied to WV Culture record ID `2919262` / image `4130795_00393`. Use the register as evidence that John and Sarah Copley were recorded as Michael's parents, but continue seeking corroboration because the same record context misidentifies Bridget Copley as wife / informant and gives Lewis County rather than Ireland as birthplace.
 - **Lewis County probate / Bible path:** Search probate, estate, chancery, heirship, and oil-lease title files after Michael's 1897 death for family Bible extracts, heirship affidavits, or filings naming his parents.
 - **Collateral descendants:** Identify possible [[Bridget Copley Reynolds|Bridget Copley Reynolds]] descendants and Gillooly collateral relatives connected to [[Bridget Bitty Copley Gillooly|Bridget "Bitty" Copley Gillooly]], then ask whether any family Bible, transcript, probate packet, or inherited correspondence survives.
 - **Will image / probate packet:** Obtain a clearer image or courthouse copy of Michael's will and probate file. Current family reading says the will does not name parents and was signed by mark, but the image should still be preserved and transcribed.
@@ -124,3 +125,4 @@ timeline
 5. B&O historical context: https://www.wvencyclopedia.org/entries/830
 6. [[References/Thomas Copley May 2026 Email Leads|Thomas Copley May 2026 Email Leads]] — family-correspondence lead for possible Bridget-line Bible / Lewis County probate proof path; unverified.
 7. [[References/Tom and Steve Copley May 2026 Michael Parents Thread|Tom and Steve Copley May 2026 Michael Parents Thread]] — follow-up family correspondence adding the death-index caution, will caution, and Bridget-identity ambiguity.
+8. [[References/Claude for Chrome Michael Copley Sr Parent Name Claim|Claude for Chrome Michael Copley Sr Parent Name Claim]] — WV Culture death-register check confirming the John / Sarah parent-name entry while preserving the Bridget-as-wife error and lack of Dolan maiden-name evidence.
