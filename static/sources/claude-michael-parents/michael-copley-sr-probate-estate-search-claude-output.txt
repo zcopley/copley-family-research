@@ -1,0 +1,115 @@
+Research Report: Probate/Estate Records for Michael Copley Sr., Lewis County, WV, died 19 Jan 1897
+
+RECORD FOUND - HIGH CONFIDENCE MATCH
+
+Primary Record
+
+Collection: West Virginia Will Books, 1756-1971
+Website: FamilySearch.org
+Collection ID: 1909099
+Index ARK: https://www.familysearch.org/ark:/61903/1:1:Q2QM-5Z3T
+Image ARK, will body, pages 350-351: https://www.familysearch.org/ark:/61903/3:1:9392-HYS9-13, Image 437 of 466
+Image ARK, signature / probate certificate, page 352: https://www.familysearch.org/ark:/61903/3:1:9392-HYS9-R8, Image 438 of 466
+Microfilm: Film 819929, DGS 4715576, "Wills, v. A-C 1820-1900," Lewis County Courthouse
+Volume / Book: Will Book, Vol. C, 1878-1900
+Page Number: 351 in index entry; images span pages 350-352
+
+Abstract / Transcription of Key Lines
+
+Opening, top of right page, image 437:
+"In the name of God, I Michael Copley of the County of Lewis and State of West Va, being of sound mind and memory, do make and publish this my last will and testament..."
+
+Land bequest:
+"...I bequeath to my son John Copley fifty five acres, being [already?] sold him above his name... one hundred and twenty-seven and a half acres... running parallel with the old lines... this 55 acres to be included in this one hundred and twenty-seven and a half acres..."
+
+Daughters' portion:
+"...my land from [that?] on down to face [the] four daughters first mentioned on this will. This tract to be equally divided amongst Annie, Bridget, Margaret and Sarah [Copley] [after their] mothers death. The four girls mentioned [to take] out of their portion the sum of one hundred and twenty-five dollars to be distributed as follows: Catherne [Hannon?] fifty dollars; to Thomas [Copley] fifty dollars; to [Mary?] [Quinn?] twenty-five dollars. Wife and four daughters Annie, Bridget, Margaret, and Sarah to inherit all my personal property after my death - these same four girls to [divide] it equally among them after [their] mothers death. After defraying my funeral and their Mother's funeral expenses, also they to put a decent stone on our grave. I do nominate and appoint my son John Copley to be the sole administrator of this my last will and testament..."
+
+Closing:
+"In testimony whereof I hereunto set my hand and seal and publish and declare this to be my last will and testament in presence of the witnesses named below, this second day of [February, 1893]."
+
+Signature:
+"[signed] Michael Copley [L.S.]"
+
+Witnesses:
+- Leantha [Rafferty / Stuffety?]
+- Orra W. [Delaney / Maloney?]
+- George [Morris?]
+
+Probate Certification:
+"The State of West Virginia. Clerk's Office, County Court Lewis County. March 4, 1897. The foregoing will of Michael Copley [deceased] was this day fully proven in open Court and be recorded. [An] order relating to said probate appearing [entered] in Order Book No. 6, page 496. Attest: L. A. Bonnett, Clerk."
+
+Sources Checked
+
+- FamilySearch Catalog - Lewis County, WV, 142 entries: found 10 probate / will collections; will books online.
+- FamilySearch "West Virginia Will Books, 1756-1971," Collection 1909099: found Michael Copley will, 1893, Lewis County, Will Book C page 351.
+- FamilySearch Catalog - "Wills, 1820-1970" (koha:82010), Film 819929 / DGS 4715576: parent microfilm confirmed; digital access via collection 1909099.
+- FamilySearch Catalog - "Wills, inventories, etc., Lewis County 1853-1899" (koha:140811), Film 250047 / DGS 7617564: index-only; library access only.
+- FamilySearch Catalog - "Inventories, etc., Lewis County 1853-1900" (koha:140807), same Film 250047: index-only; library access only.
+- WV Culture / WV Archives: online probate database not accessible; archives require written requests with fee; no online Copley probate index found.
+- Ancestry.com - WV probate collections: no WV-specific probate collection found; general search returned no relevant probate records for this subject.
+
+Records Found
+
+1. Will of Michael Copley, Lewis County, WV.
+- Written: 2 February 1893.
+- Probated: 4 March 1897.
+- Will Book C, page 351; Lewis County Courthouse.
+- Probate Order Book No. 6, page 496.
+
+2. Related family wills in same collection, corroborating:
+- John Copley - Will, Lewis County, Will Book E, page 311, ca. 1917-1928; executor son.
+- Thomas Copley - Will, Lewis County, 1929; named son in Michael's will.
+- Mary Ellen Copley - Will, Lewis County, 1901; possible relation.
+- Margaret Copley - Will, Lewis County, 1910; probable daughter named in Michael's will.
+
+Exact Citation
+
+"West Virginia Will Books, 1756-1971," FamilySearch, https://www.familysearch.org/ark:/61903/1:1:Q2QM-5Z3T, accessed 3 June 2026, Michael Copley, Will, 1893, Lewis, West Virginia; Will Book C, p. 351. Probated March 4, 1897. Images 437-438 of 466.
+
+Names Named in the Will
+
+- John Copley: son; sole executor; 55 acres plus remaining land tract.
+- Annie Copley: daughter; share of land and personal estate.
+- Bridget Copley: daughter; share of land and personal estate.
+- Margaret Copley: daughter; share of land and personal estate.
+- Sarah Copley: daughter; share of land and personal estate.
+- Thomas Copley: likely son; $50 cash bequest.
+- Catherne [Hannon?]: likely daughter Catherine, married; $50 cash bequest.
+- [Mary?] [Quinn?]: likely daughter Mary, married; $25 cash bequest.
+- [Ann Copley], not named but referenced as "wife" and "their mother": lifetime use; daughters inherit after her death.
+
+Parentage Relevance
+
+The will does not name Michael Copley's parents. However, it:
+1. Confirms identity: "Michael Copley of the County of Lewis and State of West Virginia," probated March 1897, matches the known subject.
+2. Confirms children: names John, Annie, Bridget, Margaret, Sarah, Thomas, and very likely Catherine Hannon and Mary Quinn.
+3. Confirms wife survived him: references "mothers death" and "wife" as still living at time of writing in 1893, though wife is not named by first name in the readable text.
+4. Confirms executor as John Copley.
+5. Establishes probate book location: Order Book No. 6, page 496, Lewis County, WV.
+
+The death-register parentage clue, father John Copley and mother Sarah Copley, is not corroborated or contradicted by this will. The will is a first-person document, and Irish-born testators rarely named parents in American wills. To test the John / Sarah parent clue, the next record should be immigration, naturalization, baptismal, land, estate settlement, heirship, or church evidence.
+
+Reliability Assessment
+
+Grade: A - primary, official record, directly imaged from courthouse microfilm.
+
+- The will book is a certified copy of the original will, recorded in Lewis County's official will books and probated by the County Court on March 4, 1897.
+- The FamilySearch images are digitized from Genealogical Society of Utah Microfilm 819929, a film of records at the Lewis County Courthouse, DGS 4715576.
+- The index entry has been attached in FamilySearch Family Tree to "Michael Copley, 1813-1897, L4ZS-B6W," consistent with the known subject.
+- Handwriting is legible in key sections; several names are high confidence; some cash-bequest recipients have partially legible surnames.
+- Date of will, 1893, is four years pre-death and entirely normal for a man about age 80.
+
+Next Records to Request
+
+1. Lewis County Clerk's Office, Weston, WV 26452: request Will Book C, page 351, certified copy of Michael Copley's will, written 2 February 1893 and probated 4 March 1897, plus Order Book No. 6, page 496, probate order. The order may name additional heirs, sureties, or administrators not in the will itself.
+
+2. Lewis County Clerk's Office: request any estate settlement or appraisement filed after March 1897 under Michael Copley. Inventory books, 1828-1903, Film 250047, exist but have not been indexed or digitally browsed. A written request to the clerk may turn up an appraisement packet, personal-property inventory, administrator's bond, or settlement.
+
+3. Lewis County Circuit Court Clerk: request a search of Chancery Order Books 1897-1910 for Copley, including any land partition suit, oil/gas lease, or heirship proceeding brought after Michael's death involving his heirs.
+
+4. WV State Archives, Charleston: request finding aid and any available index to Lewis County Chancery / equity files 1897-1915.
+
+5. FamilySearch Library or affiliate center: browse microfilm DGS 7617564 / Film 250047, "Wills, inventories, etc., Lewis County, 1853-1899" and "Inventories, etc., Lewis County, 1853-1900," in person for any inventory or appraisement filed under Michael Copley ca. 1897.
+
+6. For parentage specifically: search naturalization records, declaration of intention or petition for naturalization, filed in Lewis County, WV or neighboring counties ca. 1840-1880; also search Lewis County deed books for Michael Copley land purchases and any deed of gift or trust executed after the will for oil / gas rights.

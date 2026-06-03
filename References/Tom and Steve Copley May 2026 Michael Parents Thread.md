@@ -35,6 +35,8 @@ This thread is family correspondence and should be used mainly to sharpen the re
 
 **June 2026 follow-up:** The reported death-index clue has now been located in the WV Culture / FamilySearch death-record path. The 1897 Lewis County death register records Michael's parents as **John Copley** and **Sarah Copley**, but it does not give Sarah's maiden name as Dolan. The same row incorrectly identifies **Bridget Copley** as Michael's wife / information source, preserving Tom and Steve's caution about the record. See [[References/Claude for Chrome Michael Copley Sr Parent Name Claim]].
 
+**June 2026 probate follow-up:** Michael's recorded will has now been located in Lewis County Will Book C. It was written on 2 February 1893 and probated on 4 March 1897. The will confirms son John as executor and names the estate children, but it does not name Michael's parents, which supports Tom and Steve's caution that the will is not the parentage proof source. See [[References/Claude for Chrome Michael Copley Sr Probate Estate Search]].
+
 The referenced Ancestry / U.S. death-index clue is especially tentative because:
 
 - the image or record extract referenced as `IMG_0212.png` was not included in the forwarded archive;
@@ -52,7 +54,7 @@ Tom and Steve both treated **John Copley and Sarah Dolan** as possible parents, 
 
 Both Tom and Steve had looked at Michael's will or knew of it as a microfilm source. Steve described it as very blurry and doubted that it mentioned Michael's parents. Tom later wrote that he had recently read the will, that it made no mention of Michael's parents, and that Michael signed with an `X`.
 
-Current handling: still obtain and transcribe the will if possible, but do not treat it as a likely parentage source unless a better image contradicts the family reading.
+Current handling: the will has now been located and should be used as estate / child-structure evidence. It does not name parents in the current abstract, so the next probate targets are the probate order, estate settlement, inventory / appraisement, chancery, heirship, and oil-title records.
 
 ### The Bridget / Bible lead is now ambiguous
 
@@ -75,7 +77,7 @@ Current handling: Weston Dolan family memory supports the importance of the Dola
 ## Research Actions Added
 
 1. Preserve the located WV Culture death-register source and seek corroboration for the John / Sarah parent names, especially any source giving Sarah's maiden surname.
-2. Obtain a better image or courthouse copy of Michael Copley Sr.'s will, primarily to document the estate and signature-by-mark, while expecting that it may not name parents.
+2. Preserve and refine the located Michael Copley Sr. will transcription, then request Order Book No. 6 page 496 and any estate settlement / inventory / appraisement records.
 3. Treat the family Bible lead as a **Bridget-identity problem**: Reynolds line, Bridget Gillooly, Gillooly collateral relatives, or AI conflation.
 4. Keep Sarah Dolan as a parentage hypothesis only until a direct or near-direct record names her.
 

@@ -10,6 +10,16 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4DO - Michael Copley Probate Will Integrated (June 3, 2026)
+
+**MICHAEL-PROBATE UPDATE:** Integrated Zach's Claude for Chrome probate / estate search for [[People/Michael Copley Sr|Michael Copley Sr.]]. FamilySearch `West Virginia Will Books, 1756-1971`, Will Book C, pages 350-352, locates Michael's will written **2 February 1893** and probated **4 March 1897**. The will confirms son **John Copley** as executor / administrator, names the core estate children, and supports the known family structure, but it does **not** name Michael's parents or provide any **Sarah Dolan** evidence. The active probate path now moves to Lewis County **Order Book No. 6, page 496**, plus any estate settlement, appraisement, inventory, chancery / heirship, or oil-title file.
+
+### Updated Pages
+
+- [[References/Claude for Chrome Michael Copley Sr Probate Estate Search|Claude for Chrome Michael Copley Sr Probate Estate Search]] - added a new source note with FamilySearch ARKs, DGS / film details, will abstract, names named, parentage relevance, and next probate targets.
+- [[People/Michael Copley Sr|Michael Copley Sr.]], [[Sources and Evidence Index|Sources and Evidence Index]], [[Research Priorities and Action Items|Research Priorities and Action Items]], [[Dolan Family|Dolan Family]], [[References/Claude for Chrome Michael Copley Sr Parent Name Claim|Claude for Chrome Michael Copley Sr Parent Name Claim]], [[References/Tom and Steve Copley May 2026 Michael Parents Thread|Tom and Steve Copley May 2026 Michael Parents Thread]], and [[Search Index|Search Index]] - changed the will from an open target to located estate evidence while keeping the John / Sarah / Dolan parentage question unresolved.
+- `static/sources/claude-michael-parents/michael-copley-sr-probate-estate-search-claude-output.txt` - preserved the raw Claude for Chrome report.
+
 ## Phase 4DN - Michael Copley Death-Register Parent Clue Integrated (June 3, 2026)
 
 **MICHAEL-PARENTAGE UPDATE:** Integrated Zach's Claude for Chrome check of the reported Michael Copley Sr. parent-name clue. WV Culture record ID `2919262` / image `4130795_00393` confirms that the 1897 Lewis County death register records Michael's parents as **John Copley** and **Sarah Copley**. Codex visual inspection of the original image confirms the handwritten parent column reads `Copley John & Sarah`. No **Dolan** maiden name appears in the index or original image. The same record context incorrectly identifies **Bridget Copley** as Michael's wife / information source and gives Lewis County rather than Ireland as birthplace, so the parent names are important death-register evidence but still need corroboration.

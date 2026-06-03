@@ -89,7 +89,8 @@ The best next step is no longer "find the death-index clue"; that clue has been 
 
 Next targets:
 
-- Request or locate Michael Copley Sr.'s Lewis County will / probate / estate packet after his 19 January 1897 death.
+- Preserve the now-located Michael Copley Sr. will-book record and use it as estate / family-structure evidence. The will confirms children and son John as executor, but it does not name Michael's parents.
+- Request or locate Lewis County Order Book No. 6, page 496, and any estate settlement, appraisement, inventory, administrator's bond, sale bill, or estate account after March 1897.
 - Search oil-title, heirship, chancery, and probate files for Michael Copley heirs, especially any family affidavit, Bible extract, or relationship schedule.
 - Continue treating Sarah Dolan as unproven until an original or near-original record names Sarah with the Dolan surname.
 - If possible, obtain a clearer crop or courthouse copy of Death Register volume 1, page 231, to preserve the Copley row and the Bridget relationship error cleanly.

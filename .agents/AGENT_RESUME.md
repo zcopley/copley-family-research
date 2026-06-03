@@ -26,6 +26,21 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
 
 ## What Was Just Completed
 
+- Integrated Zach's June 2026 Claude for Chrome **Michael Copley Sr. probate / estate search** report.
+- Preserved the raw report at `static/sources/claude-michael-parents/michael-copley-sr-probate-estate-search-claude-output.txt`.
+- Added `References/Claude for Chrome Michael Copley Sr Probate Estate Search.md`.
+- Recorded the located will:
+  - FamilySearch `West Virginia Will Books, 1756-1971`, Collection ID `1909099`.
+  - Index ARK `https://www.familysearch.org/ark:/61903/1:1:Q2QM-5Z3T`.
+  - Image ARKs `https://www.familysearch.org/ark:/61903/3:1:9392-HYS9-13` and `https://www.familysearch.org/ark:/61903/3:1:9392-HYS9-R8`.
+  - Film 819929 / DGS 4715576, Lewis County Will Book C, pages 350-352.
+  - Written 2 February 1893; probated 4 March 1897; probate certificate cites Order Book No. 6, page 496.
+- Updated `People/Michael Copley Sr.md`, `Sources and Evidence Index.md`, `Research Priorities and Action Items.md`, `Dolan Family.md`, `References/Claude for Chrome Michael Copley Sr Parent Name Claim.md`, `References/Tom and Steve Copley May 2026 Michael Parents Thread.md`, `Search Index.md`, and `CHANGELOG.md` so:
+  - the will is no longer an open "find the will" target;
+  - it is now estate / family-structure evidence confirming son John as executor and naming the estate children;
+  - it does not corroborate Michael's parents or Sarah Dolan;
+  - next probate targets are Order Book No. 6 page 496, estate settlement / appraisement / inventory records, chancery / heirship files, oil-title records, and naturalization / Irish church records for parentage.
+
 - Integrated Zach's June 2026 Claude for Chrome **Michael Copley Sr. parent-name claim** report.
 - Verified the WV Culture death-record detail page and downloaded / visually inspected the original death-register image:
   - WV Culture record ID `2919262`; image `4130795_00393`; Film 825106, Image 393; Lewis County Death Register volume 1, page 231.
@@ -801,7 +816,7 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
 - Public web searching did not prove Frank Partlow = Nollie Franklin Partlow; the next concrete action is the Clark County, Illinois marriage record/citation for the reported 10 Jun 1900 marriage to Alice/Mary Alice Rude.
 - Public web searching also did not prove Jacob Partlow = son of Benjamin Partlow; broad search surfaced only derivative/collateral leads. Prioritize compiled Partlow books, Benjamin probate/estate, and Culpeper/Clark land/tax records.
 - Tom Copley's May 2026 email archive is now integrated as a research-lead source, not proof. The death-register lead now supports **John Copley + Sarah Copley** as recorded parent names for Michael Copley Sr., but **Sarah Dolan** remains unresolved until direct or near-direct evidence gives Sarah's maiden surname.
-- The highest-value Michael Copley Sr. parentage leads are now: corroboration of the death-register John / Sarah parent names through Lewis County probate / heirship / oil-title paperwork; any Bible or church evidence naming Sarah's maiden surname; and the ambiguous "Bridget Copley" Bible path, which should be tested through both Reynolds and Gillooly / collateral possibilities.
+- The highest-value Michael Copley Sr. parentage leads are now: Order Book No. 6 page 496 and any estate settlement / appraisement / inventory records after the located will; corroboration of the death-register John / Sarah parent names through Lewis County heirship / chancery / oil-title paperwork; any Bible or church evidence naming Sarah's maiden surname; and the ambiguous "Bridget Copley" Bible path, which should be tested through both Reynolds and Gillooly / collateral possibilities.
 - Any future use of the Tom email archives should start from `References/Thomas Copley May 2026 Email Leads.md` and `References/Tom and Steve Copley May 2026 Michael Parents Thread.md`. Preserve the evidence caution that the earlier May 7-8 messages are mostly AI-generated output, while the May 15-17 thread is family correspondence that sharpens leads but does not prove parentage. Browser-readable transcript/source-note pages live in `References/`; downloadable source files live under `static/sources/tom-emails/` and `static/sources/tom-steve-emails/`.
 - Standing source-ingestion rule: when future agents use raw materials such as `.eml`, `.txt`, `.pdf`, `.zip`, images, spreadsheets, record exports, or downloaded source packets, they should commit publishable raw files to the repo, preferably under `static/sources/<short-source-slug>/`; create browser-readable `References/` pages when practical; and link wiki citations to both the readable derivatives and the raw files instead of leaving machine-local-only paths.
 
@@ -814,9 +829,9 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
 - Michael Copley parentage next steps:
   - Treat John Copley + Sarah Copley as death-register-supported parent-name evidence, but treat Sarah Dolan as unresolved until an original or near-original source gives Sarah's maiden surname.
   - Preserve the located WV Culture death-register source for Michael Copley Sr., record ID `2919262` / image `4130795_00393`, including the Bridget-as-wife relationship error and the Lewis County birthplace problem.
-  - Search Lewis County probate, chancery, estate, heirship, and oil-title files after Michael Copley Sr.'s January 1897 death for Bible extracts, family-record exhibits, or filings naming his parents.
+  - Preserve the located FamilySearch will-book record for Michael's 1893 will / 1897 probate as estate and child-structure evidence; do not treat it as parentage proof.
+  - Request Lewis County Order Book No. 6, page 496, and search estate settlement, appraisement, inventory, administrator's bond, chancery, heirship, and oil-title files after Michael Copley Sr.'s January 1897 death for Bible extracts, family-record exhibits, or filings naming his parents.
   - Build Bridget Copley Reynolds forward through Reynolds records and check Bridget "Bitty" Copley Gillooly / Gillooly collateral paths to identify whether a family Bible, transcript, probate packet, or inherited correspondence could survive in either line.
-  - Obtain a clearer image or courthouse copy of Michael's will / probate packet; current family reading says the will does not name parents and was signed by mark.
   - Verify any Dolan / Kilgefin townland leads from original Tithe Applotment, parish, estate, or Registry of Deeds records before adding them as evidence.
 - Murray deed next steps:
   - Treat the built-in Deed Book C-D `Marwee` path as retired for Murray-specific work.
