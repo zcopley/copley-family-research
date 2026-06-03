@@ -10,6 +10,17 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4DM - Lewis County Courthouse Contact Check Integrated (June 3, 2026)
+
+**MURRAY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome official-contact check for the remaining Luke Murray / Anne Loghan courthouse bond request. Official WV Judiciary and Lewis County directory pages identify the primary office as **Lewis County Circuit Clerk Beth Burkhart**, Lewis County Courthouse Annex, **117 Court Avenue, Weston, WV 26452**, phone **304-269-8210**, fax **304-269-8249**. No email was found on the checked official pages. The Lewis County Clerk at **110 Center Avenue**, phone **304-269-8215**, remains the secondary contact if needed.
+
+### Updated Pages
+
+- [[Tier 1 Research Execution Kit|Tier 1 Research Execution Kit]] - corrected the active request packet to the Circuit Clerk's 117 Court Avenue address and added phone / fax instructions.
+- [[References/Claude for Chrome Lewis County Luke Anne Marriage Bond Check|Claude for Chrome Lewis County Luke Anne Marriage Bond Check]] - added the courthouse-contact check, official source URLs, and raw report link.
+- [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]], [[Research Priorities and Action Items|Research Priorities and Action Items]], [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]], [[Search Index|Search Index]], and `.agents/AGENT_RESUME.md` - recorded the verified courthouse contact details for the next bond-specific action.
+- `static/sources/claude-marriage/luke-murray-anne-loghan-1854-courthouse-contact-claude-output.txt` - preserved the raw Claude for Chrome contact-check report.
+
 ## Phase 4DL - Smith Bond Index Negative Integrated (June 3, 2026)
 
 **MURRAY-WORKFLOW UPDATE:** Integrated Zach's Smith compiled marriage-bonds index check for the 1854 Lewis County marriage of **Luke Murray** and **Anne Loghan**. DGS 7949996 loaded online in the FamilySearch film viewer for a logged-in account. Smith's Lewis County index is Film 1598435 Item 6, roughly images 390-476. The groom M section, images 418-421, and bride L section, images 455-458, were checked with adjacent boundary pages and spelling variants. No Luke / Anne entry was found under Murray / Murry / Murrey / Murphey or Loghan / Logan / Lohan / Loggan variants. One incidental 1849 George W. Mulkey entry names parents Jonathan and Sarah Murray, but it does not connect to Luke / Anne. The remaining bond-specific path is a direct Lewis County Circuit Clerk request for any surviving original bond, consent, surety paper, or bond-book entry.

@@ -20,6 +20,8 @@ This note preserves Zach's June 2026 Claude for Chrome checks of the 1854 Lewis 
 
 [Download raw Smith compiled index check](../static/sources/claude-marriage/luke-murray-anne-loghan-1854-smith-index-check-claude-output.txt)
 
+[Download raw courthouse contact check](../static/sources/claude-marriage/luke-murray-anne-loghan-1854-courthouse-contact-claude-output.txt)
+
 ## Main Result
 
 The original WV Culture image is readable. It confirms that Lewis County Clerk **Jno / John Monroe** issued a marriage license for **Luke Murray** and **Anne Loghan** on **30 December 1854**.
@@ -134,9 +136,21 @@ Interpretation: the Smith index is a confirmatory negative. It does not identify
 
 The remaining bond-specific access route is a direct written request to the Lewis County Circuit Clerk's Office in Weston, West Virginia, asking whether any original bond, consent, or surety paper survives outside the checked online and Smith-index paths.
 
+Official contact details checked June 2026:
+
+| Office | Contact |
+|---|---|
+| Primary office | Lewis County Circuit Clerk's Office, Beth Burkhart, Circuit Clerk |
+| Mailing address | Lewis County Courthouse Annex, 117 Court Avenue, Weston, WV 26452 |
+| Phone / fax | Phone 304-269-8210; fax 304-269-8249 |
+| Email | No email found on the checked official WV Judiciary or Lewis County directory pages |
+| Secondary office if needed | Lewis County Clerk, 110 Center Avenue, Weston, WV 26452; phone 304-269-8215 |
+| Official source pages | West Virginia Judiciary Lewis County Information; Lewis County, WV Official Directory |
+
 Request details to cite:
 
 - Marriage: **Luke Murray to Anne Loghan**, dated **30 December 1854**.
 - Known register location: Lewis County marriage register page 75, WV Culture Film **825111**, Image **00184**.
 - Ask for any surviving marriage bond, consent, surety document, or bond-book entry for Murray / Loghan in December 1854.
 - Ask whether Lewis County bond books numbered **5**, **6**, **7**, or **8** survive for the period and whether any Murray / Loghan entry can be located in those books.
+- Send by U.S. mail or fax, or call first to confirm the preferred records-request method.

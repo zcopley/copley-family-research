@@ -26,6 +26,14 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
 
 ## What Was Just Completed
 
+- Integrated Zach's June 2026 Claude for Chrome **Lewis County courthouse contact check** for the remaining Luke Murray / Anne Loghan bond request.
+- Preserved the raw report at `static/sources/claude-marriage/luke-murray-anne-loghan-1854-courthouse-contact-claude-output.txt`.
+- Verified the official contact details against the WV Judiciary Lewis County Information page and the Lewis County, WV official directory:
+  - Primary office: Lewis County Circuit Clerk, Beth Burkhart, Lewis County Courthouse Annex, 117 Court Avenue, Weston, WV 26452; phone 304-269-8210; fax 304-269-8249.
+  - No email was found on the checked official pages.
+  - Secondary office if needed: Lewis County Clerk, 110 Center Avenue, Weston, WV 26452; phone 304-269-8215.
+- Updated `Tier 1 Research Execution Kit.md`, `References/Claude for Chrome Lewis County Luke Anne Marriage Bond Check.md`, `RQ-M1-LEWIS-COUNTY-FAN-SWEEP.md`, `Research Priorities and Action Items.md`, `Topics/Murray Settlement Research Roadmap.md`, `Search Index.md`, and `CHANGELOG.md` so the active courthouse request uses the Circuit Clerk's 117 Court Avenue address rather than the County Clerk's 110 Center Avenue address.
+
 - Integrated Zach's June 2026 Claude for Chrome **Smith compiled index check** for the 1854 Lewis County marriage of **Luke Murray / Anne Loghan**.
 - Preserved the raw report at `static/sources/claude-marriage/luke-murray-anne-loghan-1854-smith-index-check-claude-output.txt`.
 - Updated `References/Claude for Chrome Lewis County Luke Anne Marriage Bond Check.md`, `RQ-M1-LEWIS-COUNTY-FAN-SWEEP.md`, `Tier 1 Research Execution Kit.md`, `Research Priorities and Action Items.md`, `Sources and Evidence Index.md`, `Topics/Murray Settlement.md`, `Topics/Murray Settlement Research Roadmap.md`, `Search Index.md`, `References/Claude for Chrome Lewis County Murry Vital Records.md`, `References/Claude for Chrome Lewis County Murry Original Image Transcription.md`, `References/Claude for Chrome Lewis County Murry Continuity Search.md`, `References/Claude for Chrome Lewis County Personal Property Tax Check.md`, and `CHANGELOG.md` so:
@@ -36,7 +44,7 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
   - no Anne / Ann / Anna Loghan / Logan / Lohan bride entry was found under Loghan / Logan / Lohan / Loggan or LOGH / LOGA / LOHA variants;
   - the Smith result is treated as a confirmatory negative, not a coverage gap, because the index covers 1854 and nearby book / year entries appear where the target surnames would fall;
   - one incidental 1 January 1849 George W. Mulkey entry names parents Jonathan and Sarah Murray, but it does not connect to Luke / Anne;
-  - the next bond-specific action is now a direct Lewis County Circuit Clerk request for any surviving original bond, consent, surety paper, or bond-book entry.
+  - the next bond-specific action is now a direct Lewis County Circuit Clerk request for any surviving original bond, consent, surety paper, or bond-book entry; the later contact check identifies the current primary mailing address as 117 Court Avenue.
 
 - Integrated Zach's June 2026 Claude for Chrome **Luke Murray / Anne Loghan 1854 online bond / consent search** handoff.
 - Preserved the raw report at `static/sources/claude-marriage/luke-murray-anne-loghan-1854-bond-consent-search-claude-output.txt`.
@@ -805,7 +813,7 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
   - Treat the corrected `i3811884-00262` row as `Merry, Eliza Jane`, not confirmed Murry evidence.
   - Preserve the completed Murrow Hudson cleanup: `i3811885-00370` line 2 reads `Murrow Hudson`; `i3811885-00435` line 26 reads `Murrow Hudson` with recovered tax columns; and 1858 E. Slesher page 19 at `i3811885-00301` has no Murray / Murry / Murrow / Murrey entry.
   - Preserve the completed Luke / Anne marriage-register result: WV Culture Film 825111 Image 00184 reads `Luke Murray to Anne Loghan`, dated 30 December 1854, issued by `Jno Monroe Clk`, but names no witnesses, bondsman, surety, parents, guardian, consent giver, or officiant.
-  - Send a direct Lewis County courthouse request for any surviving original Luke Murray / Anne Loghan bond, consent, surety paper, or bond-book entry. Cite the 30 December 1854 marriage, Lewis County Marriage Register page 75, WV Culture Film 825111 Image 00184, and ask whether relevant bond books or loose bond papers survive.
+  - Send a direct Lewis County courthouse request for any surviving original Luke Murray / Anne Loghan bond, consent, surety paper, or bond-book entry. Primary contact: Lewis County Circuit Clerk Beth Burkhart, Lewis County Courthouse Annex, 117 Court Avenue, Weston, WV 26452; phone 304-269-8210; fax 304-269-8249. Cite the 30 December 1854 marriage, Lewis County Marriage Register page 75, WV Culture Film 825111 Image 00184, and ask whether relevant bond books or loose bond papers survive. Secondary contact if needed: Lewis County Clerk, 110 Center Avenue, Weston, WV 26452; phone 304-269-8215.
   - Search 1852-1860 Lewis County deed, court, probate, estate, and Catholic church paths for Patrick, James, Hudson, Edwards, William, Eliza Jane, Luke, Loghan / Logan, and Donahoe / Donahue.
   - Do not repeat the broad indexed FamilySearch / WV Culture / Find A Grave older-Luke search unless a new image or county record points to a specific record.
   - The current courthouse-request instructions are preserved in `Tier 1 Research Execution Kit.md` under `Current Highest-Value Research Task`.

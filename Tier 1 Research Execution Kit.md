@@ -54,11 +54,19 @@ When a search produces a record, a negative result, or a corrected claim:
 
 The Smith compiled marriage-bonds index check is now complete and negative for Luke Murray / Anne Loghan. The online bond / consent search is also complete and negative. The remaining marriage-bond path is a direct written request to the Lewis County Circuit Clerk asking whether any original marriage bond, consent, surety paper, or bond-book entry survives outside the checked online and Smith-index paths.
 
+Current official contact details checked June 2026:
+
+- Primary: Lewis County Circuit Clerk's Office, Beth Burkhart, Circuit Clerk, Lewis County Courthouse Annex, 117 Court Avenue, Weston, WV 26452; phone 304-269-8210; fax 304-269-8249. No email was published on the checked official pages.
+- Secondary if needed: Lewis County Clerk, 110 Center Avenue, Weston, WV 26452; phone 304-269-8215.
+- Official pages checked: `https://www.courtswv.gov/public-resources/court-information-county/lewis_county` and `https://www.lewiscountywv.org/directory/`.
+
 Use this request packet:
 
 ```text
 Lewis County Circuit Clerk's Office
-110 Center Avenue
+Attention: Beth Burkhart, Circuit Clerk
+Lewis County Courthouse Annex
+117 Court Avenue
 Weston, WV 26452
 
 Subject: Marriage bond / consent search request - Luke Murray and Anne Loghan, 30 Dec 1854
@@ -96,6 +104,8 @@ If a record is found, I would like to know:
 - how to order a copy or scan
 
 If no record is found, a brief note describing the books or series checked would be very helpful.
+
+There is no published email for the Circuit Clerk's office on the official pages checked. Send by U.S. mail, fax to 304-269-8249, or call 304-269-8210 first to confirm the current preference for records inquiries.
 ```
 
 Completed prior prompt for the Smith compiled marriage-bonds index check (archived; do not reuse as the next task). Result: DGS 7949996 loaded online in the FamilySearch web viewer for a logged-in account. Smith's Lewis County index is Item 6, roughly film images 390-476. The groom M section, images 418-421, and bride L section, images 455-458, were checked with boundary pages. No Luke / Lucas / L. Murray groom entry was found under Murray / Murry / Murrey / Murphey or any MUR-variant. No Anne / Ann / Anna Loghan / Logan / Lohan bride entry was found under Loghan / Logan / Lohan / Loggan or any LOGH / LOGA / LOHA variant. The Smith index covers 1854, so this is a confirmatory negative rather than a coverage gap. One incidental 1849 George W. Mulkey entry names parents Jonathan and Sarah Murray, but it does not connect to Luke / Anne.

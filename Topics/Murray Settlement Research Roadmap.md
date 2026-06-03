@@ -115,7 +115,7 @@ graph TD
 
 | Action | Where | Time | Verdict Impact |
 |--------|-------|------|-----------------|
-| Lewis County courthouse bond request | Direct request to the Lewis County Circuit Clerk for any original Luke Murray / Anne Loghan bond, consent, surety paper, or bond-book entry around 30 Dec 1854 | 1-2 hrs to prepare; response time unknown | **HIGH:** online bond / consent search and Smith compiled-index check are both negative; courthouse bond books or loose papers are the last bond-specific access path |
+| Lewis County courthouse bond request | Direct request to Lewis County Circuit Clerk Beth Burkhart, Lewis County Courthouse Annex, 117 Court Avenue, Weston, WV 26452, for any original Luke Murray / Anne Loghan bond, consent, surety paper, or bond-book entry around 30 Dec 1854 | 1-2 hrs to prepare; response time unknown | **HIGH:** online bond / consent search and Smith compiled-index check are both negative; courthouse bond books or loose papers are the last bond-specific access path; official pages list phone 304-269-8210 and fax 304-269-8249, with no email found |
 | Full *Powhatan* 1838 passenger manifest scan | Ancestry / FamilySearch NARA M237 | 1 hr | **HIGH:** Shows if Murrays/Dolans traveled with Copleys |
 | Contact Diocese of Wheeling-Charleston | archive request | email | **HIGH:** St. Michael's Church marriage records may show Ann's maiden name |
 | Direct Ann surname record search | church / passenger / child death / Bible / probate / cemetery records | 1-2 hrs to scope | **HIGH:** tests the recorded Munday surname directly instead of relying on indirect Murray-context clues |
