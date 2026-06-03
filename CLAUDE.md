@@ -173,6 +173,14 @@ If a diagram cannot be updated because the relationship is still uncertain, add 
 - Add or update `.gitattributes` for raw binary/source formats when needed so Git preserves them correctly.
 - Keep privacy cautions explicit, especially for living people, personal correspondence, AI-generated material, or derivative research notes.
 
+### Record-request, letter, and phone-inquiry workflow
+- Whenever research reaches a point where the next useful action is to send a letter, email, web-form inquiry, fax, courthouse request, archive request, church request, cemetery request, library lookup, or phone call, add or update a reusable request template in the same session.
+- Use [[Volunteer Record Request Tasks]] for relative / volunteer-facing tasks. Each task should have a short ID, purpose, recipient, template text, fee caution, and reporting instructions to Zach Copley at `zach@copley.name` and Tom Copley at `tcopley@protonmail.com`.
+- Use [[Tier 1 Research Execution Kit]] for agent-facing technical request packets, transcription fields, and evidence-capture forms.
+- If a request target has unstable contact details, tell future helpers to verify the current official address, phone, fax, email, or web form before sending; still provide the best known contact path and date/source if already verified.
+- When adding a new request template, link it from the relevant person, place, topic, evidence, or roadmap pages as appropriate. At minimum consider `Research Priorities and Action Items.md`, `Sources and Evidence Index.md`, `Search Index.md`, and `CHANGELOG.md`.
+- Preserve negative responses as evidence. The reporting template should capture which books, indexes, years, spellings, or repositories were checked.
+
 ### Person page structure
 ```markdown
 # Full Name (birth–death or b. YYYY)
@@ -361,13 +369,13 @@ Full research page with 8 formal research questions (RQ-M1 through RQ-M8), 5-tie
 # CI/CD handles this automatically on every push to main
 # To build locally (requires Node 22):
 npm ci
-npx quartz build
+npm run build
 
 # Manual deploy (if needed):
 npx quartz sync
 ```
 
-The GitHub Actions workflow (`.github/workflows/deploy.yml`) runs on every push to `main`, builds with Node 22, and pushes `public/` to `gh-pages`. The local system has Node 10 — do not attempt local builds.
+The GitHub Actions workflow (`.github/workflows/deploy.yml`) runs on every push to `main`, builds with Node 22, and pushes `public/` to `gh-pages`. In the current workspace, local validation with `npm run build` is expected before committing source changes; restore generated `public/` afterward unless the user explicitly asks to commit built output.
 
 ---
 

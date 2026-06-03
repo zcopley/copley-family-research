@@ -86,9 +86,26 @@ Do NOT link the following individuals to these incorrect social media profiles:
 - Add or update `.gitattributes` for raw binary/source formats when needed so Git preserves them correctly.
 - Keep privacy cautions explicit, especially for living people, personal correspondence, AI-generated material, or derivative research notes.
 
+## Record Requests, Letters, and Phone Inquiries
+- When an agent concludes that the next useful step is a letter, phone call, archive inquiry, courthouse request, church request, cemetery request, library lookup, email, fax, or web-form message, the agent must add or update a reusable template in the repo.
+- Use `[[Volunteer Record Request Tasks]]` for relative-friendly request tasks. Include task ID, purpose, recipient, sample letter or call script, fee caution, and reporting instructions to Zach Copley at `zach@copley.name` and Tom Copley at `tcopley@protonmail.com`.
+- Use `[[Tier 1 Research Execution Kit]]` for more technical agent-facing request packets, transcription fields, and evidence-capture forms.
+- If contact details may change, instruct helpers to verify the current official address, phone, fax, email, or web form before sending. Include the best known contact path only when a source or date is available.
+- Link new request templates from the relevant roadmap and evidence pages. At minimum consider `Research Priorities and Action Items.md`, `Sources and Evidence Index.md`, `Search Index.md`, and `CHANGELOG.md`.
+- Treat negative replies as useful evidence. Capture exactly which books, indexes, years, spellings, and repositories were checked.
+
+## Current June 2026 Operating State
+- Start every session with `.agents/AGENT_RESUME.md`; it is the current checkpoint and overrides historical `_AGENT_HANDOFF_PHASE_*` files.
+- `Volunteer Record Request Tasks.md` is now the public helper page for relatives who want to request records. Keep it current whenever a new courthouse, archive, church, cemetery, library, or phone-inquiry task becomes the next practical action.
+- The 1897 Lewis County death register supports **John Copley** and **Sarah Copley** as recorded parent names for Michael Copley Sr., but no located record gives Sarah's maiden surname as Dolan.
+- Michael Copley Sr.'s 1893 will / 1897 probate has been located in Lewis County Will Book C. It confirms son John as executor and the known children, but it does not name Michael's parents.
+- Active Michael Copley Sr. parentage targets are Order Book No. 6 page 496, estate settlement / appraisement / inventory records, chancery / heirship / oil-title files, naturalization records, Catholic records, and any family Bible evidence.
+- The Luke Murray / Anne Loghan 1854 register entry is confirmed, the online bond / consent search and Smith compiled-index search are negative, and the next bond-specific task is a direct Lewis County Circuit Clerk request.
+
 ## Development & Deployment
 - **Node Version:** Requires Node v22+.
 - **Build Command:** `npm run build` — this includes the required `-d .` flag. Do NOT use `npx quartz build` alone; it produces empty output (no content pages).
+- **Generated output:** Local builds modify `public/`; restore `public/` before committing unless the user explicitly asks to commit built output.
 - **Deployment:** `peaceiris/actions-gh-pages@v4` in `.github/workflows/deploy.yml` — deploys on every push to `main`.
 - **Site Config:** Ensure `baseUrl` in `quartz.config.ts` does NOT include the `https://` protocol prefix, as Quartz handles this automatically.
 - **SSH:** GitHub pushes use `~/.ssh/id_rsa`. Run `ssh-add ~/.ssh/id_rsa` if the key drops from agent. If "Host key verification failed", run `ssh-keygen -R <offending-ip>` to clear stale IP entries from `~/.ssh/known_hosts`.

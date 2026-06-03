@@ -10,6 +10,14 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4DQ - Agent Request-Template Rule Added (June 3, 2026)
+
+**AGENT-INSTRUCTION UPDATE:** Brought active agent files current and added a standing workflow rule: whenever future research concludes that a letter, phone call, courthouse request, archive inquiry, church inquiry, cemetery request, library lookup, fax, email, or web form is the next practical action, agents must add or update a reusable request template in [[Volunteer Record Request Tasks]] and/or [[Tier 1 Research Execution Kit]]. The template should include the target claim, recipient, known citations, spelling variants, exact ask, fee caution, and reporting instructions.
+
+### Updated Pages
+
+- `CLAUDE.md`, `GEMINI.md`, and `.agents/AGENT_RESUME.md` - added the standing request-template rule and current June 2026 operating-state notes for future agents.
+
 ## Phase 4DP - Volunteer Record Request Page Added (June 3, 2026)
 
 **PUBLIC-HELPER UPDATE:** Added [[Volunteer Record Request Tasks]], a volunteer-facing page for relatives who want to help request records. The page includes task IDs, priority ordering, full letter templates, fee cautions, and reporting instructions to send results to Zach Copley at `zach@copley.name` or Tom Copley at `tcopley@protonmail.com`.

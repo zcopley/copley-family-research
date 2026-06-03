@@ -26,6 +26,12 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
 
 ## What Was Just Completed
 
+- Brought active agent instruction files current:
+  - `CLAUDE.md` now includes a standing record-request / letter / phone-inquiry workflow rule and corrects the local build command to `npm run build`.
+  - `GEMINI.md` now includes the same standing request-template rule, the June 2026 operating state, and the generated-output restore caution.
+  - `.agents/AGENT_RESUME.md` now records that future agents must add or update request templates whenever they recommend a letter, phone call, courthouse request, archive inquiry, church inquiry, cemetery request, library lookup, fax, email, or web form.
+- Standing rule for future agents: if research concludes "send a letter," "call the office," "ask the archive," "contact the church," or similar, add or update a reusable template in `Volunteer Record Request Tasks.md` for volunteers and/or `Tier 1 Research Execution Kit.md` for agent-facing technical work. Link the template from the relevant evidence and roadmap pages.
+
 - Added `Volunteer Record Request Tasks.md`, a public helper page for relatives and volunteers who want to request records.
 - The page includes:
   - instructions to claim one task by emailing Zach Copley at `zach@copley.name` or Tom Copley at `tcopley@protonmail.com`;
@@ -827,6 +833,7 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
 - The highest-value Michael Copley Sr. parentage leads are now: Order Book No. 6 page 496 and any estate settlement / appraisement / inventory records after the located will; corroboration of the death-register John / Sarah parent names through Lewis County heirship / chancery / oil-title paperwork; any Bible or church evidence naming Sarah's maiden surname; and the ambiguous "Bridget Copley" Bible path, which should be tested through both Reynolds and Gillooly / collateral possibilities.
 - Any future use of the Tom email archives should start from `References/Thomas Copley May 2026 Email Leads.md` and `References/Tom and Steve Copley May 2026 Michael Parents Thread.md`. Preserve the evidence caution that the earlier May 7-8 messages are mostly AI-generated output, while the May 15-17 thread is family correspondence that sharpens leads but does not prove parentage. Browser-readable transcript/source-note pages live in `References/`; downloadable source files live under `static/sources/tom-emails/` and `static/sources/tom-steve-emails/`.
 - Standing source-ingestion rule: when future agents use raw materials such as `.eml`, `.txt`, `.pdf`, `.zip`, images, spreadsheets, record exports, or downloaded source packets, they should commit publishable raw files to the repo, preferably under `static/sources/<short-source-slug>/`; create browser-readable `References/` pages when practical; and link wiki citations to both the readable derivatives and the raw files instead of leaving machine-local-only paths.
+- Standing request-template rule: when future agents decide that a letter, phone call, email, fax, web form, courthouse request, archive request, church request, cemetery request, library lookup, or paid-copy inquiry is the next practical action, they must add or update a reusable template in `Volunteer Record Request Tasks.md` and/or `Tier 1 Research Execution Kit.md`. Include the target claim, recipient, known citation details, spelling variants, exact ask, fee caution, and reporting instructions. Link new templates from `Research Priorities and Action Items.md`, `Sources and Evidence Index.md`, `Search Index.md`, and `CHANGELOG.md` when relevant.
 
 ## Next Step
 
@@ -862,6 +869,7 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
 - Maintenance next steps:
   - Keep `AGENT_RESUME.md` current after major pushes so historical handoff files stay archival.
   - Do not leave useful raw materials only in `~/Downloads`, `/tmp`, or other local paths; incorporate publishable raw files and readable derivatives into git and the wiki.
+  - Do not leave "send a letter" or "call the office" as an untemplated next step. Add or update `Volunteer Record Request Tasks.md` and/or `Tier 1 Research Execution Kit.md` with a ready-to-use request template in the same session.
   - Fix build or workflow warnings only when they become actionable; current known residual noise is mostly LaTeX unicode warnings.
   - Consider upgrading GitHub Actions from Node 20-based actions to Node 24-compatible versions before GitHub's 2026 deprecation dates.
 
