@@ -709,7 +709,7 @@ The result does **not** prove a pre-1843 Murray anchor family. With the Eliza Ja
 
 ## Next Research Target
 
-1. Check the restricted Smith compiled marriage-bonds index, **Marriage bonds and marriage records 1816-1865, Lewis County, (West) Virginia**, Film 1598435 Item 6 / DGS 7949996 or book call number 975.461 V28s, for any Luke Murray / Anne Loghan bond details; the online bond / consent search found no remotely accessible separate bond and showed Film 825112 / DGS 4130804 is register-only.
+1. Send a direct Lewis County courthouse request for any surviving original Luke Murray / Anne Loghan bond, consent, surety paper, or bond-book entry; the online bond / consent search and Smith compiled-index check are both negative.
 2. Search Lewis County deed, court, probate, and estate records for **1852-1860** Murray / Murry / Murrey entries, especially Patrick, James, Hudson, Edwards, William, Eliza Jane, Luke, Loghan / Logan, and Donahoe / Donahue.
 3. If tax-list cleanup resumes within the original gap scope, check only `i3811885-00371` to see whether a 1859 M-section continuation follows page 20; otherwise no further tax images are required from the completed cleanup.
 

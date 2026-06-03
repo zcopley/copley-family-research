@@ -50,80 +50,59 @@ When a search produces a record, a negative result, or a corrected claim:
 - Exact-surname Murray grantee search already recorded: DGS 8293314 exact Murray entries appear only on images 553-554 and are dated 1865-1934
 - Former 1833 John Murray lead retired: actual record is a **1899** oil and gas lease to **Fred S. Rich** in DGS 008293302
 
-### Current Highest-Value Claude for Chrome Task
+### Current Highest-Value Research Task
 
-For the next offline / restricted-access session, the highest-value task is now **checking the restricted Smith compiled Lewis County marriage-bonds index** for Luke Murray / Anne Loghan. The online bond / consent search is complete: no separate bond, consent, or license-return document was found remotely. Film 825112 / DGS 4130804 contains marriage registers only, not bond papers.
+The Smith compiled marriage-bonds index check is now complete and negative for Luke Murray / Anne Loghan. The online bond / consent search is also complete and negative. The remaining marriage-bond path is a direct written request to the Lewis County Circuit Clerk asking whether any original marriage bond, consent, surety paper, or bond-book entry survives outside the checked online and Smith-index paths.
 
-Use this exact prompt:
+Use this request packet:
 
 ```text
-Do one narrow research task only. Do not browse broadly and do not do repo editing.
+Lewis County Circuit Clerk's Office
+110 Center Avenue
+Weston, WV 26452
 
-Goal:
-Check the restricted Smith compiled index, "Marriage bonds and marriage records 1816-1865, Lewis County, (West) Virginia," for the 1854 Luke Murray / Anne Loghan marriage. The goal is to find whether the index gives a bondsman, parents, and bond book / page reference for the original Lewis County bond.
+Subject: Marriage bond / consent search request - Luke Murray and Anne Loghan, 30 Dec 1854
 
-Known context:
-- The license-register image has been read: WV Culture Film 825111, Image 00184; FamilySearch DGS 4130803; Lewis County marriage register page 75.
-- The register entry reads: `Luke Murray to Anne Loghan`, dated 30 December 1854, issued by `Jno Monroe Clk`.
-- That register entry does not name witnesses, bondsman, surety, parents, guardian, consent giver, or officiant.
-- The online bond / consent search found no separate bond or consent in remotely accessible material.
-- FamilySearch ARK `1:1:Q2ZX-G78G` indexes the marriage as Luke Murray / Anne Loghan but says `Image Unavailable`.
-- FamilySearch ARK `1:1:FRRG-HPT` is indexed as Marriage Consent / Anne Log?an but routes to the same WV Culture Film 825111 Image 184 register image; `Marriage Consent` is an indexer / ingestion label, not evidence of a separate scanned consent document.
-- Neighboring Film 825111 images 175, 180, 183, 185, 186, 190, and 200 were checked and are blank leader / transition frames; no adjacent bond or consent pages appear around image 184.
-- Film 825112 / DGS 4130804 was checked online; it contains a second set of marriage registers, not bond / consent papers.
-- FamilySearch full-text search for `"Luke Murray" "Lewis County"` returned 0 results.
-- The one directly relevant restricted source is: `Marriage bonds and marriage records 1816-1865, Lewis County, (West) Virginia`, compiled by Robert B. Smith, Hacker's Creek Pioneer Descendants, c. 1991.
-- Smith source access: printed book at FamilySearch Library, call number `975.461 V28s`, 3rd Floor; microfilm Film `1598435` Item 6 / DGS `7949996`, viewable only at a FamilySearch Center / affiliate library or FamilySearch Library. Multiple home-access ARK variants for this DGS were attempted and all returned Image Restricted / Image Unavailable.
-- FamilySearch catalog says the Smith work is divided into groom and bride indexes and gives marriage date, groom, bride, parents' names if given, bondsmen, book, and page numbers.
+I am researching the 1854 Lewis County marriage record for Luke Murray and Anne Loghan.
 
-Task:
-1. At a FamilySearch Center / affiliate library, open Film `1598435` Item 6 / DGS `7949996`; or at the FamilySearch Library, use book call number `975.461 V28s`.
-2. Check the groom index under Murray / Murry / Murrey for Luke / Lucas / L. Murray.
-3. Check the bride index under Loghan / Logan / Lohan for Anne / Ann / Anna.
-4. If Luke Murray / Anne Loghan appears, transcribe the full index entry exactly. Capture marriage date, groom, bride, parents if given, bondsman / surety, bond book, page number, and any notes.
-5. If the entry gives a bond book and page, record the exact book / page citation needed to request the original from the Lewis County Clerk in Weston, West Virginia.
-6. If no entry appears, document the exact negative search: which index sections were checked, variants checked, and whether the Smith source covers 1854 bonds.
-7. Do not redo the online FamilySearch / WV Culture register search, tax-list work, census work, deed work, probate work, or broad surname searching.
+Known register record:
+- Groom: Luke Murray
+- Bride: Anne Loghan
+- Date: 30 December 1854
+- Register location: Lewis County marriage register page 75
+- WV Culture image: Film 825111, Image 00184
+- FamilySearch DGS for the register: 4130803
+- Register text: license issued by Jno Monroe, Clerk
 
-Output format:
+The register entry does not name a bondsman, surety, witnesses, parents, guardian, consent giver, or officiant.
 
-SMITH INDEX CHECK SCOPE
-- Access location:
-- Source used: book or film / DGS:
-- Call number / film / DGS:
-- Index sections checked:
-- Variants checked:
+I have also checked:
+- Online WV Culture / FamilySearch paths for this register image.
+- Surrounding WV Culture Film 825111 frames around image 184.
+- FamilySearch Film 825112 / DGS 4130804, which proved to be another marriage-register series.
+- Robert B. Smith, Marriage bonds and marriage records 1816-1865, Lewis County, (West) Virginia, Film 1598435 Item 6 / DGS 7949996. No Luke Murray / Anne Loghan entry was found under Murray / Murry / Murrey or Loghan / Logan / Lohan variants.
 
-GROOM INDEX RESULT
-- Murray / Murry / Murrey entries checked:
-- Luke / Lucas / L. Murray found?:
-- Full transcription if found:
-- If not found, exact negative result:
+Request:
+Would your office please check whether any original marriage bond, consent paper, surety document, or bond-book entry survives for Luke Murray and Anne Loghan, around 30 December 1854?
 
-BRIDE INDEX RESULT
-- Loghan / Logan / Lohan entries checked:
-- Anne / Ann / Anna found?:
-- Full transcription if found:
-- If not found, exact negative result:
+If bond books survive for the period, please check Book 5, Book 6, Book 7, or Book 8, or any Lewis County marriage-bond series covering December 1854, for Murray / Murry / Murrey and Loghan / Logan / Lohan variants.
 
-BOND / BOOK-PAGE DETAILS
-- Bondsman / surety:
-- Parents:
-- Marriage date:
-- Bond book:
-- Page:
-- Notes:
+If a record is found, I would like to know:
+- exact names as written
+- marriage date or bond date
+- bondsman / surety
+- parents, guardian, or consent giver, if named
+- book and page
+- how to order a copy or scan
 
-RQ-M1 INTERPRETATION
-- Does the Smith index identify a bondsman, surety, parent, bond book, or page for Luke / Anne?
-- Does it connect Luke / Anne to John Loghan, Owen Loghan, James Murray, Patrick Murry, Donahoe / Donahue, C. Kester, or the Ree district?
-- Does this change the post-1850 first-tax-appearance model or older Luke / Margaret interpretation?
-- What exact courthouse request or image, if any, should be pursued next?
+If no record is found, a brief note describing the books or series checked would be very helpful.
 ```
 
-Completed prior prompt for the online 1854 Luke Murray / Anne Loghan bond / consent search (archived; do not reuse as the next task). Result: no separate bond, consent, or license return was found in any remotely accessible source. Film 825112 / DGS 4130804 contains marriage registers only, not bond papers. WV Culture indexes one Luke Murray / Anne Log?an record and points back to Film 825111 Image 184. The only directly relevant bond source found is the restricted Smith compiled index, `Marriage bonds and marriage records 1816-1865, Lewis County, (West) Virginia`, Film 1598435 Item 6 / DGS 7949996 or book call number 975.461 V28s.
+Completed prior prompt for the Smith compiled marriage-bonds index check (archived; do not reuse as the next task). Result: DGS 7949996 loaded online in the FamilySearch web viewer for a logged-in account. Smith's Lewis County index is Item 6, roughly film images 390-476. The groom M section, images 418-421, and bride L section, images 455-458, were checked with boundary pages. No Luke / Lucas / L. Murray groom entry was found under Murray / Murry / Murrey / Murphey or any MUR-variant. No Anne / Ann / Anna Loghan / Logan / Lohan bride entry was found under Loghan / Logan / Lohan / Loggan or any LOGH / LOGA / LOHA variant. The Smith index covers 1854, so this is a confirmatory negative rather than a coverage gap. One incidental 1849 George W. Mulkey entry names parents Jonathan and Sarah Murray, but it does not connect to Luke / Anne.
 
-Completed prior prompt for the 1854 Luke Murray / Anne Loghan marriage-register and bond access check (archived; do not reuse as the next task). Result: FamilySearch ARK `1:1:Q2ZX-G78G` still says Image Unavailable. FamilySearch ARK `1:1:FRRG-HPT` routes to WV Culture. WV Culture Film 825111 Image 00184 is readable and directly confirms the register entry `Luke Murray to Anne Loghan`, dated 30 December 1854, issued by `Jno Monroe Clk`. It names no witnesses, bondsman, surety, parents, guardian, consent giver, or officiant. The later online bond / consent search found no remotely accessible separate document, showed Film 825112 / DGS 4130804 is register-only, and moved the next source to the restricted Smith compiled marriage-bonds index.
+Completed prior prompt for the online 1854 Luke Murray / Anne Loghan bond / consent search (archived; do not reuse as the next task). Result: no separate bond, consent, or license return was found in any remotely accessible source. Film 825112 / DGS 4130804 contains marriage registers only, not bond papers. WV Culture indexes one Luke Murray / Anne Log?an record and points back to Film 825111 Image 184. The only directly relevant compiled bond source found was the Smith index, `Marriage bonds and marriage records 1816-1865, Lewis County, (West) Virginia`, Film 1598435 Item 6 / DGS 7949996 or book call number 975.461 V28s; that later check was negative for Luke / Anne.
+
+Completed prior prompt for the 1854 Luke Murray / Anne Loghan marriage-register and bond access check (archived; do not reuse as the next task). Result: FamilySearch ARK `1:1:Q2ZX-G78G` still says Image Unavailable. FamilySearch ARK `1:1:FRRG-HPT` routes to WV Culture. WV Culture Film 825111 Image 00184 is readable and directly confirms the register entry `Luke Murray to Anne Loghan`, dated 30 December 1854, issued by `Jno Monroe Clk`. It names no witnesses, bondsman, surety, parents, guardian, consent giver, or officiant. The later online bond / consent search found no remotely accessible separate document, showed Film 825112 / DGS 4130804 is register-only, and the later Smith compiled-index check was also negative.
 
 Completed prior prompt for the 1859-1860 Murrow Hudson cleanup (archived; do not reuse as the next task). Result: `i3811885-00370` line 2 reads `Murrow Hudson`, not Newsom, with 1 tithable, no horses, 5 cattle valued at 16, and rightmost tax / value 20. `i3811885-00435` line 26 reads `Murrow Hudson` with 1 tithable, no horses, 2 cattle, cattle value probably 6, and right-side values 20 / 1 / 20 after canvas extraction bypassed the Ancestry overlay. Optional 1858 E. Slesher page 19 was found at `i3811885-00301` and has no Murray / Murry / Murrow / Murrey entries.
 

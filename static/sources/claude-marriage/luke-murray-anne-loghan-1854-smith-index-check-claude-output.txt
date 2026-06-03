@@ -1,0 +1,85 @@
+Research Report: Smith Compiled Index Check for Luke Murray / Anne Loghan, 1854
+
+SMITH INDEX CHECK SCOPE
+
+Access location: Online via FamilySearch film viewer. DGS 7949996 was found to be fully accessible without FamilySearch Center restriction at the time of this check; the film loaded in the standard web viewer for a logged-in FamilySearch account.
+
+Source used: Film / DGS, not the physical book at call number 975.461 V28s.
+
+Call number / film / DGS: Film 1598435, Item 6 / DGS 7949996.
+
+Film structure confirmed: DGS 7949996 is the entire microfilm roll 1598435, which contains 1,760 images spread across 12 items. The Smith Lewis County index occupies Item 6, confirmed via the Information panel in the film viewer. Item 6 falls roughly within film images 390-476 of the 1,760-image roll.
+
+Index sections checked:
+- Groom index, entire M section, film images 418-421: all M-surname groom entries read.
+- Groom index, adjacent L section end, image 417, and N section start, image 421: boundaries confirmed.
+- Bride index, entire L section, film images 455-458: all L-surname bride entries read.
+- Bride index, adjacent K section, image 455, and M section start, image 458: boundaries confirmed.
+
+Variants checked:
+- Groom index: MURRAY, MURRY, MURREY, MURPHEY; all MU... surname entries in the M section were read.
+- Bride index: LOGHAN, LOGAN, LOHAN, LOGGAN; all LO... surname entries in the L section were read.
+
+Index column headers confirmed from film image 380 bottom page and image 425 bottom page:
+- Groom index columns: DATE | SUR NAME | GIVEN NAME | SPOUSE | PARENTS | BONDSMEN | BK | PG
+- Bride index columns: DATE | SUR NAME | GIVEN NAME | SPOUSE | PARENTS | [BONDSMEN / MINISTER] | BK | PG
+
+GROOM INDEX RESULT
+
+Murray / Murry / Murrey entries checked: All MU-surname entries across the M groom section, images 418-421, were examined. The MU-surname entries found were MULLAS / MULLAN, MULLERFULLY / MULVEIHAL, MULWONTER, MULKEY, and MULDERHEADS. The section moves from MUL... directly to other M surnames. No MURR... entries appear anywhere in the M groom section.
+
+Luke / Lucas / L. Murray found?: No.
+
+Full transcription if found: N/A.
+
+Exact negative result: The M groom section spans approximately images 418-421. All entries were read with column-by-column attention. The index proceeds alphabetically through MA..., MC..., MI..., MO..., and MU... without any entry whose groom surname begins MURR-. The section boundaries were confirmed: the L groom section ends at image 417, last L entry LAMB, WILLIAM, and the N groom section begins at image 421, first N entry NEELY. No MURRAY, MURRY, MURREY, MURPHEY, or other MUR-variant groom entry appears between those boundaries.
+
+BRIDE INDEX RESULT
+
+Loghan / Logan / Lohan entries checked: All LO-surname entries across the L bride section, images 455-458, were examined. LO-surname bride entries found included LOUGH, LOCKARD, LONDON, LORENTS, LOVEALL, and LOWER. The L bride section moves from LO... entries to M entries without any LOGH-, LOGAN-, or LOHA- spelling.
+
+Anne / Ann / Anna found?: No LOGHAN / LOGAN / LOHAN bride of any given name found.
+
+Full transcription if found: N/A.
+
+Exact negative result: The L bride section runs from roughly image 455 bottom page through image 458 top page. All L entries were read. The index contains LOUGH, LANCE, LANE, LANFORD, LAUGHLIN, LAMORE, LINSLEY, LINBER, LEMONS, LANHAM, LOCKARD, LORENTS, LOVEALL, LOWER, LAWREN, LINSER, LINDER, LOVEALL, LIGHTBORN, LORENTS, LOCHARD, LANDON, LAWRENCE, LOWER, and LONDON. It does not contain any entry whose bride surname begins LOGH-, LOGA-, or LOHA-. The K bride section precedes the L section at image 455 and the M bride section follows at image 458, confirming the boundaries were correctly identified.
+
+BOND / BOOK-PAGE DETAILS
+
+Bondsman / surety: Not found in the Smith index.
+
+Parents: Not found in the Smith index.
+
+Marriage date: Not found in the Smith index. The 1854 date is known only from the WV Culture register image.
+
+Bond book: Not found.
+
+Page: Not found.
+
+Notes: The Smith index does cover the 1854 time period. Entries in the groom index reach into the 1860s, and book numbers 8-9 are cited for entries dated 1861-1865. Entries dated 1854-1856 with book numbers 6-7 appear near the MU portion of the alphabet where MURRAY would fall. The absence of MURRAY from the index is therefore not a coverage-gap issue; the index covers 1854, but Luke Murray / Anne Loghan is genuinely absent from the checked index sections.
+
+Incidental observation: In the groom index M section, the entry "JAN.1,49 MULKEY - GEORGE W. - JOHN TAYLOR - JONATHAN [&] SARAH MURRAY - bondsman: J.W. BOLTEIN - BK? / PG 46" names parents as JONATHAN and SARAH MURRAY. This confirms that MURRAYs appear in Lewis County records in the relevant period as parents of another groom, Mulkey in 1849, but Luke Murray himself does not appear as a groom in the Smith index.
+
+RQ-M1 INTERPRETATION
+
+Does the Smith index identify a bondsman, surety, parent, bond book, or page for Luke / Anne?
+
+No. Neither the groom index under MURRAY / MURRY / MURREY nor the bride index under LOGHAN / LOGAN / LOHAN contains any entry for this couple. The Smith index is silent on the 1854 Luke Murray / Anne Loghan marriage.
+
+Does it connect Luke / Anne to John Loghan, Owen Loghan, James Murray, Patrick Murry, Donahoe / Donahue, C. Kester, or the Ree district?
+
+No direct connection was found. The one Murray-related entry in the index, a Mulkey groom with parents Jonathan and Sarah Murray in 1849, does not name Luke Murray and involves different people. No Loghan parent or relative entry was found anywhere in the bride index L section.
+
+Does this change the post-1850 first-tax-appearance model or older Luke / Margaret interpretation?
+
+The Smith index result is a confirmatory negative, not a change. It confirms that no original bond was recovered in this compiled secondary source. The absence from Smith does not prove that no bond was ever filed; it means either the bond was filed but Smith did not locate or transcribe it, the original bond paper is lost or was never separated into a findable category, or Smith's index had gaps. Lewis County bond papers from the 1854 period are not all preserved, and Smith's index was compiled from records available circa 1991 and may not include all surviving or once-surviving bonds.
+
+What exact courthouse request or image, if any, should be pursued next?
+
+The one actionable next step that remains open is a direct written request to the Lewis County Circuit Clerk's Office, 110 Center Avenue, Weston, West Virginia 26452. The request should cite:
+- Marriage of Luke Murray to Anne Loghan, dated 30 December 1854.
+- Known register location: Lewis County Marriage Register page 75, WV Culture Film 825111, Image 00184.
+- Request: any surviving marriage bond, consent, or surety document for this couple from Book 5, 6, 7, or 8 of the Lewis County bond records. The Smith index uses books numbered 5-8 for mid-1840s through 1865 entries.
+- Ask specifically whether the bond books themselves survive and whether any bond for Murray / Loghan, December 1854, can be located.
+
+The Smith index's silence does not rule out survival of the original paper. Lewis County bond records are partially extant, and some may survive in the courthouse that Smith did not capture. The courthouse inquiry is the only remaining access route not yet exhausted by remote search.
