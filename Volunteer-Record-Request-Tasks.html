@@ -1,0 +1,665 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr"><head><title>Volunteer Record Request Tasks</title><meta charset="utf-8"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Schibsted Grotesk:wght@400;700&amp;family=Source Sans Pro:ital,wght@0,400;0,600;1,400;1,600&amp;family=IBM Plex Mono:wght@400;600&amp;display=swap"/><link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin="anonymous"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="og:site_name" content="Copley Family History"/><meta property="og:title" content="Volunteer Record Request Tasks"/><meta property="og:type" content="website"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="Volunteer Record Request Tasks"/><meta name="twitter:description" content="Volunteer-facing checklist and letter templates for requesting records that would verify unresolved Copley family history claims."/><meta property="og:description" content="Volunteer-facing checklist and letter templates for requesting records that would verify unresolved Copley family history claims."/><meta property="og:image:alt" content="Volunteer-facing checklist and letter templates for requesting records that would verify unresolved Copley family history claims."/><meta property="twitter:domain" content="zcopley.github.io/copley-family-research"/><meta property="og:url" content="https://zcopley.github.io/copley-family-research/Volunteer-Record-Request-Tasks"/><meta property="twitter:url" content="https://zcopley.github.io/copley-family-research/Volunteer-Record-Request-Tasks"/><link rel="icon" href="./static/icon.png"/><meta name="description" content="Volunteer-facing checklist and letter templates for requesting records that would verify unresolved Copley family history claims."/><meta name="generator" content="Quartz"/><link href="./index.css" rel="stylesheet" type="text/css" data-persist="true"/><style>.expand-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  right: 0;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.expand-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.expand-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.expand-button:focus {
+  outline: 0;
+}
+
+pre:hover > .expand-button {
+  opacity: 1;
+  transition: 0.2s;
+}
+
+code.mermaid .cluster-label,
+code.mermaid .edgeLabel,
+#mermaid-container .mermaid-content .cluster-label,
+#mermaid-container .mermaid-content .edgeLabel {
+  text-shadow: 0 1px 0 var(--light), 1px 0 0 var(--light), 0 -1px 0 var(--light), -1px 0 0 var(--light), 0 0 3px var(--light);
+}
+code.mermaid .cluster-label text,
+code.mermaid .edgeLabel text,
+#mermaid-container .mermaid-content .cluster-label text,
+#mermaid-container .mermaid-content .edgeLabel text {
+  paint-order: stroke;
+  stroke: var(--light);
+  stroke-linejoin: round;
+  stroke-width: 3px;
+}
+
+#mermaid-container {
+  position: fixed;
+  contain: layout;
+  z-index: 999;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: none;
+  backdrop-filter: blur(4px);
+  background: rgba(0, 0, 0, 0.5);
+}
+#mermaid-container.active {
+  display: inline-block;
+}
+#mermaid-container > #mermaid-space {
+  border: 1px solid var(--lightgray);
+  background-color: var(--light);
+  border-radius: 5px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 80vh;
+  width: 80vw;
+  overflow: hidden;
+}
+#mermaid-container > #mermaid-space > .mermaid-content {
+  position: relative;
+  transform-origin: 0 0;
+  transition: transform 0.1s ease;
+  overflow: visible;
+  min-height: 200px;
+  min-width: 200px;
+}
+#mermaid-container > #mermaid-space > .mermaid-content pre {
+  margin: 0;
+  border: none;
+}
+#mermaid-container > #mermaid-space > .mermaid-content svg {
+  max-width: none;
+  height: auto;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  gap: 8px;
+  padding: 8px;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 2;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  color: var(--dark);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: var(--bodyFont);
+  transition: all 0.2s ease;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:hover {
+  background: var(--lightgray);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:active {
+  transform: translateY(1px);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:nth-child(2) {
+  width: auto;
+  padding: 0 12px;
+  font-size: 14px;
+}
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VSb290IjoiL2hvbWUvcnVubmVyL3dvcmsvY29wbGV5LWZhbWlseS1yZXNlYXJjaC9jb3BsZXktZmFtaWx5LXJlc2VhcmNoL3F1YXJ0ei9jb21wb25lbnRzL3N0eWxlcyIsInNvdXJjZXMiOlsibWVybWFpZC5pbmxpbmUuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTs7QUFHRjtFQUNFO0VBQ0E7O0FBR0Y7RUFDRTs7O0FBS0Y7RUFDRTtFQUNBOzs7QUFNRjtBQUFBO0FBQUE7QUFBQTtFQUVFLGFBQ0U7O0FBT0o7QUFBQTtBQUFBO0FBQUE7RUFFRTtFQUNBO0VBQ0E7RUFDQTs7O0FBSUo7RUFDRTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7O0FBR0Y7RUFDRTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTs7QUFFQTtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTs7QUFFQTtFQUNFO0VBQ0E7O0FBR0Y7RUFDRTtFQUNBOztBQUlKO0VBQ0U7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTs7QUFFQTtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7O0FBRUE7RUFDRTs7QUFHRjtFQUNFOztBQUlGO0VBQ0U7RUFDQTtFQUNBIiwic291cmNlc0NvbnRlbnQiOlsiLmV4cGFuZC1idXR0b24ge1xuICBwb3NpdGlvbjogYWJzb2x1dGU7XG4gIGRpc3BsYXk6IGZsZXg7XG4gIGZsb2F0OiByaWdodDtcbiAgcGFkZGluZzogMC40cmVtO1xuICBtYXJnaW46IDAuM3JlbTtcbiAgcmlnaHQ6IDA7IC8vIE5PVEU6IHJpZ2h0IHdpbGwgYmUgc2V0IGluIG1lcm1haWQuaW5saW5lLnRzXG4gIGNvbG9yOiB2YXIoLS1ncmF5KTtcbiAgYm9yZGVyLWNvbG9yOiB2YXIoLS1kYXJrKTtcbiAgYmFja2dyb3VuZC1jb2xvcjogdmFyKC0tbGlnaHQpO1xuICBib3JkZXI6IDFweCBzb2xpZDtcbiAgYm9yZGVyLXJhZGl1czogNXB4O1xuICBvcGFjaXR5OiAwO1xuICB0cmFuc2l0aW9uOiAwLjJzO1xuXG4gICYgPiBzdmcge1xuICAgIGZpbGw6IHZhcigtLWxpZ2h0KTtcbiAgICBmaWx0ZXI6IGNvbnRyYXN0KDAuMyk7XG4gIH1cblxuICAmOmhvdmVyIHtcbiAgICBjdXJzb3I6IHBvaW50ZXI7XG4gICAgYm9yZGVyLWNvbG9yOiB2YXIoLS1zZWNvbmRhcnkpO1xuICB9XG5cbiAgJjpmb2N1cyB7XG4gICAgb3V0bGluZTogMDtcbiAgfVxufVxuXG5wcmUge1xuICAmOmhvdmVyID4gLmV4cGFuZC1idXR0b24ge1xuICAgIG9wYWNpdHk6IDE7XG4gICAgdHJhbnNpdGlvbjogMC4ycztcbiAgfVxufVxuXG5jb2RlLm1lcm1haWQsXG4jbWVybWFpZC1jb250YWluZXIgLm1lcm1haWQtY29udGVudCB7XG4gIC5jbHVzdGVyLWxhYmVsLFxuICAuZWRnZUxhYmVsIHtcbiAgICB0ZXh0LXNoYWRvdzpcbiAgICAgIDAgMXB4IDAgdmFyKC0tbGlnaHQpLFxuICAgICAgMXB4IDAgMCB2YXIoLS1saWdodCksXG4gICAgICAwIC0xcHggMCB2YXIoLS1saWdodCksXG4gICAgICAtMXB4IDAgMCB2YXIoLS1saWdodCksXG4gICAgICAwIDAgM3B4IHZhcigtLWxpZ2h0KTtcbiAgfVxuXG4gIC5jbHVzdGVyLWxhYmVsIHRleHQsXG4gIC5lZGdlTGFiZWwgdGV4dCB7XG4gICAgcGFpbnQtb3JkZXI6IHN0cm9rZTtcbiAgICBzdHJva2U6IHZhcigtLWxpZ2h0KTtcbiAgICBzdHJva2UtbGluZWpvaW46IHJvdW5kO1xuICAgIHN0cm9rZS13aWR0aDogM3B4O1xuICB9XG59XG5cbiNtZXJtYWlkLWNvbnRhaW5lciB7XG4gIHBvc2l0aW9uOiBmaXhlZDtcbiAgY29udGFpbjogbGF5b3V0O1xuICB6LWluZGV4OiA5OTk7XG4gIGxlZnQ6IDA7XG4gIHRvcDogMDtcbiAgd2lkdGg6IDEwMHZ3O1xuICBoZWlnaHQ6IDEwMHZoO1xuICBvdmVyZmxvdzogaGlkZGVuO1xuICBkaXNwbGF5OiBub25lO1xuICBiYWNrZHJvcC1maWx0ZXI6IGJsdXIoNHB4KTtcbiAgYmFja2dyb3VuZDogcmdiYSgwLCAwLCAwLCAwLjUpO1xuXG4gICYuYWN0aXZlIHtcbiAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7XG4gIH1cblxuICAmID4gI21lcm1haWQtc3BhY2Uge1xuICAgIGJvcmRlcjogMXB4IHNvbGlkIHZhcigtLWxpZ2h0Z3JheSk7XG4gICAgYmFja2dyb3VuZC1jb2xvcjogdmFyKC0tbGlnaHQpO1xuICAgIGJvcmRlci1yYWRpdXM6IDVweDtcbiAgICBwb3NpdGlvbjogZml4ZWQ7XG4gICAgdG9wOiA1MCU7XG4gICAgbGVmdDogNTAlO1xuICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlKC01MCUsIC01MCUpO1xuICAgIGhlaWdodDogODB2aDtcbiAgICB3aWR0aDogODB2dztcbiAgICBvdmVyZmxvdzogaGlkZGVuO1xuXG4gICAgJiA+IC5tZXJtYWlkLWNvbnRlbnQge1xuICAgICAgcG9zaXRpb246IHJlbGF0aXZlO1xuICAgICAgdHJhbnNmb3JtLW9yaWdpbjogMCAwO1xuICAgICAgdHJhbnNpdGlvbjogdHJhbnNmb3JtIDAuMXMgZWFzZTtcbiAgICAgIG92ZXJmbG93OiB2aXNpYmxlO1xuICAgICAgbWluLWhlaWdodDogMjAwcHg7XG4gICAgICBtaW4td2lkdGg6IDIwMHB4O1xuXG4gICAgICBwcmUge1xuICAgICAgICBtYXJnaW46IDA7XG4gICAgICAgIGJvcmRlcjogbm9uZTtcbiAgICAgIH1cblxuICAgICAgc3ZnIHtcbiAgICAgICAgbWF4LXdpZHRoOiBub25lO1xuICAgICAgICBoZWlnaHQ6IGF1dG87XG4gICAgICB9XG4gICAgfVxuXG4gICAgJiA+IC5tZXJtYWlkLWNvbnRyb2xzIHtcbiAgICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTtcbiAgICAgIGJvdHRvbTogMjBweDtcbiAgICAgIHJpZ2h0OiAyMHB4O1xuICAgICAgZGlzcGxheTogZmxleDtcbiAgICAgIGdhcDogOHB4O1xuICAgICAgcGFkZGluZzogOHB4O1xuICAgICAgYmFja2dyb3VuZDogdmFyKC0tbGlnaHQpO1xuICAgICAgYm9yZGVyOiAxcHggc29saWQgdmFyKC0tbGlnaHRncmF5KTtcbiAgICAgIGJvcmRlci1yYWRpdXM6IDZweDtcbiAgICAgIGJveC1zaGFkb3c6IDAgMnB4IDRweCByZ2JhKDAsIDAsIDAsIDAuMSk7XG4gICAgICB6LWluZGV4OiAyO1xuXG4gICAgICAubWVybWFpZC1jb250cm9sLWJ1dHRvbiB7XG4gICAgICAgIGRpc3BsYXk6IGZsZXg7XG4gICAgICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7XG4gICAgICAgIGp1c3RpZnktY29udGVudDogY2VudGVyO1xuICAgICAgICB3aWR0aDogMzJweDtcbiAgICAgICAgaGVpZ2h0OiAzMnB4O1xuICAgICAgICBwYWRkaW5nOiAwO1xuICAgICAgICBib3JkZXI6IDFweCBzb2xpZCB2YXIoLS1saWdodGdyYXkpO1xuICAgICAgICBiYWNrZ3JvdW5kOiB2YXIoLS1saWdodCk7XG4gICAgICAgIGNvbG9yOiB2YXIoLS1kYXJrKTtcbiAgICAgICAgYm9yZGVyLXJhZGl1czogNHB4O1xuICAgICAgICBjdXJzb3I6IHBvaW50ZXI7XG4gICAgICAgIGZvbnQtc2l6ZTogMTZweDtcbiAgICAgICAgZm9udC1mYW1pbHk6IHZhcigtLWJvZHlGb250KTtcbiAgICAgICAgdHJhbnNpdGlvbjogYWxsIDAuMnMgZWFzZTtcblxuICAgICAgICAmOmhvdmVyIHtcbiAgICAgICAgICBiYWNrZ3JvdW5kOiB2YXIoLS1saWdodGdyYXkpO1xuICAgICAgICB9XG5cbiAgICAgICAgJjphY3RpdmUge1xuICAgICAgICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlWSgxcHgpO1xuICAgICAgICB9XG5cbiAgICAgICAgLy8gU3R5bGUgdGhlIHJlc2V0IGJ1dHRvbiBkaWZmZXJlbnRseVxuICAgICAgICAmOm50aC1jaGlsZCgyKSB7XG4gICAgICAgICAgd2lkdGg6IGF1dG87XG4gICAgICAgICAgcGFkZGluZzogMCAxMnB4O1xuICAgICAgICAgIGZvbnQtc2l6ZTogMTRweDtcbiAgICAgICAgfVxuICAgICAgfVxuICAgIH1cbiAgfVxufVxuIl19 */</style><link href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" rel="stylesheet" type="text/css" data-persist="true"/><script src="./prescript.js" type="application/javascript" data-persist="true"></script><script type="application/javascript" data-persist="true">const fetchData = fetch("./static/contentIndex.json").then(data => data.json())</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://zcopley.github.io/copley-family-research/index.xml"/><meta property="og:image:width" content="1200"/><meta property="og:image:height" content="630"/><meta property="og:image" content="https://zcopley.github.io/copley-family-research/Volunteer-Record-Request-Tasks-og-image.webp"/><meta property="og:image:url" content="https://zcopley.github.io/copley-family-research/Volunteer-Record-Request-Tasks-og-image.webp"/><meta name="twitter:image" content="https://zcopley.github.io/copley-family-research/Volunteer-Record-Request-Tasks-og-image.webp"/><meta property="og:image:type" content="image/.webp"/></head><body data-slug="Volunteer-Record-Request-Tasks"><div id="quartz-root" class="page"><div id="quartz-body"><div class="left sidebar"><h2 class="page-title"><a href=".">Copley Family History</a></h2><div class="spacer mobile-only"></div><div class="flex-component" style="flex-direction: row; flex-wrap: nowrap; gap: 1rem;"><div style="flex-grow: 1; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><div class="search"><button class="search-button"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title>Search</title><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg><p>Search</p></button><div class="search-container"><div class="search-space"><input autocomplete="off" class="search-bar" name="search" type="text" aria-label="Search for something" placeholder="Search for something"/><div class="search-layout" data-preview="true"></div></div></div></div></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="darkmode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve" aria-label="Dark mode"><title>Dark mode</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve" aria-label="Light mode"><title>Light mode</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></button></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="readermode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="readerIcon" fill="currentColor" stroke="currentColor" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round" width="64px" height="64px" viewBox="0 0 24 24" aria-label="Reader mode"><title>Reader mode</title><g transform="translate(-1.8, -1.8) scale(1.15, 1.2)"><path d="M8.9891247,2.5 C10.1384702,2.5 11.2209868,2.96705384 12.0049645,3.76669482 C12.7883914,2.96705384 13.8709081,2.5 15.0202536,2.5 L18.7549359,2.5 C19.1691495,2.5 19.5049359,2.83578644 19.5049359,3.25 L19.5046891,4.004 L21.2546891,4.00457396 C21.6343849,4.00457396 21.9481801,4.28672784 21.9978425,4.6528034 L22.0046891,4.75457396 L22.0046891,20.25 C22.0046891,20.6296958 21.7225353,20.943491 21.3564597,20.9931534 L21.2546891,21 L2.75468914,21 C2.37499337,21 2.06119817,20.7178461 2.01153575,20.3517706 L2.00468914,20.25 L2.00468914,4.75457396 C2.00468914,4.37487819 2.28684302,4.061083 2.65291858,4.01142057 L2.75468914,4.00457396 L4.50368914,4.004 L4.50444233,3.25 C4.50444233,2.87030423 4.78659621,2.55650904 5.15267177,2.50684662 L5.25444233,2.5 L8.9891247,2.5 Z M4.50368914,5.504 L3.50468914,5.504 L3.50468914,19.5 L10.9478955,19.4998273 C10.4513189,18.9207296 9.73864328,18.5588115 8.96709342,18.5065584 L8.77307039,18.5 L5.25444233,18.5 C4.87474657,18.5 4.56095137,18.2178461 4.51128895,17.8517706 L4.50444233,17.75 L4.50368914,5.504 Z M19.5049359,17.75 C19.5049359,18.1642136 19.1691495,18.5 18.7549359,18.5 L15.2363079,18.5 C14.3910149,18.5 13.5994408,18.8724714 13.0614828,19.4998273 L20.5046891,19.5 L20.5046891,5.504 L19.5046891,5.504 L19.5049359,17.75 Z M18.0059359,3.999 L15.0202536,4 L14.8259077,4.00692283 C13.9889509,4.06666544 13.2254227,4.50975805 12.7549359,5.212 L12.7549359,17.777 L12.7782651,17.7601316 C13.4923805,17.2719483 14.3447024,17 15.2363079,17 L18.0059359,16.999 L18.0056891,4.798 L18.0033792,4.75457396 L18.0056891,4.71 L18.0059359,3.999 Z M8.9891247,4 L6.00368914,3.999 L6.00599909,4.75457396 L6.00599909,4.75457396 L6.00368914,4.783 L6.00368914,16.999 L8.77307039,17 C9.57551536,17 10.3461406,17.2202781 11.0128313,17.6202194 L11.2536891,17.776 L11.2536891,5.211 C10.8200889,4.56369974 10.1361548,4.13636104 9.37521067,4.02745763 L9.18347055,4.00692283 L8.9891247,4 Z"></path></g></svg></button></div></div><div class="explorer" data-behavior="link" data-collapsed="collapsed" data-savestate="true" data-data-fns="{&quot;order&quot;:[&quot;filter&quot;,&quot;map&quot;,&quot;sort&quot;],&quot;sortFn&quot;:&quot;(a,b)=>!a.isFolder&amp;&amp;!b.isFolder||a.isFolder&amp;&amp;b.isFolder?a.displayName.localeCompare(b.displayName,void 0,{numeric:!0,sensitivity:\&quot;base\&quot;}):!a.isFolder&amp;&amp;b.isFolder?1:-1&quot;,&quot;filterFn&quot;:&quot;node=>node.slugSegment!==\&quot;tags\&quot;&quot;,&quot;mapFn&quot;:&quot;node=>node&quot;}"><button type="button" class="explorer-toggle mobile-explorer hide-until-loaded" data-mobile="true" aria-controls="explorer-292"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-menu"><line x1="4" x2="20" y1="12" y2="12"></line><line x1="4" x2="20" y1="6" y2="6"></line><line x1="4" x2="20" y1="18" y2="18"></line></svg></button><button type="button" class="title-button explorer-toggle desktop-explorer" data-mobile="false" aria-expanded="true"><h2>Explorer</h2><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="explorer-292" class="explorer-content" aria-expanded="false" role="group"><ul class="explorer-ul overflow" id="list-0"><li class="overflow-end"></li></ul></div><template id="template-file"><li><a href="#"></a></li></template><template id="template-folder"><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div><button class="folder-button"><span class="folder-title"></span></button></div></div><div class="folder-outer"><ul class="content"></ul></div></li></template></div></div><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container" aria-label="breadcrumbs"><div class="breadcrumb-element"><a href="./">Home</a><p> ❯ </p></div><div class="breadcrumb-element"><a href>Volunteer Record Request Tasks</a></div></nav><h1 class="article-title">Volunteer Record Request Tasks</h1><p show-comma="true" class="content-meta"><time datetime="2026-06-03T00:00:00.000Z">Jun 03, 2026</time><span>17 min read</span></p><ul class="tags"><li><a href="./tags/copley-family" class="internal tag-link">copley-family</a></li><li><a href="./tags/volunteer" class="internal tag-link">volunteer</a></li><li><a href="./tags/records" class="internal tag-link">records</a></li><li><a href="./tags/genealogy" class="internal tag-link">genealogy</a></li></ul></div></div><article class="popover-hint"><h1 id="volunteer-record-request-tasks">Volunteer Record Request Tasks<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#volunteer-record-request-tasks" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>This page is for relatives and volunteers who want to help verify the Copley family history by requesting records from courthouses, archives, churches, libraries, and cemeteries.</p>
+<p>Before sending a request, please email <strong>Zach Copley</strong> at <code>zach@copley.name</code> or <strong>Tom Copley</strong> at <code>tcopley@protonmail.com</code> with the task ID you want to take. That prevents duplicate letters to the same office.</p>
+<h2 id="how-to-help">How To Help<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#how-to-help" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<ol>
+<li>Pick one task below.</li>
+<li>Email Zach or Tom with the task ID, for example <code>VR-01 Luke Murray bond</code>.</li>
+<li>Verify the office address, email, web form, or fax number on the official website before sending.</li>
+<li>Send the request.</li>
+<li>Save a copy of what you sent.</li>
+<li>When you receive a response, forward the response, scans, invoice, or negative result to Zach and Tom.</li>
+</ol>
+<p>Do not pay large fees without checking first. Small copy fees are normal, but anything above about $25 should be approved before payment.</p>
+<h2 id="how-to-report-results">How To Report Results<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#how-to-report-results" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Please send results to:</p>
+<ul>
+<li>Zach Copley: <code>zach@copley.name</code></li>
+<li>Tom Copley: <code>tcopley@protonmail.com</code></li>
+</ul>
+<p>Use this subject line format:</p>
+<figure data-rehype-pretty-code-figure><pre tabindex="0" data-language="text" data-theme="github-light github-dark"><code data-language="text" data-theme="github-light github-dark" style="display:grid;"><span data-line><span>Copley volunteer result - [TASK ID] - [record office]</span></span></code></pre></figure>
+<p>Please include:</p>
+<figure data-rehype-pretty-code-figure><pre tabindex="0" data-language="text" data-theme="github-light github-dark"><code data-language="text" data-theme="github-light github-dark" style="display:grid;"><span data-line><span>Task ID:</span></span>
+<span data-line><span>Your name:</span></span>
+<span data-line><span>Date request sent:</span></span>
+<span data-line><span>Office / archive / church contacted:</span></span>
+<span data-line><span>Contact method: mail / email / web form / fax / phone</span></span>
+<span data-line><span>Fee paid or quoted:</span></span>
+<span data-line><span>Response date:</span></span>
+<span data-line><span>Result: found / not found / pending / needs payment / referred elsewhere</span></span>
+<span data-line><span>Records received:</span></span>
+<span data-line><span>Exact citation, if given:</span></span>
+<span data-line><span>Names, dates, places, witnesses, sponsors, neighbors, or relationships found:</span></span>
+<span data-line><span>Your notes:</span></span></code></pre></figure>
+<p>If a record is found, please send the scan or photo plus any envelope, cover note, invoice, or citation page. If nothing is found, the negative response is still useful evidence.</p>
+<hr/>
+<h2 id="highest-priority-tasks">Highest Priority Tasks<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#highest-priority-tasks" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>ID</th><th>Task</th><th>Why It Matters</th><th>Where To Send</th></tr></thead><tbody><tr><td>VR-01</td><td>Luke Murray / Anne Loghan 1854 marriage bond or consent</td><td>Could name a bondsman, guardian, parent, or witness for the Murray Settlement question</td><td>Lewis County Circuit Clerk</td></tr><tr><td>VR-02</td><td>Michael Copley Sr. probate order and estate packet</td><td>Could name heirs, sureties, appraisers, Bible evidence, or parentage clues</td><td>Lewis County Clerk or Circuit Clerk</td></tr><tr><td>VR-03</td><td>Michael / Patrick Copley naturalization records</td><td>Could name birthplace, arrival, court, or origin details</td><td>Lewis County court offices / WV Archives</td></tr><tr><td>VR-04</td><td>St. Michael’s / early Catholic sacramental records</td><td>Could identify marriages, baptisms, sponsors, and settlement-family links</td><td>Diocese / parish archive</td></tr><tr><td>VR-05</td><td>Ann Munday / Kinawley tithe and land records</td><td>Could test Munday / Monday / Mundy vs. Murray in Kinawley</td><td>PRONI or Irish archive contact</td></tr><tr><td>VR-06</td><td>Copley No. 1 oil leases, royalties, and John Copley estate</td><td>Could prove whether oil income affected family finances and education</td><td>Lewis County Clerk</td></tr><tr><td>VR-07</td><td>Mary Copely Giblin / Iowa branch records</td><td>Could connect the Iowa Copely branch to Michael Copley Sr.</td><td>Crawford County / cemetery / church</td></tr><tr><td>VR-08</td><td>Benjamin Partlow Revolutionary pension and proof chain</td><td>Could verify the Partlow Revolutionary line</td><td>NARA / county offices</td></tr><tr><td>VR-09</td><td>Staunton-Parkersburg Turnpike / Irish labor records</td><td>Could test the infrastructure-labor origin story</td><td>WV State Archives</td></tr></tbody></table></div>
+<hr/>
+<h2 id="vr-01-luke-murray--anne-loghan-marriage-bond">VR-01: Luke Murray / Anne Loghan Marriage Bond<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#vr-01-luke-murray--anne-loghan-marriage-bond" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p><strong>Claim tested:</strong> Whether the 1854 Lewis County marriage of <a href="./People/Luke-Murray" class="internal alias" data-slug="People/Luke-Murray">Luke Murray</a> and Anne Loghan has a surviving bond, consent paper, surety record, or bond-book entry.</p>
+<p><strong>Best recipient:</strong> Lewis County Circuit Clerk’s Office, Beth Burkhart, Circuit Clerk, Lewis County Courthouse Annex, 117 Court Avenue, Weston, WV 26452. Phone 304-269-8210. Fax 304-269-8249.</p>
+<p><strong>Secondary recipient if referred:</strong> Lewis County Clerk, 110 Center Avenue, Weston, WV 26452. Phone 304-269-8215.</p>
+<figure data-rehype-pretty-code-figure><pre tabindex="0" data-language="text" data-theme="github-light github-dark"><code data-language="text" data-theme="github-light github-dark" style="display:grid;"><span data-line><span>[Your Name]</span></span>
+<span data-line><span>[Your Mailing Address]</span></span>
+<span data-line><span>[Your Email]</span></span>
+<span data-line><span>[Your Phone]</span></span>
+<span data-line><span>[Date]</span></span>
+<span data-line> </span>
+<span data-line><span>Lewis County Circuit Clerk's Office</span></span>
+<span data-line><span>Attention: Beth Burkhart, Circuit Clerk</span></span>
+<span data-line><span>Lewis County Courthouse Annex</span></span>
+<span data-line><span>117 Court Avenue</span></span>
+<span data-line><span>Weston, WV 26452</span></span>
+<span data-line> </span>
+<span data-line><span>Re: Marriage bond / consent search request - Luke Murray and Anne Loghan, 30 Dec 1854</span></span>
+<span data-line> </span>
+<span data-line><span>Dear Ms. Burkhart,</span></span>
+<span data-line> </span>
+<span data-line><span>I am researching the 1854 Lewis County marriage record for Luke Murray and Anne Loghan and would like to know whether any original marriage bond, consent paper, surety document, or bond-book entry survives for this couple.</span></span>
+<span data-line> </span>
+<span data-line><span>Known register record:</span></span>
+<span data-line> </span>
+<span data-line><span>- Groom: Luke Murray</span></span>
+<span data-line><span>- Bride: Anne Loghan, also possibly Logan or Lohan</span></span>
+<span data-line><span>- Date: 30 December 1854</span></span>
+<span data-line><span>- County: Lewis County, Virginia, now West Virginia</span></span>
+<span data-line><span>- Register location: Lewis County marriage register page 75</span></span>
+<span data-line><span>- WV Culture image: Film 825111, Image 00184</span></span>
+<span data-line><span>- FamilySearch DGS for the register: 4130803</span></span>
+<span data-line><span>- Register text: license issued by Jno Monroe, Clerk</span></span>
+<span data-line> </span>
+<span data-line><span>The register entry does not name a bondsman, surety, witnesses, parents, guardian, consent giver, or officiant.</span></span>
+<span data-line> </span>
+<span data-line><span>I have also checked online WV Culture / FamilySearch paths, surrounding Film 825111 frames, FamilySearch Film 825112 / DGS 4130804, and Robert B. Smith's compiled index, &quot;Marriage bonds and marriage records 1816-1865, Lewis County, (West) Virginia,&quot; Film 1598435 Item 6 / DGS 7949996. No Luke Murray / Anne Loghan entry was found under Murray / Murry / Murrey or Loghan / Logan / Lohan variants.</span></span>
+<span data-line> </span>
+<span data-line><span>Would your office please check whether any original marriage bond, consent paper, surety document, or bond-book entry survives for Luke Murray and Anne Loghan around 30 December 1854?</span></span>
+<span data-line> </span>
+<span data-line><span>If bond books survive for the period, please check Book 5, Book 6, Book 7, Book 8, or any Lewis County marriage-bond series covering December 1854 for Murray / Murry / Murrey and Loghan / Logan / Lohan variants.</span></span>
+<span data-line> </span>
+<span data-line><span>If a record is found, I would be grateful for the exact names as written, bond or marriage date, bondsman / surety, parents, guardian, consent giver, book and page, and instructions for ordering a copy.</span></span>
+<span data-line> </span>
+<span data-line><span>If no record is found, a brief note describing the books or series checked would be very helpful.</span></span>
+<span data-line> </span>
+<span data-line><span>Please let me know any copy fee and preferred payment method before making copies.</span></span>
+<span data-line> </span>
+<span data-line><span>Thank you for your time and assistance.</span></span>
+<span data-line> </span>
+<span data-line><span>Sincerely,</span></span>
+<span data-line> </span>
+<span data-line><span>[Your Name]</span></span></code></pre></figure>
+<h2 id="vr-02-michael-copley-sr-probate-order-and-estate-packet">VR-02: Michael Copley Sr. Probate Order and Estate Packet<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#vr-02-michael-copley-sr-probate-order-and-estate-packet" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p><strong>Claim tested:</strong> Whether <a href="./People/Michael-Copley-Sr" class="internal alias" data-slug="People/Michael-Copley-Sr">Michael Copley Sr.</a> left estate records beyond the will that name heirs, sureties, appraisers, land divisions, Bible evidence, or parents.</p>
+<p><strong>Best recipient:</strong> Start with Lewis County Clerk, 110 Center Avenue, Weston, WV 26452. If referred, contact the Lewis County Circuit Clerk.</p>
+<figure data-rehype-pretty-code-figure><pre tabindex="0" data-language="text" data-theme="github-light github-dark"><code data-language="text" data-theme="github-light github-dark" style="display:grid;"><span data-line><span>[Your Name]</span></span>
+<span data-line><span>[Your Mailing Address]</span></span>
+<span data-line><span>[Your Email]</span></span>
+<span data-line><span>[Your Phone]</span></span>
+<span data-line><span>[Date]</span></span>
+<span data-line> </span>
+<span data-line><span>Lewis County Clerk's Office</span></span>
+<span data-line><span>110 Center Avenue</span></span>
+<span data-line><span>Weston, WV 26452</span></span>
+<span data-line> </span>
+<span data-line><span>Re: Probate and estate records request - Michael Copley, died 19 Jan 1897</span></span>
+<span data-line> </span>
+<span data-line><span>Dear Clerk,</span></span>
+<span data-line> </span>
+<span data-line><span>I am researching Michael Copley of Lewis County, West Virginia, who died on 19 January 1897 at or near Sand Fork.</span></span>
+<span data-line> </span>
+<span data-line><span>His will has been located in the FamilySearch collection &quot;West Virginia Will Books, 1756-1971&quot;:</span></span>
+<span data-line> </span>
+<span data-line><span>- Name: Michael Copley, also indexed in some records as Micheal Copley</span></span>
+<span data-line><span>- Will written: 2 February 1893</span></span>
+<span data-line><span>- Will probated: 4 March 1897</span></span>
+<span data-line><span>- Will Book: Lewis County Will Book C, pages 350-352, indexed page 351</span></span>
+<span data-line><span>- FamilySearch collection ID: 1909099</span></span>
+<span data-line><span>- Film / DGS: Film 819929, DGS 4715576</span></span>
+<span data-line><span>- Probate certificate: cites Order Book No. 6, page 496</span></span>
+<span data-line> </span>
+<span data-line><span>I would like to request a search for:</span></span>
+<span data-line> </span>
+<span data-line><span>1. The probate order in Order Book No. 6, page 496.</span></span>
+<span data-line><span>2. Any estate settlement, appraisement, inventory, administrator's bond, sale bill, personal-property account, estate packet, or related probate file for Michael Copley after March 1897.</span></span>
+<span data-line><span>3. Any index entries under Copley, Copely, or Coopley.</span></span>
+<span data-line> </span>
+<span data-line><span>The will names son John Copley as executor / administrator and names children Annie, Bridget, Margaret, Sarah, Thomas, Catherine Hannon, and likely Mary Quinn. I am especially interested in any record that names heirs, relationships, appraisers, sureties, land divisions, family Bible evidence, parents, or birthplace.</span></span>
+<span data-line> </span>
+<span data-line><span>If records are found, please let me know the book, page, date, number of pages, copy fee, and preferred payment method.</span></span>
+<span data-line> </span>
+<span data-line><span>If your office does not hold these records, could you please advise whether they are held by the Circuit Clerk, West Virginia State Archives, or another repository?</span></span>
+<span data-line> </span>
+<span data-line><span>Thank you for your assistance.</span></span>
+<span data-line> </span>
+<span data-line><span>Sincerely,</span></span>
+<span data-line> </span>
+<span data-line><span>[Your Name]</span></span></code></pre></figure>
+<h2 id="vr-03-michael-and-patrick-copley-naturalization-records">VR-03: Michael and Patrick Copley Naturalization Records<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#vr-03-michael-and-patrick-copley-naturalization-records" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p><strong>Claim tested:</strong> Whether naturalization records identify Michael or <a href="./People/Patrick-Copley" class="internal alias" data-slug="People/Patrick-Copley">Patrick Copley</a> with more precise Irish birthplace, arrival, oath date, or court details.</p>
+<p><strong>Best recipients:</strong> Lewis County Clerk, Lewis County Circuit Clerk, and West Virginia State Archives. Verify which office holds county-court naturalization records before sending.</p>
+<figure data-rehype-pretty-code-figure><pre tabindex="0" data-language="text" data-theme="github-light github-dark"><code data-language="text" data-theme="github-light github-dark" style="display:grid;"><span data-line><span>[Your Name]</span></span>
+<span data-line><span>[Your Mailing Address]</span></span>
+<span data-line><span>[Your Email]</span></span>
+<span data-line><span>[Your Phone]</span></span>
+<span data-line><span>[Date]</span></span>
+<span data-line> </span>
+<span data-line><span>[Office Name]</span></span>
+<span data-line><span>[Office Address]</span></span>
+<span data-line> </span>
+<span data-line><span>Re: Naturalization record search - Michael Copley / Patrick Copley, Lewis County, WV</span></span>
+<span data-line> </span>
+<span data-line><span>Dear Records Staff,</span></span>
+<span data-line> </span>
+<span data-line><span>I am researching Irish-born Copley / Copely immigrants who settled in Lewis County, Virginia / West Virginia in the 1840s.</span></span>
+<span data-line> </span>
+<span data-line><span>Please advise whether your office holds naturalization declarations, petitions, oath books, court minutes, or indexes for Lewis County covering roughly 1838-1897.</span></span>
+<span data-line> </span>
+<span data-line><span>Names and variants to search:</span></span>
+<span data-line> </span>
+<span data-line><span>- Michael Copley, also Michael Copely, Micheal Copley, Coopley</span></span>
+<span data-line><span>- Patrick Copley, also Patrick Copely, Pat Copely, Coopley</span></span>
+<span data-line> </span>
+<span data-line><span>Known context:</span></span>
+<span data-line> </span>
+<span data-line><span>- Michael Copley was born about 1813 in County Roscommon, Ireland, and died in Lewis County on 19 January 1897.</span></span>
+<span data-line><span>- Patrick Copley was born in Ireland and appears with Michael in the 1838 New York passenger-list context and later Lewis County land records.</span></span>
+<span data-line><span>- Michael and Patrick Copley purchased Lewis County land from Weeden Hoffman in 1843.</span></span>
+<span data-line> </span>
+<span data-line><span>I am looking for any declaration of intention, petition for naturalization, oath, court order, index entry, or minute-book reference naming either man.</span></span>
+<span data-line> </span>
+<span data-line><span>If found, please provide the exact name, date, court, book and page, birthplace if stated, arrival information if stated, witnesses, and copy-order instructions.</span></span>
+<span data-line> </span>
+<span data-line><span>If no record is found, a brief note identifying which indexes or books were checked would be very helpful.</span></span>
+<span data-line> </span>
+<span data-line><span>Thank you for your assistance.</span></span>
+<span data-line> </span>
+<span data-line><span>Sincerely,</span></span>
+<span data-line> </span>
+<span data-line><span>[Your Name]</span></span></code></pre></figure>
+<h2 id="vr-04-st-michaels-and-early-catholic-records">VR-04: St. Michael’s and Early Catholic Records<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#vr-04-st-michaels-and-early-catholic-records" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p><strong>Claim tested:</strong> Whether early Catholic sacramental records identify Michael Copley, Ann Munday, their children’s baptisms, marriage sponsors, or Murray / Dolan / Hannon / Gillooly settlement links.</p>
+<p><strong>Best recipient:</strong> The parish or diocesan archive responsible for historic Catholic records for St. Michael’s / St. Bernard’s / Lewis County, WV. Verify current parish and Diocese of Wheeling-Charleston record-request instructions before sending.</p>
+<figure data-rehype-pretty-code-figure><pre tabindex="0" data-language="text" data-theme="github-light github-dark"><code data-language="text" data-theme="github-light github-dark" style="display:grid;"><span data-line><span>[Your Name]</span></span>
+<span data-line><span>[Your Mailing Address]</span></span>
+<span data-line><span>[Your Email]</span></span>
+<span data-line><span>[Your Phone]</span></span>
+<span data-line><span>[Date]</span></span>
+<span data-line> </span>
+<span data-line><span>[Parish or Diocesan Archive Name]</span></span>
+<span data-line><span>[Address or web-form contact]</span></span>
+<span data-line> </span>
+<span data-line><span>Re: Early Lewis County Catholic records - Copley / Munday / Murray families</span></span>
+<span data-line> </span>
+<span data-line><span>Dear Archivist,</span></span>
+<span data-line> </span>
+<span data-line><span>I am researching Irish Catholic families in Lewis County, West Virginia, especially the Copley family near Weston, Cove Lick, Camden, Loveberry Ridge, St. Michael's, and St. Bernard's.</span></span>
+<span data-line> </span>
+<span data-line><span>Could you please advise whether sacramental registers or parish histories survive for the Lewis County Catholic community before about 1875?</span></span>
+<span data-line> </span>
+<span data-line><span>Priority people:</span></span>
+<span data-line> </span>
+<span data-line><span>- Michael Copley / Copely, born about 1813 in County Roscommon, Ireland, died 19 January 1897 in Lewis County</span></span>
+<span data-line><span>- Ann / Anna Copley, recorded in family tradition as Ann Munday or Ann Elizabeth Munday</span></span>
+<span data-line><span>- Children: Mary Copley Quinn, John Copley, Catherine Copley Hannon, Anne Copley, Bridget Copley Gillooly, Margaret Copley, Thomas Copley, Sarah Copley</span></span>
+<span data-line> </span>
+<span data-line><span>Priority records:</span></span>
+<span data-line> </span>
+<span data-line><span>- Marriage of Michael Copley and Ann / Anna, probably before the 1840s</span></span>
+<span data-line><span>- Baptisms of their children, especially sponsors / godparents</span></span>
+<span data-line><span>- Burial record for Michael Copley in January 1897</span></span>
+<span data-line><span>- Burial or death record for Ann / Anna Copley</span></span>
+<span data-line><span>- Any early parishioner list, donor list, cemetery register, or history naming Copley, Copely, Munday, Murray, Dolan, Hannon, Hanley, Gillooly, Mullooly, Reynolds, or Quinn</span></span>
+<span data-line> </span>
+<span data-line><span>The main research questions are Ann's maiden surname, Michael's Irish origin and parents, and the family network that formed the Lewis County Irish Catholic settlement.</span></span>
+<span data-line> </span>
+<span data-line><span>Please let me know whether records exist, whether staff lookup or paid research is available, and what citation or copy options are possible.</span></span>
+<span data-line> </span>
+<span data-line><span>Thank you for your assistance.</span></span>
+<span data-line> </span>
+<span data-line><span>Sincerely,</span></span>
+<span data-line> </span>
+<span data-line><span>[Your Name]</span></span></code></pre></figure>
+<h2 id="vr-05-ann-munday--kinawley-tithe-and-land-records">VR-05: Ann Munday / Kinawley Tithe and Land Records<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#vr-05-ann-munday--kinawley-tithe-and-land-records" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p><strong>Claim tested:</strong> Whether unindexed Kinawley records support Ann’s recorded Munday / Monday / Mundy surname, or whether Murray appears only as a separate neighborhood clue.</p>
+<p><strong>Best recipient:</strong> PRONI or another repository holding Kinawley, County Fermanagh tithe, church, estate, or land records. Verify current PRONI enquiry instructions before sending.</p>
+<figure data-rehype-pretty-code-figure><pre tabindex="0" data-language="text" data-theme="github-light github-dark"><code data-language="text" data-theme="github-light github-dark" style="display:grid;"><span data-line><span>[Your Name]</span></span>
+<span data-line><span>[Your Mailing Address]</span></span>
+<span data-line><span>[Your Email]</span></span>
+<span data-line><span>[Your Phone]</span></span>
+<span data-line><span>[Date]</span></span>
+<span data-line> </span>
+<span data-line><span>[Repository Name]</span></span>
+<span data-line><span>[Address or enquiry form]</span></span>
+<span data-line> </span>
+<span data-line><span>Re: Kinawley parish Tithe Applotment query - Murray / Munday / settlement surnames</span></span>
+<span data-line> </span>
+<span data-line><span>Dear Records Staff,</span></span>
+<span data-line> </span>
+<span data-line><span>I am researching Kinawley parish, County Fermanagh, for an Irish-American family history project. Indexed Tithe Applotment searches through the National Archives of Ireland and Ancestry appear not to include Kinawley parish coverage, so I am trying to determine whether unindexed tithe, estate, land, or parish material survives.</span></span>
+<span data-line> </span>
+<span data-line><span>Could you please advise whether your repository has Tithe Applotment material for Kinawley parish, County Fermanagh, and whether any index, scan, microfilm, staff lookup, or paid research path is available?</span></span>
+<span data-line> </span>
+<span data-line><span>Priority surnames:</span></span>
+<span data-line> </span>
+<span data-line><span>- Munday / Monday / Mundy</span></span>
+<span data-line><span>- Murray / Murry / Murrey</span></span>
+<span data-line><span>- Dolan</span></span>
+<span data-line><span>- Hanley</span></span>
+<span data-line><span>- Gillooly / Gilhooly</span></span>
+<span data-line><span>- Mullooly</span></span>
+<span data-line><span>- Hannon</span></span>
+<span data-line><span>- Reynolds</span></span>
+<span data-line><span>- Mulroney</span></span>
+<span data-line><span>- Mahon</span></span>
+<span data-line> </span>
+<span data-line><span>The key research question is whether direct records can identify Ann Copley's recorded Munday surname, related variants, or any independent evidence connecting her to a Murray household. Current family review treats the Ann-as-Murray idea as unproven unless a direct record proves it.</span></span>
+<span data-line> </span>
+<span data-line><span>I would appreciate any catalogue references, access instructions, copy options, or advice about related Kinawley parish land, tithe, estate, or church material.</span></span>
+<span data-line> </span>
+<span data-line><span>Thank you for your assistance.</span></span>
+<span data-line> </span>
+<span data-line><span>Sincerely,</span></span>
+<span data-line> </span>
+<span data-line><span>[Your Name]</span></span></code></pre></figure>
+<h2 id="vr-06-copley-no-1-oil-leases-royalties-and-john-copley-estate">VR-06: Copley No. 1 Oil Leases, Royalties, and John Copley Estate<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#vr-06-copley-no-1-oil-leases-royalties-and-john-copley-estate" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p><strong>Claim tested:</strong> Whether the 1900 <a href="./Topics/1900-Copley-Oil-Strike" class="internal alias" data-slug="Topics/1900-Copley-Oil-Strike">Copley No. 1 oil strike</a> produced lease, royalty, title-chain, mineral-rights, probate, or estate records that document family finances.</p>
+<p><strong>Best recipient:</strong> Lewis County Clerk for deeds, leases, title-chain records, and probate material. If needed, ask the office where John Copley’s 1925 probate is held.</p>
+<figure data-rehype-pretty-code-figure><pre tabindex="0" data-language="text" data-theme="github-light github-dark"><code data-language="text" data-theme="github-light github-dark" style="display:grid;"><span data-line><span>[Your Name]</span></span>
+<span data-line><span>[Your Mailing Address]</span></span>
+<span data-line><span>[Your Email]</span></span>
+<span data-line><span>[Your Phone]</span></span>
+<span data-line><span>[Date]</span></span>
+<span data-line> </span>
+<span data-line><span>Lewis County Clerk's Office</span></span>
+<span data-line><span>110 Center Avenue</span></span>
+<span data-line><span>Weston, WV 26452</span></span>
+<span data-line> </span>
+<span data-line><span>Re: Lewis County oil lease / royalty / probate lookup - Copley No. 1, 1899-1925</span></span>
+<span data-line> </span>
+<span data-line><span>Dear Clerk,</span></span>
+<span data-line> </span>
+<span data-line><span>I am researching the Copley No. 1 oil strike on Copley family land in Lewis County around 1900. I am looking for land, lease, royalty, mineral-rights, title-chain, probate, or estate records that may document John Copley's property and any oil-related income or transfers.</span></span>
+<span data-line> </span>
+<span data-line><span>Could you please advise how to search or request copies for:</span></span>
+<span data-line> </span>
+<span data-line><span>- Oil and gas leases involving John Copley or Copley family land, roughly 1899-1925</span></span>
+<span data-line><span>- Royalty assignments or mineral-rights records</span></span>
+<span data-line><span>- Title-chain records for the farm containing Copley No. 1</span></span>
+<span data-line><span>- Probate or estate records for John Copley, died 6 September 1925</span></span>
+<span data-line><span>- Any index entries under Copley / Copely / Coopley surname variants</span></span>
+<span data-line> </span>
+<span data-line><span>For any matching record, I am hoping to capture book and page, date, parties, land description, lease terms, royalty terms, witnesses, and related filings.</span></span>
+<span data-line> </span>
+<span data-line><span>Please let me know what indexes should be searched, whether staff lookup is available, and what copy fees apply.</span></span>
+<span data-line> </span>
+<span data-line><span>Thank you for your assistance.</span></span>
+<span data-line> </span>
+<span data-line><span>Sincerely,</span></span>
+<span data-line> </span>
+<span data-line><span>[Your Name]</span></span></code></pre></figure>
+<h2 id="vr-07-mary-copely-giblin-and-iowa-copely-branch">VR-07: Mary Copely Giblin and Iowa Copely Branch<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#vr-07-mary-copely-giblin-and-iowa-copely-branch" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p><strong>Claim tested:</strong> Whether Mary Copely Giblin of Iowa was a sibling or close relative of Michael Copley Sr. and whether Iowa records name parents, siblings, or County Roscommon origins.</p>
+<p><strong>Best recipients:</strong> Crawford County, Iowa courthouse; local genealogical society; Mitchellville Cemetery contact; relevant Catholic parish or diocesan archive.</p>
+<figure data-rehype-pretty-code-figure><pre tabindex="0" data-language="text" data-theme="github-light github-dark"><code data-language="text" data-theme="github-light github-dark" style="display:grid;"><span data-line><span>[Your Name]</span></span>
+<span data-line><span>[Your Mailing Address]</span></span>
+<span data-line><span>[Your Email]</span></span>
+<span data-line><span>[Your Phone]</span></span>
+<span data-line><span>[Date]</span></span>
+<span data-line> </span>
+<span data-line><span>[Office / Cemetery / Society Name]</span></span>
+<span data-line><span>[Address or email]</span></span>
+<span data-line> </span>
+<span data-line><span>Re: Copley / Copely family record request - Crawford County Iowa / Mitchellville Cemetery</span></span>
+<span data-line> </span>
+<span data-line><span>Dear Records Staff,</span></span>
+<span data-line> </span>
+<span data-line><span>I am researching Mary Copely Giblin, born in County Roscommon, Ireland, and later associated with Crawford County, Iowa. I am trying to document the Copley / Copely descendants and determine whether Mary was close kin to Michael Copley Sr. of Lewis County, West Virginia.</span></span>
+<span data-line> </span>
+<span data-line><span>Could you please advise whether your records include cemetery, burial, probate, obituary, church, or local-history entries for Copley / Copely family members, especially:</span></span>
+<span data-line> </span>
+<span data-line><span>- Mary Copely Giblin</span></span>
+<span data-line><span>- Stephen Donald Copley</span></span>
+<span data-line><span>- Fern Loretta Copley MayBee</span></span>
+<span data-line><span>- Merton Dale Copley</span></span>
+<span data-line><span>- A.B. Copley</span></span>
+<span data-line><span>- George B. Copley</span></span>
+<span data-line><span>- Lavonne Copley</span></span>
+<span data-line><span>- Nellie V. Copley</span></span>
+<span data-line> </span>
+<span data-line><span>I am especially interested in full inscriptions, dates, family relationships, parents, birthplaces, spouses, obituaries, probate files, cemetery-lot records, and source citations.</span></span>
+<span data-line> </span>
+<span data-line><span>Please let me know whether records exist, what fees apply, and how copies may be ordered.</span></span>
+<span data-line> </span>
+<span data-line><span>Thank you for your assistance.</span></span>
+<span data-line> </span>
+<span data-line><span>Sincerely,</span></span>
+<span data-line> </span>
+<span data-line><span>[Your Name]</span></span></code></pre></figure>
+<h2 id="vr-08-benjamin-partlow-revolutionary-pension-and-proof-chain">VR-08: Benjamin Partlow Revolutionary Pension and Proof Chain<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#vr-08-benjamin-partlow-revolutionary-pension-and-proof-chain" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p><strong>Claim tested:</strong> Whether <a href="./People/Benjamin-Partlow" class="internal alias" data-slug="People/Benjamin-Partlow">Benjamin Partlow</a> can be proven as the Revolutionary ancestor in the Partlow line.</p>
+<p><strong>Best recipients:</strong> NARA for the full pension file; county clerks or archives in the relevant Virginia and Illinois counties for marriage, probate, land, and tax records.</p>
+<figure data-rehype-pretty-code-figure><pre tabindex="0" data-language="text" data-theme="github-light github-dark"><code data-language="text" data-theme="github-light github-dark" style="display:grid;"><span data-line><span>[Your Name]</span></span>
+<span data-line><span>[Your Mailing Address]</span></span>
+<span data-line><span>[Your Email]</span></span>
+<span data-line><span>[Your Phone]</span></span>
+<span data-line><span>[Date]</span></span>
+<span data-line> </span>
+<span data-line><span>[Repository Name]</span></span>
+<span data-line><span>[Address or web form]</span></span>
+<span data-line> </span>
+<span data-line><span>Re: Benjamin Partlow Revolutionary War pension / family proof request</span></span>
+<span data-line> </span>
+<span data-line><span>Dear Records Staff,</span></span>
+<span data-line> </span>
+<span data-line><span>I am researching the Partlow family line connected to Marion Elizabeth Partlow Copley. I am trying to verify the proposed line from Marion Elizabeth Partlow back to Revolutionary War veteran Benjamin Partlow.</span></span>
+<span data-line> </span>
+<span data-line><span>The working line is:</span></span>
+<span data-line> </span>
+<span data-line><span>- Marion Elizabeth Partlow Copley</span></span>
+<span data-line><span>- Nollie Franklin / Frank Partlow</span></span>
+<span data-line><span>- Marion McDonald / M. Partlow</span></span>
+<span data-line><span>- John H. / John Halleck / Hallick Partlow</span></span>
+<span data-line><span>- Jacob Partlow / Jacob Newton Partlow</span></span>
+<span data-line><span>- Benjamin Partlow</span></span>
+<span data-line> </span>
+<span data-line><span>Could you please advise whether your records include any of the following:</span></span>
+<span data-line> </span>
+<span data-line><span>- Full Revolutionary War pension file for Benjamin Partlow</span></span>
+<span data-line><span>- Probate or estate records for Benjamin Partlow or Jacob Partlow</span></span>
+<span data-line><span>- Land or tax records connecting Jacob Partlow to Benjamin Partlow</span></span>
+<span data-line><span>- Records proving John H. Partlow as son of Jacob Partlow</span></span>
+<span data-line><span>- Marriage record for Nollie Franklin / Frank Partlow and Alice Rude / Mary Alice Rude, reportedly 10 June 1900 in Clark County, Illinois</span></span>
+<span data-line> </span>
+<span data-line><span>I am especially interested in records that name spouses, children, heirs, parents, residences, military service, land descriptions, witnesses, or probate relationships.</span></span>
+<span data-line> </span>
+<span data-line><span>Please let me know the available record titles, copy fees, and ordering instructions.</span></span>
+<span data-line> </span>
+<span data-line><span>Thank you for your assistance.</span></span>
+<span data-line> </span>
+<span data-line><span>Sincerely,</span></span>
+<span data-line> </span>
+<span data-line><span>[Your Name]</span></span></code></pre></figure>
+<h2 id="vr-09-staunton-parkersburg-turnpike-and-irish-labor-records">VR-09: Staunton-Parkersburg Turnpike and Irish Labor Records<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#vr-09-staunton-parkersburg-turnpike-and-irish-labor-records" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p><strong>Claim tested:</strong> Whether Michael Copley, Patrick Copley, or the Lewis County Irish Catholic settlement network can be connected to turnpike, railroad, contractor, payroll, or infrastructure-labor records.</p>
+<p><strong>Best recipient:</strong> West Virginia State Archives or a local historical repository holding Staunton-Parkersburg Turnpike, Lewis County court, contractor, or road records.</p>
+<figure data-rehype-pretty-code-figure><pre tabindex="0" data-language="text" data-theme="github-light github-dark"><code data-language="text" data-theme="github-light github-dark" style="display:grid;"><span data-line><span>[Your Name]</span></span>
+<span data-line><span>[Your Mailing Address]</span></span>
+<span data-line><span>[Your Email]</span></span>
+<span data-line><span>[Your Phone]</span></span>
+<span data-line><span>[Date]</span></span>
+<span data-line> </span>
+<span data-line><span>[Repository Name]</span></span>
+<span data-line><span>[Address or enquiry form]</span></span>
+<span data-line> </span>
+<span data-line><span>Re: Staunton-Parkersburg Turnpike / Lewis County Irish labor records request</span></span>
+<span data-line> </span>
+<span data-line><span>Dear Archivist,</span></span>
+<span data-line> </span>
+<span data-line><span>I am researching Irish immigrant settlement and labor in Lewis County, Virginia / West Virginia, especially the Copley, Murray, Dolan, Hannon, Gillooly, Hanley, Mullooly, and related Catholic families near Weston, Cove Lick, Camden, and Loveberry Ridge.</span></span>
+<span data-line> </span>
+<span data-line><span>Family history suggests an early infrastructure-labor phase before permanent farming settlement. I am trying to determine whether the stronger local record path is the Staunton-Parkersburg Turnpike, related county road work, contractor records, court orders, payrolls, or other public-works records.</span></span>
+<span data-line> </span>
+<span data-line><span>Could you please advise whether your holdings include any of the following for Lewis County or the Weston area, roughly 1835-1855:</span></span>
+<span data-line> </span>
+<span data-line><span>- Staunton-Parkersburg Turnpike construction, contractor, payroll, or correspondence records</span></span>
+<span data-line><span>- Lewis County road orders, court orders, or claims related to road labor</span></span>
+<span data-line><span>- Contractor records naming Irish laborers or settlement families</span></span>
+<span data-line><span>- Records naming Michael Copley / Copely, Patrick Copley / Copely, Murray / Murry, Dolan, Hannon, Gillooly, Hanley, Mullooly, Reynolds, or Quinn</span></span>
+<span data-line><span>- Finding aids or indexes for turnpike labor, county public works, or early Irish Catholic settlement records</span></span>
+<span data-line> </span>
+<span data-line><span>Please let me know whether staff lookup, finding aids, scans, or copy services are available.</span></span>
+<span data-line> </span>
+<span data-line><span>Thank you for your assistance.</span></span>
+<span data-line> </span>
+<span data-line><span>Sincerely,</span></span>
+<span data-line> </span>
+<span data-line><span>[Your Name]</span></span></code></pre></figure>
+<hr/>
+<h2 id="report-template-for-found-records">Report Template For Found Records<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#report-template-for-found-records" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Use this when sending a result back to Zach and Tom.</p>
+<figure data-rehype-pretty-code-figure><pre tabindex="0" data-language="text" data-theme="github-light github-dark"><code data-language="text" data-theme="github-light github-dark" style="display:grid;"><span data-line><span>Task ID:</span></span>
+<span data-line><span>Record found? yes / no / partial / referred</span></span>
+<span data-line> </span>
+<span data-line><span>Repository:</span></span>
+<span data-line><span>Collection / office:</span></span>
+<span data-line><span>Book / volume:</span></span>
+<span data-line><span>Page:</span></span>
+<span data-line><span>Image number:</span></span>
+<span data-line><span>URL:</span></span>
+<span data-line><span>Date of record:</span></span>
+<span data-line><span>Date copied:</span></span>
+<span data-line> </span>
+<span data-line><span>Person or family:</span></span>
+<span data-line><span>Names exactly as written:</span></span>
+<span data-line><span>Variant spellings:</span></span>
+<span data-line><span>Relationships stated:</span></span>
+<span data-line><span>Birthplace or residence:</span></span>
+<span data-line><span>Witnesses / sponsors / sureties / appraisers:</span></span>
+<span data-line><span>Land description:</span></span>
+<span data-line><span>Money, acreage, or property:</span></span>
+<span data-line> </span>
+<span data-line><span>Short transcript:</span></span>
+<span data-line> </span>
+<span data-line><span>Short interpretation:</span></span>
+<span data-line> </span>
+<span data-line><span>Does this prove, weaken, or leave unresolved the target claim?</span></span>
+<span data-line> </span>
+<span data-line><span>Suggested next step:</span></span></code></pre></figure>
+<h2 id="current-evidence-cautions">Current Evidence Cautions<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#current-evidence-cautions" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<ul>
+<li>Do not report <strong>Sarah Dolan</strong> as proven. The 1897 death register names Michael Copley’s parents as John Copley and Sarah Copley, but no located record gives Sarah’s maiden surname as Dolan.</li>
+<li>Do not report Ann Copley as Murray unless a direct record says so. Munday remains the recorded family surname form.</li>
+<li>Do not treat online family trees as proof unless they cite an original or near-original record.</li>
+<li>A negative result is still useful if the office says exactly what books, indexes, or years were checked.</li>
+</ul></article><hr/><div class="page-footer"></div></div><div class="right sidebar"><div class="graph"><h3>Graph View</h3><div class="graph-outer"><div class="graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:1,&quot;scale&quot;:1.1,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:false,&quot;enableRadial&quot;:false}"></div><button class="global-graph-icon" aria-label="Global Graph"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 55 55" fill="currentColor" xml:space="preserve"><path d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17
+                s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4
+                c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562
+                C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829
+                c1.106,0.86,2.44,1.436,3.898,1.619v10.16c-2.833,0.478-5,2.942-5,5.91c0,3.309,2.691,6,6,6s6-2.691,6-6c0-2.967-2.167-5.431-5-5.91
+                v-10.16c1.458-0.183,2.792-0.759,3.898-1.619l7.669,7.669C41.215,39.576,41,40.26,41,41c0,2.206,1.794,4,4,4s4-1.794,4-4
+                s-1.794-4-4-4c-0.74,0-1.424,0.215-2.019,0.567l-7.669-7.669C36.366,28.542,37,26.846,37,25s-0.634-3.542-1.688-4.897l9.665-9.665
+                C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2
+                S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4
+                s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2
+                s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"></path></svg></button></div><div class="global-graph-outer"><div class="global-graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:-1,&quot;scale&quot;:0.9,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.2,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:true,&quot;enableRadial&quot;:true}"></div></div></div><div class="toc desktop-only"><button type="button" class="toc-header" aria-controls="toc-165" aria-expanded="true"><h3>Table of Contents</h3><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><ul id="list-1" class="toc-content overflow"><li class="depth-0"><a href="#volunteer-record-request-tasks" data-for="volunteer-record-request-tasks">Volunteer Record Request Tasks</a></li><li class="depth-1"><a href="#how-to-help" data-for="how-to-help">How To Help</a></li><li class="depth-1"><a href="#how-to-report-results" data-for="how-to-report-results">How To Report Results</a></li><li class="depth-1"><a href="#highest-priority-tasks" data-for="highest-priority-tasks">Highest Priority Tasks</a></li><li class="depth-1"><a href="#vr-01-luke-murray--anne-loghan-marriage-bond" data-for="vr-01-luke-murray--anne-loghan-marriage-bond">VR-01: Luke Murray / Anne Loghan Marriage Bond</a></li><li class="depth-1"><a href="#vr-02-michael-copley-sr-probate-order-and-estate-packet" data-for="vr-02-michael-copley-sr-probate-order-and-estate-packet">VR-02: Michael Copley Sr. Probate Order and Estate Packet</a></li><li class="depth-1"><a href="#vr-03-michael-and-patrick-copley-naturalization-records" data-for="vr-03-michael-and-patrick-copley-naturalization-records">VR-03: Michael and Patrick Copley Naturalization Records</a></li><li class="depth-1"><a href="#vr-04-st-michaels-and-early-catholic-records" data-for="vr-04-st-michaels-and-early-catholic-records">VR-04: St. Michael’s and Early Catholic Records</a></li><li class="depth-1"><a href="#vr-05-ann-munday--kinawley-tithe-and-land-records" data-for="vr-05-ann-munday--kinawley-tithe-and-land-records">VR-05: Ann Munday / Kinawley Tithe and Land Records</a></li><li class="depth-1"><a href="#vr-06-copley-no-1-oil-leases-royalties-and-john-copley-estate" data-for="vr-06-copley-no-1-oil-leases-royalties-and-john-copley-estate">VR-06: Copley No. 1 Oil Leases, Royalties, and John Copley Estate</a></li><li class="depth-1"><a href="#vr-07-mary-copely-giblin-and-iowa-copely-branch" data-for="vr-07-mary-copely-giblin-and-iowa-copely-branch">VR-07: Mary Copely Giblin and Iowa Copely Branch</a></li><li class="depth-1"><a href="#vr-08-benjamin-partlow-revolutionary-pension-and-proof-chain" data-for="vr-08-benjamin-partlow-revolutionary-pension-and-proof-chain">VR-08: Benjamin Partlow Revolutionary Pension and Proof Chain</a></li><li class="depth-1"><a href="#vr-09-staunton-parkersburg-turnpike-and-irish-labor-records" data-for="vr-09-staunton-parkersburg-turnpike-and-irish-labor-records">VR-09: Staunton-Parkersburg Turnpike and Irish Labor Records</a></li><li class="depth-1"><a href="#report-template-for-found-records" data-for="report-template-for-found-records">Report Template For Found Records</a></li><li class="depth-1"><a href="#current-evidence-cautions" data-for="current-evidence-cautions">Current Evidence Cautions</a></li><li class="overflow-end"></li></ul></div><div class="backlinks"><h3>Backlinks</h3><ul id="list-2" class="overflow"><li><a href="./CHANGELOG" class="internal">Changelog</a></li><li><a href="./Home" class="internal">Home</a></li><li><a href="./Research-Priorities-and-Action-Items" class="internal">Research Priorities and Action Items</a></li><li><a href="./Search-Index" class="internal">Search Index</a></li><li><a href="./Sources-and-Evidence-Index" class="internal">Sources and Evidence Index</a></li><li><a href="./" class="internal">Copley Family Research Vault</a></li><li class="overflow-end"></li></ul></div></div><footer class><p>Created with <a href="https://quartz.jzhao.xyz/">Quartz v4.5.2</a> © 2026</p><ul><li><a href="https://github.com/zcopley/copley-family-research">GitHub</a></li><li><a href="mailto:zcopley@gmail.com">Contact</a></li></ul></footer></div></div></body><script type="application/javascript" data-persist="true">function n(){let t=this.parentElement;t.classList.toggle("is-collapsed");let e=t.getElementsByClassName("callout-content")[0];if(!e)return;let l=t.classList.contains("is-collapsed");e.style.gridTemplateRows=l?"0fr":"1fr"}function c(){let t=document.getElementsByClassName("callout is-collapsible");for(let e of t){let l=e.getElementsByClassName("callout-title")[0],s=e.getElementsByClassName("callout-content")[0];if(!l||!s)continue;l.addEventListener("click",n),window.addCleanup(()=>l.removeEventListener("click",n));let o=e.classList.contains("is-collapsed");s.style.gridTemplateRows=o?"0fr":"1fr"}}document.addEventListener("nav",c);
+</script><script type="module" data-persist="true">function E(a,e){if(!a)return;function t(o){o.target===this&&(o.preventDefault(),o.stopPropagation(),e())}function n(o){o.key.startsWith("Esc")&&(o.preventDefault(),e())}a?.addEventListener("click",t),window.addCleanup(()=>a?.removeEventListener("click",t)),document.addEventListener("keydown",n),window.addCleanup(()=>document.removeEventListener("keydown",n))}function f(a){for(;a.firstChild;)a.removeChild(a.firstChild)}var m=class{constructor(e,t){this.container=e;this.content=t;this.setupEventListeners(),this.setupNavigationControls(),this.resetTransform()}isDragging=!1;startPan={x:0,y:0};currentPan={x:0,y:0};scale=1;MIN_SCALE=.5;MAX_SCALE=3;cleanups=[];setupEventListeners(){let e=this.onMouseDown.bind(this),t=this.onMouseMove.bind(this),n=this.onMouseUp.bind(this),o=this.onTouchStart.bind(this),r=this.onTouchMove.bind(this),i=this.onTouchEnd.bind(this),s=this.resetTransform.bind(this);this.container.addEventListener("mousedown",e),document.addEventListener("mousemove",t),document.addEventListener("mouseup",n),this.container.addEventListener("touchstart",o,{passive:!1}),document.addEventListener("touchmove",r,{passive:!1}),document.addEventListener("touchend",i),window.addEventListener("resize",s),this.cleanups.push(()=>this.container.removeEventListener("mousedown",e),()=>document.removeEventListener("mousemove",t),()=>document.removeEventListener("mouseup",n),()=>this.container.removeEventListener("touchstart",o),()=>document.removeEventListener("touchmove",r),()=>document.removeEventListener("touchend",i),()=>window.removeEventListener("resize",s))}cleanup(){for(let e of this.cleanups)e()}setupNavigationControls(){let e=document.createElement("div");e.className="mermaid-controls";let t=this.createButton("+",()=>this.zoom(.1)),n=this.createButton("-",()=>this.zoom(-.1)),o=this.createButton("Reset",()=>this.resetTransform());e.appendChild(n),e.appendChild(o),e.appendChild(t),this.container.appendChild(e)}createButton(e,t){let n=document.createElement("button");return n.textContent=e,n.className="mermaid-control-button",n.addEventListener("click",t),window.addCleanup(()=>n.removeEventListener("click",t)),n}onMouseDown(e){e.button===0&&(this.isDragging=!0,this.startPan={x:e.clientX-this.currentPan.x,y:e.clientY-this.currentPan.y},this.container.style.cursor="grabbing")}onMouseMove(e){this.isDragging&&(e.preventDefault(),this.currentPan={x:e.clientX-this.startPan.x,y:e.clientY-this.startPan.y},this.updateTransform())}onMouseUp(){this.isDragging=!1,this.container.style.cursor="grab"}onTouchStart(e){if(e.touches.length!==1)return;this.isDragging=!0;let t=e.touches[0];this.startPan={x:t.clientX-this.currentPan.x,y:t.clientY-this.currentPan.y}}onTouchMove(e){if(!this.isDragging||e.touches.length!==1)return;e.preventDefault();let t=e.touches[0];this.currentPan={x:t.clientX-this.startPan.x,y:t.clientY-this.startPan.y},this.updateTransform()}onTouchEnd(){this.isDragging=!1}zoom(e){let t=Math.min(Math.max(this.scale+e,this.MIN_SCALE),this.MAX_SCALE),n=this.content.getBoundingClientRect(),o=n.width/2,r=n.height/2,i=t-this.scale;this.currentPan.x-=o*i,this.currentPan.y-=r*i,this.scale=t,this.updateTransform()}updateTransform(){this.content.style.transform=`translate(${this.currentPan.x}px, ${this.currentPan.y}px) scale(${this.scale})`}resetTransform(){let t=this.content.querySelector("svg").getBoundingClientRect(),n=t.width/this.scale,o=t.height/this.scale;this.scale=1,this.currentPan={x:(this.container.clientWidth-n)/2,y:(this.container.clientHeight-o)/2},this.updateTransform()}},T=["--secondary","--tertiary","--gray","--light","--lightgray","--highlight","--dark","--darkgray","--codeFont"],y;document.addEventListener("nav",async()=>{let e=document.querySelector(".center").querySelectorAll("code.mermaid");if(e.length===0)return;y||=await import("https://cdnjs.cloudflare.com/ajax/libs/mermaid/11.4.0/mermaid.esm.min.mjs");let t=y.default,n=new WeakMap;for(let r of e)n.set(r,r.innerText);async function o(){for(let s of e){s.removeAttribute("data-processed");let c=n.get(s);c&&(s.innerHTML=c)}let r=T.reduce((s,c)=>(s[c]=window.getComputedStyle(document.documentElement).getPropertyValue(c),s),{}),i=document.documentElement.getAttribute("saved-theme")==="dark";t.initialize({startOnLoad:!1,securityLevel:"loose",theme:i?"dark":"base",themeVariables:{fontFamily:r["--codeFont"],primaryColor:r["--light"],primaryTextColor:r["--darkgray"],primaryBorderColor:r["--tertiary"],lineColor:r["--darkgray"],secondaryColor:r["--secondary"],tertiaryColor:r["--tertiary"],clusterBkg:r["--light"],edgeLabelBackground:r["--highlight"]}}),await t.run({nodes:e})}await o(),document.addEventListener("themechange",o),window.addCleanup(()=>document.removeEventListener("themechange",o));for(let r=0;r<e.length;r++){let v=function(){let g=l.querySelector("#mermaid-space"),h=l.querySelector(".mermaid-content");if(!h)return;f(h);let w=i.querySelector("svg").cloneNode(!0);h.appendChild(w),l.classList.add("active"),g.style.cursor="grab",u=new m(g,h)},M=function(){l.classList.remove("active"),u?.cleanup(),u=null},i=e[r],s=i.parentElement,c=s.querySelector(".clipboard-button"),d=s.querySelector(".expand-button"),p=window.getComputedStyle(c),L=c.offsetWidth+parseFloat(p.marginLeft||"0")+parseFloat(p.marginRight||"0");d.style.right=`calc(${L}px + 0.3rem)`,s.prepend(d);let l=s.querySelector("#mermaid-container");if(!l)return;let u=null;d.addEventListener("click",v),E(l,M),window.addCleanup(()=>{u?.cleanup(),d.removeEventListener("click",v)})}});
+</script><script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/copy-tex.min.js" type="application/javascript" data-persist="true"></script><script src="./postscript.js" type="module" data-persist="true"></script></html>
