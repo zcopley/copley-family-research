@@ -13,7 +13,7 @@ tags:
 
 # Research Priorities and Action Items
 
-This is the public research operating list for the Copley family wiki. Use [[Sources and Evidence Index]] first for claim status, then use this page to decide what work would most improve the history. Use [[Visual Story Atlas]] for a diagram-first overview and [[Tier 1 Research Execution Kit]] for request templates, transcription fields, and evidence-capture forms.
+This is the public research operating list for the Copley family wiki. Use [[Sources and Evidence Index]] first for claim status, then use this page to decide what work would most improve the history. Use [[Visual Story Atlas]] for a diagram-first overview, [[Volunteer Record Request Tasks]] for relative-friendly request letters, and [[Tier 1 Research Execution Kit]] for agent-facing request templates, transcription fields, and evidence-capture forms.
 
 ## Current Research Dashboard
 
@@ -230,6 +230,7 @@ The highest-impact items below have practical templates in [[Tier 1 Research Exe
 
 - [[Sources and Evidence Index]] - central claim-status register
 - [[Visual Story Atlas]] - diagram-first overview of the story, evidence, and research quests
+- [[Volunteer Record Request Tasks]] - volunteer-facing record-request tasks, letter templates, and reporting instructions
 - [[Tier 1 Research Execution Kit]] - request templates and evidence-capture forms for Tier 1 tasks
 - [[Topics/Murray Settlement|Murray Settlement]] - settlement framework and research questions
 - [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]] - detailed Murray Settlement execution plan

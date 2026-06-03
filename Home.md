@@ -23,6 +23,7 @@ Welcome to the Copley family research vault. This project consolidates evidence,
 | To understand how branches connect | [[Family Tree]] | [[People Directory]] |
 | To look up a specific person | [[People Directory]] | [[Search Index]] |
 | To check whether a claim is actually proven | [[Sources and Evidence Index]] | [[How to Read This Research]] |
+| To help request records | [[Volunteer Record Request Tasks]] | [[Tier 1 Research Execution Kit]] |
 | To follow the immigrant / Lewis County research questions | [[Topics/Murray Settlement\|Murray Settlement]] | [[Research Priorities and Action Items]] |
 | To understand the Irish-origin investigation | [[Topics/Captain John Copley Research\|Captain John Copley Research]] | [[Topics/Bredon Descent\|Bredon Descent]] |
 
@@ -91,6 +92,7 @@ graph LR
 - [[People Directory]]
 - [[The Copley Family Narrative]]
 - [[Sources and Evidence Index]]
+- [[Volunteer Record Request Tasks]]
 - [[Topics and Themes]]
 - [[Topics/Murray Settlement|Murray Settlement]]
 - [[Topics/Bredon Descent|Bredon Descent]]
@@ -106,9 +108,10 @@ graph LR
 6. [[People Directory]] — orient yourself to people and generations
 7. [[The Copley Family Narrative]] — synthesized prose history
 8. [[Sources and Evidence Index]] — claim-by-claim evidence backbone
-9. [[Topics/Murray Settlement|Murray Settlement]] — current best framework for the immigrant community
-10. [[Topics and Themes]] — historical context and thematic research
-11. [[Research Priorities and Action Items]] — active research priorities and evidence gaps
+9. [[Volunteer Record Request Tasks]] — record-request tasks and letter templates for relatives who want to help
+10. [[Topics/Murray Settlement|Murray Settlement]] — current best framework for the immigrant community
+11. [[Topics and Themes]] — historical context and thematic research
+12. [[Research Priorities and Action Items]] — active research priorities and evidence gaps
 
 ## Research Methodology
 

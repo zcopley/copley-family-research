@@ -10,6 +10,15 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4DP - Volunteer Record Request Page Added (June 3, 2026)
+
+**PUBLIC-HELPER UPDATE:** Added [[Volunteer Record Request Tasks]], a volunteer-facing page for relatives who want to help request records. The page includes task IDs, priority ordering, full letter templates, fee cautions, and reporting instructions to send results to Zach Copley at `zach@copley.name` or Tom Copley at `tcopley@protonmail.com`.
+
+### Updated Pages
+
+- [[Volunteer Record Request Tasks|Volunteer Record Request Tasks]] - added courthouse, archive, church, cemetery, Iowa, oil-record, naturalization, Partlow, and turnpike request templates.
+- [[Home]], [[index]], [[Sources and Evidence Index|Sources and Evidence Index]], [[Research Priorities and Action Items|Research Priorities and Action Items]], and [[Search Index|Search Index]] - linked the new volunteer page from reader-facing navigation and research pages.
+
 ## Phase 4DO - Michael Copley Probate Will Integrated (June 3, 2026)
 
 **MICHAEL-PROBATE UPDATE:** Integrated Zach's Claude for Chrome probate / estate search for [[People/Michael Copley Sr|Michael Copley Sr.]]. FamilySearch `West Virginia Will Books, 1756-1971`, Will Book C, pages 350-352, locates Michael's will written **2 February 1893** and probated **4 March 1897**. The will confirms son **John Copley** as executor / administrator, names the core estate children, and supports the known family structure, but it does **not** name Michael's parents or provide any **Sarah Dolan** evidence. The active probate path now moves to Lewis County **Order Book No. 6, page 496**, plus any estate settlement, appraisement, inventory, chancery / heirship, or oil-title file.

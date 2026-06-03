@@ -26,6 +26,14 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
 
 ## What Was Just Completed
 
+- Added `Volunteer Record Request Tasks.md`, a public helper page for relatives and volunteers who want to request records.
+- The page includes:
+  - instructions to claim one task by emailing Zach Copley at `zach@copley.name` or Tom Copley at `tcopley@protonmail.com`;
+  - reporting format for found, negative, pending, fee, and referral results;
+  - letter templates for Luke Murray / Anne Loghan marriage bond, Michael Copley Sr. probate order / estate packet, Copley naturalization records, early Catholic records, Kinawley tithe / land records, Copley No. 1 oil records, Mary Copely Giblin / Iowa branch records, Benjamin Partlow proof records, and Staunton-Parkersburg Turnpike / Irish labor records;
+  - evidence cautions preserving Sarah Dolan and Ann-as-Murray as unproven.
+- Updated `Home.md`, `index.md`, `Sources and Evidence Index.md`, `Research Priorities and Action Items.md`, `Search Index.md`, and `CHANGELOG.md` to link the new volunteer page from the public reader path and research workflow.
+
 - Integrated Zach's June 2026 Claude for Chrome **Michael Copley Sr. probate / estate search** report.
 - Preserved the raw report at `static/sources/claude-michael-parents/michael-copley-sr-probate-estate-search-claude-output.txt`.
 - Added `References/Claude for Chrome Michael Copley Sr Probate Estate Search.md`.
