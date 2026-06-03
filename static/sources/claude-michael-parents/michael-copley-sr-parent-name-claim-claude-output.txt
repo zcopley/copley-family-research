@@ -1,0 +1,87 @@
+Evidence Report: Michael Copley Sr. - Parent-Name Claim, John Copley + Sarah Dolan
+
+RECORD 1 - PRIMARY SOURCE CONFIRMED
+
+Website / Collection: FamilySearch.org - West Virginia, Deaths, 1804-1999
+Record Title: "Micheal Copley" death record
+Persistent URL: https://www.familysearch.org/ark:/61903/1:1:NMXJ-GYX
+Full Citation: "West Virginia, Deaths, 1804-1999", FamilySearch, entry for Micheal Copley and John Copley, 19 Jan 1897.
+
+Indexed Fields:
+- Name: Micheal Copley, misspelled in index.
+- Sex: Male.
+- Age at Death: 83 years.
+- Estimated Birth Date: 1814.
+- Birthplace: Lewis Co.
+- Marital Status: Married.
+- Occupation: Farmer.
+- Event Date: 19 Jan 1897.
+- Event Place: Sand Fork, Lewis Co., West Virginia.
+- Source Details: v 1 p 231.
+- Reference: County Records.
+- Father: John Copley.
+- Mother: Sarah Copley. No maiden name Dolan appears here.
+- Wife / indexed spouse: Bridget Copley. This is confirmed wrong against the broader family evidence; Bridget was Michael's daughter, while Michael's wife was Ann / Anna Munday.
+
+Underlying Original Document:
+- Archive: WV Archives & History, Lewis County Death Register, Volume 1, Page 231, 1897.
+- WV Culture record detail URL: https://archive.wvculture.org/vrr/va_dcdetail.aspx?Id=2919262
+- WV Culture original image URL: https://archive.wvculture.org/vrr/va_view.aspx?Id=2919262&Type=Death
+- Film / Image reference: FilmNumber 825106, ImageNumber 393, image file ID 4130795_00393.
+- Image availability: yes, accessible on wvculture.org.
+- Parent names in original image vs. index: the WV Archives index gives father as John/Copley and mother as Sarah/Copley. The original image exists and shows the parent-name column, but Claude for Chrome could not render the full row and parent columns side-by-side in one viewport because of the image width.
+
+Codex follow-up visual check:
+- Downloaded WV Culture image http://images.wvculture.org/825106/00393.jpg.
+- The original death-register row for Copley Michael visibly reads parents as "Copley John & Sarah"; no Dolan maiden name appears.
+- The same row visibly names "Copley Bridget" in the consort / unmarried column and again as the person giving information, with designation "Wife." This is the concrete source error that makes the parent-name evidence useful but not independently conclusive.
+
+RECORD 2 - CORROBORATING RECORD
+
+Website / Collection: FindAGrave / FamilySearch Find a Grave Index.
+Memorial: Michael Copley, 1813-1897, Saint Bernard Church Cemetery, Weston, Lewis County, West Virginia.
+FindAGrave URL: https://www.findagrave.com/memorial/82940173/michael-copley
+FamilySearch ARK: https://www.familysearch.org/ark:/61903/1:1:QVL7-C9Y7
+
+Key Fields:
+- Birth: 29 Sep 1813, Ireland.
+- Death: 19 Jan 1897, Lewis County, WV.
+- Spouse listed: Anna Munday Copley, 1824-1909. This contradicts Bridget Copley in the death index.
+- Children listed: John, Mary Ann Quinn, Anna, Bridget T. Gillooly, Margaret, Thomas, Sarah E.
+- No parents listed on the memorial.
+- Created Jan 4, 2012; added by user "S".
+
+WV ARCHIVES DEATH RECORDS INDEPENDENT SEARCH
+
+URL searched:
+https://archive.wvculture.org/vrr/va_dcresults.aspx?LastName=Copley&FirstName=Michael&County=Lewis&Year=All&PlusMinus=Exact&Search=Exact&NumRec=25
+
+Result: No records found when searching by spelled name Michael Copley in Lewis County via the WV Archives exact-name interface. This is because the entry is indexed as "Micheal" Copley. The record exists as record Id 2919262 and is accessible through the detail and image URLs above, or by searching with variants / wildcard logic.
+
+WHAT THE RECORD DOES AND DOES NOT SHOW
+
+- Does any official record name John Copley as father? Yes: WV death register, Lewis County, 1897, v. 1 p. 231.
+- Does any official record name Sarah as mother? Yes: same record, indexed as Sarah Copley and visually confirmed as Copley John & Sarah.
+- Does the name Dolan appear in the WV death record index or original image? No.
+- Does Sarah Dolan appear in any other official genealogy record linked to this Michael Copley? No relevant hit found in this search.
+- Is the spouse / consort field accurate? No. The register names Bridget Copley as wife / source, which conflicts with the established wife Ann / Anna Munday and likely reflects a confused family relationship, possibly Michael's daughter Bridget.
+- Are parents from original image or only an index? Both. WV Culture indexed the parents from the original register image, and Codex visual inspection confirmed the original row reads Copley John & Sarah.
+
+RELIABILITY ASSESSMENT
+
+The WV County Death Register entry is a primary record for the death event but a secondary and potentially unreliable source for parent information. Death registers of this era recorded what an informant or recorder supplied at the time of death. The same row's Bridget-as-wife error shows confusion about family relationships, so the John / Sarah parent names should be treated as important evidence but not final proof.
+
+The Dolan maiden name for Sarah does not appear in the official death record index or original image. It was not found in this search in FindAGrave or FamilySearch historical records tied to this Michael Copley. It probably derives from user-submitted trees, family inference, AI-generated synthesis, or another unverified secondary path until an original record names Sarah as Dolan.
+
+RECORDS NOT FOUND / GAPS
+
+- No obituary for Michael Copley found in accessible newspaper databases.
+- No probate record for Michael Copley found in the online WV Archives database.
+- The 1850 census linked to Micheal Coopley was not fully retrieved in this pass.
+- No DAR lineage record specifically connecting John Copley + Sarah to Michael was located; DAR GRS was not accessible without an account.
+
+RECOMMENDED NEXT RECORD
+
+Lewis County, WV probate / will records: request a search for any will, estate administration, probate record, heirship filing, or oil-title file for Michael Copley, died 19 Jan 1897 at Sand Fork. A probate or title-chain record could name heirs and might include family relationship affidavits, even if the will itself does not name parents.
+
+Second priority: preserve and transcribe the handwritten original death-register page 231 in full, especially the Copley row. The original image already confirms John and Sarah but not Dolan; a clearer crop or courthouse copy may help document the handwriting and relationship-error context.
