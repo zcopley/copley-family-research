@@ -1,0 +1,89 @@
+## Findings: i3811884-00377 — Page 15 Native-Tile Examination
+
+**Image / URL**
+- Ancestry image: `i3811884-00377`
+- Viewer: `https://www.ancestry.com/imageviewer/collections/62774/images/i3811884-00377`
+- Native-tile base: `https://www.ancestry.com/api/media/retrieval/v2/tile/namespaces/62774/media/i3811884-00377_files/13/{col}_{row}.jpg`
+- Zoom levels confirmed: 12 and 13 (level 13 = maximum/native resolution; tiles 512x512 px)
+- Tile grid at zoom 13: columns 0-11, rows 0-8
+
+**Collection**
+Virginia, U.S., Personal Property Tax Records, 1782-1900; image 378 of 646.
+
+---
+
+**Page type**
+Right-hand (recto) tax list page — a pre-printed form with the standard heading "List of Taxable Persons, Property, &c. within the District of ___". Page 15 of the bound book.
+
+---
+
+**Header transcription (direct image evidence)**
+- Tiles 1_0 through 6_0 at zoom 13 give the full printed header, read sequentially:
+  **"List of Taxable Persons, Property, &c. within the District of"**
+- After "District of" (tile 6_0 / 7_0) the header area is blank or nearly illegible. There are very faint gray marks in tile 7_0 that *may* be the ghost of a handwritten name, but they are not resolvable at any available zoom level or enhancement setting. The marks do **not** spell "Kester" or any other readable word with certainty.
+- **Direct evidence: The "District of" field on page 15 is either blank or contains handwriting that has faded to illegibility. No district name can be positively read in the header.**
+
+**Page number / sequence clues**
+- "15" handwritten in the upper-left corner (tile 0_0) and printed in the far-right column of the first data row.
+- Image position 378 of 646 in the reel.
+
+---
+
+**Column structure (header rows)**
+The pre-printed form columns include (reading right across): Persons Chargeable with Tax / Date of Receiving / Tithables (subdivided) / Horses, mules / Cattle, sheep / Watches / Clocks / Pianos and Harps / All gold and silver / All household and kitchen furniture / Aggregate amount / Capital invested / Amount of money/bonds / Capital of incorporated joint-stock companies / Aggregate value of personal property / All other articles not enumerated [rightmost column, very narrow on right edge].
+
+No running "commissioner" column was found in the pre-printed structure.
+
+---
+
+**District / Commissioner label, if any**
+**None found anywhere on the page.** Specifically:
+- **Header**: "District of [blank/illegible]" — no legible name
+- **Left margin** (column 0, all rows): Blank throughout. No "C. Kester" or any other label.
+- **Right margin** (columns 10-11): Only data values (numbers) and scanner background. No label.
+- **Below the table / footer area**: Completely blank below the final horizontal rule. No commissioner signature, oath, affidavit, or name.
+- **Adjacent to any data row including line 24**: No marginal notation.
+
+---
+
+**James Murray row (line 24) — orientation**
+- Tile 1_6 (zoom 13): Row number "24" is clearly visible.
+- Tile 2_6 (zoom 13): The name reads **"Murray James"** (surname first, then forename) — consistent with the standard tax-list format.
+- Context rows immediately surrounding:
+  - 21: Munroe Hudson
+  - 22: Moneypenny, Lee
+  - 23: Moneypenny, Thomas
+  - **24: Murray James** <- confirmed
+  - 25: Martin, Mary (possibly "Marty" first name)
+  - 26: Moneypenny, John
+  - 27: Moneypenny, Edward
+  - 28: Malady James
+  - 29: Murphey, [first name]
+  - 30: Freeman, David
+  - 31: [Moneypenny, W-?]
+- No special marking, asterisk, or marginalia adjacent to or around line 24.
+
+---
+
+**Signatures, oaths, affidavits, or written commissioner name**
+**None found anywhere on this page.** The bottom of the page below the last data row (line ~31) is entirely blank. There is no oath block, no commissioner's attestation, and no handwritten signature of any kind on page 15 as scanned.
+
+---
+
+**Does page 15 repeat "C. Kester" or any other district/commissioner label?**
+**No.** There is no "C. Kester" written anywhere on i3811884-00377. No other district or commissioner label appears. The "District of" field is either blank or has faded handwriting that is not readable.
+
+---
+
+**Does this directly tie James Murray to C. Kester, or is it still sequence inference?**
+**Still sequence inference only.** Page 15 (i3811884-00377) contains no direct written evidence naming C. Kester or any other commissioner/district in a way that would bind James Murray (line 24) to the "District of C. Kester" label established from i3811884-00361. The linkage between James Murray on page 15 and the C. Kester label on image 00361 remains a positional/sequence argument — based on how many pages separate them and how the book is structured — not a direct label on the same page.
+
+---
+
+**What image should be checked next if unresolved?**
+
+The logical next step is to examine the pages *between* i3811884-00361 (where "District of C. Kester" is legible) and i3811884-00377 (page 15, James Murray). Specifically:
+
+1. **i3811884-00363 through i3811884-00376** — these are the intermediate pages between the 00361 district label and the 00377 name page. If any of these intermediate pages carry a running "C. Kester" label (in the header, at a page break, or at the start of a new section), that would confirm the entire sequence is within Kester's district.
+2. Most important single check: the **first page of the Kester-labeled section** — whichever image immediately follows 00361 with the first names listed under "District of C. Kester." That page would establish the sequence start point; if James Murray at line 24 of page 15 falls within the numbered range of that section without a new district header intervening, the tie becomes strong.
+3. **i3811884-00378** (the page immediately following 00377) could also be checked — if its header repeats "C. Kester," that would retroactively confirm 00377 also belongs to Kester's district, since mid-list page breaks without new district headers imply continuity.

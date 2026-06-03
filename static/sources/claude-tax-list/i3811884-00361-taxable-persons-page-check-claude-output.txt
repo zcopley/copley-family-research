@@ -1,0 +1,32 @@
+TAX-LIST COMMISSIONER CHECK SCOPE
+
+- Collection / website: Ancestry.com - "Virginia, U.S., Personal Property Tax Records, 1782-1900," Lewis County, image set i3811884
+- Images checked: i3811884-00361 only
+- Year / district / commissioner evidence: Image 00361 is a taxable-persons page whose printed header names the district in handwriting. The district name appears to read "C Kester" (cursive; the final letters are -e-s-t-e-r or possibly -e-a-t-e-r; the leading initial is clearly "C"). No year is printed on this page; no commissioner oath or signature is visible on this image alone.
+- Access or image problems: None. The page loaded cleanly. The image counter in the Ancestry viewer confirms position 362 of 646, matching file name i3811884-00361.
+
+IMAGE i3811884-00361
+
+- Page type: Taxable-persons page - standard columnar "List of Taxable Persons, Property, &c." form, fully filled with names and property entries.
+- Image / URL: https://www.ancestry.com/imageviewer/collections/62774/images/i3811884-00361?pId=394400
+- Full year, if visible: Not printed on this page. Year is established by the adjacent proof/summary page 00362 as 1854.
+- District / commissioner, if visible: The printed header reads "List of Taxable Persons, Property, &c. within the District of" followed by the handwritten inscription "C Kester" (cursive; may be a commissioner surname used as a district label rather than a numbered district). No separate district number is visible. No commissioner's name appears in a separate labeled field.
+- Page number / sequence clues: The large handwritten numeral in the upper-left margin is 7. This is page 7 of the taxable-persons list within this district/commissioner's block.
+- Header / title / affidavit transcription: "List of Taxable Persons, Property, &c. within the District of C Kester" (printed form with handwritten district name). No oath, affidavit text, or title-sheet language.
+- Totals / signatures / names, if relevant: The visible entries (lines 1-28+, page cut off at bottom) are surnames beginning with D and E: Deall John A, Dawson Preston, Dodd (kin), Dempsey James, Dylan John, Donegan Lawrence, Davis Simon, Duvall Louis S, Duvall John, Duvall George J, Duvall George J (guardian), Duvall Cornelius, Duvall (Leonard?), Titamore Jacob A, Titamore Henry, Darlington Joseph, Doyl John, Dean Thomas, Duvall George M, Darlington (T Wood?), Davis Jonathan, Davis John Jr, Ellis Syra J, Ekers Jacob, Elles Roads A, Elles Bontley B, Elles John J, Easton Earl, and at least one more. No totals row or signature block is visible within the captured portion.
+
+CONNECTION TO 1854 JAMES / PATRICK SEQUENCE
+
+- Does image 00361 belong to the same 1854 Lewis County tax-list block as 00362? Almost certainly yes - it is the page immediately preceding the proof/summary page 00362 and shares the same image set. The proof/summary page 00362 would aggregate the totals from the preceding taxable-persons pages, of which page 7 (00361) is the last before the summary.
+- Does it identify the commissioner? Indirectly, yes. The handwritten district inscription "C Kester" on the page-7 header is consistent with being the commissioner's name (in Virginia personal property tax practice, the "district" heading on the taxable list was typically the commissioner's name or the district he administered). This appears to name the commissioner or district administrator as C. Kester (first name or initial "C"; surname "Kester" - possibly "Keater").
+- Does it identify a district number or district name beyond "Lewis"? It supplies a name ("C Kester") rather than a number. No numeric district designation is visible.
+- Does it connect to 00362, 00363, 00377, or 00379? Yes - directly to 00362 (the proof/summary page immediately follows this page 7 of the list). The named district "C Kester" would be the same district whose summary is on 00362 and whose taxable-persons pages continue at 00363 and beyond through 00377 and 00379 where James Murray and Patrick Murry appear.
+
+RQ-M1 INTERPRETATION
+
+- Does this preserve the confirmed 1854 year? Yes. Image 00361 does not contradict it. The 1854 date is established by the adjacent proof/summary page 00362; image 00361 is part of the same unbroken sequence.
+- Does this identify the commissioner or district for James and Patrick? It provides the strongest direct evidence yet: the district heading on page 7 (00361) reads "C Kester," which is likely the commissioner's name. James Murray (00377, page 15) and Patrick Murry (00379, page 16) would fall within the same commissioner's list if the pages are part of one continuous block - which the sequential numbering strongly implies.
+- Does this change the post-1850 arrival or pre-1843 anchor interpretation? No. It only provides the commissioner/district identity for 1854; it does not introduce any new date, person, or location evidence that would affect those interpretive anchors.
+- What exact image should be checked next? The remaining gap is confirming the page-7 district heading applies to the full sequence through pages 15-16. The most productive next check would be image i3811884-00362 (already described as a proof/summary page) to see whether the summary header explicitly names "C Kester" as commissioner - confirming the same district spans pages 7 through at least 16. If 00362 does not name the commissioner, then image i3811884-00360 (the page before page 7) could reveal whether a cover or title sheet with the commissioner's full name precedes this block.
+
+Summary of new finding: Image i3811884-00361 is taxable-persons page 7 of the same Lewis County 1854 list block. Its header names the district as "C Kester" - most likely the commissioner's name or district label - providing the first image-level identification of the commissioner for the sequence that includes James Murray and Patrick Murry.

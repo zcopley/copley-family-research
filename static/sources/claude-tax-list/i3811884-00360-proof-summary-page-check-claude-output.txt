@@ -1,0 +1,104 @@
+---
+
+## TAX-LIST HEADER CHECK SCOPE
+
+**Collection / website:** Virginia, U.S., Personal Property Tax Records, 1782-1900 — Ancestry.com, collection 62774, image set i3811884 (Lewis County)
+
+**Images checked:** i3811884-00360 only (filmstrip position 361 of 646)
+
+**Year / district evidence:** Year 1854 confirmed directly in the printed header. No district name or commissioner name appears in the standard format on this page — the header uses the generic county-level form rather than a district-specific label.
+
+**Access or image problems:** The Ancestry filmstrip overlay covers approximately the bottom 2–3 rows of the PROOF table, obscuring part of the "Dividends" and "Total charges and fees" lines and blocking any text that may appear below them. Everything above that strip is fully legible.
+
+---
+
+## IMAGE i3811884-00360
+
+**Page type:** Proof / summary (aggregate-total) page — the standard Virginia form that tallies page-by-page subtotals for all taxable-persons pages in a district list. Not a taxable-persons page, cover, or affidavit.
+
+**Image / URL:** `https://www.ancestry.com/imageviewer/collections/62774/images/i3811884-00360?pId=394399`
+Filmstrip position: 361 of 646
+
+**Full year, if visible:** **1854** — printed explicitly in the header: "...for the year **1854**"
+
+**District / commissioner, if visible:**
+- No district name or commissioner name appears on this page. The header uses the Virginia printed form: **"A Commissioner of the Revenue in the County of Lewis for the year 1854"** — that is the standard county-level caption on proof sheets; it does not fill in a district name or a commissioner's personal name.
+- No oath, signature, or separate commissioner label is visible in the legible portion of the page. Whether a signature appears below the filmstrip bar cannot be confirmed from what is readable.
+
+**Page number / sequence clues:**
+- The left column contains approximately 30 numbered rows, each row representing a single taxable-persons page with its aggregate taxable value and tax subtotal. This format is consistent with a proof sheet that closes out a complete district list.
+- The row count (c. 30 pages tallied) is consistent with the length of a full district list immediately before a new district begins at 00361.
+- The filmstrip places this image at position 361 in the set, directly preceding 00361 (which is the known "List of Taxable Persons within the District of C Kester," page 7).
+
+**Header transcription (verbatim, as legible):**
+> A Commissioner of the Revenue in the *County of Lewis* for the year **1854**
+
+Beneath the header is a standard pre-printed columnar table with column headings (aggregate taxable values, amounts of taxes on different property classes, remarks). No handwritten district-name or commissioner-name field is filled in on the proof sheet itself.
+
+**Bottom names or totals (PROOF section), as legible:**
+The right half of the page contains the standard printed PROOF table. Legible entries:
+
+| No. | Item | Value | Tax on value | Total Tax |
+|-----|------|-------|--------------|-----------|
+| 29 | White males, at 40 cents | — | — | 11 60 |
+| — | Male free negroes, at 100 cents | — | — | [mark/blank] |
+| 6 | Slaves, at 60 cents | — | — | 8 60 |
+| 61 | Horses, mules, asses and jennets | 3337 (approx.) | 6 67 40 | — |
+| 759 | Cattle, sheep and hogs | 5351 | 10 66 20 | — |
+| 2 | Pleasure carriages, stage coaches, &c. | 150 | 30 | — |
+| 2 | Watches | 175 | 35 | — |
+| 11 | Clocks | 38 | 7 60 | — |
+| — | Pianos and harps | — | — | — |
+| — | Plate and jewelry | — | — | — |
+| — | Household and kitchen furniture | 1805 | 3 61 | — |
+| — | Moneys, bonds, securities and claims | 26230 | 52 46 | — |
+| — | Capital invested in mining or manufacturing | — | — | — |
+| — | Moneys, &c., under control of a court, &c. | — | — | — |
+| — | Capital of companies which declare no dividend | — | — | — |
+| — | Personal property, &c. of internal improvement commission | — | — | — |
+| — | Other articles of personal property | 391 | 78 00 | — |
+| — | Fees of office | — | — | 42 0 |
+| — | Dividends, 3½ per cent | [obscured by filmstrip] | | |
+| — | Total charges and fees, 8 per cent | [obscured by filmstrip] | | |
+| — | Values and tax thereon | **97457** | **7491 41** | **74 91 41** |
+
+Left column (page-by-page subtotals, partial read, rows 1–30 approximately):
+Row 1: 490 -> 99 40 | Row 2: 559 -> 111 80 | Row 3: 859 -> 171 80 | Row 4: 600 -> 12_ | Row 5: 950 -> 1 80 | Row 6: 364 -> 128_ | Row 7: 150 -> 36 40 (approx.) | Row 8: 3 -> 60 | Row 9: 1093 -> 118 60 | Row 10: 197 -> 39 40 | Row 11: 154 -> 31 80 | Row 12: 680 -> 17 6 | Row 13: 800 -> 11 c | Row 14: 51 -> 6 20 | Row 15: 866 -> 173 20 | Row 16: 671 -> 134 20 | Row 17: 272 -> 54 40 | Row 18: 108 -> 21 60 | Row 19: 485 -> 97 | Row 20: 207 -> 15 00 | Row 21: 15 -> 3 | Rows 22–24: blank or dot | Row 25: 186 -> 25 20 | Row 26: 1225 -> [obscured] | Row 27: 325 / 560 -> [partially obscured] | Rows 28–30: 34000 -> 1400_ ; 32 8 -> 6560.
+
+These row-level subtotals are consistent with a proof sheet for a district list of c. 27–30 taxable-persons pages.
+
+---
+
+## DISTRICT / YEAR CONTEXT FOR JAMES / PATRICK
+
+**Does image 00360 confirm the same 1854 list context?**
+Yes, directly. The year **1854** is printed and filled in the header in large, legible text. This is the same year established by image 00362 (the confirmed proof image) and by the James Murray / Patrick Murry taxable-persons pages.
+
+**Does it repeat, clarify, or contradict the C Kester reading from 00361?**
+It neither repeats nor contradicts it. Image 00360 is a proof/summary sheet using only the generic county form header; there is no district-name field filled in. The C Kester label does not appear on this page, but nothing contradicts it either. A proof sheet typically belongs to the immediately preceding district list — so the sequence strongly implies that 00360 is the closing proof sheet for whatever district list ends at 00360, and 00361 begins the C Kester list. Alternatively, 00360 could be the proof sheet for the same C Kester list that 00361 opens (if 00360 is a trailing summary page placed before the list cover, which is a less common but possible arrangement).
+
+**Is the district or commissioner legible?**
+No district name or commissioner name is written or printed on this page in the legible portion. The generic header names only "County of Lewis." No signature or oath is visible above the filmstrip bar.
+
+**Does it connect directly to 00361, 00362, 00363, or the later James / Patrick sequence?**
+By filmstrip position (361 immediately preceding 362) and year (1854), 00360 connects directly to the 00361–00363 sequence. The proof sheet at 00360 is the aggregate-totals document for a complete district list. Since 00361 opens a new "List of Taxable Persons within the District of C Kester" at page 7, the most straightforward reading is that 00360 is the closing proof sheet for the district list that ends just before the C Kester list begins — i.e., it belongs to the prior district, not to C Kester. That would make 00362 the opening proof sheet for C Kester (as already established).
+
+---
+
+## RQ-M1 INTERPRETATION
+
+**Does this preserve the confirmed 1854 year?**
+Yes. The 1854 year is confirmed independently and directly on image 00360, consistent with all prior image-verified evidence.
+
+**Does this corroborate or revise the C Kester commissioner / district-label reading?**
+It **neither corroborates nor revises** it. The proof sheet at 00360 does not name a district or commissioner. It is silent on C Kester. The C Kester reading rests entirely on image 00361 (the page-7 taxable-persons header) and must be evaluated there; 00360 adds no new evidence for or against that reading.
+
+**Does this change the post-1850 arrival or pre-1843 anchor interpretation?**
+No. Image 00360 is a proof/summary sheet with no names of individual taxpayers. It adds no new genealogical data about James Murray or Patrick Murry and does not affect any arrival-window inference.
+
+**What exact image should be checked next?**
+The most productive next step would be **i3811884-00362** (already known as the proof/summary image for the C Kester list, confirmed year 1854) — specifically to check whether it contains a commissioner signature or written name, since the proof sheets are where commissioners often signed. If 00362 also lacks a signature, then the affidavit or oath page, if any, likely appears between 00362 and 00363, or at the end of the C Kester taxable-persons pages after the last names. **i3811884-00363** would be the next image to check for that purpose.
+
+---
+
+**Summary statement:** Image i3811884-00360 is a Virginia proof/summary (aggregate-total) page for Lewis County, year 1854, using the standard generic county-level form header. It contains no district name and no commissioner name in the legible portion. It is consistent with being the closing proof sheet for the district list that immediately precedes the C Kester list. It confirms the 1854 year but adds no new evidence for or against the C Kester district/commissioner reading from 00361.

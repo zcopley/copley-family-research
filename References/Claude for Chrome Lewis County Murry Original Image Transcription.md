@@ -27,8 +27,8 @@ This note preserves Zach Copley's Claude for Chrome original-image transcription
 
 | Record | Result |
 |---|---|
-| Luke Murray / Anne Loghan county marriage register, ARK `1:1:Q2ZX-G78G` | Image unavailable on FamilySearch; no WV Culture image available at the cited digital folder. Index still reads Anne **Loghan**. |
-| Luke Murray / Anne Log?an bond / consent, ARK `1:1:FRRG-HPT` | FamilySearch thumbnail is too blurry to read; WV Culture Film 825111 Images 183-185 return blank / dark frames. Bond alone cannot resolve Loghan vs. Logan. |
+| Luke Murray / Anne Loghan county marriage register, ARK `1:1:Q2ZX-G78G` | Later June 2026 follow-up found the original WV Culture image readable at Film 825111, Image 00184. The register entry directly reads **Luke Murray to Anne Loghan**, dated 30 December 1854, issued by Jno Monroe Clk. FamilySearch still shows `Image Unavailable` for this ARK. |
+| Luke Murray / Anne Log?an bond / consent, ARK `1:1:FRRG-HPT` | Later June 2026 follow-up showed this routes to the same WV Culture register image, Film 825111 Image 00184; the prior "blank / dark frames" assessment was incorrect. The entry is a license register entry and does not name witnesses, bondsman, surety, parents, guardian, or consent giver. A follow-up online bond / consent search found no remotely accessible separate bond, showed Film 825112 / DGS 4130804 is register-only, and identified the restricted Smith compiled bond index as the next source. |
 | Patrick Murray / Mary Donahoe marriage register, ARK `1:1:Q2ZF-7BF6` | Original image readable. Row reads **Patrick Murray / Mary Donahoe / Daniel O. Carter / 12/27/1862**. No witnesses column visible. |
 | Patrick Murry death register, ARK `1:1:NMD7-M2L`; WV Culture Film 825106 Image 307 | Original image readable. Page 69, line 19 confirms Patrick Murry, age 48, Ireland-born farmer, died 22 August 1871 at Sand Fork of Kent; parents written **Luke & Margaret Murry**; informant **Mary S. Murry**, wife. |
 
@@ -62,7 +62,7 @@ That older Luke / Margaret couple has not yet been directly found in the records
 
 ## Next Research Target
 
-The next high-value task is no longer image transcription of these four records. It is to search for the older **Luke Murry + Margaret** family behind Patrick:
+The next high-value task is no longer image transcription of these four records. The June 2026 Luke / Anne follow-up added one narrower marriage-record target: check the restricted Smith compiled marriage-bonds index, **Marriage bonds and marriage records 1816-1865, Lewis County, (West) Virginia**, Film 1598435 Item 6 / DGS 7949996 or book call number 975.461 V28s, for Luke Murray / Anne Loghan bond details. The broader target remains the older **Luke Murry + Margaret** family behind Patrick:
 
 - death, probate, cemetery, land, and tax records in Lewis County / Gilmer County / surrounding West Virginia counties;
 - St. Michael's Catholic Church sacramental registers;

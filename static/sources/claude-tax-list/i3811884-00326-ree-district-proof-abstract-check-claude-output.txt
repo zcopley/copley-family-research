@@ -1,0 +1,126 @@
+## i3811884-00326 -- Full Research Report
+
+### Direct image evidence only; inferences labeled as such
+
+---
+
+### Page type
+
+**1854 proof / abstract page** (the standard "Commissioner of the Revenue" abstract form). This is identical in format to 00322 and 00324.
+
+The page has no names column at all. The left side carries numbered data rows (31 rows maximum, of which roughly rows 1-4 and 19-24 and 27 have entries, the rest blank). The right side carries the printed "PROOF." section.
+
+---
+
+### Full header transcription (confirmed at maximum zoom, level-13 tiles 1_0 through 9_0)
+
+> **A Commissioner of the Revenue in the County of Lewis for the year 1854**
+
+Every word was read from consecutive native tiles at zoom level 13 (the highest available). "County of Lewis" is in cursive; the rest is in the printed form font. The year "1854" is confirmed: "185" in print and a cursive "4" immediately following.
+
+After "1854" there are faint marks (possibly a decorative pen flourish or a partially legible numeral). They are too degraded to transcribe with certainty. No second line of heading is present.
+
+---
+
+### Year
+
+**1854** -- direct read from tile 9_0 (level 13) and corroborated at level 12 tile 4_0.
+
+---
+
+### District / commissioner label
+
+**No "District of Ree" or any other district-name label is visible anywhere on the page.**
+
+The standard Virginia PPT abstract form for this era does not repeat the district name in the abstract itself; the district identification lives on the paired taxable-persons pages. The heading contains only "County of Lewis" (pre-printed on the form) and the year.
+
+---
+
+### Page number / sequence clues
+
+- Viewer position counter: **327 of 646**.
+- The image ID is **i3811884-00326**, which is the immediate successor to i3811884-00325.
+- No handwritten page number is visible on the face of the document itself.
+
+---
+
+### PROOF section content (level-13 tiles 6_2 through 9_7)
+
+| # | Item | Value (approx.) | Tax |
+|---|------|----------------|-----|
+| 12 | White males, at 40 cents | -- | 4.80 |
+| -- | Male free negroes, at 100 cents | -- | -- |
+| 2 | Slaves, at 60 cents | -- | 1.20 |
+| 15 | Horses, mules, asses and jennets | 810 | 162.00 |
+| 135 | Cattle, sheep and hogs | 433 | 8.66 |
+| -- | Pleasure carriages, stage coaches, &c. | -- | -- |
+| 2 | Watches | 14 | 2.81 (approx.) |
+| 2 | Clocks | 8 | 1.80 |
+| -- | Pianos and harps | -- | -- |
+| -- | Plate and jewelry | -- | -- |
+| -- | Household and kitchen furniture | 270 | 54.00 (approx.) |
+| -- | Moneys, bonds, securities and claims | 630 | 1,260.00 (approx.) |
+| ... | (remaining lines blank or dashes) | | |
+| -- | Other articles of personal property | 64 | 12.80 |
+| **Total** | | **~9,230** | **~1,146.00** |
+| **Grand total** | | | **~10,46x** |
+
+*(Numbers read from level-12 and level-13 tiles; some digits are uncertain due to ink quality -- treat as approximate.)*
+
+---
+
+### Left-side aggregate columns
+
+Rows with legible aggregate values (read from tiles 0_1 and 1_1 through 1_7 at level 13):
+
+- Row 1: 176.00
+- Row 2: 225.00 (or 925.00 -- first digit uncertain)
+- Row 4: 178.00
+- Row 19: 192.1x
+- Row 20: 190.00
+- Row 21: 181.00
+- Row 22: 117.0x
+- Row 23: 164.00
+- Row 24: 132.00
+- Row 27: 901.00
+- **Total row**: ~9,930.00 (tile 1_7)
+
+Rows 5-18, 25-26, 28-31 are blank in the aggregate column.
+
+---
+
+### REMARKS column
+
+Confirmed at level-13 tile 5_1: column headed **"REMARKS."** The REMARKS cells in all visible rows contain only small tick/check marks (single or double slash marks). No names, no free-text annotations, no district label visible in the REMARKS column.
+
+---
+
+### Signatures, oaths, affidavits, margin notes
+
+**None found.** The bottom of the page (tiles 2_7 through 9_7 and the partial row-8 tiles) shows only blank rows above the total line, then the document edge. No oath/affidavit formula, no commissioner's signature, no "sworn before" language is visible anywhere on this page.
+
+The cursive writing visible in **tiles 8_1 / 9_1 / 9_2** (level 13) and in the column-header band lies **within the printed-form sub-header row** (the narrow band between the main headline and the first data row). These are the rotated column-label captions intrinsic to the pre-printed abstract form (e.g., captions for the "Tax on value.", "Total Tax." columns of the PROOF section). They are not a signature, commissioner name, or marginal note. The individual characters are degraded; a confident transcription of these printed captions is not possible from this scan, but there is nothing that reads as a personal name or a district label.
+
+---
+
+### Connection to Loghan, Luke Murray, Anne Loghan, James Murray, Patrick Murry, Donahoe/Donahue, C. Kester
+
+**None found.** The page contains no names whatsoever (it is a numerical abstract). None of the target surnames appear anywhere on this page.
+
+---
+
+### Whether Ree district data continues, 00325 proof follows, a new district begins, or another page type appears
+
+**Direct evidence:** 00326 is a 1854 proof/abstract page in the standard format, County of Lewis, bearing no district label. It has approximately 27 filled rows, matching the scale of a single taxable-persons page (not a full district aggregate).
+
+**Pattern inference (label as inference):** The sequence 00321 -> 00322 (proof), 00323 -> 00324 (proof), 00325 -> 00326 fits the established alternating pattern of taxable-persons page / proof page for the Ree district. 00325 is the third Ree taxable-persons page; **00326 is most likely the paired proof/abstract for 00325.** The PROOF totals (12 white males, 2 slaves, 15 horses, 135 cattle) are consistent with a single page's worth of returns rather than a full-district summary.
+
+No evidence on the face of 00326 contradicts this inference, and no evidence suggests a new district begins here.
+
+---
+
+### Exact next image to check
+
+**i3811884-00327** (viewer sequence 328 of 646).
+
+00327 is the first unknown image after the presumed close of the Ree district run. It may be: the first taxable-persons page of a new district; another Ree district page (if the series was longer than three taxable-persons pages); a commissioner's oath for the Ree return; or the beginning of the next alphabetic district. Checking 00327 will establish definitively whether the Ree district is finished and which new district (or page type) follows.

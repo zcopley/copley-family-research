@@ -1,0 +1,31 @@
+## Image i3811884-00379 -- Full Research Report
+
+### 1. Page Type and Page Number
+Standard printed Virginia Personal Property Tax List form. **Page 16**, confirmed by the large handwritten "16" visible in the upper-left margin area (native-tile level 13, column 0, row 1). This is a data page, not an oath or certification page.
+
+### 2. Full Header Transcription
+> **"List of Taxable Persons, Property, &c. within the District of [handwritten name]"**
+
+The printed text is entirely legible at full zoom. After the preposition "of," there is handwritten cursive that is **very faint** (ink pixel values of roughly 196-230 out of 255, versus 0-50 for the bold printed text). Through progressive contrast enhancement of the OSD viewer canvas (rendered at 1683 x 776 px at overview zoom, with the handwriting located at canvas coordinates x approximately 948-1170, y approximately 82-90), the cursive marks form multiple discrete clusters. The first character has a rounded, C-shaped structure; smaller marks follow (consistent with a period and lowercase letters); a more complex cluster to the right matches the general form of "Kester." The pattern **is consistent with "C. Kester"** -- the same handwriting confirmed on i3811884-00361 -- but the JPEG compression on the native tiles at this ink level prevents a fully unambiguous letter-by-letter read independent of prior context.
+
+### 3. Year on This Page
+**No year appears anywhere on i3811884-00379.** The printed form header has no year field, and no year is handwritten in the header, margins, or footer. Year identification for this list depends on i3811884-00362 (which confirmed 1854).
+
+### 4. Whether "C. Kester" Appears
+The handwriting after "District of" on this page **does appear to read "C. Kester"** based on pixel-level analysis, matching the character cluster count and structure from the confirmed i3811884-00361. However, because the ink is exceptionally faint on this page (likely because the original ink was lighter or this is a continuation sheet), an independent tile-level read reaches "strongly consistent with C. Kester" rather than "unambiguous independent confirmation." No other name can be read in that space that better fits the observed marks.
+
+### 5. Other District / Commissioner / Signature / Oath / Footer / Margin Notes
+- **Footer (below row 31):** Completely blank white paper. No signature, no oath, no affidavit, no commissioner name, no certification. The last data row is line 31; the table rules stop there and the rest of the page is empty.
+- **Left margin:** Only the large handwritten page number "16." No district label, no annotation.
+- **Right margin:** Empty. The rightmost columns (tile column 9) contain no text.
+- **Column headers:** Standard printed labels (TITHABLES, Horses mules asses and jennies, Cattle sheep and hogs, Watches, Clocks, Pianos and Harps, etc.). No year or commissioner name embedded in column headers.
+- **No repeated "C. Kester" or any district/commissioner label anywhere** outside the single header line.
+
+### 6. Patrick Murry Row Orientation
+**Confirmed: Line 14, Page 16.** Name column tile (level 13, column 2, row 4) clearly reads "...urry Patric..." -- the end of "Murry" and beginning of "Patrick" in the standard surname-first format used throughout this list. This matches all prior image-verification context (1 white male tithable, 1 horse valued $50). No re-transcription of tax columns was done per instructions.
+
+### 7. Direct Tie to C. Kester vs. Sequence Inference
+This page **does carry the district label** in its own header -- it is not blank like the proof page (i3811884-00378). The faint handwriting after "District of" is present and consistent with "C. Kester." This means Patrick Murry's page **directly carries the district label on its own header**, which is the same label as i3811884-00361. The tie is therefore a **direct label on the same page** (subject to the caveat about ink faintness), not purely a sequence inference. James Murray's tie on page 15 (i3811884-00377), which did not repeat the label, remains a sequence inference -- but Patrick's page 16 does repeat it.
+
+### 8. Next Image to Check If Still Unresolved
+**i3811884-00380** -- the image immediately following -00379. This would be either the next data page of the same list (which, if it again shows "District of C. Kester" more legibly, would further confirm the district assignment) or possibly an affidavit/certification page bearing C. Kester's signature that would provide definitive independent confirmation. Stop there only if the handwriting read on -00379 remains unsatisfactory.

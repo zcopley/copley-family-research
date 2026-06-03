@@ -1,0 +1,110 @@
+## Report: Image i3811884-00324 -- Direct Image Evidence
+
+---
+
+### Page Type
+
+**Proof / Abstract page.** This is the standard Virginia PPT two-panel return page showing, on the left half, a numbered abstract table (row-by-row aggregate taxable values and tax amounts for each taxpayer) and, on the right half, the categorical "PROOF." summary section. There are no personal names on this page. It is a **paired abstract for the Ree district data pages (00321 and 00323).**
+
+---
+
+### Full Header Transcription
+
+> **A Commissioner of the Revenue in the County of Lewis -- for the year 1854**
+
+Directly observed at maximum zoom (zoom level 13, tiles 2_0 through 9_0):
+- Printed text: "A Commissioner of the Revenue in the"
+- Handwritten fill: "County of Lewis" (cursive)
+- Remainder: dashes/fill lines, then printed "for the year"
+- Handwritten/printed year: **1854**
+
+---
+
+### Year Visible
+
+**1854.** Clearly legible in tile 9_0 at zoom 13.
+
+---
+
+### District / Commissioner Label
+
+**No separate "District of [name]" subheading appears in the header or as a separate line.** The header names only the county ("County of Lewis"). There is a stretch of faint marks between "Lewis" and "for" in the header row; at maximum zoom these read as printed fill-line dashes and/or paper bleed-through -- not as a readable handwritten district name. No "District of John Cs. Ree" or similar inscription is visible anywhere on this image.
+
+---
+
+### Page Number / Sequence Clues
+
+- Ancestry image-viewer sequence counter: **325 of 646**
+- The abstract table has **31 numbered rows**; active entries appear in rows 1-11 and approximately rows 23-30; rows 12-22 and row 31 are blank.
+- The **aggregate total at the bottom of the abstract column is 8141** (presumably $8,141).
+
+---
+
+### Page Classification
+
+This is **the paired Proof / Abstract page for the Ree district return.** It pairs with the taxable-persons data pages (00321 and 00323). The abstract table encodes each taxpayer from those data pages as a numbered row with their aggregate taxable value and tax assessed; the PROOF section cross-checks the totals by category. This is the same type of "folded return" structure observed at 00322 (which paired with 00321).
+
+---
+
+### PROOF Section Contents (Right Panel)
+
+Clearly visible PROOF category labels (zoom 13, tiles 6_6 through 7_7):
+- "White males, at all rates"
+- "Male free negroes, at 100 cents"
+- "Slaves, at 60 cents"
+- "Horses, mules, asses and jennets" (partially visible)
+- "Cattle, sheep and hogs"
+- "Pleasure carriages, stage coaches" (partially visible)
+- "Watches"
+- "Clocks"
+- "Pianos and harps"
+- "Money, bonds, securities and claims"
+- "Capital invested in mining or manufacturing"
+- "Railrys &c., under control of a court, &c."
+- "Capital of companies which declares no dividend"
+- "Personal property, &c. of internal improvement companies"
+- "Other articles of personal property"
+- "Fees of office"
+- "Amount of income"
+- "Interest or profit [at rate]"
+- "Dividends, 3 1/2 per cent."
+- "Toll-bridges and ferries, 3 per cent."
+- "Values and taxes thereon"
+- **"Total"**
+
+PROOF total values were partially visible in tiles 9_7 / 10_7: approximate figures include **16.28 | 20 | 1628[x]** and **8.21** in the rightmost columns.
+
+---
+
+### Signatures, Oaths, Affidavits, Margin Notes
+
+**None observed.** The page ends at the abstract total row (8141) followed immediately by the physical edge of the document (book binding). No oath, attestation, affidavit text, or commissioner signature appears below the tables on this image. No handwritten margin notes were found. The PROOF table similarly ends with the "Total" row and has no text below it.
+
+---
+
+### Any Connection to Target Names
+
+- **Loghan, Luke Murray, Anne Loghan, James Murray, Patrick Murry, Donahoe / Donahue, C. Kester:** Not present. This is a Proof/Abstract page -- individual names do not appear anywhere on it; only row numbers appear.
+- The **district is consistent with the Ree district**: the year (1854), county (Lewis), and abstract-row count (up to 31 active rows) are consistent with pairing to the 00321 / 00323 data pages.
+
+---
+
+### Summary Classification
+
+| Item | Finding |
+|---|---|
+| Page type | Proof / Abstract (paired return summary) |
+| Header | "A Commissioner of the Revenue in the County of Lewis -- for the year 1854" |
+| Year | 1854 |
+| District label | None inscribed; county = Lewis |
+| Continuation of Ree district | Yes -- same county, same year; abstract to 00323 |
+| New district | No |
+| Oath / attestation | Not visible on this image |
+| Signature | None observed |
+| Names of interest | None present (abstract has row numbers only) |
+
+---
+
+### Exact Next Image to Check
+
+**i3811884-00325** (sequence counter 326 of 646, i.e. the image immediately following). That is the next logical image and should be examined to determine whether a new district begins, or whether there is an oath/attestation page, a blank separator, or the start of a new commissioner's district.

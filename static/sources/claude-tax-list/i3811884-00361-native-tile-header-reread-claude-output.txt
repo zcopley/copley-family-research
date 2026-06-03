@@ -1,0 +1,115 @@
+## Research Report — Ancestry Image i3811884-00361
+
+---
+
+**Collection / Website**
+Virginia, U.S., Personal Property Tax Records, 1782–1900 (Lewis County), collection 62774 — Ancestry.com
+
+---
+
+**Image Checked**
+i3811884-00361 (image 362 of 646 in this set, as shown by the viewer)
+
+---
+
+**Zoom / Tile Method Used**
+Direct access to Ancestry's native tile API at zoom level 13 (the maximum available level for this image), using a valid session security token extracted from live network requests. The tile grid at zoom 13 is 12 columns × 9 rows (columns 0–11, rows 0–8), each tile 512 × 512 px except partial tiles at the edges. Tiles were navigated individually to isolate specific regions of the document. The header name falls primarily in tile 7_0 with the terminal strokes crossing into tile 8_0.
+
+---
+
+**Header Transcription**
+The printed header reads (reading tiles 1_0 through 6_0 sequentially):
+
+> **List of Taxable Persons, Property, &c. within the District of**
+
+followed immediately by the handwritten district/commissioner label in tile 7_0.
+
+---
+
+**Handwritten District-Label Reading**
+
+At the maximum native tile resolution the handwriting reads:
+
+> **C. Kester**
+
+Letter-by-letter analysis from tile 7_0:
+
+- **C** — large ornate cursive capital, open to the right; consistent with a capital "C" (not "G" — no descending or internal upstroke visible)
+- **.** — a period follows the initial
+- **K** — tall capital K with characteristic dual strokes, unambiguous
+- **e** — small cursive loop, clear
+- **s** — flowing curved stroke descending from the "e", consistent with cursive "s"
+- **t** — tall vertical stroke with a clear **horizontal crossbar** visible at mid-height; this crossbar is the decisive feature distinguishing "st" from "at"
+- **e** — another small loop
+- **r** — terminal strokes continuing into tile 8_0, showing the characteristic curved descending finial of cursive "r"
+
+The **crossbar on the "t"** is the key discriminating feature. It is present and clearly visible in the tile at native resolution.
+
+---
+
+**Alternate Possible Readings**
+
+| Reading | Assessment |
+|---|---|
+| **C. Kester** | Best fit — crossbar on "t" present; five post-K letters match e-s-t-e-r |
+| C. Keater | Less likely — would require "a" (closed top loop) before "t", but the stroke before the crossbar descends openly like "s", not like a closed "a" |
+| C. Keister | Possible but no "i" stroke/dot is visible between "e" and the crossbar letter |
+| C. Kesten | Possible terminal — tile 8_0 shows a curved descending finial consistent with "r" rather than a flat "n" terminus |
+| C. Kester (with period after C) | The period/dot after the initial is visible, so "C." rather than bare "C" |
+
+**Conclusion on the reading:** "C. Kester" is the most defensible reading at native tile resolution. "C. Keater" is not supported — the critical third letter lacks the closed-top loop of a cursive "a", and the crossbar is clearly a "t"-crossbar.
+
+---
+
+**Page Number / Sequence Clues**
+
+- **Page number:** Tile 0_0 (top-left corner of document) shows a handwritten **"7."** in the upper portion of the document — consistent with this being page 7 of the district's tax list.
+- **Sequence context:** The known sequence from the broader session context is:
+  - i3811884-00360 → confirms 1854, no commissioner name
+  - i3811884-00361 → this page — page "7.", "District of C. Kester"
+  - i3811884-00362 → confirms sequence year 1854
+  - i3811884-00363 → taxable-persons page (not oath)
+  - i3811884-00377 → James Murray, page 15, line 24
+  - i3811884-00379 → Patrick Murry, page 16, line 14
+- This page 7 (image 00361) is separated from the James Murray / Patrick Murry pages (15 and 16) by approximately 8–9 pages, consistent with a multi-page district list where the header page precedes numbered entries.
+- **Right-margin annotation:** Tile 10_4 (mid-page, far right column area) shows a single handwritten **"6"** — this appears to be a data entry in one of the rightmost columns of the tax table, not a margin note or continuation mark.
+
+---
+
+**Signatures, Oaths, Affidavits, Margin Notes, or Written Commissioner Name**
+
+- **Bottom margin (tiles 0_8 and 4_8):** Blank — no text, signature, oath, or affidavit in the bottom margin.
+- **Left margin (tile 0_4 and 0_7):** Blank — no annotations, continuation marks, or notes in the left margin.
+- **Right margin (tile 10_4):** A single "6" visible, consistent with a column entry or subtotal, not a name or sworn statement.
+- **No oath, affidavit, or separate commissioner signature block** is present on this image. The handwritten label "C. Kester" appears only in the header line after "District of" — this is the district/commissioner label, not a signature at the foot of an oath.
+
+---
+
+**Whether the Page Ties the Label to James Murray / Patrick Murry — Direct Evidence vs. Inference**
+
+**Direct evidence on this page:**
+- This page is labeled "District of C. Kester," page 7, within a group of images that includes i3811884-00362 (confirmed 1854) and the Murray/Murry entries at pages 15–16.
+- The image sequence is continuous within the same image set (i3811884), strongly implying all these pages belong to the same year and county segment.
+
+**Inference required:**
+- The page itself does not name James Murray or Patrick Murry anywhere visible on it.
+- The link between the "C. Kester" district label and the Murray/Murry entries at pages 15–16 is an inference from the shared image set and sequential page numbering, not from anything explicitly written on image 00361.
+- Whether "C. Kester" is the commissioner's name, the district name, or both is not resolved by this page alone — the form's header uses "District of ___" which on Lewis County tax lists of this era typically carries a commissioner's name or a geographic district name.
+
+---
+
+**What Image Should Be Checked Next If Unresolved**
+
+Per your instruction, I am stopping here. However, if further resolution is needed:
+
+- **i3811884-00362** (already checked, confirmed 1854) — re-examine specifically for any heading that repeats "District of C. Kester" to corroborate the reading.
+- **i3811884-00377 (page 15) or i3811884-00378 (between pages)** — inspect for any header, footer, or running label at the top of that page that might repeat the commissioner/district name in proximity to the James Murray entry.
+- Any oath or certificate page directly preceding or following the Murray entries would be in the range 00374–00378.
+
+**Stopping here as instructed.**
+
+---
+
+**Summary Finding**
+
+The handwritten label after "District of" on image i3811884-00361 reads **C. Kester** at native tile resolution. The "C" initial and the capital "K" are unambiguous. The crossbar on the "t" in "Kester" is visible and rules out "Keater" as an alternate reading. The page number is **7**. No oath, signature, affidavit, or written commissioner name appears anywhere in the margins or bottom of this page. The connection between the "C. Kester" district label and the James Murray / Patrick Murry entries at pages 15–16 of the same image set remains **an inference from sequence and shared image set**, not a direct textual link on this page.

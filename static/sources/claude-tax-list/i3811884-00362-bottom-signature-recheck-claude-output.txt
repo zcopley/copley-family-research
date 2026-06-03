@@ -1,0 +1,76 @@
+## i3811884-00362 — Full Bottom / Signature Inspection Report
+
+---
+
+### Filmstrip / Overlay Status
+
+**Partially resolved.** The Ancestry filmstrip navigation bar ("363 of 646") was successfully hidden via JavaScript by suppressing the `.bottom-container`, `.partner-attribution`, and `.mobile-info-panel-wrapper` elements. After removal, the full bottom edge of the document became visible, including several centimeters of blank document space below the last data row that had been occluded in the earlier pass. No text was hidden underneath the filmstrip.
+
+---
+
+### Header Transcription
+
+> **A Commissioner of the Revenue in the** *Lewis* **for the year 185 4**
+
+- The cursive word in the middle reads **Lewis** (confirmed at high zoom from a native tile).
+- The year is **1854** (the "4" is slightly separated from "185" in the printed form, but it is unambiguous).
+- The header does **not** name any individual commissioner. The preprinted text "A Commissioner of the Revenue in the [district/county]" is the full header formula. No handwritten name or district label appears in the header line on this image.
+
+---
+
+### District / Commissioner in Header
+
+**None named.** The header identifies the county (Lewis) and year (1854), but the slot where a commissioner name would appear — typically following "A Commissioner of the Revenue in the" and before the date — contains only the county name *Lewis*. There is no handwritten or printed commissioner name in the header field.
+
+---
+
+### PROOF Table — Bottom Rows (direct image evidence)
+
+The PROOF table (right half of the page) ends with these legible lines, confirmed at tile-level resolution:
+
+| PROOF line | Values / Tax columns |
+|---|---|
+| Toll-bridges and ferries, 3 per cent. | 15233 · 31466 0 · 3046 60 |
+| Values and tax thereon. | (dashes) |
+| **Total.** | **A 32660** (i.e., ~$432.60 or the figure 32660 prefixed with a mark) |
+
+A verification flourish / checkmark appears to the right of the Total row.
+
+---
+
+### Text Below the PROOF Table
+
+**None.** At maximum tile zoom (512 × 512 px tiles, level 13), the area below the "Total." row contains:
+- Blank white document space
+- The physical bottom border/frame of the microfilm frame
+- No words, no signature, no oath, no affidavit, no additional district label, no commissioner name
+
+This was verified across all tile columns (0–5) at row 9 and row 10. Row 10 column 5 and row 9 column 1 are entirely blank. The document ends with the "Total." entry.
+
+---
+
+### Signature / Oath / Affidavit / Written Commissioner Name
+
+**None present on i3811884-00362.** There is no:
+- Handwritten signature of any commissioner
+- Sworn oath or affidavit text
+- Written commissioner name anywhere on the page
+- District label beyond "Lewis" in the header
+
+The checkmark/flourish to the right of the Total is a notation mark, not a signature.
+
+---
+
+### Status of "C Kester" (Provisional Commissioner Label)
+
+**Unresolved / unchanged.** Image 00362 provides **no corroboration and no revision** of the C Kester label. It neither names C Kester nor names any other commissioner. C Kester remains provisional, derived solely from image 00361 (which was outside the direct page sequence of 00362–00379).
+
+---
+
+### What to Check Next
+
+Since 00362 is the summary/PROOF page for a run of entries but carries no commissioner signature, the signature and oath — if they exist in this set — are almost certainly on a **facing or following oath page** filmed immediately after the last data page. Based on the image sequence:
+
+1. **i3811884-00363** — the very next image; in many Virginia tax book microfilms, the commissioner's signed oath/affidavit was on a separate leaf at the start or end of each district's book, often filmed immediately after the PROOF summary page. This is the highest-priority image to check.
+2. **i3811884-00361** — already known to show the C Kester label; a closer re-read of that page's full header and any oath text would directly test whether Kester is the commissioner for this specific 1854 Lewis sequence.
+3. If 00363 is another data page (not an oath page), the oath may be at the **beginning of the district book** rather than the end — meaning images **00356–00360** (just before 00361) should be examined for a commissioner oath page.

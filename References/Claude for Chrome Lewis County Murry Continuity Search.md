@@ -82,7 +82,7 @@ This continuity search changes the census interpretation:
 
 ## Remaining Gaps
 
-- Directly transcribe the 1854 Luke Murray / Anne Loghan marriage image from WV Culture or the county record.
+- Preserve the later direct transcription of the 1854 Luke Murray / Anne Loghan marriage-register image and the follow-up online bond / consent negative; next marriage-record target is the restricted Smith compiled marriage-bonds index, Film 1598435 Item 6 / DGS 7949996 or book call number 975.461 V28s.
 - Directly transcribe the 1862 Patrick Murray / Mary Donahoe marriage image on FamilySearch.
 - Directly transcribe the 1871 Patrick Murry death image from WV Culture / county death records, especially the father and mother columns.
 - Refine the map placement of **Sheridan, Lewis County** and **Sand Fork of Kent** against Weston, Battelle, Willey, Cove Lick, Camden, Loveberry, and St. Michael's.

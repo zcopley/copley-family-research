@@ -1,0 +1,47 @@
+Report: i3811884-00320 (Ancestry Image 321 of 646)
+
+1. Page Type
+
+Right-hand continuation leaf of the same folded personal property tax form as i3811884-00319. This is not a separate document. The left-hand page, 00319, carried the taxpayer names, ages, and property-count columns; the right-hand page, 00320, carries aggregate-value columns, the REMARKS column, and the printed PROOF summary table. Together they constitute one complete district return.
+
+2. Header, Year, District/Commissioner, Page Number
+
+Printed header: "A Commissioner of the Revenue in the County of Lewis for the year 1854."
+
+Year: Confirmed 1854 at native tile resolution.
+
+District/Commissioner name: None appears separately on this face. The district identifier "C. John Ree" or "John C. Ree" was written on the left-hand page only, 00319. No new district heading appears on 00320.
+
+Page number: Ancestry image 321 of 646. No handwritten folio or page number is visible within the document.
+
+3. Page Function
+
+This is a taxable-persons continuation / value-column face, not a separate oath, attestation, or proof-only page. The left columns are value and fee aggregates for the 19 taxpayers named on 00319. The right portion is the printed PROOF summary table.
+
+The PROOF section includes standard categories such as white males, male free negroes, slaves, horses / mules / asses / jennets, cattle / sheep / hogs, pleasure carriages, watches, clocks, pianos and harps, plate and jewelry, household and kitchen furniture, moneys / bonds / securities / claims, capital invested in mining or manufacturing, court-controlled money, companies declaring no dividends, internal improvement companies, other personal property, fees of office, income, interest or profit, dividends, toll bridges and ferries, values and tax thereon, and total.
+
+4. Signature, Oath, Affidavit, Date, Margin Notes, Full Commissioner Name
+
+Remarks column: A note reading "Exempt by court" appears in the remarks column near rows 10-11. This is an exemption notation, not a district name or oath.
+
+Diagonal annotation: Handwritten numbers written at a slant across lower data rows appear to be a partial running total or cross-check calculation. These are arithmetic notations, not dates or signatures.
+
+Below the Total ruled line: There is faded handwritten text beginning with what appears to be a capital initial, possibly E. or C., followed by cursive text ending in numbers. It is most plausibly a signed certification or running tax figure, but the ink is too faded and smeared to transcribe confidently as a name. It does not clearly read "Ree."
+
+No separate oath or affidavit block is present. No date appears beyond the printed 1854 in the header. The full commissioner name is not legible on this face.
+
+5. Names Visible
+
+No taxpayer names appear on 00320. The names column was entirely on 00319. This face contains numeric values, tick marks, and PROOF totals only.
+
+6. Does 00320 Confirm the Ree District Year / Name?
+
+Partially. It definitively confirms the year 1854 for this folded return. The PROOF statistics are consistent with the small district list on 00319, including the two Loghans. It does not confirm the full commissioner name or resolve "C. John Ree" vs. "John C. Ree."
+
+7. Connection to Loghan / Murray / Donahoe / Kester
+
+The value-column entries corresponding to rows 15-16 are present, confirming the named Loghan taxpayers on 00319 had assessable property. No names from Luke Murray, Anne Loghan, James Murray, Patrick Murry, Donahoe / Donahue, or C. Kester appear on 00320. The James Murray / Patrick Murry / C. Kester sequence belongs to a different district.
+
+8. Next Image to Check
+
+i3811884-00321, Ancestry image 322 of 646, is the logical next check. It should reveal whether a new district begins after the Ree district, whether there is a blank separator, or whether a new commissioner name appears.

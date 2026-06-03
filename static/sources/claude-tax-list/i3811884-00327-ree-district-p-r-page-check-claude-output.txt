@@ -1,0 +1,64 @@
+## i3811884-00327 — Full Report
+
+**Viewer position:** Image 328 of 646, Virginia, U.S., Personal Property Tax Records, 1782–1900 (Ancestry collection 62774). Examined at native zoom level 13 (maximum), tile-by-tile.
+
+---
+
+### Page Type
+**Taxable-persons list** — a pre-printed columnar form headed "List of Taxable Persons, Property, &c. within the District of ___." Same form type as 00321, 00323, and 00325.
+
+---
+
+### Full Header Transcription
+**(Printed text, read across tiles 1_0 through 9_0 at zoom 13):**
+
+> **List of Taxable Persons, Property, &c. within the District of** [handwritten] **John Ree**
+
+The handwritten district name is two words: "John" (clear in tile 7_0) followed by a surname beginning with an ornate capital that reads "Ree" (tile 8_0; the large looped capital is consistent with a period script capital R, and the trailing letters are "ee"). The handwriting matches the same "John Ree" / "John C. Ree" district seen in 00321/00323/00325.
+
+---
+
+### Year, if visible
+No year is explicitly printed or handwritten on this page. The form design and surrounding context (00326 is headed "for the year 1854") place this page in the **1854** Lewis County assessment. No year appears in the tiles examined.
+
+---
+
+### District / Commissioner Label
+District label: **"John Ree"** (handwritten, same form as prior Ree pages). No separate commissioner name line is present on this taxable-persons form. No oath block, no attestation line.
+
+---
+
+### Page Number / Sequence Clues
+- No printed or handwritten page number is visible in any corner tile.
+- The Ancestry sequence number is 328 of 646 (follows 00326 directly).
+- First data entry: April, row 1, date "5," surname beginning "Pu..." (Pumphrey / Humphrey). Second entry: row 2, date "7," "Pe..." (Peterson). These names are consistent with the Ree-district surname pool seen in earlier pages.
+- The page has 27–28 numbered entry lines, with data running from April through May. Last named entry visible is "May [date] 4, Guinn Owen."
+- A totals row appears below the grid bottom border (e.g., "33 … 431 … 320 … 21 … 1").
+
+---
+
+### Relationship to the Ree District
+This page **continues the John Ree district**, carrying the same printed header with the same handwritten "John Ree" district name. It is a second (or continuation) taxable-persons sheet for that district, placed immediately after the 00326 abstract page. The pattern mirrors the known structure: taxable-persons page → 1854 proof/abstract page → next taxable-persons page (continuation of same or new district).
+
+> **Direct evidence:** Header matches Ree district. Same form layout as 00321/00323/00325. Names (Post, Powers, Peterson, Rivers, Priest, Guinn) are consistent with the surname pool already present in the Ree district pages. No new district heading, no commissioner change.
+
+> **Inference:** This is most likely a continuation sheet for the Ree district rather than a new district, because the header explicitly names "John Ree" with no change of commissioner name visible. However, without seeing 00325's last entries directly, I cannot confirm with absolute certainty whether this is a literal carry-over of the same sub-period or an adjacent Ree-district page covering different months.
+
+---
+
+### Signature, Oath, Affidavit, Margin Notes, Commissioner Name
+- **No signature** anywhere on the page (bottom margin tiles 2_7 through 9_7 are blank below the totals line).
+- **No oath or affidavit** block.
+- **No handwritten commissioner name** other than the district designation "John Ree" in the header.
+- **No margin notes** detected.
+- **No year annotation** on the page itself.
+
+---
+
+### Connection to Target Names
+None detected. Names visible on 00327 include Pumphrey/Humphrey (Edward?), Peterson (John P., William, Elizabeth?), Post (Martin, Elias, Jacob P., Jeffee, John), Powers (William D., Daniell), Rivers (Thomas, William), Priest (John M.), Patterson/Peterson (David S.), and Guinn (Owen). **No Loghan, Luke Murray, Anne Loghan, James Murray, Patrick Murry, Donahoe/Donahue, or C. Kester** appear anywhere on this page.
+
+---
+
+### Exact Next Image to Check
+**i3811884-00328** (image 329 of 646). That is the page immediately following 00327 and will reveal whether the sequence produces another taxable-persons continuation, a new district, or a proof/abstract page.

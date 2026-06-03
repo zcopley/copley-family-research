@@ -1,0 +1,77 @@
+Image i3811884-00330 - Full Report
+
+Page Type
+
+Proof / Abstract page - the standard folded-form right-hand face that pairs with a taxable-persons list. This is the aggregate-totals (PROOF) face of the Lewis County personal-property-tax book for 1854.
+
+Header Transcription
+
+A Commissioner of the Revenue in the County of Lewis for the year 1854
+
+The county name is written in cursive script in the middle of the printed header line; the year 1854 appears in bold at the right.
+
+Full Year Visible
+
+1854 - clearly printed in the header.
+
+District / Commissioner Label
+
+None visible on this face. The PROOF page does not carry a separate district or commissioner name; that information appeared on the paired taxable-persons page (i3811884-00329, headed "List of Taxable Persons ... within the District of John Ree").
+
+Page Number / Sequence Clues
+
+- Ancestry filmstrip position: 331 of 646.
+- No visible manuscript page number on the document face itself.
+- By document structure this is the right-hand (PROOF) face that immediately follows the John Ree district taxable-persons list on image 00329; together the two images form one folded sheet.
+
+Page Structure - Left-Hand Side
+
+The left portion of the page carries numbered rows (at least 1-39 visible) with dollar-and-cents amounts in two or three columns. These are aggregate dollar totals for each taxable person carried forward from the taxable-persons list - standard for the PROOF format. No individual names appear here.
+
+PROOF Section - Right-Hand Side
+
+The right side carries the standard printed PROOF table with two value columns ("Value" and "Tax on value" / "Total Tax"). Legible category lines and figures, with best-effort readings of partially visible numbers:
+
+| Category | Count / Quantity | Value / Tax notes |
+|---|---|---|
+| White males, at 40 cents | 30 | tax value visible |
+| Male free negroes, at 100 cents | - | - |
+| Slaves, at 60 cents | - | - |
+| Horses, mules, asses and jennets | likely 1556 or similar | $2,685 / $3,700 approx., partially legible |
+| Cattle, sheep and hogs | 569 | $3,139 / $6,345 approx. |
+| Pleasure carriages, stage coaches, &c. | - | - |
+| Watches | 1 | $5 / $1.00 |
+| Clocks | 10 | $37 / $11.40 |
+| Pianos and harps | - | - |
+| Plate and jewelry | - | - |
+| Household and kitchen furniture | value present | $1,833 / $2,674 approx. |
+| Moneys, bonds, securities and claims | 730 | $15,800 approx. |
+| Capital invested in mining or manufacturing | 33 | $3.00 |
+| Moneys, &c., under control of a court, &c. | small figure | - |
+| Capital of companies which declare no dividends | - | - |
+| Personal property, &c. of internal improvement companies | - | - |
+| Other articles of personal property | 341 | $14,000 approx. |
+| Fees of office | - | - |
+| Incomes or profit, at 5% per cent | - | - |
+| Dividends, 31 per cent | - | - |
+| Toll-bridges and ferries, (per cent) | - | - |
+| Salaries and tax thereon | figure present | $1,245 / $1,540 approx. |
+| Total | - | about $12,864 approx., partially obscured by filmstrip badge |
+
+Numbers are approximations where partially obscured by the filmstrip navigation badge.
+
+Oath / Affidavit / Certification / Signature / Margin Notes
+
+None visible on this face. The PROOF/abstract page in this series does not carry an oath or signature block on the page face examined. Certification, if any, would appear on a separate attestation page or on the back of this sheet.
+
+Whether 00330 is Paired to 00329
+
+Yes - this is the standard proof/abstract face paired with the John Ree district taxable-persons list on i3811884-00329. The two images represent opposite faces or the two halves of the same folded tax-book sheet for the John Ree district, Lewis County, 1854.
+
+Changes Anything for Murray / Loghan / Donahoe / Kester?
+
+No. The PROOF page contains only aggregate dollar totals and printed category lines - no individual names appear. There is no Murray/Murry, Loghan, Donahoe/Donahue, or C. Kester connection present or implied on this page.
+
+Exact Next Image - Is a Follow-Up Warranted?
+
+No additional bounded follow-up is warranted from this image alone. Image 00330 is confirmed as the PROOF companion to 00329 and contains only statistical aggregate data for the John Ree district, 1854. The next image in sequence (i3811884-00331) would be the start of the next district's taxable-persons page, which is outside the scope of the current research task.

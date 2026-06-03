@@ -52,15 +52,128 @@ When a search produces a record, a negative result, or a corrected claim:
 
 ### Current Highest-Value Claude for Chrome Task
 
-For a single bounded Claude-for-Chrome session, the highest-value next task is **check `i3811884-00363` for the missing tax-list header context**. The James Murray row on `i3811884-00377` and the Patrick Murry row on `i3811884-00379` are image-verified by Claude for Chrome and appear in the same probable-1854 district-list sequence. The proof pages / spreads `i3811884-00378`, `i3811884-00376`, `i3811884-00374`, `i3811884-00372`, `i3811884-00370`, `i3811884-00368`, `i3811884-00366`, and `i3811884-00364` all cut off the final year digit or leave it absent, and taxable-persons pages `i3811884-00375`, `i3811884-00373`, `i3811884-00371`, `i3811884-00369`, `i3811884-00367`, and `i3811884-00365` have no readable district name or year, so the immediately preceding image is the next best chance to recover the full year, district number, or commissioner.
+For the next offline / restricted-access session, the highest-value task is now **checking the restricted Smith compiled Lewis County marriage-bonds index** for Luke Murray / Anne Loghan. The online bond / consent search is complete: no separate bond, consent, or license-return document was found remotely. Film 825112 / DGS 4130804 contains marriage registers only, not bond papers.
 
 Use this exact prompt:
+
+```text
+Do one narrow research task only. Do not browse broadly and do not do repo editing.
+
+Goal:
+Check the restricted Smith compiled index, "Marriage bonds and marriage records 1816-1865, Lewis County, (West) Virginia," for the 1854 Luke Murray / Anne Loghan marriage. The goal is to find whether the index gives a bondsman, parents, and bond book / page reference for the original Lewis County bond.
+
+Known context:
+- The license-register image has been read: WV Culture Film 825111, Image 00184; FamilySearch DGS 4130803; Lewis County marriage register page 75.
+- The register entry reads: `Luke Murray to Anne Loghan`, dated 30 December 1854, issued by `Jno Monroe Clk`.
+- That register entry does not name witnesses, bondsman, surety, parents, guardian, consent giver, or officiant.
+- The online bond / consent search found no separate bond or consent in remotely accessible material.
+- FamilySearch ARK `1:1:Q2ZX-G78G` indexes the marriage as Luke Murray / Anne Loghan but says `Image Unavailable`.
+- FamilySearch ARK `1:1:FRRG-HPT` is indexed as Marriage Consent / Anne Log?an but routes to the same WV Culture Film 825111 Image 184 register image; `Marriage Consent` is an indexer / ingestion label, not evidence of a separate scanned consent document.
+- Neighboring Film 825111 images 175, 180, 183, 185, 186, 190, and 200 were checked and are blank leader / transition frames; no adjacent bond or consent pages appear around image 184.
+- Film 825112 / DGS 4130804 was checked online; it contains a second set of marriage registers, not bond / consent papers.
+- FamilySearch full-text search for `"Luke Murray" "Lewis County"` returned 0 results.
+- The one directly relevant restricted source is: `Marriage bonds and marriage records 1816-1865, Lewis County, (West) Virginia`, compiled by Robert B. Smith, Hacker's Creek Pioneer Descendants, c. 1991.
+- Smith source access: printed book at FamilySearch Library, call number `975.461 V28s`, 3rd Floor; microfilm Film `1598435` Item 6 / DGS `7949996`, viewable only at a FamilySearch Center / affiliate library or FamilySearch Library. Multiple home-access ARK variants for this DGS were attempted and all returned Image Restricted / Image Unavailable.
+- FamilySearch catalog says the Smith work is divided into groom and bride indexes and gives marriage date, groom, bride, parents' names if given, bondsmen, book, and page numbers.
+
+Task:
+1. At a FamilySearch Center / affiliate library, open Film `1598435` Item 6 / DGS `7949996`; or at the FamilySearch Library, use book call number `975.461 V28s`.
+2. Check the groom index under Murray / Murry / Murrey for Luke / Lucas / L. Murray.
+3. Check the bride index under Loghan / Logan / Lohan for Anne / Ann / Anna.
+4. If Luke Murray / Anne Loghan appears, transcribe the full index entry exactly. Capture marriage date, groom, bride, parents if given, bondsman / surety, bond book, page number, and any notes.
+5. If the entry gives a bond book and page, record the exact book / page citation needed to request the original from the Lewis County Clerk in Weston, West Virginia.
+6. If no entry appears, document the exact negative search: which index sections were checked, variants checked, and whether the Smith source covers 1854 bonds.
+7. Do not redo the online FamilySearch / WV Culture register search, tax-list work, census work, deed work, probate work, or broad surname searching.
+
+Output format:
+
+SMITH INDEX CHECK SCOPE
+- Access location:
+- Source used: book or film / DGS:
+- Call number / film / DGS:
+- Index sections checked:
+- Variants checked:
+
+GROOM INDEX RESULT
+- Murray / Murry / Murrey entries checked:
+- Luke / Lucas / L. Murray found?:
+- Full transcription if found:
+- If not found, exact negative result:
+
+BRIDE INDEX RESULT
+- Loghan / Logan / Lohan entries checked:
+- Anne / Ann / Anna found?:
+- Full transcription if found:
+- If not found, exact negative result:
+
+BOND / BOOK-PAGE DETAILS
+- Bondsman / surety:
+- Parents:
+- Marriage date:
+- Bond book:
+- Page:
+- Notes:
+
+RQ-M1 INTERPRETATION
+- Does the Smith index identify a bondsman, surety, parent, bond book, or page for Luke / Anne?
+- Does it connect Luke / Anne to John Loghan, Owen Loghan, James Murray, Patrick Murry, Donahoe / Donahue, C. Kester, or the Ree district?
+- Does this change the post-1850 first-tax-appearance model or older Luke / Margaret interpretation?
+- What exact courthouse request or image, if any, should be pursued next?
+```
+
+Completed prior prompt for the online 1854 Luke Murray / Anne Loghan bond / consent search (archived; do not reuse as the next task). Result: no separate bond, consent, or license return was found in any remotely accessible source. Film 825112 / DGS 4130804 contains marriage registers only, not bond papers. WV Culture indexes one Luke Murray / Anne Log?an record and points back to Film 825111 Image 184. The only directly relevant bond source found is the restricted Smith compiled index, `Marriage bonds and marriage records 1816-1865, Lewis County, (West) Virginia`, Film 1598435 Item 6 / DGS 7949996 or book call number 975.461 V28s.
+
+Completed prior prompt for the 1854 Luke Murray / Anne Loghan marriage-register and bond access check (archived; do not reuse as the next task). Result: FamilySearch ARK `1:1:Q2ZX-G78G` still says Image Unavailable. FamilySearch ARK `1:1:FRRG-HPT` routes to WV Culture. WV Culture Film 825111 Image 00184 is readable and directly confirms the register entry `Luke Murray to Anne Loghan`, dated 30 December 1854, issued by `Jno Monroe Clk`. It names no witnesses, bondsman, surety, parents, guardian, consent giver, or officiant. The later online bond / consent search found no remotely accessible separate document, showed Film 825112 / DGS 4130804 is register-only, and moved the next source to the restricted Smith compiled marriage-bonds index.
+
+Completed prior prompt for the 1859-1860 Murrow Hudson cleanup (archived; do not reuse as the next task). Result: `i3811885-00370` line 2 reads `Murrow Hudson`, not Newsom, with 1 tithable, no horses, 5 cattle valued at 16, and rightmost tax / value 20. `i3811885-00435` line 26 reads `Murrow Hudson` with 1 tithable, no horses, 2 cattle, cattle value probably 6, and right-side values 20 / 1 / 20 after canvas extraction bypassed the Ancestry overlay. Optional 1858 E. Slesher page 19 was found at `i3811885-00301` and has no Murray / Murry / Murrow / Murrey entries.
+
+Completed prior prompt for the 1855-1860 tax-gap check (archived; do not reuse as the next task). Result: 1855 M-section not accessible; 1856 C. Kester M-section checked negative with John Kee / Lee M-section not reached; 1857 Geo. J. Marsh M-section confirmed Murray Hudson, Murray Edwards, Murray James, and Murray Patrick; 1858 E. Slesher confirmed Murray William plus low-confidence Murty C./G.; 1859 Geo. J. Marsh confirmed Murrow Hudson after cleanup; 1860 Geo. J. Marsh confirmed Murray James and Murrow Hudson; no Luke / Lucas / Margaret Murray or Murry appears in checked or accessible M-sections through 1860.
+
+Completed prior prompt for `i3811884-00330` Ree district proof / abstract check (archived; do not reuse as the next task). Result: 1854 proof / abstract page headed `A Commissioner of the Revenue in the County of Lewis for the year 1854`; paired with `00329`; no separate district label, commissioner name, page number, oath, affidavit, certification, signature, margin note, target-family name, or Ree-to-Kester connection. No additional bounded Ree follow-up is warranted from this image alone.
+
+Completed prior prompt for `i3811884-00329` Ree district R-S page check (archived; do not reuse as the next task). Result: taxable-persons page headed `District of John Ree`; continues the same Ree district into R/S names; no visible year, page number, oath, affidavit, signature, margin note, target-family name, or Ree-to-Kester connection.
+
+Completed prior prompt for `i3811884-00328` Ree district proof / abstract check (archived; do not reuse as the next task). Result: 1854 proof / abstract page headed `A Commissioner of the Revenue in the County of Lewis for the year 1854`; paired with `00327` and likely closes the John Ree P/R return; no separate district label, readable commissioner name, page number, clearly legible oath, affidavit, signature, target-family name, or Ree-to-Kester connection.
+
+Completed prior prompt for `i3811884-00326` Ree district proof / abstract check (archived; do not reuse as the next task). Result: 1854 proof / abstract page headed `A Commissioner of the Revenue in the County of Lewis for the year 1854`; no separate district label, readable commissioner name, oath, affidavit, signature, free-text remarks, target-family name, or Ree-to-Kester connection. By pattern inference it is most likely paired to `00325`.
+
+Completed prior prompt for `i3811884-00327` Ree district P-R page check (archived; do not reuse as the next task). Result: taxable-persons page headed `District of John Ree`; continues the Ree district into P/R-type names; no visible year, page number, oath, affidavit, signature, margin note, target-family name, or district transition.
+
+Completed prior prompt for `i3811884-00325` Ree district N-O page check (archived; do not reuse as the next task). Result: taxable-persons page headed `District of John Cs. Ree`; continues the Ree district into sparse N/O names; no visible year, oath, affidavit, signature, target-family name, or district transition.
+
+Completed prior prompt for `i3811884-00324` Ree district proof / abstract check (archived; do not reuse as the next task). Result: proof / abstract page headed `A Commissioner of the Revenue in the County of Lewis -- for the year 1854`; no separate district label, readable commissioner name, oath, attestation, affidavit, signature, margin note, target-family name, or Ree-to-Kester connection.
+
+Completed prior prompt for `i3811884-00323` Ree district M-N page check (archived; do not reuse as the next task). Result: continues the same Ree district into M/N names with header `John Cs. Ree`; no visible year, oath, affidavit, signature, target-family name, or district transition.
+
+Completed prior prompt for `i3811884-00322` Ree district proof / abstract check (archived; do not reuse as the next task). Result: paired proof / abstract for the 31-entry `00321` M/Mc page; directly confirms 1854; no readable commissioner name, oath, signature, or target-family name.
+
+Completed prior prompt for `i3811884-00321` Ree district M-section page check (archived; do not reuse as the next task). Result: continues the Ree district into an M/Mc taxable-persons page and supports `John C. Ree` / `John Cs. Ree`; no target family names, oath, signature, or district transition.
+
+Completed prior prompt for `i3811884-00320` Ree district proof / continuation check (archived; do not reuse as the next task). Result: confirms the Ree / Loghan folded return as 1854, but no fuller Ree name or oath.
+
+Completed prior prompt for `i3811884-00319` Loghan row check (archived; do not reuse as the next task). Result: `Loghan John` and `Loghan Owen` confirmed; district label reads `C. John Ree` / possible `John C. Ree`.
+
+Completed prior prompt for `i3811884-00262` Eliza Jane row check (archived; do not reuse as the next task). Result: direct image reading is `Merry, Eliza Jane`, not Murry.
+
+Completed prior prompt for `i3811884-00380` proof / summary page check (archived; do not reuse as the next task).
+
+Completed prior prompt for `i3811884-00379` Patrick page header / margin check (archived; do not reuse as the next task).
+
+Completed prior prompt for `i3811884-00378` proof-page header / margin check (archived; do not reuse as the next task).
+
+Completed prior prompt for `i3811884-00377` header / margin check (archived; do not reuse as the next task).
+
+Completed prior prompt for `i3811884-00361` native-tile reread (archived; do not reuse as the next task).
+
+Completed prior prompt for `i3811884-00362` bottom/signature recheck (archived; do not reuse as the next task).
+
+Completed prior prompt for `i3811884-00360` (archived; do not reuse as the next task):
 
 ```text
 Do one narrow research task only. Do not browse broadly and do not do any repo work.
 
 Goal:
-Check Ancestry image `i3811884-00363`, the image immediately before proof spread `i3811884-00364`, to see whether it is a cover page, header sheet, title page, proof / summary page, taxable-persons page, or separator that can identify the full year, district number, and commissioner for the James Murray / Patrick Murry tax-list sequence. This is one image-target task, not a broad surname sweep.
+Check Ancestry image `i3811884-00360`, the image immediately before taxable-persons page `i3811884-00361`, to see whether it corroborates the `C Kester` district / commissioner-label reading for the 1854 Lewis County James Murray / Patrick Murry tax-list sequence. This is one image-target task, not a broad surname sweep.
 
 Known context:
 - The direct early John Murray deed path is closed. The old 1826 Murray / Fish and 1833 John Murray leads are both 1899 oil-and-gas lease misindexes.
@@ -74,8 +187,8 @@ Known context:
 - The 1854 Luke Murray is probably not Patrick's father if his approximate 1822 birth year is correct; he is Patrick's near-contemporary. The death-register parents likely point to an older Luke Murry and Margaret Murry, probably born circa 1790-1800 in Ireland.
 - The older Luke & Margaret indexed search found no independent record for that parent couple in FamilySearch, WV Culture, Find A Grave, or indexed census / vital collections. The only FamilySearch tree entries for older Luke / Margaret are sourced only to Patrick's 1871 death record.
 - The Round 2 indexed search found no Luke or Irish-born Murray / Murry / Murrey in the complete indexed 1850 Lewis County census; the 36 Lewis County Murray / Murry / Murrey entries were all Virginia-born. Indexed Virginia land tax, Virginia personal property tax, West Virginia probate, 1870 West Virginia census, Lewis County marriage, and Find A Grave searches were also negative for older Luke / Margaret.
-- A later personal-property-tax handoff in Ancestry's Virginia personal-property-tax collection found: `Murry Eliza Jane` in 1853, `Murray James` in 1854, and `Murry Patrick` in the apparent 1854 sequence. It found no Luke / Lucas in checked 1817-1855 M-sections. The handoff says 1856 in one place but the year table says 1856 was not reached, so treat 1856 and 1857-1860 as open.
-- A follow-up verified the Patrick row directly on `i3811884-00379`: page 16 line 14 reads `Murry Patrick`, with 1 white male tithable and 1 horse valued at 50. The final year digit is cut off, so the year is probable 1854 by sequence rather than internally visible on that image.
+- A later personal-property-tax handoff in Ancestry's Virginia personal-property-tax collection first reported `Murry Eliza Jane` in 1853, `Murray James` in 1854, and `Murry Patrick` in the 1854 sequence. A subsequent native-tile check corrected the 1853 row to `Merry, Eliza Jane`, not Murry. The later 1855-1860 gap pass confirmed James and Patrick again in 1857, confirmed James in 1860, added Murray / Murrow Hudson, Murray Edwards, and separate-district Murray William as FAN-club clues, and found no Luke / Lucas / Margaret in checked or accessible M-sections through 1860. Treat the remaining tax-list work as targeted cleanup, not a fresh broad gap pass.
+- A follow-up verified the Patrick row directly on `i3811884-00379`: page 16 line 14 reads `Murry Patrick`, with 1 white male tithable and 1 horse valued at 50.
 - A follow-up verified the James row directly on `i3811884-00377`: page 15 line 24 reads `Murray James`, with 1 white male tithable and no listed horses, livestock, or luxury goods.
 - The intervening proof page `i3811884-00378` shows `for the year 185`, with the final digit cut off; no commissioner name is legible.
 - James and Patrick are in the same continuous district-list sequence: page 15 (`i3811884-00377`) -> proof page (`i3811884-00378`) -> page 16 (`i3811884-00379`).
@@ -92,15 +205,19 @@ Known context:
 - A follow-up checked `i3811884-00366`. It is a proof / summary page, likely paired with taxable-persons page 9; it has the same `for the year 185` problem, a blank district / commissioner field, and no taxable-person names.
 - A follow-up checked `i3811884-00365`. It is taxable-persons page 9, with G-section names, a blank district field, and no visible year or commissioner.
 - A follow-up checked `i3811884-00364`. It is a proof / summary spread immediately before taxable-persons page `00365`, with the same `for the year 185` problem, a blank district / commissioner field, and no readable page number.
-- Claude suggested `i3811884-00363` as the next image because it is one image earlier and may be a cover / header / title page, proof page, taxable-persons page, or preceding section image.
-- This session is only about image `i3811884-00363` and district/year context. Do not repeat the already-completed indexed searches or reverify James / Patrick unless needed for page sequence.
+- A follow-up checked `i3811884-00363`. It is taxable-persons page 5 with mostly F-surnames, a faint unreadable district field, no year, no commissioner, and no direct page-flow connection to the later Murray / Murry rows.
+- A follow-up checked `i3811884-00362`. It is a proof / summary page and confirms the year as **1854**. The header reads `A Commissioner of the Revenue in the Lewis for the year 1854`. It confirms Lewis County but does not name the commissioner or show a separate district number.
+- A follow-up checked `i3811884-00361`. It is taxable-persons page 7, with D- and E-surnames. Its header reads `List of Taxable Persons, Property, &c. within the District of C Kester` as best read by Claude. This is likely a district / commissioner label, but it is not a signature or oath, so it needs corroboration.
+- This session is only about image `i3811884-00360` and commissioner/district context. Do not repeat the already-completed indexed searches or reverify James / Patrick unless needed for page sequence.
 - Do not work on Marwee, page 334, page 404, Casey / Carey, Battelle cluster details, Dolan cluster details, Partlow, or broad unrelated Murray families.
 
 Your task:
-1. In Ancestry's `Virginia, U.S., Personal Property Tax Records, 1782-1900`, Lewis County, open image `i3811884-00363`.
+1. In Ancestry's `Virginia, U.S., Personal Property Tax Records, 1782-1900`, Lewis County, open image `i3811884-00360`.
 2. Identify what type of page it is:
    - cover / title / header page for the same district list
-   - proof / summary page immediately before proof spread `i3811884-00364`
+   - affidavit or signature page naming the commissioner
+   - taxable-persons page immediately before page 7 / `i3811884-00361`
+   - proof / summary page
    - taxable-persons page
    - end of a previous district list
    - unrelated separator or blank page
@@ -110,10 +227,10 @@ Your task:
    - commissioner name
    - page number
    - image number and URL
-   - neighboring page sequence clues connecting it to `i3811884-00364`, `i3811884-00365`, `i3811884-00366`, or the later James / Patrick sequence
-4. If it is a taxable-persons page, transcribe the page header and 10-15 names near the bottom of the page to see whether it flows into proof spread `i3811884-00364`, page 9 / `i3811884-00365`, proof page `i3811884-00366`, and page 10 / `i3811884-00367`.
-5. If it is a cover or proof page, transcribe the header and any totals or signatures relevant to the James / Patrick sequence.
-6. Stop after `i3811884-00363`. Do not broaden to other years.
+   - neighboring page sequence clues connecting it to `i3811884-00361`, `i3811884-00362`, `i3811884-00363`, or the later James / Patrick sequence
+4. If it is a taxable-persons page, transcribe the page header and 10-15 names near the bottom of the page to see whether it repeats or clarifies the `C Kester` heading and flows into page 7 / `i3811884-00361`.
+5. If it is a cover, affidavit, or proof page, transcribe the header and any totals, signatures, oath text, district labels, or commissioner names relevant to the James / Patrick sequence.
+6. Stop after `i3811884-00360`. Do not broaden to other years.
 
 Output format:
 
@@ -123,7 +240,7 @@ TAX-LIST HEADER CHECK SCOPE
 - Year / district evidence:
 - Access or image problems:
 
-IMAGE i3811884-00363
+IMAGE i3811884-00360
 - Page type:
 - Image / URL:
 - Full year, if visible:
@@ -133,14 +250,14 @@ IMAGE i3811884-00363
 - Bottom names or totals, if relevant:
 
 DISTRICT / YEAR CONTEXT FOR JAMES / PATRICK
-- Does image i3811884-00363 clarify the `185_` year?
-- Is the final year digit visible anywhere?
+- Does image i3811884-00360 confirm the same 1854 list context?
+- Does it repeat, clarify, or contradict the `C Kester` reading from `00361`?
 - Is the district or commissioner legible?
-- Does image 00363 connect directly to proof spread `i3811884-00364`, page 9 / `i3811884-00365`, proof page `i3811884-00366`, page 10 / `i3811884-00367`, or the later James / Patrick sequence?
+- Does image 00360 connect directly to taxable-persons page 7 / `i3811884-00361`, proof / summary page `i3811884-00362`, taxable-persons page 5 / `i3811884-00363`, or the later James / Patrick sequence?
 
 RQ-M1 INTERPRETATION
-- Does this confirm the probable 1854 year?
-- Does this identify the commissioner or district for James and Patrick?
+- Does this preserve the confirmed 1854 year?
+- Does this corroborate or revise the `C Kester` commissioner / district-label reading for James and Patrick?
 - Does this change the post-1850 arrival or pre-1843 anchor interpretation?
 - What exact image should be checked next?
 

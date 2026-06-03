@@ -10,6 +10,305 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4DK - Luke Anne Online Bond Search Integrated (June 2, 2026)
+
+**MURRAY-WORKFLOW UPDATE:** Integrated Zach's follow-up search for a separate 1854 Lewis County marriage bond, consent, or license-return paper for **Luke Murray** and **Anne Loghan**. No remotely accessible separate bond or consent paper was found. Film 825112 / DGS 4130804 proved to be another marriage-register series, not a bond series. A continuation check confirmed that `FRRG-HPT`'s `Marriage Consent` label routes to the same WV Culture register image, that surrounding Film 825111 frames around image 184 are blank leader / transition frames, and that multiple home-access ARK variants for the Smith DGS remain image-restricted. The only identified bond-specific source is the restricted Smith compiled index, **Marriage bonds and marriage records 1816-1865, Lewis County, (West) Virginia**, Film 1598435 Item 6 / DGS 7949996 or book call number 975.461 V28s.
+
+### Updated Pages
+
+- [[References/Claude for Chrome Lewis County Luke Anne Marriage Bond Check|Claude for Chrome Lewis County Luke Anne Marriage Bond Check]] - added the online bond / consent follow-up, continuation details, and raw report links.
+- [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]], [[Research Priorities and Action Items|Research Priorities and Action Items]], [[Sources and Evidence Index|Sources and Evidence Index]], [[Topics/Murray Settlement|Murray Settlement]], [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]], and [[Search Index|Search Index]] - recorded the online negative and the restricted Smith index as the next marriage-record source.
+- [[Tier 1 Research Execution Kit|Tier 1 Research Execution Kit]] and `.agents/AGENT_RESUME.md` - shifted the active Claude task from online searching to the restricted/offline Smith index check.
+- `static/sources/claude-marriage/luke-murray-anne-loghan-1854-bond-consent-search-claude-output.txt` - preserved the raw Claude for Chrome report.
+- `static/sources/claude-marriage/luke-murray-anne-loghan-1854-bond-consent-continuation-claude-output.txt` - preserved the raw continuation report.
+
+## Phase 4DJ - Luke Anne Marriage Register Integrated (June 2, 2026)
+
+**MURRAY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome check of the 1854 Lewis County marriage record for **Luke Murray** and **Anne Loghan**. The WV Culture image is readable at Film 825111, Image 00184, and directly confirms the register entry **`Luke Murray to Anne Loghan`**, dated **30 December 1854**, issued by **Jno Monroe Clk**. The entry is a license-register entry and does not name witnesses, bondsman, surety, parents, guardian, consent giver, or officiant.
+
+### Updated Pages
+
+- [[References/Claude for Chrome Lewis County Luke Anne Marriage Bond Check|Claude for Chrome Lewis County Luke Anne Marriage Bond Check]] - added a readable source note and raw report link.
+- [[References/Claude for Chrome Lewis County Murry Vital Records|Claude for Chrome Lewis County Murry Vital Records]] and [[References/Claude for Chrome Lewis County Murry Original Image Transcription|Claude for Chrome Lewis County Murry Original Image Transcription]] - corrected the earlier stale conclusion that WV Culture Film 825111 images were blank / unusable.
+- [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]], [[Sources and Evidence Index|Sources and Evidence Index]], [[Research Priorities and Action Items|Research Priorities and Action Items]], [[Topics/Murray Settlement|Murray Settlement]], [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]], and [[Search Index|Search Index]] - recorded the direct Loghan surname confirmation while preserving the limitation that no witness / bond / parent clue appears in the register entry.
+- [[Tier 1 Research Execution Kit|Tier 1 Research Execution Kit]] and `.agents/AGENT_RESUME.md` - archived the register check and shifted the active Claude for Chrome prompt to locating any separate 1854 Luke / Anne bond or consent paper; the later Phase 4DK follow-up exhausted the remotely accessible online path and moved the next step to the restricted Smith index.
+- `static/sources/claude-marriage/luke-murray-anne-loghan-1854-marriage-register-bond-check-claude-output.txt` - preserved the raw Claude for Chrome report.
+
+## Phase 4DI - Murrow Hudson Cleanup Integrated (June 2, 2026)
+
+**MURRAY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome targeted cleanup of the 1859-1860 Murrow Hudson personal-property-tax readings. The cleanup confirms `Murrow Hudson` on `i3811885-00370`, line 2, ruling out Newsom; recovers the 1860 `Murrow Hudson` tax columns on `i3811885-00435`, line 26; and confirms that the optional 1858 E. Slesher page 19 image `i3811885-00301` has no Murray / Murry / Murrow / Murrey entry.
+
+### Updated Pages
+
+- [[References/Claude for Chrome Lewis County Personal Property Tax Check|Claude for Chrome Lewis County Personal Property Tax Check]] and [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]] - updated 1859 / 1860 Hudson rows and added the completed cleanup result.
+- [[Research Priorities and Action Items|Research Priorities and Action Items]], [[Sources and Evidence Index|Sources and Evidence Index]], [[Topics/Murray Settlement|Murray Settlement]], and [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]] - removed the resolved Murrow Hudson cleanup from active next steps and shifted the workflow to the 1854 Luke Murray / Anne Loghan marriage and bond images.
+- [[Tier 1 Research Execution Kit|Tier 1 Research Execution Kit]] and `.agents/AGENT_RESUME.md` - archived the cleanup prompt and installed a new bounded Claude for Chrome prompt for the marriage / bond image-access check.
+- `static/sources/claude-tax-list/lewis-county-1859-1860-murrow-hudson-cleanup-claude-output.txt` - preserved the raw Claude for Chrome cleanup report.
+
+## Phase 4DH - 1855-1860 Tax Gap Integrated (June 1, 2026)
+
+**MURRAY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome check of the Lewis County personal-property-tax gap for 1855-1860 across Ancestry image sets `i3811884` and `i3811885`. The pass confirms James Murray and Patrick Murray / Murry again in 1857, confirms James Murray in 1860, adds Murray / Murrow Hudson, Murray Edwards, and Murray William as new FAN-club tax clues, and finds no Luke / Lucas / Margaret Murray / Murry in the checked or accessible M-sections through 1860.
+
+### Updated Pages
+
+- [[References/Claude for Chrome Lewis County Personal Property Tax Check|Claude for Chrome Lewis County Personal Property Tax Check]] - added the full 1855-1860 gap-check result, coverage caveats, hit table, and raw source link.
+- [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]], [[Sources and Evidence Index|Sources and Evidence Index]], [[Research Priorities and Action Items|Research Priorities and Action Items]], [[Topics/Murray Settlement|Murray Settlement]], [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]], and [[Search Index|Search Index]] - updated the Murray tax-list interpretation: first confirmed tax appearances remain James / Patrick in 1854; 1857 extends both; 1860 extends James and Murrow Hudson; the older Luke / Margaret tax-list search remains negative but with fragmentary-image caveats.
+- [[Tier 1 Research Execution Kit|Tier 1 Research Execution Kit]] and `.agents/AGENT_RESUME.md` - archived the broad 1855-1860 gap task and shifted the active Claude for Chrome prompt to bounded cleanup of the 1859 / 1860 Murrow Hudson reads, with an optional quick check for an 1858 E. Slesher page 19.
+- `static/sources/claude-tax-list/lewis-county-1855-1860-tax-gap-check-claude-output.txt` - preserved the raw Claude for Chrome handoff.
+
+## Phase 4DG - Ree 00330 Proof Abstract Integrated (May 29, 2026)
+
+**MURRAY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome check of Ancestry image `i3811884-00330`. The image is a 1854 proof / abstract page headed `A Commissioner of the Revenue in the County of Lewis for the year 1854`. It is the paired aggregate-totals page for the `00329` John Ree R/S taxable-persons page and contains no individual names, no separate district label, no readable commissioner name, no oath / affidavit / certification / signature, no margin note, and no target-family connection.
+
+### Updated Pages
+
+- [[References/Claude for Chrome Lewis County Personal Property Tax Check|Claude for Chrome Lewis County Personal Property Tax Check]] - added the `00330` Ree district proof / abstract result and raw source link.
+- [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]], [[Sources and Evidence Index|Sources and Evidence Index]], [[Research Priorities and Action Items|Research Priorities and Action Items]], [[Topics/Murray Settlement|Murray Settlement]], [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]], and [[Search Index|Search Index]] - recorded `00330` as the paired proof / abstract for `00329` while adding no direct Loghan-to-Murray or Ree-to-Kester connection.
+- [[Tier 1 Research Execution Kit|Tier 1 Research Execution Kit]] and `.agents/AGENT_RESUME.md` - archived the completed `00330` one-image task and shifted the active Claude for Chrome prompt to the 1855-1860 personal-property-tax gap.
+- `static/sources/claude-tax-list/i3811884-00330-ree-district-proof-abstract-check-claude-output.txt` - preserved the raw Claude for Chrome handoff.
+
+## Phase 4DF - Ree 00329 R-S Continuation Integrated (May 29, 2026)
+
+**MURRAY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome native-tile check of Ancestry image `i3811884-00329`. The image is another taxable-persons page in the same John Ree district, with a header reading `List of Taxable Persons, Property, &c. within the District of John Ree`. It continues into R/S surnames, shows no visible year on the data-page face, no oath / affidavit / signature, no margin notes, no separate commissioner name, no target-family names, and no district transition.
+
+### Updated Pages
+
+- [[References/Claude for Chrome Lewis County Personal Property Tax Check|Claude for Chrome Lewis County Personal Property Tax Check]] - added the `00329` Ree district R/S continuation result and raw source link.
+- [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]], [[Sources and Evidence Index|Sources and Evidence Index]], [[Research Priorities and Action Items|Research Priorities and Action Items]], [[Topics/Murray Settlement|Murray Settlement]], [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]], and [[Search Index|Search Index]] - recorded `00329` as continuing the Ree district while adding no direct Loghan-to-Murray or Ree-to-Kester connection.
+- [[Tier 1 Research Execution Kit|Tier 1 Research Execution Kit]] and `.agents/AGENT_RESUME.md` - recorded the completed `00329` task; the next exact image in the narrow Ree sequence would be `i3811884-00330`, but broader 1855-1860 tax-gap closure remains the higher-value tax-list work.
+- `static/sources/claude-tax-list/i3811884-00329-ree-district-r-s-page-check-claude-output.txt` - preserved the raw Claude for Chrome handoff.
+
+## Phase 4DE - Ree 00328 Proof Abstract Integrated (May 29, 2026)
+
+**MURRAY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome maximum-zoom check of Ancestry image `i3811884-00328`. The image is a 1854 proof / abstract page headed `A Commissioner of the Revenue in the County of Lewis for the year 1854`. It is the paired proof / abstract page for the `00327` John Ree P/R taxable-persons page, likely closing that return. It contains no individual names, no separate district label, no page number, no readable commissioner name, no clearly legible oath / affidavit / signature, and no target-family connection.
+
+### Updated Pages
+
+- [[References/Claude for Chrome Lewis County Personal Property Tax Check|Claude for Chrome Lewis County Personal Property Tax Check]] - added the `00328` Ree district proof / abstract result and raw source link.
+- [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]], [[Sources and Evidence Index|Sources and Evidence Index]], [[Research Priorities and Action Items|Research Priorities and Action Items]], [[Topics/Murray Settlement|Murray Settlement]], [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]], and [[Search Index|Search Index]] - recorded `00328` as another neutral 1854 Ree proof / abstract while adding no direct Loghan-to-Murray or Ree-to-Kester connection.
+- [[Tier 1 Research Execution Kit|Tier 1 Research Execution Kit]] and `.agents/AGENT_RESUME.md` - shifted the next Claude for Chrome task to `i3811884-00329`, checking whether a new district begins, the Ree district continues, an oath / attestation appears, or another page type follows.
+- `static/sources/claude-tax-list/i3811884-00328-ree-district-proof-abstract-check-claude-output.txt` - preserved the raw Claude for Chrome handoff.
+
+## Phase 4DD - Ree 00327 P-R Continuation Integrated (May 29, 2026)
+
+**MURRAY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome native-tile check of Ancestry image `i3811884-00327`. The image is another taxable-persons page in the same John Ree district, with a header reading `List of Taxable Persons, Property, &c. within the District of John Ree`. It shows no visible year on the data-page face, no oath / affidavit / signature, no margin notes, no separate commissioner name, no target-family names, and no district transition.
+
+### Updated Pages
+
+- [[References/Claude for Chrome Lewis County Personal Property Tax Check|Claude for Chrome Lewis County Personal Property Tax Check]] - added the `00327` Ree district P/R continuation result and raw source link.
+- [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]], [[Sources and Evidence Index|Sources and Evidence Index]], [[Research Priorities and Action Items|Research Priorities and Action Items]], [[Topics/Murray Settlement|Murray Settlement]], [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]], and [[Search Index|Search Index]] - recorded `00327` as continuing the Ree district while adding no direct Loghan-to-Murray or Ree-to-Kester connection.
+- [[Tier 1 Research Execution Kit|Tier 1 Research Execution Kit]] and `.agents/AGENT_RESUME.md` - shifted the next Claude for Chrome task to `i3811884-00328`, checking whether the Ree district continues again, a paired proof / abstract follows, a new district begins, an oath / attestation appears, or another page type follows.
+- `static/sources/claude-tax-list/i3811884-00327-ree-district-p-r-page-check-claude-output.txt` - preserved the raw Claude for Chrome handoff.
+
+## Phase 4DC - Ree 00326 Proof Abstract Integrated (May 29, 2026)
+
+**MURRAY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome native-tile check of Ancestry image `i3811884-00326`. The image is a 1854 proof / abstract page headed `A Commissioner of the Revenue in the County of Lewis for the year 1854`. It contains no personal names, no separate `John Cs. Ree` district label, no readable commissioner name, no oath / affidavit / signature, no free-text remarks, and no target-family connection. By page-sequence pattern, it is most likely the paired proof / abstract for the `00325` Ree N/O data page.
+
+### Updated Pages
+
+- [[References/Claude for Chrome Lewis County Personal Property Tax Check|Claude for Chrome Lewis County Personal Property Tax Check]] - added the `00326` Ree district proof / abstract result and raw source link.
+- [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]], [[Sources and Evidence Index|Sources and Evidence Index]], [[Research Priorities and Action Items|Research Priorities and Action Items]], [[Topics/Murray Settlement|Murray Settlement]], [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]], and [[Search Index|Search Index]] - recorded `00326` as another 1854 Ree proof / abstract while adding no direct Loghan-to-Murray or Ree-to-Kester connection.
+- [[Tier 1 Research Execution Kit|Tier 1 Research Execution Kit]] and `.agents/AGENT_RESUME.md` - shifted the next Claude for Chrome task to `i3811884-00327`, checking whether the Ree district continues, a new district begins, an oath / attestation appears, or another page type follows.
+- `static/sources/claude-tax-list/i3811884-00326-ree-district-proof-abstract-check-claude-output.txt` - preserved the raw Claude for Chrome handoff.
+
+## Phase 4DB - Ree 00325 N-O Continuation Integrated (May 28, 2026)
+
+**MURRAY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome native-tile check of Ancestry image `i3811884-00325`. The image is another taxable-persons page in the same Ree district, with a clear `District of John Cs. Ree` header and sparse N/O surname entries. It shows no visible year, oath, affidavit, signature, margin note, target-family names, or district transition.
+
+### Updated Pages
+
+- [[References/Claude for Chrome Lewis County Personal Property Tax Check|Claude for Chrome Lewis County Personal Property Tax Check]] - added the `00325` Ree district N-O continuation result and raw source link.
+- [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]], [[Sources and Evidence Index|Sources and Evidence Index]], [[Research Priorities and Action Items|Research Priorities and Action Items]], [[Topics/Murray Settlement|Murray Settlement]], [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]], and [[Search Index|Search Index]] - recorded `00325` as continuing the Ree district while adding no direct Loghan-to-Murray or Ree-to-Kester connection.
+- [[Tier 1 Research Execution Kit|Tier 1 Research Execution Kit]] and `.agents/AGENT_RESUME.md` - shifted the next Claude for Chrome task to `i3811884-00326`, checking whether the Ree district data continues, a paired proof / abstract follows, a new district begins, or another page type appears.
+- `static/sources/claude-tax-list/i3811884-00325-ree-district-n-o-page-check-claude-output.txt` - preserved the raw Claude for Chrome handoff.
+
+## Phase 4DA - Ree 00324 Proof Abstract Integrated (May 28, 2026)
+
+**MURRAY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome native-tile check of Ancestry image `i3811884-00324`. The image is a 1854 proof / abstract page for the Ree district pages, headed `A Commissioner of the Revenue in the County of Lewis -- for the year 1854`. It has no personal names, no separate `John Cs. Ree` label, no readable commissioner name, no oath / attestation / affidavit, no signature, and no target-family connection.
+
+### Updated Pages
+
+- [[References/Claude for Chrome Lewis County Personal Property Tax Check|Claude for Chrome Lewis County Personal Property Tax Check]] - added the `00324` Ree district proof / abstract result and raw source link.
+- [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]], [[Sources and Evidence Index|Sources and Evidence Index]], [[Research Priorities and Action Items|Research Priorities and Action Items]], [[Topics/Murray Settlement|Murray Settlement]], [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]], and [[Search Index|Search Index]] - recorded `00324` as another 1854 Ree proof / abstract page while adding no direct Loghan-to-Murray or Ree-to-Kester connection.
+- [[Tier 1 Research Execution Kit|Tier 1 Research Execution Kit]] and `.agents/AGENT_RESUME.md` - shifted the next Claude for Chrome task to `i3811884-00325`, checking whether a new district begins, an oath / attestation appears, a blank separator follows, or another Ree / county return page continues.
+- `static/sources/claude-tax-list/i3811884-00324-ree-district-proof-abstract-check-claude-output.txt` - preserved the raw Claude for Chrome handoff.
+
+## Phase 4CZ - Ree 00323 M-N Continuation Integrated (May 28, 2026)
+
+**MURRAY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome native-tile check of Ancestry image `i3811884-00323`. The image is another taxable-persons page in the same Ree district, with a `District of John Cs. Ree` header and M/N surname continuity. It shows no visible year, oath, affidavit, certification, signature block, target-family names, or district transition.
+
+### Updated Pages
+
+- [[References/Claude for Chrome Lewis County Personal Property Tax Check|Claude for Chrome Lewis County Personal Property Tax Check]] - added the `00323` Ree district M-N continuation result and raw source link.
+- [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]], [[Sources and Evidence Index|Sources and Evidence Index]], [[Research Priorities and Action Items|Research Priorities and Action Items]], [[Topics/Murray Settlement|Murray Settlement]], [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]], and [[Search Index|Search Index]] - recorded `00323` as continuing the Ree district while adding no direct Loghan-to-Murray or Ree-to-Kester connection.
+- [[Tier 1 Research Execution Kit|Tier 1 Research Execution Kit]] and `.agents/AGENT_RESUME.md` - shifted the next Claude for Chrome task to `i3811884-00324`, checking whether the next image is another Ree data page, a paired proof / abstract for `00323`, a new district, or an oath / attestation.
+- `static/sources/claude-tax-list/i3811884-00323-ree-district-m-n-page-check-claude-output.txt` - preserved the raw Claude for Chrome handoff.
+
+## Phase 4CY - Ree 00322 Proof Abstract Integrated (May 28, 2026)
+
+**MURRAY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome native-tile check of Ancestry image `i3811884-00322`. The image is the proof / abstract page paired with the 31-entry `00321` Ree district M/Mc taxable-persons page and directly confirms **1854** for that return. It does not name a commissioner, show an oath / affidavit, or connect the Ree / Loghan district to the `C. Kester` James / Patrick sequence.
+
+### Updated Pages
+
+- [[References/Claude for Chrome Lewis County Personal Property Tax Check|Claude for Chrome Lewis County Personal Property Tax Check]] - added the `00322` Ree district proof / abstract result and raw source link.
+- [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]], [[Sources and Evidence Index|Sources and Evidence Index]], [[Research Priorities and Action Items|Research Priorities and Action Items]], [[Topics/Murray Settlement|Murray Settlement]], and [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]] - recorded `00322` as directly confirming 1854 for the Ree M/Mc return while adding no target-family names, oath, or commissioner signature.
+- [[Tier 1 Research Execution Kit|Tier 1 Research Execution Kit]] and `.agents/AGENT_RESUME.md` - shifted the next Claude for Chrome task to `i3811884-00323`, checking whether the Ree district continues, a new district begins, or an oath / attestation appears.
+- `static/sources/claude-tax-list/i3811884-00322-ree-district-proof-abstract-check-claude-output.txt` - preserved the raw Claude for Chrome handoff.
+
+## Phase 4CX - Ree 00321 M-Section Page Integrated (May 28, 2026)
+
+**MURRAY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome native-tile check of Ancestry image `i3811884-00321`. The image is a taxable-persons M/Mc page, not a new district, oath, attestation, proof page, or separator. Its header continues the Ree district and gives the strongest current support for **`John C. Ree` / `John Cs. Ree`** as the district / commissioner label, while showing no Loghan, Murray / Murry, Donahoe / Donahue, or `C. Kester` names.
+
+### Updated Pages
+
+- [[References/Claude for Chrome Lewis County Personal Property Tax Check|Claude for Chrome Lewis County Personal Property Tax Check]] - added the `00321` Ree district M-section result and raw source link.
+- [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]], [[Sources and Evidence Index|Sources and Evidence Index]], [[Research Priorities and Action Items|Research Priorities and Action Items]], [[Topics/Murray Settlement|Murray Settlement]], [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]], and [[Search Index|Search Index]] - recorded that `00321` continues the Ree district and does not create a direct Loghan-to-Murray or Ree-to-Kester connection.
+- [[Tier 1 Research Execution Kit|Tier 1 Research Execution Kit]] and `.agents/AGENT_RESUME.md` - shifted the next Claude for Chrome task to `i3811884-00322`, checking the page after the Ree M/Mc list face for year, proof, oath, signature, or transition evidence.
+- `static/sources/claude-tax-list/i3811884-00321-ree-district-m-section-page-check-claude-output.txt` - preserved the raw Claude for Chrome handoff.
+
+## Phase 4CW - Ree 00320 Proof Continuation Integrated (May 28, 2026)
+
+**MURRAY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome native-tile check of Ancestry image `i3811884-00320`. The image is the right-hand continuation / PROOF face of the same folded return as `00319` and confirms the Ree / Loghan return year as **1854**. It does not repeat or clarify `C. John Ree` versus `John C. Ree`, and it contains no separate oath or readable commissioner signature.
+
+### Updated Pages
+
+- [[References/Claude for Chrome Lewis County Personal Property Tax Check|Claude for Chrome Lewis County Personal Property Tax Check]] - added the `00320` Ree district proof / continuation result and raw source link.
+- [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]], [[Sources and Evidence Index|Sources and Evidence Index]], [[Research Priorities and Action Items|Research Priorities and Action Items]], [[Topics/Murray Settlement|Murray Settlement]], and [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]] - recorded `00320` as confirming the Loghan folded return as 1854 while leaving the full Ree name unresolved.
+- [[Tier 1 Research Execution Kit|Tier 1 Research Execution Kit]] and `.agents/AGENT_RESUME.md` - shifted the next Claude for Chrome task to `i3811884-00321`, checking for the post-Ree district transition.
+- `static/sources/claude-tax-list/i3811884-00320-ree-district-proof-continuation-claude-output.txt` - preserved the raw Claude for Chrome handoff.
+
+## Phase 4CV - Loghan 00319 Row Check Integrated (May 28, 2026)
+
+**MURRAY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome native-tile check of Ancestry image `i3811884-00319`. The image confirms **`Loghan John`** on row 15 and **`Loghan Owen`** on row 16; Owen, not Queen, is the correct reading. The page belongs to the `C. John Ree` / possible `John C. Ree` district, not the `C. Kester` district tied to James Murray and Patrick Murry.
+
+### Updated Pages
+
+- [[References/Claude for Chrome Lewis County Personal Property Tax Check|Claude for Chrome Lewis County Personal Property Tax Check]] - added the `00319` Loghan row-check result and raw source link.
+- [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]], [[Sources and Evidence Index|Sources and Evidence Index]], [[Research Priorities and Action Items|Research Priorities and Action Items]], [[Topics/Murray Settlement|Murray Settlement]], [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]], and [[Search Index|Search Index]] - recorded the Loghan entries as image-verified same-county / same-year context for Luke Murray's 1854 marriage to Anne Loghan, while keeping them district-distinct from the Kester Murry sequence.
+- [[Tier 1 Research Execution Kit|Tier 1 Research Execution Kit]] and `.agents/AGENT_RESUME.md` - shifted the next Claude for Chrome task to `i3811884-00320`, checking for a Ree district oath / attestation or transition page.
+- `static/sources/claude-tax-list/i3811884-00319-loghan-row-check-claude-output.txt` - preserved the raw Claude for Chrome handoff.
+
+## Phase 4CU - Eliza Jane Merry Correction Integrated (May 27, 2026)
+
+**MURRAY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome native-tile check of Ancestry image `i3811884-00262`. The reported 1853 `Murry Eliza Jane` row is corrected to **`Merry, Eliza Jane`**. The row, line number, John Kee district header, 12 / 12 livestock figures, and `$40` household-furniture value are confirmed, but the surname spelling means this is not confirmed Murry evidence.
+
+### Updated Pages
+
+- [[References/Claude for Chrome Lewis County Personal Property Tax Check|Claude for Chrome Lewis County Personal Property Tax Check]] - added the `00262` row-check result and raw source link.
+- [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]], [[Sources and Evidence Index|Sources and Evidence Index]], [[Research Priorities and Action Items|Research Priorities and Action Items]], [[Topics/Murray Settlement|Murray Settlement]], [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]], and [[Search Index|Search Index]] - revised the tax-list interpretation so James Murray and Patrick Murry in 1854 are the first confirmed Murray / Murry tax appearances in this pass.
+- [[Tier 1 Research Execution Kit|Tier 1 Research Execution Kit]] and `.agents/AGENT_RESUME.md` - shifted the next Claude for Chrome task to verifying the 1854 Loghan rows on `i3811884-00319`.
+- `static/sources/claude-tax-list/i3811884-00262-eliza-jane-merry-row-check-claude-output.txt` - preserved the raw Claude for Chrome handoff.
+
+## Phase 4CT - Proof Page 00380 Neutral Check Integrated (May 27, 2026)
+
+**MURRAY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome native-tile check of Ancestry image `i3811884-00380`, the proof / summary page immediately after Patrick Murry's page. The district-name field is effectively unreadable, no signature / oath / affidavit / footer / margin note appears, and the page neither confirms nor contradicts the faint `C. Kester` read on Patrick page `00379`.
+
+### Updated Pages
+
+- [[References/Claude for Chrome Lewis County Personal Property Tax Check|Claude for Chrome Lewis County Personal Property Tax Check]] - added the `00380` proof / summary page check result and raw source link.
+- [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]], [[Sources and Evidence Index|Sources and Evidence Index]], [[Research Priorities and Action Items|Research Priorities and Action Items]], [[Topics/Murray Settlement|Murray Settlement]], [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]], and [[Search Index|Search Index]] - recorded `00380` as neutral and kept Patrick same-page label-tied with caveat while James remains sequence-tied.
+- [[Tier 1 Research Execution Kit|Tier 1 Research Execution Kit]] and `.agents/AGENT_RESUME.md` - shifted the next Claude for Chrome task to verifying `Murry Eliza Jane` on `i3811884-00262`.
+- `static/sources/claude-tax-list/i3811884-00380-proof-summary-page-check-claude-output.txt` - preserved the raw Claude for Chrome handoff.
+
+## Phase 4CS - Patrick Page 00379 Header Check Integrated (May 27, 2026)
+
+**MURRAY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome native-tile check of Ancestry image `i3811884-00379`, Patrick Murry's page 16. The check confirms no year, oath, affidavit, footer, signature, or margin note appears on the page, but the faint handwriting after `District of` is strongly consistent with **`C. Kester`**, matching the confirmed `00361` label. Patrick now has a same-page district-label clue subject to a faint-ink caveat; James remains tied by sequence because `00377` did not repeat the label.
+
+### Updated Pages
+
+- [[References/Claude for Chrome Lewis County Personal Property Tax Check|Claude for Chrome Lewis County Personal Property Tax Check]] - added the `00379` Patrick page header / margin check result and raw source link.
+- [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]], [[Sources and Evidence Index|Sources and Evidence Index]], [[Research Priorities and Action Items|Research Priorities and Action Items]], [[Topics/Murray Settlement|Murray Settlement]], [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]], and [[Search Index|Search Index]] - updated the active Murray workflow so Patrick is same-page label-tied to `C. Kester` with caveat, while James remains sequence-tied.
+- [[Tier 1 Research Execution Kit|Tier 1 Research Execution Kit]] and `.agents/AGENT_RESUME.md` - shifted the next Claude for Chrome task to `i3811884-00380`, checking for a clearer repeated label or affidavit / certification page.
+- `static/sources/claude-tax-list/i3811884-00379-patrick-page-header-margin-check-claude-output.txt` - preserved the raw Claude for Chrome handoff.
+
+## Phase 4CR - Intervening Proof Page 00378 Header Check Integrated (May 27, 2026)
+
+**MURRAY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome native-tile check of Ancestry image `i3811884-00378`, the proof / summary page between James Murray on `00377` and Patrick Murry on `00379`. The check found no readable `C. Kester` or other district / commissioner label, no independent final year digit, and no oath, affidavit, signature, footer text, or margin note. The `C. Kester` link remains sequence inference.
+
+### Updated Pages
+
+- [[References/Claude for Chrome Lewis County Personal Property Tax Check|Claude for Chrome Lewis County Personal Property Tax Check]] - added the `00378` proof-page header / margin check result and raw source link.
+- [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]], [[Sources and Evidence Index|Sources and Evidence Index]], [[Research Priorities and Action Items|Research Priorities and Action Items]], [[Topics/Murray Settlement|Murray Settlement]], [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]], and [[Search Index|Search Index]] - updated the active Murray workflow so `C. Kester` remains a sequence inference after the neutral `00378` check.
+- [[Tier 1 Research Execution Kit|Tier 1 Research Execution Kit]] and `.agents/AGENT_RESUME.md` - shifted the next Claude for Chrome task to `i3811884-00379`, checking Patrick Murry's page 16 for any repeated district / commissioner label.
+- `static/sources/claude-tax-list/i3811884-00378-proof-page-header-margin-check-claude-output.txt` - preserved the raw Claude for Chrome handoff.
+
+## Phase 4CQ - James Page 00377 Header Check Integrated (May 27, 2026)
+
+**MURRAY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome native-tile check of Ancestry image `i3811884-00377`, the page 15 tax-list page containing `Murray James` on line 24. The check found no readable district / commissioner label in the header, margins, or footer. The `District of` field is blank or faded to illegibility and does not repeat `C. Kester`.
+
+### Updated Pages
+
+- [[References/Claude for Chrome Lewis County Personal Property Tax Check|Claude for Chrome Lewis County Personal Property Tax Check]] - added the `00377` header / margin check result and raw source link.
+- [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]], [[Sources and Evidence Index|Sources and Evidence Index]], [[Research Priorities and Action Items|Research Priorities and Action Items]], [[Topics/Murray Settlement|Murray Settlement]], [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]], and [[Search Index|Search Index]] - updated the active Murray workflow so `C. Kester` remains a sequence inference for James / Patrick after the neutral `00377` check.
+- [[Tier 1 Research Execution Kit|Tier 1 Research Execution Kit]] and `.agents/AGENT_RESUME.md` - shifted the next Claude for Chrome task to `i3811884-00378`, the proof page between James and Patrick.
+- `static/sources/claude-tax-list/i3811884-00377-header-margin-check-claude-output.txt` - preserved the raw Claude for Chrome handoff.
+
+## Phase 4CP - Taxable-Persons Page 00361 Native-Tile Reread Integrated (May 27, 2026)
+
+**MURRAY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome native-tile reread of Ancestry image `i3811884-00361`. The header label after `District of` now reads **`C. Kester`** at maximum native-tile resolution. The period after `C` is visible, the capital `K` is unambiguous, and the crossed `t` makes `Keater` unlikely. No oath, signature, affidavit, margin note, or separate commissioner name appears on the page.
+
+### Updated Pages
+
+- [[References/Claude for Chrome Lewis County Personal Property Tax Check|Claude for Chrome Lewis County Personal Property Tax Check]] - added the `00361` native-tile reread, raw source link, sharpened `C. Kester` reading, and inference caveat.
+- [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]], [[Sources and Evidence Index|Sources and Evidence Index]], [[Research Priorities and Action Items|Research Priorities and Action Items]], [[Topics/Murray Settlement|Murray Settlement]], [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]], and [[Search Index|Search Index]] - updated the active Murray workflow so `C. Kester` is the best current label reading, while the tie to James / Patrick remains inferential.
+- [[Tier 1 Research Execution Kit|Tier 1 Research Execution Kit]] and `.agents/AGENT_RESUME.md` - shifted the next Claude for Chrome task to `i3811884-00377`, checking the James Murray page for any repeated district / commissioner label.
+- `static/sources/claude-tax-list/i3811884-00361-native-tile-header-reread-claude-output.txt` - preserved the raw Claude for Chrome handoff.
+
+## Phase 4CO - Tax Proof Page 00362 Bottom Recheck Integrated (May 26, 2026)
+
+**MURRAY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome bottom/signature recheck of Ancestry image `i3811884-00362`. After hiding the Ancestry filmstrip, the full bottom edge of the proof page was visible. No signature, oath, affidavit text, written commissioner name, or district label appears below the PROOF table. The page still confirms **1854** and `Lewis`, but it does not corroborate `C Kester`.
+
+### Updated Pages
+
+- [[References/Claude for Chrome Lewis County Personal Property Tax Check|Claude for Chrome Lewis County Personal Property Tax Check]] - added the `00362` bottom/signature recheck result and raw source link.
+- [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]], [[Sources and Evidence Index|Sources and Evidence Index]], [[Research Priorities and Action Items|Research Priorities and Action Items]], [[Topics/Murray Settlement|Murray Settlement]], [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]], and [[Search Index|Search Index]] - updated the active Murray workflow so `C Kester` remains provisional after both the neutral `00360` check and the unsigned `00362` recheck.
+- [[Tier 1 Research Execution Kit|Tier 1 Research Execution Kit]] and `.agents/AGENT_RESUME.md` - shifted the next Claude for Chrome task to a native-tile reread of `i3811884-00361`, focused on the exact district-label reading and any margin / sequence clues.
+- `static/sources/claude-tax-list/i3811884-00362-bottom-signature-recheck-claude-output.txt` - preserved the raw Claude for Chrome handoff.
+
+## Phase 4CN - Tax Proof Page 00360 Neutral Commissioner Check Integrated (May 26, 2026)
+
+**MURRAY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome check of Ancestry image `i3811884-00360`. The image is a 1854 Lewis County proof / summary page with the generic header `A Commissioner of the Revenue in the County of Lewis for the year 1854`. It does not name a district or commissioner and does not corroborate the `C Kester` reading from `00361`.
+
+### Updated Pages
+
+- [[References/Claude for Chrome Lewis County Personal Property Tax Check|Claude for Chrome Lewis County Personal Property Tax Check]] - added the `00360` proof / summary page result, raw source link, and neutral commissioner interpretation.
+- [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]], [[Sources and Evidence Index|Sources and Evidence Index]], [[Research Priorities and Action Items|Research Priorities and Action Items]], [[Topics/Murray Settlement|Murray Settlement]], [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]], and [[Search Index|Search Index]] - updated the active Murray workflow so `C Kester` remains a provisional clue rather than a settled James / Patrick commissioner label.
+- [[Tier 1 Research Execution Kit|Tier 1 Research Execution Kit]] and `.agents/AGENT_RESUME.md` - shifted the next Claude for Chrome task to a bottom/signature recheck of `i3811884-00362`, looking for any obscured commissioner signature, oath, or written name.
+- `static/sources/claude-tax-list/i3811884-00360-proof-summary-page-check-claude-output.txt` - preserved the raw Claude for Chrome handoff.
+
+## Phase 4CM - Taxable-Persons Page 00361 District Label Integrated (May 26, 2026)
+
+**MURRAY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome check of Ancestry image `i3811884-00361`. The image is taxable-persons page 7 in the 1854 Lewis County personal-property-tax sequence. Its header reads `List of Taxable Persons, Property, &c. within the District of C Kester` as currently read, giving the best district / commissioner-label clue so far for the sequence containing James Murray and Patrick Murry. Because this is a header label rather than a signature or oath, the reading is treated as likely but pending corroboration.
+
+### Updated Pages
+
+- [[References/Claude for Chrome Lewis County Personal Property Tax Check|Claude for Chrome Lewis County Personal Property Tax Check]] - added the `00361` taxable-persons page result, raw source link, `C Kester` heading, and revised next image target.
+- [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]], [[Sources and Evidence Index|Sources and Evidence Index]], [[Research Priorities and Action Items|Research Priorities and Action Items]], [[Topics/Murray Settlement|Murray Settlement]], [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]], and [[Search Index|Search Index]] - updated the active Murray workflow so `C Kester` is the best current district / commissioner-label reading, pending corroboration.
+- [[Tier 1 Research Execution Kit|Tier 1 Research Execution Kit]] and `.agents/AGENT_RESUME.md` - shifted the next Claude for Chrome task to `i3811884-00360`, looking for the same `C Kester` heading, a clearer commissioner / district label, or cover / affidavit context.
+- `static/sources/claude-tax-list/i3811884-00361-taxable-persons-page-check-claude-output.txt` - preserved the raw Claude for Chrome handoff.
+
+## Phase 4CL - Tax Proof Page 00362 Year Confirmation Integrated (May 26, 2026)
+
+**MURRAY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome check of Ancestry image `i3811884-00362`. The image is a proof / summary page and confirms the James Murray / Patrick Murry tax-list sequence as **1854**, not merely probable 1854. The header reads `A Commissioner of the Revenue in the Lewis for the year 1854`; no commissioner name or separate district number is visible.
+
+### Updated Pages
+
+- [[References/Claude for Chrome Lewis County Personal Property Tax Check|Claude for Chrome Lewis County Personal Property Tax Check]] - added the `00362` proof / summary page result, raw source link, and revised James / Patrick year handling from probable to confirmed 1854.
+- [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]], [[Sources and Evidence Index|Sources and Evidence Index]], [[Research Priorities and Action Items|Research Priorities and Action Items]], [[Topics/Murray Settlement|Murray Settlement]], [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]], and [[Search Index|Search Index]] - updated the active Murray workflow so the tax-list year is confirmed while commissioner / district identification remains open.
+- [[Tier 1 Research Execution Kit|Tier 1 Research Execution Kit]] and `.agents/AGENT_RESUME.md` - shifted the next Claude for Chrome task to `i3811884-00361`, looking for a cover page, affidavit, title sheet, commissioner name, or district number.
+- `static/sources/claude-tax-list/i3811884-00362-proof-summary-page-check-claude-output.txt` - preserved the raw Claude for Chrome handoff.
+
+## Phase 4CK - Taxable-Persons Page 00363 Check Integrated (May 26, 2026)
+
+**MURRAY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome check of Ancestry image `i3811884-00363`. The image is taxable-persons page 5 with mostly F-surnames, not a cover or proof page. It has no visible year, no legible district / commissioner, and no direct interpretation change for the James Murray / Patrick Murry probable-1854 sequence.
+
+### Updated Pages
+
+- [[References/Claude for Chrome Lewis County Personal Property Tax Check|Claude for Chrome Lewis County Personal Property Tax Check]] - added the `00363` taxable-persons page result, raw source link, F-surname page summary, and revised next image target.
+- [[RQ-M1-LEWIS-COUNTY-FAN-SWEEP|RQ-M1 Lewis County FAN Sweep]] and [[Tier 1 Research Execution Kit|Tier 1 Research Execution Kit]] - shifted the next Claude for Chrome task to `i3811884-00362`, looking for the proof / summary page before `00363` and any clearer district / year clue.
+- [[Sources and Evidence Index|Sources and Evidence Index]], [[Research Priorities and Action Items|Research Priorities and Action Items]], [[Topics/Murray Settlement|Murray Settlement]], [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]], [[Search Index|Search Index]], and `.agents/AGENT_RESUME.md` - updated the active Murray workflow so `00363` is treated as neutral and unresolved and `00362` is the next bite-size target.
+- `static/sources/claude-tax-list/i3811884-00363-taxable-persons-page-check-claude-output.txt` - preserved the raw Claude for Chrome handoff.
+
 ## Phase 4CJ - Tax Proof Spread 00364 Check Integrated (May 25, 2026)
 
 **MURRAY-WORKFLOW UPDATE:** Integrated Zach's Claude for Chrome check of Ancestry image `i3811884-00364`. The image is another proof / summary spread immediately before taxable-persons page 9, but it repeats the unresolved `for the year 185` problem and has a blank district / commissioner field. It confirms sequence continuity before page 9 without resolving the probable-1854 year caveat.

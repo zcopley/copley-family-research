@@ -1,0 +1,101 @@
+## Report: Image i3811884-00325 -- Direct Image Evidence
+
+---
+
+### Page Type
+
+**Taxable-persons data page** -- a standard Virginia personal property tax "List of Taxable Persons, Property, &c." form. Individual surnames appear in the names column. This is another Ree-district data page, continuing the sequence that began at 00319/00321/00323. It is **not** a proof/abstract, oath, blank, or separator page.
+
+---
+
+### Full Header Transcription
+
+> **List of Taxable Persons, Property, &c. within the District of John Cs. Ree**
+
+Directly observed at maximum zoom (zoom level 13, tiles 1_0 through 8_0):
+- Printed text: "List of Taxable Persons, Property, &c. within the District of"
+- Handwritten fill: **"John Cs. Ree"** (tiles 7_0 and 8_0 clearly show "John" and "Cs. Ree" as two distinct cursive words)
+
+This matches exactly the commissioner name seen on 00321 and 00323.
+
+---
+
+### Year, if Visible
+
+**Not directly visible** in the header of the data page at the zoom levels examined. On VA PPT data pages, the year is typically not printed in the main header--it appears on the outside of the folded return. No year inscription was found on the face of this data page.
+
+---
+
+### District / Commissioner Label
+
+**"District of John Cs. Ree"** -- confirmed. Identical label to 00321 and 00323. This is still the Ree district. No district transition is visible on this page.
+
+---
+
+### Page Number / Sequence Clues
+
+- Ancestry image-viewer sequence counter: **326 of 646**
+- The data table has **31 numbered rows**; active entries appear in rows 1-4 and approximately rows 20-27 (with rows 5-19 and 28-31 largely blank or bearing faint traces).
+
+---
+
+### Names Observed on This Page
+
+Active entries read (upper section):
+1. Norris, Samuel
+2. Norris, Richard
+3. Newton, George W.
+4. Nicholas, Philip
+
+Active entries (lower section, month-marked April/May):
+- Row 20: Otto, A. T. (or similar)
+- Row 21: Osburn, Joseph
+- Row 22: Osburn, Archibald
+- Row 23: Osburn, Isaac
+- Row 24: Osburn, Josephus (?)
+- Row 25: Osburn, Howard
+- Row 26: Osburn, William
+- Row 27: Osburn, Philip
+
+All names begin with **N or O**. This is a continuation of the N-alphabetical section that followed the M/N names of 00323. The page is sparsely populated; many rows are blank.
+
+---
+
+### Whether It Is Another Ree Data Page, a Paired Proof/Abstract, a New District, an Oath/Attestation, or a Blank/Separator
+
+**Another Ree data page** -- same district ("District of John Cs. Ree"), same printed form layout, names in the N/O alphabetical range. It immediately follows the Ree-district proof/abstract at 00324 and continues the Ree district's taxable-persons data.
+
+---
+
+### Signatures, Oath, Affidavit, Margin Notes, Commissioner Name
+
+**None observed on this image.** The page ends at the last row of the table (row 31); the bottom edge of the document follows immediately. No oath, attestation, or commissioner signature appears on this data page face. No margin notes visible.
+
+---
+
+### Any Connection to Target Names
+
+- **Loghan, Luke Murray, Anne Loghan, James Murray, Patrick Murry, Donahoe/Donahue, C. Kester:** **Not present** on this page. The names are all N/O surnames (Norris, Newton, Nicholas, Otto, Osburn). None of the target family names appear.
+
+---
+
+### Summary Classification
+
+| Item | Finding |
+|---|---|
+| Page type | Taxable-persons data page |
+| Header | "List of Taxable Persons, Property, &c. within the District of John Cs. Ree" |
+| Year | Not inscribed on the face of this data page |
+| District label | District of John Cs. Ree |
+| Commissioner | John Cs. Ree |
+| Continuation of Ree district | **Yes** -- same district, same form, N/O names |
+| New district | No |
+| Oath / attestation | Not visible |
+| Signature | None observed |
+| Names of interest | None present |
+
+---
+
+### Exact Next Image to Check
+
+**i3811884-00326** (sequence counter 327 of 646, the image immediately following). That image should be examined next to determine whether: (a) the Ree district data continues into additional surnames, (b) a new district begins, (c) a paired proof/abstract for 00325 follows, or (d) some other page type appears.
