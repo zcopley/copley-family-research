@@ -1,0 +1,57 @@
+Image i3811884-00323 - Research Report
+
+Source: Virginia, U.S., Personal Property Tax Records, 1782-1900; Ancestry collection 62774; image 324 of 646; tiles accessed at level 13 native / maximum zoom.
+
+1. Page Type
+
+Taxable-persons list page, same pre-printed form type as 00321. The form is a columnar personal-property tax return with data columns for tithables, horses, cattle, carriages, clocks, money / securities, joint-stock capital, aggregate value of personal property, and related categories.
+
+2. Header Transcription
+
+Printed: "List of Taxable Persons, Property, &c. within the District of"
+
+Handwritten fill-in: "John" plus a second word. At maximum native zoom, the second word reads as a large looping capital letter followed by "s." and then "Ree." The character sequence is most consistently read as "Cs. Ree", meaning the abbreviation "Cs." followed by "Ree."
+
+Full header: "List of Taxable Persons, Property, &c. within the District of John Cs. Ree"
+
+Caveat: the large capital before "s. Ree" has a flourish that cannot be resolved beyond reasonable doubt at any zoom level. It could be read as a decorative "R" or a single extended "Ree" with flourish, but "Cs. Ree" is the most consistent read given the known context from 00321 and 00322.
+
+3. Year Visible
+
+No year is printed or written anywhere on the face of this page in a legible form. The title line has no year, no year appears in the column headers, and no handwritten year annotation appears in any margin.
+
+4. District / Commissioner Label
+
+The district label is "John Cs. Ree", the same commissioner / district name as on 00321. No separate commissioner block is visible; the district name in the header is the only identifier.
+
+5. Whether It Continues the Ree District or Begins a New One
+
+Directly continues the Ree district. The header is identical in form and district name to 00321. This is another data page for the same district.
+
+6. Signatures, Oaths, Affidavits, Margin Notes, Written Commissioner Name
+
+None found anywhere on the page. Margins, bottom tiles, and right-side tiles were checked. The left margin contains month labels and ditto marks only. No oath, affidavit, attestation, certification, or signature block appears on this page.
+
+7. Month Labels
+
+Upper block: May, approximately rows 1-11.
+
+Lower block: April, approximately rows 18-29.
+
+8. Taxable-Persons Name Range
+
+May block, M range: Minter John B.; McLaughlin William; McCord Sarah; McKinley Edwin; McKinley Uriah; Magwell or Maxwell Levi; McGee James; Magwell or Maxwell R.; McGetiglaw or similar Michael; Miller Henry; Miller James W.
+
+April block, N range: Norris Caroline or similar; Nicholas John; Nicholas Isaac; Nat [?] George W.; Nat [?] Rodlan / Rolan; Nat [?] Davis [?]; Norman Stephen; Norman Nelson; Norman William.
+
+Surname range: M / Mc / Ma / Mi into N / Ni / No. This is an alphabetical continuation from the prior Ree pages.
+
+9. Effect on the Ree / Loghan 1854 Interpretation
+
+Neutral. The page is another taxable-persons data sheet in the same Ree district, carrying M and N surnames. It contains no year, no oath, no signature, and no content confirming or contradicting the 1854 date already established by 00320 and 00322. It does not introduce a new district and does not contain the Loghan names.
+
+10. What Image Should Be Checked Next
+
+i3811884-00324.
+
+Reasoning: 00324 immediately follows 00323. Given the established pattern, it may be another Ree-district data page continuing the surname range, or it may be a proof / abstract / summary page paired to 00323. If it is a proof / abstract page, it is the most likely next location for year confirmation, oath, or commissioner signature for this portion of the Ree district list.

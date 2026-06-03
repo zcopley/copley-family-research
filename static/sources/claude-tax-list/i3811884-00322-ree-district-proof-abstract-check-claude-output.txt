@@ -1,0 +1,45 @@
+Report: i3811884-00322 - Native-Tile / Maximum Usable Zoom (Level 13)
+
+1. Page Type
+
+Abstract / Proof page. This is a standard Virginia personal property tax return consolidation form, combining a numbered aggregate dollar-value table for taxpayers on the left half and a "PROOF." breakdown table by taxable category on the right half. It is not a data-entry list page, not an oath page, not a blank / separator, and not a folded-form face.
+
+2. Header Transcription
+
+Tiles 2_0 through 9_0, zoom level 13:
+
+"A Commissioner of the Revenue in the County of Lewis [faint text, illegible] for the year 1854"
+
+"A Commissioner of the Revenue in the" is printed and fully legible. "County of Lewis" is handwritten cursive and unambiguous. Between "Lewis" and "for" is faint blurred text that is not reliably legible at any zoom; it is likely a printed form element or blank-space artifact, not a confirmed commissioner's name. "for the year 1854" is legible, with "1854" handwritten and unambiguous.
+
+3. Year
+
+Directly stated: 1854. The digits "1854" are handwritten in the header. This explicitly confirms that this Lewis County personal property tax return belongs to the year 1854.
+
+4. District / Commissioner Label
+
+The header names the county, "County of Lewis," but does not name the commissioner in the header line. No commissioner name is written between "Lewis" and "for the year 1854." No commissioner signature or name is legible anywhere on the page. Faint handwriting in tiles 8_1-9_1 is too faint to read and may be offset printing from the reverse.
+
+5. Relationship to 00321 / Page Function
+
+This is the right-hand continuation / Proof-Abstract face for 00321 and for the Commissioner of the Revenue's return sequence that includes 00319, 00320, and 00321.
+
+The left half has a numbered column of 31 dollar amounts, rows 1-31, total $8,132.00. Each row number corresponds to one taxpayer entry from preceding list page 00321, which had exactly 31 entries. This is direct structural confirmation of the 00321/00322 pairing.
+
+The right half has a "PROOF." table with printed category labels: White males at 40 cents, Free negroes, Slaves at 60 cents, Horses / mules / asses / jennets, Cattle / sheep / hogs, Pleasure carriages / stage coaches, Watches, Clocks, Pianos and harps, Plate and jewelry, Household and kitchen furniture, Moneys / bonds / securities / claims, Capital in mining or manufacturing, Fees of office, Amount of income, Interest at 3.5 percent, Dividends 3.5 percent, Toll-bridges and ferries 3 percent, Values and tax thereon, and Total. Total tax is approximately $1,626.40, partly legible.
+
+6. Signatures, Oaths, Affidavits, Margin Notes, Dates
+
+No readable signature found. No oath language found. No affidavit text found. No margin notes found. The date / year "1854" is present in the header.
+
+7. Effect on the Ree / Loghan 1854 Interpretation
+
+This strengthens and directly corroborates the Ree / Loghan 1854 interpretation. The year 1854 is explicitly inscribed on the abstract page that structurally closes the same sequence as 00319-00321. Image 00319 has no year in its header, 00320 shows 1854, 00321 has no year, and 00322 explicitly shows 1854. The 31-entry count on 00321 matches the 31 rows of the aggregate dollar table on 00322, tying the proof / abstract to that list page.
+
+No contradictory evidence was found.
+
+8. What Exact Image Should Be Checked Next
+
+i3811884-00323.
+
+Reasoning: 00322 structurally closes the M/Mc section of the Ree district return. The sequence so far shows a pattern where each list page is followed immediately by its own proof page: 00319 L/Lo list, 00320 proof for 00319, 00321 M/Mc list, 00322 proof for 00321. Image 00323 should determine whether there is a third list page continuing the Ree district, a new district, or an oath / attestation block.

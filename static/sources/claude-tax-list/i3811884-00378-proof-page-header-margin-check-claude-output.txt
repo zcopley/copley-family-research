@@ -1,0 +1,38 @@
+## Image i3811884-00378 -- Research Report
+
+### 1. Page Type
+**PROOF / SUMMARY PAGE.** The right half of the document bears a large printed heading "**PROOF.**" followed by a summary table listing the aggregated categories of taxable property (White males, Free negroes, Slaves, Horses/mules/asses/jennets, Cattle/sheep/hogs, Pleasure carriages/stage coaches, Watches, Clocks, Pianos and harps, Plate and jewelry, Household and kitchen furniture, Moneys/bonds/securities/claims, Capital invested in mining or manufacturing, Moneys under control of a court, Capital of companies declaring no dividend, Personal property of internal improvement companies, Other articles of personal property, Fees of office, Amount of income, Interest or profit at 3 1/2 per cent., Dividends 3 1/2 per cent., Toll-bridges and ferries 3 per cent., Values and tax thereon, Total). The left half is a standard taxable-persons columnar list with line numbers running at least to line 31, with handwritten numeric values in the tax columns.
+
+### 2. Header Transcription
+> **A Commissioner of the Revenue in the** [*field: blank or extremely faded -- see note*] **for the year 185**[*last digit faded*]
+
+- The segment between "**in the**" and "**for the year**" is either left blank or bears handwriting so faded that pixel analysis at the maximum available tile zoom (level 13, native resolution 5769 x 4251 px) yields only scattered near-white marks in the brightness range 208-242 out of 255. Character-cluster analysis identified marks in approximately canvas-coordinate columns 827-846 (one cluster, roughly 20 canvas pixels wide) plus isolated pixels nearby, but these are indistinguishable from ink bleed / paper noise. **No reliable transcription is possible.**
+- "**for the year 185**" is confirmed in clear printed type; the fourth digit is present but faint (consistent with either 4 or another digit; 1854 is consistent with the known context).
+- Column headers below the main line include "REMARKS." at the far right, consistent with the standard Virginia personal property tax form.
+
+### 3. Year 1854?
+**Not explicitly confirmed on this page.** The printed text reads "for the year 185_"; the last digit is faint but the year is consistent with the known 1854 sequence. No hand-written "4" is legible with certainty.
+
+### 4. "C. Kester" Anywhere on the Page?
+**No.** The name "C. Kester" does not appear anywhere readable -- not in the header, not in any margin, not in the footer, not in the PROOF table, not in any signature or oath area.
+
+### 5. Other Labels, Signatures, Oaths, Margins, Footer
+- **No oath or affidavit text** is present.
+- **No commissioner signature line** appears anywhere on the page -- the PROOF table ends with a "Total" row and then the bottom page border. There is nothing below the table.
+- **No "District of" label** is separately visible; the only location such a label could appear is the faded gap in the main header.
+- **No margin notes** are visible on any edge.
+- The left taxable-persons side ends at line 31 with numeric tax values; no names of persons are written -- the left side of this PROOF page is a numeric-only summary, not a named-taxpayer list.
+
+### 6. Effect on the C. Kester Sequence Inference
+**Does not strengthen, does not weaken.** The page is structurally a PROOF sheet intercalated in the middle of what was the C. Kester district run (preceded by page 15 / James Murray on 00377, followed by page 16 / Patrick Murry on 00379). Its presence is consistent with a commissioner inserting a mid-sequence proof after completing a set of pages, which is a known practice in Virginia personal property tax books. However:
+
+- The header district field is blank or illegible -- it does **not** repeat "C. Kester."
+- It cannot be used as direct page-level proof that James Murray or Patrick Murry belonged to Kester's district.
+- The C. Kester tie remains a **sequence inference only**, resting on i3811884-00361 ("District of C. Kester") and the unbroken page numbering sequence through pages 7-16.
+
+### 7. Next Image to Check
+If the goal is to find a page that explicitly repeats the C. Kester district label adjacent to James Murray or Patrick Murry, the most promising targets are:
+
+- **i3811884-00379** -- page 16, already known to contain "Patrick Murry"; check whether its own "District of" header field is legible.
+- **i3811884-00376** -- the page immediately *before* James Murray (page 14); if it is a taxable-persons page it may have a "District of" header that names Kester.
+- Any **section-opening page** between 00361 and 00377 that has not yet been inspected and might carry a repeated "District of C. Kester" header.

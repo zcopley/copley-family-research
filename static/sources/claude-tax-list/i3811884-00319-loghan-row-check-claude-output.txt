@@ -1,0 +1,100 @@
+Verification Report - Ancestry Image i3811884-00319
+
+Collection: Virginia, U.S., Personal Property Tax Records, 1782-1900, Lewis County.
+
+1. Page Type, Header, Year, District/Commissioner, Page Number
+
+Page type: Pre-printed "List of Taxable Persons, Property, &c." personal property tax return.
+
+Header: "List of Taxable Persons, Property, &c. within the District of C. John Ree" (handwritten name fills the printed blank). The capital before "John" may be an abbreviated initial or a decorative flourish. Most probable commissioner / district reading: C. John Ree or John C. Ree.
+
+Year visible on image: No year is explicitly legible on this image. The top edge of the document is cut off or not visible. Context places this in 1854.
+
+Page number: Image 320 of 646 per Ancestry viewer. No handwritten page number is visible on the document itself.
+
+2. Loghan / Logan / Loughan-Looking Rows
+
+This image contains exactly two Loghan entries:
+
+- Row 15, date column 4: Loghan John.
+- Row 16, date column 4: Loghan Owen.
+
+The surname in both rows is written identically: capital cursive L followed by o-g-h-a-n. There is no ambiguity between Owen and Queen; row 16 is Owen. No third Loghan entry appears. No Logan or Loughan variant spelling appears.
+
+The "4" in the leftmost column is the date of receiving the list, April 4.
+
+3. Tax-Column Values
+
+Row 15 - Loghan John:
+
+- Tithables: 1.
+- Tithable tick / white male 16+: 1.
+- Horses, mules, asses, and jennies: 2 / 85.
+- Cattle, sheep, and hogs: 25 / 53.
+- Watches: 1 / 1.
+- Far-right aggregate value column: 5 or possibly 7, partly obscured.
+- Remaining columns: blank.
+
+Row 16 - Loghan Owen:
+
+- Tithables: 1.
+- Tithable tick: 1.
+- Horses, mules, asses, and jennies: 3 / 80.
+- Cattle, sheep, and hogs: 13 / 89.
+- Mid-right column: 20 / 60, column function uncertain.
+- Watches or next property column: 1 / 2.
+- Far-right aggregate: 7.
+- Remaining columns: blank.
+
+4. Nearby Names / Same-Page Context
+
+April subsection, rows 1-10:
+
+1. Lawson, George
+2. Lovetts, Perry C.
+3. Lester, Juliet [Jr. / W.?]
+4. Lough, Uriah B.
+5. Lester, Jacob E.
+6. Lightburn, Joseph A.
+7. Lightburn, Ben
+8. Lough, E. B.
+9. Lough, Philip
+10. Lawrence, Samuel
+
+May subsection / later rows:
+
+11. Lawrence, James
+12. Lawrence, Alexander
+13. Lawrence, George M.
+14. Lawrence / Law[rence], John
+15. Loghan, John
+16. Loghan, Owen
+17. Lawrence / Law[rence], J. J.
+18. Loveall, B. F.
+19. Loveall, David
+
+Rows 20-28 are blank. Rows 29-31 show show-through ink only, not genuine entries.
+
+No Murray, Donahoe / Donahue, Kester, or M surname appears on this page.
+
+5. Signature, Oath, Affidavit, Margin Note, Written Commissioner Name
+
+No oath or affidavit appears on this image. No written commissioner signature is visible. The district name in the header is the only handwritten identifier: C. John Ree, or possibly John C. Ree. The left margin has "April" and "May" receiving-date notes. No page number or additional marginalia is visible.
+
+6. Confirmation of Loghan John and Loghan Owen in 1854
+
+Confirmed. The image clearly shows row 15 "Loghan John" and row 16 "Loghan Owen." Owen, not Queen, is the correct reading. Both have date-received value 4, meaning April 4 in the list context. The page itself does not show the year, but the surrounding context places it in 1854.
+
+7. Relationship, Household, Neighbor, and District Clues
+
+Both Loghans share date received 4, suggesting they were neighbors or processed together. Both have modest farming property profiles. They appear in the C. John Ree / John C. Ree district, not the C. Kester district associated with the James Murray / Patrick Murry sequence. No Murray, Donahoe, or Kester name appears on this L-section page.
+
+This establishes the Loghan family as taxable Lewis County residents in the same year as Luke Murray's marriage to Anne Loghan. John Loghan and Owen Loghan are plausibly close male relatives of Anne, but the page itself does not state a relationship.
+
+8. Does This Strengthen the 1854 Luke Murray / Anne Loghan Marriage Context?
+
+Yes. It confirms two Loghan male heads of household in Lewis County in the 1854 tax context, in spring of that year, with property consistent with settled farming households. This strengthens the same-county / same-year context for the Luke Murray and Anne Loghan marriage, but does not directly connect either John or Owen to Anne by relationship statement.
+
+9. What Exact Image Should Be Checked Next
+
+The logical next image is i3811884-00320, image 321 of 646, immediately following this one. It may contain the oath / attestation page for the C. John Ree district, continue the L or early M entries, or transition to another district.

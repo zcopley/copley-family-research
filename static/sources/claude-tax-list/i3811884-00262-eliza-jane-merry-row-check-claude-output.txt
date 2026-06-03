@@ -1,0 +1,98 @@
+Verification Report: Ancestry Image i3811884-00262 (Virginia Personal Property Tax Records)
+
+1. Page Type, Header, Year, District/Commissioner, Page Number
+
+Page type: Pre-printed Virginia personal property tax list form, one full page of tabular entries.
+
+Header, read at native tile resolution: "List of Taxable Persons, Property, &c. within the District of John Kee"
+
+Year visible on page: No year is printed or handwritten on the face of this image. Context places it as 1853.
+
+District/Commissioner: John Kee, confirmed at maximum zoom from the handwritten cursive following "within the District of." The "K" is a clear capital, followed by "ee."
+
+Page number on document face: No handwritten page number is visible anywhere on this document image. The reported "page 14" is not visible on the face of this scan.
+
+2. Target Row Number and Exact Written Name
+
+Line number: Pre-printed line 5, confirmed by the printed numeral "5" in the leftmost margin column.
+
+Exact written name: Merry, Eliza Jane.
+
+The surname is unambiguously spelled M-e-r-r-y, not Murry. At maximum zoom the letter following the capital M is a distinct cursive "e," not a "u." The given names are clearly "Eliza Jane."
+
+3. Tax-Column Values for Target Row Only
+
+Line 5, Merry Eliza Jane:
+
+- Date of receiving lists: blank.
+- Tithable persons, free males 16+: blank / 0.
+- Slaves over 12: blank.
+- Horses/mules, number and value: blank / blank.
+- Cattle/sheep/hogs, number and value: 12 / 12.
+- Pleasure carriages / watches: blank.
+- Gold/silver plate: blank.
+- Household furniture value: 40.
+- Aggregate moneys/bonds: blank.
+
+Summary: livestock 12 / 12 in the cattle-sheep-hogs columns; household furniture $40. The reported figures "12, 12 in value columns" and "far-right total may read 40" are confirmed. The tithable/count column is blank, not 1.
+
+4. Nearby Names / Same-Page Context
+
+Readable same-page sequence:
+
+1. Miller Henry
+2. McCullough Patrick
+3. Maxwell Levi
+4. McDonald James B
+5. Merry Eliza Jane
+6. Maxwell Rufus
+7. Moffitt Anderson F
+8. Moore William F
+9. Maddox John
+10. Maddox Thomas
+11. Munter John B
+12. Miller James W
+13. McIntire Prestly
+14. Mitchel Elizabeth
+15. Mitchel Joseph
+16. Moore Annots / Annola?
+17. Mitchel Benoni
+18. Mason Thomas
+19. Morrison Jacobs B
+20. Morrison James N
+21. Mason John A
+22. Morrison Isaac E
+23. Morrison William
+24. Moore Thomas R
+25. Morrison John B
+26. Morrison Jake?
+27. McClee James
+28. McDonald Thomas
+
+Confirmed present on same page: Miller Henry, McCullough Patrick, Maxwell Levi, and McDonald James B. No Loghan/Logan or Donahoe name appears anywhere on this page.
+
+5. Signature, Oath, Affidavit, Margin Note, or Written Commissioner Name
+
+No oath or affidavit text appears on this page. No signature line is visible at the bottom. No margin notes are visible. The commissioner/district name "John Kee" is handwritten in the page title, not as a signature.
+
+6. Does This Confirm "Murry Eliza Jane" in 1853?
+
+Partial confirmation with a critical spelling correction. The entry is confirmed as a female-headed household entry on printed line 5 of the John Kee district list, with 12 livestock at $12 and $40 household furniture, matching the reported numeric context. However, the surname is written "Merry," not "Murry." The entry cannot be confirmed as "Murry Eliza Jane" without additional evidence. It should be recorded as "Merry Eliza Jane" based on direct image reading. The claim that this is the first confirmed "Murry" in Lewis County before 1854 needs revision.
+
+7. Relationship, Household, Widow/Female-Head, and Neighbor Clues
+
+The tithable column is blank for Merry Eliza Jane, unlike the male heads on the page. This is the same pattern as Mitchel Elizabeth on line 14. This suggests a female head of household, plausibly a widow, assessed for personal property but without a taxable male person in the household.
+
+Property profile: 12 head of small livestock valued at $12 and $40 household furniture; no horses, slaves, watches, or carriages.
+
+No James Merry/Murry, Patrick Merry/Murry, Luke Merry/Murry, Loghan/Logan, or Donahoe surname appears on this page.
+
+8. District/Commissioner Comparison with the 1854 James/Patrick Sequence
+
+The 1853 Merry Eliza Jane entry is in the John Kee district. The confirmed 1854 James Murray / Patrick Murry sequence is associated with the C. Kester label, so the district labels do not currently match.
+
+9. What Exact Image Should Be Checked Next
+
+i3811884-00261, the page immediately preceding this one, could test whether this is a continuation of the John Kee list or shows additional relevant context. If the goal is to continue the Murray / Loghan timeline, the next targeted check should be i3811884-00319, the reported 1854 Loghan page.
+
+Critical finding: the name as written on this image is Merry, not Murry. All numeric context matches the prior report, but the surname spelling diverges and requires notation in any research record citing this entry.

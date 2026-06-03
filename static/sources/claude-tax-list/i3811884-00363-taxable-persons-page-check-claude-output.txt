@@ -1,0 +1,64 @@
+TAX-LIST HEADER CHECK SCOPE
+
+- Collection / website: Virginia, U.S., Personal Property Tax Records, 1782-1900 - Ancestry.com (collection ID 62774; original data: Library of Virginia, Richmond, Virginia)
+- Images checked: i3811884-00363 only (appears as "Image 364 of 646" in the Ancestry filmstrip counter)
+- Year / district evidence: Year NOT legible on this image; district name handwritten after "District of" is extremely faint and could not be transcribed at any zoom level
+- Access or image problems: No login barrier; image loaded successfully via https://www.ancestry.com/imageviewer/collections/62774/images/i3811884-00363. The handwritten district name and year fields in the header are so faint (likely faded ink or light pencil) as to be illegible. The text after "District of" is also at the rightward edge of the scanned page frame, which cuts off or is adjacent to the black scanner border. No transcribed index record attached (Details panel returns "No record has been selected or there is no record in this collection").
+
+IMAGE i3811884-00363
+
+- Page type: Taxable-persons list page - standard preprinted Virginia form "List of Taxable Persons, Property, &c. within the District of [handwritten]." This is a regular name-list page, not a cover, proof/summary, blank, or separator page.
+- Image / URL: https://www.ancestry.com/imageviewer/collections/62774/images/i3811884-00363?pId=394402 - Image 364 of 646 in the Lewis County image set.
+- Full year, if visible: Not visible. Year does not appear on the taxable-persons form itself. Virginia preprinted tax-list forms from this era do not carry a year on individual list pages; the year appears only on the proof/summary page that accompanies the book. This image does not supply it.
+- District / commissioner, if visible: Not legible. The printed header ends with "...within the District of" and handwritten text follows, but it is too faint to read at any achievable zoom level. The commissioners-of-revenue column header row on the subform reads standard preprinted column titles (TITHABLES, PERSONS CHARGEABLE WITH TAX, White male titheholders 21+, Slaves 16+, Male free negroes 21-55, Horses/mules/asses/jennets No./Value, Cattle/sheep/hogs No./Value, Pleasure carriages/stage coaches/jury wagons/buggies, Watches No./Value, Clocks No./Value, Pianos and Harps, All gold and silver plate...). These confirm post-1845 standardized form. No commissioner name is visible anywhere on this page.
+- Page number / sequence clues: A handwritten "5" appears in the top-left margin of the document, consistent with this being page 5 of a multi-page tax-list booklet for a particular district. Lines are numbered 1-31 on the left; lines 1-3 are blank; data begins at line 4. The page runs to line 31, so the page is fully utilized. Filmstrip context: the immediately preceding image (filmstrip "Image 363," corresponding to i3811884-00362) appears to be a proof/summary page reading "A Commissioner of the Revenue in the _____ for the year 185[?]"; the immediately following image (filmstrip "Image 365," i3811884-00364) also appears to be a proof/summary page reading "A Commissioner of the Revenue in the _____ for the year 185[?]." This means i3811884-00363 is the single surviving (or at least the single digitized) taxable-persons page for this particular district-year block within the Lewis County image set.
+- Header transcription: "List of Taxable Persons, Property, &c. within the District of [handwritten district name - illegible]"; TITHABLES / PERSONS CHARGEABLE WITH TAX / column subheaders for white males 21+, bodily-infirmity exemptees, male free negroes 21-55, slaves 16+, horses, cattle/sheep/hogs, carriages, watches, clocks, pianos and harps, gold and silver plate and jewelry, household and kitchen furniture, turnpike stock, incorporated-company stock, income from interest, etc. Left margin: 5 (page number within booklet).
+
+Names on the page, lines 4-31:
+
+| Line | Name as read |
+|---|---|
+| 4 | Fensor or Fenor / Fenour Rosine |
+| 5 | Fisher Elias |
+| 6 | Feagans / Fagans Edward |
+| 7 | Feagans / Fagans Dabney |
+| 8 | Fletcher John B. |
+| 9 | Fisher Adam B. |
+| 10 | Fisher Michael |
+| 11 | Fisher George P. |
+| 12 | Fisher Asa |
+| 13 | Riley George A. |
+| 14 | Fisher Adorna / Adanna |
+| 15 | Francis John B. |
+| 16 | Fromash / Frimash Elias P. |
+| 17 | Fromash / Frimash Lorenzo P. |
+| 18 | Fromash / Frimash Jacob C. |
+| 19 | Fromash / Frimash Isaac |
+| 20 | Fromash / Frimash John J. |
+| 21 | Francis Reuben |
+| 22 | Finley Samuel |
+| 23 | Fitzpatrick Michael |
+| 24 | Weakly or Healy Timothy |
+| 25 | Hunt Lewis |
+| 26 | Fox Walter R. |
+| 27 | Fox Mantly / Mantey |
+| 28 | Fromash Clover L. unclear |
+| 29 | Fromash / Frimash Wm. P. |
+| 30 | Frances Owen J. |
+| 31 | Finster or similar John |
+
+All surnames on this page begin with F, H, or are isolated entries (Riley, Hunt). The page ends at line 31 with no overflow to the next image. The following image (i3811884-00364) appears to be a different proof page, not a continuation of this name list.
+
+DISTRICT / YEAR CONTEXT FOR JAMES / PATRICK
+
+- Does image i3811884-00363 clarify the 185_ year? No. The year is not printed or clearly written on this individual taxable-persons page. Only the surrounding proof/summary pages carry the year field.
+- Is the final year digit visible anywhere? No. This page contains no year data. The proof pages at Image 363 (i3811884-00362) and Image 365 (i3811884-00364) are the relevant year sources, but they were not examined per scope constraints. Thumbnail-level review of those images suggests they read "for the year 185[?]" but the final digit cannot be confirmed from thumbnail resolution.
+- Is the district or commissioner legible? No. The handwritten text after "District of" in the header is too faint at every achievable zoom to transcribe reliably. No commissioner name appears anywhere on this page.
+- Does image 00363 connect directly to 00364, 00365, 00366, 00367, or the later James / Patrick sequence? Probably not directly. The name list on i3811884-00363 covers F-surnames and a few H- and R-entries, ending at line 31 with no continuation. The next image (i3811884-00364) appears to be a proof page, not a continuation of this name list. The James Murray / Patrick Murry names would be many pages later in the alphabetical sequence if this is all from the same district-year book. There is no direct page-flow connection from 00363 to the Murray/Murry lines on pages 15-16 (images 00377/00379).
+
+RQ-M1 INTERPRETATION
+
+- Does this confirm probable 1854? No. This image provides no year evidence. It is consistent with the post-1845 preprinted form era, but does not narrow to 1854 specifically.
+- Does this identify the commissioner or district for James and Patrick? No. The district name is illegible and no commissioner name appears.
+- Does this change the post-1850 arrival or pre-1843 anchor interpretation? No. Nothing on this image bears on arrival dates or anchor years. It is a neutral non-indexable page from an indeterminate 185x district.
+- What exact image should be checked next? The most valuable next step, strictly within the established scope, is i3811884-00362 (filmstrip Image 363), the proof/summary page immediately before i3811884-00363. That proof page reads "A Commissioner of the Revenue in the _____ for the year 185[?]" and is the best candidate to supply the missing final year digit, district name, and commissioner name for the block that includes i3811884-00363 through approximately i3811884-00364. If that proof page belongs to the same district/year block as the James Murray and Patrick Murry entries on images 00377 and 00379, it would resolve the 185_ year question. A second priority check would be the proof page at i3811884-00364 (filmstrip Image 365), which also shows a 185x year and may belong to the district that encompasses the Murray/Murry sequence.

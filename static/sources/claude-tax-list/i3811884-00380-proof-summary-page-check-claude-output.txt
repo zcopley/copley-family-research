@@ -1,0 +1,50 @@
+## Report: i3811884-00380 (Image 381 of 646)
+
+### 1. Page Type
+**Proof/Summary page** -- the right-hand half of a spread that carries the printed "PROOF." summary form. The left half of the same spread contains the taxable-persons data columns (with page-sequence totals in the leftmost margin). This is not an oath, affidavit, or certification page, and there is no new-district block heading distinct from the header.
+
+### 2. Full Header Transcription
+
+> **A Commissioner of the Revenue in the** [handwritten district name -- very faint, partially legible] **for the year 185**[digit cut off / blank at right margin]
+
+- "A Commissioner of the Revenue in the" and "for the year 185" are printed text in bold serif type; the year digit after "185" appears blank/not filled in on this image.
+- The year is consistent with 1854 given surrounding context (i3811884-00362 confirmed 1854).
+
+### 3. Page-Number / Sequence Clues
+
+The left-margin column carries a running page-total tally (pages 3 through 31 visible), confirming this is the proof summary for a block of pages in the taxable-persons book.
+
+The PROOF values in the right panel include 25 white males, 39 horses / mules / asses / jennets, 509 cattle / sheep / hogs, 1 watch, 11 clocks, household and kitchen furniture, moneys / bonds / securities / claims, and totals. No signature, commissioner name, oath, or affidavit appears anywhere between the "Total" line and the bottom border of the document.
+
+### 4. Whether C. Kester Appears, and Legibility
+
+**C. Kester does NOT appear with clarity.** The district name field in the header is extremely faint -- approaching blank -- at all zoom levels examined including the native 512 x 512 pixel tiles at zoom level 13.
+
+Pixel-level analysis of tile 5_0 (zoom 13), which spans the district-name gap between "in the" and "for the year 185", shows sparse faint dark-pixel clusters. The spatial pattern is structurally compatible with "C." followed by a multi-stroke surname, but the faintness is so extreme that **no letter can be confirmed from pixel data alone**.
+
+**Legibility rating: 1/5 -- effectively unreadable from this image alone.** The district name field appears to have been written in light ink or pencil that faded severely, or the fold/gutter obscured the ink.
+
+### 5. Other District / Commissioner / Signature / Oath / Footer / Margin Notes
+
+**None found.** A complete tile-by-tile sweep of the entire image confirmed:
+
+- **No oath or affidavit block** -- the PROOF form ends at "Total" with a check mark and a double-underline; nothing follows.
+- **No signature line**, either below the Total or in any margin.
+- **No commissioner name** written anywhere on this page outside the faint district-name field in the header.
+- **No footer text** -- the bottom border of the document is reached immediately after the last data row.
+- **No margin notes** visible on either left or right margins.
+- The page carries a "REMARKS." column header on the right side, but all cells in that column are blank.
+
+### 6. Effect on the Faint "C. Kester" Read on i3811884-00379
+
+**Leaves unchanged / marginally consistent but provides no confirmation.**
+
+Page 00380 does not repeat "C. Kester" in a clear, legible form. The district-name field is even harder to read than on 00379. Nothing on 00380 contradicts the C. Kester read: the proof summary belongs to the same commissioner's book/district block, the rate context is consistent with 1854, and no new district name, competing commissioner name, or contradicting label appears.
+
+### 7. Effect on James Murray's Sequence Tie
+
+**No effect.** Page 00380 contains no person-list entries; it is a proof/totals summary page with no names. James Murray's tie to page 15, line 24 (from 00377) is unaffected. The page totals in the left margin encompass both James and Patrick's pages, but do not name individuals.
+
+### 8. Next Image to Check if Still Unresolved
+
+The task specification says to stop after 00380, and Claude did so. If further resolution of C. Kester is needed, Claude suggested returning to already checked images such as 00361, 00360, or 00363; repo handling treats those as already checked and instead shifts the next bounded work to verifying other positive tax-list rows.

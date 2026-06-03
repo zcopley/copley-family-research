@@ -1,0 +1,80 @@
+---
+
+## TAX-LIST REE 00329 FOLLOW-UP CHECK SCOPE
+
+**Collection / website:** Virginia, U.S., Personal Property Tax Records, 1782–1900 — Ancestry.com, collection 62774, Lewis County image set i3811884.
+
+**Image checked:** i3811884-00329 (Ancestry image viewer sequence number 330 of 646).
+
+**Access or image problems:** The interactive viewer hit its zoom-limit warning ("Sorry, you're having trouble with the image. Try the Basic Viewer instead.") after three clicks of the zoom-in button. That warning was dismissed; the native tile API was used instead to read individual 512×512-pixel tiles at zoom levels 11–13.
+
+**Zoom / tile method used:** Native Ancestry tile API at `/files/13/` (maximum available: zoom level 13, ~512 px/tile) for the header district name, and `/files/11/` tiles for the full page overview and name-column reading.
+
+---
+
+## IMAGE i3811884-00329 CHECK
+
+**Image / URL:** https://www.ancestry.com/imageviewer/collections/62774/images/i3811884-00329?usePUB=true
+
+**Page type:** Standard printed Virginia Personal Property Tax form — **taxable persons list page** (the columnar "List of Taxable Persons, Property, &c." form). This is a filled-out return page, not a proof/abstract, oath, or separator.
+
+**Header transcription (tiles 1_0 through 9_0, zoom level 13):** "List of Taxable Persons, Property, &c. within the District of *John Ree*" — the district name "Ree" is clearly legible in cursive at zoom-13 native tile resolution (tile 9_0 shows "ee," unmistakably; tile 8_0 shows the ornamental capital "R"; tile 7_0 shows "John").
+
+**Full year, if visible:** No year is directly inscribed on this image at any point inspected. Contextual inference from the surrounding sequence (00319–00328 are 1854 pages) places this in 1854, but the year is not confirmed by direct image evidence on 00329.
+
+**District / commissioner label:** District: **John Ree** (handwritten, consistent with 00327). No separate printed or written commissioner name was found anywhere on the tiles inspected. The right edge of the page (tile 2_0, zoom 11) shows only the "Ree" inscription and data columns — no commissioner signature or label was visible at the top-right.
+
+**Page number / sequence clues:** Sequence number 330 of 646 in the viewer. No handwritten page number was legible on the tiles examined. The page has 31 data rows, totals visible at bottom (42 persons in one count column; 711 and 35 in rightmost data columns).
+
+**Taxable-persons page — visible surname range and continuity clues:** The page runs from **R surnames through early S surnames**, as follows (31 entries read at zoom-11 tile 0_0 and 0_1):
+
+- Entries 1–2 (March dates): Runnion Elias; Runnion William
+- Entries 3–12 (April dates): Rexenburg Hamilton; Rexroad John; Radcliff John; Romine/Romins Molly W.; Rinehart Ashland; Rexroad John; Rexroad Nathan; Rexroad William; Rinehart Abraham; Reed John
+- Entries 13–25 (April–May dates): Rinehart [Elijah?]; Reager Saul; Reager Philip; Reager Daniel; Romine John W; Romine Samuel; Romine Jacob E; Riley Micheal; Rexroad Henry; Reed [?]; Ramersburg Anel; Ramersburg John W; Ruls David
+- Entry 26: blank row (section break)
+- Entries 27–31 (March dates): Sthascher/Stascher William R; Stewart Richard; Summers Adam; South Stephend; Smith Jonas
+
+Surname transition: The page begins in the R-block and ends in early S surnames. This strongly suggests 00329 is **not** the first page of the John Ree return — it is a **continuation page** of the same return that began on 00327 (which carried its own R names) — or alternatively it is a **separate taxable-persons page** for the same John Ree district that immediately continues after 00328 (the proof/abstract for 00327).
+
+**Proof / summary page:** Not applicable — this is a persons list.
+
+**Oath / affidavit / certification:** None visible on this image.
+
+**Blank / separator / new district:** Not applicable. This is a filled return page within the same John Ree district.
+
+**Any signature, oath, affidavit, margin note, or written commissioner name:** None identified on any tile inspected. The right margin and bottom of the page show only data-column totals.
+
+---
+
+## CONNECTION TO MURRY / LOGHAN SEQUENCE
+
+**Does this page begin a new district, continue the Ree district, show an oath / attestation, or have another page type?**
+This page **continues the John Ree district** under the identical district-name header ("John Ree"). It is a second (or further) taxable-persons list page for the same Ree return. No district transition occurs on 00329.
+
+**Does this page provide any further evidence for the C. John Ree / John C. Ree / John Cs. Ree district or commissioner name?**
+The district name is confirmed as **"John Ree"** in plain cursive, with no prefixed "C." visible. The ornamental capital is consistent with an "R" for "Ree" rather than any "C" or "Cs." prefix. This is direct image evidence: the district is "John Ree," not "John C. Ree" or "John Cs. Ree" on this particular page. Note: this does not retroactively resolve whether 00327's header carried a middle initial — that is a separate page question — but 00329's own header is unambiguously "John Ree."
+
+No commissioner name or signature was found anywhere on this image.
+
+**Does this page confirm or alter the 1854 context for the Ree district pages?**
+No year digit is directly visible on 00329. The contextual placement (between 00328 and 00330) and the continuity of the "John Ree" district heading are consistent with the established 1854 sequence. Nothing on this image contradicts 1854; nothing independently confirms it.
+
+**Does this page show any connection between the Ree / Loghan district and Luke Murray, Anne Loghan, James Murray, Patrick Murry, Donahoe / Donahue, or the C. Kester 1854 sequence?**
+**No.** None of those surnames appear anywhere in the 31 entries read on 00329. The surname range (Runnion → Smith) includes no Murray, Murry, Loghan, Donahoe, Donahue, or Kester entry. This page provides zero cross-district evidence linking Ree to any of those sequences.
+
+---
+
+## RQ-M1 INTERPRETATION
+
+**Does this strengthen, weaken, or leave unchanged the 1854 Luke Murray / Anne Loghan marriage context?**
+**Unchanged.** Image 00329 is a continuation of the John Ree taxable persons list covering R–S surnames. It contains no names relevant to the Murray/Loghan/Donahoe/Kester sequences and does not interact with the marriage-context evidence in any direction.
+
+**Does this change the post-1850 arrival or pre-1843 anchor interpretation?**
+No. This image is irrelevant to either anchor.
+
+**What exact image should be checked next?**
+The logical next step — if continued district-sequence work were warranted — would be **i3811884-00330**, which should be the proof/abstract page paired with 00329. However, per the stated rules, work stops after 00329 and no further images in this sequence should be checked at this time. If the Ree district analysis is to be advanced, the appropriate next image would be 00330 only to confirm whether it is the proof/abstract closing the 00329 persons page, but that check is outside the current scope as defined by the task instructions.
+
+---
+
+**Confidence note:** The district name "John Ree" is confirmed by direct tile-level evidence at maximum zoom. The year 1854 is inferred from series context, not from a directly readable year digit on 00329 itself. The surname list was read at zoom-11 tile resolution; a small number of first names (particularly entries 3, 6, 13, 22) have uncertain readings but their surnames are clearly in the R block. No ambiguity affects any conclusion about district continuity or the absence of target-family names.

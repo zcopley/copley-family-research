@@ -1,0 +1,86 @@
+## Continuation Research Report: Luke Murray / Anne Loghan — 1854 Lewis County Marriage Bond / Consent
+
+---
+
+### Additional Steps Performed
+
+**1. Smith compiled index microfilm (Film 1598435 Item 6 / DGS 7949996) — access attempt confirmed blocked**
+
+Multiple ARK path variants were tried. Every attempt returned the same result: **"Image Unavailable — Image Restricted — This image is unavailable for online viewing at this time."** The restriction is firm and universal; this film cannot be viewed outside a FamilySearch Center or the FamilySearch Library in Salt Lake City.
+
+**2. Neighboring images on Film 825111 / DGS 4130803 around Image 184**
+
+Images browsed: 175, 180, 183, 185, 186, 190, 200 — all blank film leader or film-transition material (burlap-texture film back, book corners, film clamps). The pattern confirms that Image 184 is a **solitary, isolated document page** wedged between two long blank stretches of Film 825111. There are no adjacent pages of any record type — no bond pages, no consent pages, no other register pages — visible in the range from at least image 160 through at least image 200 on that film.
+
+**3. FamilySearch ARK 1:1:FRRG-HPT — full record detail and "VIEW ORIGINAL DOCUMENT" link**
+
+The full record reads as follows:
+
+- **Name:** Luke Murray | **Sex:** Male
+- **Event Type:** Marriage Consent
+- **Event Date:** 1854
+- **Event Place:** Lewis, West Virginia, United States
+- **Event Place (Original):** Lewis, West Virginia, United States
+- **Reference:** County Records
+- **Spouse (Wife):** Anne Log?an | Sex: Female | Event Type: Marriage Consent | Event Date: 1854 | Event Place: Lewis, West Virginia, United States | Reference: County Records
+- **Collection:** West Virginia, Marriages, 1780-1970
+- **Citation:** "West Virginia, Marriages, 1780-1970," *FamilySearch* (ark:/61903/1:1:FRRG-HPT : Tue May 12 01:32:30 UTC 2026), Entry for Anne Log?an and Luke Murray, 1854.
+
+When "VIEW ORIGINAL DOCUMENT" was clicked, the dialog appeared: **"This image is only available on wvculture.org."** Clicking "GO TO WVCULTURE.ORG" opened a new tab navigating directly to: `archive.wvculture.org/vrr/va_view2.aspx?FilmNumber=825111&ImageNumber=184` — the same license-register page already known. **Definitively confirmed: the "Marriage Consent" index entry routes back to the identical register image, not to any separate consent document.**
+
+**4. Interpretation of "Marriage Consent" event type**
+
+The FamilySearch "West Virginia, Marriages, 1780-1970" collection assigned the event type "Marriage Consent" to this entry. This is **indexer classification terminology**, not an indication that a physical consent paper was scanned. The WV VRR database used "Marriage" as its event type for the same data; FamilySearch translated it as "Marriage Consent" when ingesting the record. Both labels point to the same source: the Lewis County marriage register page 75, Film 825111, Image 184. There is no physically separate consent document behind this index entry.
+
+**5. FamilySearch Full-Text Search**
+
+Search query: `"Luke Murray" "Lewis County"` across all full-text-indexed collections → **0 results returned.** This rules out the surname appearing in any FamilySearch full-text-searchable compiled book or record set (including, implicitly, any digitized portion of the Smith bonds book, which is confirmed blocked).
+
+**6. WV Culture variant searches (completed in prior session, noted here for completeness)**
+
+- "Murry" / Luke / Lewis / 1854 → 0 records
+- Murray / Anne Logan (bride) / Lewis / 1854 → 0 records
+
+---
+
+### Final Summary of Film 825111 / DGS 4130803 Structure at Image 184
+
+Film 825111 contains marriage register volumes 2–4 (1833–1857). Image 184 is an isolated page within a large blank section of the film (surrounding images ~160–200 are all blank leader). This is consistent with WV Culture's filming practice of interspersing single-page documents between volumes, or with a stray page photographed separately. There are **no adjacent bond or consent pages** on this film around image 184.
+
+---
+
+### Definitive Negative Evidence Summary
+
+| Source | Searched / Checked | Result |
+|---|---|---|
+| WV Culture Marriage DB — "Murray" / Luke / Lewis / 1854 | Yes | 1 hit; routes to Film 825111 Image 184 (register) |
+| WV Culture Marriage DB — "Murry" / Luke / Lewis / 1854 | Yes | 0 results |
+| WV Culture Marriage DB — Murray / Anne Logan / Lewis / 1854 | Yes | 0 results |
+| WV Culture Marriage DB detail record (ID 10708938) | Yes | All supplemental fields blank; no bondsman, parent, witness, officiant |
+| Film 825111/DGS 4130803 Images 160–200 | Yes | All blank except Image 184 (register) |
+| Film 825112/DGS 4130804 | Yes | Marriage registers only (v.1, 5–7); no bond documents |
+| Smith compiled index (Film 1598435 item 6 / DGS 7949996) | Attempted | **Image Restricted** — FamilySearch Center or Library access required |
+| FamilySearch ARK 1:1:FRRG-HPT "Marriage Consent" | Fully examined | Routes to same Film 825111 Image 184; "Marriage Consent" is an indexer label, not a separate document |
+| FamilySearch ARK 1:1:Q2ZX-G78G | Previously confirmed | "Image Unavailable" — same film |
+| FamilySearch Full-Text Search: "Luke Murray" + "Lewis County" | Yes | 0 results |
+| FamilySearch Catalog — Lewis County vital records | Yes | No separate bond-documents microfilm online; bonds exist only in Smith compiled index (blocked) and original courthouse records |
+
+---
+
+### Interpretation
+
+**No separate 1854 marriage bond, consent paper, or license return for Luke Murray and Anne Loghan exists in any remotely accessible online source.** The "Marriage Consent" label on ARK 1:1:FRRG-HPT is a FamilySearch indexer classification of the register entry — not evidence of a scanned consent document. There is only one distinct image record for this marriage in all databases checked, and it is the known license-register page.
+
+The FamilySearch "West Virginia, Marriages, 1780-1970" collection indexed **both** the license-register entry (ARK Q2ZX-G78G, image unavailable on FS) and the same record via the WV Culture VRR database (ARK FRRG-HPT, "Marriage Consent," routes to wvculture.org Image 184). These are **two index records for the same physical page**, not two different documents.
+
+---
+
+### What Remains Inaccessible and How to Get It
+
+The only path to potential bondsman/witness/parent data is the **Smith compiled index**, which covers Lewis County marriage bonds 1816–1865 and explicitly records bondsmen, parents' names (where given), and bond-book page numbers. Two access options:
+
+1. **In person at the FamilySearch Library, Salt Lake City:** Physical book, call number **975.461 V28s**, 3rd Floor (confirmed available). Look under "M" in the groom index for Murray, Luke. Takes only minutes on-site.
+
+2. **At any FamilySearch Center or affiliate library:** Film 1598435 Item 6 / **DGS 7949996**. The film must be ordered to the center if not already in their permanent collection. Images are restricted from home viewing.
+
+3. **Lewis County Courthouse, Weston, WV:** The original Lewis County marriage bond book (covering 1816–1865) is held there. The Smith index, if it lists Murray/Loghan, will give the specific book and page number to request from the county clerk.

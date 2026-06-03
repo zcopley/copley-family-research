@@ -1,0 +1,107 @@
+TARGETED TAX-LIST CLEANUP SCOPE
+
+Collection / website: Virginia, U.S., Personal Property Tax Records, 1782-1900, Lewis County, collection 62774 - Ancestry.com
+
+Images checked:
+- i3811885-00370 (viewer 371): 1859 Geo. J. Marsh page 20
+- i3811885-00435 (viewer 436): 1860 Geo. J. Marsh page 18
+- i3811885-00303 (viewer 304): 1858 E. Slesher page 20 (reference/confirmation only)
+- i3811885-00301 (viewer 302): page 19 name-list (checked for optional task)
+- i3811885-00302 (viewer 303): 1859 summary sheet (sequence evidence)
+- i3811885-00300 (viewer 301): 1859 summary sheet (sequence evidence)
+
+Access or overlay problems: On i3811885-00435, the Ancestry "436 of 543" image-counter overlay blocked line 26's middle tax columns at the standard viewport zoom. Resolved by extracting the raw canvas region via JavaScript before the overlay was composited, then rendering it as an injected image element for screenshot/zoom capture.
+
+Zoom / tile method used: Viewport zoom-region captures for i3811885-00370. JavaScript canvas.getContext('2d').drawImage strip extraction injected as a fixed img overlay, then viewport zoom, for i3811885-00435 line 26. Direct viewport zoom on i3811885-00301 full page for the optional check.
+
+IMAGE i3811885-00370 CHECK
+
+Year: 1859
+
+District / commissioner: Geo. J. Marsh
+
+Page / line: Page 20, line 2
+
+Exact name reading: Murrow Hudson - confirmed with high confidence. The given name is unambiguously Hudson; the letterforms show a clear H, a looping u-d, and the characteristic -son terminal. "Newsom" is ruled out.
+
+Tax details:
+- Tithables: 1
+- Horses, number: blank
+- Horses, value: blank
+- Mules, number: blank
+- Cattle, number: 5
+- Cattle, value: 16
+- Sheep / pistols / clocks / plows: blank
+- Rightmost tax / value column: 20
+
+Nearby names:
+- Line 1: McLeon James or McEloin James
+- Line 3: McEllenough Michael or McCollonough
+- Line 4: Mellot Richard(s)
+- Line 5: Mongony Asa or Mongomy
+- Line 6: Mongomy Thomas
+- Line 7: McCordell James
+- Line 8: March Geo. J. (commissioner himself, self-assessed)
+
+Confidence and caveats: Given name Hudson is high-confidence. Surname Murrow is clear. The 5 cattle / value 16 reading is solid. The rightmost 20 column reading is solid. All middle horse / mule columns are blank.
+
+IMAGE i3811885-00435 CHECK
+
+Year: 1860
+
+District / commissioner: Geo. J. Marsh. "Geo. J. Marsh" is handwritten at top right of page header; page 18 visible top left.
+
+Page / line: Page 18, line 26
+
+Exact name reading: Murrow Hudson - confirmed. The canvas extraction without overlay makes both words clearly legible. Surname Murrow is the same hand as 1859. Given name Hudson is unambiguous.
+
+Tax details for line 26:
+- Tithables: 1
+- Horses, number: blank
+- Horses, value: blank
+- Cattle, number: 2
+- Cattle, value: 6, possibly; faint
+- Sheep / pistols / clocks / plows columns: blank
+- Second-to-last value column: 20
+- Next column: 1
+- Rightmost tax column: 20
+
+The three right-side figures 20 / 1 / 20 are the clearest readable values. The 2 cattle reading is confident; the 6 value is plausible but faint. No horse entry, consistent with 1859. The 1 tithable is confirmed.
+
+Nearby names, lines 24-28:
+- Line 25: Maleshar / Melechar Patrick & Trick - 2 tithables
+- Line 26: Murrow Hudson - 1 tithable; 2 cattle / 6?; right 20 / 1 / 20
+- Line 27: Montgomery Thomas
+- Line 28: Montgomery John M.
+- Line 29: Murray Edwards - 1 / 60 / 7 / 7; right 5 / 1 / 60
+
+Confidence and caveats: Name reading high-confidence. Overlay blockage resolved by canvas method. Cattle value 6 is low-confidence because of faint ink; cattle number 2 is solid. Rightmost three columns 20 / 1 / 20 are clear.
+
+OPTIONAL 1858 E. SLESHER PAGE-19 CHECK
+
+Was a page 19 name-list image found? Yes. i3811885-00301 (viewer 302) is a "List of Taxable Persons, Property, &c. within the District of..." page numbered 19 in the upper-left corner.
+
+Exact image ID: i3811885-00301.
+
+Any Murray / Murry / Murrow / Murrey entries? No. The names on page 19 run through the M section and include McChester Samuel, McChester Franklin, Means Calvin, McKinley Edward, McLain Alexander, Malt John, McEloin William, Means Otto, McColligan Michael, Morrison John B., McDaniels Addison, Maddan John, McKinley Uriah, Mason Hiram, Whiton Martin, McDaniel James, Murphey Bailey, Minter John B., two omitted 1858 entries, Maxwell Levi, Magoreny Queen, Means Isaac, another omitted 1858 entry, Miller James W., Moore W.T., Moffitt A.T., Moorey Charles, and McCarey Patrick. Murphey and Moorey are different surnames, not Murray / Murry / Murrow / Murrey.
+
+Sequence evidence:
+- i3811885-00300 (viewer 301): commissioner aggregate summary, "for the year 185[8 or 9]"
+- i3811885-00301 (viewer 302): name-list page 19
+- i3811885-00302 (viewer 303): another aggregate / summary sheet, "for the year 1859"
+- i3811885-00303 (viewer 304): name-list page 20 with Murray William and Murty C.
+
+The summary sheets bracketing page 19 are an artifact of how the collection was scanned and arranged; page 19 is consistent with the same M-section sequence flowing into page 20.
+
+INTERPRETATION
+
+This confirms 1859 Murrow Hudson as the same person as 1857 Murray Hudson and 1860 Murrow Hudson with high confidence. The evidence is continuous:
+- 1857 i3811885-00107: Murray Hudson, Geo. J. Marsh district.
+- 1859 i3811885-00370: Murrow Hudson, page 20 line 2, Geo. J. Marsh district, 1 tithable, 5 cattle / 16.
+- 1860 i3811885-00435: Murrow Hudson, page 18 line 26, Geo. J. Marsh district, 1 tithable, 2 cattle / 6.
+
+The same commissioner lists this individual in 1857, 1859, and 1860 under Murray / Murrow spelling variation. The consistent pattern of one tithable, no horses, and a small cattle herd is internally coherent.
+
+No new information bearing on James Murray, Patrick Murray / Murry, Luke / Lucas / Margaret Murray / Murry, or the post-1850 first-tax-appearance model emerged from these targeted images. James Murray and Murrow Hudson are distinct taxpayers on the same 1860 page. Patrick Murray / Murry and the absence of Luke, Lucas, and Margaret through checked or accessible M-sections remain unaffected.
+
+If further work is warranted within the original gap-pass scope, the single highest-priority remaining item would be i3811885-00371 (viewer 372), the page immediately following the 1859 Murrow Hudson page, to confirm whether any continuation of the 1859 M-section list follows page 20. That is outside the stated cleanup scope. Within the cleanup scope, no further images need to be checked.

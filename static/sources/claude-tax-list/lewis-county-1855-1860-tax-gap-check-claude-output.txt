@@ -1,0 +1,213 @@
+TAX-LIST 1855-1860 GAP CHECK SCOPE
+
+Collection / website: Virginia, U.S., Personal Property Tax Records, 1782-1900 - Lewis County. Ancestry.com. Collection 62774.
+
+Image sets checked:
+- i3811884 (646 images total): covers Lewis County 1851-1856 per the Library of Virginia camera-operator declaration at viewer image 641.
+- i3811885 (543 images total): covers Lewis County 1857-1860, confirmed by the 1857 year card at image 18, the 1858 cover at image 201, the 1859 cover "Property Book 2nd Dist. 1859" at image 331, and the 1860 Auditor's Office page at image 401; the "End of Records or Volume" card appears at image 537.
+
+Years checked: 1855, 1856, 1857, 1858, 1859, 1860.
+
+Access or image problems:
+- Throughout both sets, each physical tax-list page (name column on the left) and its corresponding "PROOF" aggregate column (right side) appear to have been filmed as separate images and digitized in a mixed interleaved sequence. This causes long runs of PROOF pages that interrupt the name-list sequence and initially obscured the location of M-section name pages.
+- The year digit in the PROOF page header "for the year 185_" is cut off at the right edge on almost every PROOF page in i3811884; year identification had to rely on cover/label images and the camera-operator declaration.
+- The "Murty / Murtz" entry in the 1858 E. Slesher district (image 304, line 10) is in a degraded faded section; exact given-name initial uncertain.
+- Line 26 (Murrow Hudson) on image 436 (1860) had its tax columns partially obscured by the Ancestry image-counter overlay during zoomed reads; tithable count of 1 was confirmed, full tax value not recoverable without a fresh unobscured capture.
+- The 1860 Elijah Flesher 1st District book (images 535+) has essentially no name-list pages visible within the remaining reel frames before "End of Records."
+
+Zoom / tile method used: Ancestry browser viewer; zoom-in/zoom-out buttons used; systematic zoom region captures of the name column (left ~165-380 px) and header rows; navigation by direct URL substitution of the zero-padded image suffix (i3811885-00NNN); cross-checked by PROOF page year confirmations and cover-label images.
+
+YEAR-BY-YEAR RESULTS
+
+1855
+
+Image set: i3811884, images 461-519.
+Cover / year card: Image 461 (viewer) = i3811884-00460: spine label "Lewis / C. Kester / Property / 1855." Inner title image 463: "Property Book for 185_ 1st District Lewis County Va." (year inferred 1855 from cover).
+Districts accessed: "John Bee/Fee" (commissioner surname uncertain) - the only district with surviving name-list pages. A second district (C. Kester) appears only in the aggregate PROOF pages.
+Name-list pages found: Images 464-476 (13 pages). Alphabetical range covered: A through G only (A, B, C-D, E-F, G). The list ends after the G section; images 477-519 are PROOF pages for multiple districts.
+M-section status: NOT ACCESSIBLE - the 1855 John Bee/Fee district list stops at G and never reaches M within the scanned images. No M-section name-list page for any 1855 district is present in i3811884.
+Murray / Murry variants found: None.
+
+1856
+
+Image set: i3811884, images 515-646.
+Cover / year card: Image 515 (viewer): "1856" year separator card. Two districts identified:
+- "John Kee/Lee" district: name-list pages ~518-544, covering A through K-Y (lists end at K/Y range, then PROOF pages from ~544 onward).
+- "C. Kester" district: name-list pages ~581-614, covering A through M-N (B section at image 583, H section at image 601, M section at image 611), H section confirmed as page 16. Year confirmed by PROOF page at image 592 ("County of Lewis, for the year 1856") and certification page at image 637 ("July 185_6 ... C. Kester, Commissioner").
+M-section status: PARTIALLY CHECKED.
+- John Kee/Lee district: M-section NOT reached - list terminates in K-Y range before M.
+- C. Kester district: M-section present and checked - image 611 (URL i3811884-00610), page 16, 29 entries read.
+Murray / Murry variants found: None.
+
+1857
+
+Image set: i3811885, images 18-200.
+Cover / year card: Image 18: "1857" year card. Image 76: "Property Book 1857 Auditors Office Richmond Va."
+District: Geo. J. Marsh, 1st District.
+Name-list pages found: Images ~91-108 and beyond. The M-section specifically is at image 108 (URL i3811885-00107).
+M-section status: FULLY CHECKED - image 108, 29 entries read. Four Murray entries confirmed.
+Year confirmed by: 1857 year card (image 18); 1857 property book cover (image 76); PROOF pages labelled "for the year 185/" where the final digit reads as 7.
+
+1858
+
+Image set: i3811885, images 201-330.
+Cover / year card: Image 201: "Lewis / George J. Marsh / 1858" spine label.
+Districts accessed:
+- Geo. J. Marsh: name-list pages ~216-230, covering E through L. M-section NOT reached; image 231 onward are 1858 PROOF pages.
+- E. Slesher: cover at image 261 "Lewis / Elijah Slesher (or Flesher) / 1858 / Property." Name-list pages ~266-304. A section at image 266 (page A1); K section at image 296 (page 16); L section at image 298 (page 17); M section at image 304 (page 20) - one partial M-section page found. PROOF page follows immediately at image 299 (1858 confirmed).
+M-section status: Geo. J. Marsh - NOT ACCESSIBLE. E. Slesher - PARTIALLY CHECKED (image 304, page 20, ~10 entries before end of page and page is followed by PROOF). One Murray variant ("Murray William") found.
+Murray / Murry variants found: Murray William (line 5); "Murty C./G." (line 10, low confidence).
+
+1859
+
+Image set: i3811885, images 331-400.
+Cover / year card: Image 331: "Property Book, 2nd Dist. 1859, Auditor."
+District: Geo. J. Marsh (confirmed by district label at image 341 "Geo. Marsh").
+Name-list pages found: Images ~335-371. A section (page 1) -> C section (page 5, image 341) -> F-G section (page 10, image 351) -> H section (page 13, image 357) -> J section (page 14, image 359) -> M-O section at image 371 (page 20). PROOF page follows at image 372.
+M-section status: PARTIALLY CHECKED - image 371, page 20, approximately 8 M-entries visible before the page transitions to N-O. One Murrow entry found.
+Year confirmed by: 1859 cover (image 331); PROOF page at image 309 ("for the year 1859"); PROOF page at image 360 ("for the year 185..." with 9 confirmed).
+Murray / Murry variants found: Murrow, [Hudson/Newsom] (line 2, image 371).
+
+1860
+
+Image set: i3811885, images 401-535.
+Cover / year card: Image 401: "Auditors Office, Richmond Va., 1860." Image 535: "Property Book, 1st District, Lewis County, 1860, Elijah Flesher Comm."
+Districts accessed:
+- Geo. J. Marsh (1860): cover at image 401 area; name-list pages ~403-436. B section page 3 (image 406); D section page 8 (image 416); H section page 11 (image 422); M section page 18 at image 436 (URL i3811885-00435). Year confirmed by PROOF page at image 425 ("for the year 1860").
+- Elijah Flesher 1st District (1860): cover at image 535, essentially no name-list pages in remaining reel before "End of Records" at image 537.
+M-section status: Geo. J. Marsh - FULLY CHECKED (image 436, page 18, 28+ entries read). Two Murray/Murrow entries found. Elijah Flesher - NOT ACCESSIBLE.
+Murray / Murry variants found: Murray James (line 8); Murrow Hudson (line 26).
+
+POSSIBLE MURRAY / MURRY / VARIANT HITS
+
+HIT 1 - 1857, Murray Hudson
+- Year: 1857.
+- Image ID and viewer position: i3811885-00107, viewer image 108 of 543.
+- Page / line: No page number visible in header; line 1.
+- Written name: "Murray Hudson" (surname first).
+- District / commissioner label: Geo. J. Marsh district.
+- Tax details: 1 tithable; 1 horse value 20; rightmost tax column: 20 / 20.
+- Nearby names: line 2 = Moneypenny Thomas; line 3 = Moneypenny Asa; line 4 = Murray Edwards; line 5 = Murray James.
+- Confidence and caveats: High. Same likely person as 1860 Murrow Hudson.
+
+HIT 2 - 1857, Murray Edwards
+- Year: 1857.
+- Image ID and viewer position: i3811885-00107, viewer image 108 of 543.
+- Page / line: Line 4.
+- Written name: "Murray Edwards."
+- District / commissioner label: Geo. J. Marsh.
+- Tax details: 1 tithable; 1 horse; value 6; cattle/sheep value 11; further column 45; rightmost: 10.
+- Nearby names: line 3 = Moneypenny Asa; line 5 = Murray James; line 6 = Moneypenny James.
+- Confidence and caveats: High. Given name "Edwards" is unusual and may be a middle name used as given.
+
+HIT 3 - 1857, Murray James
+- Year: 1857.
+- Image ID and viewer position: i3811885-00107, viewer image 108 of 543.
+- Page / line: Line 5.
+- Written name: "Murray James."
+- District / commissioner label: Geo. J. Marsh.
+- Tax details: 1 tithable; 1 horse value 70; cattle/sheep value 26; further column 114; rightmost: 10.
+- Nearby names: line 4 = Murray Edwards; line 6 = Moneypenny James; line 9 = Murphy Wm.
+- Confidence and caveats: High. Matches the confirmed 1854 James Murray.
+
+HIT 4 - 1857, Murray Patrick
+- Year: 1857.
+- Image ID and viewer position: i3811885-00107, viewer image 108 of 543.
+- Page / line: Line 18.
+- Written name: "Murray Patrick."
+- District / commissioner label: Geo. J. Marsh.
+- Tax details: 2 tithables; 1 horse value 75; cattle/sheep value 40; further column 230; rightmost: 20.
+- Nearby names: line 17 = McLoughlin Jacob; line 19 = Mick Mathias; line 20 = McAnread James.
+- Confidence and caveats: High. Matches the confirmed 1854 Patrick Murry, with normal spelling variation.
+
+HIT 5 - 1858, Murray William
+- Year: 1858.
+- Image ID and viewer position: i3811885-00303, viewer image 304 of 543.
+- Page / line: Page 20, line 5.
+- Written name: "Murray William" with a check/tick mark after the name.
+- District / commissioner label: E. Slesher district.
+- Tax details: 1 tithable; no horse or cattle value columns filled; rightmost column: 30.
+- Nearby names: line 4 = Mitchell Draper B.; line 6 = McDonald James B.; line 7 = Morrison James M.
+- Confidence and caveats: High. Separate district from Geo. J. Marsh Murrays.
+
+HIT 6 - 1858, "Murty C./G." low confidence
+- Year: 1858.
+- Image ID and viewer position: i3811885-00303, viewer image 304 of 543.
+- Page / line: Page 20, line 10.
+- Written name: "Murty C." or "Murty G."; surname reads distinctly as "Murty," not "Murray."
+- District / commissioner label: E. Slesher.
+- Tax details: 1 tithable; value ~55(?); 1 horse(?); value ~5; rightmost: 40; all uncertain.
+- Nearby names: line 9 = McEntire Mosby; line 11 onward = faded.
+- Confidence and caveats: Low for Murray connection. Flagged only as a handwriting-variant possibility.
+
+HIT 7 - 1859, Murrow [Hudson/Newsom]
+- Year: 1859.
+- Image ID and viewer position: i3811885-00370, viewer image 371 of 543.
+- Page / line: Page 20, line 2.
+- Written name: "Murrow [given name uncertain: Hudson or Newsom]."
+- District / commissioner label: Geo. J. Marsh.
+- Tax details: 1 tithable; tax columns partially obscured by zoom constraints.
+- Nearby names: line 1 = McLain James; line 3 = McConough Michael; line 4 = Mellot Richard; line 5 = Moneypenny Asa.
+- Confidence and caveats: High for surname "Murrow." Strong probability this is Murray/Murrow Hudson from 1857 and 1860, but the given name should be reread.
+
+HIT 8 - 1860, Murray James
+- Year: 1860.
+- Image ID and viewer position: i3811885-00435, viewer image 436 of 543.
+- Page / line: Page 18, line 8.
+- Written name: "Murray James."
+- District / commissioner label: Geo. J. Marsh.
+- Tax details: 1 tithable; no horses or cattle entered; rightmost tax column: 10.
+- Nearby names: line 7 = McElney Elijah; line 9 = McEloy John; line 5 = Moneypenny Asa.
+- Confidence and caveats: High. Confirms James Murray / Murray James continuing in Lewis County 1854, 1857, and 1860.
+
+HIT 9 - 1860, Murrow Hudson
+- Year: 1860.
+- Image ID and viewer position: i3811885-00435, viewer image 436 of 543.
+- Page / line: Page 18, line 26.
+- Written name: "Murrow Hudson."
+- District / commissioner label: Geo. J. Marsh.
+- Tax details: 1 tithable; tax columns partially blocked by Ancestry image-counter overlay; full value not recoverable in this session.
+- Nearby names: line 25 = Malesher Patrick L. Mick; line 27 = Moneypenny Thot.
+- Confidence and caveats: High. Same likely person as 1857 Murray Hudson and 1859 Murrow [Hudson/Newsom].
+
+INCIDENTAL NOTE - "John Murrow," Clerk of Lewis County Court (1860)
+
+The certification page for the 1860 E. Slesher district property book (i3811885-00533, image 534) is signed by John Murrow, Clerk of Lewis County Court. This is a public official, not a taxpayer entry, and falls outside the task scope, but it documents a Murrow/Murray as a county officer. Not counted as a taxpayer hit.
+
+NEGATIVE COVERAGE
+
+M-sections fully checked:
+- 1856 C. Kester district - i3811884-00610, viewer image 611, page 16, all 29 lines read. No Murray/Murry/Murrey found.
+- 1857 Geo. J. Marsh district - i3811885-00107, viewer image 108, all 29 lines read. Four Murray entries found.
+- 1860 Geo. J. Marsh district - i3811885-00435, viewer image 436, page 18, all visible lines read (~28 entries). Two Murray/Murrow entries found.
+
+M-sections partially checked or inaccessible:
+- 1855 (all districts) - M-section not reached. The only surviving name-list pages in i3811884 for 1855 cover A through G (images 464-476). No M-section page scanned or accessible.
+- 1856 John Kee/Lee district - M-section not reached. List terminates in K-Y range (~image 544). PROOF pages follow.
+- 1858 Geo. J. Marsh district - M-section not reached. List ends at L section (image 230). PROOF pages follow from image 231.
+- 1858 E. Slesher district - M-section partially checked. Only image 304 (page 20) found, with ~10 M-entries before the page ends. Image 305 is a PROOF page, suggesting image 304 is the sole M-section name-list page for this district in the surviving scans.
+- 1859 Geo. J. Marsh district - M-section partially checked (image 371, page 20). The page shows M entries on lines 1-8 then transitions to N-O names on lines 18-28. Whether any Murray entries appear on earlier pages is uncertain; images 360-370 are PROOF pages, suggesting image 371 is the sole M-section page available.
+- 1860 Elijah Flesher 1st District - M-section not accessible. Cover at image 535, but no name-list pages appear before "End of Records" at image 537.
+
+What exact images should be checked next, if any:
+1. i3811885-00370 revisit (viewer 371, 1859 Geo. J. Marsh, page 20) - zoom on line 2 ("Murrow Hudson/Newsom") in a fresh session without overlay obstruction, to confirm the given name precisely.
+2. i3811885-00435 revisit (viewer 436, 1860 Geo. J. Marsh, page 18, line 26) - zoom on "Murrow Hudson" tax columns to recover the full tax value.
+3. 1855 C. Kester district M-section - no next image to check; the gap appears to be a filming gap.
+4. 1858 E. Slesher district - check whether a "page 19" name-list image exists between PROOF pages ~299-303 for this district, to see if Murray Patrick from 1857 appears in 1858 under Slesher's district.
+5. 1856 John Kee/Lee M-section - no M-section page exists in the surviving reel for this district.
+
+RQ-M1 INTERPRETATION
+
+Does this change the post-1850 arrival / first-tax-appearance model?
+
+No - it reinforces it. The prior work confirmed James Murray and Patrick Murry in 1854. The 1855 and most of the 1856 M-sections are unavailable, so no earlier appearance can be ruled in or out from those years. The 1857 M-section confirms both James and Patrick continuing without a gap. The 1854 appearance remains the earliest confirmed tax-list entry in this collection for these individuals.
+
+New information: A third Murray male appears in 1857 - Murray Hudson - who does not appear in the confirmed 1854 sequence. Hudson is present again in 1859 as Murrow Hudson and in 1860 as Murrow Hudson. He either arrived between 1854 and 1857 or was below tithable age in 1854. A fourth - Murray Edwards - appears only in 1857 and is absent from all checked later years; his status is unresolved. Murray William (1858, E. Slesher district) is in a geographically distinct district from the Geo. J. Marsh Murrays and may represent a different Murray household.
+
+Does this add or weaken evidence for an older Luke / Margaret Murry parent couple in Lewis County?
+
+Neither adds nor weakens directly. No Luke, Lucas, or Margaret Murray/Murry has surfaced in any checked M-section from 1817-1860. The 1857-1860 data introduces Hudson and Edwards as new Murray given names alongside James and Patrick. The coexistence of four distinct Murray males in 1857, all in the same Geo. J. Marsh district, is consistent with a family group, but the tax lists alone do not establish the relationship. "Murray Hudson" is an unusual name combination; Hudson could be a maternal surname used as a given name.
+
+Does this affect the 1854 James / Patrick interpretation?
+
+Confirms and extends. James Murray and Patrick Murry are verified in 1854 and again in 1857 under the Geo. J. Marsh district. James Murray continues into 1860. Patrick Murray is not found in 1858-1860 in the checked images, but the absence is not conclusive because M-section coverage is partial for 1858-1860.

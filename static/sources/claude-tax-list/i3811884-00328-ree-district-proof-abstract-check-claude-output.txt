@@ -1,0 +1,120 @@
+## Image i3811884-00328 — Full Report at Maximum Zoom (Level 12)
+
+---
+
+### 1. Page Type
+
+**Abstract / Proof page** (the counterpart summary form to a taxable-persons list). This page contains no names column and no individual taxpayer entries. It is a pure aggregate-data form identical in structure to 00326.
+
+---
+
+### 2. Full Header Transcription
+
+Printed bold header running across the full top of the page:
+
+> **A Commissioner of the Revenue in the County of Lewis for the year 1854**
+
+"County of Lewis" is handwritten in cursive; all surrounding text is printed type. "1854" is printed "185" with a handwritten "4."
+
+---
+
+### 3. Year
+
+**1854** — directly visible in the printed header.
+
+---
+
+### 4. District / Commissioner Label
+
+**No separate "District of [Name]" label is visible anywhere on this page.** The page bears only the county-level header above. There is no "District of John Ree" or any other district heading.
+
+There is faint handwritten text written in the REMARKS-column area, above and adjacent to the "PROOF." section header (visible at level 12, tiles 4_1 and 2_0 at level 11). That text is multi-line, light-inked, and partially illegible at maximum zoom. Individual words that can be tentatively made out include something resembling a name or phrase ending in what may be "...dule..." or "...duke..." and possibly "Attorneys" or a similar word, with the number **81** at the far right of that line. **This reading is uncertain and should not be relied upon.** This handwritten block appears to be a commissioner's attestation or note written in the REMARKS area, not a district label.
+
+---
+
+### 5. Page Structure and Column Headers (Confirmed at Level 12)
+
+The page is a standard **Virginia commissioner's landscape abstract form** with the following printed column headers (left to right):
+
+- Aggregate of values
+- Amount of all fees of office
+- Amount of income
+- Amount of interest or profit from public bonds or certificates of debt
+- Amount of dividends declared by insurance companies and savings institutions
+- Yearly rent or value of toll-bridges and ferries
+- Amount of tax on all persons and subjects
+- Amount of tax for county purposes
+- REMARKS *(wide blank column)*
+
+Then, a separate right-side block:
+
+**PROOF.** with sub-columns: **Value | Tax on value | Total Tax**
+
+The proof lists items in printed type: White males at 40 cents; Male free negroes at 100 cents; Slaves at 60 cents; Horses, mules, asses and jennets; Cattle, sheep and hogs; Pleasure carriages, stage coaches, &c.; Watches; Clocks; Pianos and harps; Plate and jewelry; Household and kitchen furniture; Moneys, bonds, securities and claims; Capital invested in mining or manufacturing; Moneys, &c., under control of a court, &c.; Capital of companies which declare no dividends; Personal property, &c. of internal improvement companies; Other articles of personal property; Fees of office; Amount of income; Interest or profit; Dividends; Toll-bridges and ferries; Values and tax thereon; Total.
+
+---
+
+### 6. Data Entries Legible at Level 12
+
+Selected PROOF values (direct observation):
+
+| Item | No. / Value | Tax |
+|---|---|---|
+| White males, at 40 cents | **17** | **680 00** |
+| Male free negroes | — | — |
+| Slaves, at 60 cents | **1** | — |
+| Horses, mules, asses and jennets | **34** | 1455 \| 2.86 60 |
+| Cattle, sheep and hogs | **251** | 3200 \| 6.41 20 |
+| Clocks | **13** | 47 \| 9.40 |
+| Household and kitchen furniture | **22** (approx.) | 1355 \| 2.75 00 |
+| Other articles of personal property | **188** | 3.760 |
+| **Grand total (aggregate values)** | **6569** | **13 13 80** |
+| **Final total** | — | **$1993 [80?]** |
+
+The data table (left side) rows 1–31 are present; most populated rows are rows 1–16. Row 27 shows "22 00" in the aggregate column; others show amounts from 42 to 1,062.
+
+---
+
+### 7. Page Number / Sequence Clues
+
+- Ancestry viewer sequence: **329 of 646**
+- Film image ID: i3811884-**00328**
+- No page number is printed or handwritten on the page itself
+
+---
+
+### 8. Relationship to 00327
+
+This page is the **paired PROOF / ABSTRACT page for 00327** (the John Ree district taxable-persons continuation page). In the standard Virginia PPT record structure, a taxable-persons list is paired with a proof/abstract page that totals and verifies the district's aggregate figures. **00328 is that proof page.** It does not continue the Ree district taxable-persons list; it closes the Ree district bookkeeping for the year.
+
+*Inference (not direct image evidence):* The "County of Lewis" header and 1854 year match the established context. The proof totals (17 white males, 1 slave, 34 horses, 251 cattle) are consistent in scale with a small district list of approximately 17 taxable white males (matching 00327's row count).
+
+---
+
+### 9. Continuation / New District
+
+**Does not continue the Ree district taxable-persons list.** Does not begin a new district. Is not blank. Is not a separator. It is definitively the **proof/abstract page closing the John Ree district sequence**.
+
+---
+
+### 10. Oath / Attestation / Signature
+
+No clearly legible oath, affidavit, or commissioner's signature was found. The faint handwritten text above the PROOF table (described in §4 above) may contain an attestation, but it is too degraded to transcribe reliably at any available zoom level. No signed commissioner name is legible.
+
+---
+
+### 11. Target Names
+
+No connection found (at any readable resolution) to: Loghan, Luke Murray, Anne Loghan, James Murray, Patrick Murry, Donahoe/Donahue, or **C. Kester**. No names appear on this page at all.
+
+---
+
+### 12. Exact Next Image
+
+**i3811884-00329** (viewer position 330 of 646). This is the image that would begin the next district or continuation.
+
+---
+
+### Summary Statement
+
+00328 is definitively the **1854 PROOF / ABSTRACT page for the John Ree district** of Lewis County, Virginia — the paired closing form to the taxable-persons list ending at 00327. It bears no individual names, no district label, no year beyond what is in the county-level header, no visible oath or signature, and no connection to any of the target family names. The next image is **i3811884-00329**.

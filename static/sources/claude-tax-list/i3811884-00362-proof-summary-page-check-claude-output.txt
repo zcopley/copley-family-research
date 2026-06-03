@@ -1,0 +1,90 @@
+TAX-LIST HEADER CHECK SCOPE
+
+Collection / website: Virginia, U.S., Personal Property Tax Records, 1782-1900 - Ancestry.com (Collection 62774)
+
+Images checked: i3811884-00362 only (per task scope)
+
+Year / district evidence: Year 1854 is confirmed legible on this image. The county name "Lewis" fills the district blank in the header. No separate district number is visible on this image.
+
+Access or image problems: None. Image loaded cleanly. Ancestry image viewer at standard zoom showed the header slightly small but legible; the zoom tool confirmed all key text at high resolution.
+
+IMAGE i3811884-00362
+
+Page type: Proof / Summary page. The right half of a two-panel spread contains a preprinted section headed "PROOF." with enumerated property categories, value columns ("Value," "Tax on value," "Total Tax"), and aggregate totals. The left half carries the numbered-row tax list with monetary columns. This is the standard Virginia personal property tax proof / recapitulation sheet format.
+
+Image / URL: https://www.ancestry.com/imageviewer/collections/62774/images/i3811884-00362?pId=394401
+Ancestry filmstrip position: 363 of 646
+
+Full year, if visible: Yes - 1854 is fully legible. The preprinted text reads "for the year 185" followed by a handwritten "4" in ink. The "4" is clear and unambiguous at zoom. This is not truncated; the digit is fully present.
+
+District / commissioner, if visible:
+- District name: The header reads "A Commissioner of the Revenue in the Lewis for the year 1854." The cursive word in the blank is "Lewis" - consistent with Lewis County, Virginia. This fills the county/district blank in the standard form; no separate district number (e.g., "District 1" or "District 2") is visible on this image.
+- Commissioner name: No commissioner's name is legible on this image from the screenshots obtained. The proof page does not carry a signature block in the visible portion; the bottom-right margin is partially obscured by the filmstrip overlay. No separate signature or commissioner's name was captured.
+
+Page number / sequence clues:
+- This is a proof/summary page, not a taxable-persons page, so it carries no page number in the conventional sense.
+- The left panel shows numbered rows running from at least 1 through about 30, with monetary values in the tax columns. These row numbers are aggregate summary rows for the list, not individual taxpayer lines.
+- The image immediately following (i3811884-00363, filmstrip 364 of 646) is the taxable-persons page 5 with F-surnames, already verified in prior sessions. That page follows sequentially in the filmstrip, confirming 00362 is the proof sheet that precedes the main taxable-persons run starting at or near 00363.
+
+Header transcription:
+"A Commissioner of the Revenue in the Lewis for the year 1854"
+
+Totals / signatures / names, if relevant (PROOF section):
+The PROOF section on the right panel reads, approximately:
+
+| No. | Category | Value | Tax on value | Total Tax |
+|---|---|---|---|---|
+| 29 | White males, at 40 cents | - | - | $11.60 |
+| - | Male free negroes, at 100 cents | - | - | - |
+| L (=50?) | Slaves, at 60 cents | - | - | $1.20 |
+| 43 | Horses, mules, asses and jennets | $2015 | $4.13 | - |
+| 467 | Cattle, sheep and hogs | $2310 | $4.62 | - |
+| 3 | Pleasure carriages, stage coaches, etc. | $150 | $0.30 | - |
+| 9 | Watches | $245 | $4.860 | - |
+| 12 | Clocks | $41 | $8.20 | - |
+| 1 | Pianos and harps | $140 | $0.28 | - |
+| - | Plate and jewelry | - | - | - |
+| - | Household and kitchen furniture | $1575 | $3.1460 | - |
+| - | Moneys, bonds, securities and claims | $8460 | $1.692 | - |
+| - | Capital invested in mining or manufacturing | - | - | - |
+| - | Moneys, etc., under control of a court, etc. | - | - | - |
+| - | Capital of companies which declare no dividend | - | - | - |
+| - | Personal property, etc. of internal improvement companies | - | - | - |
+| - | Other articles of personal property | $301 | $6.000 | - |
+| - | Fees of office | - | - | - |
+| - | Dividends, 1.5 percent | - | - | - |
+| - | Toll-bridges and ferries, 5 percent | - | - | - |
+| Total | Values and tax thereon | about $15,233 / $3,1466 | $3046.60 | $431.60 |
+
+Numbers are as read from a partially obscured zoomed image; treat as approximate transcription, not archival quality.
+
+DISTRICT / YEAR CONTEXT FOR JAMES / PATRICK
+
+Does image i3811884-00362 clarify the 185_ year? Yes, definitively. The year is 1854, confirmed by the handwritten "4" completing "185_" in the header.
+
+Is the final year digit visible anywhere? Yes. The digit "4" is clearly visible at zoom, completing "for the year 1854." This is no longer probable - it is confirmed as 1854.
+
+Is the district or commissioner legible?
+- County name: "Lewis" - legible in cursive in the header blank. This confirms Lewis County. No separate district number (e.g., "1st District") is visible on this image.
+- Commissioner name: Not legible from this image. The standard location for a commissioner's signature would be at the bottom of the proof sheet or on a separate affidavit/cover page. The bottom of image 00362 was partially obscured by the filmstrip overlay in the viewer.
+
+Does image 00362 connect directly to page 5 / 00363, proof spread 00364, page 9 / 00365, or the later James / Patrick sequence?
+- Direct connection to 00363: Yes. Image 00362 is the proof/summary sheet that immediately precedes image 00363 (taxable-persons page 5, F-surnames) in filmstrip order. The proof sheet at 00362 is the recapitulation for the entire commissioner's list, of which 00363 and subsequent pages, including 00377 / James Murray and 00379 / Patrick Murry, are the constituent taxable-persons pages.
+- The proof page at 00362 covers the same tax district/list as the taxable-persons pages that follow it in this sequence.
+
+RQ-M1 INTERPRETATION
+
+Does this confirm probable 1854? Yes - 1854 is now confirmed, not merely probable. The handwritten "4" on image i3811884-00362 closes the year question. James Murray (i3811884-00377, page 15, line 24) and Patrick Murry (i3811884-00379, page 16, line 14) are both on the 1854 Lewis County personal property tax list.
+
+Does this identify the commissioner or district for James and Patrick?
+- County: Lewis County, Virginia - confirmed.
+- Commissioner name: Not resolved from this image. The proof page header does not name the commissioner; a named affidavit page or cover sheet would be needed.
+- District number: Not visible on this image. Lewis County in 1854 may have had a single commissioner or multiple district commissioners; this image does not specify a number.
+
+Does this change the post-1850 arrival or pre-1843 anchor interpretation? No change to those interpretations. The 1854 tax date was already the working assumption; confirming it as 1854, not 1853 or 1855, tightens the timeline but does not move either anchor point.
+
+What exact image should be checked next?
+1. i3811884-00361 (one image before 00362 in filmstrip sequence) - likely to be a cover page, affidavit, or title sheet that would name the commissioner and possibly the district number for this 1854 list.
+2. i3811884-00380 or beyond (images after Patrick Murry's page at 00379) - to determine where this particular commissioner's list ends, which may also carry a closing signature with the commissioner's name.
+
+Target 00361 is the higher-priority next check for commissioner identification.
