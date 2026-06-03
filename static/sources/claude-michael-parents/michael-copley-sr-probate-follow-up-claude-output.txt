@@ -1,0 +1,147 @@
+Probate Follow-Up Research Report: Michael Copley Sr., Lewis County, WV (d. 19 Jan 1897)
+
+Records Found
+
+1. Will -- Already Known (Confirmed and Re-Examined)
+
+Website / Collection: FamilySearch -- West Virginia Will Books, 1756-1971
+Exact Title: Will book, v. C 1878-1900 (Lewis)
+ARKs:
+- https://www.familysearch.org/ark:/61903/3:1:9392-HYS9-13 (image 205 of 235)
+- https://www.familysearch.org/ark:/61903/3:1:9392-HYS9-R8 (image 206 of 235)
+Film/DGS: Part of the online collection (DGS 179711101, collection cc=1909099)
+Book / Volume / Pages: Will Book C, images 205-207 of 235
+Dates: Will written 2 Feb 1893; probated 4 Mar 1897
+
+Observations from zoomed examination of images 205-207:
+
+Image 205 (right page) is clearly the opening of Michael Copley's will -- it begins with the standard "In the name of God Amen" formula. The left page of image 206 contains the continuation and end of the will body, signatures of witnesses, and the probate certificate. The bottom section of the left page of image 206 contains the probate certificate proper, which based on the partially-legible text follows the standard West Virginia County Court probate form: "The State of West Virginia / Lewis County / [County Court?] / ...the foregoing will of [Michael Copley] ... was admitted to probate..." with a reference to Order Book No. 6, page 496 (consistent with the known citation). The signatures in the witnesses block are partially legible and appear to include J. E. Hayman and E. A. Tennant (or similar). The executor/administrator signature area at the very bottom left appears to show John Copley qualifying as executor.
+
+Full transcription of key legible lines (partial -- handwriting is difficult at home resolution):
+
+- Left page header: page 350 (verso)
+- Right page header: page 351 (recto)
+- Witness attestation block includes two signatures that appear to be: J. E. Hayman and E. A. [Tennant?]
+- Probate certificate section heading: "The State of West Virginia / Lewis County / [County?] Clerk's Office..."
+- Body of certificate references "the day forty days from the date of the death of the testator" and cites the Order Book
+
+Image 207 (right page) contains what appears to be a second probate certificate or executor's oath, with the text beginning "Probate of [the within or above?] Will" and ending with a signature that appears to be J. E. [Powell?] / Clerk. A second shorter document at the bottom of the right page of image 207 also appears to be a bond or oath form with a partial signature of J. H. [Cole?] or similar.
+
+2. FamilySearch Catalog: "Wills, inventories, etc., Lewis County : 1853-1899"
+
+Website: FamilySearch Catalog -- https://www.familysearch.org/en/search/catalog/koha:140811
+Author: Historical Records Survey (West Virginia); West Virginia. County Court (Lewis County)
+Format: Microfilm 35mm, 1 reel
+Film Number: Film 250047 / DGS 7617564
+Location: FamilySearch Library, United States & Canada B1 Floor
+Access restriction: No camera icon present -- images are digitized but restricted; accessible only at a FamilySearch Center or the FamilySearch Library in Salt Lake City. Not viewable at home.
+Notes: Microfilm of material at the West Virginia University Library, Morgantown. Prepared by the Historical Records Survey. "These records have inventories on both sides." "Some years are missing." Also filed with: Births, Lewis County.
+
+Relevance: This is the primary target for Michael Copley estate inventory/settlement records. This film covers the period including 1897 and would contain the estate inventory, appraisement, and any sale bill or settlement filed after March 1897.
+
+3. FamilySearch Catalog: "Inventories, etc., Lewis County : 1853-1900"
+
+Website: FamilySearch Catalog -- https://www.familysearch.org/en/search/catalog/koha:140807
+Author: Historical Records Survey (West Virginia); West Virginia. County Court (Lewis County)
+Format: Microfilm 35mm, 1 reel
+Film Number: Film 250047 / DGS 7617564 (same film as above)
+Location: FamilySearch Library, United States & Canada B1 Floor
+Access restriction: No camera icon -- same restriction as above. FamilySearch Center / FSL visit required.
+Notes: "These records have other records mixed with them." "Some years are missing." Also filed with: Births, Lewis County.
+
+Relevance: This is likely the same physical film as the wills/inventories entry above, cataloged under a second title because both wills and inventories appear on the same reel. Both catalog entries point to Film 250047 / DGS 7617564. Either title gets you to the same roll.
+
+4. FamilySearch Catalog: "Order books, 1881-1901" -- Critical Find
+
+Website: FamilySearch Catalog -- https://www.familysearch.org/en/search/catalog/koha:81956
+Author: West Virginia. County Court (Lewis County)
+Format: Microfilm 35mm, 4 microfilm reels
+Publication date: 1970, filmed by the Genealogical Society of Utah
+Notes: "Microfilm of original records at the Lewis County courthouse. Includes indexes."
+
+Film breakdown -- all at Granite Mountain Record Vault:
+
+Volume | Dates | Film # | DGS
+v. 1-2 | 1881-1887 | Film 825095 | DGS 8614115
+v. 3-4 | 1887-1894 | Film 825096 | DGS 8614116
+v. 5 | 1894-1897 | Film 825097 | DGS 8614117
+v. 6 | 1897-1901 | Film 825098 | DGS 8614118
+
+The probate order of 4 Mar 1897 (Order Book No. 6, page 496) is on Film 825098 / DGS 8614118.
+
+Access restriction: No camera icon present -- this film is held at the Granite Mountain Record Vault and is digitized but not accessible at home. Requires a FamilySearch Library (Salt Lake City) or FamilySearch Center visit. Full-text search of DGS 8614118 returned zero results, confirming the images are not indexed and are not in the freely accessible online library.
+
+Note: Volume 5 (1894-1897) on Film 825097 / DGS 8614117 may also contain relevant entries from just before the March 1897 probate date, if the county court handled any preliminary filings in late January or February 1897 (between death and probate).
+
+5. FamilySearch Catalog: "Order books, 1817-1932" -- Circuit Court, NOT County Court
+
+Website: FamilySearch Catalog -- https://www.familysearch.org/en/search/catalog/koha:319781
+Author: Virginia/West Virginia Circuit Court (Lewis County)
+Notes: These are Circuit Court order books, not County Court. Probate in West Virginia was handled by the County Court. This series is for civil/criminal law cases. The entry covering 1896-1905 is on Film 1481462 / DGS 8614189.
+Access restriction: No camera icon -- Granite Mountain Record Vault, not accessible at home.
+Relevance to probate: Not directly relevant unless the estate involved a legal dispute that went to Circuit Court. Worth checking only if you discover a contested will or land dispute.
+
+6. Other Lewis County Catalog Entries Identified (Probate Section, 10 Items Total)
+
+The full Lewis County probate records section in the FamilySearch Catalog includes:
+- "Births, deaths, 1853-1899; marriages, 1817-1864; wills, inventories, 1864-1899, 1853" -- Lewis County Clerk; overlaps the 1897 target period
+- "Inventories, 1828-1903" -- West Virginia County Court (Lewis County)
+- "Inventories, etc., Lewis County : 1853-1900"
+- "Last will and testament, Lewis County : 1819-1853" -- too early
+- "Law trial docket : 1843-1864" -- too early
+- "West Virginia county records, 1772-1859" -- too early
+- "West Virginia wills, counties of Harrison, 1784-1821, Lewis, 1819-1852, Upshur, 1851-1865" -- too early
+- "Wills & appraisements, 1817-1835" -- too early
+- "Wills, 1820-1970"
+- "Wills, inventories, etc., Lewis County : 1853-1899"
+
+The most relevant for post-1897 estate settlement are the Inventories 1853-1900/1903 entries, which cover the years immediately following Michael Copley's death when his estate would have been inventoried and settled. All share Film 250047 / DGS 7617564.
+
+7. West Virginia Death Certificate -- "Micheal Copley" (Supporting Record)
+
+Website: FamilySearch -- West Virginia, Deaths, 1804-1999 / WV Archives
+ARK: https://www.familysearch.org/ark:/61903/1:1:NMXJ-GYX
+Source details: v 1 p 231; Film 825106, Image 393
+Event date: 19 Jan 1897, Sand Fork, Lewis Co., WV
+Age: 83 years (birth year estimated 1814)
+Birthplace: Lewis Co.
+Marital status: Married
+Occupation: Farmer
+
+Parentage data:
+- Father: John Copley
+- Mother: Sarah Copley
+- Wife: Bridget Copley
+
+8. "Copley Heirs Farm" / "Copley Heirs Well No. 1" -- Oil Industry References (Collateral Evidence)
+
+Sources found via web search:
+- Petroleum Review (Internet Archive), mentioning "Copley heirs' farm, located on Sand Fork, Lewis county" as the site of a major oil well
+- Bradford Era, Dec. 18, 1900, p. 3: "Copley heirs no. 1 ... John Copley no. 3" -- listing oil well production figures by well name
+- Picturing West Virginia (WV and Regional History Center, WVU): panoramic photograph captioned "Copley Heirs Well No. 1 in Sand Fork District, Lewis County"
+- WVU Archives: James Pietro Papers contain "Copley Heirs Well No. 1, Sand Fork District, Lewis County, WV; 1900/09/23"
+- AAPG Bulletin: "The Copley Oil Pool of West Virginia" -- "The Copley pool is located in Lewis and Gilmer counties, West Virginia, on Sand Fork of Little Kanawha River, near the village of Copley"
+
+Abstract of key finding: The "Copley Heirs Farm" at Sand Fork was a major oil-producing property in 1900-1901. The Bradford Era newspaper production listing names both "Copley heirs no. 1" and "John Copley no. 3" as distinct oil wells, implying that John Copley was an identified individual heir who had his own well on what may have been a partition of estate land. This suggests the Copley estate land was not sold outright but was divided among heirs or operated jointly, consistent with oil-era estate practice in WV.
+
+Records Not Found / Access Limits
+
+Lewis County Order Book No. 6, p. 496 (County Court, 1897-1901): Film 825098 / DGS 8614118. Restricted; Granite Mountain Vault; FamilySearch Library or Center required. Not viewable at home; full-text search returned zero results.
+
+Lewis County Order Book No. 5 (1894-1897): Film 825097 / DGS 8614117. Restricted; not viewable at home.
+
+Lewis County Wills, inventories, etc. 1853-1899: Film 250047 / DGS 7617564. Restricted; FamilySearch Library or Center required.
+
+Lewis County Inventories, etc. 1853-1900: Film 250047 / DGS 7617564. Restricted; FamilySearch Library or Center required.
+
+FamilySearch Full-Text Search -- "Michael Copley" in DGS 8614118: zero results; not indexed.
+
+WV Archives probate/estate records: not found online; VRR database accessible for vital records but probate not in VRR database.
+
+West Virginia Estate Settlements book/index: physical book at FamilySearch Library; not searched online. May index Lewis County estates.
+
+Lewis County deed books for Copley heirs oil/land transactions: not searched in this session. Likely to name all heirs; next target.
+
+Interpretation
+
+No online-accessible probate follow-up record (Order Book No. 6 p. 496, inventory, settlement) was found for Michael Copley Sr. The specific film needed -- Film 825098 / DGS 8614118 for the Order Book, and Film 250047 / DGS 7617564 for the inventory -- are both digitized by FamilySearch but restricted to FamilySearch Library / Center access only. The death certificate confirms John Copley (father) and Sarah Copley (mother) by name, but it gives no Dolan maiden name and has reliability cautions already recorded in the project. The oil-industry records confirm the "Copley Heirs Farm" at Sand Fork was still an active estate entity as late as 1901, so a deed search in Lewis County after 1897 is a high-value next step that may name all heirs explicitly.

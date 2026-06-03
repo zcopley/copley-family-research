@@ -26,6 +26,17 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
 
 ## What Was Just Completed
 
+- Integrated Zach's June 2026 Claude for Chrome **Michael Copley Sr. probate follow-up / access-map** report.
+- Preserved the raw follow-up at `static/sources/claude-michael-parents/michael-copley-sr-probate-follow-up-claude-output.txt`.
+- Updated `References/Claude for Chrome Michael Copley Sr Probate Estate Search.md`, `People/Michael Copley Sr.md`, `Sources and Evidence Index.md`, `Research Priorities and Action Items.md`, `Topics/1900 Copley Oil Strike.md`, `Volunteer Record Request Tasks.md`, `Search Index.md`, and `CHANGELOG.md` so:
+  - Order Book No. 6 page 496 is tied to County Court Order Book v. 6, Film 825098 / DGS 8614118;
+  - possible preliminary January-March 1897 entries are tied to County Court Order Book v. 5, Film 825097 / DGS 8614117;
+  - inventory / appraisement / settlement targets are tied to Film 250047 / DGS 7617564;
+  - the will remains non-parentage estate evidence;
+  - the death-register John / Sarah parent names remain important but cautious evidence and still do not prove Sarah Dolan;
+  - `Copley heirs`, `Copley Heirs Well No. 1`, and `John Copley no. 3` are now explicit oil-title / deed / heirship search terms.
+- Updated `Volunteer Record Request Tasks.md` with a new `VR-02A` restricted probate-film lookup template for FamilySearch Center / FamilySearch Library / WVRHC helpers.
+
 - Brought active agent instruction files current:
   - `CLAUDE.md` now includes a standing record-request / letter / phone-inquiry workflow rule and corrects the local build command to `npm run build`.
   - `GEMINI.md` now includes the same standing request-template rule, the June 2026 operating state, and the generated-output restore caution.

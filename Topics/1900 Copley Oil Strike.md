@@ -37,6 +37,8 @@ Broader forces shaping the event:
 
 Family tradition and synthesis documents consistently frame the strike as the major economic inflection point that helped support later educational and professional advancement in the family’s 20th-century branches.
 
+June 2026 probate follow-up work added a more specific title-chain clue: period oil references describe a **Copley heirs' farm** / **Copley Heirs Well No. 1** at Sand Fork around 1900-1901, and one newspaper production listing reportedly distinguishes `Copley heirs no. 1` from `John Copley no. 3`. Treat this as a lead pending direct image capture, but it makes post-1897 Lewis County deed, lease, royalty, partition, and estate records especially important because they may name Michael Copley Sr.'s heirs explicitly.
+
 ## Timeline
 
 ```mermaid
@@ -82,6 +84,7 @@ Archive targets:
 
 ### Acquisition Strategies
 - Pull deed + lease books around 1899-1901; extract all Copley/South Penn entries.
+- Search specifically for `Copley heirs`, `Copley Heirs Well No. 1`, `John Copley no. 3`, and Sand Fork / Copley Oil Pool references in deed, lease, royalty, and title-chain records.
 - Build a royalty ledger from probate, tax, and deed references.
 - Cross-check production claims against period trade publications and state reports.
 

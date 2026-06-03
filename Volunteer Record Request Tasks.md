@@ -70,6 +70,7 @@ If a record is found, please send the scan or photo plus any envelope, cover not
 |---|---|---|---|
 | VR-01 | Luke Murray / Anne Loghan 1854 marriage bond or consent | Could name a bondsman, guardian, parent, or witness for the Murray Settlement question | Lewis County Circuit Clerk |
 | VR-02 | Michael Copley Sr. probate order and estate packet | Could name heirs, sureties, appraisers, Bible evidence, or parentage clues | Lewis County Clerk or Circuit Clerk |
+| VR-02A | Michael Copley restricted probate-film lookup | Same evidence target as VR-02, but for a FamilySearch Center / FamilySearch Library / WVRHC helper | FamilySearch Center, FamilySearch Library, or WVRHC |
 | VR-03 | Michael / Patrick Copley naturalization records | Could name birthplace, arrival, court, or origin details | Lewis County court offices / WV Archives |
 | VR-04 | St. Michael's / early Catholic sacramental records | Could identify marriages, baptisms, sponsors, and settlement-family links | Diocese / parish archive |
 | VR-05 | Ann Munday / Kinawley tithe and land records | Could test Munday / Monday / Mundy vs. Murray in Kinawley | PRONI or Irish archive contact |
@@ -145,6 +146,12 @@ Sincerely,
 
 **Best recipient:** Start with Lewis County Clerk, 110 Center Avenue, Weston, WV 26452. If referred, contact the Lewis County Circuit Clerk.
 
+Known restricted film targets:
+
+- County Court Order Book v. 6, 1897-1901: Film 825098 / DGS 8614118; target page 496.
+- County Court Order Book v. 5, 1894-1897: Film 825097 / DGS 8614117; check for January-March 1897 preliminary entries.
+- Wills, inventories, etc., Lewis County, 1853-1899 / Inventories, etc., Lewis County, 1853-1900: Film 250047 / DGS 7617564.
+
 ```text
 [Your Name]
 [Your Mailing Address]
@@ -171,18 +178,72 @@ His will has been located in the FamilySearch collection "West Virginia Will Boo
 - FamilySearch collection ID: 1909099
 - Film / DGS: Film 819929, DGS 4715576
 - Probate certificate: cites Order Book No. 6, page 496
+- Restricted FamilySearch target for Order Book No. 6: County Court Order Book v. 6, Film 825098 / DGS 8614118
+- Restricted FamilySearch target for inventory / appraisement / settlement: Film 250047 / DGS 7617564
 
 I would like to request a search for:
 
 1. The probate order in Order Book No. 6, page 496.
-2. Any estate settlement, appraisement, inventory, administrator's bond, sale bill, personal-property account, estate packet, or related probate file for Michael Copley after March 1897.
-3. Any index entries under Copley, Copely, or Coopley.
+2. Any preliminary County Court entry between 19 January 1897 and 4 March 1897.
+3. Any estate settlement, appraisement, inventory, administrator's bond, sale bill, personal-property account, estate packet, or related probate file for Michael Copley after March 1897.
+4. Any index entries under Copley, Copely, or Coopley.
 
 The will names son John Copley as executor / administrator and names children Annie, Bridget, Margaret, Sarah, Thomas, Catherine Hannon, and likely Mary Quinn. I am especially interested in any record that names heirs, relationships, appraisers, sureties, land divisions, family Bible evidence, parents, or birthplace.
 
 If records are found, please let me know the book, page, date, number of pages, copy fee, and preferred payment method.
 
 If your office does not hold these records, could you please advise whether they are held by the Circuit Clerk, West Virginia State Archives, or another repository?
+
+Thank you for your assistance.
+
+Sincerely,
+
+[Your Name]
+```
+
+## VR-02A: Michael Copley Restricted Probate-Film Lookup
+
+**Claim tested:** Same as VR-02, but this task is for a volunteer who can use a FamilySearch Center, the FamilySearch Library in Salt Lake City, or WVU's West Virginia and Regional History Center remote reference / reproduction service.
+
+**Best recipient / method:** FamilySearch Center or FamilySearch Library for restricted DGS access. For WVU WVRHC, use their current official remote reference / reproduction request path and verify current procedures before submitting.
+
+```text
+[Your Name]
+[Your Mailing Address]
+[Your Email]
+[Your Phone]
+[Date]
+
+[FamilySearch Center / FamilySearch Library / WVRHC Reference Staff]
+[Address or web-form contact]
+
+Re: Restricted probate-film lookup request - Michael Copley estate, Lewis County WV, 1897
+
+Dear Records Staff,
+
+I am requesting help with restricted Lewis County, West Virginia probate films for Michael Copley, who died 19 January 1897 at or near Sand Fork, Lewis County.
+
+Known will:
+
+- Name: Michael Copley, also Micheal / Copely / Coopley
+- Will written: 2 February 1893
+- Will probated: 4 March 1897
+- Will Book C, pages 350-352
+- FamilySearch collection: West Virginia Will Books, 1756-1971
+- Will ARKs: https://www.familysearch.org/ark:/61903/3:1:9392-HYS9-13 and https://www.familysearch.org/ark:/61903/3:1:9392-HYS9-R8
+- Probate certificate cites Order Book No. 6, page 496
+
+Please check these restricted films:
+
+1. County Court Order Book v. 6, 1897-1901, Film 825098 / DGS 8614118: please capture or transcribe Order Book No. 6, page 496.
+2. County Court Order Book v. 5, 1894-1897, Film 825097 / DGS 8614117: please check the index and January-March 1897 entries for Michael Copley.
+3. Wills, inventories, etc., Lewis County, 1853-1899 / Inventories, etc., 1853-1900, Film 250047 / DGS 7617564: please check for Michael Copley inventory, appraisement, sale bill, estate settlement, administrator bond, or account after March 1897.
+
+Please capture exact book, page, image number, date, names, roles, sureties, appraisers, heirs, land descriptions, and any relationship language. I am especially interested in any record naming heirs, parents, family Bible evidence, birthplace, or Copley heirs' land / oil interests.
+
+If these records cannot be accessed through your service, could you please advise the correct access path?
+
+Please let me know any copy fee before making copies.
 
 Thank you for your assistance.
 
@@ -361,9 +422,10 @@ I am researching the Copley No. 1 oil strike on Copley family land in Lewis Coun
 
 Could you please advise how to search or request copies for:
 
-- Oil and gas leases involving John Copley or Copley family land, roughly 1899-1925
+- Oil and gas leases involving John Copley, `Copley heirs`, `Copley Heirs Well No. 1`, `John Copley no. 3`, or Copley family land, roughly 1899-1925
 - Royalty assignments or mineral-rights records
 - Title-chain records for the farm containing Copley No. 1
+- Partition deeds or conveyances from Michael Copley's heirs after his 1897 death
 - Probate or estate records for John Copley, died 6 September 1925
 - Any index entries under Copley / Copely / Coopley surname variants
 
@@ -556,4 +618,3 @@ Suggested next step:
 - Do not report Ann Copley as Murray unless a direct record says so. Munday remains the recorded family surname form.
 - Do not treat online family trees as proof unless they cite an original or near-original record.
 - A negative result is still useful if the office says exactly what books, indexes, or years were checked.
-

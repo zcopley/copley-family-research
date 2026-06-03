@@ -10,6 +10,16 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4DR - Michael Copley Probate Access Map Integrated (June 3, 2026)
+
+**MICHAEL-PROBATE UPDATE:** Integrated Zach's Claude for Chrome probate follow-up report for [[People/Michael Copley Sr|Michael Copley Sr.]]. The will still does not name Michael's parents, but the follow-up identifies the exact restricted FamilySearch probate targets: County Court Order Book v. 6, Film 825098 / DGS 8614118, page 496; possible preliminary Order Book v. 5 entries on Film 825097 / DGS 8614117; and estate inventory / appraisement / settlement material on Film 250047 / DGS 7617564. It also adds the `Copley heirs` / Sand Fork oil-title path as a high-value heirship target.
+
+### Updated Pages
+
+- [[References/Claude for Chrome Michael Copley Sr Probate Estate Search|Claude for Chrome Michael Copley Sr Probate Estate Search]] - added the restricted-film access map, follow-up image observations, Copley heirs oil clue, and raw follow-up report link.
+- [[People/Michael Copley Sr|Michael Copley Sr.]], [[Sources and Evidence Index|Sources and Evidence Index]], [[Research Priorities and Action Items|Research Priorities and Action Items]], [[Topics/1900 Copley Oil Strike|1900 Copley Oil Strike]], [[Volunteer Record Request Tasks|Volunteer Record Request Tasks]], [[Search Index|Search Index]], and `.agents/AGENT_RESUME.md` - updated the next probate / heirship path with exact films, DGS numbers, and request templates.
+- `static/sources/claude-michael-parents/michael-copley-sr-probate-follow-up-claude-output.txt` - preserved the raw Claude for Chrome follow-up report.
+
 ## Phase 4DQ - Agent Request-Template Rule Added (June 3, 2026)
 
 **AGENT-INSTRUCTION UPDATE:** Brought active agent files current and added a standing workflow rule: whenever future research concludes that a letter, phone call, courthouse request, archive inquiry, church inquiry, cemetery request, library lookup, fax, email, or web form is the next practical action, agents must add or update a reusable request template in [[Volunteer Record Request Tasks]] and/or [[Tier 1 Research Execution Kit]]. The template should include the target claim, recipient, known citations, spelling variants, exact ask, fee caution, and reporting instructions.
