@@ -1,0 +1,59 @@
+Research Progress Report - Lewis County Deed Research, Copley Family
+
+Research date: June 2026
+Preservation note: normalized extract of the user-supplied Claude for Chrome progress report on the August 1900 Copley exchange deed citation, Deed Book 11 page check, grantor-index search, and South Penn lease status.
+
+PART 1: EXCHANGE DEED CITATION VERIFICATION
+
+The exchange deed at DGS 008293301, image 245, Image ARK 3Q9M-CSR7-HQCR-V, remains confirmed as a family exchange deed, not an oil lease. It was executed 22 August 1900 and recorded 13 October 1900.
+
+The latest tile-level pass revises the older deed citation:
+
+- cited deed date reads May first, 1880, not May first, 1878;
+- book reads Deed Book No. 11;
+- page reads 32 with reasonable confidence, but a third digit cannot be ruled out from tile-boundary evidence;
+- the 1900 exchange-deed place reading was reported in this pass as "Nonypod Run of Sand Creek," replacing the prior tentative "Bungport Run of Cove Lick" reading. Treat the place-name reading as a transcription conflict until the full image is reread.
+
+PART 2: DEED BOOK 11 PAGE 32 CHECK
+
+DGS 008293286, Film 818759, is Deed Book 11, years 1880-1881.
+
+Page 32 was checked at image 47. The left page includes:
+
+1. acknowledgment of a prior deed involving Harrison County / Crisell or related parties;
+2. a recording endorsement by clerk Josh J. Wofter;
+3. the start of a Franklin Maxwell deed at the bottom of the page.
+
+No Copley deed was found at Deed Book 11 page 32.
+
+Interpretive possibilities:
+
+- page 32 may be a misread or partial read of another page number, such as 52, 62, 82, or 322;
+- the relevant Copley deed may begin later in the page range;
+- the citation may refer to a different type of entry.
+
+PART 3: GRANTOR INDEX SEARCH
+
+DGS 008219260, Film 819917, is the General Index to Deeds and Oil & Gas Leases, Lewis County, West Virginia, Grantors A-E, 1817-1934. It explicitly includes oil and gas leases.
+
+The Co- section was located around images 304-306. Image 305 contains Colvin entries on the left page and Chandler entries on the right page. Image 306 begins Cork entries. No Copley / Coply / Copely / Copeley / Coopley entries were found in the visible boundary between Colvin and Cork, but this needs exact tile-boundary verification at images 305-306 and nearby pages 304-310.
+
+South Penn Oil Company entries for other grantors were observed, including a George A. Brown / Mary E. Brown lease to South Penn Oil Co. for 300 acres in Lewis and Doddridge counties.
+
+PART 4: SOUTH PENN LEASE STATUS
+
+The South Penn / Copley heirs lease has not yet been located.
+
+NEXT STEPS
+
+1. Re-examine Deed Book 11 pages 32-50, images 47-60 of DGS 008293286.
+2. Check Deed Book 10, DGS 008293285, as a backup for 1878-1880 context.
+3. Complete the grantor-index search at DGS 008219260, images 304-310, for Copley and variants.
+4. Search the grantee index for South Penn Oil Company.
+5. Read more of the exchange deed body, especially tile rows 11-13, to identify the grantor who conveyed the 200-acre Sand Fork tract to Michael and John Copley.
+
+KEY CITATIONS
+
+- Exchange deed: DGS 008293301, image 245, Image ARK 3Q9M-CSR7-HQCR-V, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSR7-HQCR-V?i=244&cc=3158864
+- Deed Book 11: DGS 008293286, Film 818759, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSR7-SQXB-C
+- Grantor Index A-E: DGS 008219260, Film 819917, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGX-ZS2V-H

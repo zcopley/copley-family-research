@@ -10,15 +10,25 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4DV - Deed Book 11 Citation Progress Integrated (June 4, 2026)
+
+**OIL-TITLE UPDATE:** Integrated the follow-up Lewis County deed research progress report. The older deed citation in FamilySearch record `6X4N-DWWY` now reads **1 May 1880, Deed Book No. 11, page 32?**, not the earlier tentative 1878 / page 321 reading. Deed Book 11, page 32 was checked in DGS `008293286` and did **not** contain a Copley deed, so the citation remains unresolved. The 55-acre tract place-name reading is also now treated as a transcription conflict between the newer `Nonypod Run of Sand Creek` reading and the earlier `Bungport Run of Cove Lick` reading.
+
+### Updated Pages
+
+- [[References/Claude for Chrome 1900 Copley Family Exchange Deed|Claude for Chrome 1900 Copley Family Exchange Deed]] - added the Book 11 / 1880 correction, failed page-32 check, unresolved place-name warning, exact DGS targets, and raw progress-report link.
+- [[References/Claude for Chrome Copley Heirs Oil Title Search|Claude for Chrome Copley Heirs Oil Title Search]], [[Topics/1900 Copley Oil Strike|1900 Copley Oil Strike]], [[People/Michael Copley Sr|Michael Copley Sr.]], [[People/John Copley|John Copley]], [[People/Ann Copley|Ann Copley]], [[Places/Cove Lick West Virginia|Cove Lick]], [[Sources and Evidence Index]], [[Research Priorities and Action Items]], [[Volunteer Record Request Tasks]], [[Tier 1 Research Execution Kit]], [[Search Index]], [[Home]], and `index.md` - replaced the older 1878 / page-321 target with the narrowed Book 11 page-32? problem and next search ranges.
+- `static/sources/claude-oil-title/lewis-county-deed-research-progress-book11-copley-south-penn-claude-output.txt` - preserved the progress report.
+
 ## Phase 4DU - 1900 Copley Family Exchange Deed Identified (June 4, 2026)
 
-**OIL-TITLE UPDATE:** Identified FamilySearch record `6X4N-DWWY` as a family land-exchange deed executed **22 August 1900** and recorded **13 October 1900**, not the South Penn oil lease. The original image names Ann Copley, daughters Margaret, Ann, Sarah, and Bridget Gillooly, Bridget's husband Patrick, and grantee John Copley. The deed recites Cove Lick / Bungport Run and Sand Fork interests and is important title-chain evidence immediately before the oil strike, but it contains no oil, gas, mineral, royalty, lease, or South Penn language.
+**OIL-TITLE UPDATE:** Identified FamilySearch record `6X4N-DWWY` as a family land-exchange deed executed **22 August 1900** and recorded **13 October 1900**, not the South Penn oil lease. The original image names Ann Copley, daughters Margaret, Ann, Sarah, and Bridget Gillooly, Bridget's husband Patrick, and grantee John Copley. The deed is important title-chain evidence immediately before the oil strike, but it contains no oil, gas, mineral, royalty, lease, or South Penn language. Later Phase 4DV work corrected the cited older deed date / book / page reading and flagged the 55-acre tract place name as unresolved.
 
 ### Updated Pages
 
 - [[References/Claude for Chrome 1900 Copley Family Exchange Deed|Claude for Chrome 1900 Copley Family Exchange Deed]] - added exact FamilySearch identifiers, parties, property recitals, evidence boundaries, index warning, raw report link, and next title-chain targets.
 - [[References/Claude for Chrome Copley Heirs Oil Title Search|Claude for Chrome Copley Heirs Oil Title Search]], [[Topics/1900 Copley Oil Strike|1900 Copley Oil Strike]], [[People/Michael Copley Sr|Michael Copley Sr.]], [[People/John Copley|John Copley]], [[People/Ann Copley|Ann Copley]], [[People/Anne Copley (b. 1850)|Anne Copley]], [[People/Bridget Bitty Copley Gillooly|Bridget Copley Gillooly]], [[People/Margaret Copley|Margaret Copley]], [[People/Sarah Copley|Sarah Copley]], [[Places/Cove Lick West Virginia|Cove Lick]], [[Sources and Evidence Index]], [[Research Priorities and Action Items]], [[The Copley Family Narrative]], [[Topics and Themes]], and [[Search Index]] - replaced the uninspected-lead language with the verified family-deed interpretation while keeping the separate South Penn lease unresolved.
-- [[Volunteer Record Request Tasks]] and [[Tier 1 Research Execution Kit]] - updated oil-title requests so volunteers use `6X4N-DWWY` as a title-chain anchor, do not return it as the oil lease, and also seek the cited 1 May 1878 deed.
+- [[Volunteer Record Request Tasks]] and [[Tier 1 Research Execution Kit]] - updated oil-title requests so volunteers use `6X4N-DWWY` as a title-chain anchor and do not return it as the oil lease.
 - [[Home]] and `index.md` - added the identified exchange deed to the recent-clarifications reader path.
 - `.agents/AGENT_RESUME.md` - recorded the resolved instrument identity and evidence boundaries for future agents.
 - `static/sources/claude-oil-title/1900-michael-copley-legal-instrument-6x4n-dwwy-claude-output.txt` - preserved the research report.

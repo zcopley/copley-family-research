@@ -57,7 +57,7 @@ The Copleys built around field seasons, church routines, and hard winters. Micha
 
 On 13 September 1900, the story cracked open with the earth itself. South Penn completed the [[Topics/1900 Copley Oil Strike|Michael Copley Heirs well No. 1]] on the formally designated **Michael Copley Heirs 128-Acre Lease**. Published accounts disagree on the initial flow rate, but all describe a major gusher and local spectacle: black flow, overflow into creek beds, and suddenly, new possibilities.[^oil]
 
-Three weeks before the strike, Ann Copley, four daughters, Patrick Gillooly, and John Copley had executed a family exchange deed involving Cove Lick and Sand Fork interests. The deed does not mention oil or South Penn, but it shows the family actively rearranging title at the exact moment the land's economic meaning was changing.[^exchange-deed]
+Three weeks before the strike, Ann Copley, four daughters, Patrick Gillooly, and John Copley had executed a family exchange deed involving Sand Fork and 55-acre tract interests. The deed does not mention oil or South Penn, but it shows the family actively rearranging title at the exact moment the land's economic meaning was changing.[^exchange-deed]
 
 For [[People/John Copley|John Copley]] and [[People/Mary Ellen Dolan Copley|Mary Ellen Dolan Copley]], this was opportunity tempered by loss. Mary Ellen died in 1901, close behind the strike, and the family had to navigate grief while managing a transformed asset base.
 

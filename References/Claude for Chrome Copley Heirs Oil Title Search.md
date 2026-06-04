@@ -57,9 +57,9 @@ The FamilySearch legal-instrument lead is now identified:
 - Executed: 22 August 1900
 - Recorded: 13 October 1900
 
-It is a **family land-exchange deed**, not the South Penn lease. Ann Copley, daughters Margaret, Ann, Sarah, and Bridget Gillooly, and Bridget's husband Patrick Gillooly conveyed their interest in a tract to John Copley. The deed recites an exchange involving a 55-acre Cove Lick / Bungport Run tract and 27½ acres of John's interest in a 200-acre Sand Fork tract. It contains no oil, gas, mineral, royalty, or South Penn language.
+It is a **family land-exchange deed**, not the South Penn lease. Ann Copley, daughters Margaret, Ann, Sarah, and Bridget Gillooly, and Bridget's husband Patrick Gillooly conveyed their interest in a tract to John Copley. The deed recites an exchange involving a 55-acre tract and 27½ acres of John's interest in a 200-acre Sand Fork tract. The 55-acre place-name reading is currently unresolved: a later tile pass read `Nonypod Run of Sand Creek`, while the earlier report read `Bungport Run of Cove Lick`. The deed contains no oil, gas, mineral, royalty, or South Penn language.
 
-The deed documents an important title rearrangement immediately before the oil strike, but it does not establish the oil-lease signers or explain why the exchange occurred. See [[References/Claude for Chrome 1900 Copley Family Exchange Deed]].
+The deed documents an important title rearrangement immediately before the oil strike, but it does not establish the oil-lease signers or explain why the exchange occurred. A follow-up tile pass corrected the older citation to **1 May 1880, Deed Book No. 11, page 32?**; Book 11 page 32 did not contain a Copley deed, so that citation remains unresolved. See [[References/Claude for Chrome 1900 Copley Family Exchange Deed]].
 
 ## Restricted Deed-Index Targets
 
@@ -83,7 +83,7 @@ The report says these images are restricted to FamilySearch Center / FamilySearc
 - South Penn Company operated the `Michael Copley Heirs 128-Acre Lease`.
 - The No. 1 well was completed on 13 September 1900.
 - Contemporary sources used `Copley heirs' farm` and `Copley heirs' No. 3`.
-- The 1900 FamilySearch legal-instrument lead is a separate family exchange deed affecting Cove Lick and Sand Fork title, not the South Penn lease.
+- The 1900 FamilySearch legal-instrument lead is a separate family exchange deed affecting Sand Fork and 55-acre tract title, not the South Penn lease.
 
 **Still unresolved:**
 
@@ -100,7 +100,7 @@ The report says these images are restricted to FamilySearch Center / FamilySearc
 2. Search restricted grantee index Film 819924 / DGS 8135143 for the same variants.
 3. Search South Penn Oil Company in the relevant M-S / N-Z company index sections.
 4. Capture the complete index lines and retrieve every referenced deed / lease image.
-5. Retrieve and verify the earlier 1 May 1878 deed cited in the 1900 exchange deed at page 321.
+5. Resolve the earlier deed citation now read as 1 May 1880, Deed Book No. 11, page 32?, noting that Book 11 page 32 did not contain the expected Copley deed.
 6. Ask the Lewis County Clerk for any Michael Copley heirs / South Penn oil-and-gas lease, royalty assignment, partition deed, or administrator conveyance.
 7. Ask WVRHC for James Pietro Papers or Picturing West Virginia material labeled `Copley Heirs Well No. 1`, `Sand Fork pool`, or `Michael Copley Heirs`.
 

@@ -29,7 +29,7 @@ Welcome to the Copley family research vault. This project consolidates evidence,
 
 ## What's New / Recently Clarified
 
-- FamilySearch record `6X4N-DWWY` is now identified as an **August 1900 family land-exchange deed** involving Ann Copley, four daughters, Patrick Gillooly, and John Copley. It links Cove Lick and Sand Fork title immediately before the oil strike, but it is not the South Penn oil lease.
+- FamilySearch record `6X4N-DWWY` is now identified as an **August 1900 family land-exchange deed** involving Ann Copley, four daughters, Patrick Gillooly, and John Copley. It is not the South Penn oil lease. Follow-up work now reads its older citation as **1 May 1880, Deed Book 11, page 32?**, but Book 11 page 32 did not contain a Copley deed, so that title-chain reference remains unresolved.
 - Tom Copley's May 2026 corrections downgrade two earlier AI-assisted leads: the *Calendar of State Papers* Arigna/Copley citation is treated as fabricated, and Ann remains recorded as Munday unless a direct record proves otherwise. Tom's May 25 clarification also says the settlement surname is **Murray** and pronounced "Mur-ray," while the Ann-as-Murray idea is probably mistaken.
 - [[Family Tree]] is now a branch-by-branch relationship guide instead of one giant hard-to-read chart.
 - [[Who Was Alive When]] now gives a chronology-first view of overlapping generations and key family eras.

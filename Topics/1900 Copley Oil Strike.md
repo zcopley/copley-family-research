@@ -39,7 +39,7 @@ Family tradition and synthesis documents consistently frame the strike as the ma
 
 June 2026 oil-title work substantially strengthened the property identification. Period sources use **Copley heirs' farm**, **Copley heirs' No. 3**, **Michael Copley Heirs well No. 1**, and the formal South Penn company designation **Michael Copley Heirs 128-Acre Lease**. This establishes that the lease was associated specifically with [[People/Michael Copley Sr|Michael Copley Sr.]]'s heirs, but the recorded lease, individual signers, ownership shares, and financial terms remain unresolved. See [[References/Claude for Chrome Copley Heirs Oil Title Search]].
 
-A separate family exchange deed, executed **22 August 1900**, records [[People/Ann Copley|Ann Copley]], daughters Margaret, Ann, Sarah, and Bridget Gillooly, Bridget's husband Patrick, and [[People/John Copley|John Copley]] rearranging interests involving Cove Lick and Sand Fork land. The deed was recorded **13 October 1900**, one month after the strike, and contains no oil, gas, mineral, royalty, lease, or South Penn language. It is important title-chain evidence, but it is not the 128-acre oil lease. See [[References/Claude for Chrome 1900 Copley Family Exchange Deed]].
+A separate family exchange deed, executed **22 August 1900**, records [[People/Ann Copley|Ann Copley]], daughters Margaret, Ann, Sarah, and Bridget Gillooly, Bridget's husband Patrick, and [[People/John Copley|John Copley]] rearranging interests involving Sand Fork and a 55-acre tract whose place-name reading remains unresolved. The deed was recorded **13 October 1900**, one month after the strike, and contains no oil, gas, mineral, royalty, lease, or South Penn language. It is important title-chain evidence, but it is not the 128-acre oil lease. See [[References/Claude for Chrome 1900 Copley Family Exchange Deed]].
 
 ## Timeline
 
@@ -50,7 +50,7 @@ timeline
     1843 : Land Acquisition : Hoffman-Copley agreement for 200 acres
     1843-1899 : Farming Era : Family farms the land for 56 years; primarily agrarian economy
     1899-1900 : Leasing Phase : South Penn Oil negotiates drilling rights
-    1900-08-22 : Family Deed : Cove Lick and Sand Fork interests rearranged
+    1900-08-22 : Family Deed : 55-acre and Sand Fork interests rearranged
     1900-09-13 : The Strike : Michael Copley Heirs well No. 1 opens the pool
     1900-1925 : Oil Economy : Lease, royalty, and ownership trail remains under study
     1925+ : Professional Era : Oil-to-education link remains a working hypothesis
@@ -59,7 +59,7 @@ timeline
 ### Timeline Anchors
 - **1843**: Hoffman-Copley land agreement establishes long-term Copley landholding base.
 - **c. 1899-1900**: Leasing/drilling phase by South Penn Oil on/near Copley lands.
-- **1900-08-22**: Ann Copley, four daughters, Patrick Gillooly, and John Copley execute a family exchange deed involving Cove Lick and Sand Fork interests; the reason and connection to the separate oil lease remain unresolved.
+- **1900-08-22**: Ann Copley, four daughters, Patrick Gillooly, and John Copley execute a family exchange deed involving Sand Fork and a 55-acre tract; the reason and connection to the separate oil lease remain unresolved.
 - **1900-09-13**: South Penn completes Michael Copley Heirs well No. 1. Published initial-production figures vary by source and measurement point.
 - **1900-10-13**: The family exchange deed is admitted to record.
 - **1900s onward**: Royalty/lease value becomes a major research question in family economic history.
@@ -90,7 +90,7 @@ Archive targets:
 ## Research Gaps
 - Exact lease terms (bonus, royalty percentage, duration, assignments).
 - Recorded lease book/page and names/signatures of every lessor.
-- Exact volume, complete legal description, and earlier 1878 deed reference behind the located family exchange deed.
+- Exact volume, complete legal description, 55-acre place-name reading, and cited 1 May 1880 / Deed Book 11 / page 32? reference behind the located family exchange deed.
 - Verified lifetime production and total revenue of Copley No. 1.
 - Precise distribution of oil-derived wealth among heirs.
 - Whether multiple adjacent Copley-linked parcels were leased/drilled.
@@ -99,7 +99,7 @@ Archive targets:
 - At a FamilySearch Center / FamilySearch Library, search Copley variants in grantor-index Film 819917 / DGS 8219260 and grantee-index Film 819924 / DGS 8135143, then retrieve every referenced deed / lease image.
 - Search South Penn Oil Company in the relevant M-S grantor and N-Z grantee index sections.
 - Search specifically for `Copley heirs`, `Michael Copley Heirs 128-Acre Lease`, `Copley Heirs Well No. 1`, `Copley heirs' No. 3`, and Sand Fork / Copley Oil Pool references in deed, lease, royalty, and title-chain records.
-- Use record `6X4N-DWWY` as a located title-chain anchor, not as the oil lease; verify its cited 1 May 1878 deed and search adjacent instruments.
+- Use record `6X4N-DWWY` as a located title-chain anchor, not as the oil lease; resolve its cited 1 May 1880 / Deed Book 11 / page 32? reference and search adjacent instruments.
 - Build a royalty ledger from probate, tax, and deed references.
 - Cross-check production claims against period trade publications and state reports.
 

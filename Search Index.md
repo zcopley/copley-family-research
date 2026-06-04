@@ -263,7 +263,7 @@ If you do not know the name yet and only know the general family line, start wit
 | [[References/Claude for Chrome Michael Copley Sr Parent Name Claim\|Claude for Chrome Michael Copley Sr Parent Name Claim]] | WV Culture / FamilySearch death-register check for Michael Copley Sr.; confirms the 1897 register records parents as John Copley and Sarah Copley, but no Dolan maiden name appears and Bridget Copley is incorrectly recorded as wife / source |
 | [[References/Claude for Chrome Michael Copley Sr Probate Estate Search\|Claude for Chrome Michael Copley Sr Probate Estate Search]] | FamilySearch will-book and probate follow-up search locating Michael Copley Sr.'s 1893 will / 1897 probate; confirms children and son John as executor but names no parents or Sarah Dolan; maps restricted Order Book v. 6 Film 825098 / DGS 8614118 and inventory Film 250047 / DGS 7617564 |
 | [[References/Claude for Chrome Copley Heirs Oil Title Search\|Claude for Chrome Copley Heirs Oil Title Search]] | Period oil-source and deed-index search verifying the `Michael Copley Heirs 128-Acre Lease`, 13 September 1900 No. 1 completion date, and restricted Lewis County deed-index targets |
-| [[References/Claude for Chrome 1900 Copley Family Exchange Deed\|Claude for Chrome 1900 Copley Family Exchange Deed]] | Original-image identification of FamilySearch record `6X4N-DWWY` as an August 1900 family land-exchange deed involving Cove Lick and Sand Fork interests, not the South Penn oil lease |
+| [[References/Claude for Chrome 1900 Copley Family Exchange Deed\|Claude for Chrome 1900 Copley Family Exchange Deed]] | Original-image identification of FamilySearch record `6X4N-DWWY` as an August 1900 family land-exchange deed involving Sand Fork and a 55-acre tract; follow-up correction to 1 May 1880 / Deed Book 11 / page 32? citation; not the South Penn oil lease |
 | [[Volunteer Record Request Tasks\|Volunteer Record Request Tasks]] | Public helper page with prioritized record-request tasks, letter templates, and reporting instructions for volunteers |
 | [[References/Copley History Part 1 and Appendix Source Audit\|Copley History Part 1 and Appendix Source Audit]] | Control note showing what the Part 1 history and appendix PDFs already contributed, what place-rich details remain underused, and where future raw-PDF extraction should go next |
 | [[Topics/1900 Copley Oil Strike\|1900 Copley Oil Strike]] | Michael Copley Heirs 128-Acre Lease, South Penn Oil, No. 1 completed 13 September 1900, Lewis County |
@@ -294,7 +294,7 @@ If you do not know the name yet and only know the general family line, start wit
 | Jun 6, 1895 | Anne Copley (John's daughter) born |
 | Dec 23, 1897 | Ellen "Nelle" Copley born |
 | Sep 16, 1898 | Michael Joseph Copley born on Copley farm, Lewis County WV |
-| Aug 22, 1900 | Ann Copley, four daughters, Patrick Gillooly, and John Copley execute a family exchange deed involving Cove Lick and Sand Fork interests |
+| Aug 22, 1900 | Ann Copley, four daughters, Patrick Gillooly, and John Copley execute a family exchange deed involving Sand Fork and 55-acre tract interests |
 | Sep 13, 1900 | South Penn completes Michael Copley Heirs well No. 1; published initial-flow figures vary |
 | Oct 13, 1900 | The August Copley family exchange deed is admitted to record |
 | Dec 5, 1901 | Mary Ellen Dolan Copley dies (age 46) |

@@ -25,7 +25,7 @@ tags:
 
 She married [[Michael Copley Sr|Michael Copley]] (date/place unknown) and lived in [[Places/Lewis County West Virginia|Lewis County]] after the family’s 1843 land settlement. The 1850 census framework and family reconstruction identify her as mother of eight known children.
 
-On **22 August 1900**, Ann joined daughters Margaret, Ann, Sarah, and Bridget Gillooly, Bridget's husband Patrick, and son John in a family land-exchange deed involving Cove Lick and Sand Fork interests. Ann signed by mark. The deed directly confirms her participation in the post-Michael property arrangement but does not state a maiden surname or contain oil-lease terms. See [[References/Claude for Chrome 1900 Copley Family Exchange Deed]].
+On **22 August 1900**, Ann joined daughters Margaret, Ann, Sarah, and Bridget Gillooly, Bridget's husband Patrick, and son John in a family land-exchange deed involving Sand Fork and 55-acre tract interests. Ann signed by mark. The deed directly confirms her participation in the post-Michael property arrangement but does not state a maiden surname or contain oil-lease terms. See [[References/Claude for Chrome 1900 Copley Family Exchange Deed]].
 
 A persistent family tradition states that her father drowned in the Potomac River. This is plausible in context but currently unverified by contemporary records.
 

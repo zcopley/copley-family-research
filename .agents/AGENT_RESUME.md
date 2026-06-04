@@ -26,6 +26,13 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
 
 ## What Was Just Completed
 
+- Integrated Zach's June 2026 Claude for Chrome Lewis County deed progress report:
+  - preserved the report at `static/sources/claude-oil-title/lewis-county-deed-research-progress-book11-copley-south-penn-claude-output.txt`;
+  - updated `References/Claude for Chrome 1900 Copley Family Exchange Deed.md` with the corrected citation reading: 1 May 1880, Deed Book No. 11, page 32?;
+  - recorded that Deed Book 11, page 32 on DGS 008293286 did not contain a Copley deed, so the page reference remains unresolved;
+  - flagged the 55-acre tract place-name reading as unresolved between newer `Nonypod Run of Sand Creek` and earlier `Bungport Run of Cove Lick`;
+  - updated the oil-title note, evidence index, research priorities, volunteer template, execution kit, Home/index, topic, narrative, person, place, search-index, and changelog language so future work starts from Book 11 pages 32-50 / likely misread pages, Deed Book 10 backup, grantor-index images 304-310, and the South Penn grantee path.
+
 - Integrated Zach's June 2026 Claude for Chrome identification of FamilySearch record `6X4N-DWWY`:
   - preserved the report at `static/sources/claude-oil-title/1900-michael-copley-legal-instrument-6x4n-dwwy-claude-output.txt`;
   - added `References/Claude for Chrome 1900 Copley Family Exchange Deed.md`;
