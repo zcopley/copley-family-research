@@ -9,7 +9,7 @@ tags:
 
 # Agent Resume State
 
-Last updated: 2026-06-03
+Last updated: 2026-06-04
 
 ## Current Goal
 
@@ -25,6 +25,14 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
 - When a historical handoff conflicts with this file, this file wins.
 
 ## What Was Just Completed
+
+- Integrated Zach's June 2026 Claude for Chrome identification of FamilySearch record `6X4N-DWWY`:
+  - preserved the report at `static/sources/claude-oil-title/1900-michael-copley-legal-instrument-6x4n-dwwy-claude-output.txt`;
+  - added `References/Claude for Chrome 1900 Copley Family Exchange Deed.md`;
+  - identified the instrument as a family land-exchange deed executed 22 August 1900 and recorded 13 October 1900, not the South Penn oil lease;
+  - recorded the parties as Ann Copley, daughters Margaret / Ann / Sarah / Bridget Gillooly, Patrick Gillooly, and grantee John Copley;
+  - recorded the Cove Lick / Bungport Run and Sand Fork title recitals while preserving uncertainty about the exact deed-book volume, complete legal description, and cited 1 May 1878 deed;
+  - updated evidence, narrative, person, place, priority, search-index, volunteer, and execution-kit pages so `6X4N-DWWY` is used as a title-chain anchor and never returned as the separate oil lease.
 
 - Restored internal-link validation as a committed, deploy-enforced workflow:
   - added `scripts/check-internal-links.mjs`;

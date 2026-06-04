@@ -19,6 +19,8 @@ tags:
 
 A family photograph context includes Bridget with niece Ann (daughter of [[John Copley]]), indicating close multi-generational contact in the Lewis County branch.
 
+Bridget and Patrick Gillooly both signed the 22 August 1900 family exchange deed with Bridget's mother, sisters Margaret, Ann, and Sarah, and brother John. This is direct legal-record evidence for Bridget's married identity and participation in the family's Cove Lick / Sand Fork title arrangement. See [[References/Claude for Chrome 1900 Copley Family Exchange Deed]].
+
 ## Family Relationships
 - Parents: [[Michael Copley Sr|Michael Copley]], [[Ann Copley]]
 - Spouse: Patrick Gillooly
@@ -48,3 +50,4 @@ A family photograph context includes Bridget with niece Ann (daughter of [[John 
 1. *COPLEY HISTORY PART 1 final 2.pdf* (children list, spouse, no-children statement, and death year).
 2. `/home/ubuntu/copley_research_analysis.md` (family structure references).
 3. [[References/Tom and Steve Copley May 2026 Michael Parents Thread|Tom and Steve Copley May 2026 Michael Parents Thread]] — ambiguous Bridget / family Bible lead; unverified.
+4. [[References/Claude for Chrome 1900 Copley Family Exchange Deed|Claude for Chrome 1900 Copley Family Exchange Deed]] — original-image deed naming Bridget and Patrick Gillooly.

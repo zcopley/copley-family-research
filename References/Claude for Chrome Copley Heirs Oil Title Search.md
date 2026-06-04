@@ -24,7 +24,7 @@ Period oil-industry and newspaper sources now establish that South Penn Oil Comp
 
 This is stronger than a generic family-name association. It connects the oil property specifically to Michael Copley's heirs.
 
-The recorded lease itself remains missing. The published sources do **not** identify the individual signers, ownership shares, lease terms, royalty rate, or distribution of proceeds.
+The recorded lease itself remains missing. The published sources do **not** identify the individual signers, ownership shares, lease terms, royalty rate, or distribution of proceeds. A later image check identified the previously unresolved 1900 FamilySearch legal instrument as a separate family land-exchange deed; see [[References/Claude for Chrome 1900 Copley Family Exchange Deed]].
 
 ## Published Oil Sources
 
@@ -46,13 +46,20 @@ The follow-up report proposed new readings for those difficult names, but they c
 
 The published oil sources call the lease `Michael Copley Heirs`; they do not prove that every child named in the will signed the oil lease.
 
-## Unverified 1900 Legal-Instrument Lead
+## Resolved 1900 Legal-Instrument Lead
 
-Claude reported a FamilySearch `West Virginia Wills and Deeds, ca. 1700s-2017` search result for a **1900 legal instrument** under Michael Copley:
+The FamilySearch legal-instrument lead is now identified:
 
-<https://www.familysearch.org/en/search/record/results?q.givenName=Michael&q.surname=Copley&q.anyPlace=Lewis%2C+West+Virginia&collection=4279920>
+- Record ARK: [6X4N-DWWY](https://www.familysearch.org/ark:/61903/1:1:6X4N-DWWY)
+- Image ARK: [3Q9M-CSR7-HQCR-V](https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSR7-HQCR-V)
+- DGS / image: `008293301`, image `245`
+- Image group / pages: Lewis deed books v. 38-39, pages 422-423
+- Executed: 22 August 1900
+- Recorded: 13 October 1900
 
-The indexed relationship string reportedly includes `Ann Margaret, Copley, Gillooly`. No original image was inspected, no book/page was captured, and the record type is unresolved. It may be highly relevant, but it must not be described as a partition deed or oil lease until the original record is identified.
+It is a **family land-exchange deed**, not the South Penn lease. Ann Copley, daughters Margaret, Ann, Sarah, and Bridget Gillooly, and Bridget's husband Patrick Gillooly conveyed their interest in a tract to John Copley. The deed recites an exchange involving a 55-acre Cove Lick / Bungport Run tract and 27½ acres of John's interest in a 200-acre Sand Fork tract. It contains no oil, gas, mineral, royalty, or South Penn language.
+
+The deed documents an important title rearrangement immediately before the oil strike, but it does not establish the oil-lease signers or explain why the exchange occurred. See [[References/Claude for Chrome 1900 Copley Family Exchange Deed]].
 
 ## Restricted Deed-Index Targets
 
@@ -76,6 +83,7 @@ The report says these images are restricted to FamilySearch Center / FamilySearc
 - South Penn Company operated the `Michael Copley Heirs 128-Acre Lease`.
 - The No. 1 well was completed on 13 September 1900.
 - Contemporary sources used `Copley heirs' farm` and `Copley heirs' No. 3`.
+- The 1900 FamilySearch legal-instrument lead is a separate family exchange deed affecting Cove Lick and Sand Fork title, not the South Penn lease.
 
 **Still unresolved:**
 
@@ -83,7 +91,7 @@ The report says these images are restricted to FamilySearch Center / FamilySearc
 - Names and signatures of the lessors.
 - Exact heir ownership shares.
 - Royalty, bonus, term, and assignment provisions.
-- Whether a partition, administrator conveyance, or court order preceded the lease.
+- Whether another partition, administrator conveyance, or court order preceded the lease.
 - Direct proof that oil income financed later education.
 
 ## Next Records
@@ -92,8 +100,9 @@ The report says these images are restricted to FamilySearch Center / FamilySearc
 2. Search restricted grantee index Film 819924 / DGS 8135143 for the same variants.
 3. Search South Penn Oil Company in the relevant M-S / N-Z company index sections.
 4. Capture the complete index lines and retrieve every referenced deed / lease image.
-5. Ask the Lewis County Clerk for any Michael Copley heirs / South Penn oil-and-gas lease, royalty assignment, partition deed, or administrator conveyance.
-6. Ask WVRHC for James Pietro Papers or Picturing West Virginia material labeled `Copley Heirs Well No. 1`, `Sand Fork pool`, or `Michael Copley Heirs`.
+5. Retrieve and verify the earlier 1 May 1878 deed cited in the 1900 exchange deed at page 321.
+6. Ask the Lewis County Clerk for any Michael Copley heirs / South Penn oil-and-gas lease, royalty assignment, partition deed, or administrator conveyance.
+7. Ask WVRHC for James Pietro Papers or Picturing West Virginia material labeled `Copley Heirs Well No. 1`, `Sand Fork pool`, or `Michael Copley Heirs`.
 
 Ready-to-use templates for these actions are in [[Volunteer Record Request Tasks#VR-06 Copley No 1 Oil Leases Royalties and John Copley Estate|VR-06]], [[Volunteer Record Request Tasks#VR-06A Restricted Lewis County Deed-Index Lookup|VR-06A]], and [[Volunteer Record Request Tasks#VR-06B WVRHC Copley Heirs Well Archive Lookup|VR-06B]].
 

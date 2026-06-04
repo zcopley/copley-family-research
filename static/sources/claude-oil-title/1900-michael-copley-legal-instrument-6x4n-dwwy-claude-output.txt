@@ -1,0 +1,69 @@
+FINAL REPORT: The 1900 Michael Copley Legal Instrument - FamilySearch Record 6X4N-DWWY
+
+Research date: June 2026
+Preservation note: normalized extract of the user-supplied Claude for Chrome report, retaining the record identifiers, parties, property findings, evidence boundaries, and next actions used by the project.
+
+MAIN RESULT
+
+FamilySearch record https://www.familysearch.org/ark:/61903/1:1:6X4N-DWWY is a family land-exchange deed executed 22 August 1900 and recorded 13 October 1900. It is not the South Penn Oil Company lease, an administrator's deed, or a probate record.
+
+Ann Copley and four daughters - Margaret Copley, Ann Copley, Sarah Copley, and Bridget Gillooly - together with Bridget's husband Patrick Gillooly, conveyed their interest in a Lewis County tract to John Copley. The deed recites an exchange involving a 55-acre tract associated with Michael Copley's will and 27.5 acres of John's interest in a 200-acre Sand Fork tract.
+
+IDENTIFIERS
+
+- Record ARK: https://www.familysearch.org/ark:/61903/1:1:6X4N-DWWY
+- Image ARK: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSR7-HQCR-V
+- Collection: West Virginia Wills and Deeds, ca. 1700s-2017
+- Collection ID: 4279920
+- DGS: 008293301
+- Image: 245
+- Image group: Lewis. Deed Books 1808-1902
+- Volume group: v. 38-39
+- Visible book pages: 422-423
+- Executed: 22 August 1900
+- Women's acknowledgment: 30 September 1900
+- Recorded: 13 October 1900
+- Repository: Lewis County Clerk
+
+PARTIES AND RELATIONSHIPS
+
+- Ann Copley, Michael Copley's widow
+- Margaret Copley, daughter
+- Ann Copley, daughter
+- Sarah Copley, daughter
+- Bridget Gillooly, daughter
+- Patrick Gillooly, Bridget's husband
+- John Copley, son and grantee
+- Michael Copley, deceased source of title, not a living party
+
+The FamilySearch index is malformed. It incorrectly treats deceased Michael Copley as the principal, assigns the wrong sex, and fragments the grantor list into a misleading relationship string. The original image identifies the actual parties.
+
+PROPERTY AND TITLE DETAILS
+
+The deed recites:
+
+- a 55-acre tract situated on Bungport Run of Cove Lick and associated with Michael Copley's will;
+- 27.5 acres of John Copley's one-half interest in a 200-acre Sand Fork tract;
+- an earlier deed dated 1 May 1878, with the book designation read in the image review as "Deed Book No. 1," page 321;
+- a metes-and-bounds description containing 79 acres and 48 poles, more or less.
+
+The exact volume number within the v. 38-39 image group, the older deed-book designation, and the relationship between the recited 55 acres and the final 79-acre/48-pole description should be confirmed from the complete deed image or a clerk copy.
+
+OIL-LEASE RELEVANCE
+
+The deed contains no oil, gas, mineral-rights, royalty, lease, or South Penn language. It does show a family title rearrangement affecting Sand Fork and Cove Lick property immediately before South Penn completed Michael Copley Heirs well No. 1 on 13 September 1900. The reason for the exchange and its relationship to the separate 128-acre oil lease remain unproven.
+
+KEY EVIDENCE BOUNDARIES
+
+- The deed directly confirms Ann, Margaret, Ann, Sarah, Bridget Gillooly, Patrick Gillooly, and John Copley as parties to the family land exchange.
+- It directly confirms Michael Copley was deceased and a source of title.
+- It does not identify the signers of the South Penn lease.
+- It does not state royalty terms or prove who received oil income.
+- It adds no evidence for Sarah Dolan.
+
+NEXT ACTIONS
+
+1. Locate the separate South Penn Oil Company lease behind the "Michael Copley Heirs 128-Acre Lease."
+2. Retrieve and verify the earlier 1 May 1878 deed cited at page 321.
+3. Confirm the exact deed-book volume and full legal description for pages 422-423.
+4. Search related conveyances, royalty assignments, mineral-rights instruments, and John Copley's estate.

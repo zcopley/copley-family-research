@@ -478,11 +478,14 @@ Hello,
 
 I am researching the South Penn Oil Company's "Michael Copley Heirs 128-Acre Lease" on Sand Fork in Lewis County. Period sources identify "Michael Copley Heirs well No. 1" as the pool-opening well completed 13 September 1900. I am looking for the recorded lease and related land, royalty, mineral-rights, title-chain, probate, partition, or estate records.
 
+A related family exchange deed is already located at FamilySearch record `6X4N-DWWY`, DGS `008293301`, image `245`, pages 422-423. It was executed 22 August 1900 and recorded 13 October 1900. It is not the oil lease; please use it as a title-chain anchor and do not return it as the requested South Penn instrument.
+
 Could you please advise how to search or request copies for:
 
 - Oil and gas leases involving Michael Copley's heirs, John Copley, Copley variants, or South Penn Oil Company, roughly 1897-1910
 - Royalty assignments or mineral-rights records
 - Title-chain records for the 128-acre farm / lease containing Copley No. 1
+- The earlier 1 May 1878 deed cited at page 321 in the located family exchange deed
 - Partition deeds or administrator conveyances after Michael Copley's 1897 death
 - Probate or estate records for John Copley, died 1925
 - Any index entries under Copley / Coply / Copely / Copeley / Coopley surname variants
@@ -498,7 +501,7 @@ For each record, I am hoping to capture book/page, date, parties, land descripti
 | Grantor index M-S, 1817-1934 | Film 819919 / DGS 8293317 | South Penn Oil Company |
 | Grantee index N-Z, 1817-1934 | Film 819926 / DGS 7902191 | South Penn Oil Company |
 
-Capture each full index line, headings, image number, instrument type, date, parties, book/page, and marginal notation. Retrieve the underlying deed / lease image whenever possible. Treat the uninspected 1900 FamilySearch legal-instrument relationship string as a lead, not a partition or lease identification.
+Capture each full index line, headings, image number, instrument type, date, parties, book/page, and marginal notation. Retrieve the underlying deed / lease image whenever possible. Preserve record `6X4N-DWWY` as a located family exchange deed, not the South Penn lease, and use the original image rather than its malformed FamilySearch relationship index.
 
 ### Capture Template
 

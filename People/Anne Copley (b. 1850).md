@@ -16,6 +16,8 @@ tags:
 ## Biographical Profile
 [[Anne Copley (b. 1850)|Anne Copley]] is a daughter of [[Michael Copley Sr|Michael Copley]] and [[Ann Copley]], reported born in **1850** (appears as 6 months old in 1850 household context). Family narrative states she **never married** and died in **1923**.
 
+She appears as a signing party in the 22 August 1900 family exchange deed with her mother, sisters Margaret, Sarah, and Bridget Gillooly, Bridget's husband Patrick, and brother John. The deed directly places her in the family's Cove Lick / Sand Fork title arrangement. See [[References/Claude for Chrome 1900 Copley Family Exchange Deed]].
+
 ## Family Relationships
 - Parents: [[Michael Copley Sr|Michael Copley]], [[Ann Copley]]
 - Spouse: none reported
@@ -41,3 +43,4 @@ tags:
 ## Source Citations
 1. *COPLEY HISTORY PART 1 final 2.pdf* (birth cohort, unmarried status, death year).
 2. `/home/ubuntu/copley_research_analysis.md` (household and chronology context).
+3. [[References/Claude for Chrome 1900 Copley Family Exchange Deed|Claude for Chrome 1900 Copley Family Exchange Deed]] — original-image deed naming Ann as a party.

@@ -15,6 +15,8 @@ tags:
 
 Photographic evidence in family compilations includes a portrait labeled as John’s sister Margaret.
 
+Margaret appears as a signing party, by mark, in the 22 August 1900 family exchange deed with her mother, sisters Ann, Sarah, and Bridget Gillooly, Bridget's husband Patrick, and brother John. See [[References/Claude for Chrome 1900 Copley Family Exchange Deed]].
+
 - **Birth:** 25 Dec 1854, Lewis County, WV (Ancestry.com tree, unverified; family narrative gives 1855)
 - **Death:** 18 Jan 1910 (Ancestry.com tree, unverified)
 - **Burial:** Weston, Lewis County, WV (Ancestry.com tree, unverified)
@@ -45,3 +47,4 @@ Photographic evidence in family compilations includes a portrait labeled as John
 ## Source Citations
 1. *COPLEY HISTORY PART 1 final 2.pdf* (birth year, unmarried status, death year, portrait mention).
 2. `/home/ubuntu/copley_research_analysis.md` (children cohort context).
+3. [[References/Claude for Chrome 1900 Copley Family Exchange Deed|Claude for Chrome 1900 Copley Family Exchange Deed]] — original-image deed naming Margaret as a party.

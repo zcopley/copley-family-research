@@ -15,6 +15,8 @@ tags:
 
 A labeled photograph is referenced in the family history materials.
 
+Sarah appears as a signing party in the 22 August 1900 family exchange deed with her mother, sisters Margaret, Ann, and Bridget Gillooly, Bridget's husband Patrick, and brother John. See [[References/Claude for Chrome 1900 Copley Family Exchange Deed]].
+
 - **Birth:** 10 Oct 1859, Lewis County, WV (Ancestry.com tree, unverified; year confirmed by family narrative)
 - **Death:** January 1939, Weston, Lewis County, WV (Ancestry.com tree, unverified)
 - **Burial:** Weston, Lewis County, WV (Ancestry.com tree, unverified)
@@ -49,3 +51,4 @@ The appendix sketch for [[Michael Joseph Copley]] gives Sarah a more concrete ro
 1. *COPLEY HISTORY PART 1 final 2.pdf* (birth year list, unmarried status, death year, photo mention).
 2. `/home/ubuntu/copley_research_analysis.md` (family composition context).
 3. `Part 1 Appendices .pdf`, Appendix 1, Michael J. Copley sketch, pp. 1-2 (for the `108 Cottage Ave.` household context, the West Fork / asylum landmark description, and the `1910 Federal Census` head-of-household framing).
+4. [[References/Claude for Chrome 1900 Copley Family Exchange Deed|Claude for Chrome 1900 Copley Family Exchange Deed]] — original-image deed naming Sarah as a party.

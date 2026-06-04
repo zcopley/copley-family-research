@@ -78,14 +78,17 @@ Sources:
 
 On 13 September 1900, South Penn completed **Michael Copley Heirs well No. 1** on the formally designated **Michael Copley Heirs 128-Acre Lease**. Published initial-flow figures vary, but the well became a landmark event in West Virginia petroleum history and a turning point in the family's economic story.
 
+A separate family exchange deed executed 22 August 1900 documents Ann Copley, four daughters, Patrick Gillooly, and John Copley rearranging Cove Lick and Sand Fork interests immediately before the strike. The deed is title-chain evidence, not the South Penn lease.
+
 - **Historical context:** early 20th-century Appalachian petroleum expansion.
-- **What is sourced:** marker history, period oil publications, the formal heirs-lease designation, and the 13 September 1900 completion date.
+- **What is sourced:** marker history, period oil publications, the formal heirs-lease designation, the 13 September 1900 completion date, and the separate August 1900 family exchange deed.
 - **What remains open:** recorded lease signers, exact lease terms, lifetime royalties, and heir distribution (Q24-Q26).
 
 Sources:
 - HMDB marker context: <https://www.hmdb.org/results.asp?Search=County&State=West%20Virginia&County=Lewis%20County>
 - *The Oil Well Driller* (1905): <https://archive.org/stream/oilwelldrillerhi00whitrich/oilwelldrillerhi00whitrich_djvu.txt>
 - [[References/Claude for Chrome Copley Heirs Oil Title Search]]
+- [[References/Claude for Chrome 1900 Copley Family Exchange Deed]]
 
 ---
 

@@ -408,6 +408,7 @@ Sincerely,
 Known evidence and index targets:
 
 - David B. Reger's 1927 AAPG article identifies `Michael Copley Heirs well No. 1`, completed 13 September 1900, and the `Michael Copley Heirs 128-Acre Lease`, operated by South Penn.
+- FamilySearch record `6X4N-DWWY`, DGS `008293301`, image `245`, pages 422-423, is a separate family exchange deed executed 22 August 1900 and recorded 13 October 1900. It involves Cove Lick and Sand Fork interests but contains no oil-lease language.
 - Copley grantor index: Film 819917 / DGS 8219260.
 - Copley grantee index: Film 819924 / DGS 8135143.
 - South Penn may appear in grantor-index Film 819919 / DGS 8293317 or grantee-index Film 819926 / DGS 7902191.
@@ -429,11 +430,14 @@ Dear Clerk,
 
 I am researching the oil-and-gas instrument behind the South Penn Oil Company's "Michael Copley Heirs 128-Acre Lease" on Sand Fork in Lewis County. Period sources identify the pool-opening well as "Michael Copley Heirs well No. 1," completed 13 September 1900. I am looking for the recorded lease and any related land, royalty, mineral-rights, title-chain, probate, partition, or estate records.
 
+A related family exchange deed has already been located at FamilySearch record `6X4N-DWWY`, DGS `008293301`, image `245`, visible pages 422-423. It was executed 22 August 1900 and recorded 13 October 1900. It names Ann Copley, Margaret Copley, Ann Copley, Sarah Copley, Bridget and Patrick Gillooly, and John Copley; recites Cove Lick and Sand Fork interests; and contains no oil-lease terms. Please use it as a title-chain anchor rather than returning it as the requested South Penn lease.
+
 Could you please advise how to search or request copies for:
 
 - Oil and gas leases involving Michael Copley's heirs, John Copley, `Copley heirs`, `Michael Copley Heirs 128-Acre Lease`, `Copley Heirs Well No. 1`, or South Penn Oil Company, roughly 1897-1910
 - Royalty assignments or mineral-rights records
 - Title-chain records for the 128-acre lease / farm containing Copley No. 1
+- The earlier deed dated 1 May 1878 and cited at page 321 in the located 1900 exchange deed
 - Partition deeds or conveyances from Michael Copley's heirs after his 1897 death
 - Any administrator's deed or instrument executed by John Copley as Michael's executor / administrator
 - Probate or estate records for John Copley, died 6 September 1925
@@ -452,7 +456,7 @@ Sincerely,
 
 ## VR-06A: Restricted Lewis County Deed-Index Lookup
 
-**Claim tested:** Whether the restricted Lewis County deed indexes identify the book/page, date, parties, and instrument type for the recorded `Michael Copley Heirs 128-Acre Lease` or a related partition / conveyance.
+**Claim tested:** Whether the restricted Lewis County deed indexes identify the book/page, date, parties, and instrument type for the separate recorded `Michael Copley Heirs 128-Acre Lease`, the cited 1 May 1878 deed, or another related conveyance.
 
 **Best recipient / method:** A volunteer with access to a FamilySearch Center or the FamilySearch Library. Send results to Zach or Tom using the reporting format at the top of this page.
 
@@ -460,6 +464,8 @@ Sincerely,
 Re: Restricted Lewis County deed-index lookup - Michael Copley Heirs / South Penn, 1897-1910
 
 I am seeking the recorded oil-and-gas lease or related deed behind the South Penn Oil Company's "Michael Copley Heirs 128-Acre Lease" at Sand Fork, Lewis County, West Virginia. The lease's No. 1 well was completed 13 September 1900.
+
+Do not return FamilySearch record `6X4N-DWWY` as the oil lease. That record has been inspected and is a separate family exchange deed executed 22 August 1900 and recorded 13 October 1900, DGS `008293301`, image `245`, pages 422-423. It should be used as a title-chain anchor. Please also look for the earlier 1 May 1878 deed it cites at page 321.
 
 Please search these restricted FamilySearch deed indexes:
 

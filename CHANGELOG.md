@@ -10,6 +10,19 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4DU - 1900 Copley Family Exchange Deed Identified (June 4, 2026)
+
+**OIL-TITLE UPDATE:** Identified FamilySearch record `6X4N-DWWY` as a family land-exchange deed executed **22 August 1900** and recorded **13 October 1900**, not the South Penn oil lease. The original image names Ann Copley, daughters Margaret, Ann, Sarah, and Bridget Gillooly, Bridget's husband Patrick, and grantee John Copley. The deed recites Cove Lick / Bungport Run and Sand Fork interests and is important title-chain evidence immediately before the oil strike, but it contains no oil, gas, mineral, royalty, lease, or South Penn language.
+
+### Updated Pages
+
+- [[References/Claude for Chrome 1900 Copley Family Exchange Deed|Claude for Chrome 1900 Copley Family Exchange Deed]] - added exact FamilySearch identifiers, parties, property recitals, evidence boundaries, index warning, raw report link, and next title-chain targets.
+- [[References/Claude for Chrome Copley Heirs Oil Title Search|Claude for Chrome Copley Heirs Oil Title Search]], [[Topics/1900 Copley Oil Strike|1900 Copley Oil Strike]], [[People/Michael Copley Sr|Michael Copley Sr.]], [[People/John Copley|John Copley]], [[People/Ann Copley|Ann Copley]], [[People/Anne Copley (b. 1850)|Anne Copley]], [[People/Bridget Bitty Copley Gillooly|Bridget Copley Gillooly]], [[People/Margaret Copley|Margaret Copley]], [[People/Sarah Copley|Sarah Copley]], [[Places/Cove Lick West Virginia|Cove Lick]], [[Sources and Evidence Index]], [[Research Priorities and Action Items]], [[The Copley Family Narrative]], [[Topics and Themes]], and [[Search Index]] - replaced the uninspected-lead language with the verified family-deed interpretation while keeping the separate South Penn lease unresolved.
+- [[Volunteer Record Request Tasks]] and [[Tier 1 Research Execution Kit]] - updated oil-title requests so volunteers use `6X4N-DWWY` as a title-chain anchor, do not return it as the oil lease, and also seek the cited 1 May 1878 deed.
+- [[Home]] and `index.md` - added the identified exchange deed to the recent-clarifications reader path.
+- `.agents/AGENT_RESUME.md` - recorded the resolved instrument identity and evidence boundaries for future agents.
+- `static/sources/claude-oil-title/1900-michael-copley-legal-instrument-6x4n-dwwy-claude-output.txt` - preserved the research report.
+
 ## Phase 4DT - Internal-Link Validation Restored (June 3, 2026)
 
 **SITE-QUALITY UPDATE:** Added a committed generated-site internal-link checker and made it a required GitHub Actions deployment step. The prior `scripts/check-internal-links.mjs` command existed only in agent operational notes; git history contains no committed copy or tracked deletion. The new checker validates authored local page, asset, and anchor links after Quartz resolves wiki links, aliases, punctuation, and the repository base path.

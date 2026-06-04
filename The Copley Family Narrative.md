@@ -57,6 +57,8 @@ The Copleys built around field seasons, church routines, and hard winters. Micha
 
 On 13 September 1900, the story cracked open with the earth itself. South Penn completed the [[Topics/1900 Copley Oil Strike|Michael Copley Heirs well No. 1]] on the formally designated **Michael Copley Heirs 128-Acre Lease**. Published accounts disagree on the initial flow rate, but all describe a major gusher and local spectacle: black flow, overflow into creek beds, and suddenly, new possibilities.[^oil]
 
+Three weeks before the strike, Ann Copley, four daughters, Patrick Gillooly, and John Copley had executed a family exchange deed involving Cove Lick and Sand Fork interests. The deed does not mention oil or South Penn, but it shows the family actively rearranging title at the exact moment the land's economic meaning was changing.[^exchange-deed]
+
 For [[People/John Copley|John Copley]] and [[People/Mary Ellen Dolan Copley|Mary Ellen Dolan Copley]], this was opportunity tempered by loss. Mary Ellen died in 1901, close behind the strike, and the family had to navigate grief while managing a transformed asset base.
 
 *[_Speculative pending lease/probate confirmation:_ the oil revenues likely financed education choices for the children in ways impossible on farm income alone.]*
@@ -83,6 +85,7 @@ So the narrative closes where good genealogy always opens—at the archive door.
 [^land]: 1843 land agreement context in analysis/findings synthesis; additional title-chain work needed at Lewis County records.
 [^murray-settlement]: See [[Topics/Murray Settlement]] and [[Topics/Murray Settlement Research Roadmap]] for the current settlement framework, including St. Michael's Church, Staunton-Parkersburg Turnpike context, and Murray/Dolan/Hanley/Hannon estate-mate evidence.
 [^oil]: Oil well documentation and marker context: <https://www.hmdb.org/results.asp?Search=County&State=West%20Virginia&County=Lewis%20County>; period publication: <https://archive.org/stream/oilwelldrillerhi00whitrich/oilwelldrillerhi00whitrich_djvu.txt>; lease-designation and completion-date evidence: [[References/Claude for Chrome Copley Heirs Oil Title Search]].
+[^exchange-deed]: FamilySearch record `6X4N-DWWY`, identified and assessed in [[References/Claude for Chrome 1900 Copley Family Exchange Deed]].
 [^iowa]: See [[People/Mary Copely Giblin]] and related Iowa Copley pages for the current working reconstruction of the Iowa branch.
 
 See also: [[Family Tree]], [[People Directory]], [[Topics and Themes]], [[Bibliography and Acquisition Guide]].

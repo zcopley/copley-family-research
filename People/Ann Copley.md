@@ -25,6 +25,8 @@ tags:
 
 She married [[Michael Copley Sr|Michael Copley]] (date/place unknown) and lived in [[Places/Lewis County West Virginia|Lewis County]] after the family’s 1843 land settlement. The 1850 census framework and family reconstruction identify her as mother of eight known children.
 
+On **22 August 1900**, Ann joined daughters Margaret, Ann, Sarah, and Bridget Gillooly, Bridget's husband Patrick, and son John in a family land-exchange deed involving Cove Lick and Sand Fork interests. Ann signed by mark. The deed directly confirms her participation in the post-Michael property arrangement but does not state a maiden surname or contain oil-lease terms. See [[References/Claude for Chrome 1900 Copley Family Exchange Deed]].
+
 A persistent family tradition states that her father drowned in the Potomac River. This is plausible in context but currently unverified by contemporary records.
 
 ## Lived During
@@ -178,6 +180,7 @@ Tom Copley (April 2026) raised the possibility that “Munday” is a phonetic t
 3. `/home/ubuntu/copley_research_findings.md` (Ann profile and evidence reliability).
 4. Chronicling America search portal: https://chroniclingamerica.loc.gov/
 5. National Library of Ireland parish registers: https://registers.nli.ie/
+6. [[References/Claude for Chrome 1900 Copley Family Exchange Deed|Claude for Chrome 1900 Copley Family Exchange Deed]] — 1900 family deed naming Ann and four daughters.
 6. [[Sources and Evidence Index]] — claim-level evidence status for Ann Munday / Murray.
 7. [[RQ-M5-PHASE-2-FINDINGS|RQ-M5 Phase 2 Findings]] and [[RQ-M5-TITHE-APPLOTMENT-SEARCH|RQ-M5 Tithe Search Research Note]].
 8. [[References/Tom Copley May 2026 Research Corrections]].
