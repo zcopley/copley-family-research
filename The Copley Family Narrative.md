@@ -23,7 +23,7 @@ timeline
     1838-1849 : Murray Settlement : Irish families gather in Lewis County
     1843 : Land Purchase : Michael and Patrick buy from Weeden Hoffman
     1843-1900 : Farm and Kinship : Catholic settlement grows around land, church, and marriage
-    1900 : Oil Strike : Copley No. 1 strikes 4,800 barrels/day
+    1900-09-13 : Oil Strike : Michael Copley Heirs No. 1 opens the pool
     1900+ : New Generations : Children enter professional careers
 ```
 
@@ -55,7 +55,7 @@ The Copleys built around field seasons, church routines, and hard winters. Micha
 
 ## Chapter 4 — Oil and Opportunity
 
-In September 1900, the story cracked open with the earth itself. The [[Topics/1900 Copley Oil Strike|Copley No. 1 Oil Strike]] came in with enormous force, reportedly around 4,800 barrels per day. In local memory it was spectacle: black flow, overflow into creek beds, and suddenly, new possibilities.[^oil]
+On 13 September 1900, the story cracked open with the earth itself. South Penn completed the [[Topics/1900 Copley Oil Strike|Michael Copley Heirs well No. 1]] on the formally designated **Michael Copley Heirs 128-Acre Lease**. Published accounts disagree on the initial flow rate, but all describe a major gusher and local spectacle: black flow, overflow into creek beds, and suddenly, new possibilities.[^oil]
 
 For [[People/John Copley|John Copley]] and [[People/Mary Ellen Dolan Copley|Mary Ellen Dolan Copley]], this was opportunity tempered by loss. Mary Ellen died in 1901, close behind the strike, and the family had to navigate grief while managing a transformed asset base.
 
@@ -82,7 +82,7 @@ So the narrative closes where good genealogy always opens—at the archive door.
 [^manifests]: Findings synthesis on *Kutusoff* (1837) and *Powhatan* (1838) passenger evidence in `/home/ubuntu/copley_research_findings.md`.
 [^land]: 1843 land agreement context in analysis/findings synthesis; additional title-chain work needed at Lewis County records.
 [^murray-settlement]: See [[Topics/Murray Settlement]] and [[Topics/Murray Settlement Research Roadmap]] for the current settlement framework, including St. Michael's Church, Staunton-Parkersburg Turnpike context, and Murray/Dolan/Hanley/Hannon estate-mate evidence.
-[^oil]: Oil well documentation and marker context: <https://www.hmdb.org/results.asp?Search=County&State=West%20Virginia&County=Lewis%20County>; period publication: <https://archive.org/stream/oilwelldrillerhi00whitrich/oilwelldrillerhi00whitrich_djvu.txt>.
+[^oil]: Oil well documentation and marker context: <https://www.hmdb.org/results.asp?Search=County&State=West%20Virginia&County=Lewis%20County>; period publication: <https://archive.org/stream/oilwelldrillerhi00whitrich/oilwelldrillerhi00whitrich_djvu.txt>; lease-designation and completion-date evidence: [[References/Claude for Chrome Copley Heirs Oil Title Search]].
 [^iowa]: See [[People/Mary Copely Giblin]] and related Iowa Copley pages for the current working reconstruction of the Iowa branch.
 
 See also: [[Family Tree]], [[People Directory]], [[Topics and Themes]], [[Bibliography and Acquisition Guide]].

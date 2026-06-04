@@ -122,9 +122,9 @@ The follow-up report restates the 1897 death-register parent names, but that doe
 
 ## Copley Heirs Oil Clue
 
-The follow-up also identified oil-industry references to a **Copley heirs' farm** / **Copley Heirs Well No. 1** at Sand Fork around 1900-1901, including a report that distinguishes `Copley heirs no. 1` from `John Copley no. 3`.
+The follow-up also identified oil-industry references to a **Copley heirs' farm** / **Copley Heirs Well No. 1** at Sand Fork around 1900-1901. A later oil-title search verified the stronger formal designation **Michael Copley Heirs 128-Acre Lease** and corrected the useful contemporary No. 3 search term to `Copley heirs' No. 3`; the earlier `John Copley no. 3` reading should not be treated as verified.
 
-This is not parentage evidence, but it strengthens the next search path. If the Sand Fork oil property remained under `Copley heirs` ownership after Michael's death, deed books, oil-and-gas leases, royalty assignments, partition deeds, or title-chain records may name the heirs explicitly.
+This is not parentage evidence, but it strengthens the next search path. The published sources confirm the collective heirs-lease designation, while deed books, oil-and-gas leases, royalty assignments, partition deeds, or title-chain records may name the individual signers. See [[References/Claude for Chrome Copley Heirs Oil Title Search]].
 
 ## Next Records
 
@@ -136,6 +136,6 @@ The will closes the immediate "find Michael's will" task. The next probate / est
 - Any Michael Copley **estate settlement, appraisement, inventory, administrator's bond, sale bill, or personal-property account** after March 1897.
 - FamilySearch Film 250047 / DGS 7617564, `Wills, inventories, etc., Lewis County, 1853-1899` and `Inventories, etc., Lewis County, 1853-1900`, requiring FamilySearch Library / FamilySearch Center access.
 - Lewis County chancery / equity / partition / heirship records, 1897-1915.
-- Oil-title, deed, lease, royalty, partition, and `Copley heirs` records after the 1900 oil strike.
+- Oil-title, deed, lease, royalty, partition, and `Michael Copley Heirs 128-Acre Lease` records after the 1900 oil strike; start with grantor-index Film 819917 / DGS 8219260 and grantee-index Film 819924 / DGS 8135143.
 - West Virginia and Regional History Center remote reference / reproduction request for any accessible copies tied to Film 250047 or the Copley Heirs Well No. 1 / James Pietro Papers material.
 - Naturalization or Irish church records for parentage specifically, because the will itself does not name parents.

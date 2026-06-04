@@ -76,15 +76,16 @@ Sources:
 
 ## [[Topics/1900 Copley Oil Strike|1900 Copley Oil Strike]]
 
-In September 1900, South Penn Oil’s Copley No. 1 well on family land reportedly flowed at roughly 4,800 barrels/day, becoming a landmark event in West Virginia petroleum history and a turning point in family wealth.
+On 13 September 1900, South Penn completed **Michael Copley Heirs well No. 1** on the formally designated **Michael Copley Heirs 128-Acre Lease**. Published initial-flow figures vary, but the well became a landmark event in West Virginia petroleum history and a turning point in the family's economic story.
 
 - **Historical context:** early 20th-century Appalachian petroleum expansion.
-- **What is sourced:** marker history, period oil publications, local historical accounts.
-- **What remains open:** exact lease terms, lifetime royalties, and heir distribution (Q24–Q26).
+- **What is sourced:** marker history, period oil publications, the formal heirs-lease designation, and the 13 September 1900 completion date.
+- **What remains open:** recorded lease signers, exact lease terms, lifetime royalties, and heir distribution (Q24-Q26).
 
 Sources:
 - HMDB marker context: <https://www.hmdb.org/results.asp?Search=County&State=West%20Virginia&County=Lewis%20County>
 - *The Oil Well Driller* (1905): <https://archive.org/stream/oilwelldrillerhi00whitrich/oilwelldrillerhi00whitrich_djvu.txt>
+- [[References/Claude for Chrome Copley Heirs Oil Title Search]]
 
 ---
 

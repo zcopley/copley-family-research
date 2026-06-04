@@ -21,7 +21,7 @@ tags:
 
 He married [[Mary Ellen Dolan Copley]] (date/place unresolved) and the couple had five children: [[Thomas E. Copley]], [[Mary Copley Flesch]], [[Anne Copley (daughter of John Copley)|Anne Copley]], [[Ellen Bernadine Nelle Copley Sardo|Ellen Bernadine "Nelle" Copley Sardo]], and [[Michael Joseph Copley]].
 
-John’s household sat at the center of the family’s economic transformation following the 1900 **[[Topics/1900 Copley Oil Strike|1900 Copley Oil Strike]]**. Probate/lease details remain to be fully documented, but his generation is the key bridge between immigrant agrarian roots and later professional mobility of descendants.
+John's household sat at the center of the family's economic transformation following the 1900 **[[Topics/1900 Copley Oil Strike|1900 Copley Oil Strike]]**. Period sources now identify the South Penn property as the **Michael Copley Heirs 128-Acre Lease**, but they do not identify the individual lease signers or prove John's ownership share. His generation remains the key bridge between immigrant agrarian roots and later professional mobility of descendants.
 
 ## Lived During
 
@@ -86,12 +86,12 @@ timeline
 1. **Marriage record with Mary Ellen (Q20)** not located.
 2. **Civil War Quartermaster claim (Q28)** unproven.
 3. **Late marriage/childbearing context (Q21)** needs evidence-based explanation.
-4. **Oil lease and inheritance economics (Q24-Q26)** not quantified.
+4. **Oil lease and inheritance economics (Q24-Q26):** The `Michael Copley Heirs 128-Acre Lease` designation is verified in a 1927 technical publication, but the recorded lease, signers, shares, royalties, and family financial effect remain unresolved.
 
 ## Acquisition Strategy
 - Search civil/church marriage records in Lewis and Marshall county pathways.
 - File NARA military/pension request for all plausible John Copley candidates (including Quartermaster records, RG 92).
-- Extract land lease/probate records for 1899-1925 from Lewis County deed/probate books.
+- Search Lewis County grantor-index Film 819917 / DGS 8219260 and grantee-index Film 819924 / DGS 8135143 for the recorded Michael Copley Heirs / South Penn lease, then extract related probate and title records for 1897-1925.
 - Build a dated household timeline from 1850-1920 census entries.
 
 ## Source Citations
@@ -99,3 +99,4 @@ timeline
 2. `/home/ubuntu/copley_research_findings.md` (Q20/Q21/Q28 framing; oil-era context).
 3. `/home/ubuntu/copley_research_analysis.md` (priority matrix and unresolved evidence).
 4. HMDB oil marker context: https://www.hmdb.org/results.asp?Search=County&State=West%20Virginia&County=Lewis%20County
+5. [[References/Claude for Chrome Copley Heirs Oil Title Search|Claude for Chrome Copley Heirs Oil Title Search]] — period-source and deed-index access map for the Michael Copley Heirs 128-Acre Lease.

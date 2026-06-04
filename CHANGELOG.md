@@ -10,6 +10,17 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4DS - Copley Heirs Oil-Title Search Integrated (June 3, 2026)
+
+**OIL-TITLE UPDATE:** Integrated Zach's Claude for Chrome Copley Heirs Farm oil-title and deed search. Period and technical publications now verify that South Penn operated the formally designated **Michael Copley Heirs 128-Acre Lease**, and that **Michael Copley Heirs well No. 1** opened the pool on **13 September 1900**. The recorded lease, individual signers, ownership shares, royalty terms, and financial distribution remain unresolved. The active deed path is now tied to exact restricted FamilySearch indexes, led by grantor-index Film 819917 / DGS 8219260 and grantee-index Film 819924 / DGS 8135143.
+
+### Updated Pages
+
+- [[References/Claude for Chrome Copley Heirs Oil Title Search|Claude for Chrome Copley Heirs Oil Title Search]] - added the period-source evidence, unverified 1900 legal-instrument lead, deed-index access map, evidence boundaries, and raw report link.
+- [[Topics/1900 Copley Oil Strike|1900 Copley Oil Strike]], [[People/Michael Copley Sr|Michael Copley Sr.]], [[People/John Copley|John Copley]], [[Sources and Evidence Index|Sources and Evidence Index]], [[Research Priorities and Action Items|Research Priorities and Action Items]], [[The Copley Family Narrative|The Copley Family Narrative]], [[Topics and Themes|Topics and Themes]], and [[Search Index|Search Index]] - replaced the generic oil-strike summary with the verified heirs-lease designation and source-dependent production caution.
+- [[Volunteer Record Request Tasks|Volunteer Record Request Tasks]] and [[Tier 1 Research Execution Kit|Tier 1 Research Execution Kit]] - added exact restricted deed-index lookup instructions plus reusable FamilySearch helper and WVRHC request templates.
+- `static/sources/claude-oil-title/copley-heirs-farm-oil-title-deed-search-claude-output.txt` - preserved the raw Claude for Chrome report.
+
 ## Phase 4DR - Michael Copley Probate Access Map Integrated (June 3, 2026)
 
 **MICHAEL-PROBATE UPDATE:** Integrated Zach's Claude for Chrome probate follow-up report for [[People/Michael Copley Sr|Michael Copley Sr.]]. The will still does not name Michael's parents, but the follow-up identifies the exact restricted FamilySearch probate targets: County Court Order Book v. 6, Film 825098 / DGS 8614118, page 496; possible preliminary Order Book v. 5 entries on Film 825097 / DGS 8614117; and estate inventory / appraisement / settlement material on Film 250047 / DGS 7617564. It also adds the `Copley heirs` / Sand Fork oil-title path as a high-value heirship target.

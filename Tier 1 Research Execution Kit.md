@@ -466,7 +466,7 @@ I am especially interested in full inscriptions, dates, family relationships, pa
 
 ## 5. Copley No. 1 Oil Records
 
-**Goal:** Determine whether the 1900 oil strike on Copley land produced lease, royalty, probate, or estate evidence that affected family finances and education.
+**Goal:** Locate the recorded instrument and financial trail behind the now-verified `Michael Copley Heirs 128-Acre Lease`, identify its signers and terms, and determine whether oil income affected family finances and education.
 
 **Primary pages:** [[Topics/1900 Copley Oil Strike]], [[People/John Copley]], [[The Copley Family Narrative]]
 
@@ -476,17 +476,29 @@ Subject: Lewis County WV oil lease / royalty / probate lookup - Copley No. 1, 18
 
 Hello,
 
-I am researching the Copley No. 1 oil strike on Copley family land in Lewis County around 1900. I am looking for land, lease, royalty, mineral-rights, title-chain, probate, or estate records that may document John Copley's property and any oil-related income or transfers.
+I am researching the South Penn Oil Company's "Michael Copley Heirs 128-Acre Lease" on Sand Fork in Lewis County. Period sources identify "Michael Copley Heirs well No. 1" as the pool-opening well completed 13 September 1900. I am looking for the recorded lease and related land, royalty, mineral-rights, title-chain, probate, partition, or estate records.
 
 Could you please advise how to search or request copies for:
 
-- Oil and gas leases involving John Copley or Copley family land, roughly 1899-1925
+- Oil and gas leases involving Michael Copley's heirs, John Copley, Copley variants, or South Penn Oil Company, roughly 1897-1910
 - Royalty assignments or mineral-rights records
-- Title-chain records for the farm containing Copley No. 1
+- Title-chain records for the 128-acre farm / lease containing Copley No. 1
+- Partition deeds or administrator conveyances after Michael Copley's 1897 death
 - Probate or estate records for John Copley, died 1925
-- Any index entries under Copley / Copely surname variants
+- Any index entries under Copley / Coply / Copely / Copeley / Coopley surname variants
 
 For each record, I am hoping to capture book/page, date, parties, land description, lease terms, royalty terms, witnesses, and related filings.
+
+### Restricted FamilySearch Deed-Index Targets
+
+| Target | Film / DGS | Search |
+|---|---|---|
+| Grantor index A-E, 1817-1934 | Film 819917 / DGS 8219260 | Copley variants, 1897-1910 |
+| Grantee index A-F, 1817-1934 | Film 819924 / DGS 8135143 | Copley variants, 1897-1910 |
+| Grantor index M-S, 1817-1934 | Film 819919 / DGS 8293317 | South Penn Oil Company |
+| Grantee index N-Z, 1817-1934 | Film 819926 / DGS 7902191 | South Penn Oil Company |
+
+Capture each full index line, headings, image number, instrument type, date, parties, book/page, and marginal notation. Retrieve the underlying deed / lease image whenever possible. Treat the uninspected 1900 FamilySearch legal-instrument relationship string as a lead, not a partition or lease identification.
 
 ### Capture Template
 

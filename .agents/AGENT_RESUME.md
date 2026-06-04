@@ -26,6 +26,18 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
 
 ## What Was Just Completed
 
+- Integrated Zach's June 2026 Claude for Chrome **Copley Heirs Farm oil-title and deed search**.
+- Preserved the raw report at `static/sources/claude-oil-title/copley-heirs-farm-oil-title-deed-search-claude-output.txt`.
+- Added `References/Claude for Chrome Copley Heirs Oil Title Search.md` and updated the oil-strike, Michael / John person, evidence, priority, narrative, search-index, volunteer, and execution-kit pages so:
+  - period / technical publications now verify the formal `Michael Copley Heirs 128-Acre Lease` designation;
+  - `Michael Copley Heirs well No. 1` is tied to a 13 September 1900 completion date;
+  - differing published initial-flow figures are treated as source-dependent rather than collapsed into one settled number;
+  - the recorded lease, signers, ownership shares, royalty terms, and financial distribution remain unresolved;
+  - the uninspected 1900 FamilySearch legal-instrument result remains a lead, not a proved partition or lease;
+  - the earlier `John Copley no. 3` reading is corrected to the verified contemporary search term `Copley heirs' No. 3`;
+  - exact restricted deed-index targets now lead with grantor-index Film 819917 / DGS 8219260 and grantee-index Film 819924 / DGS 8135143.
+- Added reusable `VR-06A` restricted deed-index lookup and `VR-06B` WVRHC archive request templates.
+
 - Integrated Zach's June 2026 Claude for Chrome **Michael Copley Sr. probate follow-up / access-map** report.
 - Preserved the raw follow-up at `static/sources/claude-michael-parents/michael-copley-sr-probate-follow-up-claude-output.txt`.
 - Updated `References/Claude for Chrome Michael Copley Sr Probate Estate Search.md`, `People/Michael Copley Sr.md`, `Sources and Evidence Index.md`, `Research Priorities and Action Items.md`, `Topics/1900 Copley Oil Strike.md`, `Volunteer Record Request Tasks.md`, `Search Index.md`, and `CHANGELOG.md` so:

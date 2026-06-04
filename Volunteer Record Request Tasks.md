@@ -75,6 +75,8 @@ If a record is found, please send the scan or photo plus any envelope, cover not
 | VR-04 | St. Michael's / early Catholic sacramental records | Could identify marriages, baptisms, sponsors, and settlement-family links | Diocese / parish archive |
 | VR-05 | Ann Munday / Kinawley tithe and land records | Could test Munday / Monday / Mundy vs. Murray in Kinawley | PRONI or Irish archive contact |
 | VR-06 | Copley No. 1 oil leases, royalties, and John Copley estate | Could prove whether oil income affected family finances and education | Lewis County Clerk |
+| VR-06A | Restricted Lewis County deed-index lookup | Could locate the recorded `Michael Copley Heirs 128-Acre Lease` and identify its book/page and signers | FamilySearch Center / FamilySearch Library helper |
+| VR-06B | Copley Heirs Well archive lookup | Could locate photographs, captions, or oil-company records tied to the lease and Sand Fork property | WVU West Virginia and Regional History Center |
 | VR-07 | Mary Copely Giblin / Iowa branch records | Could connect the Iowa Copely branch to Michael Copley Sr. | Crawford County / cemetery / church |
 | VR-08 | Benjamin Partlow Revolutionary pension and proof chain | Could verify the Partlow Revolutionary line | NARA / county offices |
 | VR-09 | Staunton-Parkersburg Turnpike / Irish labor records | Could test the infrastructure-labor origin story | WV State Archives |
@@ -399,9 +401,16 @@ Sincerely,
 
 ## VR-06: Copley No. 1 Oil Leases, Royalties, and John Copley Estate
 
-**Claim tested:** Whether the 1900 [[Topics/1900 Copley Oil Strike|Copley No. 1 oil strike]] produced lease, royalty, title-chain, mineral-rights, probate, or estate records that document family finances.
+**Claim tested:** Who signed and benefited from the recorded lease behind the now-verified **Michael Copley Heirs 128-Acre Lease**, and whether related lease, royalty, title-chain, mineral-rights, probate, or estate records document family finances.
 
 **Best recipient:** Lewis County Clerk for deeds, leases, title-chain records, and probate material. If needed, ask the office where John Copley's 1925 probate is held.
+
+Known evidence and index targets:
+
+- David B. Reger's 1927 AAPG article identifies `Michael Copley Heirs well No. 1`, completed 13 September 1900, and the `Michael Copley Heirs 128-Acre Lease`, operated by South Penn.
+- Copley grantor index: Film 819917 / DGS 8219260.
+- Copley grantee index: Film 819924 / DGS 8135143.
+- South Penn may appear in grantor-index Film 819919 / DGS 8293317 or grantee-index Film 819926 / DGS 7902191.
 
 ```text
 [Your Name]
@@ -418,20 +427,91 @@ Re: Lewis County oil lease / royalty / probate lookup - Copley No. 1, 1899-1925
 
 Dear Clerk,
 
-I am researching the Copley No. 1 oil strike on Copley family land in Lewis County around 1900. I am looking for land, lease, royalty, mineral-rights, title-chain, probate, or estate records that may document John Copley's property and any oil-related income or transfers.
+I am researching the oil-and-gas instrument behind the South Penn Oil Company's "Michael Copley Heirs 128-Acre Lease" on Sand Fork in Lewis County. Period sources identify the pool-opening well as "Michael Copley Heirs well No. 1," completed 13 September 1900. I am looking for the recorded lease and any related land, royalty, mineral-rights, title-chain, probate, partition, or estate records.
 
 Could you please advise how to search or request copies for:
 
-- Oil and gas leases involving John Copley, `Copley heirs`, `Copley Heirs Well No. 1`, `John Copley no. 3`, or Copley family land, roughly 1899-1925
+- Oil and gas leases involving Michael Copley's heirs, John Copley, `Copley heirs`, `Michael Copley Heirs 128-Acre Lease`, `Copley Heirs Well No. 1`, or South Penn Oil Company, roughly 1897-1910
 - Royalty assignments or mineral-rights records
-- Title-chain records for the farm containing Copley No. 1
+- Title-chain records for the 128-acre lease / farm containing Copley No. 1
 - Partition deeds or conveyances from Michael Copley's heirs after his 1897 death
+- Any administrator's deed or instrument executed by John Copley as Michael's executor / administrator
 - Probate or estate records for John Copley, died 6 September 1925
-- Any index entries under Copley / Copely / Coopley surname variants
+- Any index entries under Copley / Coply / Copely / Copeley / Coopley surname variants
 
 For any matching record, I am hoping to capture book and page, date, parties, land description, lease terms, royalty terms, witnesses, and related filings.
 
 Please let me know what indexes should be searched, whether staff lookup is available, and what copy fees apply.
+
+Thank you for your assistance.
+
+Sincerely,
+
+[Your Name]
+```
+
+## VR-06A: Restricted Lewis County Deed-Index Lookup
+
+**Claim tested:** Whether the restricted Lewis County deed indexes identify the book/page, date, parties, and instrument type for the recorded `Michael Copley Heirs 128-Acre Lease` or a related partition / conveyance.
+
+**Best recipient / method:** A volunteer with access to a FamilySearch Center or the FamilySearch Library. Send results to Zach or Tom using the reporting format at the top of this page.
+
+```text
+Re: Restricted Lewis County deed-index lookup - Michael Copley Heirs / South Penn, 1897-1910
+
+I am seeking the recorded oil-and-gas lease or related deed behind the South Penn Oil Company's "Michael Copley Heirs 128-Acre Lease" at Sand Fork, Lewis County, West Virginia. The lease's No. 1 well was completed 13 September 1900.
+
+Please search these restricted FamilySearch deed indexes:
+
+1. Grantor index A-E, 1817-1934: Film 819917 / DGS 8219260.
+   Search Copley, Coply, Copely, Copeley, and Coopley entries from 1897-1910.
+2. Grantee index A-F, 1817-1934: Film 819924 / DGS 8135143.
+   Search the same Copley variants and date range.
+3. Grantor index M-S, 1817-1934: Film 819919 / DGS 8293317.
+   Search South Penn Oil Company entries for Copley / Sand Fork references if practical.
+4. Grantee index N-Z, 1817-1934: Film 819926 / DGS 7902191.
+   Search South Penn Oil Company entries for Copley / Sand Fork references if practical.
+
+For every possible match, please capture:
+
+- the full index line and surrounding headings;
+- grantor and grantee names exactly as written;
+- instrument type and date;
+- deed book and page;
+- index image number and DGS;
+- any marginal notation;
+- a screenshot or photograph when permitted.
+
+Once a deed book/page is found, please retrieve and capture the complete underlying instrument if access permits. Do not assume an index entry is the oil lease until the deed image confirms it.
+```
+
+## VR-06B: WVRHC Copley Heirs Well Archive Lookup
+
+**Claim tested:** Whether WVU's West Virginia and Regional History Center holds photographs, captions, correspondence, or company records that identify the Sand Fork lease, its owners, or related South Penn operations.
+
+**Best recipient:** West Virginia and Regional History Center, WVU Libraries. The report supplied `wvrhc@mail.wvu.edu`; verify the current official contact and reproduction procedures before sending.
+
+```text
+[Your Name]
+[Your Email]
+[Your Phone]
+[Date]
+
+Re: Copley Heirs Well No. 1 / Michael Copley Heirs 128-Acre Lease, Lewis County WV
+
+Dear Reference Staff,
+
+I am researching the South Penn Oil Company's "Michael Copley Heirs 128-Acre Lease" on Sand Fork in Lewis County, West Virginia. A 1927 AAPG article identifies "Michael Copley Heirs well No. 1" as the pool-opening well completed 13 September 1900.
+
+Could you please search:
+
+1. The James Pietro Papers for photographs, captions, correspondence, or documents mentioning "Copley Heirs Well No. 1," "Michael Copley Heirs," "Copley heirs' farm," "Copley pool," or "Sand Fork pool."
+2. The Picturing West Virginia collection for Copley / Sand Fork material.
+3. Any South Penn Oil Company, Eureka Pipe Line Company, Lewis County, or Gilmer County oil records that identify the lease owners, acreage, location, or related wells.
+
+I am especially interested in exact collection identifiers, box/folder citations, image captions, dates, names, property descriptions, and any material that identifies individual heirs or lease signers.
+
+Please let me know whether relevant material exists, what reproduction fees apply, and whether digital copies can be ordered before incurring charges.
 
 Thank you for your assistance.
 
