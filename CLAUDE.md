@@ -101,6 +101,8 @@ tags:
 - Person pages live in `People/` — link as `[[People/Full Name|Display Name]]` from outside that folder
 - Place pages live in `Places/` — link as `[[Places/Place Name|Display Name]]`
 - Topic pages live in `Topics/` — link as `[[Topics/Topic Name|Display Name]]`
+- After `npm run build`, run `npm run check:links`. It checks authored links in generated `public/` and fails on new broken targets or anchors.
+- `scripts/internal-link-baseline.txt` tracks legacy broken links. Fix baseline issues incrementally; only run `npm run check:links:update` after confirming that baseline changes are intentional. Never use it merely to hide new failures.
 
 ### Mermaid Diagrams — Visual Storytelling (Best Practice)
 

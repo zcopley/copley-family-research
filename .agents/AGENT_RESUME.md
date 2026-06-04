@@ -26,6 +26,14 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
 
 ## What Was Just Completed
 
+- Restored internal-link validation as a committed, deploy-enforced workflow:
+  - added `scripts/check-internal-links.mjs`;
+  - added `npm run check:links` and guarded baseline refresh command `npm run check:links:update`;
+  - added `scripts/internal-link-baseline.txt` with 56 pre-existing authored-content link / anchor failures;
+  - wired GitHub Actions to copy the standalone family timeline and then run the link checker before deployment;
+  - updated `CLAUDE.md` and `GEMINI.md` with the link-check and baseline rules.
+- The old `scripts/check-internal-links.mjs` command had appeared only in agent operational notes; git history shows no committed copy or tracked deletion. The replacement validates generated Quartz output so it follows Quartz's actual shortest-link, alias, punctuation, and base-path behavior.
+
 - Integrated Zach's June 2026 Claude for Chrome **Copley Heirs Farm oil-title and deed search**.
 - Preserved the raw report at `static/sources/claude-oil-title/copley-heirs-farm-oil-title-deed-search-claude-output.txt`.
 - Added `References/Claude for Chrome Copley Heirs Oil Title Search.md` and updated the oil-strike, Michael / John person, evidence, priority, narrative, search-index, volunteer, and execution-kit pages so:
@@ -523,7 +531,7 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
 - Updated `Sources and Evidence Index.md`, `Research Priorities and Action Items.md`, `Search Index.md`, and `CHANGELOG.md` so the parentage question is visible as unresolved and the family Bible / probate path is a first-class research target.
 - Ran `npm run build` successfully after the email integration; build processed 155 Markdown files and emitted only existing LaTeX unicode warnings.
 - Ran `npm run check:mermaid` successfully after the email integration.
-- Attempted `node scripts/check-internal-links.mjs`, but the script is not present in the repo.
+- At that time, attempted `node scripts/check-internal-links.mjs`, but the script was not present in the repo. A committed generated-site checker and legacy baseline were added in June 2026.
 - Reverted regenerated tracked `public/` output after local build verification so the working diff stayed source-focused.
 - Follow-up source-access update: four browser-readable Tom email transcript pages now exist in `References/`; the original `tom-emails.zip` archive and four normalized `.eml` files are published under `static/sources/tom-emails/`, and `References/Thomas Copley May 2026 Email Leads.md` links to both the transcript pages and raw source files directly.
 

@@ -25,6 +25,8 @@ Always use the following tags and prose labels:
 - Use `[[WikiLink]]` syntax for all internal links.
 - Person pages reside in `People/`, Places in `Places/`, Topics in `Topics/`.
 - Maintain the `Search Index.md` with every new profile or key fact added.
+- After `npm run build`, run `npm run check:links`. The generated-site checker fails on broken links not already recorded in `scripts/internal-link-baseline.txt`.
+- Fix legacy baseline issues incrementally. Use `npm run check:links:update` only after reviewing the baseline diff; do not use it to suppress new failures.
 - **Changelog rule:** Every `CHANGELOG.md` entry must include WikiLinks to every page added or changed. Use `[[People/Full Name|Display Name]]`, `[[Topics/Page|Display Name]]`, etc. Mention specific sections by name in prose when only a section changed.
 
 ### 3. Frontmatter (Required)

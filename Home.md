@@ -124,10 +124,10 @@ This vault uses an evidence-tier framework:
 
 ## Quick Links
 
-- [[People/Michael Copley Sr.|Michael Copley Sr.]] — G23 ancestor
+- [[People/Michael Copley Sr|Michael Copley Sr.]] — G23 ancestor
 - [[People/Ann Copley|Ann Copley]] — recorded as Munday; Murray hypothesis downgraded
 - [[People/John Copley|John Copley]] — G23/G24
-- [[People/Mary Ellen Dolan|Mary Ellen Dolan Copley]]
+- [[People/Mary Ellen Dolan Copley|Mary Ellen Dolan Copley]]
 - [[People/Mary Copely Giblin|Mary Copely Giblin]] — likely Iowa-branch relative
 - [[People/Ellen Bernadine Nelle Copley Sardo|Ellen "Nelle" Copley Sardo]]
 - [[People/Michael Joseph Copley|Michael Joseph Copley]]

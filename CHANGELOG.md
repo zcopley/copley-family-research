@@ -10,6 +10,12 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4DT - Internal-Link Validation Restored (June 3, 2026)
+
+**SITE-QUALITY UPDATE:** Added a committed generated-site internal-link checker and made it a required GitHub Actions deployment step. The prior `scripts/check-internal-links.mjs` command existed only in agent operational notes; git history contains no committed copy or tracked deletion. The new checker validates authored local page, asset, and anchor links after Quartz resolves wiki links, aliases, punctuation, and the repository base path.
+
+The checker currently validates more than 4,100 authored local links and tracks 56 pre-existing broken-link issues in `scripts/internal-link-baseline.txt`. New broken links now fail CI immediately, while the legacy backlog can be repaired incrementally. Baseline updates require the explicit `npm run check:links:update` command and should only follow a reviewed baseline diff.
+
 ## Phase 4DS - Copley Heirs Oil-Title Search Integrated (June 3, 2026)
 
 **OIL-TITLE UPDATE:** Integrated Zach's Claude for Chrome Copley Heirs Farm oil-title and deed search. Period and technical publications now verify that South Penn operated the formally designated **Michael Copley Heirs 128-Acre Lease**, and that **Michael Copley Heirs well No. 1** opened the pool on **13 September 1900**. The recorded lease, individual signers, ownership shares, royalty terms, and financial distribution remain unresolved. The active deed path is now tied to exact restricted FamilySearch indexes, led by grantor-index Film 819917 / DGS 8219260 and grantee-index Film 819924 / DGS 8135143.
@@ -742,7 +748,7 @@ A running record of significant additions, corrections, and improvements to this
 
 ### Updated Pages
 
-- [[CLAUDE|CLAUDE]] and [[GEMINI|GEMINI]] - added general raw-source preservation rules for `.eml`, `.txt`, `.pdf`, `.zip`, images, spreadsheets, record exports, and other source packets.
+- `CLAUDE.md` and `GEMINI.md` - added general raw-source preservation rules for `.eml`, `.txt`, `.pdf`, `.zip`, images, spreadsheets, record exports, and other source packets.
 - `.agents/AGENT_RESUME.md` - added the same rule to the live handoff so future sessions do not leave useful materials only in local download or temporary paths.
 
 ## Phase 4BC - Tom Email Source Files Published (May 8, 2026)
@@ -968,7 +974,7 @@ A running record of significant additions, corrections, and improvements to this
 
 - [[People/Philip Copley|Philip Copley]] - added a fuller narrative for the Madison and Palos Verdes household stages, his place in the first-marriage Stephen-line sibling cohort, and the limited but useful `ESP` band detail.
 - [[References/Copley History Part 1 and Appendix Source Audit|Copley History Part 1 and Appendix Source Audit]] - marked Philip as having received a first bounded appendix-enrichment pass.
-- `[[CLAUDE]]` was already corrected in the prior pass; this follow-up instead clarifies the active checkpoint behavior inside `.agents/AGENT_RESUME.md` and adds explicit historical-notice banners to `.agents/_AGENT_HANDOFF_PHASE_2M.md` and `.agents/_AGENT_HANDOFF_PARTLOW_REVOLUTIONARY_LINE.md`.
+- `CLAUDE.md` was already corrected in the prior pass; this follow-up instead clarifies the active checkpoint behavior inside `.agents/AGENT_RESUME.md` and adds explicit historical-notice banners to `.agents/_AGENT_HANDOFF_PHASE_2M.md` and `.agents/_AGENT_HANDOFF_PARTLOW_REVOLUTIONARY_LINE.md`.
 
 ## Phase 4AH - Internal Family Tree / Phase Label Maintenance (May 1, 2026)
 
@@ -976,7 +982,7 @@ A running record of significant additions, corrections, and improvements to this
 
 ### Updated Pages
 
-- [[CLAUDE]] - corrected the repository-structure note for the old phase handoff files and relabeled the Phase 2G Irish-origins section as historical background rather than active operational state.
+- `CLAUDE.md` - corrected the repository-structure note for the old phase handoff files and relabeled the Phase 2G Irish-origins section as historical background rather than active operational state.
 
 ## Phase 4AE - Michael (1959) Appendix Enrichment (May 1, 2026)
 
@@ -1344,7 +1350,7 @@ A running record of significant additions, corrections, and improvements to this
 - [[Places/_Places Index|Places Index]] - added high-contrast text and stroke colors to the place overview diagram
 - [[RQ-M5-PHASE-2-FINDINGS|RQ-M5 Phase 2 Findings]] and [[RQ-M5-TITHE-APPLOTMENT-SEARCH|RQ-M5 Tithe Search Research Note]] - added high-contrast text and stroke colors to evidence diagrams
 - [[Topics/Murray Settlement|Murray Settlement]] and [[Topics/Murray Settlement Research Roadmap|Murray Settlement Research Roadmap]] - added high-contrast text and stroke colors to settlement, roadmap, and research-flow diagrams
-- [[MERMAID_DIAGRAM_GUIDE|Mermaid Diagram Guide]] and [[CLAUDE|CLAUDE]] - documented the reusable fill/stroke/text palette and the new `npm run check:mermaid` guardrail
+- [[MERMAID_DIAGRAM_GUIDE|Mermaid Diagram Guide]] and `CLAUDE.md` - documented the reusable fill/stroke/text palette and the new `npm run check:mermaid` guardrail
 
 ### Technical Guardrail
 
@@ -1478,7 +1484,7 @@ A running record of significant additions, corrections, and improvements to this
 
 - [[Topics/Bredon Descent|Bredon Descent: Medieval Roots of the American Copleys]] - added a Surrey / London / Gatton Mermaid relationship chart showing the collateral relationship, Gatton property continuity, Weston transfer, and unresolved intermediate Surrey generation
 - [[References/Gatton and Leigh Place Notes|Gatton and Leigh Place Notes]] - linked Tom's relationship correction to the new diagram
-- [[CLAUDE|CLAUDE]] - added a standing rule that relevant Mermaid diagrams must be updated whenever new information changes relationships, chronology, evidence status, source coverage, or research priorities
+- `CLAUDE.md` - added a standing rule that relevant Mermaid diagrams must be updated whenever new information changes relationships, chronology, evidence status, source coverage, or research priorities
 - [[MERMAID_DIAGRAM_GUIDE|MERMAID_DIAGRAM_GUIDE]] - refreshed the RQ-M5 example to use current evidence and added a Mermaid contrast rule
 
 ## Phase 2N (Continued) - RQ-M5 Resolved: Ann Munday Was Likely Ann Murray (April 25, 2026)
@@ -1502,7 +1508,7 @@ A running record of significant additions, corrections, and improvements to this
 - [[Topics/Captain John Copley Research|Captain John Copley Research]] - replaced old speculative wording with the new resolved working conclusion
 - [[Topics/Bredon Descent|Bredon Descent: Medieval Roots of the American Copleys]] - updated the Ann Munday/Murray note
 - [[Research Priorities and Action Items|Research Priorities and Action Items]] - marked the Munday census test as completed and shifted priority to Murray deed work
-- [[CLAUDE|CLAUDE]] - updated agent instructions with the current RQ-M5 conclusion
+- `CLAUDE.md` - updated agent instructions with the current RQ-M5 conclusion
 
 ## Phase 2N (Continued) - Ancestry Tithe Search Integrated for RQ-M5 (April 25, 2026)
 
@@ -2074,7 +2080,7 @@ The page explicitly states that this hypothesis is **testable but currently unpr
 
 ### Agent Instructions Updated
 
-Both [[CLAUDE.md|CLAUDE.md]] and [[GEMINI.md|GEMINI.md]] now contain watchlists for the crypto-Catholic hypothesis:
+Both `CLAUDE.md` and `GEMINI.md` now contain watchlists for the crypto-Catholic hypothesis:
 - **Supporting evidence markers** that agents should actively flag when found
 - **Contradicting evidence markers** that would weaken or refute the hypothesis
 - **Clarification questions** that need investigation
@@ -2211,7 +2217,7 @@ Tom's core thesis: the Murray Settlement was not a random cluster of individual 
 **[[Topics/Captain John Copley Research|Captain John Copley Research]] — Geographic Context & Family Connection Strengthened:**
 
 1. **Spelling correction (12 occurrences):** 
-   - "Termonbeg" → "Termon Beg" throughout [[Topics/Captain John Copley Research|Captain John Copley Research]], [[CLAUDE.md|CLAUDE.md]], and [[GEMINI.md|GEMINI.md]]
+   - "Termonbeg" → "Termon Beg" throughout [[Topics/Captain John Copley Research|Captain John Copley Research]], `CLAUDE.md`, and `GEMINI.md`
    - Tom Copley clarified the correct spelling after reviewing parish records
 
 2. **Geographic relationships clarified (Section 13 — The Catholic Copely Branch):**

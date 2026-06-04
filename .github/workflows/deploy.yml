@@ -38,6 +38,9 @@ jobs:
           mkdir -p public/family-timeline
           cp -v family-timeline/index.html public/family-timeline/
 
+      - name: Check internal links
+        run: npm run check:links
+
       - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v4
         with:

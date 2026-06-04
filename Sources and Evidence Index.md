@@ -94,7 +94,7 @@ For a visual overview of the claim landscape, see [[Visual Story Atlas]]. For vo
 | *Calendar of State Papers, Ireland, 1633-1647*, p. 301 names Captain John Copley and Arigna. | Contradicted / rejected | Tom Copley checked the Internet Archive volume and found no Copley or alternative spellings in the entire volume. Treat the AI citation as fabricated. | [[Topics/Captain John Copley Research]], [[References/Tom Copley May 2026 Research Corrections]] |
 | A John Copley appears in the 1824 Tithe Applotment Books at Kilmacough, Kilgefin. | Contradicted / rejected | Roscommon Tithe search found no Copley; earlier AI claim treated as fabricated. | [[Topics/Captain John Copley Research]] |
 | Munday is impossible as a real Irish surname. | Contradicted / rejected | Ancestry Tithe search found Munday entries elsewhere in Ireland; the issue is absence from Kinawley/Fermanagh evidence, not surname impossibility. | [[RQ-M5-TITHE-APPLOTMENT-SEARCH]] |
-| Same-name social media profiles for Charles H. Copley, Peter Copley, and William Stephen Geist belong to these family members. | Contradicted / rejected | Prior review found same-name mismatches; links removed. | [[CLAUDE]], [[References/copley_social_media_profiles]] |
+| Same-name social media profiles for Charles H. Copley, Peter Copley, and William Stephen Geist belong to these family members. | Contradicted / rejected | Prior review found same-name mismatches; links removed. | `CLAUDE.md`, [[References/copley_social_media_profiles]] |
 
 ---
 

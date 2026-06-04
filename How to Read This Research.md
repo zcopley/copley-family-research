@@ -59,7 +59,7 @@ Use this page as the map before diving into the details.
 | Interested in Irish origins | [[Topics/Captain John Copley Research]], [[Places/Kilgefin Ireland]], and [[Places/Kinawley Ireland]] |
 | Interested in the Lewis County immigrant community | [[Topics/Murray Settlement]] and [[Topics/Murray Settlement Research Roadmap]] |
 | Looking for what to research next | [[Research Priorities and Action Items]] and [[Tier 1 Research Execution Kit]] |
-| Reviewing the project as a researcher or AI agent | [[CLAUDE]] first, then [[Sources and Evidence Index]] |
+| Reviewing the project as a researcher or AI agent | `CLAUDE.md` first, then [[Sources and Evidence Index]] |
 
 ## Evidence Labels
 
