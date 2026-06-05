@@ -10,6 +10,18 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4DW - Book 11 and Grantor-Index Survey Integrated (June 4, 2026)
+
+**OIL-TITLE UPDATE:** Integrated the structured Lewis County Book 11 / grantor-index survey. The Book 11 image map is now calibrated: image 47 corresponds to approximately pages 92-93, not page 32. Images 47-65 / approximately pages 92-128 were checked with no Copley, Hoffman, Sand Fork, 200-acre, 27½-acre, 55-acre, Nonypod, or Bungport deed found. Book 11 page 32 remains negative from the prior pass, so the strongest remaining candidates for the older 1 May 1880 deed citation are now pages **52, 62, 82, and 132**.
+
+The Copley grantor-index path in DGS `008219260` / Film `819917` is now treated as a documented negative: the relevant ledger sequence jumps from **Colvin** at image 305 to **Cork** at image 306 with no Copley page or entry. The highest-priority remaining online/FamilySearch-Center path is now the **South Penn grantee index** in Film `819926` / DGS `7902191`.
+
+### Updated Pages
+
+- [[References/Claude for Chrome 1900 Copley Family Exchange Deed|Claude for Chrome 1900 Copley Family Exchange Deed]] and [[References/Claude for Chrome Copley Heirs Oil Title Search|Claude for Chrome Copley Heirs Oil Title Search]] - added the Book 11 page calibration, page-92 negative, Colvin-to-Cork grantor-index negative, and South Penn grantee-index priority.
+- [[Sources and Evidence Index]], [[Research Priorities and Action Items]], [[Volunteer Record Request Tasks]], [[Tier 1 Research Execution Kit]], [[Topics/1900 Copley Oil Strike|1900 Copley Oil Strike]], [[People/Michael Copley Sr|Michael Copley Sr.]], [[People/John Copley|John Copley]], [[Search Index]], [[Home]], and `index.md` - replaced the older open Copley grantor-index / pages-32-50 instructions with the narrowed next task.
+- `static/sources/claude-oil-title/lewis-county-book11-grantor-index-survey-claude-output.txt` - preserved the structured report.
+
 ## Phase 4DV - Deed Book 11 Citation Progress Integrated (June 4, 2026)
 
 **OIL-TITLE UPDATE:** Integrated the follow-up Lewis County deed research progress report. The older deed citation in FamilySearch record `6X4N-DWWY` now reads **1 May 1880, Deed Book No. 11, page 32?**, not the earlier tentative 1878 / page 321 reading. Deed Book 11, page 32 was checked in DGS `008293286` and did **not** contain a Copley deed, so the citation remains unresolved. The 55-acre tract place-name reading is also now treated as a transcription conflict between the newer `Nonypod Run of Sand Creek` reading and the earlier `Bungport Run of Cove Lick` reading.

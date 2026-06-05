@@ -1,0 +1,87 @@
+Structured Research Report - Lewis County Deed Research, Book 11 Citation and South Penn Lease Search
+
+Session date: 4 June 2026
+Preservation note: normalized extract of the user-supplied Claude for Chrome report on DGS 008293286, Deed Book 11, and DGS 008219260, grantor index.
+
+PART A: BOOK 11 IMAGE-BY-IMAGE SURVEY
+
+DGS 008293286, Film 818759, Deed Book 11, was surveyed for images 47-65.
+
+Key calibration:
+
+- Image 47 corresponds approximately to deed-book pages 92-93, not page 32.
+- Images 47-65 cover approximately pages 92-128.
+- The viewer URL parameter is off by one: URL parameter i=N displays image N+1.
+- The cited page 32 falls around image 18-20, not in the images 47-65 range.
+
+Images 47-65 showed no Copley / Coply / Copely / Coopley / Copeley entry and no Hoffman / Sand Fork / 200-acre / 27.5-acre / 55-acre / Nonypod / Bungport deed. Selected anchors:
+
+- Image 47, ARK 3Q9M-CSR7-SQXB-R: Franklin Maxwell executor to Con Atkinson Jr.; no Copley.
+- Image 48, ARK 3Q9M-CSR7-SQXT-7: L.D. Wood and Mary R. Wood to N.G. Bennett / Weston Building Association; no Copley.
+- Image 53, ARK 3Q9M-CSR7-SQXT-4: Hugh McDonald deed; no Copley.
+- Image 57, ARK 3Q9M-CSR7-SQXR-Y: Rebecca Boggs and related deed material; no Copley.
+- Image 61, ARK 3Q9M-CSR7-SQXR-T: Moses Simon deed; no Copley.
+- Image 65, ARK 3Q9M-CSR7-SQXR-K: Columbia M. Bland / Isaac C. Nolds trust deed; no Copley.
+
+Misread-page status:
+
+- Page 32 was checked in the prior session and did not contain a Copley deed.
+- Pages 52, 62, 82, and 132 were not checked in this session and remain live candidates.
+- Page 92 was effectively checked through image 47 and did not contain a Copley deed.
+- Candidate pages 232 and 322 were not checked, but are lower priority than pages 52, 62, 82, and 132.
+
+Recommended Book 11 follow-up:
+
+- Page 52: image about 28-29, URL parameter i=27 or i=28.
+- Page 62: image about 33, URL parameter i=32.
+- Page 82: image about 43, URL parameter i=42.
+- Page 132: image about 68, URL parameter i=67.
+
+PART B: COPLEY GRANTOR INDEX
+
+DGS 008219260, Film 819917, is the General Index to Deeds and Oil & Gas Leases, Grantors A-E, 1817-1934.
+
+Important structural finding:
+
+- The film contains multiple independent index volumes bound/scanned together.
+- Image 290 is a title card for "Grantor Deed Index A B, 1817-1934"; "A B" is a ledger volume label, not a surname restriction.
+
+Copley location / negative result:
+
+- Image 305 left page is the Colvin section.
+- Image 306 left page is the Cork section.
+- The ledger jumps from Colvin to Cork with no physically allocated Copley page between them.
+- The bottom space after the last Colvin entry is blank.
+- No Copley, Coply, Copely, Coopley, Copeley, Michael Copley, John Copley, Ann Copley, or Copley Heirs grantor entry was found between Colvin and Cork.
+
+Task-image correction:
+
+- Images 304-310 originally specified for Copley were actually in the Gaynor / G section for part of the film, not the C-O-P range.
+- The actual Copley gap location is images 305-306, URL parameters i=304-305, where Colvin jumps to Cork.
+
+Non-Copley South Penn / energy entries observed:
+
+- Chidester, G.M. / related grantors to South Penn Oil Company, assignments in Books 40 and 42.
+- Curtis heirs to South Penn Oil Company, agreement in Book 44, royalty / 100 acres / Freemans Creek District.
+- Colvin entries to Eastern Oil Company and Hope Natural Gas Company.
+
+These entries confirm South Penn activity in Lewis County but do not involve Copley.
+
+PART C: SOUTH PENN GRANTEE INDEX
+
+The South Penn grantee index was not searched in this session.
+
+Highest-priority remaining task:
+
+- Search grantee index N-Z, Film 819926 / DGS 7902191, under South Penn / South Penn Oil / South Penn Oil Company / Standard Oil / Oil Company, South Penn / Penn, South.
+- Capture any entry involving Copley, Sand Fork, Copley heirs, acreage around 128 acres, 55 acres, or 200 acres.
+
+SUMMARY
+
+1. No Copley deed was found in Book 11 images 47-65, approximately pages 92-128.
+2. Page 32 was previously checked and negative.
+3. Page 92 is effectively checked and negative.
+4. Pages 52, 62, 82, and 132 remain the strongest Book 11 candidate pages.
+5. The Copley grantor-index path in DGS 008219260 is negative because the ledger jumps from Colvin to Cork with no Copley page or entry.
+6. The South Penn grantee-index path is the next highest-value route to the oil lease.
+

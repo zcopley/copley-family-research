@@ -20,6 +20,8 @@ This note identifies the previously unresolved 1900 FamilySearch legal-instrumen
 
 [Download the follow-up deed-citation progress report](../static/sources/claude-oil-title/lewis-county-deed-research-progress-book11-copley-south-penn-claude-output.txt)
 
+[Download the Book 11 / grantor-index survey report](../static/sources/claude-oil-title/lewis-county-book11-grantor-index-survey-claude-output.txt)
+
 ## Main Result
 
 FamilySearch record [6X4N-DWWY](https://www.familysearch.org/ark:/61903/1:1:6X4N-DWWY) is a **family land-exchange deed**, not the South Penn Oil Company lease, an administrator's deed, or a probate record.
@@ -60,7 +62,11 @@ A follow-up tile-level pass corrected the cited older deed reference inside the 
 - The cited page reads **32?** with reasonable confidence, but a third digit cannot be ruled out from the tile boundary.
 - Deed Book 11 is DGS **008293286**, Film **818759**, years **1880-1881**.
 
-Book 11 page 32 was then checked at image 47. That page did **not** contain a Copley deed; it showed Harrison County / Crisell-related acknowledgement material, a clerk endorsement, and the start of a Franklin Maxwell deed. This means the page reference is still unresolved. Possibilities include a misread page number, a continuation later in the page range, or another type of entry.
+Later page-calibration work corrected the Book 11 image map. Image 47 corresponds to approximately deed-book pages **92-93**, not page 32. The follow-up survey checked images **47-65** / approximately pages **92-128** and found **no Copley, Coply, Copely, Coopley, Hoffman, Sand Fork, 200-acre, 27½-acre, 55-acre, Nonypod, or Bungport deed** in that range. Book 11 page 32 itself had already been checked in the prior pass and was also negative.
+
+This means the page reference is still unresolved. The strongest live candidate pages are now **52, 62, 82, and 132**. Pages **232** and **322** are lower-priority possibilities if the first four remain negative. Page 92 is effectively negative.
+
+The same survey also checked the restricted general grantor index path in DGS **008219260** / Film **819917**. The relevant Copley zone jumps from **Colvin** at image 305 to **Cork** at image 306, with no dedicated Copley page and no visible Copley-variant entries in the gap. Treat the Copley grantor-index path as a documented negative unless a future search finds a separate index layer.
 
 The same follow-up also reported the 55-acre tract phrase as **Nonypod Run of Sand Creek**. Earlier work had read the location as Bungport Run of Cove Lick. Treat this as a place-name transcription conflict until the complete image is reread.
 
@@ -104,9 +110,9 @@ The FamilySearch relationship string is malformed. It incorrectly treats decease
 ## Next Records
 
 1. Locate the separate South Penn Oil Company lease behind the `Michael Copley Heirs 128-Acre Lease`.
-2. Resolve the cited **1 May 1880, Deed Book No. 11, page 32?** reference by checking Book 11 pages 32-50 and nearby likely misread pages.
-3. Check Deed Book 10, DGS 008293285, as a backup if the page citation remains unresolved.
-4. Complete the Copley variant grantor-index search around DGS 008219260 images 304-310.
-5. Search the South Penn grantee path and related conveyances, mineral-rights instruments, royalty assignments, and [[People/John Copley|John Copley]]'s estate.
+2. Resolve the cited **1 May 1880, Deed Book No. 11, page 32?** reference by checking Book 11 candidate pages **52, 62, 82, and 132** first; only then check pages **232** and **322**.
+3. Treat the DGS **008219260** / Film **819917** Copley grantor-index path as currently negative because the relevant index sequence jumps from Colvin to Cork at images 305-306 with no Copley page or entry.
+4. Search the **South Penn grantee path** in Film **819926** / DGS **7902191** under South Penn / South Penn Oil / South Penn Oil Company and related variants.
+5. Search related conveyances, mineral-rights instruments, royalty assignments, partition records, and [[People/John Copley|John Copley]]'s estate.
 
 Ready-to-use requests are in [[Volunteer Record Request Tasks#VR-06 Copley No 1 Oil Leases Royalties and John Copley Estate|VR-06]] and [[Volunteer Record Request Tasks#VR-06A Restricted Lewis County Deed-Index Lookup|VR-06A]].

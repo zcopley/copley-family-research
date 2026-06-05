@@ -59,7 +59,7 @@ The FamilySearch legal-instrument lead is now identified:
 
 It is a **family land-exchange deed**, not the South Penn lease. Ann Copley, daughters Margaret, Ann, Sarah, and Bridget Gillooly, and Bridget's husband Patrick Gillooly conveyed their interest in a tract to John Copley. The deed recites an exchange involving a 55-acre tract and 27½ acres of John's interest in a 200-acre Sand Fork tract. The 55-acre place-name reading is currently unresolved: a later tile pass read `Nonypod Run of Sand Creek`, while the earlier report read `Bungport Run of Cove Lick`. The deed contains no oil, gas, mineral, royalty, or South Penn language.
 
-The deed documents an important title rearrangement immediately before the oil strike, but it does not establish the oil-lease signers or explain why the exchange occurred. A follow-up tile pass corrected the older citation to **1 May 1880, Deed Book No. 11, page 32?**; Book 11 page 32 did not contain a Copley deed, so that citation remains unresolved. See [[References/Claude for Chrome 1900 Copley Family Exchange Deed]].
+The deed documents an important title rearrangement immediately before the oil strike, but it does not establish the oil-lease signers or explain why the exchange occurred. Follow-up tile and image-survey work corrected the older citation to **1 May 1880, Deed Book No. 11, page 32?**. Book 11 page 32 and the page-92 area are both negative; the strongest live Book 11 candidates are now pages **52, 62, 82, and 132**. See [[References/Claude for Chrome 1900 Copley Family Exchange Deed]].
 
 ## Restricted Deed-Index Targets
 
@@ -96,11 +96,11 @@ The report says these images are restricted to FamilySearch Center / FamilySearc
 
 ## Next Records
 
-1. Search restricted grantor index Film 819917 / DGS 8219260 for every Copley variant from 1897-1910.
-2. Search restricted grantee index Film 819924 / DGS 8135143 for the same variants.
-3. Search South Penn Oil Company in the relevant M-S / N-Z company index sections.
-4. Capture the complete index lines and retrieve every referenced deed / lease image.
-5. Resolve the earlier deed citation now read as 1 May 1880, Deed Book No. 11, page 32?, noting that Book 11 page 32 did not contain the expected Copley deed.
+1. Search **South Penn Oil Company as grantee** in Film 819926 / DGS 7902191 under South Penn / South Penn Oil / South Penn Oil Company and likely filing variants.
+2. Capture every South Penn entry that mentions Copley, Copley heirs, Sand Fork, the Copley pool, suspicious 55 / 128 / 200-acre acreages, royalty, lease, assignment, or agreement language.
+3. Retrieve every referenced deed / lease image when the index gives a book and page.
+4. Resolve the earlier deed citation now read as 1 May 1880, Deed Book No. 11, page 32?, by checking Book 11 pages **52, 62, 82, and 132** first.
+5. Treat the Copley grantor-index path in Film 819917 / DGS 8219260 as currently negative: the relevant index sequence jumps from Colvin at image 305 to Cork at image 306 with no Copley page or entry.
 6. Ask the Lewis County Clerk for any Michael Copley heirs / South Penn oil-and-gas lease, royalty assignment, partition deed, or administrator conveyance.
 7. Ask WVRHC for James Pietro Papers or Picturing West Virginia material labeled `Copley Heirs Well No. 1`, `Sand Fork pool`, or `Michael Copley Heirs`.
 

@@ -408,10 +408,10 @@ Sincerely,
 Known evidence and index targets:
 
 - David B. Reger's 1927 AAPG article identifies `Michael Copley Heirs well No. 1`, completed 13 September 1900, and the `Michael Copley Heirs 128-Acre Lease`, operated by South Penn.
-- FamilySearch record `6X4N-DWWY`, DGS `008293301`, image `245`, pages 422-423, is a separate family exchange deed executed 22 August 1900 and recorded 13 October 1900. It involves Sand Fork and a 55-acre tract with unresolved place-name reading, but contains no oil-lease language. Its cited older deed now reads 1 May 1880, Deed Book 11, page 32?, but Book 11 page 32 did not contain a Copley deed.
-- Copley grantor index: Film 819917 / DGS 8219260.
+- FamilySearch record `6X4N-DWWY`, DGS `008293301`, image `245`, pages 422-423, is a separate family exchange deed executed 22 August 1900 and recorded 13 October 1900. It involves Sand Fork and a 55-acre tract with unresolved place-name reading, but contains no oil-lease language. Its cited older deed now reads 1 May 1880, Deed Book 11, page 32?. Book 11 page 32 and the page-92 area are negative; pages 52, 62, 82, and 132 remain the strongest Book 11 candidates.
+- Copley grantor index: Film 819917 / DGS 8219260. This path is currently negative: the relevant index sequence jumps from Colvin at image 305 to Cork at image 306 with no Copley page or entry.
 - Copley grantee index: Film 819924 / DGS 8135143.
-- South Penn may appear in grantor-index Film 819919 / DGS 8293317 or grantee-index Film 819926 / DGS 7902191.
+- South Penn grantee index: Film 819926 / DGS 7902191. This is the highest-priority remaining index path.
 
 ```text
 [Your Name]
@@ -430,14 +430,14 @@ Dear Clerk,
 
 I am researching the oil-and-gas instrument behind the South Penn Oil Company's "Michael Copley Heirs 128-Acre Lease" on Sand Fork in Lewis County. Period sources identify the pool-opening well as "Michael Copley Heirs well No. 1," completed 13 September 1900. I am looking for the recorded lease and any related land, royalty, mineral-rights, title-chain, probate, partition, or estate records.
 
-A related family exchange deed has already been located at FamilySearch record `6X4N-DWWY`, DGS `008293301`, image `245`, visible pages 422-423. It was executed 22 August 1900 and recorded 13 October 1900. It names Ann Copley, Margaret Copley, Ann Copley, Sarah Copley, Bridget and Patrick Gillooly, and John Copley; recites Sand Fork and a 55-acre tract with unresolved place-name reading; and contains no oil-lease terms. Please use it as a title-chain anchor rather than returning it as the requested South Penn lease. Its cited older deed now reads 1 May 1880, Deed Book 11, page 32?, but Book 11 page 32 has already been checked and did not contain a Copley deed.
+A related family exchange deed has already been located at FamilySearch record `6X4N-DWWY`, DGS `008293301`, image `245`, visible pages 422-423. It was executed 22 August 1900 and recorded 13 October 1900. It names Ann Copley, Margaret Copley, Ann Copley, Sarah Copley, Bridget and Patrick Gillooly, and John Copley; recites Sand Fork and a 55-acre tract with unresolved place-name reading; and contains no oil-lease terms. Please use it as a title-chain anchor rather than returning it as the requested South Penn lease. Its cited older deed now reads 1 May 1880, Deed Book 11, page 32?. Book 11 page 32 and the page-92 area have already been checked and did not contain a Copley deed.
 
 Could you please advise how to search or request copies for:
 
 - Oil and gas leases involving Michael Copley's heirs, John Copley, `Copley heirs`, `Michael Copley Heirs 128-Acre Lease`, `Copley Heirs Well No. 1`, or South Penn Oil Company, roughly 1897-1910
 - Royalty assignments or mineral-rights records
 - Title-chain records for the 128-acre lease / farm containing Copley No. 1
-- The earlier deed now read as 1 May 1880, Deed Book 11, page 32?, including nearby pages or likely misread pages if page 32 remains negative
+- The earlier deed now read as 1 May 1880, Deed Book 11, page 32?, especially possible misread pages 52, 62, 82, and 132
 - Partition deeds or conveyances from Michael Copley's heirs after his 1897 death
 - Any administrator's deed or instrument executed by John Copley as Michael's executor / administrator
 - Probate or estate records for John Copley, died 6 September 1925
@@ -465,18 +465,20 @@ Re: Restricted Lewis County deed-index lookup - Michael Copley Heirs / South Pen
 
 I am seeking the recorded oil-and-gas lease or related deed behind the South Penn Oil Company's "Michael Copley Heirs 128-Acre Lease" at Sand Fork, Lewis County, West Virginia. The lease's No. 1 well was completed 13 September 1900.
 
-Do not return FamilySearch record `6X4N-DWWY` as the oil lease. That record has been inspected and is a separate family exchange deed executed 22 August 1900 and recorded 13 October 1900, DGS `008293301`, image `245`, pages 422-423. It should be used as a title-chain anchor. Please also look for the earlier deed it cites, now read as 1 May 1880, Deed Book 11, page 32?, noting that Book 11 page 32 itself did not contain the expected Copley deed.
+Do not return FamilySearch record `6X4N-DWWY` as the oil lease. That record has been inspected and is a separate family exchange deed executed 22 August 1900 and recorded 13 October 1900, DGS `008293301`, image `245`, pages 422-423. It should be used as a title-chain anchor. Please also look for the earlier deed it cites, now read as 1 May 1880, Deed Book 11, page 32?, noting that Book 11 page 32 and the page-92 area did not contain the expected Copley deed.
 
 Please search these restricted FamilySearch deed indexes:
 
-1. Grantor index A-E, 1817-1934: Film 819917 / DGS 8219260.
-   Search Copley, Coply, Copely, Copeley, and Coopley entries from 1897-1910.
+1. Grantee index N-Z, 1817-1934: Film 819926 / DGS 7902191.
+   Search South Penn, South Penn Oil, South Penn Oil Company, Standard Oil, Eureka Pipe Line, and likely filing variants. This is the highest-priority path.
 2. Grantee index A-F, 1817-1934: Film 819924 / DGS 8135143.
    Search the same Copley variants and date range.
 3. Grantor index M-S, 1817-1934: Film 819919 / DGS 8293317.
    Search South Penn Oil Company entries for Copley / Sand Fork references if practical.
-4. Grantee index N-Z, 1817-1934: Film 819926 / DGS 7902191.
-   Search South Penn Oil Company entries for Copley / Sand Fork references if practical.
+4. Grantor index A-E, 1817-1934: Film 819917 / DGS 8219260.
+   Do not repeat this unless you are verifying the prior negative: the relevant Copley zone jumps from Colvin at image 305 to Cork at image 306 with no Copley page or entry.
+5. Book 11, DGS 008293286.
+   Check candidate pages 52, 62, 82, and 132 for the older 1 May 1880 Copley deed cited by the exchange deed.
 
 For every possible match, please capture:
 

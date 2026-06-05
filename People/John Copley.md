@@ -91,7 +91,7 @@ timeline
 ## Acquisition Strategy
 - Search civil/church marriage records in Lewis and Marshall county pathways.
 - File NARA military/pension request for all plausible John Copley candidates (including Quartermaster records, RG 92).
-- Use FamilySearch record `6X4N-DWWY` as a located title-chain anchor; resolve its cited 1 May 1880 / Deed Book 11 / page 32? reference, then search Lewis County Copley and South Penn indexes for the separate recorded lease and related probate / title records for 1897-1925.
+- Use FamilySearch record `6X4N-DWWY` as a located title-chain anchor; search South Penn as grantee in Film 819926 / DGS 7902191 for the separate recorded lease, then resolve its cited 1 May 1880 / Deed Book 11 / page 32? reference through Book 11 pages 52, 62, 82, and 132.
 - Build a dated household timeline from 1850-1920 census entries.
 
 ## Source Citations

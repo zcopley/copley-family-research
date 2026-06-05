@@ -90,16 +90,16 @@ Archive targets:
 ## Research Gaps
 - Exact lease terms (bonus, royalty percentage, duration, assignments).
 - Recorded lease book/page and names/signatures of every lessor.
-- Exact volume, complete legal description, 55-acre place-name reading, and cited 1 May 1880 / Deed Book 11 / page 32? reference behind the located family exchange deed.
+- Exact volume, complete legal description, 55-acre place-name reading, and cited 1 May 1880 / Deed Book 11 / page 32? reference behind the located family exchange deed; page 32 and the page-92 area are negative, leaving pages 52, 62, 82, and 132 as the strongest next checks.
 - Verified lifetime production and total revenue of Copley No. 1.
 - Precise distribution of oil-derived wealth among heirs.
 - Whether multiple adjacent Copley-linked parcels were leased/drilled.
 
 ### Acquisition Strategies
-- At a FamilySearch Center / FamilySearch Library, search Copley variants in grantor-index Film 819917 / DGS 8219260 and grantee-index Film 819924 / DGS 8135143, then retrieve every referenced deed / lease image.
-- Search South Penn Oil Company in the relevant M-S grantor and N-Z grantee index sections.
+- At a FamilySearch Center / FamilySearch Library, search South Penn Oil Company as grantee in Film 819926 / DGS 7902191, then retrieve every referenced deed / lease image that could involve Copley, Sand Fork, the Copley pool, royalty, assignment, agreement, or suspicious acreage.
+- Treat the Copley grantor-index Film 819917 / DGS 8219260 path as currently negative unless verifying the prior Colvin-to-Cork result.
 - Search specifically for `Copley heirs`, `Michael Copley Heirs 128-Acre Lease`, `Copley Heirs Well No. 1`, `Copley heirs' No. 3`, and Sand Fork / Copley Oil Pool references in deed, lease, royalty, and title-chain records.
-- Use record `6X4N-DWWY` as a located title-chain anchor, not as the oil lease; resolve its cited 1 May 1880 / Deed Book 11 / page 32? reference and search adjacent instruments.
+- Use record `6X4N-DWWY` as a located title-chain anchor, not as the oil lease; resolve its cited 1 May 1880 / Deed Book 11 / page 32? reference by checking Book 11 pages 52, 62, 82, and 132.
 - Build a royalty ledger from probate, tax, and deed references.
 - Cross-check production claims against period trade publications and state reports.
 

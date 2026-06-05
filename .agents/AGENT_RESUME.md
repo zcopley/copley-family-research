@@ -26,19 +26,27 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
 
 ## What Was Just Completed
 
+- Integrated Zach's June 2026 structured Book 11 / grantor-index survey:
+  - preserved the report at `static/sources/claude-oil-title/lewis-county-book11-grantor-index-survey-claude-output.txt`;
+  - recorded that Book 11 image 47 corresponds to approximately pages 92-93, not page 32;
+  - recorded images 47-65 / approximately pages 92-128 as negative for Copley / Hoffman / Sand Fork / 200-acre / 27½-acre / 55-acre / Nonypod / Bungport deed evidence;
+  - narrowed the unresolved 1 May 1880 / Deed Book 11 / page 32? citation to pages 52, 62, 82, and 132 as the strongest next checks;
+  - recorded DGS 008219260 / Film 819917 as currently negative in the Copley grantor direction because the ledger jumps from Colvin at image 305 to Cork at image 306 with no Copley page or entry;
+  - updated reference, evidence, priority, volunteer, execution-kit, topic, person, search-index, Home/index, and changelog language so future work prioritizes the South Penn grantee index in Film 819926 / DGS 7902191.
+
 - Integrated Zach's June 2026 Claude for Chrome Lewis County deed progress report:
   - preserved the report at `static/sources/claude-oil-title/lewis-county-deed-research-progress-book11-copley-south-penn-claude-output.txt`;
   - updated `References/Claude for Chrome 1900 Copley Family Exchange Deed.md` with the corrected citation reading: 1 May 1880, Deed Book No. 11, page 32?;
   - recorded that Deed Book 11, page 32 on DGS 008293286 did not contain a Copley deed, so the page reference remains unresolved;
   - flagged the 55-acre tract place-name reading as unresolved between newer `Nonypod Run of Sand Creek` and earlier `Bungport Run of Cove Lick`;
-  - updated the oil-title note, evidence index, research priorities, volunteer template, execution kit, Home/index, topic, narrative, person, place, search-index, and changelog language so future work starts from Book 11 pages 32-50 / likely misread pages, Deed Book 10 backup, grantor-index images 304-310, and the South Penn grantee path.
+  - superseded by the newer Book 11 / grantor-index survey for exact next steps: do not use the old pages 32-50 or images 304-310 instructions except as historical context.
 
 - Integrated Zach's June 2026 Claude for Chrome identification of FamilySearch record `6X4N-DWWY`:
   - preserved the report at `static/sources/claude-oil-title/1900-michael-copley-legal-instrument-6x4n-dwwy-claude-output.txt`;
   - added `References/Claude for Chrome 1900 Copley Family Exchange Deed.md`;
   - identified the instrument as a family land-exchange deed executed 22 August 1900 and recorded 13 October 1900, not the South Penn oil lease;
   - recorded the parties as Ann Copley, daughters Margaret / Ann / Sarah / Bridget Gillooly, Patrick Gillooly, and grantee John Copley;
-  - recorded the Cove Lick / Bungport Run and Sand Fork title recitals while preserving uncertainty about the exact deed-book volume, complete legal description, and cited 1 May 1878 deed;
+  - recorded the Cove Lick / Bungport Run and Sand Fork title recitals while preserving uncertainty about the exact deed-book volume, complete legal description, and cited older deed;
   - updated evidence, narrative, person, place, priority, search-index, volunteer, and execution-kit pages so `6X4N-DWWY` is used as a title-chain anchor and never returned as the separate oil lease.
 
 - Restored internal-link validation as a committed, deploy-enforced workflow:
