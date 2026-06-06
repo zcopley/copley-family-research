@@ -21,7 +21,7 @@ tags:
 
 He married [[Mary Ellen Dolan Copley]] (date/place unresolved) and the couple had five children: [[Thomas E. Copley]], [[Mary Copley Flesch]], [[Anne Copley (daughter of John Copley)|Anne Copley]], [[Ellen Bernadine Nelle Copley Sardo|Ellen Bernadine "Nelle" Copley Sardo]], and [[Michael Joseph Copley]].
 
-John's household sat at the center of the family's economic transformation following the 1900 **[[Topics/1900 Copley Oil Strike|1900 Copley Oil Strike]]**. Period sources identify the South Penn property as the **Michael Copley Heirs 128-Acre Lease**, but they do not identify the individual lease signers or prove John's ownership share. A separate family exchange deed executed 22 August 1900 names John as grantee and recites an exchange involving his 27½-acre interest in a 200-acre Sand Fork tract. The deed is direct title-chain evidence but contains no oil-lease or royalty language. His generation remains the key bridge between immigrant agrarian roots and later professional mobility of descendants.
+John's household sat at the center of the family's economic transformation following the 1900 **[[Topics/1900 Copley Oil Strike|1900 Copley Oil Strike]]**. Period sources identify the South Penn property as the **Michael Copley Heirs 128-Acre Lease**, and the South Penn grantee index now points to a likely recorded lease by Anna Copley at Deed Book 42 page 267. The underlying lease has not yet been read, so it still does not prove John's ownership share. A separate family exchange deed executed 22 August 1900 names John as grantee and recites an exchange involving his 27½-acre interest in a 200-acre Sand Fork tract. The deed is direct title-chain evidence but contains no oil-lease or royalty language. His generation remains the key bridge between immigrant agrarian roots and later professional mobility of descendants.
 
 ## Lived During
 
@@ -86,12 +86,12 @@ timeline
 1. **Marriage record with Mary Ellen (Q20)** not located.
 2. **Civil War Quartermaster claim (Q28)** unproven.
 3. **Late marriage/childbearing context (Q21)** needs evidence-based explanation.
-4. **Oil lease and inheritance economics (Q24-Q26):** The `Michael Copley Heirs 128-Acre Lease` designation is verified in a 1927 technical publication, and the separate 1900 family exchange deed is located, but the recorded oil lease, signers, shares, royalties, and family financial effect remain unresolved.
+4. **Oil lease and inheritance economics (Q24-Q26):** The `Michael Copley Heirs 128-Acre Lease` designation is verified in a 1927 technical publication, the likely recorded lease is indexed as Anna Copley to South Penn Oil Company at Deed Book 42 page 267, and the separate 1900 family exchange deed is located. The lease image, signers, shares, royalties, and family financial effect remain unresolved.
 
 ## Acquisition Strategy
 - Search civil/church marriage records in Lewis and Marshall county pathways.
 - File NARA military/pension request for all plausible John Copley candidates (including Quartermaster records, RG 92).
-- Use FamilySearch record `6X4N-DWWY` as a located title-chain anchor; search South Penn as grantee in Film 819926 / DGS 7902191 for the separate recorded lease, then resolve its cited 1 May 1880 / Deed Book 11 / page 32? reference through Book 11 pages 52, 62, 82, and 132.
+- Use FamilySearch record `6X4N-DWWY` as a located title-chain anchor; retrieve Deed Book 42 page 267, indexed as Anna Copley to South Penn Oil Company, Lease, 128 acres on Sand Fork; then resolve its cited 1 May 1880 / Deed Book 11 / page 32? reference through Book 11 pages 52, 62, 82, and 132.
 - Build a dated household timeline from 1850-1920 census entries.
 
 ## Source Citations

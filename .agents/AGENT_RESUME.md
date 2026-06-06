@@ -26,6 +26,13 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
 
 ## What Was Just Completed
 
+- Integrated Zach's June 2026 South Penn / Anna Copley lease-index match:
+  - preserved the report at `static/sources/claude-oil-title/south-penn-anna-copley-index-match-claude-output.txt`;
+  - recorded Film 819926 / DGS 007902191, image 310, as indexing Anna Copley to South Penn Oil Company, Lease, Book 42 page 267, 128-A Sand Fk CHD;
+  - updated the oil-title status from unlocated lease to likely lease index entry found / underlying lease unread;
+  - updated reference, evidence, priority, volunteer, execution-kit, topic, person, search-index, Home/index, and changelog language so future work starts by retrieving Deed Book 42 page 267 from Film / DGS 008293301;
+  - preserved the identity caution that `Anna Copley` could be the widow Ann Copley or daughter Anne / Anna Copley until the lease itself is read.
+
 - Integrated Zach's June 2026 structured Book 11 / grantor-index survey:
   - preserved the report at `static/sources/claude-oil-title/lewis-county-book11-grantor-index-survey-claude-output.txt`;
   - recorded that Book 11 image 47 corresponds to approximately pages 92-93, not page 32;

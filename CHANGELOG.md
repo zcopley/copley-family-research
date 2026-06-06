@@ -10,6 +10,16 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4DX - South Penn / Anna Copley Lease Index Match Found (June 6, 2026)
+
+**OIL-TITLE BREAKTHROUGH:** Integrated the South Penn grantee-index match for the likely recorded lease behind the Copley No. 1 oil strike. Film `819926` / DGS `007902191`, image 310, indexes **Anna Copley to South Penn Oil Company**, **Lease**, **Book 42 page 267**, **128-A Sand Fk CHD**. This is the first direct deed-index hit matching the target grantee, Copley name, instrument type, 128-acre acreage, and Sand Fork location. The underlying lease has not yet been read, so lessors, dates, royalty terms, and exact relationship to the published `Michael Copley Heirs 128-Acre Lease` remain open.
+
+### Updated Pages
+
+- [[References/Claude for Chrome Copley Heirs Oil Title Search|Claude for Chrome Copley Heirs Oil Title Search]] - added the South Penn / Anna Copley index-match table and shifted next work to retrieving Deed Book 42 page 267.
+- [[References/Claude for Chrome 1900 Copley Family Exchange Deed|Claude for Chrome 1900 Copley Family Exchange Deed]], [[Topics/1900 Copley Oil Strike|1900 Copley Oil Strike]], [[People/Michael Copley Sr|Michael Copley Sr.]], [[People/John Copley|John Copley]], [[People/Ann Copley|Ann Copley]], [[People/Anne Copley (b. 1850)|Anne Copley]], [[Sources and Evidence Index]], [[Research Priorities and Action Items]], [[Volunteer Record Request Tasks]], [[Tier 1 Research Execution Kit]], [[Search Index]], [[Home]], and `index.md` - updated the oil-title status from unlocated lease to indexed lease / unread underlying instrument.
+- `static/sources/claude-oil-title/south-penn-anna-copley-index-match-claude-output.txt` - preserved the match report.
+
 ## Phase 4DW - Book 11 and Grantor-Index Survey Integrated (June 4, 2026)
 
 **OIL-TITLE UPDATE:** Integrated the structured Lewis County Book 11 / grantor-index survey. The Book 11 image map is now calibrated: image 47 corresponds to approximately pages 92-93, not page 32. Images 47-65 / approximately pages 92-128 were checked with no Copley, Hoffman, Sand Fork, 200-acre, 27½-acre, 55-acre, Nonypod, or Bungport deed found. Book 11 page 32 remains negative from the prior pass, so the strongest remaining candidates for the older 1 May 1880 deed citation are now pages **52, 62, 82, and 132**.

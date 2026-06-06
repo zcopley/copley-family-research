@@ -85,7 +85,7 @@ The precise relationship between the recited 55 acres and the final 79-acre / 48
 
 The deed contains **no oil, gas, mineral-rights, royalty, lease, or South Penn language**. It therefore does not identify the lessors or terms of the separate **Michael Copley Heirs 128-Acre Lease**.
 
-It is still highly relevant because it documents a family title rearrangement affecting the 55-acre tract and Sand Fork land immediately before South Penn completed **Michael Copley Heirs well No. 1** on **13 September 1900**. The timing makes it a key title-chain record, but the reason for the exchange and its relationship to the oil lease remain unproven.
+It is still highly relevant because it documents a family title rearrangement affecting the 55-acre tract and Sand Fork land immediately before South Penn completed **Michael Copley Heirs well No. 1** on **13 September 1900**. A later grantee-index search found the likely separate lease as **Anna Copley to South Penn Oil Company, Lease, Deed Book 42 page 267, 128 acres on Sand Fork**, but the underlying lease image still needs to be read before the relationship between the exchange deed and lease can be interpreted.
 
 The deed should **not** be interpreted as consolidating the Sand Fork tract in John's name. Its recital says the family exchange involved **John's 27½-acre Sand Fork interest** as consideration for the interest conveyed to him.
 
@@ -109,7 +109,7 @@ The FamilySearch relationship string is malformed. It incorrectly treats decease
 
 ## Next Records
 
-1. Locate the separate South Penn Oil Company lease behind the `Michael Copley Heirs 128-Acre Lease`.
+1. Retrieve and transcribe **Deed Book 42, page 267** in Film / DGS **008293301**, indexed as Anna Copley to South Penn Oil Company, Lease, 128 acres on Sand Fork.
 2. Resolve the cited **1 May 1880, Deed Book No. 11, page 32?** reference by checking Book 11 candidate pages **52, 62, 82, and 132** first; only then check pages **232** and **322**.
 3. Treat the DGS **008219260** / Film **819917** Copley grantor-index path as currently negative because the relevant index sequence jumps from Colvin to Cork at images 305-306 with no Copley page or entry.
 4. Search the **South Penn grantee path** in Film **819926** / DGS **7902191** under South Penn / South Penn Oil / South Penn Oil Company and related variants.

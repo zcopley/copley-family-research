@@ -136,6 +136,6 @@ The will closes the immediate "find Michael's will" task. The next probate / est
 - Any Michael Copley **estate settlement, appraisement, inventory, administrator's bond, sale bill, or personal-property account** after March 1897.
 - FamilySearch Film 250047 / DGS 7617564, `Wills, inventories, etc., Lewis County, 1853-1899` and `Inventories, etc., Lewis County, 1853-1900`, requiring FamilySearch Library / FamilySearch Center access.
 - Lewis County chancery / equity / partition / heirship records, 1897-1915.
-- Oil-title, deed, lease, royalty, partition, and `Michael Copley Heirs 128-Acre Lease` records after the 1900 oil strike; start with grantor-index Film 819917 / DGS 8219260 and grantee-index Film 819924 / DGS 8135143.
+- Oil-title, deed, lease, royalty, partition, and `Michael Copley Heirs 128-Acre Lease` records after the 1900 oil strike; next retrieve Deed Book 42 page 267 from Film / DGS 008293301, indexed as Anna Copley to South Penn Oil Company, Lease, 128 acres on Sand Fork.
 - West Virginia and Regional History Center remote reference / reproduction request for any accessible copies tied to Film 250047 or the Copley Heirs Well No. 1 / James Pietro Papers material.
 - Naturalization or Irish church records for parentage specifically, because the will itself does not name parents.

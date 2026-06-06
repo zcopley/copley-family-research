@@ -27,6 +27,8 @@ She married [[Michael Copley Sr|Michael Copley]] (date/place unknown) and lived 
 
 On **22 August 1900**, Ann joined daughters Margaret, Ann, Sarah, and Bridget Gillooly, Bridget's husband Patrick, and son John in a family land-exchange deed involving Sand Fork and 55-acre tract interests. Ann signed by mark. The deed directly confirms her participation in the post-Michael property arrangement but does not state a maiden surname or contain oil-lease terms. See [[References/Claude for Chrome 1900 Copley Family Exchange Deed]].
 
+A separate South Penn grantee-index entry now identifies **Anna Copley to South Penn Oil Company**, Lease, Deed Book 42 page 267, for **128 acres on Sand Fork**. Because the family has both widow Ann and daughter Anne / Anna in the 1900 title context, do not assign that lease entry to one woman until the underlying lease is read. See [[References/Claude for Chrome Copley Heirs Oil Title Search]].
+
 A persistent family tradition states that her father drowned in the Potomac River. This is plausible in context but currently unverified by contemporary records.
 
 ## Lived During

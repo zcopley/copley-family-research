@@ -18,6 +18,8 @@ tags:
 
 She appears as a signing party in the 22 August 1900 family exchange deed with her mother, sisters Margaret, Sarah, and Bridget Gillooly, Bridget's husband Patrick, and brother John. The deed directly places her in the family's Cove Lick / Sand Fork title arrangement. See [[References/Claude for Chrome 1900 Copley Family Exchange Deed]].
 
+A South Penn grantee-index entry now identifies **Anna Copley to South Penn Oil Company**, Lease, Deed Book 42 page 267, for **128 acres on Sand Fork**. This may refer to this Anne / Anna Copley or to her mother Ann Copley; the underlying lease has not yet been read, so the identity should remain open. See [[References/Claude for Chrome Copley Heirs Oil Title Search]].
+
 ## Family Relationships
 - Parents: [[Michael Copley Sr|Michael Copley]], [[Ann Copley]]
 - Spouse: none reported
@@ -35,6 +37,7 @@ She appears as a signing party in the 22 August 1900 family exchange deed with h
 1. Exact birth and death certificate references.
 2. Residence chronology after 1870.
 3. Burial location and obituary.
+4. Whether the Anna Copley indexed as South Penn lessor in Deed Book 42 page 267 is this daughter or her mother.
 
 ## Acquisition Strategy
 - Build a census-only baseline (1850-1920) for unmarried women named Anne/Ann Copley in Lewis County.
