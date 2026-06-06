@@ -1,0 +1,44 @@
+MATCH REPORT: Anna Copley Index Entry
+
+Film / DGS: Film 819926 / DGS 007902191, Lewis County, West Virginia, General Index to Deeds and Oil & Gas Leases, Grantee Index N-Z, 1817-1934
+
+Image number: 310 of 630
+
+Image ARK: 3:1:3Q9M-CS4Y-2QBZ-2
+
+Exact index heading: "General Index to Deeds and Oil & Gas Leases -- Lewis County [WV]"; left-page section headed "Leases -- Lewis County"; columns include GRANTORS, Kind of Instrument, RECORD BOOK, Page, and acreage / district.
+
+Full index line:
+
+| Grantee | Grantor | Instrument | Book | Page | Acreage / District |
+|---|---|---|---|---|---|
+| South Penn Oil Company | Anna Copley | Lease | 42 | 267 | 128-A Sand Fk CHD |
+
+Grantor: Anna Copley
+Grantee: South Penn Oil Company
+Instrument type: Lease
+Date: date columns blank in the index line
+Book and page: Deed Book 42, page 267
+Acreage / district notes: 128 acres, Sand Fork, CHD, likely Court House District or Center Hill District
+
+Surrounding entries on the same index page:
+
+- Caroline Beeghley to South Penn Oil Company, Lease, Book 42, page 266, 250-A W Fk River FCD
+- Anna Copley to South Penn Oil Company, Lease, Book 42, page 267, 128-A Sand Fk CHD
+- Gay R Collins to South Penn Oil Company, Lease, Book 42, page 268, Glenville & Court H[ouse], 142-A Butchers Fk
+
+Underlying lease image status:
+
+The underlying lease has not yet been retrieved. The deed-book film was identified as Film / DGS 008293301, Lewis County courthouse deeds, Book 38+, years 1899-1902. Book 42, page 267 should be in that film, but the exact image was not yet opened.
+
+Significance:
+
+This is a direct hit for the recorded South Penn lease target: a Copley grantor, South Penn Oil Company as grantee, a lease instrument, Book 42 page 267, and 128 acres on Sand Fork. It likely corresponds to the "Michael Copley Heirs 128-Acre Lease" identified in period oil publications, but that interpretation still requires direct reading of the underlying lease.
+
+Recommended next steps:
+
+1. Open Deed Book 42, page 267, in Film / DGS 008293301 and read the full lease instrument.
+2. Extract exact execution date, recording date, all named parties, property description, lease terms, royalty terms, witnesses / acknowledgments, and any reference to Michael Copley heirs.
+3. Continue South Penn grantee-index images 311-312 and 316-320 for additional Copley-related entries.
+4. Check Standard Oil and Eureka Pipe Line sections of Film / DGS 007902191 for further Copley entries.
+5. Check Deed Book 11 pages 52, 62, 82, and 132 in DGS 008293286 as the secondary title-chain task.
