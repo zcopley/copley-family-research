@@ -96,7 +96,7 @@ Archive targets:
 - Whether multiple adjacent Copley-linked parcels were leased/drilled.
 
 ### Acquisition Strategies
-- Request Deed Book 42 page 267 from the Lewis County Clerk or an offline microfilm source; it is indexed as Anna Copley to South Penn Oil Company, Lease, 128 acres on Sand Fork.
+- Send the VR-06 certified-copy request for Deed Book 42 page 267 to the Lewis County Clerk or an offline microfilm source; it is indexed as Anna Copley to South Penn Oil Company, Lease, 128 acres on Sand Fork.
 - Use the online Book 39 page 138 lease as companion context, then check Standard Oil and Eureka Pipe Line sections for Copley-related entries.
 - Treat the Copley grantor-index Film 819917 / DGS 8219260 path as currently negative unless verifying the prior Colvin-to-Cork result.
 - Search specifically for `Copley heirs`, `Michael Copley Heirs 128-Acre Lease`, `Copley Heirs Well No. 1`, `Copley heirs' No. 3`, and Sand Fork / Copley Oil Pool references in deed, lease, royalty, and title-chain records.

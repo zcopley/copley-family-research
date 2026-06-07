@@ -22,13 +22,15 @@ This note preserves Zach's June 2026 Claude for Chrome search for the oil-title 
 
 [Download Anna Copley / South Penn Book 39 and Book 42 follow-up report](../static/sources/claude-oil-title/anna-copley-south-penn-book39-book42-claude-output.txt)
 
+[Download Book 42 certified-copy request summary](../static/sources/claude-oil-title/book42-certified-copy-request-claude-output.txt)
+
 ## Main Result
 
 Period oil-industry and newspaper sources now establish that South Penn Oil Company operated a **128-acre lease formally designated for the heirs of Michael Copley**. David B. Reger's 1927 AAPG article says the Copley pool opened on **13 September 1900** with the completion of the `Michael Copley Heirs well No. 1`, and its production table is titled `Production Record of Michael Copley Heirs 128-Acre Lease, as Furnished by South Penn Company`.
 
 This is stronger than a generic family-name association. It connects the oil property specifically to Michael Copley's heirs.
 
-The South Penn grantee index now identifies a likely recorded Sand Fork lease: **Anna Copley to South Penn Oil Company, Lease, Deed Book 42, page 267, 128 acres on Sand Fork**. The underlying Book 42 lease was **not available in the online FamilySearch deed-book images checked**, so the individual signers, execution date, ownership shares, lease terms, royalty rate, and distribution of proceeds remain unresolved.
+The South Penn grantee index now identifies a likely recorded Sand Fork lease: **Anna Copley to South Penn Oil Company, Lease, Deed Book 42, page 267, 128 acres on Sand Fork**. The latest offline-request summary transcribes the index line as `South Penn Oil Company - Anna Copley - Lease - Book 42, Page 267 - 128-A - Sand Fk - ORD - Glenville & Court House - 1899`. The underlying Book 42 lease was **not available in the online FamilySearch deed-book images checked**, so the individual signers, execution date, ownership shares, lease terms, royalty rate, and distribution of proceeds remain unresolved.
 
 A separate online **companion lease** was found at **Deed Book 39, page 138**. It names Anna Copley, Bridget Copley, Margrett / Margaret Copley, and Sarah E. Copley as lessors to South Penn Oil Company for a Court House District / Land Fork tract. This accessible lease confirms the family was executing South Penn oil-and-gas leases in July 1899, but it is not the indexed 128-acre Sand Fork lease at Book 42 page 267. A later image check identified the previously unresolved 1900 FamilySearch legal instrument as a separate family land-exchange deed; see [[References/Claude for Chrome 1900 Copley Family Exchange Deed]].
 
@@ -86,7 +88,7 @@ The high-priority South Penn grantee-index search produced a direct index match:
 
 Surrounding entries place the Anna Copley lease between Caroline Beeghley to South Penn Oil Company, Book 42 page 266, and Gay R. Collins to South Penn Oil Company, Book 42 page 268. The index line is a strong candidate for the recorded `Michael Copley Heirs 128-Acre Lease`, but that identification must remain provisional until Deed Book 42 page 267 is read directly.
 
-The follow-up report states that Book 42 was not accessible in the online FamilySearch deed-book coverage checked. Treat Book 42 page 267 as a courthouse / offline microfilm request rather than an online image target.
+The follow-up reports state that Book 42 was not accessible in the online FamilySearch deed-book coverage checked. Treat Book 42 page 267 as a courthouse / offline microfilm request rather than an online image target. The current direct recipient is the Lewis County Clerk's Office, 110 Center Avenue, Weston, WV 26452; the official county page lists phone `304-269-8215`, fax `304-269-8202`, and `lewiscountyclerk@lewiscountywv.org`.
 
 ## Online Companion Lease
 
@@ -119,7 +121,7 @@ FamilySearch catalog: [Deeds, 1817-1902; deed index, 1817-1965](https://www.fami
 
 | Search target | Film / DGS | Reason |
 |---|---|---|
-| Deed Book 42, page 267 | Lewis County Clerk / offline microfilm | Request the indexed Anna Copley lease to South Penn Oil Company; not available in the online FamilySearch images checked. |
+| Deed Book 42, page 267 | Lewis County Clerk / offline microfilm | Send the certified-copy request for the indexed Anna Copley lease to South Penn Oil Company; not available in the online FamilySearch images checked. |
 | Deed Book 39, page 138 | Film / DGS 008293301, image 444 | Accessible companion lease: Anna, Bridget, Margaret, and Sarah E. Copley to South Penn Oil Company. |
 | Grantee index N-Z, 1817-1934 | Film 819926 / DGS 7902191 | Anna Copley lease match found at image 310; no additional Copley entries found in checked South Penn pages 266-321+. |
 | Grantor index A-E, 1817-1934 | Film 819917 / DGS 8219260 | Currently negative in the relevant Copley zone unless verifying the prior Colvin-to-Cork result. |
@@ -153,7 +155,7 @@ The report says these images are restricted to FamilySearch Center / FamilySearc
 
 ## Next Records
 
-1. Request **Deed Book 42, page 267** from the Lewis County Clerk or an available offline FamilySearch / courthouse microfilm source.
+1. Send the certified-copy request for **Deed Book 42, page 267** to the Lewis County Clerk or an available offline FamilySearch / courthouse microfilm source. Request all pages, acknowledgments, notarial certificates, recording certificate, and fee instructions.
 2. Transcribe the full Book 42 Sand Fork lease, including execution date, recording date, every named party, marital status / spouse acknowledgments, property description, lease term, royalty, delay rental, assignment clause, witnesses, notaries, and recording certificate.
 3. Use the online Book 39 page 138 companion lease as context for expected South Penn form language, but do not substitute it for the 128-acre Sand Fork lease.
 4. Check the Standard Oil section farther along Film / DGS 007902191 for Copley-related entries.
