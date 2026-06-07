@@ -29,7 +29,7 @@ Welcome to the Copley family research vault. This project consolidates evidence,
 
 ## What's New / Recently Clarified
 
-- The likely recorded South Penn lease behind Copley No. 1 is now indexed: **Anna Copley to South Penn Oil Company**, Lease, **Deed Book 42 page 267**, **128 acres on Sand Fork**. The underlying lease still needs to be opened and transcribed. FamilySearch record `6X4N-DWWY` remains a separate August 1900 family land-exchange deed, not the lease.
+- The likely recorded South Penn lease behind Copley No. 1 is now indexed: **Anna Copley to South Penn Oil Company**, Lease, **Deed Book 42 page 267**, **128 acres on Sand Fork**. Book 42 was not available in the online FamilySearch images checked, so the next step is a Lewis County Clerk / offline microfilm request. A related online companion lease at Book 39 page 138 names Anna, Bridget, Margaret, and Sarah E. Copley as South Penn lessors for a Land Fork tract.
 - Tom Copley's May 2026 corrections downgrade two earlier AI-assisted leads: the *Calendar of State Papers* Arigna/Copley citation is treated as fabricated, and Ann remains recorded as Munday unless a direct record proves otherwise. Tom's May 25 clarification also says the settlement surname is **Murray** and pronounced "Mur-ray," while the Ann-as-Murray idea is probably mistaken.
 - [[Family Tree]] is now a branch-by-branch relationship guide instead of one giant hard-to-read chart.
 - [[Who Was Alive When]] now gives a chronology-first view of overlapping generations and key family eras.

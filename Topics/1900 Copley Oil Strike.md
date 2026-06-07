@@ -37,7 +37,7 @@ Broader forces shaping the event:
 
 Family tradition and synthesis documents consistently frame the strike as the major economic inflection point that helped support later educational and professional advancement in the family’s 20th-century branches.
 
-June 2026 oil-title work substantially strengthened the property identification. Period sources use **Copley heirs' farm**, **Copley heirs' No. 3**, **Michael Copley Heirs well No. 1**, and the formal South Penn company designation **Michael Copley Heirs 128-Acre Lease**. The South Penn grantee index now identifies a likely recorded lease: **Anna Copley to South Penn Oil Company, Lease, Deed Book 42 page 267, 128 acres on Sand Fork**. The underlying lease still needs direct reading before the individual signers, ownership shares, and financial terms can be stated. See [[References/Claude for Chrome Copley Heirs Oil Title Search]].
+June 2026 oil-title work substantially strengthened the property identification. Period sources use **Copley heirs' farm**, **Copley heirs' No. 3**, **Michael Copley Heirs well No. 1**, and the formal South Penn company designation **Michael Copley Heirs 128-Acre Lease**. The South Penn grantee index identifies a likely recorded Sand Fork lease: **Anna Copley to South Penn Oil Company, Lease, Deed Book 42 page 267, 128 acres on Sand Fork**. Book 42 was not available in the online FamilySearch deed-book images checked. A separate online companion lease at **Book 39 page 138** names Anna, Bridget, Margaret, and Sarah E. Copley as lessors to South Penn for a Land Fork tract. See [[References/Claude for Chrome Copley Heirs Oil Title Search]].
 
 A separate family exchange deed, executed **22 August 1900**, records [[People/Ann Copley|Ann Copley]], daughters Margaret, Ann, Sarah, and Bridget Gillooly, Bridget's husband Patrick, and [[People/John Copley|John Copley]] rearranging interests involving Sand Fork and a 55-acre tract whose place-name reading remains unresolved. The deed was recorded **13 October 1900**, one month after the strike, and contains no oil, gas, mineral, royalty, lease, or South Penn language. It is important title-chain evidence, but it is not the 128-acre oil lease. See [[References/Claude for Chrome 1900 Copley Family Exchange Deed]].
 
@@ -88,16 +88,16 @@ Archive targets:
 - Lewis County probate files for John Copley estate.
 
 ## Research Gaps
-- Exact lease terms (bonus, royalty percentage, duration, assignments) from Deed Book 42 page 267.
-- Names/signatures of every lessor on the Anna Copley / South Penn lease.
+- Exact lease terms (bonus, royalty percentage, duration, assignments) from the Book 42 page 267 Sand Fork lease.
+- Names/signatures of every lessor on the Book 42 Anna Copley / South Penn lease.
 - Exact volume, complete legal description, 55-acre place-name reading, and cited 1 May 1880 / Deed Book 11 / page 32? reference behind the located family exchange deed; page 32 and the page-92 area are negative, leaving pages 52, 62, 82, and 132 as the strongest next checks.
 - Verified lifetime production and total revenue of Copley No. 1.
 - Precise distribution of oil-derived wealth among heirs.
 - Whether multiple adjacent Copley-linked parcels were leased/drilled.
 
 ### Acquisition Strategies
-- Retrieve and transcribe Deed Book 42 page 267 in Film / DGS 008293301, indexed as Anna Copley to South Penn Oil Company, Lease, 128 acres on Sand Fork.
-- Continue South Penn grantee-index images 311-312 and 316-320, then check Standard Oil and Eureka Pipe Line sections for Copley-related entries.
+- Request Deed Book 42 page 267 from the Lewis County Clerk or an offline microfilm source; it is indexed as Anna Copley to South Penn Oil Company, Lease, 128 acres on Sand Fork.
+- Use the online Book 39 page 138 lease as companion context, then check Standard Oil and Eureka Pipe Line sections for Copley-related entries.
 - Treat the Copley grantor-index Film 819917 / DGS 8219260 path as currently negative unless verifying the prior Colvin-to-Cork result.
 - Search specifically for `Copley heirs`, `Michael Copley Heirs 128-Acre Lease`, `Copley Heirs Well No. 1`, `Copley heirs' No. 3`, and Sand Fork / Copley Oil Pool references in deed, lease, royalty, and title-chain records.
 - Use record `6X4N-DWWY` as a located title-chain anchor, not as the oil lease; resolve its cited 1 May 1880 / Deed Book 11 / page 32? reference by checking Book 11 pages 52, 62, 82, and 132.

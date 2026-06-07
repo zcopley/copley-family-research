@@ -26,11 +26,18 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
 
 ## What Was Just Completed
 
+- Integrated Zach's June 2026 Anna Copley / South Penn Book 39 and Book 42 follow-up:
+  - preserved the report at `static/sources/claude-oil-title/anna-copley-south-penn-book39-book42-claude-output.txt`;
+  - recorded that Book 42 page 267 remains indexed as Anna Copley to South Penn Oil Company, Lease, 128 acres Sand Fork, but was not available in the online FamilySearch deed-book images checked;
+  - recorded the accessible companion lease at Book 39 page 138, Film / DGS 008293301 image 444, naming Anna Copley, Bridget Copley, Margrett / Margaret Copley, and Sarah E. Copley as lessors to South Penn Oil Company;
+  - updated next actions so Book 42 page 267 is a Lewis County Clerk / offline microfilm request, with Book 39 page 138 used only as companion context;
+  - updated reference, evidence, priority, volunteer, execution-kit, topic, person, search-index, Home/index, and changelog language.
+
 - Integrated Zach's June 2026 South Penn / Anna Copley lease-index match:
   - preserved the report at `static/sources/claude-oil-title/south-penn-anna-copley-index-match-claude-output.txt`;
-  - recorded Film 819926 / DGS 007902191, image 310, as indexing Anna Copley to South Penn Oil Company, Lease, Book 42 page 267, 128-A Sand Fk CHD;
+  - recorded Film 819926 / DGS 007902191, image 310, as indexing Anna Copley to South Penn Oil Company, Lease, Book 42 page 267, 128-A Sand Fk, with the district / abbreviation later refined in the Book 39 / Book 42 follow-up;
   - updated the oil-title status from unlocated lease to likely lease index entry found / underlying lease unread;
-  - updated reference, evidence, priority, volunteer, execution-kit, topic, person, search-index, Home/index, and changelog language so future work starts by retrieving Deed Book 42 page 267 from Film / DGS 008293301;
+  - superseded by the Book 39 / Book 42 follow-up for access status: Book 42 page 267 is now a clerk / offline microfilm request, not an online DGS 008293301 retrieval;
   - preserved the identity caution that `Anna Copley` could be the widow Ann Copley or daughter Anne / Anna Copley until the lease itself is read.
 
 - Integrated Zach's June 2026 structured Book 11 / grantor-index survey:

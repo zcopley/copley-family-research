@@ -10,6 +10,16 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4DY - Companion South Penn Lease Found; Book 42 Offline (June 6, 2026)
+
+**OIL-TITLE UPDATE:** Integrated the follow-up Anna Copley / South Penn report. The previously indexed **Book 42 page 267** Sand Fork lease remains the likely target for the published `Michael Copley Heirs 128-Acre Lease`, but Book 42 was not available in the online FamilySearch deed-book images checked. A related online companion lease was found at **Book 39 page 138**, Film / DGS `008293301`, image 444: Anna Copley, Bridget Copley, Margrett / Margaret Copley, and Sarah E. Copley leased a Land Fork tract to South Penn Oil Company on **18 July 1899**, recorded **6 February 1900**.
+
+### Updated Pages
+
+- [[References/Claude for Chrome Copley Heirs Oil Title Search|Claude for Chrome Copley Heirs Oil Title Search]] - added the Book 39 page 138 companion lease and changed Book 42 page 267 from online retrieval target to Lewis County Clerk / offline microfilm request.
+- [[References/Claude for Chrome 1900 Copley Family Exchange Deed|Claude for Chrome 1900 Copley Family Exchange Deed]], [[Topics/1900 Copley Oil Strike|1900 Copley Oil Strike]], [[People/Michael Copley Sr|Michael Copley Sr.]], [[People/John Copley|John Copley]], [[People/Ann Copley|Ann Copley]], [[People/Anne Copley (b. 1850)|Anne Copley]], [[Sources and Evidence Index]], [[Research Priorities and Action Items]], [[Volunteer Record Request Tasks]], [[Tier 1 Research Execution Kit]], [[Search Index]], [[Home]], and `index.md` - updated next steps and evidence status around Book 39 / Book 42.
+- `static/sources/claude-oil-title/anna-copley-south-penn-book39-book42-claude-output.txt` - preserved the follow-up report.
+
 ## Phase 4DX - South Penn / Anna Copley Lease Index Match Found (June 6, 2026)
 
 **OIL-TITLE BREAKTHROUGH:** Integrated the South Penn grantee-index match for the likely recorded lease behind the Copley No. 1 oil strike. Film `819926` / DGS `007902191`, image 310, indexes **Anna Copley to South Penn Oil Company**, **Lease**, **Book 42 page 267**, **128-A Sand Fk CHD**. This is the first direct deed-index hit matching the target grantee, Copley name, instrument type, 128-acre acreage, and Sand Fork location. The underlying lease has not yet been read, so lessors, dates, royalty terms, and exact relationship to the published `Michael Copley Heirs 128-Acre Lease` remain open.

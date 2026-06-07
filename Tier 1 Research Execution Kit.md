@@ -476,13 +476,14 @@ Subject: Lewis County WV oil lease / royalty / probate lookup - Copley No. 1, 18
 
 Hello,
 
-I am researching the South Penn Oil Company's "Michael Copley Heirs 128-Acre Lease" on Sand Fork in Lewis County. Period sources identify "Michael Copley Heirs well No. 1" as the pool-opening well completed 13 September 1900. The grantee index now identifies a likely recorded lease: Anna Copley to South Penn Oil Company, Lease, Deed Book 42, page 267, 128 acres on Sand Fork. I am looking for that full lease and related land, royalty, mineral-rights, title-chain, probate, partition, or estate records.
+I am researching the South Penn Oil Company's "Michael Copley Heirs 128-Acre Lease" on Sand Fork in Lewis County. Period sources identify "Michael Copley Heirs well No. 1" as the pool-opening well completed 13 September 1900. The grantee index identifies a likely recorded lease: Anna Copley to South Penn Oil Company, Lease, Deed Book 42, page 267, 128 acres on Sand Fork. Book 42 was not available in the online FamilySearch deed-book images checked. I am looking for that full lease and related land, royalty, mineral-rights, title-chain, probate, partition, or estate records.
 
 A related family exchange deed is already located at FamilySearch record `6X4N-DWWY`, DGS `008293301`, image `245`, pages 422-423. It was executed 22 August 1900 and recorded 13 October 1900. It is not the oil lease; please use it as a title-chain anchor and do not return it as the requested South Penn instrument. Its cited older deed now reads 1 May 1880, Deed Book 11, page 32?. Book 11 page 32 and the page-92 area are negative; pages 52, 62, 82, and 132 are the strongest remaining candidates.
 
 Could you please advise how to search or request copies for:
 
 - The lease indexed as Anna Copley to South Penn Oil Company, Deed Book 42, page 267, 128 acres on Sand Fork
+- The companion lease at Deed Book 39 page 138, Film / DGS 008293301 image 444, naming Anna, Bridget, Margaret, and Sarah E. Copley as South Penn lessors for a Land Fork tract
 - Other oil and gas leases involving Michael Copley's heirs, John Copley, Copley variants, or South Penn Oil Company, roughly 1897-1910
 - Royalty assignments or mineral-rights records
 - Title-chain records for the 128-acre farm / lease containing Copley No. 1
@@ -497,11 +498,12 @@ For each record, I am hoping to capture book/page, date, parties, land descripti
 
 | Target | Film / DGS | Search |
 |---|---|---|
-| Deed books v. 38+ / Book 42 | Film / DGS 008293301 | Retrieve Book 42, page 267, Anna Copley to South Penn Oil Company lease |
+| Deed Book 42 | Lewis County Clerk / offline microfilm | Request Book 42, page 267, Anna Copley to South Penn Oil Company lease |
+| Deed Book 39 | Film / DGS 008293301 image 444 | Companion lease, Book 39 page 138, Anna / Bridget / Margaret / Sarah E. Copley to South Penn Oil Company |
 | Grantor index A-E, 1817-1934 | Film 819917 / DGS 8219260 | Already negative in the relevant Copley zone unless verifying: Colvin at image 305 jumps to Cork at image 306 with no Copley page or entry |
 | Grantee index A-F, 1817-1934 | Film 819924 / DGS 8135143 | Copley variants, 1897-1910 |
 | Grantor index M-S, 1817-1934 | Film 819919 / DGS 8293317 | South Penn Oil Company |
-| Grantee index N-Z, 1817-1934 | Film 819926 / DGS 7902191 | Anna Copley lease match found at image 310; continue South Penn images 311-312 and 316-320 |
+| Grantee index N-Z, 1817-1934 | Film 819926 / DGS 7902191 | Anna Copley lease match found at image 310; reported South Penn pages checked had no other Copley entries |
 | Deed Book 11 | DGS 008293286 | Candidate pages 52, 62, 82, and 132 for the older 1 May 1880 deed |
 
 Capture each full index line, headings, image number, instrument type, date, parties, book/page, and marginal notation. Retrieve the underlying deed / lease image whenever possible. Preserve record `6X4N-DWWY` as a located family exchange deed, not the South Penn lease, and use the original image rather than its malformed FamilySearch relationship index. Do not repeat the older 1878 / page 321 reading unless a new image pass proves it, and do not repeat the Copley grantor-index search unless verifying the documented Colvin-to-Cork negative.
