@@ -24,6 +24,8 @@ This note preserves Zach's June 2026 Claude for Chrome search for the oil-title 
 
 [Download Book 42 certified-copy request summary](../static/sources/claude-oil-title/book42-certified-copy-request-claude-output.txt)
 
+[Download Standard Oil / Eureka deed-index check report](../static/sources/claude-oil-title/standard-oil-eureka-deed-index-check-claude-output.txt)
+
 ## Main Result
 
 Period oil-industry and newspaper sources now establish that South Penn Oil Company operated a **128-acre lease formally designated for the heirs of Michael Copley**. David B. Reger's 1927 AAPG article says the Copley pool opened on **13 September 1900** with the completion of the `Michael Copley Heirs well No. 1`, and its production table is titled `Production Record of Michael Copley Heirs 128-Acre Lease, as Furnished by South Penn Company`.
@@ -123,10 +125,10 @@ FamilySearch catalog: [Deeds, 1817-1902; deed index, 1817-1965](https://www.fami
 |---|---|---|
 | Deed Book 42, page 267 | Lewis County Clerk / offline microfilm | Send the certified-copy request for the indexed Anna Copley lease to South Penn Oil Company; not available in the online FamilySearch images checked. |
 | Deed Book 39, page 138 | Film / DGS 008293301, image 444 | Accessible companion lease: Anna, Bridget, Margaret, and Sarah E. Copley to South Penn Oil Company. |
-| Grantee index N-Z, 1817-1934 | Film 819926 / DGS 7902191 | Anna Copley lease match found at image 310; no additional Copley entries found in checked South Penn pages 266-321+. |
+| Grantee index N-Z, 1817-1934 | Film 819926 / DGS 7902191 | Anna Copley lease match found at image 310; no additional Copley entries found in checked South Penn pages 266-321+. Standard Oil is now a bounded negative in images 310-360; image 358 jumps from Stalnaker to Swisher with no Standard Oil heading or entries. |
 | Grantor index A-E, 1817-1934 | Film 819917 / DGS 8219260 | Currently negative in the relevant Copley zone unless verifying the prior Colvin-to-Cork result. |
 | Grantor index M-S, 1817-1934 | Film 819919 / DGS 8293317 | Search South Penn Oil Company if company grantor entries are useful. |
-| Grantee index A-F, 1817-1934 | Film 819924 / DGS 8135143 | Search Copley variants as grantee. |
+| Grantee index A-F, 1817-1934 | Film 819924 / DGS 8135143 | Not sufficient for Eureka Pipe Line: the firms / corporations section reaches only Ba-Br and then cuts to a new grantor-index volume. Locate the continuation film for C-F companies before searching Eureka. |
 | Grantee index G-M, 1817-1934 | Film 819925 / DGS 8293314 | Search Michael / heirs only if indexed under a nonstandard heading. |
 
 The report says these images are restricted to FamilySearch Center / FamilySearch Library access. Once an index entry yields a deed book and page, retrieve the corresponding deed-book image from the same catalog series.
@@ -142,6 +144,7 @@ The report says these images are restricted to FamilySearch Center / FamilySearc
 - The No. 1 well was completed on 13 September 1900.
 - Contemporary sources used `Copley heirs' farm` and `Copley heirs' No. 3`.
 - The 1900 FamilySearch legal-instrument lead is a separate family exchange deed affecting Sand Fork and 55-acre tract title, not the South Penn lease.
+- The Standard Oil grantee-index path in Film 819926 / DGS 007902191 is closed as a bounded negative: images 310-360 show South Penn, Smith, Stalnaker, then Swisher, with no Standard Oil / Standard Oil Company page or Copley-related entry.
 
 **Still unresolved:**
 
@@ -152,14 +155,15 @@ The report says these images are restricted to FamilySearch Center / FamilySearc
 - Book 42 royalty, bonus, term, and assignment provisions.
 - Whether another partition, administrator conveyance, or court order preceded the lease.
 - Direct proof that oil income financed later education.
+- The continuation film for the Lewis County Grantee A-F Firms & Corporations pages after "Br", needed to complete the Eureka Pipe Line check.
 
 ## Next Records
 
 1. Send the certified-copy request for **Deed Book 42, page 267** to the Lewis County Clerk or an available offline FamilySearch / courthouse microfilm source. Request all pages, acknowledgments, notarial certificates, recording certificate, and fee instructions.
 2. Transcribe the full Book 42 Sand Fork lease, including execution date, recording date, every named party, marital status / spouse acknowledgments, property description, lease term, royalty, delay rental, assignment clause, witnesses, notaries, and recording certificate.
 3. Use the online Book 39 page 138 companion lease as context for expected South Penn form language, but do not substitute it for the 128-acre Sand Fork lease.
-4. Check the Standard Oil section farther along Film / DGS 007902191 for Copley-related entries.
-5. Check Eureka Pipe Line in the A-F grantee index, Film 819924 / DGS 8135143, because Eureka does not fall in the N-Z grantee film.
+4. Do not repeat the Standard Oil grantee-index path unless verifying the bounded negative: Film / DGS 007902191 images 310-360 contain no Standard Oil page or Copley-related Standard Oil entry.
+5. Identify the continuation film for the Lewis County Grantee A-F Firms & Corporations pages after "Br"; then check Eureka Pipe Line / Eureka Pipe Line Company in the "E" company section.
 6. Resolve the earlier deed citation now read as 1 May 1880, Deed Book No. 11, page 32?, by checking Book 11 pages **52, 62, 82, and 132** first.
 7. Treat the Copley grantor-index path in Film 819917 / DGS 8219260 as currently negative: the relevant index sequence jumps from Colvin at image 305 to Cork at image 306 with no Copley page or entry.
 

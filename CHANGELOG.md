@@ -10,6 +10,15 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4EA - Standard Oil Closed; Eureka Continuation Needed (June 7, 2026)
+
+**OIL-TITLE INDEX UPDATE:** Integrated the follow-up deed-index check for Standard Oil and Eureka Pipe Line. The Standard Oil grantee-index path is now a bounded negative: Film `819926` / DGS `007902191`, images 310-360, moves from South Penn to Smith to Stalnaker to Swisher with no Standard Oil / Standard Oil Company page or Copley-related entry. The Eureka Pipe Line path remains structurally incomplete because Film `819924` / DGS `8135143` reaches only Ba-Br firms / corporations before a "TO BE CONTINUED" card and then switches to a separate grantor-index volume.
+
+### Updated Pages
+
+- [[References/Claude for Chrome Copley Heirs Oil Title Search|Claude for Chrome Copley Heirs Oil Title Search]], [[Research Priorities and Action Items]], [[Sources and Evidence Index]], [[Topics/1900 Copley Oil Strike|1900 Copley Oil Strike]], [[Volunteer Record Request Tasks]], [[Tier 1 Research Execution Kit]], [[Search Index]], and `.agents/AGENT_RESUME.md` - closed Standard Oil as a repeated online path and changed Eureka from a direct Film 819924 check to a continuation-film identification task.
+- `static/sources/claude-oil-title/standard-oil-eureka-deed-index-check-claude-output.txt` - preserved the full bounded-negative / structural-access report.
+
 ## Phase 4DZ - Book 42 Certified-Copy Request Prepared (June 7, 2026)
 
 **OIL-TITLE REQUEST UPDATE:** Added the ready-to-send certified-copy request for **Lewis County Deed Book 42, page 267**, the indexed Anna Copley to South Penn Oil Company lease for 128 acres on Sand Fork. The request now asks the Lewis County Clerk for all pages, acknowledgments, notarial certificates, recording certificate, fee instructions, and specific extraction of dates, lessors, spouses / acknowledgment parties, property description, royalties, delay rentals, assignment clauses, witnesses, and officials.
