@@ -1,0 +1,110 @@
+# Deed-Index Check Report: Copley / South Penn Oil Title Trail
+
+## Task 1 - Standard Oil Search
+
+**Film 819926 / DGS 007902191 | Lewis County Grantee Index N-Z, 1817-1934**
+
+### Methodology and Image Range Examined
+
+Starting from image 310 (South Penn Oil Company, deep in the "S" section), Claude navigated forward image by image through the "S" grantee section to locate the alphabetical position for Standard Oil.
+
+Verified image range covered:
+
+| Image | Section |
+|---|---|
+| 310-320 | South Penn Oil Co. (Book 42-44, 1899-1901) |
+| 340 | Smith (early, Deed Book 13-14, 1874-1884) |
+| 350 | Smith (late, Book 128, 1925-1931) |
+| 352 | Smith (Book 128-130, 1925-1931) |
+| 353-354 | Stalnaker (Book 104-107, 1912-1919) |
+| 356-357 | Stalnaker (Book 104, 1919) |
+| 358 | Stalnaker ending to Swisher beginning |
+| 359 | Swisher (Deed Books 6-U, 1870s) |
+| 360 | Swisher (Book 36-57, 1899-1906) |
+
+### Definitive Finding: No Standard Oil Entries
+
+The complete DOM transcript of critical image 358, the boundary image between Stalnaker and Swisher, showed Stalnaker entries ending and the Swisher section beginning with no Standard Oil / Standard Oil Company heading or entries between them.
+
+Names and clues checked:
+
+- Standard Oil
+- Standard Oil Company
+- Copley
+- Coply
+- Copely
+- Copeley
+- Coopley
+- Anna / Ann Copley
+- John Copley
+- Copley heirs
+- Sand Fork
+- Book 42
+- 128 acres
+
+### Bounded Negative Result: Standard Oil
+
+| Field | Result |
+|---|---|
+| Film / DGS | 819926 / 007902191 |
+| Image range checked | 310-360 inclusive |
+| First "S" heading after South Penn | Smith, about image 340 |
+| Last Smith entry | about image 352 |
+| Stalnaker section | images 353-358 |
+| Standard Oil position | Would fall between Stalnaker and Swisher on image 358 |
+| Standard Oil found on image 358? | No - DOM transcript confirms direct Stalnaker to Swisher transition |
+| First Swisher image | 359 |
+| Copley / Sand Fork / Book 42 / 128-acre hits in Standard Oil zone | Zero |
+| Conclusion | Standard Oil Company has no grantee entries in this Lewis County N-Z index; no Copley-related Standard Oil instruments are indexed here |
+
+Interpretation: Standard Oil may have operated through South Penn Oil Company as its recording affiliate in Lewis County, or any Standard Oil instruments may not have been indexed as grantee entries in this volume.
+
+## Task 2 - Eureka Pipe Line Search
+
+**Film 819924 / DGS 8135143 | Lewis County Grantee Index A-F, 1817-1934**
+
+### Film Structure Discovered
+
+This film is a Hall & McChesney Permafter Index No. 3 in two interleaved sections:
+
+| Images | Content |
+|---|---|
+| 1-4 | Preliminary / title cards |
+| 5 | Key table for "A" grantee section, individual names |
+| 6-119 | Grantee index, individual surnames A-F |
+| 120-125 | Firms and Corporations subsection, Ba-Br |
+| 126 | Title card: Lewis County Clerk's Office - Grantor Deed Index A-B; new volume begins |
+| 127 | "TO BE CONTINUED" card; Grantee A-F film ends here |
+| 128-557 | Grantor indexes A-F, a separate volume and different subject |
+
+### Navigation Through the Firms and Corporations Section
+
+| Image | Companies found |
+|---|---|
+| 120 | Bastow Manufacturing Co.; Baumer F.W. & Co. |
+| 122 | Brewer-Harrison Coal Co.; Braxton Coal Co. |
+| 125 | Bennett surname, individual rather than company pages |
+| 126 | Title card: Grantor Index A-B begins |
+| 127 | "TO BE CONTINUED" card |
+
+### Bounded Result: Eureka Pipe Line Incomplete
+
+| Field | Result |
+|---|---|
+| Film / DGS | 819924 / 8135143 |
+| Image range checked | 100-127 |
+| Firms & Corporations section start | About image 120 |
+| Last Firms & Corporations company letter reached | "Br" companies |
+| Eureka Pipe Line position | Would require "Eu" section, alphabetically after "Br" |
+| Film cutoff | Image 127, "TO BE CONTINUED" |
+| Eureka Pipe Line found? | No, because the film ends before the "E" company pages |
+| Copley / Sand Fork / Book 42 / 128-acre hits anywhere in checked film | Zero |
+| Conclusion | Film 819924 physically cannot contain a complete Eureka Pipe Line grantee check; the "E" company pages are on a continuation film not yet identified |
+
+## Overall Conclusion
+
+Standard Oil is a bounded negative and can be closed for Film 819926 / DGS 007902191.
+
+Eureka Pipe Line remains unresolved for structural access reasons. The next step is to identify the continuation film for the Lewis County Grantee A-F Firms & Corporations pages after "Br", then search the "E" companies section for Eureka Pipe Line / Eureka Pipe Line Company entries and any Copley / Sand Fork / Book 42 / 128-acre references.
+
+The highest-priority offline action remains unchanged: request Deed Book 42, page 267 directly from the Lewis County Clerk.
