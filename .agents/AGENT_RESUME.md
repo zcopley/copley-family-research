@@ -26,10 +26,17 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
 
 ## What Was Just Completed
 
+- Integrated Zach's June 2026 Eureka Pipe Line high-resolution image check:
+  - preserved the report at `static/sources/claude-oil-title/eureka-pipe-line-high-resolution-check-claude-output.txt`;
+  - recorded that high-resolution tile examination of Film 819924 / DGS 8135143 images 391-392 did **not** confirm the prior low-resolution "Eureka" reads;
+  - recorded that images 391-392 show D-company and E-adjacent entries but no Eureka Pipe Line Company, no Copley grantor, and no Book 42 page 267 reference;
+  - corrected the prior operational conclusion: Eureka remains unresolved, but future online work should be a native-tile pass over the remaining possible company / firm pages rather than relying on the earlier low-resolution identifications;
+  - kept the official Lewis County Clerk contact in templates as phone 304-269-8215, because the current official county Clerk page and directory still list 304-269-8215 rather than the 304-269-8211 number in the pasted report.
+
 - Integrated Zach's June 2026 Standard Oil / Eureka deed-index check:
   - preserved the report at `static/sources/claude-oil-title/standard-oil-eureka-deed-index-check-claude-output.txt`;
   - closed the Standard Oil grantee-index path as a bounded negative: Film 819926 / DGS 007902191, images 310-360, reaches South Penn, Smith, Stalnaker, then Swisher, with no Standard Oil / Standard Oil Company page or Copley-related entry;
-  - recorded that Film 819924 / DGS 8135143 cannot complete the Eureka Pipe Line check because the firms / corporations subsection reaches only Ba-Br before a "TO BE CONTINUED" card and then switches to a separate grantor-index volume;
+  - later refined by the Eureka high-resolution check above: images 391-392 do not confirm the prior Eureka reads, and future online Eureka work should inspect the remaining possible company / firm pages at native-tile resolution;
   - kept the highest-priority action unchanged: send the certified-copy request for Deed Book 42 page 267 to the Lewis County Clerk.
 
 - Integrated Zach's June 2026 Book 42 certified-copy request summary:
@@ -37,7 +44,7 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
   - verified the current official Lewis County Clerk contact page and recorded the deed-copy recipient as Lewis County Clerk's Office, 110 Center Avenue, Weston, WV 26452, phone 304-269-8215, fax 304-269-8202, email `lewiscountyclerk@lewiscountywv.org`;
   - updated `Volunteer Record Request Tasks.md` / `VR-06` with a certified-copy request for **Deed Book 42, page 267**, Anna Copley to South Penn Oil Company, Oil and Gas Lease, ca. 1899;
   - kept the caution that Book 39 page 138 is a separate Land Fork companion lease and must not be substituted for the Book 42 Sand Fork lease;
-  - later superseded by the Standard Oil / Eureka deed-index check above: Standard Oil is now a bounded negative, and Eureka requires a continuation film beyond Film 819924's Ba-Br company pages.
+  - later superseded by the Standard Oil / Eureka checks above: Standard Oil is now a bounded negative, and Eureka should not rely on the earlier low-resolution reads from Film 819924 images 391-392.
 
 - Integrated Zach's June 2026 Anna Copley / South Penn Book 39 and Book 42 follow-up:
   - preserved the report at `static/sources/claude-oil-title/anna-copley-south-penn-book39-book42-claude-output.txt`;

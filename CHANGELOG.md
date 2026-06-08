@@ -10,6 +10,15 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4EB - Eureka High-Resolution Check Corrects Prior Reads (June 8, 2026)
+
+**OIL-TITLE INDEX UPDATE:** Integrated the high-resolution native-tile review of Film `819924` / DGS `8135143`, images 391-392. The new pass does **not** confirm the prior low-resolution "Eureka" readings. Images 391-392 show D-company and E-adjacent entries, but no Eureka Pipe Line Company, no Copley grantor, and no Book 42 page 267 reference. The Eureka path remains unresolved, but the next online work is now a native-tile pass over the remaining possible company / firm pages rather than relying on the earlier low-resolution identifications.
+
+### Updated Pages
+
+- [[References/Claude for Chrome Copley Heirs Oil Title Search|Claude for Chrome Copley Heirs Oil Title Search]], [[Research Priorities and Action Items]], [[Sources and Evidence Index]], [[Topics/1900 Copley Oil Strike|1900 Copley Oil Strike]], [[Volunteer Record Request Tasks]], [[Tier 1 Research Execution Kit]], [[Search Index]], and `.agents/AGENT_RESUME.md` - updated Eureka from continuation-film shorthand to a high-resolution company-page search problem and preserved the correction that images 391-392 are not Eureka hits.
+- `static/sources/claude-oil-title/eureka-pipe-line-high-resolution-check-claude-output.txt` - preserved the high-resolution image-check report and the contact-number caution.
+
 ## Phase 4EA - Standard Oil Closed; Eureka Continuation Needed (June 7, 2026)
 
 **OIL-TITLE INDEX UPDATE:** Integrated the follow-up deed-index check for Standard Oil and Eureka Pipe Line. The Standard Oil grantee-index path is now a bounded negative: Film `819926` / DGS `007902191`, images 310-360, moves from South Penn to Smith to Stalnaker to Swisher with no Standard Oil / Standard Oil Company page or Copley-related entry. The Eureka Pipe Line path remains structurally incomplete because Film `819924` / DGS `8135143` reaches only Ba-Br firms / corporations before a "TO BE CONTINUED" card and then switches to a separate grantor-index volume.

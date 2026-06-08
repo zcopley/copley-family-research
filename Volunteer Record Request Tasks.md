@@ -413,7 +413,7 @@ Known evidence and index targets:
 - FamilySearch record `6X4N-DWWY`, DGS `008293301`, image `245`, pages 422-423, is a separate family exchange deed executed 22 August 1900 and recorded 13 October 1900. It involves Sand Fork and a 55-acre tract with unresolved place-name reading, but contains no oil-lease language. Its cited older deed now reads 1 May 1880, Deed Book 11, page 32?. Book 11 page 32 and the page-92 area are negative; pages 52, 62, 82, and 132 remain the strongest Book 11 candidates.
 - Copley grantor index: Film 819917 / DGS 8219260. This path is currently negative: the relevant index sequence jumps from Colvin at image 305 to Cork at image 306 with no Copley page or entry.
 - Copley grantee index: Film 819924 / DGS 8135143.
-- South Penn grantee index: Film 819926 / DGS 7902191. Anna Copley match found at image 310; checked South Penn pages show no other Copley entry in the reported range. The same film's Standard Oil path is now closed as a bounded negative: images 310-360 pass from South Penn to Smith to Stalnaker to Swisher, with no Standard Oil page or Copley-related Standard Oil entry.
+- South Penn grantee index: Film 819926 / DGS 7902191. Anna Copley match found at image 310; checked South Penn pages show no other Copley entry in the reported range. The same film's Standard Oil path is now closed as a bounded negative: images 310-360 pass from South Penn to Smith to Stalnaker to Swisher, with no Standard Oil page or Copley-related Standard Oil entry. Eureka remains unresolved; high-resolution checks of Film 819924 images 391-392 did not confirm earlier low-resolution Eureka reads.
 
 ```text
 [Your Name]
@@ -496,7 +496,7 @@ Please retrieve or request this deed-book record first, then continue the remain
 3. Standard Oil section of Film / DGS 007902191.
    Do not repeat unless verifying the prior bounded negative. Images 310-360 were checked; image 358 transitions directly from Stalnaker to Swisher with no Standard Oil page or Copley-related entry.
 4. Grantee index A-F, 1817-1934: Film 819924 / DGS 8135143.
-   The checked film is not enough for Eureka Pipe Line. Its firms / corporations pages reach only Ba-Br before a "TO BE CONTINUED" card and a new grantor-index volume. Identify the continuation film for C-F companies, then check Eureka Pipe Line.
+   Eureka remains unresolved. High-resolution checks of images 391-392 found no Eureka Pipe Line Company, no Copley grantor, and no Book 42 page 267 reference. If continuing this path, complete a high-resolution pass over the possible company / firm pages, especially images 388-395 and nearby continuation pages.
 5. Grantor index M-S, 1817-1934: Film 819919 / DGS 8293317.
    Search South Penn Oil Company entries for Copley / Sand Fork references if practical.
 6. Grantor index A-E, 1817-1934: Film 819917 / DGS 8219260.
