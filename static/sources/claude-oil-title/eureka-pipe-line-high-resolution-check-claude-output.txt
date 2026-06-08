@@ -1,0 +1,114 @@
+# Comprehensive Research Report: Eureka Pipe Line Company in Lewis County, WV Grantee Deed Index
+
+## What Was Searched
+
+**Film / DGS:** Film 819924 / DGS 8135143
+
+**Catalog Entry:** "Lewis. Deed Indexes 1817-1934, Grantee Deed Indexes 1817-1934" (FamilySearch Collection 3158864)
+
+**Images examined in this session:** 391 (APID TH-909-71060-40042-83) and 392 (APID TH-909-71060-39990-17), plus high-resolution deepzoom tile analysis at zoom levels 10-13 of both images.
+
+## Findings From Direct High-Resolution Tile Examination
+
+### Image 391 - Left Page
+
+Entries confirmed at maximum zoom in the grantee surname column:
+
+- Davis-Eakin Lumber Company (date 1911, 1912, 1917)
+- Davis Lumber Company (The)
+- Danville Gas Company (multiple entries, about 1932)
+- Daugherty-Fuccy [something]
+- [D/P]eterman
+
+No E companies were found on the left page of image 391.
+
+### Image 391 - Right Page
+
+Grantor column entries:
+
+- Secretary of State (4 times)
+- W. E. Barrett (Agent)
+- I. I. Moore (Deed)
+- Edward A. Brannon (Tr) (Deed)
+- H. C. Flesher (Agent)
+- A. F. Gum (Release)
+
+Grantee surname column entries:
+
+- "[Dimensi]ON STOCK COMPANY" (date 1895)
+- "[Danvil]LE GAS COMPANY" (multiple entries)
+- "[Valent/Caro]LINE BROTHERS" (date 1922)
+
+No entry with grantor "A.D. Place" was found. No Eureka entry was found on image 391.
+
+### Image 392 - Left Page
+
+Entries confirmed at maximum zoom, all D companies:
+
+- Delta Coal Company (1917; Grantor: Secretary of State; C of I)
+- Diamond Fuel Company (1920)
+- Dick Oil & Gas Company (1908)
+- Dolan and Rush (1935)
+- Domenico & Vincennore Tucci (1924)
+- Doyle & Tompkins (1901)
+- Dawson Construction Company (1919)
+- Divers & Mitchell (1923)
+- Dick Coal Company (1924)
+- Additional D entries
+
+No E companies were found on the left page of image 392.
+
+### Image 392 - Right Page
+
+Grantor column entries:
+
+- Secretary of State ("C of I")
+- Weston Carbon Company (Agent)
+- Edward A. Brannon (Tr) (Deed)
+
+Grantee surname column entries:
+
+- "[?] E & COMPANY" / "[?]e & Company"
+- "[?]ON & DENNISON"
+
+No entry with grantor "Stone Coal Company" or any Copley-related grantor was found. No Eureka Coal Company entry was confirmed on image 392.
+
+## Reconciliation With Prior Session Summary
+
+The compressed prior session summary claimed:
+
+- Image 391 right: "Eureka [Gas/Oil?] Company" (grantor A.D. Place, Deed, Book 65, Page 488, "D.S. Greenbrier")
+- Image 392 left: "Eureka Coal Company" (grantor State Coal, Deed, Book 111, Page 187)
+
+The high-resolution examination does not confirm these identifications. The entries reported earlier as "Eureka" are more likely low-resolution misreadings of other entries, possibly Danville Gas Company, Dimension / Dominion-related entries, or an "[?] E & Company" entry with non-Copley grantors.
+
+## Structural / Bounded Result for Eureka Pipe Line Company
+
+**Film 819924 / DGS 8135143 - Grantee Index A-F, 1817-1934 - C-F volume, images 221-515**
+
+| Image Range | Content | Result |
+|---|---|---|
+| 221-387 | Individual names C through F | No company search applicable here |
+| 388-395 | Companies / firms section, scattered entries | Prior low-resolution pass was uncertain; high-resolution re-examination of images 391-392 finds only D companies and a few E-adjacent entries, none matching Eureka Pipe Line |
+| 396-512 | Individual names continuation | Not yet examined for Eureka |
+
+## What Was Not Found
+
+- "Eureka Pipe Line Company" as a grantee entry on images 391-392.
+- "Eureka Pipe Line" as a grantee entry on images 391-392.
+- Any entry with grantor "Copley", "Ann Copley", "John Copley", or "Copley heirs" in the checked company pages.
+- Any entry referencing Deed Book 42, page 267 in the checked company pages.
+
+## What Still Needs To Be Done
+
+1. Complete a high-resolution pass over the rest of the possible companies / firms area, especially images 388-395 and any nearby pages that might contain E companies.
+2. If images 388-395 do not contain a true E-company page, inspect the broader 388-512 range for misplaced company pages or continuation pages.
+3. Keep the highest-priority offline action unchanged: request Deed Book 42, page 267 directly from the Lewis County Clerk.
+
+## Contact Caution
+
+This report listed Lewis County Clerk phone 304-269-8211. The official Lewis County Clerk page and official directory checked by Codex on June 8, 2026 list the direct County Clerk phone as 304-269-8215, with the general county number 304-269-8200. Use the official direct number in request templates unless a newer official source confirms otherwise.
+
+## Summary Conclusion
+
+After high-resolution deepzoom tile examination of Film 819924 images 391 and 392, Eureka Pipe Line Company was not found on those images. The prior "Eureka" identifications appear likely to have been low-resolution misreadings. The E-company location is still not fully resolved; a broader high-resolution pass over the likely company / firm pages is needed if continuing the online index path. The definitive path remains the direct offline request to the Lewis County Clerk for Deed Book 42, page 267.
