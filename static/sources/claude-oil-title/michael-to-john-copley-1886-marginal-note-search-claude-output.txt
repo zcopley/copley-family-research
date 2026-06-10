@@ -1,0 +1,81 @@
+# Michael Copley to John Copley 1886 Marginal-Note Search
+
+Preservation note: normalized extract of the user-supplied Claude for Chrome report on the search for the instrument referenced by the marginal note on Lewis County Deed Book 11, page 321.
+
+## Conclusion
+
+The instrument referenced by the marginal note "Old to John Copley March 21 . 1886" on Lewis County Deed Book 11, page 321 was not found in the Lewis County deed books / deed indexes available on FamilySearch. This is a bounded negative for the checked deed-book paths, not merely an unsearched lead.
+
+The instrument may have been unrecorded, recorded under an unindexed / variant spelling, recorded later in a missed volume, or preserved in a record type outside the deed-book collection, such as chancery, fiduciary, commissioner, or private papers.
+
+## Searches Completed
+
+### Grantor Index A-E, 1817-1934
+
+**Film / DGS:** Film 819917 / DGS 8219260
+
+FamilySearch's viewer label reads "Grantee Deed Indexes," but the physical page headers read "General Index to Deeds and Oil & Gas Leases — Lewis County, W.Va. — GRANTORS." The catalog entry identifies it as the grantor A-E index.
+
+Images 303-308 were checked. Image 305 contains Colvin entries. Image 306 begins Cork entries. There is no filmed image between them and no Copley page or Copley entry in the sequence. Adjacent images 303-304 and 307-308 did not contain a displaced Copley page.
+
+**Finding:** No Copley page exists in this checked compiled grantor-index sequence between Colvin and Cork.
+
+### Deed Book 16 Internal Index
+
+**DGS:** 8293290
+
+**Images checked:** 6-9
+
+The C-section of the internal handwritten grantor index appears at image 8. Visible entries include Clark County Court, Constable, Cox, Cole, Chidester, Camden, Clifton, Bowler, Brothers, Carpenter, Cooper, and Carter. No Copley entry appears.
+
+### Deed Book 17 Internal Index
+
+**Film / DGS:** Film 818763 / DGS 8293290
+
+Deed Book 17 has no internal tabulated index on this film. The book begins with the cover / spine image at image 377, proceeds directly into deed content at image 378, and ends around image 736 / 737.
+
+### Grantee Index A-F, 1817-1934
+
+**Film / DGS:** Film 819924 / DGS 8135143
+
+**Image checked:** 251
+
+All Copley grantee entries on image 251 were read. The entries include later John, Anna / Margaret / Sarah, Thomas, J. W., Joseph W., and Ida Copley entries, including the 1897 Ida Copley entry for 100 acres on Cove Lick. No 1886 Michael Copley to John Copley entry appears, and no entry references Land Fork, Sand Fork, the Weeden Hoffman survey, or the Pickering survey in 1886.
+
+### Direct Deed-Book Browse Around March-April 1886
+
+**DGS:** 8293290
+
+**Images checked:** 357-370
+
+The browse covered deeds around March-April 1886 recording dates. Image 357 showed a deed acknowledged 10 March 1886; image 358 showed a recording date of 9 April 1886; images 359-362 showed William Henry Cooper to S. L. Cooper; image 363 showed a deed recorded 10 February 1887. No Copley deed was found in the date range.
+
+### Additional Deed Book 17 Boundary Check
+
+**DGS:** 8293290
+
+**Images checked:** 376-381 and 725-737
+
+No DB 17 internal index was found at the start or end of the book.
+
+## Bounded Negative
+
+No Michael Copley to John Copley deed, quitclaim, release, assignment, or related indexed instrument dated 21 March 1886 was found in:
+
+| Film / DGS | Description | Images checked | Finding |
+|---|---|---|---|
+| 819917 / 8219260 | Grantor index A-E, 1817-1934 | 303-308 | No Copley page; confirmed Colvin-to-Cork gap |
+| 819924 / 8135143 | Grantee index A-F, 1817-1934 | 251 | Copley grantee entries read; no 1886 Michael-to-John entry |
+| 818763 / 8293290 | Deed Books 16-17, 1885-1887 | DB 16 index images 6-9; March-April 1886 browse images 357-370; DB 17 start/end images 376-381 and 725-737 | No Copley deed; no DB 17 internal index |
+
+## Interpretation
+
+The marginal note on Book 11, page 321 remains meaningful but unresolved. The word OCR-read as "Old" may be a local abbreviation, a difficult rendering of another instrument abbreviation such as quitclaim / release / agreement, or a non-deed reference. Because the deed indexes and the checked DB 16 / DB 17 areas do not produce a matching instrument, the note should no longer be treated as a straightforward Lewis County deed-book lookup.
+
+## Remaining Non-Duplicative Follow-Up
+
+1. Do not repeat the same A-E grantor-index, A-F grantee-index, DB 16 internal-index, or March-April 1886 browse paths unless verifying the bounded negative.
+2. If continuing the 1886 note, inspect DB 16 content more broadly for variant top-docket surnames such as Copel-, Copl-, Cople-, Copely, Coopley, or badly indexed forms.
+3. Check Lewis County Chancery Court, fiduciary, commissioner, release, or clerk docket records for a non-deed reference.
+4. Ask the Lewis County Clerk whether original indexes, release books, docket books, or unfilmed marginal-reference materials survive.
+5. If higher-resolution access becomes available, reread the marginal note itself to determine whether "Old" is actually a different abbreviation.

@@ -1,0 +1,75 @@
+# Book 11 Page 321 Visual Verification
+
+Preservation note: normalized extract of the user-supplied Claude for Chrome visual-verification report for Lewis County Deed Book 11, page 321, images 193-194, DGS 008293286.
+
+## Conclusion
+
+Book 11, page 321 is visually verified on image 193, artifact TH-909-76652-121119-91. The docket / index box at the top of the right-hand page reads "M Harrison + wife / + J.T. Sullivan / To / Michael Copley [etc.]." The deed body, metes-and-bounds, and signatories are present. A clerk's "Exd" notation appears in the left margin of the docket area.
+
+Image 194, artifact TH-909-76652-121115-95, gives the exact recording date: 24 February 1881. The recording certificate says the deed and certificates were presented in the Lewis County Court Clerk's office and admitted to record that day. The clerk's name is visually uncertain; OCR reads "Waafter" and may be J. Waaser or similar.
+
+The marginal note is actionable but not fully visually legible in the deep-zoom tiles. OCR reads: "Old to John Copley March 21 . 1886." It gives a date and John Copley, but no book/page. Treat it as a later clerk or attorney notation pointing to a separate 21 March 1886 instrument, likely a conveyance, release, quitclaim, or assignment involving Michael Copley's interest and John Copley.
+
+## Corrected Abstract
+
+**Instrument:** Deed of sale with general warranty.
+
+**Executed:** 1 May 1880.
+
+**Recorded:** 24 February 1881.
+
+**Book / page:** Lewis County Deed Book 11, page 321. The deed occupies pages 321-322; the next deed begins at page 323 on image 194.
+
+**Grantors:** Matthew W. Harrison and Sarah E. Harrison, his wife; Thomas B. Edwards and Mary O. Edwards, his wife; John T. Sullivan, Administrator with the will annexed of Emma M. Hoffman, deceased.
+
+**Grantees:** Michael Copley and John Copley.
+
+**Consideration:** $500, stated as already paid.
+
+**Land:** 200 acres in Lewis County, West Virginia, on Land Fork, a branch of the Little Kanawha River, being the upper part of a 500-acre survey made for Weeden Hoffman. Calls reference the Pickering 5,000-acre survey, Sand Fork, Land Fork, Buzzard Mine / run, and Cove Lick.
+
+**Acknowledgments:**
+
+- Harrison / Edwards parties: before N. B. Newton, Notary Public, Lewis County, 17 May 1880; wives privately examined.
+- John T. Sullivan: before Denis O'Keeffe, Notary Public, Ohio County, 23 May 1880.
+
+## Corrected Metes-and-Bounds Notes
+
+The OCR is materially damaged in the bearing notation. Visual review supports the following corrections and caveats:
+
+| OCR / issue | Corrected reading or status |
+|---|---|
+| "Beech manding 19 as South from the Land ford" | Beginning at a Beech standing 19 [poles] south from the Land Fork, on the Pickering survey line and at the beginning corner of the Weeden Hoffman survey. |
+| "S 462 W 48 ps" | S 46 1/2 W, 48 poles to a Hickory down. |
+| "S 70 W [17 as]" | S 70 W, 17 poles to a Beech. |
+| "S 43 W 40 pr" | S 43 W, 40 poles to a Beech on the south bank of Sand Fork. |
+| "S503 W 36 ps" | S 50 1/2 W, 36 poles, crossing Sand Fork, to a Beech on the north bank of same. |
+| "S 71 224" | Likely S 71 W, 24 poles, recrossing Land Fork, to a Red Oak on its south bank; direction remains uncertain. |
+| "N 30 W 155 ps" | N 30 W, 155 poles, recrossing said fork, to a White Oak on top of a ridge / saddle / spur, on a survey line. |
+| "N 12675 poles" | Not 12,675 poles. Visual reading supports N 12 degrees [fraction/direction uncertain], 75 poles to a Dogwood. Needs recheck for the exact fractional bearing and direction. |
+| "248 E 79 poles" | N 24 1/2 E, 79 poles to a White Oak cut down. |
+| "N 22 630" | Likely N 22 degrees [fraction/direction uncertain], about 63 poles, crossing Buzzard Mine / run, to a Dogwood on the north bank of Cove Lick. |
+| "Cove sick" | Cove Lick. |
+| closing call | North with the Pickering line, bearing uncertain, 200 poles crossing Land Fork to the beginning. |
+
+The acreage is explicitly "two hundred acres."
+
+## Image 194 Notes
+
+Image 194 contains the continuation acknowledgments and recording certificate.
+
+The Harrison / Edwards certificate is by N. B. Newton, Notary Public, Lewis County, dated 17 May 1880. It covers Matthew W. Harrison, Thomas B. Edwards, Sarah E. Harrison, and Mary O. Edwards; the wives were privately examined apart from their husbands and acknowledged execution willingly.
+
+The John T. Sullivan certificate is by Denis O'Keeffe, Notary Public, Ohio County, dated 23 May 1880. It identifies Sullivan as administrator with the will annexed of Emma M. Hoffman, deceased. OCR's "1st of May 1886" in this certificate is a misread of "1st of May 1880."
+
+The recording certificate is dated 24 February 1881 and admits the deed and annexed certificates to record in the Lewis County Court Clerk's office. The clerk name remains visually uncertain.
+
+## Marginal Note
+
+OCR reads: "Old to John Copley March 21 . 1886."
+
+The note appears in the upper blank area / margin of page 321, above or near the docket box. It is likely a later marginal pointer to a subsequent instrument. It gives no book/page. A later follow-up search did not find a matching Michael Copley to John Copley instrument in the available Lewis County deed-book / deed-index paths. Treat the deed-index result as a bounded negative unless a new index, original clerk material, or non-deed record type is checked.
+
+## Do Not Repeat
+
+Do not revisit candidate pages 52, 62, 82, or 132. Do not repeat the Eureka Pipe Line or Standard Oil paths without a new independent citation.

@@ -9,7 +9,7 @@ tags:
 
 # Agent Resume State
 
-Last updated: 2026-06-07
+Last updated: 2026-06-10
 
 ## Current Goal
 
@@ -26,17 +26,53 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
 
 ## What Was Just Completed
 
-- Integrated Zach's June 2026 Eureka Pipe Line high-resolution image check:
+- Cleaned and validated the June 2026 oil-title / Book 11 page 321 integration for commit:
+  - ran `npm run check:mermaid`;
+  - ran `npm run build`, which passed with only the known LaTeX unicode warnings;
+  - ran `npm run check:links`, which passed with 4,320 authored local links / assets checked and the existing 56 baseline issues still present;
+  - restored generated `public/` output before staging so the commit remains source-focused.
+
+- Integrated Zach's June 2026 21 March 1886 Michael-to-John marginal-note search:
+  - preserved the report at `static/sources/claude-oil-title/michael-to-john-copley-1886-marginal-note-search-claude-output.txt`;
+  - recorded the search as a bounded negative in the checked Lewis County FamilySearch deed-book / deed-index paths;
+  - captured the A-E grantor index Colvin-to-Cork gap at Film 819917 / DGS 8219260 images 303-308;
+  - captured the A-F grantee Copley page negative at Film 819924 / DGS 8135143 image 251;
+  - captured the DB 16 internal-index negative, DB 17 no-internal-index finding, and March-April 1886 deed-book browse negative in DGS 8293290;
+  - changed the next-action language so future work does not repeat this deed-index path unless verifying the negative;
+  - limited any further 1886-note work to non-duplicative routes: original clerk indexes / release books / docket books, broader DB 16 variant-docket browsing, chancery / fiduciary / commissioner records, or a higher-resolution reread of the marginal note itself;
+  - kept Book 42 page 267 as the main document-producing request.
+
+- Integrated Zach's June 2026 Book 11 page 321 visual-verification report:
+  - preserved the report at `static/sources/claude-oil-title/book11-page321-visual-verification-claude-output.txt`;
+  - visually confirmed Lewis County Deed Book 11 page 321 on DGS 008293286 images 193-194;
+  - recorded the exact recording date as 24 February 1881;
+  - corrected key OCR-damaged metes-and-bounds calls, including `S 503 W` as S 50 1/2 W and `N 12675 poles` as a 75-pole call with remaining bearing caveats;
+  - treated the marginal note OCR-read as `Old to John Copley March 21 . 1886` as actionable but without a book/page;
+  - changed the next title-chain task to a targeted Lewis County grantor-index search under Copley, Michael, for a 21 March 1886 deed, release, quitclaim, or assignment to John Copley;
+  - kept Book 42 page 267 as the main courthouse request.
+
+- Integrated Zach's June 2026 Book 11 page 321 Copley / Hoffman deed check:
+  - preserved the report at `static/sources/claude-oil-title/book11-page321-copley-hoffman-deed-claude-output.txt`;
+  - closed the old page-32? / pages 52, 62, 82, and 132 path as a controlled negative;
+  - recorded the located source deed as Lewis County Deed Book 11 page 321, DGS 008293286 image 193, executed 1 May 1880;
+  - recorded the parties as Harrison / Edwards / John T. Sullivan as administrator with the will annexed of Emma M. Hoffman to Michael Copley and John Copley;
+  - recorded the property as 200 acres on Land Fork / Sand Fork / Cove Lick from the upper part of Weeden Hoffman's 500-acre survey;
+  - updated the exchange-deed, oil-title, priority, evidence, volunteer, execution-kit, search-index, Michael, John, Cove Lick, and changelog pages;
+  - superseded by the visual-verification report above for image 194, recording date, corrected OCR calls, and the 1886 marginal-note lead;
+  - kept Book 42 page 267 as the main courthouse request.
+
+- Integrated Zach's June 2026 complete Eureka Pipe Line grantee-index search:
   - preserved the report at `static/sources/claude-oil-title/eureka-pipe-line-high-resolution-check-claude-output.txt`;
-  - recorded that high-resolution tile examination of Film 819924 / DGS 8135143 images 391-392 did **not** confirm the prior low-resolution "Eureka" reads;
-  - recorded that images 391-392 show D-company and E-adjacent entries but no Eureka Pipe Line Company, no Copley grantor, and no Book 42 page 267 reference;
-  - corrected the prior operational conclusion: Eureka remains unresolved, but future online work should be a native-tile pass over the remaining possible company / firm pages rather than relying on the earlier low-resolution identifications;
-  - kept the official Lewis County Clerk contact in templates as phone 304-269-8215, because the current official county Clerk page and directory still list 304-269-8215 rather than the 304-269-8211 number in the pasted report.
+  - recorded that images 391-392 were late-D company pages, not the E-company section;
+  - recorded that the correct E-company section is Film 819924 / DGS 8135143 image 437, ARK `3:1:3Q9M-CSVB-29XQ-T`;
+  - recorded that image 437 contains Erbacon & Summersville R R Co., Eureka Lumber & Manufacturing Company, blank rows, and Evans Supply Store, with no Eureka Pipe Line / Pipeline entry;
+  - closed Eureka Pipe Line Company as a bounded negative in this Lewis County general grantee-index path for 1817-1934;
+  - kept the official Lewis County Clerk contact in templates as phone 304-269-8215 and kept Deed Book 42 page 267 as the required next document-producing action.
 
 - Integrated Zach's June 2026 Standard Oil / Eureka deed-index check:
   - preserved the report at `static/sources/claude-oil-title/standard-oil-eureka-deed-index-check-claude-output.txt`;
   - closed the Standard Oil grantee-index path as a bounded negative: Film 819926 / DGS 007902191, images 310-360, reaches South Penn, Smith, Stalnaker, then Swisher, with no Standard Oil / Standard Oil Company page or Copley-related entry;
-  - later refined by the Eureka high-resolution check above: images 391-392 do not confirm the prior Eureka reads, and future online Eureka work should inspect the remaining possible company / firm pages at native-tile resolution;
+  - later superseded by the complete Eureka check above: image 437 closes the Eureka Pipe Line grantee path as a bounded negative;
   - kept the highest-priority action unchanged: send the certified-copy request for Deed Book 42 page 267 to the Lewis County Clerk.
 
 - Integrated Zach's June 2026 Book 42 certified-copy request summary:
@@ -44,7 +80,7 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
   - verified the current official Lewis County Clerk contact page and recorded the deed-copy recipient as Lewis County Clerk's Office, 110 Center Avenue, Weston, WV 26452, phone 304-269-8215, fax 304-269-8202, email `lewiscountyclerk@lewiscountywv.org`;
   - updated `Volunteer Record Request Tasks.md` / `VR-06` with a certified-copy request for **Deed Book 42, page 267**, Anna Copley to South Penn Oil Company, Oil and Gas Lease, ca. 1899;
   - kept the caution that Book 39 page 138 is a separate Land Fork companion lease and must not be substituted for the Book 42 Sand Fork lease;
-  - later superseded by the Standard Oil / Eureka checks above: Standard Oil is now a bounded negative, and Eureka should not rely on the earlier low-resolution reads from Film 819924 images 391-392.
+  - later superseded by the Standard Oil / Eureka checks above: Standard Oil is now a bounded negative, and Eureka Pipe Line is now a bounded negative at Film 819924 image 437.
 
 - Integrated Zach's June 2026 Anna Copley / South Penn Book 39 and Book 42 follow-up:
   - preserved the report at `static/sources/claude-oil-title/anna-copley-south-penn-book39-book42-claude-output.txt`;
@@ -64,16 +100,17 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
   - preserved the report at `static/sources/claude-oil-title/lewis-county-book11-grantor-index-survey-claude-output.txt`;
   - recorded that Book 11 image 47 corresponds to approximately pages 92-93, not page 32;
   - recorded images 47-65 / approximately pages 92-128 as negative for Copley / Hoffman / Sand Fork / 200-acre / 27½-acre / 55-acre / Nonypod / Bungport deed evidence;
-  - narrowed the unresolved 1 May 1880 / Deed Book 11 / page 32? citation to pages 52, 62, 82, and 132 as the strongest next checks;
+  - narrowed the then-unresolved 1 May 1880 / Deed Book 11 / page 32? citation to pages 52, 62, 82, and 132 as the strongest next checks;
   - recorded DGS 008219260 / Film 819917 as currently negative in the Copley grantor direction because the ledger jumps from Colvin at image 305 to Cork at image 306 with no Copley page or entry;
+  - superseded by the Book 11 page 321 check above, which located the cited source deed at DGS 008293286 image 193;
   - updated reference, evidence, priority, volunteer, execution-kit, topic, person, search-index, Home/index, and changelog language so future work prioritizes the South Penn grantee index in Film 819926 / DGS 7902191.
 
 - Integrated Zach's June 2026 Claude for Chrome Lewis County deed progress report:
   - preserved the report at `static/sources/claude-oil-title/lewis-county-deed-research-progress-book11-copley-south-penn-claude-output.txt`;
   - updated `References/Claude for Chrome 1900 Copley Family Exchange Deed.md` with the corrected citation reading: 1 May 1880, Deed Book No. 11, page 32?;
-  - recorded that Deed Book 11, page 32 on DGS 008293286 did not contain a Copley deed, so the page reference remains unresolved;
+  - recorded that Deed Book 11, page 32 on DGS 008293286 did not contain a Copley deed, so the page reference remained unresolved at that stage;
   - flagged the 55-acre tract place-name reading as unresolved between newer `Nonypod Run of Sand Creek` and earlier `Bungport Run of Cove Lick`;
-  - superseded by the newer Book 11 / grantor-index survey for exact next steps: do not use the old pages 32-50 or images 304-310 instructions except as historical context.
+  - superseded by the newer Book 11 / grantor-index survey and then by the Book 11 page 321 positive hit above; do not use the old pages 32-50, candidate-page, or images 304-310 instructions except as historical context.
 
 - Integrated Zach's June 2026 Claude for Chrome identification of FamilySearch record `6X4N-DWWY`:
   - preserved the report at `static/sources/claude-oil-title/1900-michael-copley-legal-instrument-6x4n-dwwy-claude-output.txt`;

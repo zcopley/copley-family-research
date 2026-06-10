@@ -71,7 +71,7 @@ The FamilySearch legal-instrument lead is now identified:
 
 It is a **family land-exchange deed**, not the South Penn lease. Ann Copley, daughters Margaret, Ann, Sarah, and Bridget Gillooly, and Bridget's husband Patrick Gillooly conveyed their interest in a tract to John Copley. The deed recites an exchange involving a 55-acre tract and 27½ acres of John's interest in a 200-acre Sand Fork tract. The 55-acre place-name reading is currently unresolved: a later tile pass read `Nonypod Run of Sand Creek`, while the earlier report read `Bungport Run of Cove Lick`. The deed contains no oil, gas, mineral, royalty, or South Penn language.
 
-The deed documents an important title rearrangement immediately before the oil strike, but it does not establish the oil-lease signers or explain why the exchange occurred. Follow-up tile and image-survey work corrected the older citation to **1 May 1880, Deed Book No. 11, page 32?**. Book 11 page 32 and the page-92 area are both negative; the strongest live Book 11 candidates are now pages **52, 62, 82, and 132**. See [[References/Claude for Chrome 1900 Copley Family Exchange Deed]].
+The deed documents an important title rearrangement immediately before the oil strike, but it does not establish the oil-lease signers or explain why the exchange occurred. Follow-up work has now resolved the older citation as **1 May 1880, Deed Book No. 11, page 321**, DGS `008293286`, image `193`. That source deed conveys 200 acres on Land Fork / Sand Fork / Cove Lick from Harrison / Edwards / John T. Sullivan as administrator of Emma M. Hoffman to Michael Copley and John Copley, supplying the Hoffman-Copley land base referenced by the 1900 exchange. See [[References/Claude for Chrome 1900 Copley Family Exchange Deed]].
 
 ## South Penn Lease Index Match
 
@@ -130,7 +130,7 @@ FamilySearch catalog: [Deeds, 1817-1902; deed index, 1817-1965](https://www.fami
 | Grantee index N-Z, 1817-1934 | Film 819926 / DGS 7902191 | Anna Copley lease match found at image 310; no additional Copley entries found in checked South Penn pages 266-321+. Standard Oil is now a bounded negative in images 310-360; image 358 jumps from Stalnaker to Swisher with no Standard Oil heading or entries. |
 | Grantor index A-E, 1817-1934 | Film 819917 / DGS 8219260 | Currently negative in the relevant Copley zone unless verifying the prior Colvin-to-Cork result. |
 | Grantor index M-S, 1817-1934 | Film 819919 / DGS 8293317 | Search South Penn Oil Company if company grantor entries are useful. |
-| Grantee index A-F, 1817-1934 | Film 819924 / DGS 8135143 | Eureka remains unresolved. A later high-resolution tile check of images 391-392 did not confirm prior low-resolution "Eureka" reads; those appear to be D-company / E-adjacent misreadings. Complete a high-resolution pass over the possible company / firm pages, especially images 388-395 and any nearby continuation pages, only if more online index work is needed. |
+| Grantee index A-F, 1817-1934 | Film 819924 / DGS 8135143 | Eureka Pipe Line Company is now a bounded negative as a grantee in the checked Lewis County general grantee index. The earlier images 391-392 check was in late-D company pages. The correct E-company section was located at image 437, ARK `3:1:3Q9M-CSVB-29XQ-T`; it contains only Eureka Lumber & Manufacturing Company entries, with blank rows before Evans Supply Store where Eureka Pipe Line / Pipeline would alphabetically appear. No Eureka Pipe Line, Copley, Sand Fork, South Penn, or Book 42 page 267 entry appears. |
 | Grantee index G-M, 1817-1934 | Film 819925 / DGS 8293314 | Search Michael / heirs only if indexed under a nonstandard heading. |
 
 The report says these images are restricted to FamilySearch Center / FamilySearch Library access. Once an index entry yields a deed book and page, retrieve the corresponding deed-book image from the same catalog series.
@@ -146,8 +146,9 @@ The report says these images are restricted to FamilySearch Center / FamilySearc
 - The No. 1 well was completed on 13 September 1900.
 - Contemporary sources used `Copley heirs' farm` and `Copley heirs' No. 3`.
 - The 1900 FamilySearch legal-instrument lead is a separate family exchange deed affecting Sand Fork and 55-acre tract title, not the South Penn lease.
+- The older deed cited by that exchange deed is now located and visually verified at Deed Book 11 page 321, DGS 008293286 images 193-194: Harrison / Edwards / Sullivan as administrator of Emma M. Hoffman to Michael and John Copley, 200 acres on Land Fork / Sand Fork / Cove Lick, executed 1 May 1880 and recorded 24 February 1881.
 - The Standard Oil grantee-index path in Film 819926 / DGS 007902191 is closed as a bounded negative: images 310-360 show South Penn, Smith, Stalnaker, then Swisher, with no Standard Oil / Standard Oil Company page or Copley-related entry.
-- The prior low-resolution Eureka reads on Film 819924 images 391-392 are not confirmed. High-resolution tile work found Davis / Danville / Delta / Diamond / Dick / Dolan / Doyle / Dawson / Divers entries and E-adjacent fragments, but no Eureka Pipe Line Company, no Copley grantor, and no Book 42 page 267 reference on those images.
+- The Eureka Pipe Line grantee-index path in Film 819924 / DGS 8135143 is closed as a bounded negative. Images 391-392 were late-D company pages, not the E-company section. The correct E-company section at image 437 contains Erbacon & Summersville R R Co., Eureka Lumber & Manufacturing Company, blank rows, and Evans Supply Store; it has no Eureka Pipe Line / Pipeline entry and no Copley, Sand Fork, South Penn, or Book 42 page 267 reference.
 
 **Still unresolved:**
 
@@ -158,7 +159,8 @@ The report says these images are restricted to FamilySearch Center / FamilySearc
 - Book 42 royalty, bonus, term, and assignment provisions.
 - Whether another partition, administrator conveyance, or court order preceded the lease.
 - Direct proof that oil income financed later education.
-- A complete high-resolution check of the remaining possible Eureka / company pages in Film 819924 or any true continuation pages.
+- The separate 21 March 1886 marginal-note lead on Book 11 page 321 is a bounded negative in the checked deed-book / deed-index paths. OCR reads `Old to John Copley March 21 . 1886`; no book/page is given. Grantor index A-E images 303-308, grantee index A-F image 251, DB 16 internal index images 6-9, DB 17 start/end, and a March-April 1886 direct browse did not produce a matching Michael-to-John instrument.
+- Any future Eureka Pipe Line work would need a new independent citation to a different record series or book/page; no further online search of this grantee-index path is warranted.
 
 ## Next Records
 
@@ -166,8 +168,8 @@ The report says these images are restricted to FamilySearch Center / FamilySearc
 2. Transcribe the full Book 42 Sand Fork lease, including execution date, recording date, every named party, marital status / spouse acknowledgments, property description, lease term, royalty, delay rental, assignment clause, witnesses, notaries, and recording certificate.
 3. Use the online Book 39 page 138 companion lease as context for expected South Penn form language, but do not substitute it for the 128-acre Sand Fork lease.
 4. Do not repeat the Standard Oil grantee-index path unless verifying the bounded negative: Film / DGS 007902191 images 310-360 contain no Standard Oil page or Copley-related Standard Oil entry.
-5. If continuing the Eureka online path, do a high-resolution pass over Film 819924's possible company / firm pages beyond images 391-392, especially images 388-395 and any nearby continuation pages. Do not reuse the earlier low-resolution Eureka reads unless native-tile inspection confirms them.
-6. Resolve the earlier deed citation now read as 1 May 1880, Deed Book No. 11, page 32?, by checking Book 11 pages **52, 62, 82, and 132** first.
+5. Do not repeat the Eureka Pipe Line grantee-index path unless a new independent citation points to a different index series or book/page. Film 819924 / DGS 8135143 image 437 closes the relevant E-company section as a bounded negative for Eureka Pipe Line Company.
+6. Do not repeat the checked 21 March 1886 Michael-to-John deed-index path unless verifying the bounded negative. If pursued further, use non-duplicative paths: broader DB 16 docket browsing for variant spellings, chancery / fiduciary / release / docket records, or a Lewis County Clerk inquiry about original indexes and marginal-reference materials.
 7. Treat the Copley grantor-index path in Film 819917 / DGS 8219260 as currently negative: the relevant index sequence jumps from Colvin at image 305 to Cork at image 306 with no Copley page or entry.
 
 Ready-to-use templates for these actions are in [[Volunteer Record Request Tasks#VR-06 Copley No 1 Oil Leases Royalties and John Copley Estate|VR-06]], [[Volunteer Record Request Tasks#VR-06A Restricted Lewis County Deed-Index Lookup|VR-06A]], and [[Volunteer Record Request Tasks#VR-06B WVRHC Copley Heirs Well Archive Lookup|VR-06B]].

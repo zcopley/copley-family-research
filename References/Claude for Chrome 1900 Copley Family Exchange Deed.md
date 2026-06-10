@@ -22,6 +22,12 @@ This note identifies the previously unresolved 1900 FamilySearch legal-instrumen
 
 [Download the Book 11 / grantor-index survey report](../static/sources/claude-oil-title/lewis-county-book11-grantor-index-survey-claude-output.txt)
 
+[Download the Book 11 page 321 Copley / Hoffman deed report](../static/sources/claude-oil-title/book11-page321-copley-hoffman-deed-claude-output.txt)
+
+[Download the Book 11 page 321 visual-verification report](../static/sources/claude-oil-title/book11-page321-visual-verification-claude-output.txt)
+
+[Download the 1886 Michael-to-John marginal-note search report](../static/sources/claude-oil-title/michael-to-john-copley-1886-marginal-note-search-claude-output.txt)
+
 ## Main Result
 
 FamilySearch record [6X4N-DWWY](https://www.familysearch.org/ark:/61903/1:1:6X4N-DWWY) is a **family land-exchange deed**, not the South Penn Oil Company lease, an administrator's deed, or a probate record.
@@ -55,20 +61,19 @@ The image group spans volumes 38-39, but the report did not establish which exac
 
 ## Deed-Citation Follow-Up
 
-A follow-up tile-level pass corrected the cited older deed reference inside the 1900 exchange deed:
+The cited older deed reference inside the 1900 exchange deed is now resolved.
 
-- The cited date reads **1 May 1880**, not 1 May 1878.
-- The cited book reads **Deed Book No. 11**.
-- The cited page reads **32?** with reasonable confidence, but a third digit cannot be ruled out from the tile boundary.
-- Deed Book 11 is DGS **008293286**, Film **818759**, years **1880-1881**.
+The citation previously read as **1 May 1880, Deed Book No. 11, page 32?** is actually **Deed Book 11, page 321**. The source deed is on DGS **008293286**, image **193**, ARK [`3:1:3Q9M-CSR7-SQXJ-C`](https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSR7-SQXJ-C?i=1&cc=3158864&view=fullText&lang=en&keywords=Copley). The grantor index on image 7 confirms the Book 11 page number with an entry for Michael Copley and M. W. Harrison / others at page 321.
 
-Later page-calibration work corrected the Book 11 image map. Image 47 corresponds to approximately deed-book pages **92-93**, not page 32. The follow-up survey checked images **47-65** / approximately pages **92-128** and found **no Copley, Coply, Copely, Coopley, Hoffman, Sand Fork, 200-acre, 27½-acre, 55-acre, Nonypod, or Bungport deed** in that range. Book 11 page 32 itself had already been checked in the prior pass and was also negative.
+The deed was executed **1 May 1880**, recorded **24 February 1881**, and conveys **200 acres** to **Michael Copley** and **John Copley** from Matthew W. Harrison and Sarah E. Harrison, Thomas B. Edwards and Mary O. Edwards, and John T. Sullivan as administrator with the will annexed of Emma M. Hoffman, deceased. The consideration was **$500**, already paid. The land is described as the upper part of Weeden Hoffman's 500-acre survey on **Land Fork**, with calls touching **Sand Fork**, **Cove Lick**, Buzzard Mine / run, and the Pickering survey. The visual verification corrected key OCR-damaged calls including `S 503 W` as **S 50 1/2 W** and `N 12675 poles` as a 75-pole call with the bearing still partly uncertain. This is the deed supplying the Hoffman-Copley land base referenced in the 1900 exchange.
 
-This means the page reference is still unresolved. The strongest live candidate pages are now **52, 62, 82, and 132**. Pages **232** and **322** are lower-priority possibilities if the first four remain negative. Page 92 is effectively negative.
+The previously proposed candidate pages **52**, **62**, **82**, and **132** are now controlled negatives. Page 32 and the page-92 area were already negative. The page-number ambiguity is explained by the final digit in **321** being easy to lose or misread in the 1900 deed's handwritten citation.
 
 The same survey also checked the restricted general grantor index path in DGS **008219260** / Film **819917**. The relevant Copley zone jumps from **Colvin** at image 305 to **Cork** at image 306, with no dedicated Copley page and no visible Copley-variant entries in the gap. Treat the Copley grantor-index path as a documented negative unless a future search finds a separate index layer.
 
 The same follow-up also reported the 55-acre tract phrase as **Nonypod Run of Sand Creek**. Earlier work had read the location as Bungport Run of Cove Lick. Treat this as a place-name transcription conflict until the complete image is reread.
+
+The visual-verification report confirms image 194's recording certificate and treats the marginal annotation on image 193 as meaningful but unresolved. OCR reads **"Old to John Copley March 21 . 1886"**; the note is faint in the tiles, gives no book/page, and appears to be a later clerk or attorney pointer to a subsequent instrument. The follow-up search did **not** find a matching Michael Copley to John Copley instrument in the available Lewis County deed-book / deed-index paths. Treat the 1886 note as a bounded negative for the checked deed-book routes, not as a live repeat search.
 
 ## Property Exchange
 
@@ -76,10 +81,10 @@ The deed recites an exchange involving:
 
 - a **55-acre tract**, with the place-name reading currently conflicting between **Nonypod Run of Sand Creek** and the earlier tentative **Bungport Run of Cove Lick** reading;
 - **27½ acres of John Copley's one-half interest** in a **200-acre Sand Fork tract** previously associated with Michael and John Copley;
-- an earlier deed citation now read as **1 May 1880, Deed Book No. 11, page 32?**;
+- the source deed now resolved as **1 May 1880, Deed Book No. 11, page 321**;
 - a final metes-and-bounds description containing **79 acres and 48 poles**, more or less.
 
-The precise relationship between the recited 55 acres and the final 79-acre / 48-pole description remains unclear from the report transcription. The older deed-book citation also remains unresolved because Deed Book 11 page 32 did not contain the expected Copley deed.
+The precise relationship between the recited 55 acres and the final 79-acre / 48-pole description remains unclear from the report transcription. The older deed-book citation itself is no longer unresolved: it is the Book 11 page 321 Hoffman-administrator / Harrison / Edwards deed to Michael and John Copley.
 
 ## Oil-Title Relevance
 
@@ -110,9 +115,10 @@ The FamilySearch relationship string is malformed. It incorrectly treats decease
 ## Next Records
 
 1. Request and transcribe **Deed Book 42, page 267** from the Lewis County Clerk or an offline microfilm source; it is indexed as Anna Copley to South Penn Oil Company, Lease, 128 acres on Sand Fork, but was not available in the online FamilySearch images checked.
-2. Resolve the cited **1 May 1880, Deed Book No. 11, page 32?** reference by checking Book 11 candidate pages **52, 62, 82, and 132** first; only then check pages **232** and **322**.
-3. Treat the DGS **008219260** / Film **819917** Copley grantor-index path as currently negative because the relevant index sequence jumps from Colvin to Cork at images 305-306 with no Copley page or entry.
-4. Search the **South Penn grantee path** in Film **819926** / DGS **7902191** under South Penn / South Penn Oil / South Penn Oil Company and related variants.
-5. Search related conveyances, mineral-rights instruments, royalty assignments, partition records, and [[People/John Copley|John Copley]]'s estate.
+2. Do not repeat the 21 March 1886 Michael-to-John deed-index search unless verifying the bounded negative. The checked paths include the A-E grantor index Colvin-to-Cork gap, the A-F grantee-index Copley page, the DB 16 internal index, and a March-April 1886 deed-book browse.
+3. Preserve the visual-verification caveats for the Book 11 metes-and-bounds calls: most key calls are corrected, but several fractional bearings / directions remain uncertain and should be rechecked before platting.
+4. If the 1886 note is pursued further, move to non-duplicative paths: broader DB 16 docket browsing for variant spellings, Lewis County chancery / fiduciary / release / docket records, or a direct clerk inquiry about original indexes and marginal-reference materials.
+5. Treat the DGS **008219260** / Film **819917** Copley grantor-index path as currently negative because the relevant index sequence jumps from Colvin to Cork at images 305-306 with no Copley page or entry.
+6. Search related conveyances, mineral-rights instruments, royalty assignments, partition records, and [[People/John Copley|John Copley]]'s estate.
 
 Ready-to-use requests are in [[Volunteer Record Request Tasks#VR-06 Copley No 1 Oil Leases Royalties and John Copley Estate|VR-06]] and [[Volunteer Record Request Tasks#VR-06A Restricted Lewis County Deed-Index Lookup|VR-06A]].

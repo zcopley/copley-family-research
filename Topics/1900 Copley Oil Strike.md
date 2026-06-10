@@ -41,6 +41,8 @@ June 2026 oil-title work substantially strengthened the property identification.
 
 A separate family exchange deed, executed **22 August 1900**, records [[People/Ann Copley|Ann Copley]], daughters Margaret, Ann, Sarah, and Bridget Gillooly, Bridget's husband Patrick, and [[People/John Copley|John Copley]] rearranging interests involving Sand Fork and a 55-acre tract whose place-name reading remains unresolved. The deed was recorded **13 October 1900**, one month after the strike, and contains no oil, gas, mineral, royalty, lease, or South Penn language. It is important title-chain evidence, but it is not the 128-acre oil lease. See [[References/Claude for Chrome 1900 Copley Family Exchange Deed]].
 
+The older deed cited inside that exchange deed is now visually verified at **Lewis County Deed Book 11 page 321**, DGS `008293286` images `193-194`. Executed **1 May 1880** and recorded **24 February 1881**, it conveys **200 acres** on Land Fork / Sand Fork / Cove Lick from Harrison / Edwards / John T. Sullivan as administrator of Emma M. Hoffman to **Michael Copley and John Copley**, confirming the source-title trail behind the family land base. Its marginal note, OCR-read as `Old to John Copley March 21 . 1886`, did not lead to a matching instrument in the checked Lewis County deed-book / deed-index paths.
+
 ## Timeline
 
 ```mermaid
@@ -90,17 +92,17 @@ Archive targets:
 ## Research Gaps
 - Exact lease terms (bonus, royalty percentage, duration, assignments) from the Book 42 page 267 Sand Fork lease.
 - Names/signatures of every lessor on the Book 42 Anna Copley / South Penn lease.
-- Exact volume, complete legal description, 55-acre place-name reading, and cited 1 May 1880 / Deed Book 11 / page 32? reference behind the located family exchange deed; page 32 and the page-92 area are negative, leaving pages 52, 62, 82, and 132 as the strongest next checks.
+- The meaning of the 21 March 1886 marginal note if it survives only outside the checked deed-book paths, plus the 1900 exchange deed's unresolved 55-acre place-name reading.
 - Verified lifetime production and total revenue of Copley No. 1.
 - Precise distribution of oil-derived wealth among heirs.
 - Whether multiple adjacent Copley-linked parcels were leased/drilled.
 
 ### Acquisition Strategies
 - Send the VR-06 certified-copy request for Deed Book 42 page 267 to the Lewis County Clerk or an offline microfilm source; it is indexed as Anna Copley to South Penn Oil Company, Lease, 128 acres on Sand Fork.
-- Use the online Book 39 page 138 lease as companion context. Treat the Standard Oil grantee-index path as a bounded negative. Treat earlier low-resolution Eureka reads as unconfirmed; a high-resolution pass of Film 819924 images 391-392 found no Eureka Pipe Line / Copley / Book 42 entry. If continuing online deed-index work, inspect the remaining possible company / firm pages at native-tile resolution.
+- Use the online Book 39 page 138 lease as companion context. Treat the Standard Oil grantee-index path as a bounded negative. Treat Eureka Pipe Line as a bounded negative in Film 819924 / DGS 8135143: image 437 is the correct E-company section and contains only Eureka Lumber & Manufacturing Company entries, with blank rows before Evans Supply Store where Eureka Pipe Line / Pipeline would appear. No further Eureka grantee-index work is warranted unless a new independent citation points to a different record series or book/page.
 - Treat the Copley grantor-index Film 819917 / DGS 8219260 path as currently negative unless verifying the prior Colvin-to-Cork result.
 - Search specifically for `Copley heirs`, `Michael Copley Heirs 128-Acre Lease`, `Copley Heirs Well No. 1`, `Copley heirs' No. 3`, and Sand Fork / Copley Oil Pool references in deed, lease, royalty, and title-chain records.
-- Use record `6X4N-DWWY` as a located title-chain anchor, not as the oil lease; resolve its cited 1 May 1880 / Deed Book 11 / page 32? reference by checking Book 11 pages 52, 62, 82, and 132.
+- Use record `6X4N-DWWY` as a located title-chain anchor, not as the oil lease; use Book 11 page 321 as the resolved and visually verified 1880 source-title deed; do not repeat the checked 21 March 1886 deed-index path unless a new citation or record set appears.
 - Build a royalty ledger from probate, tax, and deed references.
 - Cross-check production claims against period trade publications and state reports.
 

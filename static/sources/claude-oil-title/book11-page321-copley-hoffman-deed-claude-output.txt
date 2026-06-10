@@ -1,0 +1,114 @@
+# Book 11 Page 321 Copley / Hoffman Deed Check
+
+Preservation note: normalized extract of the user-supplied Claude for Chrome report on the Book 11 candidate-page search for the older deed cited in the 22 August 1900 Copley family exchange deed, FamilySearch record 6X4N-DWWY.
+
+## Conclusion
+
+Positive hit: the cited deed is at Lewis County Deed Book 11, page 321, DGS 008293286, image 193.
+
+The four previously proposed candidate pages 52, 62, 82, and 132 are negative. The citation previously read as "1 May 1880, Deed Book No. 11, page 32?" is now confirmed as page 321. The deed is a Harrison / Edwards / Sullivan-as-Hoffman-administrator conveyance to Michael Copley and John Copley for 200 acres on Land Fork / Sand Fork / Cove Lick in Lewis County. It directly supplies the Hoffman-Copley land base referenced in the 1900 exchange deed.
+
+## Candidate Page Results
+
+| Candidate page | DGS image | Image ARK | Page written | Target terms | Verdict |
+|---|---|---|---|---|---|
+| 52 | 57 | 3Q9M-CSR7-SQXR-Y | About 51-52 | None | Negative: McCray / Corrothersk deeds, June 1880 |
+| 62 | 62 | 3Q9M-CSR7-SQXP-2 | About 61-62 | None | Negative: West Fork River / DeVinney / Butcher deed, 1880 |
+| 82 | 72 | 3Q9M-CSR7-SQXT-Z | About 81-82 | None | Negative: Petterson deed, July 1880 |
+| 132 | 97 | 3Q9M-CSR7-SQXL-7 | About 130-132 | None | Negative: George J. Arnold to Woofter children, September 1880, Weston lot |
+
+## Positive Hit
+
+**Book / page:** Lewis County Deed Book 11, page 321
+
+**DGS / image:** DGS 008293286, image 193 of 379
+
+**Image URL:** https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSR7-SQXJ-C?i=1&cc=3158864&view=fullText&lang=en&keywords=Copley
+
+**Deed-book pages covered:** pages 321-322 for the Copley deed. Image 194 contains the acknowledgments and recording certificate, followed by the next deed beginning at page 323.
+
+**Grantor index confirmation:** Image 7 of DGS 008293286 has the entry "Copley Michael, M. W. Hamison & others 321 5." The 321 is the Deed Book 11 page number; the 5 is likely noise or a secondary folio marker.
+
+## Deed Abstract
+
+**Instrument type:** Deed of conveyance, bargain and sale with general warranty.
+
+**Date executed:** 1 May 1880.
+
+**Date recorded:** 24 February 1881. A later visual-verification pass read the recording certificate on image 194. The clerk's name remains visually uncertain; OCR renders it as "Waafter."
+
+**Grantors / parties of the first part:**
+
+- Matthew W. Harrison and Sarah E. Harrison, his wife.
+- Thomas B. Edwards and Mary O. / Mary C. Edwards, his wife.
+- John T. Sullivan, Administrator with the Will Annexed of Emma M. Hoffman, deceased.
+
+**Grantees / parties of the second part:**
+
+- Michael Copley.
+- John Copley.
+
+**Consideration:** $500, all of which had already been paid.
+
+**Land description:** Situate in Lewis County, West Virginia, on Land Fork, a branch of the Little Kanawha River, being the upper part of a 500-acre survey made for Weeden Hoffman. The calls reference the Pickering 5,000-acre survey, Sand Fork, Land Fork, Buzzard Mine / run, Cove Lick, and a total of 200 acres. A later visual-verification pass corrected key OCR damage: "S 503 W" is S 50 1/2 W, and "N 12675 poles" is not 12,675 poles but a 75-pole call with the fractional bearing / direction still partly uncertain.
+
+**Warranty:** General warranty by the grantors.
+
+**Signatures reported:**
+
+- Matthew W. Harrison.
+- S. E. Harrison.
+- Thos. B. Edwards.
+- Mary C. Edwards.
+- John T. Sullivan, Administrator with the Will Annexed of Emma M. Hoffman, deceased.
+
+**Acknowledgments reported:**
+
+- Matthew W. Harrison and Thomas B. Edwards acknowledged before N. B. Newton, Notary Public, Lewis County, 17 May 1880.
+- Sarah E. Harrison and Mary O. / Mary C. Edwards were privately examined and acknowledged before N. B. Newton, Notary Public, Lewis County, 17 May 1880.
+- John T. Sullivan, Administrator, acknowledged before Denis O'Keeffe, Notary Public, Ohio County, West Virginia, 23 May 1880.
+
+## Target-Term Hits
+
+| Target term | Found? | Context |
+|---|---|---|
+| Copley | Yes | Michael Copley and John Copley as grantees |
+| Michael Copley | Yes | Named grantee |
+| John Copley | Yes | Named grantee |
+| Hoffman | Yes | Emma M. Hoffman deceased; Weeden Hoffman 500-acre survey |
+| Sand Fork | Yes | Boundary calls |
+| Cove Lick | Yes | OCR renders as "Cove sick" |
+| 200 acres | Yes | "containing two hundred acres" |
+| Ann / Anna Copley | No | Not in this deed |
+| Patrick Copley | No | Not in this deed |
+| 55 acres | No | Not in this deed |
+| 27 1/2 acres | No | Not in this deed |
+| Nonypod / Nonnypod | No | Not in this deed |
+| Bungport | No | Not in this deed |
+
+## Relationship to the 1900 Exchange Deed
+
+The 22 August 1900 Copley family exchange deed cites an older deed as source of title. The source deed is now confirmed as Deed Book 11, page 321. The previous "page 32?" reading was a page-number misread, likely because the final "1" in 321 was abbreviated, cramped, or lost in the image.
+
+The 1 May 1880 deed conveys from Hoffman heirs / representatives to Michael Copley and John Copley. It describes 200 acres on Land Fork, bounded by Sand Fork and Cove Lick, from the upper part of Weeden Hoffman's 500-acre survey and within the Pickering 5,000-acre survey envelope. This is the Hoffman-Copley land base. The consideration language indicates the $500 purchase price had already been paid.
+
+The 1900 exchange deed then redistributed interests among surviving Copley heirs. A marginal notation on image 193 is meaningful but gives no book/page. OCR reads "Old to John Copley March 21 . 1886," suggesting a possible later conveyance, release, quitclaim, assignment, or non-deed reference involving Michael Copley's interest and John Copley. A later deed-index follow-up did not locate a matching instrument in the checked Lewis County deed-book paths.
+
+## Negative Candidate Pages
+
+Page 52, image 57: McCray / McCay deed and Corrothersk / Corothers to George Harris deed. No Copley, Hoffman, Sand Fork, Cove Lick, or related terms.
+
+Page 62, image 62: deed for land on the west side of the West Fork River involving Granville D. Butcher, Marshall A. Butcher, and C. D. DeVinney. No target terms.
+
+Page 82, image 72: acknowledgment section of a Petterson deed, July 1880, notarized by Wm. L. Dunnington. No target terms.
+
+Page 132, image 97: George J. Arnold to George Woofter and Mary Woofter, children of Jesse Woofter, September 1880, Weston town-lot deed. No target terms.
+
+## Next Recommended Actions
+
+The cited deed has been found. No further image search is needed to locate this deed.
+
+1. Use the separate visual-verification report for corrected Book 11 page 321 details, including the 24 February 1881 recording date and corrected OCR-damaged calls.
+2. Do not repeat the checked 21 March 1886 deed-index search unless verifying the bounded negative.
+3. If the 1886 note is pursued further, use non-duplicative paths: broader DB 16 docket browsing for variant spellings, chancery / fiduciary / release / docket records, or Lewis County Clerk original indexes / marginal-reference materials.
+4. Keep Book 42 page 267 as the next courthouse work item: request the Anna Copley to South Penn Oil Company oil-and-gas lease from the Lewis County Clerk.

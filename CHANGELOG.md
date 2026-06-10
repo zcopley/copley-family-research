@@ -10,18 +10,54 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
-## Phase 4EB - Eureka High-Resolution Check Corrects Prior Reads (June 8, 2026)
+## Phase 4EF - 1886 Michael-to-John Marginal Note Bounded Negative (June 9, 2026)
 
-**OIL-TITLE INDEX UPDATE:** Integrated the high-resolution native-tile review of Film `819924` / DGS `8135143`, images 391-392. The new pass does **not** confirm the prior low-resolution "Eureka" readings. Images 391-392 show D-company and E-adjacent entries, but no Eureka Pipe Line Company, no Copley grantor, and no Book 42 page 267 reference. The Eureka path remains unresolved, but the next online work is now a native-tile pass over the remaining possible company / firm pages rather than relying on the earlier low-resolution identifications.
+**OIL-TITLE / LAND-TITLE UPDATE:** Integrated the Claude for Chrome search for the instrument hinted by the Book 11 page 321 marginal note `Old to John Copley March 21 . 1886`. No matching Michael Copley to John Copley deed, quitclaim, release, assignment, or related instrument was found in the checked Lewis County FamilySearch deed-index / deed-book paths. The negative covers the A-E grantor index Colvin-to-Cork gap, the A-F grantee-index Copley page, the DB 16 internal index, DB 17 start/end, and a March-April 1886 direct deed-book browse.
 
 ### Updated Pages
 
-- [[References/Claude for Chrome Copley Heirs Oil Title Search|Claude for Chrome Copley Heirs Oil Title Search]], [[Research Priorities and Action Items]], [[Sources and Evidence Index]], [[Topics/1900 Copley Oil Strike|1900 Copley Oil Strike]], [[Volunteer Record Request Tasks]], [[Tier 1 Research Execution Kit]], [[Search Index]], and `.agents/AGENT_RESUME.md` - updated Eureka from continuation-film shorthand to a high-resolution company-page search problem and preserved the correction that images 391-392 are not Eureka hits.
+- [[References/Claude for Chrome 1900 Copley Family Exchange Deed|Claude for Chrome 1900 Copley Family Exchange Deed]], [[References/Claude for Chrome Copley Heirs Oil Title Search|Claude for Chrome Copley Heirs Oil Title Search]], [[Research Priorities and Action Items]], [[Sources and Evidence Index]], [[Topics/1900 Copley Oil Strike|1900 Copley Oil Strike]], [[Volunteer Record Request Tasks]], [[Tier 1 Research Execution Kit]], [[Search Index]], [[People/Michael Copley Sr|Michael Copley Sr.]], [[People/John Copley|John Copley]], [[Places/Cove Lick West Virginia|Cove Lick]], and `.agents/AGENT_RESUME.md` - changed the 1886 marginal-note path from a live deed-index task to a bounded negative, with any further work limited to non-duplicative record sets or original clerk materials.
+- `static/sources/claude-oil-title/michael-to-john-copley-1886-marginal-note-search-claude-output.txt` - preserved the bounded-negative report and exact films / images checked.
+
+## Phase 4EE - Book 11 Page 321 Visual Verification (June 9, 2026)
+
+**OIL-TITLE / LAND-TITLE UPDATE:** Integrated the visual verification of Lewis County Deed Book 11 page 321 on DGS `008293286` images `193-194`. The source deed is now visually confirmed as Harrison / Edwards / John T. Sullivan as administrator with the will annexed of Emma M. Hoffman to Michael Copley and John Copley, executed **1 May 1880** and recorded **24 February 1881**. The verification corrected key OCR-damaged metes-and-bounds calls and converted the marginal note into a specific next lead; Phase 4EF later searched that 21 March 1886 lead and closed the checked deed-index path as a bounded negative.
+
+### Updated Pages
+
+- [[References/Claude for Chrome 1900 Copley Family Exchange Deed|Claude for Chrome 1900 Copley Family Exchange Deed]], [[References/Claude for Chrome Copley Heirs Oil Title Search|Claude for Chrome Copley Heirs Oil Title Search]], [[Research Priorities and Action Items]], [[Sources and Evidence Index]], [[Topics/1900 Copley Oil Strike|1900 Copley Oil Strike]], [[Volunteer Record Request Tasks]], [[Tier 1 Research Execution Kit]], [[Search Index]], [[People/Michael Copley Sr|Michael Copley Sr.]], [[People/John Copley|John Copley]], [[Places/Cove Lick West Virginia|Cove Lick]], and `.agents/AGENT_RESUME.md` - changed the Book 11 follow-up from visual verification to the targeted 21 March 1886 Michael-to-John grantor-index search; Phase 4EF later closed the checked deed-index path as a bounded negative.
+- `static/sources/claude-oil-title/book11-page321-visual-verification-claude-output.txt` - preserved the visual-verification summary, corrected recording date, metes-and-bounds caveats, and marginal-note assessment.
+
+## Phase 4ED - Book 11 Page 321 Source Deed Found (June 9, 2026)
+
+**OIL-TITLE / LAND-TITLE UPDATE:** Integrated the complete Claude for Chrome Book 11 candidate-page search. The older source deed cited inside FamilySearch record `6X4N-DWWY` is now located at **Lewis County Deed Book 11 page 321**, DGS `008293286` image `193`, not page 32 or the candidate pages 52, 62, 82, and 132. The deed was executed **1 May 1880** by Matthew W. Harrison / Sarah E. Harrison, Thomas B. Edwards / Mary O. or Mary C. Edwards, and John T. Sullivan as administrator with the will annexed of Emma M. Hoffman, deceased, to **Michael Copley and John Copley** for **200 acres** on Land Fork / Sand Fork / Cove Lick from the upper part of Weeden Hoffman's 500-acre survey.
+
+### Updated Pages
+
+- [[References/Claude for Chrome 1900 Copley Family Exchange Deed|Claude for Chrome 1900 Copley Family Exchange Deed]], [[References/Claude for Chrome Copley Heirs Oil Title Search|Claude for Chrome Copley Heirs Oil Title Search]], [[Research Priorities and Action Items]], [[Sources and Evidence Index]], [[Topics/1900 Copley Oil Strike|1900 Copley Oil Strike]], [[Volunteer Record Request Tasks]], [[Tier 1 Research Execution Kit]], [[Search Index]], [[People/Michael Copley Sr|Michael Copley Sr.]], [[People/John Copley|John Copley]], [[Places/Cove Lick West Virginia|Cove Lick]], and `.agents/AGENT_RESUME.md` - changed Book 11 from unresolved candidate pages to a located source-title deed and preserved image 194 / 1886 marginal-note verification as live follow-up.
+- `static/sources/claude-oil-title/book11-page321-copley-hoffman-deed-claude-output.txt` - preserved the complete page-321 report and negative candidate-page table.
+
+## Phase 4EC - Eureka Pipe Line Grantee Path Closed (June 8, 2026)
+
+**OIL-TITLE INDEX UPDATE:** Integrated the complete Claude for Chrome E-company section search for Film `819924` / DGS `8135143`. The earlier images 391-392 check was accurate but was in late-D company pages, not the E-company section. The correct E-company section is image 437, ARK `3:1:3Q9M-CSVB-29XQ-T`; it contains Erbacon & Summersville R R Co., Eureka Lumber & Manufacturing Company, blank rows, and Evans Supply Store. No Eureka Pipe Line / Pipeline, Copley, Sand Fork, South Penn, or Book 42 page 267 entry appears. Eureka Pipe Line Company is now a bounded negative as a grantee in this Lewis County general grantee index for 1817-1934.
+
+### Updated Pages
+
+- [[References/Claude for Chrome Copley Heirs Oil Title Search|Claude for Chrome Copley Heirs Oil Title Search]], [[Research Priorities and Action Items]], [[Sources and Evidence Index]], [[Topics/1900 Copley Oil Strike|1900 Copley Oil Strike]], [[Volunteer Record Request Tasks]], [[Tier 1 Research Execution Kit]], [[Search Index]], and `.agents/AGENT_RESUME.md` - changed Eureka from unresolved to a bounded negative and preserved the direct Book 42 page 267 request as the required next action.
+- `static/sources/claude-oil-title/eureka-pipe-line-high-resolution-check-claude-output.txt` - replaced the earlier partial images 391-392 report with the complete E-company section result.
+
+## Phase 4EB - Eureka High-Resolution Check Corrects Prior Reads (June 8, 2026)
+
+**OIL-TITLE INDEX UPDATE:** Integrated the high-resolution native-tile review of Film `819924` / DGS `8135143`, images 391-392. The new pass did **not** confirm the prior low-resolution "Eureka" readings. Images 391-392 show D-company and E-adjacent entries but no Eureka Pipe Line Company, no Copley grantor, and no Book 42 page 267 reference. This entry is superseded by Phase 4EC, which located the correct E-company section at image 437 and closed Eureka Pipe Line as a bounded negative.
+
+### Updated Pages
+
+- [[References/Claude for Chrome Copley Heirs Oil Title Search|Claude for Chrome Copley Heirs Oil Title Search]], [[Research Priorities and Action Items]], [[Sources and Evidence Index]], [[Topics/1900 Copley Oil Strike|1900 Copley Oil Strike]], [[Volunteer Record Request Tasks]], [[Tier 1 Research Execution Kit]], [[Search Index]], and `.agents/AGENT_RESUME.md` - updated Eureka from continuation-film shorthand to a high-resolution company-page search problem and preserved the correction that images 391-392 are not Eureka hits; this was later superseded by the image-437 bounded negative.
 - `static/sources/claude-oil-title/eureka-pipe-line-high-resolution-check-claude-output.txt` - preserved the high-resolution image-check report and the contact-number caution.
 
 ## Phase 4EA - Standard Oil Closed; Eureka Continuation Needed (June 7, 2026)
 
-**OIL-TITLE INDEX UPDATE:** Integrated the follow-up deed-index check for Standard Oil and Eureka Pipe Line. The Standard Oil grantee-index path is now a bounded negative: Film `819926` / DGS `007902191`, images 310-360, moves from South Penn to Smith to Stalnaker to Swisher with no Standard Oil / Standard Oil Company page or Copley-related entry. The Eureka Pipe Line path remains structurally incomplete because Film `819924` / DGS `8135143` reaches only Ba-Br firms / corporations before a "TO BE CONTINUED" card and then switches to a separate grantor-index volume.
+**OIL-TITLE INDEX UPDATE:** Integrated the follow-up deed-index check for Standard Oil and Eureka Pipe Line. The Standard Oil grantee-index path is now a bounded negative: Film `819926` / DGS `007902191`, images 310-360, moves from South Penn to Smith to Stalnaker to Swisher with no Standard Oil / Standard Oil Company page or Copley-related entry. The Eureka Pipe Line path was then still structurally incomplete; this was later superseded by Phase 4EC, which located the correct E-company section at Film `819924` image 437 and closed Eureka as a bounded negative.
 
 ### Updated Pages
 
@@ -60,7 +96,7 @@ A running record of significant additions, corrections, and improvements to this
 
 ## Phase 4DW - Book 11 and Grantor-Index Survey Integrated (June 4, 2026)
 
-**OIL-TITLE UPDATE:** Integrated the structured Lewis County Book 11 / grantor-index survey. The Book 11 image map is now calibrated: image 47 corresponds to approximately pages 92-93, not page 32. Images 47-65 / approximately pages 92-128 were checked with no Copley, Hoffman, Sand Fork, 200-acre, 27½-acre, 55-acre, Nonypod, or Bungport deed found. Book 11 page 32 remains negative from the prior pass, so the strongest remaining candidates for the older 1 May 1880 deed citation are now pages **52, 62, 82, and 132**.
+**OIL-TITLE UPDATE:** Integrated the structured Lewis County Book 11 / grantor-index survey. The Book 11 image map is now calibrated: image 47 corresponds to approximately pages 92-93, not page 32. Images 47-65 / approximately pages 92-128 were checked with no Copley, Hoffman, Sand Fork, 200-acre, 27½-acre, 55-acre, Nonypod, or Bungport deed found. Book 11 page 32 remained negative from the prior pass, so pages **52, 62, 82, and 132** became the next candidates. This entry is superseded by Phase 4ED, which located the deed at Book 11 page 321.
 
 The Copley grantor-index path in DGS `008219260` / Film `819917` is now treated as a documented negative: the relevant ledger sequence jumps from **Colvin** at image 305 to **Cork** at image 306 with no Copley page or entry. The highest-priority remaining online/FamilySearch-Center path is now the **South Penn grantee index** in Film `819926` / DGS `7902191`.
 
@@ -72,12 +108,12 @@ The Copley grantor-index path in DGS `008219260` / Film `819917` is now treated 
 
 ## Phase 4DV - Deed Book 11 Citation Progress Integrated (June 4, 2026)
 
-**OIL-TITLE UPDATE:** Integrated the follow-up Lewis County deed research progress report. The older deed citation in FamilySearch record `6X4N-DWWY` now reads **1 May 1880, Deed Book No. 11, page 32?**, not the earlier tentative 1878 / page 321 reading. Deed Book 11, page 32 was checked in DGS `008293286` and did **not** contain a Copley deed, so the citation remains unresolved. The 55-acre tract place-name reading is also now treated as a transcription conflict between the newer `Nonypod Run of Sand Creek` reading and the earlier `Bungport Run of Cove Lick` reading.
+**OIL-TITLE UPDATE:** Integrated the follow-up Lewis County deed research progress report. The older deed citation in FamilySearch record `6X4N-DWWY` then read **1 May 1880, Deed Book No. 11, page 32?**, not the earlier tentative 1878 / page 321 reading. Deed Book 11, page 32 was checked in DGS `008293286` and did **not** contain a Copley deed, so the citation remained unresolved at that stage. This entry is superseded by Phase 4ED, which confirmed the correct citation as Book 11 page 321. The 55-acre tract place-name reading is still treated as a transcription conflict between the newer `Nonypod Run of Sand Creek` reading and the earlier `Bungport Run of Cove Lick` reading.
 
 ### Updated Pages
 
 - [[References/Claude for Chrome 1900 Copley Family Exchange Deed|Claude for Chrome 1900 Copley Family Exchange Deed]] - added the Book 11 / 1880 correction, failed page-32 check, unresolved place-name warning, exact DGS targets, and raw progress-report link.
-- [[References/Claude for Chrome Copley Heirs Oil Title Search|Claude for Chrome Copley Heirs Oil Title Search]], [[Topics/1900 Copley Oil Strike|1900 Copley Oil Strike]], [[People/Michael Copley Sr|Michael Copley Sr.]], [[People/John Copley|John Copley]], [[People/Ann Copley|Ann Copley]], [[Places/Cove Lick West Virginia|Cove Lick]], [[Sources and Evidence Index]], [[Research Priorities and Action Items]], [[Volunteer Record Request Tasks]], [[Tier 1 Research Execution Kit]], [[Search Index]], [[Home]], and `index.md` - replaced the older 1878 / page-321 target with the narrowed Book 11 page-32? problem and next search ranges.
+- [[References/Claude for Chrome Copley Heirs Oil Title Search|Claude for Chrome Copley Heirs Oil Title Search]], [[Topics/1900 Copley Oil Strike|1900 Copley Oil Strike]], [[People/Michael Copley Sr|Michael Copley Sr.]], [[People/John Copley|John Copley]], [[People/Ann Copley|Ann Copley]], [[Places/Cove Lick West Virginia|Cove Lick]], [[Sources and Evidence Index]], [[Research Priorities and Action Items]], [[Volunteer Record Request Tasks]], [[Tier 1 Research Execution Kit]], [[Search Index]], [[Home]], and `index.md` - replaced the older 1878 / page-321 target with the narrowed Book 11 page-32? problem and next search ranges. Phase 4ED later resolved the source deed as Book 11 page 321.
 - `static/sources/claude-oil-title/lewis-county-deed-research-progress-book11-copley-south-penn-claude-output.txt` - preserved the progress report.
 
 ## Phase 4DU - 1900 Copley Family Exchange Deed Identified (June 4, 2026)
