@@ -216,7 +216,7 @@ flowchart TB
     ERIN --> G27
 ```
 
-Best next pages for this section: [[Thomas Partlow Copley]], [[Zachary R. Copley]], [[Erin E. Copley Bird]], [[Charles H. Copley]].
+Best next pages for this section: [[Thomas Partlow Copley]], [[Barbara Dee LaForce]], [[Zachary R. Copley]], [[Erin E. Copley Bird]], [[Charles H. Copley]].
 
 ## Older And Speculative Ancestry
 

@@ -247,6 +247,8 @@ Steve Copley (letter, ~Feb 2026) identifies three hypothetical routes by which E
 
 3. **Lord Baltimore** ❓ — Cecil Calvert, 2nd Baron Baltimore, was associated with a **Thomas Copley** (a Jesuit priest) who helped establish the Maryland Colony in the 1630s–1640s. This connection is speculative and would represent a completely different branch. Its relevance to a County Roscommon presence is unclear.
 
+**June 2026 update:** Tom's later email to Steve reframed the route list as four early English Copleys in Ireland who could theoretically sit behind the Roscommon line: **Christopher**, **Captain John**, **Henry**, and **Anthony**. Tom described Christopher as connected to the original West Yorkshire root, while John, Henry, and Anthony belong to the London cadet / Bredon-related branch framework. This is a research map, not a proof conclusion. Steve also reported that he was drafting an `Addendum 2` article called `Christopher Copley Redux`, which should be reviewed if it becomes available. See [[References/Tom and Steve Copley June 2026 House and Origin Thread]].
+
 ---
 
 ## 10. The "Murray's Settlement" Question

@@ -143,6 +143,7 @@ Use this directory to find profiles for specific people. Start at the generation
 ### [[Michael Joseph Copley]] (1898–1988)
 - Research chemist; BS Catholic University; PhD University of Illinois; USDA laboratory leader in Wyndmoor and Albany.
 - Parent of Phase 1B G25 descendants: [[Stephen Michael Copley]], [[Thomas Partlow Copley]].
+- Bought the [[Places/862 Arlington Avenue Berkeley|862 Arlington Avenue house]] in Berkeley in 1947 after moving into the Albany / Berkeley federal-science orbit.
 
 ---
 
@@ -163,6 +164,7 @@ Use this directory to find profiles for specific people. Start at the generation
 ### [[Thomas Partlow Copley]]
 - Child of [[Michael Joseph Copley]] and Marion Elizabeth Partlow.
 - Marketing/academia profile expanded from Appendix 1 biographical material.
+- Married [[Barbara Dee LaForce]] in 1967; later family steward of the Arlington Avenue house.
 
 ### Tentative / possible additions (explicitly unverified)
 - Possible additional G25 descendants through [[Mary Copley Flesch]] or [[Anne Copley (daughter of John Copley)|Anne Copley (daughter of John)]] remain unconfirmed in currently available records.
@@ -173,6 +175,9 @@ Use this directory to find profiles for specific people. Start at the generation
 
 ### [[Marcia Thornton Copley]]
 - First wife of [[Stephen Michael Copley]]; Harbor Regional Center and SVS disability-services connection.
+
+### [[Barbara Dee LaForce]]
+- Wife of [[Thomas Partlow Copley]]; mother of Zach, Erin, and Charles; privacy-sensitive living-person profile.
 
 ### [[Judith Ann Todd Copley]]
 - Second wife of [[Stephen Michael Copley]]; Cambridge-trained materials scientist, Penn State department head, and engineering-society leader.

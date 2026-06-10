@@ -26,6 +26,17 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
 
 ## What Was Just Completed
 
+- Integrated Zach's June 2026 Tom / Steve email folder `tom_steve_emails_062026` while excluding private health information from public notes:
+  - preserved the publishable PDF at `static/sources/tom-steve-emails-062026/house-mom-bio.pdf`;
+  - extracted and preserved the photo attachment at `static/sources/tom-steve-emails-062026/marion-michael-laforce-christmas-party-c1967-1968.jpeg`;
+  - did not publish the raw `.eml` files because they contain private health material and routine family correspondence;
+  - added `References/Tom and Steve Copley June 2026 House and Origin Thread.md` as the sanitized source note;
+  - created `Places/Berkeley California.md`, `Places/862 Arlington Avenue Berkeley.md`, and `People/Barbara Dee LaForce.md`;
+  - enriched `People/Marion Elizabeth Partlow.md` with the PDF's University of Illinois meeting context, English-teacher training, inherited-farm management, Tilden Botanical Garden advocacy, `Oakland Tribune` native-plant column, writing, and photo-identification lead;
+  - updated Michael Joseph, Tom, Stephen, Erin, and Zach pages with the Arlington Avenue house / Dee LaForce links where already relevant;
+  - added Ivo / Talvas / `Kopsi` origin material to `Topics/Bredon Descent.md`, `Topics/Captain John Copley Research.md`, `Sources and Evidence Index.md`, and `Research Priorities and Action Items.md` strictly as AI-derived research leads, not evidence;
+  - updated `Search Index.md`, `People Directory.md`, `People/People Directory.md`, `Places/_Places Index.md`, `Places/Albany California.md`, `Family Tree.md`, and `CHANGELOG.md`.
+
 - Cleaned and validated the June 2026 oil-title / Book 11 page 321 integration for commit:
   - ran `npm run check:mermaid`;
   - ran `npm run build`, which passed with only the known LaTeX unicode warnings;
@@ -958,6 +969,7 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
 - The highest-value Michael Copley Sr. parentage leads are now: Order Book No. 6 page 496 and any estate settlement / appraisement / inventory records after the located will; corroboration of the death-register John / Sarah parent names through Lewis County heirship / chancery / oil-title paperwork; any Bible or church evidence naming Sarah's maiden surname; and the ambiguous "Bridget Copley" Bible path, which should be tested through both Reynolds and Gillooly / collateral possibilities.
 - Any future use of the Tom email archives should start from `References/Thomas Copley May 2026 Email Leads.md` and `References/Tom and Steve Copley May 2026 Michael Parents Thread.md`. Preserve the evidence caution that the earlier May 7-8 messages are mostly AI-generated output, while the May 15-17 thread is family correspondence that sharpens leads but does not prove parentage. Browser-readable transcript/source-note pages live in `References/`; downloadable source files live under `static/sources/tom-emails/` and `static/sources/tom-steve-emails/`.
 - Standing source-ingestion rule: when future agents use raw materials such as `.eml`, `.txt`, `.pdf`, `.zip`, images, spreadsheets, record exports, or downloaded source packets, they should commit publishable raw files to the repo, preferably under `static/sources/<short-source-slug>/`; create browser-readable `References/` pages when practical; and link wiki citations to both the readable derivatives and the raw files instead of leaving machine-local-only paths.
+- June 2026 privacy precedent: do not publish raw emails when they include private health information; create a sanitized `References/` note and preserve only publishable non-health attachments when useful.
 - Standing request-template rule: when future agents decide that a letter, phone call, email, fax, web form, courthouse request, archive request, church request, cemetery request, library lookup, or paid-copy inquiry is the next practical action, they must add or update a reusable template in `Volunteer Record Request Tasks.md` and/or `Tier 1 Research Execution Kit.md`. Include the target claim, recipient, known citation details, spelling variants, exact ask, fee caution, and reporting instructions. Link new templates from `Research Priorities and Action Items.md`, `Sources and Evidence Index.md`, `Search Index.md`, and `CHANGELOG.md` when relevant.
 
 ## Next Step
@@ -991,6 +1003,10 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
   - Prove Frank Partlow = Nollie Franklin Partlow and Alice Rude = Mary Alice Rude/Partlow, starting with the 10 Jun 1900 marriage record and 1880/1900/1910/1920 census.
   - Capture original 1880 and 1900 Johnson Township, Clark County, Illinois census images for Marion McDonald Partlow and Frank Partlow, then capture original 1850 and 1860 Johnson Township census images for John H. Partlow.
   - Search official DAR GRS for Benjamin Partlow and obtain the full Benjamin Partlow Revolutionary War pension file.
+- Berkeley / Marion / origin-lead next steps:
+  - Verify the Arlington Avenue house chain through Berkeley property records, city directories, building permits, architectural-history sources, and UC Berkeley / Monroe Deutsch context before treating the full ownership sequence as property-record-verified.
+  - Verify Marion's `Oakland Tribune` native-plant column, Tilden Botanical Garden advocacy, and published writing through newspaper and local-history searches.
+  - Treat the Ivo / Talvas / `Kopsi` material as source-check prompts only; do not change the Bredon / Captain John descent narrative without medieval Yorkshire, surname/place-name, or Irish linguistic/source evidence.
 - Maintenance next steps:
   - Keep `AGENT_RESUME.md` current after major pushes so historical handoff files stay archival.
   - Do not leave useful raw materials only in `~/Downloads`, `/tmp`, or other local paths; incorporate publishable raw files and readable derivatives into git and the wiki.
@@ -1051,6 +1067,12 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
 - `People/Bridget Copley Reynolds.md`
 - `People/Bridget Bitty Copley Gillooly.md`
 - `Places/Kilgefin Ireland.md`
+- `References/Tom and Steve Copley June 2026 House and Origin Thread.md`
+- `Places/Berkeley California.md`
+- `Places/862 Arlington Avenue Berkeley.md`
+- `People/Barbara Dee LaForce.md`
+- `Topics/Bredon Descent.md`
+- `Topics/Captain John Copley Research.md`
 
 ## Open Questions
 

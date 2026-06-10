@@ -270,6 +270,16 @@ Steve Copley has proposed **Christopher Copley (Yorkshire)** as an alternate pro
 
 **Resolution:** Four primary sources verify Captain John's existence and Irish presence (1642–1657+); no primary sources document Christopher as a progenitor of the American Copleys.
 
+## June 2026 Name-Origin Leads: Ivo, Talvas, and Kopsi
+
+Tom and Steve Copley's June 2026 email thread adds three cautionary origin leads, preserved in [[References/Tom and Steve Copley June 2026 House and Origin Thread]]. These leads are useful because they mark what should be tested next, but the thread's Ivo / Talvas / Kopsi claims came through AI output and should not be treated as established evidence.
+
+- **Ivo / Talvas separation:** One AI response suggested that an early Yorkshire Ivo associated with the Copley name may have had no genealogical connection to the Talvas family of the House of Belleme. This would need verification from medieval Yorkshire records, place-name studies, heraldic sources, and any real primary references for Ivo.
+- **Place-name surname model:** The same AI output framed Ivo as a land speculator who acquired, cleared, or developed land around the village of Copley, after which descendants took the place-name surname. This is plausible as a surname-formation model but currently source-free in the thread.
+- **Kopsi null hypothesis:** Tom reported a separate AI suggestion that the Roscommon Copley name could derive from an Anglicized Gaelic name rendered `Kopsi`. Treat this as a weak linguistic lead only. It would require evidence from Irish surname dictionaries, parish records, local variants, and early Irish spellings before it should affect the English-descent framework.
+
+The practical effect is not to change the Bredon descent. It adds a name-origin control question: before extending the medieval Yorkshire line backward through Ivo or Talvas, verify whether the underlying Ivo evidence exists and whether `Copley` is being used as a place-derived English surname, a Talvas-associated lineage claim, or a later unrelated Irish name.
+
 ## Primary Sources
 
 The Bredon descent is verified through:
@@ -287,7 +297,8 @@ The Bredon descent is verified through:
 
 1. **Captain John's children:** Names, dates, marriages unknown. The speculative descent through "John of Kilgefin" to Michael Copley Sr. is based on generation timing and surname, not documentary evidence.
 2. **William Copley of Fairymount (b. ~1794):** Catholic Copely found in Kilgefin 1864; possible older brother or father of Michael Copley Sr. — genealogical relationship unclear.
-3. **Ann Munday/Murray:** Michael Copley Sr.'s wife; "Munday" is absent from Griffith's Valuation in Kinawley and all Fermanagh, while 14 Murrays appear in Kinawley. FamilySearch census searches also found no independent Munday household in Lewis County WV, 1840-1860. RQ-M5 now treats "Murray" as the likely original Irish surname and "Munday" as the received American-family spelling (see [[Topics/Murray Settlement|Murray Settlement RQ-M5]]).
+3. **Ann Munday direct surname proof:** Current working genealogy preserves Munday as the recorded family form; Murray is downgraded to a secondary search variant unless a direct record proves it.
+4. **Ivo / Talvas / Kopsi name-origin controls:** The June 2026 thread raises AI-derived possibilities that should be tested against real medieval and linguistic sources before any deeper surname-origin claim is added to the narrative.
 
 **Priority research actions:**
 
@@ -295,6 +306,7 @@ The Bredon descent is verified through:
 - Locate Captain John Copley's will or estate records (if they survive)
 - Search Irish Civil Registration for Copley births c. 1610–1700
 - Verify the "John of Kilgefin" → Michael Sr. descent via documentary evidence
+- Verify the earliest Ivo / Copley / Talvas assertions from medieval Yorkshire records and surname/place-name scholarship before treating them as part of the family line
 
 ## See Also
 
@@ -313,3 +325,4 @@ The Bredon descent is verified through:
 5. Dud Dudley, *Mettallum Martis* (1665)
 6. Tom Copley handwritten genealogical notes (3-page chart, April 2026)
 7. Heraldic records and coats of arms (Thomas Copley Sr. and descendants)
+8. [[References/Tom and Steve Copley June 2026 House and Origin Thread]] — sanitized June 2026 family correspondence note preserving Ivo / Talvas / Kopsi origin leads as unverified research questions.

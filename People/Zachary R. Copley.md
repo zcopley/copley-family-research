@@ -21,7 +21,7 @@ tags:
 - **Full name:** Zachary Robertson Copley
 - **Birth:** May 22, 1969, Bellefonte, Pennsylvania
   - Born while his father was completing his doctoral studies at Penn State University (PhD awarded 1977)
-- **Parents:** [[Thomas Partlow Copley]] and Barbara Dee LaForce
+- **Parents:** [[Thomas Partlow Copley]] and [[Barbara Dee LaForce]]
 - **Marriage:** Wendolyn Lorelei Thorpe Copley ("Wendy"), September 2001, Las Vegas, Nevada
 - **Current location:** Cedar Rapids, Iowa (relocated from El Cerrito, California)
 - **Work:** Unite Us (based in New York City)
@@ -29,7 +29,7 @@ tags:
 
 ## Family Relationships
 
-- **Parents:** [[Thomas Partlow Copley]], Barbara Dee LaForce
+- **Parents:** [[Thomas Partlow Copley]], [[Barbara Dee LaForce]]
 - **Grandparents:** [[Michael Joseph Copley]], [[Marion Elizabeth Partlow]]
 - **Great-grandparents:** [[John Copley]], [[Mary Ellen Dolan Copley]]
 - **Great-great-grandparents:** [[Michael Copley Sr|Michael Copley]], [[Ann Copley]]

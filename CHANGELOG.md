@@ -10,6 +10,21 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4EG - June 2026 House, Marion, and Origin Leads Integrated (June 10, 2026)
+
+**FAMILY-SOURCE / READER-PATH UPDATE:** Integrated the non-health family-history content from Tom and Steve Copley's June 2026 email set and the `house_mom_bio.pdf` addendum. The raw `.eml` files were not published because the thread includes private health information. The public source note preserves only the house, Marion, photo-identification, and origin-research leads.
+
+### Updated Pages
+
+- [[References/Tom and Steve Copley June 2026 House and Origin Thread|Tom and Steve Copley June 2026 House and Origin Thread]] - added a sanitized source note, linked the preserved house / Marion PDF, recorded the photo-identification lead, and separated AI-derived Ivo / Talvas / `Kopsi` origin prompts from evidence.
+- [[Places/Berkeley California|Berkeley, California]] and [[Places/862 Arlington Avenue Berkeley|862 Arlington Avenue, Berkeley]] - added missing place profiles for the East Bay family setting and the Arlington Avenue house, including the family-reported ownership chain from Minnie Clough / Monroe Deutsch to Michael Joseph Copley, Tom Copley, and later Tom-line ownership.
+- [[People/Marion Elizabeth Partlow|Marion Elizabeth Partlow]] - incorporated the PDF's added biography: University of Illinois meeting context, English-teacher training, active management of inherited Illinois farmland, Tilden Botanical Garden advocacy, `Oakland Tribune` native-plant column, writing, and the c. 1967-1968 family-photo lead.
+- [[People/Michael Joseph Copley|Michael Joseph Copley]], [[People/Thomas Partlow Copley|Thomas Partlow Copley]], [[People/Stephen Michael Copley|Stephen Michael Copley]], [[People/Erin E. Copley Bird|Erin E. Copley Bird]], and [[People/Zachary R. Copley|Zachary R. Copley]] - linked the Arlington Avenue house and Dee LaForce context where it already belonged.
+- [[People/Barbara Dee LaForce|Barbara Dee LaForce]] - created a concise, privacy-aware spouse profile and linked it from [[Family Tree]], [[People Directory]], [[People/People Directory|People Directory (Individual Profiles)]], and [[Search Index]].
+- [[Topics/Bredon Descent|Bredon Descent]], [[Topics/Captain John Copley Research|Captain John Copley Research]], [[Sources and Evidence Index]], and [[Research Priorities and Action Items]] - added the Ivo / Talvas / `Kopsi` material as research questions only, plus Tom's June 2026 four-route framing of Christopher, Captain John, Henry, and Anthony as possible early Copleys in Ireland.
+- [[Places/_Places Index|Places Index]], [[Places/Albany California|Albany, California]], and [[Search Index]] - added navigation and keyword coverage for Berkeley, 862 Arlington Avenue, the house chain, and related source leads.
+- `static/sources/tom-steve-emails-062026/house-mom-bio.pdf` and `static/sources/tom-steve-emails-062026/marion-michael-laforce-christmas-party-c1967-1968.jpeg` - preserved the publishable non-health PDF and photo attachment from the June 2026 source set.
+
 ## Phase 4EF - 1886 Michael-to-John Marginal Note Bounded Negative (June 9, 2026)
 
 **OIL-TITLE / LAND-TITLE UPDATE:** Integrated the Claude for Chrome search for the instrument hinted by the Book 11 page 321 marginal note `Old to John Copley March 21 . 1886`. No matching Michael Copley to John Copley deed, quitclaim, release, assignment, or related instrument was found in the checked Lewis County FamilySearch deed-index / deed-book paths. The negative covers the A-E grantor index Colvin-to-Cork gap, the A-F grantee-index Copley page, the DB 16 internal index, DB 17 start/end, and a March-April 1886 direct deed-book browse.

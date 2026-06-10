@@ -25,6 +25,7 @@ For the Copley project, Albany matters as a postwar federal-science center. It m
 
 ## Copley Family Connection
 - [[Michael Joseph Copley]] moved into the Albany / Berkeley orbit in `1947` after becoming Director of the USDA **Western Regional Research Laboratory**.
+- The June 2026 house addendum ties that career move to a specific household anchor: Michael bought [[Places/862 Arlington Avenue Berkeley|862 Arlington Avenue in Berkeley]] in `1947`, creating the long-running East Bay family home.
 - The appendix credits his Albany years with leadership in **food dehydration** and **frozen-food** research through his `1968` retirement.
 - [[Stephen Michael Copley]]'s sketch treats the `1947` move west as the decisive transition from wartime Pennsylvania into the California scientific branch.
 - [[Marion Elizabeth Partlow]]'s profile likewise uses the Berkeley / Albany period to describe the family's hosting, gardening, and laboratory-centered social world.
@@ -41,4 +42,5 @@ For the Copley project, Albany matters as a postwar federal-science center. It m
 
 ## Source Notes
 - [[References/Copley History Part 1 and Appendix Source Audit|Copley History Part 1 and Appendix Source Audit]]
+- [[References/Tom and Steve Copley June 2026 House and Origin Thread]]
 - Raw appendix source, preferred July 7, 2024 version: `Part 1 Appendices .pdf`, Michael J. Copley and Stephen Copley sketches

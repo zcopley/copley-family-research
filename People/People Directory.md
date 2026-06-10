@@ -78,6 +78,9 @@ This index points to profile pages in `People/` and is organized by generation. 
 - [[Samuel Bird]]
 - [[Rowan Meier]]
 
+## Spouses and In-Laws
+- [[Barbara Dee LaForce]] — spouse of [[Thomas Partlow Copley]] and mother of the Tom-line G26 children.
+
 ## Related/Contextual People Mentioned in Existing Vault
 - [[Mary Ellen Dolan Copley]]
 - [[Dolan Family]]

@@ -207,6 +207,7 @@ The highest-impact items below have practical templates in [[Tier 1 Research Exe
 **How to proceed:**
 - Prioritize primary or near-primary records for the 1657-1813 Irish gap.
 - Continue checking English recusancy, probate, estate, and chancery records when accessible.
+- Treat the June 2026 Ivo / Talvas / `Kopsi` name-origin leads as source-check prompts only; verify them through medieval Yorkshire, surname/place-name, and Irish linguistic sources before changing the deeper origin narrative.
 - Keep the descent framed as plausible / unresolved until the missing generations are documented.
 
 ---

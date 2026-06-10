@@ -52,6 +52,8 @@ The family sketch places another important transition in **1933**, when Michael 
 
 Michael's USDA career linked science, wartime research, and food technology. He moved to the Eastern Regional Research Laboratory in [[Places/Wyndmoor Pennsylvania|Wyndmoor]] in 1939 as head of the Physical Chemistry Division, where his group worked on chemistry problems including synthetic rubber during World War II. The appendix also remembers him teaching an evening chemistry course at Temple during the Wyndmoor years. In 1947 he became Director of the Western Regional Research Laboratory in [[Places/Albany California|Albany, California]], where the appendix credits him with leadership in food dehydration and frozen-food research until his 1968 retirement.
 
+The June 2026 house-and-mother addendum adds a concrete California household anchor for that transition. In **1947**, Michael bought [[Places/862 Arlington Avenue Berkeley|the house at 862 Arlington Avenue in Berkeley]] from Monroe Deutsch, Vice President and Provost of UC Berkeley. The house became the long-term family home for Michael, Marion, Stephen, and Tom, and family memory treats it as a major gathering place for Michael's children and grandchildren. Michael occupied the house until his death in 1988.
+
 The family-authored sketch also preserves Stephen's and Tom's memories of Michael and [[Marion Elizabeth Partlow|Marion]] as parents. In those recollections Michael appears as both scientist and teacher: patient with schooling, willing to tutor, able to turn laboratory work into household stories, and deeply invested in his sons' education. Tom's account adds a second angle, remembering Michael less as bench chemist than as the director of a large federal laboratory whose projects ranged from frozen foods to more experimental products that shaped Tom's later interest in innovation and consumer behavior.
 
 ## Lived During
@@ -103,3 +105,4 @@ For a chronology-first view of those overlaps, see [[Who Was Alive When]].
 2. `~/Downloads/COPLEY HISTORY PART 1 final 2.pdf` — family structure and timeline context.
 3. [[copley_research_findings]] — career significance summary.
 4. [[Family Tree]] (branch and generation cross-links).
+5. [[References/Tom and Steve Copley June 2026 House and Origin Thread]] — June 2026 family source note for the Arlington Avenue house and Marion addendum.

@@ -25,7 +25,7 @@ tags:
 - **Full name:** Thomas Partlow Copley (childhood nickname "Tommy"; went by "Tom" from about age 7–8)
 - **Birth:** October 29, 1944, Philadelphia, Pennsylvania (born while his father worked at the USDA Eastern Regional Research Laboratory in Wyndmoor, PA)
 - **Parents:** [[Michael Joseph Copley]] and [[Marion Elizabeth Partlow]]
-- **Marriage:** Barbara Dee LaForce ("Dee"), March 19, 1967
+- **Marriage:** [[Barbara Dee LaForce]] ("Dee"), March 19, 1967
 - **Current location:** Richmond Annex, near Berkeley, California (apartment)
 
 His interest in marketing and consumer behavior was sparked as a teenager watching his father's lab develop ambitious but ultimately unsuccessful food products like "Wurld Wheat" — modified wheat designed to look like rice. This paradox of a good product failing in the market became his life's intellectual quest.
@@ -41,6 +41,8 @@ At UC Berkeley, Tom moved away from early pre-engineering and pre-med false star
 The appendix sketch gives his career a more continuous arc than the current summary alone suggests. It runs from early teaching at Wilkes College and Washington State through research work at Bank of America, corporate work at NCR, and several years teaching at Antioch College in Yellow Springs. It then pivots into the first generation of computer-based education ventures: Tom worked with The Electronic University in San Francisco, later contracted with Apple Computer on online-learning products, and eventually co-founded Arlington Courseware with his son [[Zachary R. Copley|Zach]]. That path makes him one of the clearest family links between older university-based teaching and the later internet-era education/business layer of the project.
 
 The sketch also sharpens the family's late geographic return: concern over [[Michael Joseph Copley]]'s declining health helped pull Tom and Dee back toward the Bay Area in the 1980s. Their third child [[Charles H. Copley|Charlie]] was born in Dayton, Ohio, before the family completed that move west in 1985. Tom later worked with `drtoy.com`, did webmaster and contract work, and remained in the Berkeley / Richmond Annex orbit into semi-retirement.
+
+The June 2026 house-and-mother addendum adds the later [[Places/862 Arlington Avenue Berkeley|Arlington Avenue house]] chain. After Michael Joseph Copley's death and estate settlement, Tom bought out [[Stephen Michael Copley|Stephen Copley]]'s interest in the house and continued living there with his family until 2002. The house then transferred to Tom's children and their spouses before [[Erin E. Copley Bird|Erin]] and Bryan Bird became its continuing family owners.
 
 ## Lived During
 
@@ -88,7 +90,7 @@ The appendix's first-person framing suggests a useful through-line across these 
 - **Grandparents:** [[John Copley]], [[Mary Ellen Dolan Copley]]
 - **Great-grandparents:** [[Michael Copley Sr|Michael Copley]], [[Ann Copley]]
 - **Sibling:** [[Stephen Michael Copley]]
-- **Spouse:** Barbara Dee LaForce (met fall 1964 at fraternity mixer; Tom was in Alpha Tau Omega, Dee in Zeta Tau Alpha; "pinned" 1965; married March 19, 1967)
+- **Spouse:** [[Barbara Dee LaForce]] (met fall 1964 at fraternity mixer; Tom was in Alpha Tau Omega, Dee in Zeta Tau Alpha; "pinned" 1965; married March 19, 1967)
 - **Children (G26):**
   - [[Zachary R. Copley]] (Zachary Robertson Copley, b. May 1969)
   - [[Erin E. Copley Bird]] (Erin Elizabeth Copley, b. April 1973)
@@ -96,7 +98,7 @@ The appendix's first-person framing suggests a useful through-line across these 
 
 ## Notes
 
-- Tom and Dee's former home on "the Arlington" in Berkeley now belongs to daughter [[Erin E. Copley Bird|Erin]] and her husband Bryan Bird.
+- Tom and Dee's former home on "the Arlington" in Berkeley is now tracked as [[Places/862 Arlington Avenue Berkeley|862 Arlington Avenue, Berkeley]] and belongs to daughter [[Erin E. Copley Bird|Erin]] and her husband Bryan Bird.
 - Not to be confused with [[Thomas E. Copley]] (1892–1968), his uncle in the prior generation.
 - Co-author of the *Copley History Part 1* with his brother [[Stephen Michael Copley]].
 
@@ -106,3 +108,4 @@ The appendix's first-person framing suggests a useful through-line across these 
 2. `~/Downloads/COPLEY HISTORY PART 1 final 2.pdf` — family structure and generation context.
 3. [[Family Tree]] — internal branch mapping.
 4. Tom Copley correction note to Zachary R. Copley, May 2, 2026 — direct family-author corrections on Charlie's birthplace and Tom's Wilkes / Bank of America / NCR / Antioch titles.
+5. [[References/Tom and Steve Copley June 2026 House and Origin Thread]] — June 2026 family source note for the Arlington Avenue house, Marion addendum, and photo identification.

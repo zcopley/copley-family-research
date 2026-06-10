@@ -67,6 +67,8 @@ graph LR
 - [[Places/Madison Connecticut|Madison, Connecticut]]
 
 ## California
+- [[Places/Berkeley California|Berkeley, California]]
+- [[Places/862 Arlington Avenue Berkeley|862 Arlington Avenue, Berkeley]]
 - [[Places/Albany California|Albany, California]]
 - [[Places/Palos Verdes Estates California|Palos Verdes Estates, California]]
 

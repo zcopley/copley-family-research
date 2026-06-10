@@ -132,7 +132,7 @@ Also served as President and Chair of the Board of ASM International (ASMI); rec
 
 - Champaign, IL (birth–1939)
 - [[Places/Wyndmoor Pennsylvania|Wyndmoor, PA]] — suburb of Philadelphia (1939–1947)
-- Berkeley, CA (1947–1964; family home on "the Arlington")
+- [[Places/Berkeley California|Berkeley, CA]] (1947-1964; family home at [[Places/862 Arlington Avenue Berkeley|862 Arlington Avenue]])
 - [[Places/Madison Connecticut|Madison, CT]] — Neck Road, house on Long Island Sound (1964–1970)
 - Lomita, CA (rented 6 months, 1970)
 - 4029 Via Nivel, [[Places/Palos Verdes Estates California|Palos Verdes Estates, CA]] (1970–1990)
@@ -149,3 +149,4 @@ Also served as President and Chair of the Board of ASM International (ASMI); rec
 1. `~/Downloads/Part 1 Appendices .pdf` — Stephen Copley biographical sketch, pp. 5-8 (primary, first-person) and Stephen Joseph Copley section.
 2. `~/Downloads/COPLEY HISTORY PART 1 final 2.pdf` — family structure and generation context.
 3. [[Family Tree]] — internal branch mapping.
+4. [[References/Tom and Steve Copley June 2026 House and Origin Thread]] — June 2026 source note for the Arlington Avenue house and family-photo context.

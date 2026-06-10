@@ -21,7 +21,7 @@ tags:
 - **Spouse:** Bryan Bird
 - **Current location:** Berkeley, California
 - **Children:** [[Evelyn Bird]], [[Samuel Bird]]
-- **Home:** Tom and Dee Copley's former family home "on the Arlington" in Berkeley, now owned by Erin and Bryan.
+- **Home:** [[Places/862 Arlington Avenue Berkeley|862 Arlington Avenue]], Tom and [[People/Barbara Dee LaForce|Dee]] Copley's former family home in Berkeley, now owned by Erin and Bryan.
 
 ## Family Relationships
 
