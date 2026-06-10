@@ -14,6 +14,7 @@
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",
     "build": "npx quartz build -d .",
+    "postbuild": "node scripts/finalize-static-pages.mjs",
     "serve": "npx quartz build --serve -d .",
     "check:links": "node scripts/check-internal-links.mjs",
     "check:links:update": "node scripts/check-internal-links.mjs --update-baseline",

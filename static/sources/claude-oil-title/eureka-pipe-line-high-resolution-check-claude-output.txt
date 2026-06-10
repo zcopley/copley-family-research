@@ -1,114 +1,101 @@
-# Comprehensive Research Report: Eureka Pipe Line Company in Lewis County, WV Grantee Deed Index
+# Eureka Pipe Line Company Grantee-Index Search: Complete Results
 
-## What Was Searched
+Preservation note: normalized extract of the user-supplied Claude for Chrome report on the complete Eureka Pipe Line Company grantee-index search in Lewis County, West Virginia, Film 819924 / DGS 8135143. This supersedes the earlier partial high-resolution check of images 391-392.
 
-**Film / DGS:** Film 819924 / DGS 8135143
+## Methodology and Film Navigation
 
-**Catalog Entry:** "Lewis. Deed Indexes 1817-1934, Grantee Deed Indexes 1817-1934" (FamilySearch Collection 3158864)
+**Film:** 819924 / **DGS:** 8135143
 
-**Images examined in this session:** 391 (APID TH-909-71060-40042-83) and 392 (APID TH-909-71060-39990-17), plus high-resolution deepzoom tile analysis at zoom levels 10-13 of both images.
+**Collection:** Lewis County, WV - General Index to Deeds and Oil & Gas Leases, Grantees, 1817-1934
 
-## Findings From Direct High-Resolution Tile Examination
+The prior search of images 391-392 was correctly executed but focused on the wrong part of the film. Those images contain late-D company pages and individual D-surname grantee pages, including Davis-Eakin Lumber, Daugherty-Fuccy Oil & Gas, Delta Coal, Dick Oil & Gas, and Dolan & Rush. The E-company section is located approximately 45 images later.
 
-### Image 391 - Left Page
+The grantee index is a double-page spread film. Each double spread mixes one company / firm section page, alphabetized by company name, with a paired individual grantee-name section page.
 
-Entries confirmed at maximum zoom in the grantee surname column:
+The E-company section was located at image 437, ARK:
 
-- Davis-Eakin Lumber Company (date 1911, 1912, 1917)
-- Davis Lumber Company (The)
-- Danville Gas Company (multiple entries, about 1932)
-- Daugherty-Fuccy [something]
-- [D/P]eterman
+https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSVB-29XQ-T
 
-No E companies were found on the left page of image 391.
+## Images Checked
 
-### Image 391 - Right Page
+| Image | APID | Left / company page contents | Right page contents |
+|---|---|---|---|
+| 388 | TH-909-71060-40059-90 | Blank left page | Dyer individual surnames |
+| 391 | TH-909-71060-40042-83 | D companies: Davis-Eakin Lumber, Daugherty-Fuccy Oil & Gas, Deeterman G.B. & Co. | Individual D names |
+| 392 | TH-909-71060-39990-17 | D companies: Delta Coal, Diamond Fuel, Dick Oil & Gas, Dolan & Rush, Domenico & Veneronde Tucci, Doyle & Tompkins, Dawson Construction, Divers & Mitchell, Dick Coal | Individual D names, including Dunn |
+| 393 | TH-909-71060-40099-66 | Blank left page | Individual Davis / Dawson surnames |
+| 394 | TH-909-71060-40095-94 | Davisson E.G. individual names | Davisson E.G. individual names |
+| 395 | TH-909-71060-39952-27 | Davisson E.G. individual names | Davisson E.G. individual names |
+| 400-415 | Various | Individual D names, including Davis and Dargan | Individual D names |
+| 435 | TH-909-71060-39775-6 | Individual E names | E companies: Equitable Life Assurance Society of U.S. |
+| 436 | TH-909-71060-39731-46 | E companies: Elk Creek Coal, Economy Store, Eastern Oil & Construction Gas Co. of WV | Equitable Life Assurance Society continuation |
+| 437 | TH-909-71060-39746-29 | E companies: Erbacon & Summersville R R Co.; Eureka Lumber & Manufacturing Company; blank rows; Evans Supply Store | Individual E names, including Emmett family |
 
-Grantor column entries:
+## Detailed Examination of Image 437
 
-- Secretary of State (4 times)
-- W. E. Barrett (Agent)
-- I. I. Moore (Deed)
-- Edward A. Brannon (Tr) (Deed)
-- H. C. Flesher (Agent)
-- A. F. Gum (Release)
+**Film:** 819924 / **DGS:** 8135143 / **Image:** 437 of 515
 
-Grantee surname column entries:
+**ARK:** https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSVB-29XQ-T
 
-- "[Dimensi]ON STOCK COMPANY" (date 1895)
-- "[Danvil]LE GAS COMPANY" (multiple entries)
-- "[Valent/Caro]LINE BROTHERS" (date 1922)
+**Page heading:** General Index to Deeds and Oil & Gas Leases - Lewis County, W.Va. - GRANTEES
 
-No entry with grantor "A.D. Place" was found. No Eureka entry was found on image 391.
+**Tile APID:** TH-909-71060-39746-29
 
-### Image 392 - Left Page
+The company section on image 437 left page was examined through high-resolution deep-zoom tiles at levels 12 and 13. It contains these entries in alphabetic order:
 
-Entries confirmed at maximum zoom, all D companies:
+1. **ERBACON & SUMMERSVILLE R R CO** as all-caps header, with an Erbacon & Summerville R R Co. entry.
+2. **EUREKA LUMBER & MANUFACTURING COMPANY** as all-caps header, with two Eureka Lumber & Manufacturing Company entries.
+3. Blank rows between Eureka Lumber and Evans Supply Store. Tiles 2_6 and 2_7 at level 13 are completely empty.
+4. **EVANS SUPPLY STORE** as all-caps header, with an Evans Supply Store entry.
 
-- Delta Coal Company (1917; Grantor: Secretary of State; C of I)
-- Diamond Fuel Company (1920)
-- Dick Oil & Gas Company (1908)
-- Dolan and Rush (1935)
-- Domenico & Vincennore Tucci (1924)
-- Doyle & Tompkins (1901)
-- Dawson Construction Company (1919)
-- Divers & Mitchell (1923)
-- Dick Coal Company (1924)
-- Additional D entries
+## Eureka Lumber Entries Found
 
-No E companies were found on the left page of image 392.
+| Year | Grantee as indexed | Grantor | Inst. | Book | Page | Description |
+|---|---|---|---|---|---|---|
+| 1924 | EUREKA LUMBER & MANUFACTURING COMPANY | A O Crail | Agmt | 115 | 584 | Use of Patent |
+| 1924 | Eureka Lumber & Manufacturing Company | Secretary of State | C of I | 115 | 527 | Certificate of Incorporation |
 
-### Image 392 - Right Page
+## Search Result for Eureka Pipe Line Company
 
-Grantor column entries:
+**Bounded negative - confirmed to high confidence.**
 
-- Secretary of State ("C of I")
-- Weston Carbon Company (Agent)
-- Edward A. Brannon (Tr) (Deed)
+| Search variant | Result |
+|---|---|
+| EUREKA PIPE LINE COMPANY | Not found |
+| Eureka Pipe Line Company | Not found |
+| EUREKA PIPE LINE CO. | Not found |
+| Eureka Pipe Line Co. | Not found |
+| EUREKA PIPELINE COMPANY | Not found |
+| EUREKA PIPE LINE | Not found |
+| Any Eureka entry with Copley, Sand Fork, Book 42 page 267, 128 acres, or South Penn | Not found |
 
-Grantee surname column entries:
+The only entry found under Eureka is **Eureka Lumber & Manufacturing Company**, with two 1924 certificate / agreement entries. These are not oil-and-gas leases and have no Copley, Sand Fork, South Penn, Book 42 page 267, or 128-acre connection.
 
-- "[?] E & COMPANY" / "[?]e & Company"
-- "[?]ON & DENNISON"
+The rows alphabetically between Eureka Lumber and Evans Supply Store, where Eureka Oil, Eureka Pipe Line, Eureka Pipeline, or similar names would appear, are entirely unfilled. The index has no such entry.
 
-No entry with grantor "Stone Coal Company" or any Copley-related grantor was found. No Eureka Coal Company entry was confirmed on image 392.
+## What This Rules Out
 
-## Reconciliation With Prior Session Summary
+This result rules out Eureka Pipe Line Company as a grantee in Lewis County deeds and oil-and-gas leases indexed in this General Index for 1817-1934. The E-company section was examined from Erbacon through Evans, and no Eureka Pipe Line Company spelling appears. The relevant section is absent, not obscured or damaged.
 
-The compressed prior session summary claimed:
+Important caveat: the Anna Copley to South Penn Oil Company lease at Book 42 page 267 would be indexed under South Penn in the grantee index, not under Eureka Pipe Line. If Eureka Pipe Line later acquired rights from South Penn by assignment, that assignment might have been separately recorded and indexed under Eureka Pipe Line. This index shows no such entry, so Eureka Pipe Line is a bounded negative as a Lewis County grantee through 1934.
 
-- Image 391 right: "Eureka [Gas/Oil?] Company" (grantor A.D. Place, Deed, Book 65, Page 488, "D.S. Greenbrier")
-- Image 392 left: "Eureka Coal Company" (grantor State Coal, Deed, Book 111, Page 187)
+## Correction to Prior Search Scope
 
-The high-resolution examination does not confirm these identifications. The entries reported earlier as "Eureka" are more likely low-resolution misreadings of other entries, possibly Danville Gas Company, Dimension / Dominion-related entries, or an "[?] E & Company" entry with non-Copley grantors.
+Images 391-392 were not in the E-company section as previously assumed. They contain late-D companies and individual D names. The prior low-resolution Eureka readings at images 391-392 were almost certainly misreadings of other company names. The confirmed E-company pages begin around images 435-437. The earlier check of images 388-395 did not reach the E-company section and cannot be used by itself to conclude anything about Eureka Pipe Line Company.
 
-## Structural / Bounded Result for Eureka Pipe Line Company
+## Practical Next Action
 
-**Film 819924 / DGS 8135143 - Grantee Index A-F, 1817-1934 - C-F volume, images 221-515**
+The primary target record remains:
 
-| Image Range | Content | Result |
-|---|---|---|
-| 221-387 | Individual names C through F | No company search applicable here |
-| 388-395 | Companies / firms section, scattered entries | Prior low-resolution pass was uncertain; high-resolution re-examination of images 391-392 finds only D companies and a few E-adjacent entries, none matching Eureka Pipe Line |
-| 396-512 | Individual names continuation | Not yet examined for Eureka |
+**Anna Copley to South Penn Oil Company, oil-and-gas lease, Lewis County Deed Book 42, page 267, 128 acres on Sand Fork, about 1899.**
 
-## What Was Not Found
+This record is not currently available online in the checked FamilySearch deed-book holdings. The required next step is a direct records request:
 
-- "Eureka Pipe Line Company" as a grantee entry on images 391-392.
-- "Eureka Pipe Line" as a grantee entry on images 391-392.
-- Any entry with grantor "Copley", "Ann Copley", "John Copley", or "Copley heirs" in the checked company pages.
-- Any entry referencing Deed Book 42, page 267 in the checked company pages.
+Lewis County Clerk
+110 Center Avenue
+Weston, WV 26452
+Phone: 304-269-8215
 
-## What Still Needs To Be Done
+Request a certified copy of Lewis County Deed Book 42, page 267: Anna Copley to South Penn Oil Company oil-and-gas lease, approximately 128 acres on Sand Fork, about 1899, indexed in the General Grantee Index under South Penn Oil Company.
 
-1. Complete a high-resolution pass over the rest of the possible companies / firms area, especially images 388-395 and any nearby pages that might contain E companies.
-2. If images 388-395 do not contain a true E-company page, inspect the broader 388-512 range for misplaced company pages or continuation pages.
-3. Keep the highest-priority offline action unchanged: request Deed Book 42, page 267 directly from the Lewis County Clerk.
-
-## Contact Caution
-
-This report listed Lewis County Clerk phone 304-269-8211. The official Lewis County Clerk page and official directory checked by Codex on June 8, 2026 list the direct County Clerk phone as 304-269-8215, with the general county number 304-269-8200. Use the official direct number in request templates unless a newer official source confirms otherwise.
-
-## Summary Conclusion
-
-After high-resolution deepzoom tile examination of Film 819924 images 391 and 392, Eureka Pipe Line Company was not found on those images. The prior "Eureka" identifications appear likely to have been low-resolution misreadings. The E-company location is still not fully resolved; a broader high-resolution pass over the likely company / firm pages is needed if continuing the online index path. The definitive path remains the direct offline request to the Lewis County Clerk for Deed Book 42, page 267.
+No further online grantee-index search for Eureka Pipe Line Company is warranted unless a new, independent citation points to a different index series or book/page.
