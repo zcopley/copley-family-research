@@ -26,6 +26,13 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
 
 ## What Was Just Completed
 
+- Integrated Zach's June 2026 Claude for Chrome Book 42 page 267 online access-map report:
+  - preserved the report at `static/sources/claude-oil-title/book42-page267-online-access-map-claude-output.txt`;
+  - recorded that the deed text for Lewis County Deed Book 42 page 267 was **not found online**;
+  - recorded that the checked FamilySearch Lewis County deed-book run appears to end with **Deed Book v. 40**, leaving Book 42 outside the online deed-book path checked;
+  - kept the existing South Penn grantee-index citation as the controlling index proof: Film 819926 / DGS 007902191 image 310, Anna Copley to South Penn Oil Company, Lease, Book 42 page 267, 128 acres on Sand Fork;
+  - updated the oil-title reference, roadmap, evidence index, oil-strike topic, volunteer request page, execution kit, search index, and changelog so future work sends the VR-06 certified-copy request or asks a narrow offline-film question rather than repeating the online deed-book browse.
+
 - Integrated Zach's June 2026 Tom / Steve email folder `tom_steve_emails_062026` while excluding private health information from public notes:
   - preserved the publishable PDF at `static/sources/tom-steve-emails-062026/house-mom-bio.pdf`;
   - extracted and preserved the photo attachment at `static/sources/tom-steve-emails-062026/marion-michael-laforce-christmas-party-c1967-1968.jpeg`;
@@ -1073,6 +1080,11 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
 - `People/Barbara Dee LaForce.md`
 - `Topics/Bredon Descent.md`
 - `Topics/Captain John Copley Research.md`
+- `References/Claude for Chrome Copley Heirs Oil Title Search.md`
+- `Topics/1900 Copley Oil Strike.md`
+- `Volunteer Record Request Tasks.md`
+- `Tier 1 Research Execution Kit.md`
+- `static/sources/claude-oil-title/book42-page267-online-access-map-claude-output.txt`
 
 ## Open Questions
 

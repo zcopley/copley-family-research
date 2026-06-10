@@ -121,4 +121,4 @@ The FamilySearch relationship string is malformed. It incorrectly treats decease
 5. Treat the DGS **008219260** / Film **819917** Copley grantor-index path as currently negative because the relevant index sequence jumps from Colvin to Cork at images 305-306 with no Copley page or entry.
 6. Search related conveyances, mineral-rights instruments, royalty assignments, partition records, and [[People/John Copley|John Copley]]'s estate.
 
-Ready-to-use requests are in [[Volunteer Record Request Tasks#VR-06 Copley No 1 Oil Leases Royalties and John Copley Estate|VR-06]] and [[Volunteer Record Request Tasks#VR-06A Restricted Lewis County Deed-Index Lookup|VR-06A]].
+Ready-to-use requests are in [[Volunteer Record Request Tasks#VR-06 Copley No 1 Oil Leases Royalties and John Copley Estate|VR-06]] and [[Volunteer Record Request Tasks#vr-06a-restricted-lewis-county-deed--offline-film-lookup|VR-06A]].

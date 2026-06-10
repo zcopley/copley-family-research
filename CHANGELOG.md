@@ -10,6 +10,15 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4EH - Book 42 Online Access Map Closed (June 10, 2026)
+
+**OIL-TITLE ACCESS UPDATE:** Integrated the Claude for Chrome access-map report for **Lewis County Deed Book 42, page 267**. The deed text was not found online. The checked FamilySearch Lewis County deed-book run appears to end with **Deed Book v. 40**, while the already located South Penn grantee-index entry remains the controlling citation for Anna Copley to South Penn Oil Company, Lease, 128 acres on Sand Fork, Book 42 page 267. The next action remains the VR-06 certified-copy request to the Lewis County Clerk or a narrowly framed offline-film inquiry; do not repeat the online deed-book browse without a new Book 42 catalog entry or DGS.
+
+### Updated Pages
+
+- [[References/Claude for Chrome Copley Heirs Oil Title Search|Claude for Chrome Copley Heirs Oil Title Search]], [[Research Priorities and Action Items]], [[Sources and Evidence Index]], [[Topics/1900 Copley Oil Strike|1900 Copley Oil Strike]], [[Volunteer Record Request Tasks]], [[Tier 1 Research Execution Kit]], [[Search Index]], and `.agents/AGENT_RESUME.md` - added the Book 42 / v. 40 online-access cutoff and preserved the clerk request as the document-producing path.
+- `static/sources/claude-oil-title/book42-page267-online-access-map-claude-output.txt` - preserved the Book 42 online access-map report.
+
 ## Phase 4EG - June 2026 House, Marion, and Origin Leads Integrated (June 10, 2026)
 
 **FAMILY-SOURCE / READER-PATH UPDATE:** Integrated the non-health family-history content from Tom and Steve Copley's June 2026 email set and the `house_mom_bio.pdf` addendum. The raw `.eml` files were not published because the thread includes private health information. The public source note preserves only the house, Marion, photo-identification, and origin-research leads.

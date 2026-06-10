@@ -1,0 +1,30 @@
+REPORT: Lewis County, WV - Deed Book 42, Page 267
+Anna Copley to South Penn Oil Company - 128 acres, Sand Fork
+
+RESULT: NOT FOUND ONLINE as a deed-book image. The index entry remains accessible online and confirms the Book 42 page 267 citation.
+
+Sources checked:
+
+- FamilySearch Catalog 82073, "Deeds, 1817-1902; deed index, 1817-1965": deed-book microfilm coverage was reported as ending with Deed Book v. 40. Book 42 was not found in this filming project.
+- FamilySearch collection cc=3158864, "West Virginia Wills and Deeds, ca. 1700s-2017": Lewis County deed-book images checked appeared to match the Catalog 82073 coverage and did not include Book 42.
+- FamilySearch deed-index films / DGS series: online general indexes remain available and confirm the relevant Book 42 page 267 target through the South Penn grantee-index entry already captured in earlier work.
+- Lewis County Clerk website: no online deed-search portal was found.
+- WV Archives & History: no digitized Lewis County deed-book image for Book 42 was found.
+- WV Secretary of State: not a county deed-record repository.
+- WVU WVRHC: no usable online county deed-book path was found during this pass.
+
+Reported online deed-book cutoff:
+
+| Film | DGS | Content | Dates |
+|---|---|---|---|
+| 818774 | 8293300 | Deeds v. 36-37 | 1899 |
+| 818775 | 8293301 | Deeds v. 38-39 | c. 1900-1902 |
+| 819916 | 8293302 | Deeds v. 40 | 1899-1900 |
+
+Interpretation:
+
+The online FamilySearch deed-book image path does not currently provide Lewis County Deed Book 42. The deed text for Anna Copley to South Penn Oil Company therefore remains a county-clerk / offline-record request, not an online browsing target. Earlier project work already located the stronger citation in the South Penn grantee index: Film 819926 / DGS 007902191, image 310, indexing Anna Copley to South Penn Oil Company, Lease, Book 42 page 267, 128 acres on Sand Fork.
+
+Recommended next action:
+
+Send the certified-copy request for Lewis County Deed Book 42, page 267 to the Lewis County Clerk. Use the existing project citation and request template. If a helper has direct FamilySearch Library or archive access, the useful question is whether Book 42 exists in an unlisted, offline, later, or county/state filming outside the online deed-book series. Do not repeat the already completed Standard Oil, Eureka Pipe Line, 1886 Michael-to-John, or broad Copley grantor-index paths without a new citation.

@@ -476,7 +476,7 @@ Subject: Certified Copy Request - Deed Book 42, Page 267 (Anna Copley to South P
 
 Hello,
 
-I am requesting a certified photocopy of the complete instrument recorded in Lewis County Deed Book 42, page 267. The grantee index (Film 819926 / DGS 007902191, image 310) identifies this record as Anna Copley to South Penn Oil Company, Lease, 128 acres, Sand Fork, ORD, Glenville & Court House, approximate year 1899. Book 42 was not available in the online FamilySearch deed-book images checked.
+I am requesting a certified photocopy of the complete instrument recorded in Lewis County Deed Book 42, page 267. The grantee index (Film 819926 / DGS 007902191, image 310) identifies this record as Anna Copley to South Penn Oil Company, Lease, 128 acres, Sand Fork, ORD, Glenville & Court House, approximate year 1899. Online access-map work found no online deed-book image for Book 42; the checked FamilySearch deed-book run appears to end with v. 40.
 
 Please provide all pages of the instrument, including any attached or annexed certificates of acknowledgment, notarial certificates, and the clerk's recording certificate. Please also confirm or extract, if present: execution date, recording date, all lessors / grantors, spouses or acknowledgment parties, property description, lease term, oil royalty, gas royalty, delay-rental terms, assignment / surrender clauses, witnesses, notary or commissioner of deeds, and recording certificate.
 
@@ -490,7 +490,7 @@ Please advise the copy fee and preferred payment method.
 
 | Target | Film / DGS | Search |
 |---|---|---|
-| Deed Book 42 | Lewis County Clerk / offline microfilm | Send the certified-copy request for Book 42, page 267, Anna Copley to South Penn Oil Company lease |
+| Deed Book 42 | Lewis County Clerk / offline microfilm | Send the certified-copy request for Book 42, page 267, Anna Copley to South Penn Oil Company lease; the online FamilySearch deed-book run checked appears to end with v. 40 |
 | Deed Book 39 | Film / DGS 008293301 image 444 | Companion lease, Book 39 page 138, Anna / Bridget / Margaret / Sarah E. Copley to South Penn Oil Company |
 | Grantor index A-E, 1817-1934 | Film 819917 / DGS 8219260 | Already negative in the relevant Copley zone unless verifying: Colvin at image 305 jumps to Cork at image 306 with no Copley page or entry |
 | Grantee index A-F, 1817-1934 | Film 819924 / DGS 8135143 | Eureka Pipe Line bounded negative: images 391-392 were late-D company pages; the correct E-company section at image 437 has only Eureka Lumber & Manufacturing Company entries and blank rows before Evans Supply Store, with no Eureka Pipe Line / Copley / Book 42 entry |
