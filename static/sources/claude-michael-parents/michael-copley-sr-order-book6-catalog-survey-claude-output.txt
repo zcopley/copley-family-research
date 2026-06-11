@@ -1,0 +1,69 @@
+Research Report: Lewis County WV — Order Book No. 6, Page 496 for Michael Copley Sr. (1897)
+
+Result: No separate probate/fiduciary order-book series found. The citation points to County Court Order Books v. 6 (Film 825098 / DGS 8614118) — but there is a strong indication the Copley entry is on a nearby image, not at image 285.
+
+Full Catalog Survey — All Lewis County Order-Book and Court-Record Series on FamilySearch
+
+Author Authority: West Virginia. County Court (Lewis County) — 31 catalog entries
+
+Title | Film | DGS | Notes
+Order books, 1881-1901 | 825095–825098 | 8614115–8614118 | v.1–2 (1881-87), v.3-4 (1887-94), v.5 (1894-97), v.6 (1897-1901)
+Wills, 1820-1970 | 819929–819936 | 4715576–4715583 | v.A-C 1820-1900 on Film 819929 / DGS 4715576
+Index to wills & fiduciaries, 1817-1970 | 819938 | 7618825 | Single reel index
+Inventories, 1828-1903 | — | — | Separate series
+Court records, 1817-1875; court record index, 1817-1932 | 249784–249815; 186382–186449+ | 8727358+; 8153584+ | 130 reels of loose court papers by year
+Account book, 1846-1882 | — | — |
+Wills & appraisements, 1817-1835 | — | — |
+
+There is NO separate "Probate Order Book," "Fiduciary Order Book," or "Estate Order Book" series cataloged for Lewis County. The only order-book series for the County Court is "Order books, 1881-1901" — exactly the series already examined.
+
+Author Authority: West Virginia. Circuit Court (Lewis County) — 19 catalog entries
+
+Title | Film | DGS | Notes
+Order books, 1817-1932 | 1481455–1481463; 1605816–1605818 | 4714185, 8219491, 8614184–8614190, 8614195–8614197 | 12 reels; volumes lettered A-B then numbered 3–32
+
+Critical finding: This is a completely separate order-book series for the Circuit Court, 1817–1932. The volume relevant to 1897 would be:
+- Film 1481461 / DGS 8614188: Vols. 16–19, 1888–1896 (v.19 to p. 191)
+- Film 1481462 / DGS 8614189: Vols. 19–22, 1896–1905 (v.19 from p. 190)
+
+However, the Circuit Court handled civil and equity litigation — not will probate. Wills in WV were probated in the County Court. So "Order Book No. 6" in the will probate certificate almost certainly refers to the County Court Order Books v. 6, not the Circuit Court's separately-numbered Law Order Books. The Circuit Court's "v. 19" or "v. 20" would not be "Order Book No. 6."
+
+Author Authority: Lewis County (West Virginia). Clerk of the County Court — 4 catalog entries
+
+These are all vital records (births, deaths, marriages, birth register) — no order books.
+
+Analysis of the Core Problem
+
+The County Court Order Books v. 1–6 (1881–1901) are the only "Order Book No. 6" that exists in Lewis County for the relevant period, and it is already confirmed as Film 825098 / DGS 8614118.
+
+The issue reported — that image 285 / page 496 shows Conrad/Woofter entries instead of Copley — points to one of two explanations:
+
+Explanation A (most likely): Page 496 ≠ Image 285. Order Book v. 6 runs from 1897 to 1901. The book could span several hundred pages. Page 496 in book-page numbering may correspond to a different film image number than 285. Image 285 of the DGS group would be the 285th scanned frame from the start of the entire DGS group — which may include a title page, index, and prior material, meaning page 496 in the book could actually be film image ~285–295 but at a different alignment than expected, or significantly later if the book started well before page 1 of the image group.
+
+Explanation B (less likely): Page-number error in the probate certificate. A scrivener error could have placed "496" when the actual page was different.
+
+Recommended Next Actions
+
+Priority 1: Browse images in DGS 8614118 (County Court Order Book v.6, 1897-1901) systematically around images 280–310, looking specifically for March 4, 1897 date entries. The book began in 1897 so the very early pages of the book would cover March 1897. Page 496 in a book starting in 1897 would be many years in — but probate matters were often scattered by case number, not strictly chronological, so look for an index at the beginning of the film.
+
+Priority 2: Access the Index to Wills & Fiduciaries, 1817-1970 (Film 819938 / DGS 7618825) — this single-reel index is likely online and should have a Copley entry with an "Order Book" reference that would confirm exactly which book and page. This index would resolve the question definitively.
+
+Priority 3: Access Will Book C, pages 350-352 via Film 819929 / DGS 4715576 at a FamilySearch Center (image is restricted online). The probate certificate on those pages would quote the exact "Order Book No. 6, p. 496" reference and confirm which series it applies to.
+
+Priority 4: Check the Circuit Court Order Books (DGS 8614189, Film 1481462, Vols. 19-22, 1896-1905) as a long-shot fallback — while probate was County Court business, cross-checking couldn't hurt. These are accessible online if unrestricted.
+
+Access Map — What Was Checked
+
+Series | Film/DGS | Checked? | Result
+County Court Order Books v.6 (1897-1901) | Film 825098 / DGS 8614118 | Yes — image 285 / p. 496 | Conrad/Woofter entries; Copley not found at that image
+County Court Order Books v.1-5 | Films 825095-825097 | Not applicable | Earlier than 1897
+Circuit Court Order Books, 1817-1932 | Films 1481455-1481463, 1605816-18 / DGS 4714185, 8219491, 8614184-97 | Identified but not browsed | Separate series; v.6 = 1845-1849; no "No. 6" in 1897 range
+Will Books A-C (1820-1900) | Film 819929 / DGS 4715576 | Image-restricted online | FamilySearch Center required
+Index to Wills & Fiduciaries 1817-1970 | Film 819938 / DGS 7618825 | Not yet checked | Recommended next step
+Inventories 1828-1903 | Cataloged | Not browsed | Not an order book
+Fiduciary Order Books | — | N/A | Does not exist as a separate series in Lewis County
+Probate Order Books | — | N/A | Does not exist as a separate series in Lewis County
+
+Bottom Line
+
+No separate probate, fiduciary, estate, or administration order-book series exists for Lewis County, WV on FamilySearch. The will certificate's "Order Book No. 6, page 496" refers to the County Court Order Books v. 6 (Film 825098 / DGS 8614118) — the only series that fits. The Copley entry was not found at image 285 because the image/page correspondence may be off. The fastest resolution is to check the Index to Wills & Fiduciaries (DGS 7618825) to get a confirmed page reference, then re-examine County Court Order Book v. 6 at the correct image range. The Circuit Court Order Books (a second genuine "order book" series) use volume numbers 16–32 for the 1897 period and cannot be "Order Book No. 6."
