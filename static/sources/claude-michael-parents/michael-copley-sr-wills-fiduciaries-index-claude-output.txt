@@ -1,0 +1,82 @@
+Research Report: Lewis County WV Wills/Fiduciaries Index - Michael Copley Sr. Probate Citation
+
+Result: FOUND
+
+Exact Source Citation
+
+Lewis County, West Virginia - General Index to Fiduciary Matters, Wills, Etc.
+Film 819938 / DGS 7618825
+FamilySearch ARK: 3:1:3QS7-89KQ-3C4C
+Image 32 of 377 - physical index pages 32 (left) and 34 (right)
+Published / filmed by the Genealogical Society of Utah, 1970. Microfilm of originals at the Lewis County courthouse.
+
+Full Abstract of All Copley Entries Found
+
+The "C" section of the "Co" sub-group runs across index pages 31-34, primarily on images 30-32. Entries were found under Copley, Copeley, and Copsley. No Copely, Coopley, Cople, or Copleigh variants appeared.
+
+Page 32 of the index, left page of image 32, columns: surname, given names, Will Book (book/page), admin/executor, Order Book (book/page), date, appraisements, settlements:
+
+1. Copley, Anna - Com - Order Book 1-B 61 / 9 217 - Appraisements 22 / 451 / 2 8 - Settlements 19, 4.
+1a. Same - Will Book E 199 - Exec - Order Book 14 530 / 2 50 - Appraisements 451 / 24 - Settlements 34, 36.
+2. Copley, John - Will Book E 311 - Exec - Order Book 16 148 / 2 59 - Appraisements 118 - Settlements 176, 309.
+2a. Same - Adm - Order Book 16 237.
+3. Copley, Margaret - Will Book D 213 - Exec - Order Book 1-B 72 / 9 349 - Appraisements 16 / 1 - Settlements 16, 490.
+4. Copley, Mary Ellen - Will Book D 42 - Exec - Order Book *Jan 7, 1902 / 1-A 58 - Appraisements 12 / 317 - Settlements 20, 307.
+5. Copley (Copeley), Michael - Will Book C 351 - Adm - Order Book 1-A 45 - Date *March 4, 1897 - Appraisements 11 / 59 - Settlements 34 / 176.
+5a. Copley, ditto - P - 4/155 - 4/155.
+
+Page 34 of the index, right page of image 32:
+
+6. Copley, Patrick - Will Book E 162 - Settlements 4 166, 32 32, 187 212.
+7. Copley, Sarah E - Adm - Order Book 23 144 / 1 138 - Date 1939.
+8. Copley, Thomas - Will Book F 208 - Exec - Order Book 19 627 / 10 210 - Date 1932 - Settlements 55, 524.
+
+Close Abstract of the Michael Copley Sr. Entry
+
+Image 32, page 32 (left page), near bottom:
+
+COPLEY (COPELEY), Michael - Will Book C, p. 351 - Role: Adm (Administrator) - Order Book 1-A, p. 45 - Date: *March 4, 1897 - Appraisements columns: 11 / 59 - Settlements: 34 / 176.
+
+Continuation row: Copley, ditto - P - 4/155 - 4/155.
+
+The surname field uses "Copley (Copeley)" as the variant spelling noted by the clerk in the index.
+
+The asterisk before the date marks the initial court date, matching the known probate date of 4 March 1897.
+
+The Will Book reference C 351 aligns precisely with the known citation, Will Book C, pages 350-352.
+
+Interpretation of the "Order Book No. 6, Page 496" Problem
+
+The index does not cite "Order Book No. 6, page 496." Instead, the index records the Order Book reference as Order Book 1-A, page 45.
+
+The Will Book C certificate says "Order Book No. 6, page 496." The General Index to Fiduciary Matters was compiled retrospectively and uses a different numbering or labeling scheme for the early Lewis County order books. The old fiduciary/order books may have been renumbered or relabeled between 1897 and the 1970 compilation.
+
+The mismatch suggests that:
+
+1. The volume filmed as DGS 8614118 and labeled v. 6 may not be the volume the 1897 court called Order Book No. 6.
+2. The index's 1-A designation may refer to the same book differently, with p. 45 as the actual location of the March 4, 1897 Michael Copley order, while p. 496 is either a transcription error in Will Book C or refers to a later fiduciary accounting order.
+3. The additional index line showing P and 4/155 may point to a separate later order, possibly a settlement or partition-type entry.
+
+The appraisement figures 11/59 likely refer to Appraisement/Inventory Book 11, page 59, a separate series. They are not order-book numbers.
+
+Recommended Next Target Image
+
+Step 1: Identify which FamilySearch film covers Lewis County County Court Order Book labeled "1-A" and check page 45.
+
+Step 2: To resolve the v. 6 / page 496 conflict, do not repeat DGS 8614118 image 285. If needed, try nearby images in the same film around the March 4-April 1897 date range or use page-numbering to test whether page/image alignment is wrong.
+
+Step 3: After locating the main 1-A p. 45 entry, check the continuation row P 4/155 and the appraisement/settlement references: Appraisement Book 11 page 59 and Settlement Book 34 page 176, if available.
+
+Summary
+
+Michael Copley Sr. is in the index at image 32 of Film 819938 / DGS 7618825.
+
+Alternate spelling noted by the index clerk: Copeley.
+
+Will Book C, page 351, is confirmed.
+
+Role: Administrator (Adm), probate date *March 4, 1897, confirmed.
+
+Index order-book citation: 1-A, page 45. This is the index's designation for the order in which the will was probated or the administrator qualified, not Order Book No. 6 page 496.
+
+The next step is to find which Lewis County microfilm holds the volume the 1970 index called 1-A and check page 45 for the admission and qualification entry.
