@@ -23,8 +23,8 @@ A genealogical research wiki for the Copley family, spanning Irish immigrant anc
 
 - Start with `.agents/AGENT_RESUME.md`; it is the current checkpoint and overrides historical `_AGENT_HANDOFF_PHASE_*` files.
 - Michael Copley Sr.'s 1893 will / 1897 probate is located in Lewis County Will Book C. It confirms son John as executor and the known children, but it does not name Michael's parents or Sarah Dolan.
-- The Board of Commissioners Order Book v. 6 page 496 path is now a bounded negative: Film 825098 / DGS 8614118 image 285 contains Conrad and Woofter entries, not Copley. Do not repeat that page-496 check unless verifying the negative.
-- Current Michael Copley Sr. parentage targets are a separate probate / will / administration order-book series, early March 1897 pages only if testing a page-citation error, estate settlement / appraisement / inventory records, chancery / heirship / oil-title files, naturalization records, Catholic records, and any family Bible evidence.
+- The County Court Order Book v. 6 image 285 / page 496 path is now a bounded negative: Film 825098 / DGS 8614118 image 285 contains Conrad and Woofter entries, not Copley. Do not repeat that image/page check unless verifying the negative.
+- A June 2026 FamilySearch catalog survey found no separate Lewis County probate, fiduciary, estate, or administration order-book series; the next Michael Copley Sr. probate target is the Index to wills & fiduciaries, Film 819938 / DGS 7618825, followed by corrected County Court v. 6 image/page alignment, early March 1897 pages only if testing a page-citation error, estate settlement / appraisement / inventory records, chancery / heirship / oil-title files, naturalization records, Catholic records, and any family Bible evidence.
 - The June 2026 LaForce Christmas-party photo identification now names Dee LaForce's grandmother as `Marian Agnes Hewetson`, known as "Grammy"; preserve the spelling distinction between Marian Hewetson and Marion Partlow Copley.
 - Quartz page dates are configured to use git dates before frontmatter dates: `CreatedModifiedDate({ priority: ["git", "frontmatter", "filesystem"] })`.
 

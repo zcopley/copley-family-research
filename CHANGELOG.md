@@ -10,9 +10,19 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4EK - Michael Copley Order-Book Catalog Survey (June 11, 2026)
+
+**PROBATE ACCESS UPDATE:** Integrated the follow-up Claude for Chrome catalog survey for [[People/Michael Copley Sr|Michael Copley Sr.]]'s **Order Book No. 6, page 496** citation. The survey found no separate Lewis County probate, fiduciary, estate, or administration order-book series on FamilySearch. The County Court Order Books v. 6 series, Film `825098` / DGS `8614118`, remains the only County Court series fitting the citation, while the already checked image `285` / page `496` remains negative for Copley. The immediate next target is now **Index to wills & fiduciaries, 1817-1970**, Film `819938` / DGS `7618825`, followed by corrected County Court v. 6 image/page alignment and estate-file searches.
+
+### Updated Pages
+
+- [[References/Claude for Chrome Michael Copley Sr Probate Estate Search|Claude for Chrome Michael Copley Sr Probate Estate Search]], [[People/Michael Copley Sr|Michael Copley Sr.]], [[Research Priorities and Action Items]], [[Sources and Evidence Index]], and [[Volunteer Record Request Tasks]] - replaced the separate-order-book-series hypothesis with the new catalog-survey result and elevated DGS `7618825` as the next index check.
+- `CLAUDE.md`, `GEMINI.md`, and `.agents/AGENT_RESUME.md` - updated agent guidance so future work does not ask Claude to search for a separate Lewis County probate-order series already ruled out by catalog survey.
+- `static/sources/claude-michael-parents/michael-copley-sr-order-book6-catalog-survey-claude-output.txt` - preserved the raw catalog-survey report.
+
 ## Phase 4EJ - Probate Page-496 Negative, Marian Hewetson Photo ID, and Agent Files Current (June 10, 2026)
 
-**PROBATE / FAMILY-PHOTO / OPERATIONS UPDATE:** Integrated the Claude for Chrome check of **Lewis County County Court Order Book v. 6, page 496** and Tom Copley's correction to the LaForce Christmas-party photograph. The page-496 check located Film `825098` / DGS `8614118` image `285`, confirmed the printed page number, and found Conrad / Woofter entries rather than any Copley entry. This specific Board of Commissioners order-book path is now a bounded negative; next probate work moves to a separate probate / will / administration order-book series, early March 1897 pages only if testing a page-citation error, and estate inventory / appraisement / settlement records. Tom's correction identifies Dee LaForce's grandmother in the c. 1967-1968 photo as **Marian Agnes Hewetson**, known as "Grammy," Maggie's mother, with the spelling distinction from Marion Partlow Copley preserved.
+**PROBATE / FAMILY-PHOTO / OPERATIONS UPDATE:** Integrated the Claude for Chrome check of **Lewis County County Court Order Book v. 6, page 496** and Tom Copley's correction to the LaForce Christmas-party photograph. The page-496 check located Film `825098` / DGS `8614118` image `285`, confirmed the printed page number, and found Conrad / Woofter entries rather than any Copley entry. This specific Board of Commissioners order-book path became a bounded negative; the separate-order-book hypothesis noted in this phase was later superseded by Phase 4EK's catalog survey. Tom's correction identifies Dee LaForce's grandmother in the c. 1967-1968 photo as **Marian Agnes Hewetson**, known as "Grammy," Maggie's mother, with the spelling distinction from Marion Partlow Copley preserved.
 
 ### Updated Pages
 

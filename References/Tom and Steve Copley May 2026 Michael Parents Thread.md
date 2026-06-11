@@ -77,7 +77,7 @@ Current handling: Weston Dolan family memory supports the importance of the Dola
 ## Research Actions Added
 
 1. Preserve the located WV Culture death-register source and seek corroboration for the John / Sarah parent names, especially any source giving Sarah's maiden surname.
-2. Preserve and refine the located Michael Copley Sr. will transcription, preserve the Board of Commissioners Order Book v. 6 page 496 negative, then seek a separate probate / will / administration order-book series plus any estate settlement / inventory / appraisement records.
+2. Preserve and refine the located Michael Copley Sr. will transcription, preserve the County Court Order Book v. 6 image 285 / page 496 negative, then check the wills/fiduciaries index and corrected v. 6 image/page alignment plus any estate settlement / inventory / appraisement records.
 3. Treat the family Bible lead as a **Bridget-identity problem**: Reynolds line, Bridget Gillooly, Gillooly collateral relatives, or AI conflation.
 4. Keep Sarah Dolan as a parentage hypothesis only until a direct or near-direct record names her.
 
