@@ -26,6 +26,25 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
 
 ## What Was Just Completed
 
+- Integrated Tom Copley's June 10, 2026 correction to the LaForce Christmas-party photograph:
+  - created `People/Marian Agnes Hewetson.md`;
+  - updated `References/Tom and Steve Copley June 2026 House and Origin Thread.md`, `People/Marion Elizabeth Partlow.md`, and `People/Barbara Dee LaForce.md`;
+  - recorded that "Dee's Grandmother" / "Grammy" is **Marian Agnes Hewetson**, Maggie's mother, seated between Marion and Michael in the likely 1967-1968 LaForce Christmas-party photo;
+  - preserved Tom's spelling caution: Dee's grandmother was **Marian** with an `a`, while Tom's mother was **Marion** with an `o`;
+  - updated people directories and search index coverage.
+
+- Integrated Zach's June 2026 Claude for Chrome Michael Copley Sr. Order Book v. 6 page 496 report:
+  - preserved the report at `static/sources/claude-michael-parents/michael-copley-sr-order-book6-page496-negative-claude-output.txt`;
+  - recorded the exact target as Film 825098 / DGS 8614118 image 285, ARK `3:1:3Q9M-C34Z-VSMP-H`;
+  - recorded that the page is confirmed as page 496 but contains John H. Conrad and Susan / Marshall J. Woofter entries from c. June-July 1900, not Michael / John Copley;
+  - changed the page-496 path from active target to bounded negative for this Board of Commissioners order-book volume;
+  - updated probate next steps toward a separate probate / will / administration order-book series, early March 1897 pages only if testing a page-citation error, and estate inventory / appraisement / settlement Film 250047 / DGS 7617564.
+
+- Updated site date behavior:
+  - changed `quartz.config.ts` so `CreatedModifiedDate` now uses `["git", "frontmatter", "filesystem"]`;
+  - confirmed generated page metadata now reflects git modified dates before YAML frontmatter dates;
+  - pushed commit `f1bafc3 Use git dates for page updates`, and GitHub Pages deployed successfully.
+
 - Integrated Zach's June 2026 Claude for Chrome Book 42 page 267 online access-map report:
   - preserved the report at `static/sources/claude-oil-title/book42-page267-online-access-map-claude-output.txt`;
   - recorded that the deed text for Lewis County Deed Book 42 page 267 was **not found online**;
@@ -973,7 +992,7 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
 - Public web searching did not prove Frank Partlow = Nollie Franklin Partlow; the next concrete action is the Clark County, Illinois marriage record/citation for the reported 10 Jun 1900 marriage to Alice/Mary Alice Rude.
 - Public web searching also did not prove Jacob Partlow = son of Benjamin Partlow; broad search surfaced only derivative/collateral leads. Prioritize compiled Partlow books, Benjamin probate/estate, and Culpeper/Clark land/tax records.
 - Tom Copley's May 2026 email archive is now integrated as a research-lead source, not proof. The death-register lead now supports **John Copley + Sarah Copley** as recorded parent names for Michael Copley Sr., but **Sarah Dolan** remains unresolved until direct or near-direct evidence gives Sarah's maiden surname.
-- The highest-value Michael Copley Sr. parentage leads are now: Order Book No. 6 page 496 and any estate settlement / appraisement / inventory records after the located will; corroboration of the death-register John / Sarah parent names through Lewis County heirship / chancery / oil-title paperwork; any Bible or church evidence naming Sarah's maiden surname; and the ambiguous "Bridget Copley" Bible path, which should be tested through both Reynolds and Gillooly / collateral possibilities.
+- The highest-value Michael Copley Sr. parentage leads are now: a separate probate / will / administration order-book series that could explain the will certificate's "Order Book No. 6, page 496" citation; early March 1897 pages only if testing a page-citation error; estate settlement / appraisement / inventory records after the located will; corroboration of the death-register John / Sarah parent names through Lewis County heirship / chancery / oil-title paperwork; any Bible or church evidence naming Sarah's maiden surname; and the ambiguous "Bridget Copley" Bible path, which should be tested through both Reynolds and Gillooly / collateral possibilities. The Board of Commissioners Order Book v. 6 page 496 path is closed as a bounded negative.
 - Any future use of the Tom email archives should start from `References/Thomas Copley May 2026 Email Leads.md` and `References/Tom and Steve Copley May 2026 Michael Parents Thread.md`. Preserve the evidence caution that the earlier May 7-8 messages are mostly AI-generated output, while the May 15-17 thread is family correspondence that sharpens leads but does not prove parentage. Browser-readable transcript/source-note pages live in `References/`; downloadable source files live under `static/sources/tom-emails/` and `static/sources/tom-steve-emails/`.
 - Standing source-ingestion rule: when future agents use raw materials such as `.eml`, `.txt`, `.pdf`, `.zip`, images, spreadsheets, record exports, or downloaded source packets, they should commit publishable raw files to the repo, preferably under `static/sources/<short-source-slug>/`; create browser-readable `References/` pages when practical; and link wiki citations to both the readable derivatives and the raw files instead of leaving machine-local-only paths.
 - June 2026 privacy precedent: do not publish raw emails when they include private health information; create a sanitized `References/` note and preserve only publishable non-health attachments when useful.
@@ -989,7 +1008,7 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
   - Treat John Copley + Sarah Copley as death-register-supported parent-name evidence, but treat Sarah Dolan as unresolved until an original or near-original source gives Sarah's maiden surname.
   - Preserve the located WV Culture death-register source for Michael Copley Sr., record ID `2919262` / image `4130795_00393`, including the Bridget-as-wife relationship error and the Lewis County birthplace problem.
   - Preserve the located FamilySearch will-book record for Michael's 1893 will / 1897 probate as estate and child-structure evidence; do not treat it as parentage proof.
-  - Request Lewis County Order Book No. 6, page 496, and search estate settlement, appraisement, inventory, administrator's bond, chancery, heirship, and oil-title files after Michael Copley Sr.'s January 1897 death for Bible extracts, family-record exhibits, or filings naming his parents.
+  - Preserve the Board of Commissioners Order Book v. 6 page 496 negative: Film 825098 / DGS 8614118 image 285 contains Conrad and Woofter entries, not Copley. Next seek a separate probate / will / administration order-book series, early March 1897 pages only if testing a page-citation error, and estate settlement, appraisement, inventory, administrator's bond, chancery, heirship, and oil-title files after Michael Copley Sr.'s January 1897 death for Bible extracts, family-record exhibits, or filings naming his parents.
   - Build Bridget Copley Reynolds forward through Reynolds records and check Bridget "Bitty" Copley Gillooly / Gillooly collateral paths to identify whether a family Bible, transcript, probate packet, or inherited correspondence could survive in either line.
   - Verify any Dolan / Kilgefin townland leads from original Tithe Applotment, parish, estate, or Registry of Deeds records before adding them as evidence.
 - Murray deed next steps:
@@ -1013,6 +1032,7 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
 - Berkeley / Marion / origin-lead next steps:
   - Verify the Arlington Avenue house chain through Berkeley property records, city directories, building permits, architectural-history sources, and UC Berkeley / Monroe Deutsch context before treating the full ownership sequence as property-record-verified.
   - Verify Marion's `Oakland Tribune` native-plant column, Tilden Botanical Garden advocacy, and published writing through newspaper and local-history searches.
+  - Preserve Tom Copley's photo correction that Dee LaForce's grandmother was **Marian Agnes Hewetson** / "Grammy"; do not revert to generic "Dee's grandmother" or confuse Marian with Marion Partlow Copley.
   - Treat the Ivo / Talvas / `Kopsi` material as source-check prompts only; do not change the Bredon / Captain John descent narrative without medieval Yorkshire, surname/place-name, or Irish linguistic/source evidence.
 - Maintenance next steps:
   - Keep `AGENT_RESUME.md` current after major pushes so historical handoff files stay archival.
@@ -1020,6 +1040,7 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
   - Do not leave "send a letter" or "call the office" as an untemplated next step. Add or update `Volunteer Record Request Tasks.md` and/or `Tier 1 Research Execution Kit.md` with a ready-to-use request template in the same session.
   - Fix build or workflow warnings only when they become actionable; current known residual noise is mostly LaTeX unicode warnings.
   - Consider upgrading GitHub Actions from Node 20-based actions to Node 24-compatible versions before GitHub's 2026 deprecation dates.
+  - Preserve the git-date configuration in `quartz.config.ts` unless deliberately changing date semantics; page modified dates now prefer git history over frontmatter.
 
 ## Active Files
 
@@ -1078,13 +1099,21 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
 - `Places/Berkeley California.md`
 - `Places/862 Arlington Avenue Berkeley.md`
 - `People/Barbara Dee LaForce.md`
+- `People/Marian Agnes Hewetson.md`
 - `Topics/Bredon Descent.md`
 - `Topics/Captain John Copley Research.md`
+- `References/Claude for Chrome Michael Copley Sr Probate Estate Search.md`
+- `References/Claude for Chrome Michael Copley Sr Parent Name Claim.md`
+- `References/Tom and Steve Copley May 2026 Michael Parents Thread.md`
 - `References/Claude for Chrome Copley Heirs Oil Title Search.md`
 - `Topics/1900 Copley Oil Strike.md`
 - `Volunteer Record Request Tasks.md`
 - `Tier 1 Research Execution Kit.md`
 - `static/sources/claude-oil-title/book42-page267-online-access-map-claude-output.txt`
+- `static/sources/claude-michael-parents/michael-copley-sr-order-book6-page496-negative-claude-output.txt`
+- `CLAUDE.md`
+- `GEMINI.md`
+- `quartz.config.ts`
 
 ## Open Questions
 

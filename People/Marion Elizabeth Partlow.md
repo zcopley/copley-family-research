@@ -15,7 +15,7 @@ tags:
 
 📊 View [[Family Tree]] for visual context.
 
-![Marion Copley at a probable LaForce Christmas party, c. 1967-1968](../static/sources/tom-steve-emails-062026/marion-michael-laforce-christmas-party-c1967-1968.jpeg)
+![Marion Copley, Marian Agnes Hewetson, and Michael Joseph Copley at a probable LaForce Christmas party, c. 1967-1968](../static/sources/tom-steve-emails-062026/marion-michael-laforce-christmas-party-c1967-1968.jpeg)
 
 ## Biographical Profile
 
@@ -73,7 +73,7 @@ The **Frank Partlow -> Marion McDonald Partlow** link is now supported by online
 - Thomas Partlow Copley's middle name "Partlow" honors her maiden name.
 - Stephen's memoir material remembers Marion as the parent most visibly tied to gardening, music lessons, and the maintenance of extended Illinois family ties.
 - After Michael's retirement in 1968, Tom's family moved back to Berkeley to help care for their parents after Marion's death.
-- The photo on this page is identified by Tom Copley as a snapshot of Marion at a likely LaForce Christmas party, probably 1967-1968, with [[Michael Joseph Copley]] partly visible and another woman identified as [[Barbara Dee LaForce|Dee LaForce]]'s grandmother. The exact event date and all identities should still be treated as family-photo identifications.
+- The photo on this page is identified by Tom Copley as a likely LaForce Christmas party snapshot, probably 1967-1968, showing Marion, [[People/Marian Agnes Hewetson|Marian Agnes Hewetson]] seated between Marion and [[Michael Joseph Copley]], and Michael partly visible. Marian Agnes Hewetson was [[Barbara Dee LaForce|Dee LaForce]]'s grandmother, known as "Grammy," and should not be confused with Marion Elizabeth Partlow; Tom noted that Marian used an `a` while Marion used an `o`. The exact event date and location should still be treated as family-photo identifications.
 
 ## Sources
 

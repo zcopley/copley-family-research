@@ -47,7 +47,7 @@ The PDF is a family-authored addendum about [[Places/862 Arlington Avenue Berkel
 
 ## Photo Data Point
 
-Tom's `Mom's photo` email identifies the attached image as a snapshot of his mother, another woman identified as Dee's grandmother, and Michael Joseph Copley partly visible in the corner. Tom thought the occasion was a LaForce Christmas party, probably in 1967-1968. This is useful as a family-photo identification lead, but the exact date, location, and all people in the image remain unverified.
+Tom's `Mom's photo` email identifies the attached image as a snapshot of his mother, another woman identified as Dee's grandmother, and Michael Joseph Copley partly visible in the corner. Tom thought the occasion was a LaForce Christmas party, probably in 1967-1968. A later same-day correction identifies Dee's grandmother as **[[People/Marian Agnes Hewetson|Marian Agnes Hewetson]]**, known as **Grammy**, Maggie's mother, and the woman seated between Marion and Michael. Tom noted the spelling distinction: Dee's grandmother was **Marian** with an `a`, while his mother was **Marion** with an `o`. This is useful as a family-photo identification lead, but the exact event date and location remain unverified.
 
 ## Origin-Research Leads
 

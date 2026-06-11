@@ -179,6 +179,9 @@ Use this directory to find profiles for specific people. Start at the generation
 ### [[Barbara Dee LaForce]]
 - Wife of [[Thomas Partlow Copley]]; mother of Zach, Erin, and Charles; privacy-sensitive living-person profile.
 
+### [[Marian Agnes Hewetson]]
+- Dee LaForce's grandmother, known as "Grammy"; identified by Tom Copley in the c. 1967-1968 LaForce Christmas-party photograph.
+
 ### [[Judith Ann Todd Copley]]
 - Second wife of [[Stephen Michael Copley]]; Cambridge-trained materials scientist, Penn State department head, and engineering-society leader.
 

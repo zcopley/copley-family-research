@@ -150,7 +150,7 @@ Sincerely,
 
 Known restricted film targets:
 
-- County Court Order Book v. 6, 1897-1901: Film 825098 / DGS 8614118; target page 496.
+- County Court Order Book v. 6, 1897-1901: Film 825098 / DGS 8614118; page 496 is now checked and negative for Copley, but early March 1897 pages remain a possible page-citation-error check.
 - County Court Order Book v. 5, 1894-1897: Film 825097 / DGS 8614117; check for January-March 1897 preliminary entries.
 - Wills, inventories, etc., Lewis County, 1853-1899 / Inventories, etc., Lewis County, 1853-1900: Film 250047 / DGS 7617564.
 
@@ -180,12 +180,12 @@ His will has been located in the FamilySearch collection "West Virginia Will Boo
 - FamilySearch collection ID: 1909099
 - Film / DGS: Film 819929, DGS 4715576
 - Probate certificate: cites Order Book No. 6, page 496
-- Restricted FamilySearch target for Order Book No. 6: County Court Order Book v. 6, Film 825098 / DGS 8614118
+- Page-496 follow-up: County Court Order Book v. 6, Film 825098 / DGS 8614118, image 285 / page 496 was checked and contains Conrad / Woofter entries, not Copley
 - Restricted FamilySearch target for inventory / appraisement / settlement: Film 250047 / DGS 7617564
 
 I would like to request a search for:
 
-1. The probate order in Order Book No. 6, page 496.
+1. Any separate probate, will, administration, fiduciary, or estate order-book series that could correspond to the will certificate's "Order Book No. 6, page 496" citation.
 2. Any preliminary County Court entry between 19 January 1897 and 4 March 1897.
 3. Any estate settlement, appraisement, inventory, administrator's bond, sale bill, personal-property account, estate packet, or related probate file for Michael Copley after March 1897.
 4. Any index entries under Copley, Copely, or Coopley.
@@ -234,12 +234,14 @@ Known will:
 - FamilySearch collection: West Virginia Will Books, 1756-1971
 - Will ARKs: https://www.familysearch.org/ark:/61903/3:1:9392-HYS9-13 and https://www.familysearch.org/ark:/61903/3:1:9392-HYS9-R8
 - Probate certificate cites Order Book No. 6, page 496
+- County Court Order Book v. 6, Film 825098 / DGS 8614118, image 285 / page 496 has now been checked: it contains Conrad and Woofter entries from c. June-July 1900, not Copley.
 
 Please check these restricted films:
 
-1. County Court Order Book v. 6, 1897-1901, Film 825098 / DGS 8614118: please capture or transcribe Order Book No. 6, page 496.
+1. Any separate probate, will, administration, fiduciary, or estate order-book series for Lewis County that could also be cited as Order Book No. 6, page 496.
 2. County Court Order Book v. 5, 1894-1897, Film 825097 / DGS 8614117: please check the index and January-March 1897 entries for Michael Copley.
 3. Wills, inventories, etc., Lewis County, 1853-1899 / Inventories, etc., 1853-1900, Film 250047 / DGS 7617564: please check for Michael Copley inventory, appraisement, sale bill, estate settlement, administrator bond, or account after March 1897.
+4. County Court Order Book v. 6, 1897-1901, Film 825098 / DGS 8614118: do not repeat page 496 unless verifying the negative; if practical, scan early March 1897 pages for a possible page-citation error.
 
 Please capture exact book, page, image number, date, names, roles, sureties, appraisers, heirs, land descriptions, and any relationship language. I am especially interested in any record naming heirs, parents, family Bible evidence, birthplace, or Copley heirs' land / oil interests.
 

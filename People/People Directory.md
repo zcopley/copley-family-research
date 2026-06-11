@@ -80,6 +80,7 @@ This index points to profile pages in `People/` and is organized by generation. 
 
 ## Spouses and In-Laws
 - [[Barbara Dee LaForce]] — spouse of [[Thomas Partlow Copley]] and mother of the Tom-line G26 children.
+- [[Marian Agnes Hewetson]] — Dee LaForce's grandmother, known as "Grammy"; identified in the c. 1967-1968 LaForce Christmas-party photograph.
 
 ## Related/Contextual People Mentioned in Existing Vault
 - [[Mary Ellen Dolan Copley]]

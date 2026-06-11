@@ -27,6 +27,7 @@ tags:
 ## Family Relationships
 
 - **Spouse:** [[Thomas Partlow Copley]]
+- **Grandmother:** [[Marian Agnes Hewetson]], identified by Tom Copley as "Grammy" / Maggie's mother.
 - **Children (G26):**
   - [[Zachary R. Copley]]
   - [[Erin E. Copley Bird]]
@@ -35,7 +36,7 @@ tags:
 
 ## Notes
 
-- Tom's June 2026 photo email identifies an attached Christmas-party snapshot as showing Marion Copley, Dee's grandmother, and Michael Joseph Copley partly visible. The exact identity of Dee's grandmother in the image remains unverified.
+- Tom's June 2026 photo email and same-day correction identify an attached Christmas-party snapshot as showing [[Marion Elizabeth Partlow|Marion Copley]], Dee's grandmother [[Marian Agnes Hewetson]], and [[Michael Joseph Copley]] partly visible. Tom described Marian as "Grammy" and Maggie's mother.
 - This page intentionally keeps living-person details high-level and excludes private health information from the June 2026 email thread.
 
 ## Sources

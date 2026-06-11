@@ -10,6 +10,18 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4EJ - Probate Page-496 Negative, Marian Hewetson Photo ID, and Agent Files Current (June 10, 2026)
+
+**PROBATE / FAMILY-PHOTO / OPERATIONS UPDATE:** Integrated the Claude for Chrome check of **Lewis County County Court Order Book v. 6, page 496** and Tom Copley's correction to the LaForce Christmas-party photograph. The page-496 check located Film `825098` / DGS `8614118` image `285`, confirmed the printed page number, and found Conrad / Woofter entries rather than any Copley entry. This specific Board of Commissioners order-book path is now a bounded negative; next probate work moves to a separate probate / will / administration order-book series, early March 1897 pages only if testing a page-citation error, and estate inventory / appraisement / settlement records. Tom's correction identifies Dee LaForce's grandmother in the c. 1967-1968 photo as **Marian Agnes Hewetson**, known as "Grammy," Maggie's mother, with the spelling distinction from Marion Partlow Copley preserved.
+
+### Updated Pages
+
+- [[References/Claude for Chrome Michael Copley Sr Probate Estate Search|Claude for Chrome Michael Copley Sr Probate Estate Search]], [[People/Michael Copley Sr|Michael Copley Sr.]], [[Research Priorities and Action Items]], [[Sources and Evidence Index]], [[Volunteer Record Request Tasks]], [[Search Index]], [[References/Claude for Chrome Michael Copley Sr Parent Name Claim|Michael Copley Sr Parent Name Claim]], and [[References/Tom and Steve Copley May 2026 Michael Parents Thread|Tom and Steve May 2026 Michael Parents Thread]] - changed Board of Commissioners Order Book v. 6 page 496 from active target to bounded negative and narrowed the next probate actions.
+- [[People/Marian Agnes Hewetson|Marian Agnes Hewetson]] - created a new in-law / photo-identification profile for Dee LaForce's grandmother, known as "Grammy."
+- [[References/Tom and Steve Copley June 2026 House and Origin Thread|Tom and Steve Copley June 2026 House and Origin Thread]], [[People/Marion Elizabeth Partlow|Marion Elizabeth Partlow]], [[People/Barbara Dee LaForce|Barbara Dee LaForce]], [[People Directory]], [[People/People Directory|People Directory (Individual Profiles)]], and [[Search Index]] - updated the LaForce Christmas-party photo identification.
+- `CLAUDE.md`, `GEMINI.md`, `.agents/AGENT_RESUME.md`, and `quartz.config.ts` - brought active agent guidance current, recorded the page-496 negative / Marian Hewetson correction, and preserved git-date-first page metadata behavior.
+- `static/sources/claude-michael-parents/michael-copley-sr-order-book6-page496-negative-claude-output.txt` - preserved the page-496 negative report.
+
 ## Phase 4EH - Book 42 Online Access Map Closed (June 10, 2026)
 
 **OIL-TITLE ACCESS UPDATE:** Integrated the Claude for Chrome access-map report for **Lewis County Deed Book 42, page 267**. The deed text was not found online. The checked FamilySearch Lewis County deed-book run appears to end with **Deed Book v. 40**, while the already located South Penn grantee-index entry remains the controlling citation for Anna Copley to South Penn Oil Company, Lease, 128 acres on Sand Fork, Book 42 page 267. The next action remains the VR-06 certified-copy request to the Lewis County Clerk or a narrowly framed offline-film inquiry; do not repeat the online deed-book browse without a new Book 42 catalog entry or DGS.
