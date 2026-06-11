@@ -26,12 +26,19 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
 
 ## What Was Just Completed
 
+- Integrated Zach's June 2026 Claude for Chrome wills/fiduciaries index check for Michael Copley Sr.:
+  - preserved the report at `static/sources/claude-michael-parents/michael-copley-sr-wills-fiduciaries-index-claude-output.txt`;
+  - recorded the exact source as Lewis County, West Virginia, General Index to Fiduciary Matters, Wills, Etc., Film 819938 / DGS 7618825, image 32, ARK `3:1:3QS7-89KQ-3C4C`;
+  - recorded Michael's index entry as `Copley (Copeley)`, Will Book C p. 351, `Adm`, date 4 March 1897, Order Book `1-A` p. 45, Appraisement Book 11 p. 59, Settlement Book 34 p. 176, and continuation `P 4/155`;
+  - changed the next probate target from the wills/fiduciaries index to locating the actual **Order Book 1-A p. 45** entry plus the appraisement / settlement references;
+  - preserved the County Court Order Book v. 6 image 285 / page 496 negative as a bounded negative only.
+
 - Integrated Zach's June 2026 Claude for Chrome Order Book No. 6 catalog survey for Michael Copley Sr.:
   - preserved the report at `static/sources/claude-michael-parents/michael-copley-sr-order-book6-catalog-survey-claude-output.txt`;
   - recorded that no separate Lewis County probate, fiduciary, estate, or administration order-book series was found in the FamilySearch catalog;
   - kept County Court Order Book v. 6, Film 825098 / DGS 8614118, as the only County Court series that fits the will certificate's `Order Book No. 6` citation;
   - preserved the prior image 285 / page 496 negative as a wrong-image / wrong-page target for Copley, not evidence against a probate order existing elsewhere in the volume;
-  - changed the next probate target to `Index to wills & fiduciaries, 1817-1970`, Film 819938 / DGS 7618825, followed by corrected v. 6 image/page alignment, early March 1897 page-citation-error checks if needed, and estate records on Film 250047 / DGS 7617564.
+  - changed the next probate target to `Index to wills & fiduciaries, 1817-1970`, Film 819938 / DGS 7618825; the later index check found Michael and superseded this as a future task.
 
 - Integrated Tom Copley's June 10, 2026 correction to the LaForce Christmas-party photograph:
   - created `People/Marian Agnes Hewetson.md`;
@@ -45,7 +52,7 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
   - recorded the exact target as Film 825098 / DGS 8614118 image 285, ARK `3:1:3Q9M-C34Z-VSMP-H`;
   - recorded that the page is confirmed as page 496 but contains John H. Conrad and Susan / Marshall J. Woofter entries from c. June-July 1900, not Michael / John Copley;
   - changed the page-496 image target from active target to bounded negative for this County Court order-book volume;
-  - later catalog-survey work superseded the separate-order-book hypothesis and moved the next probate step to the wills/fiduciaries index plus corrected v. 6 image/page alignment.
+  - later catalog-survey work superseded the separate-order-book hypothesis; the subsequent wills/fiduciaries index check superseded that next step.
 
 - Updated site date behavior:
   - changed `quartz.config.ts` so `CreatedModifiedDate` now uses `["git", "frontmatter", "filesystem"]`;
@@ -999,7 +1006,7 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
 - Public web searching did not prove Frank Partlow = Nollie Franklin Partlow; the next concrete action is the Clark County, Illinois marriage record/citation for the reported 10 Jun 1900 marriage to Alice/Mary Alice Rude.
 - Public web searching also did not prove Jacob Partlow = son of Benjamin Partlow; broad search surfaced only derivative/collateral leads. Prioritize compiled Partlow books, Benjamin probate/estate, and Culpeper/Clark land/tax records.
 - Tom Copley's May 2026 email archive is now integrated as a research-lead source, not proof. The death-register lead now supports **John Copley + Sarah Copley** as recorded parent names for Michael Copley Sr., but **Sarah Dolan** remains unresolved until direct or near-direct evidence gives Sarah's maiden surname.
-- The highest-value Michael Copley Sr. parentage leads are now: the Index to wills & fiduciaries, Film 819938 / DGS 7618825, to confirm the will certificate's "Order Book No. 6, page 496" citation; corrected County Court Order Book v. 6 image/page alignment; early March 1897 pages only if testing a page-citation error; estate settlement / appraisement / inventory records after the located will; corroboration of the death-register John / Sarah parent names through Lewis County heirship / chancery / oil-title paperwork; any Bible or church evidence naming Sarah's maiden surname; and the ambiguous "Bridget Copley" Bible path, which should be tested through both Reynolds and Gillooly / collateral possibilities. The County Court Order Book v. 6 image 285 / page 496 path is closed as a bounded negative.
+- The highest-value Michael Copley Sr. parentage leads are now: Order Book 1-A p. 45, `P 4/155`, Appraisement Book 11 p. 59, Settlement Book 34 p. 176, estate settlement / appraisement / inventory records after the located will; corroboration of the death-register John / Sarah parent names through Lewis County heirship / chancery / oil-title paperwork; any Bible or church evidence naming Sarah's maiden surname; and the ambiguous "Bridget Copley" Bible path, which should be tested through both Reynolds and Gillooly / collateral possibilities. The County Court Order Book v. 6 image 285 / page 496 path is closed as a bounded negative.
 - Any future use of the Tom email archives should start from `References/Thomas Copley May 2026 Email Leads.md` and `References/Tom and Steve Copley May 2026 Michael Parents Thread.md`. Preserve the evidence caution that the earlier May 7-8 messages are mostly AI-generated output, while the May 15-17 thread is family correspondence that sharpens leads but does not prove parentage. Browser-readable transcript/source-note pages live in `References/`; downloadable source files live under `static/sources/tom-emails/` and `static/sources/tom-steve-emails/`.
 - Standing source-ingestion rule: when future agents use raw materials such as `.eml`, `.txt`, `.pdf`, `.zip`, images, spreadsheets, record exports, or downloaded source packets, they should commit publishable raw files to the repo, preferably under `static/sources/<short-source-slug>/`; create browser-readable `References/` pages when practical; and link wiki citations to both the readable derivatives and the raw files instead of leaving machine-local-only paths.
 - June 2026 privacy precedent: do not publish raw emails when they include private health information; create a sanitized `References/` note and preserve only publishable non-health attachments when useful.
@@ -1015,7 +1022,7 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
   - Treat John Copley + Sarah Copley as death-register-supported parent-name evidence, but treat Sarah Dolan as unresolved until an original or near-original source gives Sarah's maiden surname.
   - Preserve the located WV Culture death-register source for Michael Copley Sr., record ID `2919262` / image `4130795_00393`, including the Bridget-as-wife relationship error and the Lewis County birthplace problem.
   - Preserve the located FamilySearch will-book record for Michael's 1893 will / 1897 probate as estate and child-structure evidence; do not treat it as parentage proof.
-  - Preserve the County Court Order Book v. 6 image 285 / page 496 negative: Film 825098 / DGS 8614118 contains Conrad and Woofter entries, not Copley. A later catalog survey found no separate Lewis County probate, fiduciary, estate, or administration order-book series on FamilySearch. Next check the Index to wills & fiduciaries, Film 819938 / DGS 7618825, then corrected v. 6 image/page alignment, early March 1897 pages only if testing a page-citation error, and estate settlement, appraisement, inventory, administrator's bond, chancery, heirship, and oil-title files after Michael Copley Sr.'s January 1897 death for Bible extracts, family-record exhibits, or filings naming his parents.
+  - Preserve the County Court Order Book v. 6 image 285 / page 496 negative: Film 825098 / DGS 8614118 contains Conrad and Woofter entries, not Copley. The wills/fiduciaries index, Film 819938 / DGS 7618825 image 32, found Michael as `Copley (Copeley)`, Will Book C p. 351, Adm, date 4 March 1897, with Order Book 1-A p. 45, Appraisement Book 11 p. 59, Settlement Book 34 p. 176, and continuation `P 4/155`. Next locate those probate / estate entries and search administrator's bond, chancery, heirship, and oil-title files after Michael Copley Sr.'s January 1897 death for Bible extracts, family-record exhibits, or filings naming his parents.
   - Build Bridget Copley Reynolds forward through Reynolds records and check Bridget "Bitty" Copley Gillooly / Gillooly collateral paths to identify whether a family Bible, transcript, probate packet, or inherited correspondence could survive in either line.
   - Verify any Dolan / Kilgefin townland leads from original Tithe Applotment, parish, estate, or Registry of Deeds records before adding them as evidence.
 - Murray deed next steps:

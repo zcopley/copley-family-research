@@ -10,9 +10,19 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4EL - Michael Copley Wills/Fiduciaries Index Found (June 11, 2026)
+
+**PROBATE INDEX UPDATE:** Integrated the Claude for Chrome check of **Lewis County, West Virginia, General Index to Fiduciary Matters, Wills, Etc.**, Film `819938` / DGS `7618825`, image `32`. Michael appears as **Copley (Copeley)** with Will Book `C` p. `351`, role `Adm`, date **4 March 1897**, Order Book **1-A p. 45**, Appraisement Book **11 p. 59**, Settlement Book **34 p. 176**, and continuation `P 4/155`. This confirms the will-book citation and probate date but does not name parents or prove Sarah Dolan. The live probate targets are now Order Book 1-A p. 45 plus the appraisement / settlement references; the old County Court v. 6 image 285 / page 496 path remains a bounded negative.
+
+### Updated Pages
+
+- [[References/Claude for Chrome Michael Copley Sr Probate Estate Search|Claude for Chrome Michael Copley Sr Probate Estate Search]], [[People/Michael Copley Sr|Michael Copley Sr.]], [[Research Priorities and Action Items]], [[Sources and Evidence Index]], [[Volunteer Record Request Tasks]], [[Search Index]], [[References/Claude for Chrome Michael Copley Sr Parent Name Claim|Michael Copley Sr Parent Name Claim]], and [[References/Tom and Steve Copley May 2026 Michael Parents Thread|Tom and Steve May 2026 Michael Parents Thread]] - changed the fiduciary index from a future lookup to a found source and updated the live probate targets.
+- `CLAUDE.md`, `GEMINI.md`, and `.agents/AGENT_RESUME.md` - updated agent guidance to stop assigning the completed Film `819938` / DGS `7618825` search as the next task.
+- `static/sources/claude-michael-parents/michael-copley-sr-wills-fiduciaries-index-claude-output.txt` - preserved the raw index report.
+
 ## Phase 4EK - Michael Copley Order-Book Catalog Survey (June 11, 2026)
 
-**PROBATE ACCESS UPDATE:** Integrated the follow-up Claude for Chrome catalog survey for [[People/Michael Copley Sr|Michael Copley Sr.]]'s **Order Book No. 6, page 496** citation. The survey found no separate Lewis County probate, fiduciary, estate, or administration order-book series on FamilySearch. The County Court Order Books v. 6 series, Film `825098` / DGS `8614118`, remains the only County Court series fitting the citation, while the already checked image `285` / page `496` remains negative for Copley. The immediate next target is now **Index to wills & fiduciaries, 1817-1970**, Film `819938` / DGS `7618825`, followed by corrected County Court v. 6 image/page alignment and estate-file searches.
+**PROBATE ACCESS UPDATE:** Integrated the follow-up Claude for Chrome catalog survey for [[People/Michael Copley Sr|Michael Copley Sr.]]'s **Order Book No. 6, page 496** citation. The survey found no separate Lewis County probate, fiduciary, estate, or administration order-book series on FamilySearch. The County Court Order Books v. 6 series, Film `825098` / DGS `8614118`, remains the only County Court series fitting the citation, while the already checked image `285` / page `496` remains negative for Copley. This phase made **Index to wills & fiduciaries, 1817-1970**, Film `819938` / DGS `7618825`, the immediate next target; Phase 4EL later found Michael there and superseded that as a future task.
 
 ### Updated Pages
 

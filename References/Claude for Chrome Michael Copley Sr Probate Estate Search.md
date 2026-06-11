@@ -23,6 +23,8 @@ This note preserves Zach's June 2026 Claude for Chrome probate / estate search f
 
 [Download Order Book v. 6 catalog survey report](../static/sources/claude-michael-parents/michael-copley-sr-order-book6-catalog-survey-claude-output.txt)
 
+[Download wills/fiduciaries index report](../static/sources/claude-michael-parents/michael-copley-sr-wills-fiduciaries-index-claude-output.txt)
+
 ## Main Result
 
 Claude located Michael Copley Sr.'s recorded will in FamilySearch's **West Virginia Will Books, 1756-1971** collection.
@@ -44,7 +46,7 @@ The will does **not** name Michael's parents. It does confirm the Lewis County f
 | Local source | Lewis County Courthouse, `Wills, v. A-C 1820-1900` |
 | Volume | Will Book C, 1878-1900 |
 | Pages | Index says page 351; will spans pages 350-352 |
-| Probate order | Certificate cites Order Book No. 6, page 496; checked County Court Order Book v. 6 page 496 image is not the Copley probate entry |
+| Probate order | Will certificate cites Order Book No. 6, page 496; fiduciary index gives Order Book **1-A, page 45** for the 4 March 1897 Michael Copley administration entry |
 
 ## Follow-Up Access Map
 
@@ -74,12 +76,12 @@ Reported image observations:
 |---|---|---|---|
 | County Court Order Book v. 6, 1897-1901 | Film 825098 / DGS 8614118 | Now checked at page 496 | Page 496 is a Board of Commissioners order-book page with Conrad and Woofter entries from c. June-July 1900; no Copley entry appears. Treat this specific page as a bounded negative. |
 | County Court Order Book v. 5, 1894-1897 | Film 825097 / DGS 8614117 | Restricted; no home-view camera icon reported | May contain preliminary entries between Michael's 19 January 1897 death and 4 March 1897 probate. |
-| Index to wills & fiduciaries, 1817-1970 | Film 819938 / DGS 7618825 | Identified by catalog survey; not yet checked in this project | Highest-value next index check; should confirm whether the Copley entry really points to Order Book v. 6 page 496 or to a corrected page / book reference. |
+| Index to wills & fiduciaries, 1817-1970 | Film 819938 / DGS 7618825 | Checked, image 32 | Michael appears as `Copley (Copeley)`, Will Book C p. 351, role `Adm`, Order Book **1-A p. 45**, date **4 March 1897**, appraisement **11 p. 59**, settlement **34 p. 176**, and continuation `P 4/155`. |
 | Wills, inventories, etc., Lewis County, 1853-1899 | Film 250047 / DGS 7617564 | Restricted; FamilySearch Library / FamilySearch Center access required | Primary target for inventory, appraisement, sale bill, settlement, or estate account. |
 | Inventories, etc., Lewis County, 1853-1900 | Film 250047 / DGS 7617564 | Same restricted film | Same roll under a second catalog title. |
 | Circuit Court order books, 1896-1905 | Film 1481462 / DGS 8614189 | Restricted; not a direct probate target | Useful only if a contested estate, land dispute, chancery, or civil suit appears. |
 
-The key practical result is now narrower: **DGS 8614118 image 285 / page 496 is closed as the wrong image / page target for Copley**, while **DGS 7618825** is the best next index check and **DGS 7617564** remains the strongest known restricted FamilySearch target for estate inventory / appraisement / settlement material.
+The key practical result is now narrower: **DGS 8614118 image 285 / page 496 is closed as the wrong image / page target for Copley**, while the wills/fiduciaries index points to **Order Book 1-A page 45** as the next probate-order target and keeps **Appraisement Book 11 page 59** plus **Settlement Book 34 page 176** as estate-record targets.
 
 ## Order Book v. 6 Page 496 Check
 
@@ -104,6 +106,22 @@ A subsequent Claude for Chrome catalog survey checked the relevant FamilySearch 
 
 The same survey identified **Index to wills & fiduciaries, 1817-1970**, Film **819938** / DGS **7618825**, as the fastest next check. A Copley entry there should confirm the exact order-book / page citation before more page-by-page browsing.
 
+## Wills and Fiduciaries Index Result
+
+A later Claude for Chrome check found Michael in **Lewis County, West Virginia, General Index to Fiduciary Matters, Wills, Etc.**, Film **819938** / DGS **7618825**, image **32 of 377**, FamilySearch ARK `3:1:3QS7-89KQ-3C4C`. The Copley / Copeley entries appear in the `Co` section on physical index pages 32 and 34.
+
+Michael's entry reads in abstract:
+
+| Surname | Given name | Will Book | Role | Order Book | Date | Appraisement | Settlement |
+|---|---|---|---|---|---|---|---|
+| Copley (Copeley) | Michael | C 351 | Adm | 1-A 45 | *March 4, 1897 | 11 / 59 | 34 / 176 |
+
+A continuation row for the same Michael entry appears as `P` with `4/155` / `4,155`; its record-series meaning still needs confirmation.
+
+The index confirms the located will-book citation, adds the clerk-noted spelling variant **Copeley**, and confirms the 4 March 1897 probate / administration date. It does **not** cite Order Book No. 6 page 496. The live order-book target is now **Order Book 1-A page 45**, with the old Will Book C certificate citation treated as a numbering / relabeling / copying problem until the 1-A page is checked.
+
+Other Copley entries in the same index include Anna, John, Margaret, Mary Ellen, Patrick, Sarah E., and Thomas Copley. These may be useful later for connected estate work but are not parentage evidence for Michael.
+
 ## Abstract
 
 Michael Copley identifies himself as being of Lewis County, West Virginia, and publishes his last will and testament. He leaves land to his son **John Copley**, including a fifty-five-acre tract and a larger one-hundred-twenty-seven-and-a-half-acre arrangement described by metes / boundary logic.
@@ -118,7 +136,7 @@ The four daughters' portion is charged with cash payments:
 
 Michael appoints his son **John Copley** as sole administrator / executor.
 
-The will was written on **2 February 1893** and probated on **4 March 1897** before the Lewis County County Court. The probate certificate cites **Order Book No. 6, page 496** and is attested by **L. A. Bonnett**, Clerk.
+The will was written on **2 February 1893** and probated on **4 March 1897** before the Lewis County County Court. The probate certificate cites **Order Book No. 6, page 496** and is attested by **L. A. Bonnett**, Clerk. The later fiduciary index confirms the probate date but gives the order-book target as **1-A page 45**.
 
 ## Names Named
 
@@ -158,11 +176,11 @@ This is not parentage evidence, but it strengthens the next search path. The pub
 
 The will closes the immediate "find Michael's will" task. The next probate / estate targets are:
 
-- **Index to wills & fiduciaries, 1817-1970**, Film 819938 / DGS 7618825, to confirm the Copley order-book citation and any corrected page reference.
-- County Court Order Book v. 6, Film 825098 / DGS 8614118, systematic image/page alignment around the likely page-496 neighborhood and early March 1897 entries if checking for a page-number or certificate error; do not repeat the already checked image 285 / page 496 except as verification.
-- County Court Order Book v. 5, Film 825097 / DGS 8614117, for any preliminary January-March 1897 entries.
-- Any Michael Copley **estate settlement, appraisement, inventory, administrator's bond, sale bill, or personal-property account** after March 1897.
-- FamilySearch Film 250047 / DGS 7617564, `Wills, inventories, etc., Lewis County, 1853-1899` and `Inventories, etc., Lewis County, 1853-1900`, requiring FamilySearch Library / FamilySearch Center access.
+- Find the Lewis County volume or film corresponding to **Order Book 1-A page 45** and read the 4 March 1897 Michael Copley administration / probate entry.
+- Check the continuation reference `P 4/155` after the 1-A entry is located, since it may point to a later probate, partition, or settlement entry.
+- Locate **Appraisement Book 11 page 59** and **Settlement Book 34 page 176** from the wills/fiduciaries index.
+- FamilySearch Film 250047 / DGS 7617564, `Wills, inventories, etc., Lewis County, 1853-1899` and `Inventories, etc., Lewis County, 1853-1900`, remains a likely restricted access path for inventory, appraisement, sale bill, settlement, or estate account material.
+- County Court Order Book v. 6, Film 825098 / DGS 8614118, image 285 / page 496 remains a bounded negative; do not repeat it except as verification.
 - Lewis County chancery / equity / partition / heirship records, 1897-1915.
 - Oil-title, deed, lease, royalty, partition, and `Michael Copley Heirs 128-Acre Lease` records after the 1900 oil strike; next request Deed Book 42 page 267 from the Lewis County Clerk or offline microfilm, indexed as Anna Copley to South Penn Oil Company, Lease, 128 acres on Sand Fork. Use the online Book 39 page 138 South Penn lease as companion context.
 - West Virginia and Regional History Center remote reference / reproduction request for any accessible copies tied to Film 250047 or the Copley Heirs Well No. 1 / James Pietro Papers material.
