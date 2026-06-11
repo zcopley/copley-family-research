@@ -1,0 +1,66 @@
+REPORT: Michael Copley Sr. Probate Order - Lewis County Order Book No. 6, Page 496
+
+RESULT: PAGE LOCATED - COPLEY ENTRY NOT FOUND ON PAGE 496
+
+After exhaustive tile-by-tile reading of Lewis County Court Order Book No. 6, page 496, the entry is not present on that page.
+
+Exact citation:
+
+| Field | Value |
+|---|---|
+| Film | 825098 |
+| DGS | 8614118 |
+| Collection title | Lewis. Court Records 1897-1901 |
+| Catalog record | familysearch.org/en/search/catalog/koha:81956 |
+| Book | County Court Order Books, v. 6 (1897-1901) |
+| Page | 496, left page of a two-page spread |
+| Image in film | 285 of 365 |
+| ARK | https://www.familysearch.org/ark:/61903/3:1:3Q9M-C34Z-VSMP-H |
+| Page confirmation | Deep-zoom tile 11/0_0: printed "496 ORD[ERS]" |
+
+Page 496 contents:
+
+Page 496 contains two entries, both from approximately June-July 1900. Neither mentions Michael Copley, John Copley, or the Copley estate.
+
+Entry 1 - Notary Public commission, June 1900:
+
+State of West Virginia, County of Lewis, in the Clerk's Office of the County Court, County of Lewis, in vacation of said court, [?] day of June, 1900. John H. Conrad appeared before the Clerk and exhibited his commission, issued in 1900 by G. N. Atkinson or similar, appointing him a Notary Public. Conrad gave bond and qualified. Attested by E. A. Bennett, Clerk.
+
+Entry 2 - Administration bond, Woofter estate, c. June-July 1900:
+
+State of West Virginia, County of Lewis, in the Clerk's Office of the County Court, in vacation, on Monday the 30th day of June or July. On motion of Susan Woofter, appointed administratrix of Marshall J. Woofter, deceased, with Charles Woofter as surety, bond was approved and she qualified by oath. Attested by E. A. Bennett, Clerk.
+
+Names mentioned on page 496:
+
+- John H. Conrad - Notary Public appointee.
+- G. N. Atkinson or similar - issuing officer of Conrad's notary commission.
+- E. A. Bennett - County Clerk.
+- Susan Woofter - administratrix.
+- Marshall J. Woofter - deceased.
+- Charles Woofter - surety.
+
+Michael Copley, John Copley, and any Copley variant do not appear on page 496.
+
+What was verified:
+
+- Film identity confirmed: image 4 reads "ORDER BOOK 6 LEWIS COUNTY"; image 1 is film leader 825098.
+- Page 496 confirmed: level 11 tile 0_0 reads printed "496 ORD[ERS]".
+- Page 496 fully read: all left-page tiles were examined; only Conrad and Woofter entries appear.
+- The volume is headed "ORDERS | BOARD OF COMMISSIONERS OF LEWIS COUNTY" and contains administrative and probate-adjacent entries.
+- The C-section index on images 7-9 was searched; no Copley entry was found.
+
+Interpretation:
+
+The probate certificate's "County Court Order Book No. 6, page 496" citation does not point to Michael Copley's entry in this Board of Commissioners order-book volume. The most likely explanations are:
+
+1. The probate certificate cites a different, parallel probate or will order-book series, also numbered No. 6.
+2. The entry appears in the early March-April 1897 pages of this same volume, and "496" is a certificate or transcription error for another page.
+3. A Copley estate order appears around 1900 in another page or series, and the page citation was recorded incorrectly.
+
+Recommended next actions:
+
+1. Search for a separate Lewis County probate / will / administration order-book series distinct from the Board of Commissioners order books.
+2. Check neighboring films, especially 825094-825097 and any probate-specific or wills series adjacent to Will Book C.
+3. If a separate probate order book is found, navigate to page 496 in that series.
+4. As an alternate check, scan Film 825098 images 35-50, approximately pages 2-30, for 4 March 1897 Michael Copley entries in the early part of the Board of Commissioners book.
+5. If online sources cannot identify the correct series, contact the Lewis County Clerk or West Virginia State Archives for a search of original probate order books and estate files.
