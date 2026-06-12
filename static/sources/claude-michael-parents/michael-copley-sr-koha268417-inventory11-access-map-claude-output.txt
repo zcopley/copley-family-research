@@ -1,0 +1,132 @@
+Research Report: FamilySearch koha:268417 - Michael Copley Sr. Order Book 1-A Access Path
+
+1. koha:268417 Full Film/DGS List
+
+Catalog: "Court records, 1817-1875; court record index, 1817-1932" - West Virginia County Court (Lewis County). 130 microfilm reels, filmed 1959 from WVU Library originals.
+
+Page 1 - Court record indexes (alphabetical, 1817-1932):
+
+Court record index, Ab - Base: Film 249784 / DGS 8727358
+Court record index, Bass - Brooko: Film 249785 / DGS 8727359
+Court record index, Brooks - Camp: Film 249786 / DGS 8727360
+Court record index, Cambell - Cort: Film 249787 / DGS 8727361
+Court record index, Cos - Doub: Film 249788 / DGS 8727362
+Court record index, Daugh - Fulkn: Film 249789 / DGS 8727363
+Court record index, Fulks - Hall: Film 249790 / DGS 8727364
+Court record index, Hall - Hol: Film 249791 / DGS 8727365
+Court record index, Hoi - Jackson: Film 249792 / DGS 8727366
+Court record index, Jackson - Lans: Film 249793 / DGS 8727367
+Court record index, Lant - McDonal: Film 249794 / DGS 8727368
+Court record index, Mc Donald - Mitchel: Film 249795 / DGS 8727369
+Court record index, Mitchell - Pet: Film 249796 / DGS 8727370
+Court record index, Pew - Russel: Film 249797 / DGS 8727371
+Court record index, Russell - Spau: Film 249798 / DGS 8727372
+Court record index, Spang - Stringer: Film 249799 / DGS 8727373
+Court record index, Stringer - Webber: Film 249800 / DGS 8727374
+Court record index, Weber - Woofer: Film 249801 / DGS 8727375
+Court record index, Woofter - Zuzic: Film 249802 / DGS 8727991
+Court record index, chronological, 1831: Film 249803 / DGS 8727992
+Court record index chronological 1832-1843: Film 249804 / DGS 8727993
+Court record index chronological 1843-1853: Film 249805 / DGS 8727994
+Court record index chronological 1853-1870: Film 249806 / DGS 8727995
+Court record index chronological 1870-1913: Film 249807 / DGS 8727996
+Court record index chronological 1913-1923: Film 249808 / DGS 8727997
+Court record index chronological 1924-1932: Film 249809 / DGS 8575383
+Court record index, Subj. no. 1 Miscellaneous: Film 249810 / DGS 8727998
+Court record index, Subj. no. 1a Miscellaneous: Film 249811 / DGS 8727999
+Court record index, Subj. no. 2 Miscellaneous: Film 249812 / DGS 8728000
+Court record index, Subj. no. 2a Miscellaneous: Film 249813 / DGS 8728001
+Court record index, Subj. no. 1a Miscellaneous: Film 249814 / DGS 8728002
+Court record index, Subj. no. 1 Miscellaneous: Film 249815 / DGS 8728003
+
+Page 2 - Court records by box (original loose papers, 1817-1875):
+
+Court records, Box 1-2, 1817-1818: Film 186382 / DGS 8153584
+Court records, Box 3, 1818: Film 186383 / DGS 8612394
+Boxes continue through Box 119-121, 1869-1875: Film 186479 / DGS 8612554.
+
+The records run only through 1875. No bound volume series - no order books, no probate registers, no fiduciary books - appear anywhere in koha:268417.
+
+2. Assessment: Does koha:268417 Contain Anything Related to Order Book 1-A?
+
+No. Koha:268417 is entirely composed of an alphabetical and chronological court case index running 1817-1932 (loose-paper court actions, not probate/fiduciary order books) plus loose-paper court record boxes from 1817-1875.
+
+It contains no bound order books, no fiduciary volumes, no probate registers, no appraisements, and no settlement books. Order Book 1-A is not here.
+
+The chronological index film DGS 8727996 (Film 249807, 1870-1913) covers the 1897 probate period and may index Copley's case number within the regular County Court docket, but it will not contain the fiduciary/probate order book text itself.
+
+3. Comprehensive Lewis County WV Catalog Map
+
+County Court Order Books (koha:81956):
+- v. 1-2, 1881-1887: Film 825095 / DGS 8614115
+- v. 3-4, 1887-1894: Film 825096 / DGS 8614116
+- v. 5, 1894-1897: Film 825097 / DGS 8614117 (confirmed negative for 1-A)
+- v. 6, 1897-1901: Film 825098 / DGS 8614118 (checked negative)
+
+Circuit Court Order Books (koha:319781):
+- v. A-B, 1817-1830 through vol. 19-22, 1896-1905: Film 1481462 / DGS 8614189 covers the exact period but these are Circuit Court, not County Court fiduciary.
+
+Wills (koha:82010):
+- Wills v. A-C, 1820-1900: Film 819929 / DGS 4715576, includes Copley's Will Book C p. 351.
+
+Inventories / Appraisement Books (koha:81979) - key finds:
+- Inventories v. A-C, 1828-1861: Film 819939 / DGS 7618826
+- Inventories v. D, 1861-1873: Film 825086 / DGS 7618827
+- Inventories v. 5, 1873-1878: Film 825087 / DGS 7618828
+- Inventories v. 6, 1878-1885: Film 825088 / DGS 7618829
+- Inventories v. 7-8, 1885-1890: Film 825089 / DGS 7618830
+- Inventories v. 9-10, 1890-1896: Film 825090 / DGS 7618831
+- Inventories v. 11, 1896-1897: Film 825091 / DGS 7618832, digitized
+- Inventories v. 12, 1897-1903: Film 825092 / DGS 7618833
+
+Wills & Fiduciaries Index (koha:81987): Film 819938 / DGS 7618825, known source index.
+
+No catalog entry exists for Fiduciary Order Books, Settlement Books, Commissioner of Accounts Books, or Probate Order Books separate from County Court Order Books.
+
+4. Opened Title Cards and Page Checks
+
+DGS 7618832 (Inventories v. 11, 1896-1897) was opened and verified:
+
+- Image 1: Film target card 825091 confirmed.
+- Image 4: Book cover shows "INVENTORY BOOK 11, LEWIS COUNTY" - this is Appraisement Book 11.
+  ARK: https://www.familysearch.org/ark:/61903/3:1:3QS7-99KQ-QHQX?i=3&cat=koha%3A81979
+- Image 50 (pp. 58-59): double-page spread reached.
+  Left page (p. 58): tail end of what appears to be a Thomas estate inventory list.
+  Right page (p. 59): commissioner's report conclusion for Thomas estate, signed by J.H. Kyle, Commissioner of Accounts, Lewis County, and M.B. Chester, Notary.
+  ARK: https://www.familysearch.org/ark:/61903/3:1:3QS7-99KQ-QHWH?i=49&cat=koha%3A81979
+
+The Copley appraisement at p. 59 may begin partway down this spread or on image 51 (pp. 60-61). Images 50-52 should be examined carefully for the Copley appraisement entry.
+
+5. Verdict on Each Target Record
+
+- Order Book 1-A p. 45: not cataloged in FamilySearch; not found.
+- Probate Record P 4/155: not cataloged in FamilySearch; not found.
+- Appraisement Book 11 p. 59: Film 825091 / DGS 7618832; online and accessible; film confirmed, p. 59 at image 50.
+- Settlement Book 34 p. 176: not cataloged in FamilySearch; not found.
+
+6. Where Is Order Book 1-A?
+
+Order Book 1-A is a fiduciary/probate order book, a separate volume series in which the County Court entered estate and fiduciary orders. It is distinct from the regular law docket order books in koha:81956.
+
+The FamilySearch catalog for Lewis County WV has no entry for fiduciary order books, settlement books, or commissioner-of-accounts books filmed after 1882. This record type was not included in the 1970 GSU filming project that captured wills, inventories, and regular order books. The volumes likely remain at the Lewis County Courthouse in Weston, WV.
+
+7. Recommended Next Steps
+
+Immediate online target: Appraisement Book 11.
+
+Open DGS 7618832 images 50-53 to confirm the Copley appraisement at or near page 59. The title card is confirmed; the film is accessible. ARK base: https://www.familysearch.org/ark:/61903/3:1:3QS7-99KQ-QHWH
+
+Courthouse / archive request:
+
+Lewis County Clerk's Office
+110 Center Avenue, Weston, WV 26452
+Phone: (304) 269-8205
+Request: Fiduciary/Probate Order Book 1-A, p. 45 (Michael Copley Sr. estate, probated 4 Mar 1897); Settlement Book 34 p. 176; Probate Record P, vol. 4, p. 155.
+
+Alternate repositories:
+- West Virginia University Libraries, Morgantown. A&M 3448 (Lewis County Probate Records) may include these volumes.
+- West Virginia State Archives, Charleston, may have microfilm or original records not captured by the 1970 GSU filming.
+
+Summary:
+
+Order Book 1-A is not online and not cataloged in FamilySearch for Lewis County WV. The Lewis County Courthouse is the primary and likely only available access point. Appraisement Book 11 (DGS 7618832) is confirmed digitized and accessible, with the Copley entry at approximately image 50-51 (p. 59).
