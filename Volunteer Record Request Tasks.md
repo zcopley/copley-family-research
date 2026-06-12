@@ -153,8 +153,8 @@ Known restricted / indexed probate targets:
 - Index to wills & fiduciaries, 1817-1970: Film 819938 / DGS 7618825, image 32, found Michael as `Copley (Copeley)`, Will Book C p. 351, Adm, date 4 March 1897, Order Book 1-A p. 45, Appraisement Book 11 p. 59, Settlement Book 34 p. 176, and continuation `P 4/155`.
 - Order Book 1-A p. 45: next target for the actual probate / administrator qualification order.
 - Appraisement Book 11 p. 59 and Settlement Book 34 p. 176: next targets for estate details.
-- Wills, inventories, etc., Lewis County, 1853-1899 / Inventories, etc., Lewis County, 1853-1900: Film 250047 / DGS 7617564 may contain the appraisement / inventory / estate material.
-- Order Book 1-A access-map status: not found online yet; DGS 8614117 is confirmed as County Court Order Book v. 5, not 1-A; next online catalog target is `koha:268417`, `Court records, 1817-1875; court record index, 1817-1932`.
+- Inventory Book 11 / Appraisement Book 11 is digitized: Film 825091 / DGS 7618832; images 50-53 are the immediate online target for p. 59.
+- Order Book 1-A access-map status: not found online; DGS 8614117 is confirmed as County Court Order Book v. 5, not 1-A; `koha:268417` is checked negative for bound probate / fiduciary volumes.
 - County Court Order Book v. 6, Film 825098 / DGS 8614118, image 285 / page 496 is checked and negative for Copley; do not repeat except as verification.
 
 ```text
@@ -186,13 +186,14 @@ His will has been located in the FamilySearch collection "West Virginia Will Boo
 - Page-496 follow-up: County Court Order Book v. 6, Film 825098 / DGS 8614118, image 285 / page 496 was checked and contains Conrad / Woofter entries, not Copley
 - Index follow-up: General Index to Fiduciary Matters, Wills, Etc., Film 819938 / DGS 7618825, image 32, records Michael as Copley (Copeley), Will Book C p. 351, Adm, date 4 March 1897, Order Book 1-A p. 45, Appraisement Book 11 p. 59, Settlement Book 34 p. 176, and continuation P 4/155
 - Online access-map follow-up: Order Book 1-A was not found online; DGS 8614117 is confirmed as County Court Order Book v. 5, not 1-A, and DGS 8614115 is v. 1, 1881-1883
+- Catalog follow-up: FamilySearch `koha:268417` contains court indexes and loose papers, not bound probate / fiduciary volumes; Appraisement Book 11 is online as Inventory Book 11, Film 825091 / DGS 7618832, with p. 59 around images 50-53
 - Restricted FamilySearch target for inventory / appraisement / settlement: Film 250047 / DGS 7617564
 
 I would like to request a search for:
 
 1. Order Book 1-A, page 45, for the 4 March 1897 Michael Copley probate / administrator qualification entry.
 2. The record corresponding to the index continuation `P 4/155`, if identifiable.
-3. Appraisement Book 11, page 59, and Settlement Book 34, page 176, for estate details.
+3. Appraisement Book 11, page 59, for estate details if not already captured from Film 825091 / DGS 7618832.
 4. Any estate settlement, appraisement, inventory, administrator's bond, sale bill, personal-property account, estate packet, or related probate file for Michael Copley after March 1897.
 5. Any related index entries under Copley, Copeley, Copely, or Coopley.
 
@@ -242,15 +243,16 @@ Known will:
 - Probate certificate cites Order Book No. 6, page 496
 - County Court Order Book v. 6, Film 825098 / DGS 8614118, image 285 / page 496 has now been checked: it contains Conrad and Woofter entries from c. June-July 1900, not Copley.
 - General Index to Fiduciary Matters, Wills, Etc., Film 819938 / DGS 7618825, image 32, found Michael Copley (Copeley): Will Book C p. 351; Adm; date 4 March 1897; Order Book 1-A p. 45; Appraisement Book 11 p. 59; Settlement Book 34 p. 176; continuation P 4/155.
-- Order Book 1-A was not found online in the checked direct order-book series. DGS 8614117 / Film 825097 is labeled County Court Order Book v. 5, 1894-1897, not 1-A. The next online catalog target is `koha:268417`, `Court records, 1817-1875; court record index, 1817-1932`.
+- Order Book 1-A was not found online in the checked direct order-book series. DGS 8614117 / Film 825097 is labeled County Court Order Book v. 5, 1894-1897, not 1-A. FamilySearch `koha:268417` was also checked and contains court indexes / loose papers, not bound probate / fiduciary volumes.
+- Appraisement Book 11 is online as Inventory Book 11, Film 825091 / DGS 7618832; page 59 is around images 50-53.
 
 Please check these restricted films:
 
 1. The Lewis County volume or film containing Order Book 1-A, page 45: please capture the Michael Copley probate / administrator qualification entry.
 2. The record corresponding to continuation `P 4/155`, if that can be identified from the index or catalog.
-3. Appraisement Book 11, page 59, and Settlement Book 34, page 176.
-4. Wills, inventories, etc., Lewis County, 1853-1899 / Inventories, etc., 1853-1900, Film 250047 / DGS 7617564: please check for Michael Copley inventory, appraisement, sale bill, estate settlement, administrator bond, or account after March 1897.
-5. FamilySearch catalog `koha:268417`, if available through your system, for any fiduciary / probate / commissioner-of-accounts / letter-numbered order-book film notes.
+3. Appraisement Book 11, page 59, if the online DGS 7618832 image set is unavailable or inconclusive.
+4. Settlement Book 34, page 176.
+5. Wills, inventories, etc., Lewis County, 1853-1899 / Inventories, etc., 1853-1900, Film 250047 / DGS 7617564: please check for Michael Copley inventory, appraisement, sale bill, estate settlement, administrator bond, or account after March 1897 if it contains relevant estate volumes not otherwise cataloged.
 6. County Court Order Book v. 5, Film 825097 / DGS 8614117, images 280-316, only as a fallback March 1897 scan.
 7. County Court Order Book v. 6, Film 825098 / DGS 8614118, image 285 / page 496 only if you need to verify the negative.
 

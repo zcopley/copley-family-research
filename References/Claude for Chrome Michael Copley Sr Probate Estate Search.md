@@ -27,6 +27,8 @@ This note preserves Zach's June 2026 Claude for Chrome probate / estate search f
 
 [Download Order Book 1-A access map report](../static/sources/claude-michael-parents/michael-copley-sr-order-book-1a-access-map-claude-output.txt)
 
+[Download koha 268417 / Inventory Book 11 access report](../static/sources/claude-michael-parents/michael-copley-sr-koha268417-inventory11-access-map-claude-output.txt)
+
 ## Main Result
 
 Claude located Michael Copley Sr.'s recorded will in FamilySearch's **West Virginia Will Books, 1756-1971** collection.
@@ -80,6 +82,7 @@ Reported image observations:
 | County Court Order Book v. 5, 1894-1897 | Film 825097 / DGS 8614117 | Target card checked | Confirmed physically labeled Volume 5, 1894-1897, not 1-A. Late images 280-316 remain only a fallback March 1897 scan, not the primary 1-A target. |
 | Index to wills & fiduciaries, 1817-1970 | Film 819938 / DGS 7618825 | Checked, image 32 | Michael appears as `Copley (Copeley)`, Will Book C p. 351, role `Adm`, Order Book **1-A p. 45**, date **4 March 1897**, appraisement **11 p. 59**, settlement **34 p. 176**, and continuation `P 4/155`. |
 | Wills, inventories, etc., Lewis County, 1853-1899 | Film 250047 / DGS 7617564 | Restricted; FamilySearch Library / FamilySearch Center access required | Primary target for inventory, appraisement, sale bill, settlement, or estate account. |
+| Inventories v. 11, 1896-1897 | Film 825091 / DGS 7618832 | Digitized; title card and p. 59 spread verified | Confirmed online path for **Appraisement Book 11**. Image 50 reaches pp. 58-59; Copley may begin on image 50 or 51. |
 | Inventories, etc., Lewis County, 1853-1900 | Film 250047 / DGS 7617564 | Same restricted film | Same roll under a second catalog title. |
 | Circuit Court order books, 1896-1905 | Film 1481462 / DGS 8614189 | Restricted; not a direct probate target | Useful only if a contested estate, land dispute, chancery, or civil suit appears. |
 
@@ -134,7 +137,31 @@ A follow-up Claude for Chrome report did **not** locate Order Book 1-A page 45 o
 - DGS **8614118** / Film **825098**, image 285 / page 496, remains a bounded negative for Michael.
 - The Circuit Court order-book series uses different labels and remains inconsistent with the fiduciary-index citation.
 
-The most likely interpretation is that `Order Book 1-A` is a separate probate / fiduciary / commissioner-of-accounts-style order-book label not exposed under that exact title in the checked FamilySearch catalog entries. The next online target is the FamilySearch catalog entry **`Court records, 1817-1875; court record index, 1817-1932`**, koha **268417**, because it may contain miscellaneous county-court records or indexes extending beyond the main 1817-1875 court-record span.
+The most likely interpretation is that `Order Book 1-A` is a separate probate / fiduciary / commissioner-of-accounts-style order-book label not exposed under that exact title in the checked FamilySearch catalog entries. A later report checked FamilySearch catalog **koha:268417** and found that it does **not** contain the bound fiduciary / probate order-book series.
+
+## Koha 268417 and Inventory Book 11 Access Map
+
+A subsequent Claude for Chrome report checked FamilySearch catalog **`koha:268417`**, `Court records, 1817-1875; court record index, 1817-1932`. It found 130 microfilm reels consisting of:
+
+- alphabetical court-record indexes, 1817-1932;
+- chronological court-record indexes, including Film **249807** / DGS **8727996** for 1870-1913;
+- subject miscellaneous court-record indexes;
+- loose-paper court-record boxes, 1817-1875.
+
+The report found **no bound order books, fiduciary volumes, probate registers, appraisements, settlement books, commissioner-of-accounts books, or letter-numbered probate volumes** in `koha:268417`. That catalog entry may index loose-paper court matters for 1897, but it is not the online home of **Order Book 1-A p. 45**.
+
+The same catalog work found the useful online appraisement path:
+
+| Target | Film / DGS | Status |
+|---|---|---|
+| Inventories v. 11, 1896-1897 / Appraisement Book 11 | Film 825091 / DGS 7618832 | Digitized and accessible |
+
+Image checks:
+
+- DGS **7618832**, image 4: cover reads **Inventory Book 11, Lewis County**. ARK `https://www.familysearch.org/ark:/61903/3:1:3QS7-99KQ-QHQX?i=3&cat=koha%3A81979`.
+- DGS **7618832**, image 50: pp. 58-59 spread. Page 59 appears to close a Thomas estate matter with signatures of **J. H. Kyle**, Commissioner of Accounts, Lewis County, and **M. B. Chester**, Notary. ARK `https://www.familysearch.org/ark:/61903/3:1:3QS7-99KQ-QHWH?i=49&cat=koha%3A81979`.
+
+The Copley appraisement indexed at **Book 11 p. 59** may start on image 50 or just after it, so images **50-53** are the immediate online target.
 
 ## Abstract
 
@@ -191,7 +218,8 @@ This is not parentage evidence, but it strengthens the next search path. The pub
 The will closes the immediate "find Michael's will" task. The next probate / estate targets are:
 
 - Find the Lewis County volume or film corresponding to **Order Book 1-A page 45** and read the 4 March 1897 Michael Copley administration / probate entry.
-- Check FamilySearch catalog **koha:268417**, `Court records, 1817-1875; court record index, 1817-1932`, for any film notes naming Order Book 1-A, fiduciary order books, probate order books, commissioner-of-accounts books, probate record books, or letter-numbered county-court volumes.
+- Treat FamilySearch catalog **koha:268417** as checked negative for bound fiduciary / probate order books; use it only if searching loose-paper court indexes.
+- Immediately check **Inventory Book 11**, Film 825091 / DGS 7618832, images **50-53**, for Michael Copley's Appraisement Book 11 p. 59 entry.
 - Check the continuation reference `P 4/155` after the 1-A entry is located, since it may point to a later probate, partition, or settlement entry.
 - Locate **Appraisement Book 11 page 59** and **Settlement Book 34 page 176** from the wills/fiduciaries index.
 - FamilySearch Film 250047 / DGS 7617564, `Wills, inventories, etc., Lewis County, 1853-1899` and `Inventories, etc., Lewis County, 1853-1900`, remains a likely restricted access path for inventory, appraisement, sale bill, settlement, or estate account material.
