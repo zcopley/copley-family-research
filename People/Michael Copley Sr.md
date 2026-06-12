@@ -74,6 +74,18 @@ Michael's 1893 Lewis County will, probated on **4 March 1897**, confirms the est
 
 After Michael's death, period oil-industry sources identified a South Penn property as the **Michael Copley Heirs 128-Acre Lease** and its pool-opening well as **Michael Copley Heirs well No. 1**, completed 13 September 1900. The South Penn grantee index points to the likely recorded Sand Fork lease: **Anna Copley to South Penn Oil Company, Lease, Deed Book 42 page 267, 128 acres on Sand Fork**, but Book 42 was not available in the online FamilySearch deed-book images checked. A related online lease at Book 39 page 138 names Anna, Bridget, Margaret, and Sarah E. Copley as lessors to South Penn for a Land Fork tract. A separate 22 August 1900 family exchange deed directly names Ann, Margaret, Ann, Sarah, Bridget and Patrick Gillooly, and John in a title rearrangement involving Sand Fork and a 55-acre tract. It is not the oil lease, and the 55-acre place-name reading remains unresolved. Its older source deed is visually verified at Book 11 page 321 and confirms Michael and John as grantees of the 200-acre Hoffman tract; its 21 March 1886 marginal-note deed-index path is a bounded negative in the checked FamilySearch deed materials. See [[References/Claude for Chrome Copley Heirs Oil Title Search]] and [[References/Claude for Chrome 1900 Copley Family Exchange Deed]].
 
+## Evidence Status Snapshot
+
+| Question | Current answer |
+|---|---|
+| Who were Michael's recorded parents? | The 1897 Lewis County death register records **John Copley** and **Sarah Copley**. |
+| Is Sarah's maiden name proven as Dolan? | No. No located original or near-original source gives Sarah's maiden surname as Dolan. |
+| Does Michael's will prove parentage? | No. The will confirms children, executor, and estate structure, but it does not name Michael's parents. |
+| What is the strongest next record path? | Inventory Book 11 / Appraisement Book 11, Film 825091 / DGS 7618832, images 50-53, followed by courthouse / archive requests for Order Book 1-A p. 45, `P 4/155`, and Settlement Book 34 p. 176. |
+| What should not be repeated? | County Court Order Book v. 6 image 285 / p. 496, the wills/fiduciaries index image 32, and FamilySearch `koha:268417` as a bound probate-volume path are already checked. |
+
+See [[References/Michael Copley Sr Parentage Evidence Audit and Request Packet|Michael Copley Sr Parentage Evidence Audit and Request Packet]] for the full evidence table, do-not-repeat log, courthouse packet, archive packet, and result-capture template.
+
 ## Timeline
 
 ```mermaid
@@ -135,3 +147,4 @@ timeline
 9. [[References/Claude for Chrome Michael Copley Sr Probate Estate Search|Claude for Chrome Michael Copley Sr Probate Estate Search]] — FamilySearch will-book record locating Michael's 1893 will / 1897 probate and confirming children, executor, and next probate targets.
 10. [[References/Claude for Chrome Copley Heirs Oil Title Search|Claude for Chrome Copley Heirs Oil Title Search]] — period oil-source search establishing the `Michael Copley Heirs 128-Acre Lease` designation and exact restricted deed-index targets.
 11. [[References/Claude for Chrome 1900 Copley Family Exchange Deed|Claude for Chrome 1900 Copley Family Exchange Deed]] — original-image identification of FamilySearch record `6X4N-DWWY` as a family land-exchange deed, not the South Penn lease.
+12. [[References/Michael Copley Sr Parentage Evidence Audit and Request Packet|Michael Copley Sr Parentage Evidence Audit and Request Packet]] — control sheet separating proven facts, active leads, contradictions, retired searches, request wording, and evidence-capture fields for the parentage / probate problem.

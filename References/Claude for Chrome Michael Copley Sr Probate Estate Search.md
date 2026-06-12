@@ -29,6 +29,8 @@ This note preserves Zach's June 2026 Claude for Chrome probate / estate search f
 
 [Download koha 268417 / Inventory Book 11 access report](../static/sources/claude-michael-parents/michael-copley-sr-koha268417-inventory11-access-map-claude-output.txt)
 
+For the consolidated evidence table, do-not-repeat log, courthouse packet, archive packet, and result-capture template, see [[References/Michael Copley Sr Parentage Evidence Audit and Request Packet|Michael Copley Sr Parentage Evidence Audit and Request Packet]].
+
 ## Main Result
 
 Claude located Michael Copley Sr.'s recorded will in FamilySearch's **West Virginia Will Books, 1756-1971** collection.
@@ -220,6 +222,7 @@ The will closes the immediate "find Michael's will" task. The next probate / est
 - Find the Lewis County volume or film corresponding to **Order Book 1-A page 45** and read the 4 March 1897 Michael Copley administration / probate entry.
 - Treat FamilySearch catalog **koha:268417** as checked negative for bound fiduciary / probate order books; use it only if searching loose-paper court indexes.
 - Immediately check **Inventory Book 11**, Film 825091 / DGS 7618832, images **50-53**, for Michael Copley's Appraisement Book 11 p. 59 entry.
+- Use [[References/Michael Copley Sr Parentage Evidence Audit and Request Packet|Michael Copley Sr Parentage Evidence Audit and Request Packet]] for the ready-to-send courthouse / archive packets and the evidence-capture template.
 - Check the continuation reference `P 4/155` after the 1-A entry is located, since it may point to a later probate, partition, or settlement entry.
 - Locate **Appraisement Book 11 page 59** and **Settlement Book 34 page 176** from the wills/fiduciaries index.
 - FamilySearch Film 250047 / DGS 7617564, `Wills, inventories, etc., Lewis County, 1853-1899` and `Inventories, etc., Lewis County, 1853-1900`, remains a likely restricted access path for inventory, appraisement, sale bill, settlement, or estate account material.

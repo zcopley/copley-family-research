@@ -148,6 +148,8 @@ Sincerely,
 
 **Best recipient:** Start with Lewis County Clerk, 110 Center Avenue, Weston, WV 26452. If referred, contact the Lewis County Circuit Clerk.
 
+**Control sheet:** See [[References/Michael Copley Sr Parentage Evidence Audit and Request Packet|Michael Copley Sr Parentage Evidence Audit and Request Packet]] for the evidence table, do-not-repeat log, courthouse wording, archive wording, and result-capture template.
+
 Known restricted / indexed probate targets:
 
 - Index to wills & fiduciaries, 1817-1970: Film 819938 / DGS 7618825, image 32, found Michael as `Copley (Copeley)`, Will Book C p. 351, Adm, date 4 March 1897, Order Book 1-A p. 45, Appraisement Book 11 p. 59, Settlement Book 34 p. 176, and continuation `P 4/155`.
@@ -192,10 +194,11 @@ His will has been located in the FamilySearch collection "West Virginia Will Boo
 I would like to request a search for:
 
 1. Order Book 1-A, page 45, for the 4 March 1897 Michael Copley probate / administrator qualification entry.
-2. The record corresponding to the index continuation `P 4/155`, if identifiable.
+2. The record corresponding to the index continuation `P 4/155`, if identifiable as Probate Record P, volume or book 4, page 155, or another local fiduciary / probate series.
 3. Appraisement Book 11, page 59, for estate details if not already captured from Film 825091 / DGS 7618832.
-4. Any estate settlement, appraisement, inventory, administrator's bond, sale bill, personal-property account, estate packet, or related probate file for Michael Copley after March 1897.
-5. Any related index entries under Copley, Copeley, Copely, or Coopley.
+4. Settlement Book 34, page 176.
+5. Any estate settlement, appraisement, inventory, administrator's bond, sale bill, personal-property account, estate packet, or related probate file for Michael Copley after March 1897.
+6. Any related index entries under Copley, Copeley, Copely, or Coopley.
 
 The will names son John Copley as executor / administrator and names children Annie, Bridget, Margaret, Sarah, Thomas, Catherine Hannon, and likely Mary Quinn. I am especially interested in any record that names heirs, relationships, appraisers, sureties, land divisions, family Bible evidence, parents, or birthplace.
 
@@ -209,6 +212,8 @@ Sincerely,
 
 [Your Name]
 ```
+
+**Secondary archive / library wording:** If the County Clerk cannot supply the records, use the archive wording in [[References/Michael Copley Sr Parentage Evidence Audit and Request Packet|Michael Copley Sr Parentage Evidence Audit and Request Packet]] for West Virginia State Archives, WVU West Virginia and Regional History Center, FamilySearch Library, or a FamilySearch Center helper. Ask specifically whether their holdings include Lewis County Fiduciary / Probate Order Book 1-A, Probate Record P, Settlement Book 34, or commissioner-of-accounts settlement volumes not exposed in the FamilySearch catalog.
 
 ## VR-02A: Michael Copley Restricted Probate-Film Lookup
 
@@ -268,6 +273,8 @@ Sincerely,
 
 [Your Name]
 ```
+
+**Result capture:** Use the evidence-capture template in [[References/Michael Copley Sr Parentage Evidence Audit and Request Packet|Michael Copley Sr Parentage Evidence Audit and Request Packet]] when reporting either a found record or a negative search. The negative result should name exactly which volume, page, image, box, index, or repository was checked.
 
 ## VR-03: Michael and Patrick Copley Naturalization Records
 

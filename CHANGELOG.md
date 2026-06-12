@@ -10,6 +10,17 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4EO - Michael Copley Parentage Control Sheet and Request Packet (June 12, 2026)
+
+**EVIDENCE / REQUEST UPDATE:** Added [[References/Michael Copley Sr Parentage Evidence Audit and Request Packet|Michael Copley Sr Parentage Evidence Audit and Request Packet]] as the control sheet for the Michael Copley Sr. parentage problem. The page separates proven facts, death-register-supported John / Sarah evidence, the still-unproven Sarah Dolan claim, contradictions, retired searches, the current Inventory Book 11 online task, courthouse / archive request wording, and a reusable evidence-capture template.
+
+### Updated Pages
+
+- [[People/Michael Copley Sr|Michael Copley Sr.]] - added a reader-facing evidence-status snapshot that distinguishes John / Sarah evidence from the unproven Sarah Dolan surname and points to the control sheet.
+- [[Volunteer Record Request Tasks]] and [[Tier 1 Research Execution Kit]] - tightened the Michael probate request packet, added Settlement Book 34 explicitly, linked the archive fallback wording, and added result-capture guidance.
+- [[References/Claude for Chrome Michael Copley Sr Probate Estate Search|Claude for Chrome Michael Copley Sr Probate Estate Search]], [[Research Priorities and Action Items]], [[Sources and Evidence Index]], and [[Search Index]] - linked the control sheet from the active probate / parentage workflow.
+- `CLAUDE.md`, `GEMINI.md`, and `.agents/AGENT_RESUME.md` - updated agent guidance to start from the new control sheet before assigning more Michael parentage work.
+
 ## Phase 4EN - Michael Copley Koha 268417 Closed and Inventory 11 Targeted (June 11, 2026)
 
 **PROBATE ACCESS UPDATE:** Integrated the Claude for Chrome follow-up for FamilySearch catalog **`koha:268417`**, `Court records, 1817-1875; court record index, 1817-1932`. That catalog entry is now checked negative for Michael Copley Sr.'s missing bound probate / fiduciary volumes: it contains court-record indexes and loose-paper court boxes, not Order Book 1-A, Probate Record P, Settlement Book 34, probate registers, commissioner-of-accounts books, or appraisement books. The online target has narrowed to **Inventory Book 11 / Appraisement Book 11**, Film `825091` / DGS `7618832`, images `50-53`, where Appraisement Book 11 p. 59 should be checked for Michael's estate.

@@ -20,6 +20,74 @@ This page turns [[Research Priorities and Action Items]] into executable work. I
 
 Use [[Sources and Evidence Index]] to check current claim status before changing narrative pages.
 
+## Current Michael Copley Probate Packet
+
+**Goal:** Advance the unresolved parentage question for [[People/Michael Copley Sr|Michael Copley Sr.]] without re-running completed online searches.
+
+**Control sheet:** [[References/Michael Copley Sr Parentage Evidence Audit and Request Packet|Michael Copley Sr Parentage Evidence Audit and Request Packet]]
+
+### Evidence Position
+
+- The 1897 Lewis County death register records Michael's parents as **John Copley** and **Sarah Copley**.
+- The same death-register context has reliability problems: Bridget Copley is misidentified as wife / information source, and Michael's birthplace is given as Lewis County rather than Ireland.
+- No located source proves **Sarah Dolan** as Michael's mother's maiden name.
+- Michael's 1893 will / 1897 probate confirms children and executor structure but does not name parents.
+
+### Current Online Task
+
+Use Claude for Chrome or a human FamilySearch image reader for one bounded image task:
+
+```text
+Check Michael Copley Sr.'s Appraisement Book 11 reference.
+
+Target:
+Lewis County, WV Inventory Book 11 / Appraisement Book 11
+Film 825091 / DGS 7618832
+Start with images 50-53
+Indexed reference: Michael Copley / Copeley, Appraisement Book 11, page 59
+
+If not found on images 50-53, expand only as needed to images 49-56.
+
+Report exact image number(s), page number(s), ARK(s), whether Copley / Copeley appears, a transcript or abstract, all names and roles, inventory items and values, and any relationship, Bible, parentage, birthplace, or heirship language.
+
+Do not repeat:
+- FamilySearch koha:268417 catalog survey
+- County Court Order Book v. 6 image 285 / page 496
+- Wills/fiduciaries index Film 819938 / DGS 7618825 image 32
+- Order Book 1-A catalog hunt
+```
+
+### Offline Request Targets
+
+Use [[Volunteer Record Request Tasks#VR-02: Michael Copley Sr. Probate Order and Estate Packet|VR-02]] for a volunteer-facing courthouse letter and the control sheet for archive wording. Ask for:
+
+- Order Book 1-A p. 45.
+- Probate Record `P 4/155`.
+- Settlement Book 34 p. 176.
+- Appraisement Book 11 p. 59 if the online image read is unavailable or inconclusive.
+- Any estate packet, administrator's bond, inventory, sale bill, account, settlement, heirship paper, Bible extract, or related fiduciary file for Michael Copley / Copeley after March 1897.
+
+### Capture Fields
+
+For each found or negative record, record:
+
+| Field | Value |
+|---|---|
+| Repository / office |  |
+| Volume / collection |  |
+| Film / DGS / call number |  |
+| Image / page |  |
+| ARK / URL |  |
+| Result | found / not found / inaccessible / partial |
+| Names exactly as written |  |
+| Roles and relationships |  |
+| Sureties / appraisers / commissioners |  |
+| Inventory items / values |  |
+| Parentage / Bible / birthplace language |  |
+| What this proves |  |
+| What this does not prove |  |
+| Next action |  |
+
 ## How to Record Findings
 
 When a search produces a record, a negative result, or a corrected claim:
