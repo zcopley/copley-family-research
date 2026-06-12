@@ -22,7 +22,7 @@ This page is the evidence backbone for the vault. It does not replace the detail
 
 If you are new to the project, start with [[How to Read This Research]] for a short guide to the site's major layers, reader paths, and confidence labels.
 
-For a visual overview of the claim landscape, see [[Visual Story Atlas]]. For volunteer-ready record-request tasks and letter templates, see [[Volunteer Record Request Tasks]]. For agent-facing source request templates, transcription fields, and evidence-capture forms for the highest-value gaps, see [[Tier 1 Research Execution Kit]].
+For a visual overview of the claim landscape, see [[Visual Story Atlas]]. For the master record queue, see [[Open Record Targets]]. For source-to-claim traceability, see [[Source to Claim Matrix]]. For volunteer-ready record-request tasks and letter templates, see [[Volunteer Record Request Tasks]]. For agent-facing source request templates, transcription fields, and evidence-capture forms for the highest-value gaps, see [[Tier 1 Research Execution Kit]].
 
 ## Fast Reader Guide
 

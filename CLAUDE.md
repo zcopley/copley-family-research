@@ -22,6 +22,7 @@ A genealogical research wiki for the Copley family, spanning Irish immigrant anc
 ## Current Operating Notes
 
 - Start with `.agents/AGENT_RESUME.md`; it is the current checkpoint and overrides historical `_AGENT_HANDOFF_PHASE_*` files.
+- Use `Open Record Targets.md` as the master queue for open record work, `Source to Claim Matrix.md` for source-to-claim boundaries, and the `RQ-C*` dashboard pages for the current state of each major research question.
 - Michael Copley Sr.'s 1893 will / 1897 probate is located in Lewis County Will Book C. It confirms son John as executor and the known children, but it does not name Michael's parents or Sarah Dolan.
 - The County Court Order Book v. 6 image 285 / page 496 path is now a bounded negative: Film 825098 / DGS 8614118 image 285 contains Conrad and Woofter entries, not Copley. Do not repeat that image/page check unless verifying the negative.
 - The wills/fiduciaries index check is complete: Film 819938 / DGS 7618825 image 32 found Michael as `Copley (Copeley)`, Will Book C p. 351, Adm, date 4 March 1897, Order Book **1-A p. 45**, Appraisement Book **11 p. 59**, Settlement Book **34 p. 176**, and continuation `P 4/155`.

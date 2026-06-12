@@ -16,9 +16,9 @@ tags:
 
 # Tier 1 Research Execution Kit
 
-This page turns [[Research Priorities and Action Items]] into executable work. It is for source requests, transcription, and evidence capture, not for stating new conclusions.
+This page turns [[Research Priorities and Action Items]] and [[Open Record Targets]] into executable work. It is for source requests, transcription, and evidence capture, not for stating new conclusions.
 
-Use [[Sources and Evidence Index]] to check current claim status before changing narrative pages.
+Use [[Open Record Targets]] for the master queue, [[Source to Claim Matrix]] for source-to-claim boundaries, and [[Sources and Evidence Index]] to check current claim status before changing narrative pages.
 
 ## Current Michael Copley Probate Packet
 

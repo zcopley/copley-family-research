@@ -13,7 +13,7 @@ tags:
 
 # Research Priorities and Action Items
 
-This is the public research operating list for the Copley family wiki. Use [[Sources and Evidence Index]] first for claim status, then use this page to decide what work would most improve the history. Use [[Visual Story Atlas]] for a diagram-first overview, [[Volunteer Record Request Tasks]] for relative-friendly request letters, and [[Tier 1 Research Execution Kit]] for agent-facing request templates, transcription fields, and evidence-capture forms.
+This is the public research operating list for the Copley family wiki. Use [[Sources and Evidence Index]] first for claim status, then use this page to decide what work would most improve the history. Use [[Open Record Targets]] for the master record queue, [[Source to Claim Matrix]] for traceability, [[Visual Story Atlas]] for a diagram-first overview, [[Volunteer Record Request Tasks]] for relative-friendly request letters, and [[Tier 1 Research Execution Kit]] for agent-facing request templates, transcription fields, and evidence-capture forms.
 
 ## Current Research Dashboard
 
@@ -29,6 +29,18 @@ This is the public research operating list for the Copley family wiki. Use [[Sou
 | Living-family profiles | Useful but privacy-sensitive. | Add details only with family confirmation and avoid sensitive private data. |
 
 ---
+
+## Research Question Dashboards
+
+| Dashboard | Scope |
+|---|---|
+| [[RQ-C1-MICHAEL-COPLEY-PARENTS|RQ-C1 Michael Copley Sr Parents Dashboard]] | John / Sarah death-register evidence, Sarah Dolan caution, probate / estate targets. |
+| [[RQ-C2-ANN-MUNDAY-ORIGIN|RQ-C2 Ann Munday Origin Dashboard]] | Ann's surname and origin problem; Munday preferred, Murray downgraded. |
+| [[RQ-C3-MURRAY-SETTLEMENT-DASHBOARD|RQ-C3 Murray Settlement Dashboard]] | Lewis County Irish Catholic cluster, Luke / Anne bond, older Luke + Margaret Murry. |
+| [[RQ-C4-COPLEY-OIL-TITLE-WEALTH|RQ-C4 Copley Oil Title and Wealth Dashboard]] | South Penn lease, Book 42 request, oil-to-wealth proof trail. |
+| [[RQ-C5-MARY-COPELY-GIBLIN-IOWA|RQ-C5 Mary Copely Giblin Iowa Dashboard]] | Iowa Copely branch and possible Roscommon collateral relationship. |
+| [[RQ-P1-PARTLOW-REVOLUTIONARY-LINE|RQ-P1 Partlow Revolutionary Line]] | Partlow proof chain from Marion Elizabeth Partlow to Benjamin Partlow. |
+| [[RQ-C6-BREDON-CAPTAIN-JOHN-DASHBOARD|RQ-C6 Bredon and Captain John Copley Dashboard]] | Deep-origin hypothesis and missing Irish bridge. |
 
 ## Tier 1 - Highest Impact Work
 

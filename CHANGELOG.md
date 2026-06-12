@@ -10,6 +10,27 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4EP - Master Record Queue and Research Dashboards (June 12, 2026)
+
+**RESEARCH OPERATIONS UPDATE:** Added [[Open Record Targets]] as the master queue for open courthouse, archive, online-image, and source-extraction targets, and added [[Source to Claim Matrix]] to keep source groups tied to exactly what they prove, weaken, or leave unresolved. Added [[References/Local Source Lead Inventory|Local Source Lead Inventory]] from a repo-local source mining pass so useful Claude reports, raw packets, PDFs, and no-repeat negatives are easier to reuse.
+
+### Added Dashboards
+
+- [[RQ-C1-MICHAEL-COPLEY-PARENTS|RQ-C1 Michael Copley Sr Parents Dashboard]] - consolidates the John / Sarah death-register evidence, Sarah Dolan caution, Inventory Book 11 online target, and courthouse / archive probate targets.
+- [[RQ-C2-ANN-MUNDAY-ORIGIN|RQ-C2 Ann Munday Origin Dashboard]] - keeps Ann's surname work focused on direct Munday / Monday / Mundy evidence while preserving Murray only as a downgraded variant.
+- [[RQ-C3-MURRAY-SETTLEMENT-DASHBOARD|RQ-C3 Murray Settlement Dashboard]] - summarizes the settlement-cluster case, completed FAN / tax / marriage-bond negatives, and the remaining Luke / Anne courthouse request.
+- [[RQ-C4-COPLEY-OIL-TITLE-WEALTH|RQ-C4 Copley Oil Title and Wealth Dashboard]] - separates the verified oil strike and `Michael Copley Heirs 128-Acre Lease` designation from the still-unread Book 42 lease, royalty, title, and education-funding questions.
+- [[RQ-C5-MARY-COPELY-GIBLIN-IOWA|RQ-C5 Mary Copely Giblin Iowa Dashboard]] - frames the Iowa Copely / Giblin branch as a plausible collateral line needing direct parent / sibling proof.
+- [[RQ-C6-BREDON-CAPTAIN-JOHN-DASHBOARD|RQ-C6 Bredon and Captain John Copley Dashboard]] - preserves the deep-origin hypothesis while clearly marking the missing Irish bridge and anti-hallucination guardrails.
+
+### Updated Pages
+
+- [[Research Priorities and Action Items]] - added a dashboard hub and pointed readers to the new master queue and traceability matrix.
+- [[Sources and Evidence Index]] and [[Search Index]] - linked the new queue, matrix, dashboards, and local source lead inventory.
+- [[RQ-P1-PARTLOW-REVOLUTIONARY-LINE|RQ-P1 Partlow Revolutionary Line]] - added a compact dashboard snapshot and tied the Partlow work to the master queue.
+- [[Volunteer Record Request Tasks]] and [[Tier 1 Research Execution Kit]] - added master-queue cross references so record requests and technical packets share one priority list.
+- `CLAUDE.md`, `GEMINI.md`, and `.agents/AGENT_RESUME.md` - updated agent guidance so future sessions start from the master queue, dashboards, source-to-claim matrix, and current Michael probate control sheet instead of older ad hoc task instructions.
+
 ## Phase 4EO - Michael Copley Parentage Control Sheet and Request Packet (June 12, 2026)
 
 **EVIDENCE / REQUEST UPDATE:** Added [[References/Michael Copley Sr Parentage Evidence Audit and Request Packet|Michael Copley Sr Parentage Evidence Audit and Request Packet]] as the control sheet for the Michael Copley Sr. parentage problem. The page separates proven facts, death-register-supported John / Sarah evidence, the still-unproven Sarah Dolan claim, contradictions, retired searches, the current Inventory Book 11 online task, courthouse / archive request wording, and a reusable evidence-capture template.

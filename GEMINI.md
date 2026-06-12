@@ -98,6 +98,7 @@ Do NOT link the following individuals to these incorrect social media profiles:
 
 ## Current June 2026 Operating State
 - Start every session with `.agents/AGENT_RESUME.md`; it is the current checkpoint and overrides historical `_AGENT_HANDOFF_PHASE_*` files.
+- Use `Open Record Targets.md` as the master queue for open record work, `Source to Claim Matrix.md` for source-to-claim boundaries, and the `RQ-C*` dashboard pages for current research-question status.
 - `Volunteer Record Request Tasks.md` is now the public helper page for relatives who want to request records. Keep it current whenever a new courthouse, archive, church, cemetery, library, or phone-inquiry task becomes the next practical action.
 - The 1897 Lewis County death register supports **John Copley** and **Sarah Copley** as recorded parent names for Michael Copley Sr., but no located record gives Sarah's maiden surname as Dolan.
 - Michael Copley Sr.'s 1893 will / 1897 probate has been located in Lewis County Will Book C. It confirms son John as executor and the known children, but it does not name Michael's parents.

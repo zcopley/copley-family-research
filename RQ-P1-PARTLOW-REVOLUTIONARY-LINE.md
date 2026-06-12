@@ -18,6 +18,16 @@ This page tracks the proof chain from [[People/Marion Elizabeth Partlow|Marion E
 
 **Current status:** A plausible line is identified. Online sources support the middle Clark County, Illinois generation, and a local 1977 handwritten family lineage now supports the full proposed chain from Marion Elizabeth Partlow back to Benjamin Partlow. The chain is still not proved generation-by-generation with original records.
 
+## Dashboard Snapshot
+
+| Question | Current answer |
+|---|---|
+| Is Benjamin Partlow's Revolutionary service supported? | Yes, by pension-cover / DAR-style leads, but the full pension file is still needed. |
+| Is the Marion Elizabeth Partlow -> Benjamin Partlow chain proved? | No. It is plausible and family-source supported, but original records are still needed generation by generation. |
+| Best immediate proof target | Clark County, Illinois marriage record for Frank / Nollie Franklin Partlow and Alice / Mary Alice Rude, 10 Jun 1900. |
+| Critical middle gap | Prove Frank / Nollie identity and then prove Jacob Partlow -> Benjamin Partlow. |
+| Master queue | See [[Open Record Targets]] IDs ORT-007 through ORT-012. |
+
 ## Research Question
 
 Can Marion Elizabeth Partlow's paternal line be documented back to Benjamin Partlow, Revolutionary War veteran of the Virginia militia?

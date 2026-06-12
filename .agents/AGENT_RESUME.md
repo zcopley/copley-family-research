@@ -9,14 +9,14 @@ tags:
 
 # Agent Resume State
 
-Last updated: 2026-06-11
+Last updated: 2026-06-12
 
 ## Current Goal
 
-Maintain the public reader path and evidence-status pages while keeping the Murray Settlement workflow focused on its next live proof targets now that the direct John Murray deed path has closed. The repo's active front-door now centers on reader orientation (`Home`, `index`, `How to Read This Research`, `Family Tree`, `Family Branch Guide`, `Who Was Alive When`, and `Sources and Evidence Index`), so new work should either:
+Maintain the public reader path, evidence-status pages, and master research queue while advancing only live proof questions. The repo's active front-door now centers on reader orientation (`Home`, `index`, `How to Read This Research`, `Family Tree`, `Family Branch Guide`, `Who Was Alive When`, and `Sources and Evidence Index`) plus the operating pages `Open Record Targets.md`, `Source to Claim Matrix.md`, and the `RQ-C*` dashboards, so new work should either:
 
 - materially improve that reader path, or
-- advance one of the still-live proof questions without reopening retired Murray leads.
+- advance one of the still-live proof questions listed in `Open Record Targets.md` without reopening retired searches.
 
 ## How To Use This File
 
@@ -25,6 +25,28 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
 - When a historical handoff conflicts with this file, this file wins.
 
 ## What Was Just Completed
+
+- Added `Open Record Targets.md` as the master queue for open courthouse, archive, online-image, and source-extraction targets:
+  - Michael Copley Sr. probate / parentage targets now lead with Inventory Book 11 / Appraisement Book 11 p. 59 online and Order Book 1-A p. 45, Probate Record `P 4/155`, and Settlement Book 34 p. 176 by courthouse / archive request;
+  - Copley oil-title targets lead with Deed Book 42 p. 267, Anna Copley to South Penn Oil Company, and downstream royalty / estate records;
+  - Ann Munday, Murray Settlement, Mary Copely Giblin, Partlow, and Bredon / Captain John targets are listed with current no-repeat boundaries.
+
+- Added `Source to Claim Matrix.md` for source-to-claim traceability:
+  - keeps John / Sarah death-register evidence separate from the unproven Sarah Dolan surname;
+  - keeps Munday as the preferred recorded surname for Ann while treating Murray as downgraded;
+  - keeps oil-title, Partlow, Iowa Copely, and Bredon claims from being overstated beyond the current evidence.
+
+- Added question dashboards:
+  - `RQ-C1-MICHAEL-COPLEY-PARENTS.md`
+  - `RQ-C2-ANN-MUNDAY-ORIGIN.md`
+  - `RQ-C3-MURRAY-SETTLEMENT-DASHBOARD.md`
+  - `RQ-C4-COPLEY-OIL-TITLE-WEALTH.md`
+  - `RQ-C5-MARY-COPELY-GIBLIN-IOWA.md`
+  - `RQ-C6-BREDON-CAPTAIN-JOHN-DASHBOARD.md`
+
+- Added `References/Local Source Lead Inventory.md` after a local repo-mining pass. Use it to find the most useful source packets and no-repeat negatives before assigning more browser work.
+
+- Updated `Research Priorities and Action Items.md`, `Sources and Evidence Index.md`, `Search Index.md`, `Volunteer Record Request Tasks.md`, `Tier 1 Research Execution Kit.md`, `RQ-P1-PARTLOW-REVOLUTIONARY-LINE.md`, `CHANGELOG.md`, `CLAUDE.md`, and `GEMINI.md` to point future work at the master queue, source-to-claim matrix, and dashboards.
 
 - Created `References/Michael Copley Sr Parentage Evidence Audit and Request Packet.md` as the control sheet for Michael Copley Sr.'s parentage / probate problem:
   - separates proven facts, death-register-supported John / Sarah evidence, unproven Sarah Dolan claim, contradictions, and active proof targets;
@@ -216,12 +238,12 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
   - exact restricted deed-index targets now lead with grantor-index Film 819917 / DGS 8219260 and grantee-index Film 819924 / DGS 8135143.
 - Added reusable `VR-06A` restricted deed-index lookup and `VR-06B` WVRHC archive request templates.
 
-- Integrated Zach's June 2026 Claude for Chrome **Michael Copley Sr. probate follow-up / access-map** report.
+- Integrated Zach's June 2026 Claude for Chrome **Michael Copley Sr. probate follow-up / access-map** report. This section is historical; later wills/fiduciaries-index and `koha:268417` work superseded its next-target language.
 - Preserved the raw follow-up at `static/sources/claude-michael-parents/michael-copley-sr-probate-follow-up-claude-output.txt`.
 - Updated `References/Claude for Chrome Michael Copley Sr Probate Estate Search.md`, `People/Michael Copley Sr.md`, `Sources and Evidence Index.md`, `Research Priorities and Action Items.md`, `Topics/1900 Copley Oil Strike.md`, `Volunteer Record Request Tasks.md`, `Search Index.md`, and `CHANGELOG.md` so:
-  - Order Book No. 6 page 496 is tied to County Court Order Book v. 6, Film 825098 / DGS 8614118;
-  - possible preliminary January-March 1897 entries are tied to County Court Order Book v. 5, Film 825097 / DGS 8614117;
-  - inventory / appraisement / settlement targets are tied to Film 250047 / DGS 7617564;
+  - Order Book No. 6 page 496 was tied to County Court Order Book v. 6, Film 825098 / DGS 8614118, then checked negative at image 285;
+  - possible preliminary January-March 1897 entries in County Court Order Book v. 5, Film 825097 / DGS 8614117, are fallback-only, not the live target;
+  - the current appraisement target is Inventory Book 11 / Appraisement Book 11, Film 825091 / DGS 7618832, images 50-53; Order Book 1-A, Probate Record `P 4/155`, and Settlement Book 34 are courthouse / archive request targets;
   - the will remains non-parentage estate evidence;
   - the death-register John / Sarah parent names remain important but cautious evidence and still do not prove Sarah Dolan;
   - `Copley heirs`, `Copley Heirs Well No. 1`, and `John Copley no. 3` are now explicit oil-title / deed / heirship search terms.
@@ -254,7 +276,7 @@ Maintain the public reader path and evidence-status pages while keeping the Murr
   - the will is no longer an open "find the will" target;
   - it is now estate / family-structure evidence confirming son John as executor and naming the estate children;
   - it does not corroborate Michael's parents or Sarah Dolan;
-  - next probate targets are Order Book No. 6 page 496, estate settlement / appraisement / inventory records, chancery / heirship files, oil-title records, and naturalization / Irish church records for parentage.
+  - the later live probate targets are Inventory Book 11 / Appraisement Book 11 p. 59 online, plus courthouse / archive copies of Order Book 1-A p. 45, Probate Record `P 4/155`, Settlement Book 34 p. 176, estate settlement / inventory records, chancery / heirship files, oil-title records, and naturalization / Irish church records for parentage.
 
 - Integrated Zach's June 2026 Claude for Chrome **Michael Copley Sr. parent-name claim** report.
 - Verified the WV Culture death-record detail page and downloaded / visually inspected the original death-register image:

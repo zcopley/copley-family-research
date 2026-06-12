@@ -17,6 +17,8 @@ tags:
 
 This page is for relatives and volunteers who want to help verify the Copley family history by requesting records from courthouses, archives, churches, libraries, and cemeteries.
 
+The full cross-project queue is [[Open Record Targets]]. This volunteer page keeps the most practical letter, phone, and archive tasks in a shorter public checklist.
+
 Before sending a request, please email **Zach Copley** at `zach@copley.name` or **Tom Copley** at `tcopley@protonmail.com` with the task ID you want to take. That prevents duplicate letters to the same office.
 
 ## How To Help

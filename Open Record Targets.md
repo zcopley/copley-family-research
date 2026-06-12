@@ -1,0 +1,76 @@
+---
+title: Open Record Targets
+aliases:
+  - Master Open Record Queue
+  - Records Queue
+  - Research Target Queue
+date: 2026-06-12
+tags:
+  - "#copley-family"
+  - "#research-in-progress"
+  - "#records"
+  - "#index"
+---
+
+# Open Record Targets
+
+This is the master queue for unresolved record targets in the Copley family history project. It normalizes the next practical actions across person pages, research notes, volunteer letters, and agent handoffs.
+
+Use this page before assigning a new browser task, courthouse request, archive inquiry, or source extraction. If a target is completed, update this queue, the relevant dashboard, [[Sources and Evidence Index]], [[Research Priorities and Action Items]], [[Volunteer Record Request Tasks]], and [[CHANGELOG]] when the result changes public-facing evidence.
+
+## Priority Key
+
+| Priority | Meaning |
+|---|---|
+| P1 | Most likely to change a major open claim or stop repeated work. |
+| P2 | Important supporting evidence or next proof-chain step. |
+| P3 | Useful context, lower urgency, or dependent on a P1/P2 result. |
+
+## Master Queue
+
+| ID | Priority | Research question | Record target | Repository / access path | Status | Why it matters | Request / control link |
+|---|---|---|---|---|---|---|---|
+| ORT-001 | P1 | Michael Copley parents | Inventory Book 11 / Appraisement Book 11, p. 59, Michael Copley / Copeley | FamilySearch Film 825091 / DGS 7618832, images 50-53; expand to 49-56 only if needed | Online target | May name appraisers, administrators, household property, debts, Bible, or relationship clues. | [[References/Michael Copley Sr Parentage Evidence Audit and Request Packet]] |
+| ORT-002 | P1 | Michael Copley parents | Fiduciary / Probate Order Book 1-A, p. 45 | Lewis County Clerk / archive / offline fiduciary volume | Offline request | Indexed probate-order target for 4 Mar 1897 administration; may name sureties, bond, or relationship language. | [[Volunteer Record Request Tasks#VR-02: Michael Copley Sr. Probate Order and Estate Packet|VR-02]] |
+| ORT-003 | P1 | Michael Copley parents | Probate Record `P 4/155` | Lewis County Clerk / archive / unidentified local probate series | Offline request | Continuation entry from the fiduciary index; may be probate, partition, or settlement. | [[References/Michael Copley Sr Parentage Evidence Audit and Request Packet]] |
+| ORT-004 | P1 | Michael Copley parents | Settlement Book 34, p. 176 | Lewis County Clerk / archive / commissioner-of-accounts or settlement volume | Offline request | Most likely Michael estate record to name distributees or payments. | [[Volunteer Record Request Tasks#VR-02: Michael Copley Sr. Probate Order and Estate Packet|VR-02]] |
+| ORT-005 | P1 | Murray Settlement | Luke Murray / Anne Loghan original marriage bond, consent, surety paper, or bond-book entry | Lewis County Circuit Clerk, 117 Court Avenue, Weston, WV 26452; secondary Lewis County Clerk | Offline request | Could name bondsman, parent, guardian, kin, or settlement associate for the Murray/Murry problem. | [[Volunteer Record Request Tasks#VR-01: Luke Murray / Anne Loghan Marriage Bond|VR-01]] |
+| ORT-006 | P1 | Copley oil title / wealth | Anna Copley to South Penn Oil Company, Deed Book 42, p. 267, 128 acres on Sand Fork | Lewis County Clerk certified copy or offline microfilm; online deed books checked stop before Book 42 | Offline request | Underlying Sand Fork lease for `Michael Copley Heirs 128-Acre Lease`; needed for lessors, royalty, term, acreage, and title. | [[Volunteer Record Request Tasks#VR-06: Copley No. 1 Oil Leases, Royalties, and John Copley Estate|VR-06]] |
+| ORT-007 | P1 | Partlow Revolutionary line | Frank / Nollie Franklin Partlow and Alice / Mary Alice Rude marriage record, 10 Jun 1900 | Clark County Clerk / Recorder, Illinois; Illinois Statewide Marriage Index as browser/manual route | Offline/browser request | Best next proof that family-manuscript Frank Partlow is the same person as Nollie Franklin Partlow. | [[References/Clark County Illinois Partlow Rude Marriage Request]] |
+| ORT-008 | P2 | Partlow Revolutionary line | Original 1880/1900 Johnson Township census images for Marion McDonald Partlow and son Frank | FamilySearch / Ancestry, using targets in New England Ball Project extract | Online image capture | Supports Frank -> Marion M. Partlow chain and household continuity. | [[RQ-P1-PARTLOW-REVOLUTIONARY-LINE]] |
+| ORT-009 | P2 | Partlow Revolutionary line | Original 1850/1860 Johnson Township census images for John H. Partlow and Marion M. | FamilySearch / Ancestry, using targets in New England Ball Project extract | Online image capture | Supports Marion M. -> John H. Partlow. | [[RQ-P1-PARTLOW-REVOLUTIONARY-LINE]] |
+| ORT-010 | P2 | Partlow Revolutionary line | The Partlow family and connections, vols. 1-2 | FamilySearch Digital Library / Geneanet browser access | Browser/manual | May address Jacob -> Benjamin Partlow and collateral Virginia lines. | [[RQ-P1-PARTLOW-REVOLUTIONARY-LINE]] |
+| ORT-011 | P2 | Partlow Revolutionary line | Benjamin Partlow full Revolutionary War pension file | NARA / Fold3 / DAR support path | Offline/paid or library | Needed for service details and possible family statements. | [[RQ-P1-PARTLOW-REVOLUTIONARY-LINE]] |
+| ORT-012 | P2 | Partlow Revolutionary line | Spotsylvania County Will Book A, p. 975, John Partlow will | Spotsylvania County / FamilySearch / archive | Offline or browser | Online abstract names Benjamin Partlow; original is needed before using as proof. | [[RQ-P1-PARTLOW-REVOLUTIONARY-LINE]] |
+| ORT-013 | P2 | Ann Munday origin | Direct surname record for Ann: marriage, passenger, child death, Bible, probate, cemetery, obituary, or Catholic record | U.S. county/church records and Irish records | Mixed | Only a direct record can settle Munday vs downgraded Murray variant. | [[RQ-C2-ANN-MUNDAY-ORIGIN]] |
+| ORT-014 | P2 | Ann Munday origin | Kinawley / Clogher Catholic marriage or collateral register entries for Michael Copley + Ann | NLI / PRONI / parish or diocesan route | Online/offline | May identify Ann's surname, origin, sponsors, or kin if records survive for the relevant window. | [[RQ-C2-ANN-MUNDAY-ORIGIN]] |
+| ORT-015 | P2 | Murray Settlement | 1852-1860 Lewis County deed / court / probate / church follow-up for older Luke and Margaret Murry, adult Patrick Murry, James Murray, and Loghan associates | Lewis County records, church records, tax/court series | Mixed | Next path after census/tax/marriage indexed routes did not identify older Luke + Margaret. | [[RQ-C3-MURRAY-SETTLEMENT-DASHBOARD]] |
+| ORT-016 | P2 | Murray Settlement | St. Michael's / early Catholic sacramental registers | Diocese / parish archive | Offline request | Could name sponsors, witnesses, marriage witnesses, and Irish Catholic cluster links. | [[Volunteer Record Request Tasks|VR-04]] |
+| ORT-017 | P2 | Mary Copely Giblin / Iowa | Mary Copely Giblin baptism, marriage, ship, probate, cemetery, church, or Iowa family record naming parents or siblings | Crawford County, Iowa; church/cemetery; Irish records | Mixed | Could connect the Iowa Copely branch to Michael Copley Sr. or a collateral Roscommon family. | [[RQ-C5-MARY-COPELY-GIBLIN-IOWA]] |
+| ORT-018 | P2 | Copley oil title / wealth | John Copley estate/probate and royalty distribution records after 1925 | Lewis County probate / clerk / archive | Offline request | Could show how oil income moved through the family and whether education/wealth claims have financial evidence. | [[RQ-C4-COPLEY-OIL-TITLE-WEALTH]] |
+| ORT-019 | P2 | Copley oil title / wealth | Royalty assignments, mineral deeds, partition records, and tax records tied to Copley heirs, 1900-1925 | Lewis County deed/probate/tax records | Offline / browser | Needed to build a royalty ledger and ownership timeline. | [[RQ-C4-COPLEY-OIL-TITLE-WEALTH]] |
+| ORT-020 | P2 | Michael / Patrick origins | Naturalization records for Michael Copley and Patrick Copley | Lewis County court offices / WV Archives | Offline request | Could name birthplace, arrival, court, or oath details. | [[Volunteer Record Request Tasks#VR-03: Michael and Patrick Copley Naturalization Records|VR-03]] |
+| ORT-021 | P2 | Bredon / Captain John descent | Irish bridge records from 1657-1813 linking Woolbedding / Bredon lines to Roscommon Copelys | Irish land, probate, church, estate, and recusancy records | Mixed | Needed before treating Captain John descent as genealogy rather than origin hypothesis. | [[RQ-C6-BREDON-CAPTAIN-JOHN-DASHBOARD]] |
+| ORT-022 | P3 | Copley oil title / wealth | WVU WVRHC / James Pietro Papers / Copley Heirs Well material | WVU West Virginia and Regional History Center | Archive request | May add photographs, captions, production context, or company records. | [[Volunteer Record Request Tasks|VR-06B]] |
+| ORT-023 | P3 | Murray Settlement | Exact 1870 Battelle / Willey district boundary and relation to Cove Lick / Camden / Loveberry | Maps, land records, census geography | Local analysis | Refines geography of Irish clusters; not a direct proof record. | [[RQ-C3-MURRAY-SETTLEMENT-DASHBOARD]] |
+| ORT-024 | P3 | Source extraction | Re-run OCR/text extraction only for non-generated or underused PDFs if a specific question needs it | Local PDFs and `static/sources` | Local tooling | Most root PDFs are generated from Markdown; prioritize non-generated source PDFs and raw text first. | [[References/Local Source Lead Inventory]] |
+
+## Completed / Retired Targets To Avoid Reassigning
+
+| Closed target | Result |
+|---|---|
+| Michael Copley County Court Order Book v. 6, Film 825098 / DGS 8614118, image 285 / p. 496 | Checked negative for Copley; Conrad / Woofter entries. |
+| Michael Copley wills/fiduciaries index, Film 819938 / DGS 7618825, image 32 | Found; now a citation source, not a next task. |
+| FamilySearch `koha:268417` for Michael Order Book 1-A | Checked negative for bound probate / fiduciary volumes. |
+| Lewis County Deed Book 42 online browse | Online FamilySearch deed-book run checked appears to end before Book 42; use clerk/offline request. |
+| Standard Oil and Eureka Pipe Line grantee-index paths for Copley lease | Bounded negatives in checked grantee-index paths. |
+| John Murray 1826 Fish and 1833 Rich deed leads | Both are 1899 oil-and-gas lease misindexes, not pre-1843 evidence. |
+| Deed Book C-D built-in `Marwee Sawig` path | Retired as non-Murray after image checks. |
+| Luke Murray / Anne Loghan online bond / consent path and Smith compiled index | Checked negative; remaining path is direct courthouse request. |
+| Broad indexed search for older Luke and Margaret Murry | Checked twice; shift to non-indexed county/church records. |
+
+## Local Mining Notes
+
+This queue was built from local Markdown and text sources using repository-wide `rg` passes over `References/`, `People/`, `Topics/`, `Places/`, `RQ-*`, and `static/sources/`. The scan confirmed that most root-level PDFs are generated site exports, while the most useful underused local source packets are the raw Claude reports, Tom / Steve email notes, the house / Marion PDF source note, Partlow manuscript notes, and oil-title / tax-list raw outputs.
+
+See [[References/Local Source Lead Inventory]] and [[Source to Claim Matrix]] for the source-to-claim view.
