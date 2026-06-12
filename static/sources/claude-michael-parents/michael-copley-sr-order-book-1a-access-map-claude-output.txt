@@ -1,0 +1,91 @@
+Research Result: Lewis County, WV - Michael Copley Sr. - Order Book 1-A, p. 45
+
+Status: NOT YET FOUND ONLINE - DETAILED ACCESS MAP
+
+The FamilySearch session expired before the specific entry could be read, but the target volume has been positively identified as the needed target and the access path is mapped.
+
+Part 1 - What Was Established
+
+1.1 Catalog Search Completed
+
+A full subject-filtered search of Lewis County, WV records was executed. All 29 "Court records" entries and all 10 "Probate records" entries were reviewed. No catalog entry is titled "Order Book 1-A" or references that label explicitly. The two order book series on file are:
+
+Catalog Entry: Order books, 1817-1932
+Koha: 319781
+Author: West Virginia Circuit Court (Lewis County)
+Film range: Films 1481455-1605818
+DGS range: DGS 4714185-8614197
+
+Catalog Entry: Order books, 1881-1901
+Koha: 81956
+Author: West Virginia County Court (Lewis County)
+Film range: Films 825095-825098
+DGS range: DGS 8614115-8614118
+
+1.2 County Court Order Books, 1881-1901 - Volume Labels Confirmed
+
+DGS 8614117 (Film 825097) was successfully opened. The target card at image 2 was read and confirmed:
+
+LEWIS COUNTY COURTHOUSE, COUNTY CLERKS OFFICE, STATE OF WEST VIRGINIA - ORDER BOOK - VOLUME 5 - YEARS: 1894 · 1897 - Microfilmed 20 Apr 1970, photographer Fred Ridenour.
+
+DGS 8614115 (Film 825095) was also opened; its target card confirmed:
+
+ORDER BOOK - VOLUME 1 - YEARS: 1881 · 1883.
+
+The physical volumes in this series are numbered plainly 1, 2, 3, 4, 5, 6, not with letter suffixes. None is labeled "1-A."
+
+1.3 What "Order Book 1-A" Is Not
+
+- It is not Volume 5 (DGS 8614117) of the County Court series, even though March 4, 1897 falls at the tail end of that volume's date range.
+- It is not Volume 6 (DGS 8614118, already confirmed negative at image 285 / page 496).
+- It is not the Circuit Court series (DGS 4714185-8614197), which uses labels "v. A," "v. B," "Law order book v. 3" onward and is inconsistent with "1-A."
+
+Part 2 - Identifying Order Book 1-A
+
+The most probable explanation is that Order Book 1-A is a separate county-court probate / fiduciary order book series that was maintained independently and numbered with letter suffixes (1-A, 1-B, etc.) to distinguish it from the general order book series.
+
+This is consistent with West Virginia practice in some counties, which kept a Commissioner of Accounts Order Book or Probate Order Book separate from the general County Court Order Books.
+
+Page 45 points away from County Court Volume 5 because Volume 5 covers 1894-1897 and page 45 would fall early in the volume, ca. 1894-1895, not March 1897. The low page number paired with the March 1897 date fits a newly started fiduciary / probate order book series.
+
+The catalog entry that may contain it is "Court records, 1817-1875; court record index, 1817-1932" (koha:268417, West Virginia County Court, Lewis County). It is a large multi-reel compilation and may contain miscellaneous county court records including fiduciary order books not covered by the dedicated 1881-1901 order-book series. The film list could not be read before session expiry.
+
+Part 3 - Access Map
+
+Films / DGS checked:
+
+- DGS 7618825 / Film 819938, Index to wills & fiduciaries, 1817-1970: source; Copley entry at image 32 cites Order Book 1-A, p. 45.
+- DGS 8614118 / Film 825098, County Court Order Book, v. 6, 1897-1901: negative; image 285 / p. 496 already checked and wrong volume / wrong target for Copley.
+- DGS 8614117 / Film 825097, County Court Order Book, v. 5, 1894-1897: target card confirms Volume 5; not labeled 1-A; page 45 would be too early for March 1897.
+- DGS 8614116 / Film 825096, County Court Order Book, v. 3-4, 1887-1894: not checked; too early for March 1897.
+- DGS 8614115 / Film 825095, County Court Order Book, v. 1-2, 1881-1887: target card confirms Volume 1; not 1-A; too early.
+
+Films not yet checked, prioritized:
+
+1. Unknown film / DGS for Lewis County Probate/Fiduciary Order Book, if separately filmed. The label 1-A and page 45 + March 1897 date fit a new series started around 1895-1897.
+2. Unknown film / DGS within koha:268417, "Court records, 1817-1875; court record index, 1817-1932." This may contain miscellaneous county court records including early fiduciary order books.
+3. DGS 8614117 / Film 825097, County Court Order Book v. 5, images 280-316. Late 1896-early 1897 in Volume 5 is worth scanning only as a fallback, despite the wrong label.
+
+Part 4 - Recommended Next Steps Online
+
+Step A: Check koha:268417 film list. Navigate to familysearch.org/en/search/catalog/koha:268417 while logged in. Read all film/DGS entries. Look for any reel note mentioning Order Book 1-A, Fiduciary Order Book, Probate Order Book, Commissioner of Accounts, or county court volumes with letter-number combinations. If such a reel has a camera icon, open it and navigate to image approximately 50 for page 45 after leader images.
+
+Step B: Browse DGS 8614117 images 280-316 only as a fallback. Even though Volume 5 is physically labeled Volume 5, check the final images for March 1897 entries in case 1-A was used internally or misread / renumbered in the fiduciary index.
+
+Step C: Check continuation entry P 4/155. The fiduciary index also lists continuation P 4/155, likely Probate Record Book volume 4, page 155. This may be on a reel already available and could provide additional identification language such as heirs, family members, sureties, or bond details.
+
+Part 5 - Courthouse / Archive Request Wording
+
+To the Lewis County Clerk, Lewis County Courthouse, Weston, WV 26452:
+
+I am researching the estate of Michael Copley Sr., who died 19 January 1897 in Lewis County, WV. His will (Will Book C, p. 351) was probated 4 March 1897. The Lewis County Fiduciary Index (filmed as FHL Film 819938 / DGS 7618825) cites an administrator qualification or will probation order in County Court Order Book 1-A, page 45, dated March 4, 1897, with Appraisement Book 11, p. 59 and Settlement Book 34, p. 176, and a continuation at Probate Record P 4/155.
+
+I respectfully request a photocopy or certified copy of the entry at Order Book 1-A, page 45, and if accessible, the related entries at Appraisement Book 11, p. 59, Settlement Book 34, p. 176, and Probate Record Book 4 (or "P"), p. 155. I am particularly interested in any names of heirs, sureties on the administration bond, appraisers, or relationship language.
+
+I am happy to pay applicable copy fees. Please contact me at [your address/email].
+
+Part 6 - Recommended Next Genealogical Targets
+
+1. Appraisement Book 11, p. 59. Names appraisers, often neighbors and relatives, and inventories personal property. May contain Bible/family items. Likely on a DGS covering Lewis County inventories.
+2. Settlement Book 34, p. 176. Final account of the administrator; may name distributees / heirs and shares.
+3. Probate Record P 4/155. This "P" series is likely a separate Probate Record Book and may contain the full court order text with parties, bond amounts, and surety names.

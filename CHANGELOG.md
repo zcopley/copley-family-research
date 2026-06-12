@@ -10,6 +10,16 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4EM - Michael Copley Order Book 1-A Access Map (June 11, 2026)
+
+**PROBATE ACCESS UPDATE:** Integrated the Claude for Chrome access-map report for [[People/Michael Copley Sr|Michael Copley Sr.]]'s **Order Book 1-A p. 45** target. The entry itself was **not found online yet**, but the report confirms that the regular County Court Order Books v. 1-6 are plainly labeled by volume number, not `1-A`: DGS `8614117` / Film `825097` is **Volume 5, 1894-1897**, and DGS `8614115` / Film `825095` is **Volume 1, 1881-1883**. The next online path is FamilySearch catalog `koha:268417`, `Court records, 1817-1875; court record index, 1817-1932`, looking for miscellaneous county-court, fiduciary, probate, commissioner-of-accounts, or letter-numbered order-book film notes. Late Volume 5 images `280-316` remain only a fallback March 1897 scan.
+
+### Updated Pages
+
+- [[References/Claude for Chrome Michael Copley Sr Probate Estate Search|Claude for Chrome Michael Copley Sr Probate Estate Search]], [[People/Michael Copley Sr|Michael Copley Sr.]], [[Research Priorities and Action Items]], [[Sources and Evidence Index]], [[Volunteer Record Request Tasks]], and [[Search Index]] - recorded Order Book 1-A as not yet online-located and added the `koha:268417` catalog path.
+- `CLAUDE.md`, `GEMINI.md`, and `.agents/AGENT_RESUME.md` - updated agent guidance so future work checks `koha:268417` before repeating ordinary County Court order-book browsing.
+- `static/sources/claude-michael-parents/michael-copley-sr-order-book-1a-access-map-claude-output.txt` - preserved the raw access-map report.
+
 ## Phase 4EL - Michael Copley Wills/Fiduciaries Index Found (June 11, 2026)
 
 **PROBATE INDEX UPDATE:** Integrated the Claude for Chrome check of **Lewis County, West Virginia, General Index to Fiduciary Matters, Wills, Etc.**, Film `819938` / DGS `7618825`, image `32`. Michael appears as **Copley (Copeley)** with Will Book `C` p. `351`, role `Adm`, date **4 March 1897**, Order Book **1-A p. 45**, Appraisement Book **11 p. 59**, Settlement Book **34 p. 176**, and continuation `P 4/155`. This confirms the will-book citation and probate date but does not name parents or prove Sarah Dolan. The live probate targets are now Order Book 1-A p. 45 plus the appraisement / settlement references; the old County Court v. 6 image 285 / page 496 path remains a bounded negative.

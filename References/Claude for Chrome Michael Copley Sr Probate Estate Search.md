@@ -25,6 +25,8 @@ This note preserves Zach's June 2026 Claude for Chrome probate / estate search f
 
 [Download wills/fiduciaries index report](../static/sources/claude-michael-parents/michael-copley-sr-wills-fiduciaries-index-claude-output.txt)
 
+[Download Order Book 1-A access map report](../static/sources/claude-michael-parents/michael-copley-sr-order-book-1a-access-map-claude-output.txt)
+
 ## Main Result
 
 Claude located Michael Copley Sr.'s recorded will in FamilySearch's **West Virginia Will Books, 1756-1971** collection.
@@ -75,7 +77,7 @@ Reported image observations:
 | Target | Film / DGS | Access status | Why it matters |
 |---|---|---|---|
 | County Court Order Book v. 6, 1897-1901 | Film 825098 / DGS 8614118 | Now checked at page 496 | Page 496 is a Board of Commissioners order-book page with Conrad and Woofter entries from c. June-July 1900; no Copley entry appears. Treat this specific page as a bounded negative. |
-| County Court Order Book v. 5, 1894-1897 | Film 825097 / DGS 8614117 | Restricted; no home-view camera icon reported | May contain preliminary entries between Michael's 19 January 1897 death and 4 March 1897 probate. |
+| County Court Order Book v. 5, 1894-1897 | Film 825097 / DGS 8614117 | Target card checked | Confirmed physically labeled Volume 5, 1894-1897, not 1-A. Late images 280-316 remain only a fallback March 1897 scan, not the primary 1-A target. |
 | Index to wills & fiduciaries, 1817-1970 | Film 819938 / DGS 7618825 | Checked, image 32 | Michael appears as `Copley (Copeley)`, Will Book C p. 351, role `Adm`, Order Book **1-A p. 45**, date **4 March 1897**, appraisement **11 p. 59**, settlement **34 p. 176**, and continuation `P 4/155`. |
 | Wills, inventories, etc., Lewis County, 1853-1899 | Film 250047 / DGS 7617564 | Restricted; FamilySearch Library / FamilySearch Center access required | Primary target for inventory, appraisement, sale bill, settlement, or estate account. |
 | Inventories, etc., Lewis County, 1853-1900 | Film 250047 / DGS 7617564 | Same restricted film | Same roll under a second catalog title. |
@@ -121,6 +123,18 @@ A continuation row for the same Michael entry appears as `P` with `4/155` / `4,1
 The index confirms the located will-book citation, adds the clerk-noted spelling variant **Copeley**, and confirms the 4 March 1897 probate / administration date. It does **not** cite Order Book No. 6 page 496. The live order-book target is now **Order Book 1-A page 45**, with the old Will Book C certificate citation treated as a numbering / relabeling / copying problem until the 1-A page is checked.
 
 Other Copley entries in the same index include Anna, John, Margaret, Mary Ellen, Patrick, Sarah E., and Thomas Copley. These may be useful later for connected estate work but are not parentage evidence for Michael.
+
+## Order Book 1-A Access Map
+
+A follow-up Claude for Chrome report did **not** locate Order Book 1-A page 45 online before the FamilySearch session expired, but it narrowed the access problem:
+
+- The ordinary **County Court Order Books, 1881-1901** are physically labeled v. 1-6, not `1-A`.
+- DGS **8614117** / Film **825097** was opened and its target card confirms **Order Book Volume 5, years 1894-1897**. It is not labeled `1-A`, and page 45 would likely fall too early in the volume for March 1897.
+- DGS **8614115** / Film **825095** was opened and its target card confirms **Order Book Volume 1, years 1881-1883**. It is not `1-A` and is too early.
+- DGS **8614118** / Film **825098**, image 285 / page 496, remains a bounded negative for Michael.
+- The Circuit Court order-book series uses different labels and remains inconsistent with the fiduciary-index citation.
+
+The most likely interpretation is that `Order Book 1-A` is a separate probate / fiduciary / commissioner-of-accounts-style order-book label not exposed under that exact title in the checked FamilySearch catalog entries. The next online target is the FamilySearch catalog entry **`Court records, 1817-1875; court record index, 1817-1932`**, koha **268417**, because it may contain miscellaneous county-court records or indexes extending beyond the main 1817-1875 court-record span.
 
 ## Abstract
 
@@ -177,10 +191,12 @@ This is not parentage evidence, but it strengthens the next search path. The pub
 The will closes the immediate "find Michael's will" task. The next probate / estate targets are:
 
 - Find the Lewis County volume or film corresponding to **Order Book 1-A page 45** and read the 4 March 1897 Michael Copley administration / probate entry.
+- Check FamilySearch catalog **koha:268417**, `Court records, 1817-1875; court record index, 1817-1932`, for any film notes naming Order Book 1-A, fiduciary order books, probate order books, commissioner-of-accounts books, probate record books, or letter-numbered county-court volumes.
 - Check the continuation reference `P 4/155` after the 1-A entry is located, since it may point to a later probate, partition, or settlement entry.
 - Locate **Appraisement Book 11 page 59** and **Settlement Book 34 page 176** from the wills/fiduciaries index.
 - FamilySearch Film 250047 / DGS 7617564, `Wills, inventories, etc., Lewis County, 1853-1899` and `Inventories, etc., Lewis County, 1853-1900`, remains a likely restricted access path for inventory, appraisement, sale bill, settlement, or estate account material.
 - County Court Order Book v. 6, Film 825098 / DGS 8614118, image 285 / page 496 remains a bounded negative; do not repeat it except as verification.
+- County Court Order Book v. 5, Film 825097 / DGS 8614117, images 280-316, is a fallback-only March 1897 scan because the volume is confirmed as v. 5, not 1-A.
 - Lewis County chancery / equity / partition / heirship records, 1897-1915.
 - Oil-title, deed, lease, royalty, partition, and `Michael Copley Heirs 128-Acre Lease` records after the 1900 oil strike; next request Deed Book 42 page 267 from the Lewis County Clerk or offline microfilm, indexed as Anna Copley to South Penn Oil Company, Lease, 128 acres on Sand Fork. Use the online Book 39 page 138 South Penn lease as companion context.
 - West Virginia and Regional History Center remote reference / reproduction request for any accessible copies tied to Film 250047 or the Copley Heirs Well No. 1 / James Pietro Papers material.
