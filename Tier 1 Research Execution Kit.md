@@ -33,24 +33,31 @@ Use [[Open Record Targets]] for the master queue, [[Source to Claim Matrix]] for
 - No located source proves **Sarah Dolan** as Michael's mother's maiden name.
 - Michael's 1893 will / 1897 probate confirms children and executor structure but does not name parents.
 
-### Current Online Task
+### Completed Online Appraisement Task
 
-Use Claude for Chrome or a human FamilySearch image reader for one bounded image task:
+The bounded Appraisement Book 11 image task is complete:
 
 ```text
-Check Michael Copley Sr.'s Appraisement Book 11 reference.
-
 Target:
 Lewis County, WV Inventory Book 11 / Appraisement Book 11
 Film 825091 / DGS 7618832
-Start with images 50-53
+Found image 60 of 276
+Manuscript page 59
+ARK 3QS7-99KQ-QHHX
 Indexed reference: Michael Copley / Copeley, Appraisement Book 11, page 59
 
-If not found on images 50-53, expand only as needed to images 49-56.
+Result:
+Appraisement Bill of the Personal Property of Michael Copley dec'd.
+Appraisers appointed 4 Mar 1897; appraisement taken 13 Mar 1897.
+Names John Copley Executor.
+Lists horses, cows, yearling cattle, hogs, sheep, hay, farming utensils, and household / kitchen furniture.
+No parentage, spouse, children, Bible, notes, debts, promissory notes, birthplace, or heirship language.
 
-Report exact image number(s), page number(s), ARK(s), whether Copley / Copeley appears, a transcript or abstract, all names and roles, inventory items and values, and any relationship, Bible, parentage, birthplace, or heirship language.
+Correction:
+The old images 50-53 instruction is retired. Image 50 was later corrected to pp. 38-39, not pp. 58-59.
 
 Do not repeat:
+- Inventory Book 11 image 50-53 target except to verify the location correction
 - FamilySearch koha:268417 catalog survey
 - County Court Order Book v. 6 image 285 / page 496
 - Wills/fiduciaries index Film 819938 / DGS 7618825 image 32
@@ -64,7 +71,7 @@ Use [[Volunteer Record Request Tasks#VR-02: Michael Copley Sr. Probate Order and
 - Order Book 1-A p. 45.
 - Probate Record `P 4/155`.
 - Settlement Book 34 p. 176.
-- Appraisement Book 11 p. 59 if the online image read is unavailable or inconclusive.
+- A clearer Appraisement Book 11 p. 59 copy only if needed to clarify the uncertain total, filing day, or appraisers' names.
 - Any estate packet, administrator's bond, inventory, sale bill, account, settlement, heirship paper, Bible extract, or related fiduciary file for Michael Copley / Copeley after March 1897.
 
 ### Capture Fields

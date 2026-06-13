@@ -29,6 +29,8 @@ This note preserves Zach's June 2026 Claude for Chrome probate / estate search f
 
 [Download koha 268417 / Inventory Book 11 access report](../static/sources/claude-michael-parents/michael-copley-sr-koha268417-inventory11-access-map-claude-output.txt)
 
+[Download Appraisement Book 11 page 59 report](../static/sources/claude-michael-parents/michael-copley-sr-appraisement-book11-page59-claude-output.txt)
+
 For the consolidated evidence table, do-not-repeat log, courthouse packet, archive packet, and result-capture template, see [[References/Michael Copley Sr Parentage Evidence Audit and Request Packet|Michael Copley Sr Parentage Evidence Audit and Request Packet]].
 
 ## Main Result
@@ -84,11 +86,11 @@ Reported image observations:
 | County Court Order Book v. 5, 1894-1897 | Film 825097 / DGS 8614117 | Target card checked | Confirmed physically labeled Volume 5, 1894-1897, not 1-A. Late images 280-316 remain only a fallback March 1897 scan, not the primary 1-A target. |
 | Index to wills & fiduciaries, 1817-1970 | Film 819938 / DGS 7618825 | Checked, image 32 | Michael appears as `Copley (Copeley)`, Will Book C p. 351, role `Adm`, Order Book **1-A p. 45**, date **4 March 1897**, appraisement **11 p. 59**, settlement **34 p. 176**, and continuation `P 4/155`. |
 | Wills, inventories, etc., Lewis County, 1853-1899 | Film 250047 / DGS 7617564 | Restricted; FamilySearch Library / FamilySearch Center access required | Primary target for inventory, appraisement, sale bill, settlement, or estate account. |
-| Inventories v. 11, 1896-1897 | Film 825091 / DGS 7618832 | Digitized; title card and p. 59 spread verified | Confirmed online path for **Appraisement Book 11**. Image 50 reaches pp. 58-59; Copley may begin on image 50 or 51. |
+| Inventories v. 11, 1896-1897 | Film 825091 / DGS 7618832 | Checked; Copley found at image 60 / p. 59 | Michael Copley's **Appraisement Bill** is on manuscript p. 59, ARK `3QS7-99KQ-QHHX`; prior image-50/page-59 mapping was incorrect. |
 | Inventories, etc., Lewis County, 1853-1900 | Film 250047 / DGS 7617564 | Same restricted film | Same roll under a second catalog title. |
 | Circuit Court order books, 1896-1905 | Film 1481462 / DGS 8614189 | Restricted; not a direct probate target | Useful only if a contested estate, land dispute, chancery, or civil suit appears. |
 
-The key practical result is now narrower: **DGS 8614118 image 285 / page 496 is closed as the wrong image / page target for Copley**, while the wills/fiduciaries index points to **Order Book 1-A page 45** as the next probate-order target and keeps **Appraisement Book 11 page 59** plus **Settlement Book 34 page 176** as estate-record targets.
+The key practical result is now narrower: **DGS 8614118 image 285 / page 496 is closed as the wrong image / page target for Copley**, while the wills/fiduciaries index points to **Order Book 1-A page 45** as the next probate-order target. **Appraisement Book 11 page 59 is now found**; **Settlement Book 34 page 176** remains an estate-record target.
 
 ## Order Book v. 6 Page 496 Check
 
@@ -158,12 +160,30 @@ The same catalog work found the useful online appraisement path:
 |---|---|---|
 | Inventories v. 11, 1896-1897 / Appraisement Book 11 | Film 825091 / DGS 7618832 | Digitized and accessible |
 
-Image checks:
+Corrected image checks:
 
 - DGS **7618832**, image 4: cover reads **Inventory Book 11, Lewis County**. ARK `https://www.familysearch.org/ark:/61903/3:1:3QS7-99KQ-QHQX?i=3&cat=koha%3A81979`.
-- DGS **7618832**, image 50: pp. 58-59 spread. Page 59 appears to close a Thomas estate matter with signatures of **J. H. Kyle**, Commissioner of Accounts, Lewis County, and **M. B. Chester**, Notary. ARK `https://www.familysearch.org/ark:/61903/3:1:3QS7-99KQ-QHWH?i=49&cat=koha%3A81979`.
+- DGS **7618832**, image 7: volume internal index confirms **Copley Michael Dec. Appr. Bill - 59**. ARK `3QS7-99KQ-QH95`.
+- DGS **7618832**, image 50: previously reported as pp. 58-59, but later correction identifies it as pp. 38-39 for the Skinner estate.
+- DGS **7618832**, image 60: manuscript p. 59 contains Michael Copley's appraisement. ARK `3QS7-99KQ-QHHX`; URL `https://www.familysearch.org/ark:/61903/3:1:3QS7-99KQ-QHHX?i=59`.
 
-The Copley appraisement indexed at **Book 11 p. 59** may start on image 50 or just after it, so images **50-53** are the immediate online target.
+## Appraisement Book 11 Page 59 Result
+
+The appraisement was found at **Inventories v. 11, 1896-1897**, Film **825091** / DGS **7618832**, image **60 of 276**, manuscript p. **59**, ARK `3QS7-99KQ-QHHX`.
+
+The page is titled **Appraisement Bill of the Personal Property of Michael Copley dec'd.** It states that the County Court of Lewis County appointed appraisers on **4 March 1897**, and that the appraisers valued the personal property on **13 March 1897**.
+
+The inventory describes a working farm estate: horses, cows, yearling cattle, hogs, sheep, hay, farming utensils, and household / kitchen furniture. No land, Bible, books, notes, debts, promissory notes, spouse, children, or parentage language appears on the page.
+
+The report's main genealogical fact is the legal role line: **John Copley Executor**. This confirms John in the executor role for Michael's personal-property appraisement, consistent with the located will. The appraisement itself does not state whether John was son, brother, or another relative.
+
+Appraisers were read as:
+
+- **Cyrus Rafferty** or Hafferty.
+- **George Leasure** or a similar Leasure / Leasin / Leazin spelling.
+- **Luther McInaney** or McElnaney.
+
+The clerk notation admits the appraisement to record in April 1897 and is attested by a **Bennett** clerk. The exact filing day and initials are partly obscured in the image.
 
 ## Abstract
 
@@ -221,10 +241,10 @@ The will closes the immediate "find Michael's will" task. The next probate / est
 
 - Find the Lewis County volume or film corresponding to **Order Book 1-A page 45** and read the 4 March 1897 Michael Copley administration / probate entry.
 - Treat FamilySearch catalog **koha:268417** as checked negative for bound fiduciary / probate order books; use it only if searching loose-paper court indexes.
-- Immediately check **Inventory Book 11**, Film 825091 / DGS 7618832, images **50-53**, for Michael Copley's Appraisement Book 11 p. 59 entry.
+- Treat **Inventory Book 11 / Appraisement Book 11 p. 59** as found at Film 825091 / DGS 7618832, image 60; do not repeat the old images 50-53 target except to verify the image-location correction.
 - Use [[References/Michael Copley Sr Parentage Evidence Audit and Request Packet|Michael Copley Sr Parentage Evidence Audit and Request Packet]] for the ready-to-send courthouse / archive packets and the evidence-capture template.
 - Check the continuation reference `P 4/155` after the 1-A entry is located, since it may point to a later probate, partition, or settlement entry.
-- Locate **Appraisement Book 11 page 59** and **Settlement Book 34 page 176** from the wills/fiduciaries index.
+- Locate **Settlement Book 34 page 176** from the wills/fiduciaries index.
 - FamilySearch Film 250047 / DGS 7617564, `Wills, inventories, etc., Lewis County, 1853-1899` and `Inventories, etc., Lewis County, 1853-1900`, remains a likely restricted access path for inventory, appraisement, sale bill, settlement, or estate account material.
 - County Court Order Book v. 6, Film 825098 / DGS 8614118, image 285 / page 496 remains a bounded negative; do not repeat it except as verification.
 - County Court Order Book v. 5, Film 825097 / DGS 8614117, images 280-316, is a fallback-only March 1897 scan because the volume is confirmed as v. 5, not 1-A.

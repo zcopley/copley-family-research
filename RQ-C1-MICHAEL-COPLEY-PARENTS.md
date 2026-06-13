@@ -29,16 +29,16 @@ The operational control sheet is [[References/Michael Copley Sr Parentage Eviden
 | 1897 Lewis County death register | Found | Parent-name lead for John and Sarah; not proof of Dolan. |
 | Michael's 1893 will / 1897 probate | Found | Confirms children and executor; does not name parents. |
 | Wills/fiduciaries index | Found | Points to Order Book 1-A p. 45, Appraisement Book 11 p. 59, Settlement Book 34 p. 176, and `P 4/155`. |
+| Appraisement Book 11 p. 59 | Found | Names John Copley Executor and farm personal property; no parentage, spouse, children, Bible, notes, or debts. |
 | County Court Order Book v. 6 image 285 / p. 496 | Negative | Do not repeat as an active target. |
 | FamilySearch `koha:268417` | Negative for bound probate volumes | Use only for loose-paper court-index work. |
 
 ## Next Records
 
-1. ORT-001: Inventory Book 11 / Appraisement Book 11, Film 825091 / DGS 7618832, images 50-53.
-2. ORT-002: Order Book 1-A p. 45.
-3. ORT-003: Probate Record `P 4/155`.
-4. ORT-004: Settlement Book 34 p. 176.
-5. ORT-020: Naturalization records for Michael and Patrick Copley.
+1. ORT-002: Order Book 1-A p. 45.
+2. ORT-003: Probate Record `P 4/155`.
+3. ORT-004: Settlement Book 34 p. 176.
+4. ORT-020: Naturalization records for Michael and Patrick Copley.
 
 ## Guardrail
 

@@ -30,7 +30,6 @@ Use this page before assigning a new browser task, courthouse request, archive i
 
 | ID | Priority | Research question | Record target | Repository / access path | Status | Why it matters | Request / control link |
 |---|---|---|---|---|---|---|---|
-| ORT-001 | P1 | Michael Copley parents | Inventory Book 11 / Appraisement Book 11, p. 59, Michael Copley / Copeley | FamilySearch Film 825091 / DGS 7618832, images 50-53; expand to 49-56 only if needed | Online target | May name appraisers, administrators, household property, debts, Bible, or relationship clues. | [[References/Michael Copley Sr Parentage Evidence Audit and Request Packet]] |
 | ORT-002 | P1 | Michael Copley parents | Fiduciary / Probate Order Book 1-A, p. 45 | Lewis County Clerk / archive / offline fiduciary volume | Offline request | Indexed probate-order target for 4 Mar 1897 administration; may name sureties, bond, or relationship language. | [[Volunteer Record Request Tasks#VR-02: Michael Copley Sr. Probate Order and Estate Packet|VR-02]] |
 | ORT-003 | P1 | Michael Copley parents | Probate Record `P 4/155` | Lewis County Clerk / archive / unidentified local probate series | Offline request | Continuation entry from the fiduciary index; may be probate, partition, or settlement. | [[References/Michael Copley Sr Parentage Evidence Audit and Request Packet]] |
 | ORT-004 | P1 | Michael Copley parents | Settlement Book 34, p. 176 | Lewis County Clerk / archive / commissioner-of-accounts or settlement volume | Offline request | Most likely Michael estate record to name distributees or payments. | [[Volunteer Record Request Tasks#VR-02: Michael Copley Sr. Probate Order and Estate Packet|VR-02]] |
@@ -59,6 +58,7 @@ Use this page before assigning a new browser task, courthouse request, archive i
 
 | Closed target | Result |
 |---|---|
+| ORT-001: Michael Copley Inventory Book 11 / Appraisement Book 11 p. 59 | Found at Film 825091 / DGS 7618832, image 60, manuscript p. 59, ARK `3QS7-99KQ-QHHX`; names John Copley Executor and farm personal property, but no parents, spouse, children, Bible, notes, or debts. |
 | Michael Copley County Court Order Book v. 6, Film 825098 / DGS 8614118, image 285 / p. 496 | Checked negative for Copley; Conrad / Woofter entries. |
 | Michael Copley wills/fiduciaries index, Film 819938 / DGS 7618825, image 32 | Found; now a citation source, not a next task. |
 | FamilySearch `koha:268417` for Michael Order Book 1-A | Checked negative for bound probate / fiduciary volumes. |

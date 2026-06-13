@@ -15,7 +15,7 @@ tags:
 
 # Michael Copley Sr Parentage Evidence Audit and Request Packet
 
-This page is the control sheet for the unresolved parentage of [[People/Michael Copley Sr|Michael Copley Sr.]]. It keeps the evidence status, retired searches, current online task, and ready-to-send offline requests in one place.
+This page is the control sheet for the unresolved parentage of [[People/Michael Copley Sr|Michael Copley Sr.]]. It keeps the evidence status, retired searches, completed appraisement result, and ready-to-send offline requests in one place.
 
 ## Current Evidence Answer
 
@@ -32,7 +32,8 @@ No located original or near-original source currently proves **Sarah Dolan** as 
 | Michael's parents were John Copley and Sarah Copley. | Partly supported / unresolved | WV Culture death-register record ID `2919262`, image `4130795_00393`, records `Copley John & Sarah`; same row has spouse/source and birthplace problems. | Seek corroboration in probate, Bible, church, Irish, naturalization, oil-title, or heirship records. |
 | Michael's mother was Sarah Dolan. | Unproven | The death register gives Sarah's given name only. Tom / Steve correspondence preserves the Dolan idea as a family / AI-derived hypothesis, not proof. | Do not publish as fact until a source gives Sarah's maiden surname. |
 | Michael's 1893 will names his children and son John as executor. | Proven from located will-book record | Lewis County Will Book C pp. 350-352; FamilySearch Film `819929` / DGS `4715576`; the will does not name Michael's parents. | Use as family-structure evidence only. |
-| The probate / fiduciary index points to more estate records. | Proven index lead | Wills/fiduciaries index Film `819938` / DGS `7618825`, image 32, lists Michael as `Copley (Copeley)`, Will Book C p. 351, Adm, date 4 Mar 1897, Order Book `1-A` p. 45, Appraisement Book 11 p. 59, Settlement Book 34 p. 176, and `P 4/155`. | Read Appraisement Book 11 online; request offline books from courthouse / archive. |
+| The probate / fiduciary index points to more estate records. | Proven index lead | Wills/fiduciaries index Film `819938` / DGS `7618825`, image 32, lists Michael as `Copley (Copeley)`, Will Book C p. 351, Adm, date 4 Mar 1897, Order Book `1-A` p. 45, Appraisement Book 11 p. 59, Settlement Book 34 p. 176, and `P 4/155`. | Appraisement Book 11 is now found; request remaining offline books from courthouse / archive. |
+| Michael's Appraisement Book 11 entry was found. | Found; no parentage language | Film `825091` / DGS `7618832`, image 60, manuscript p. 59, ARK `3QS7-99KQ-QHHX`; appraisers appointed 4 Mar 1897, appraisement taken 13 Mar 1897; names `John Copley Executor`; lists farm personal property but no parents, spouse, children, Bible, books, notes, or debts. | Use as executor / estate-context evidence; do not use as parentage proof. |
 | County Court Order Book v. 6 p. 496 contains Michael's probate order. | Checked negative at the online page target | Film `825098` / DGS `8614118`, image 285 / p. 496 contains Conrad and Woofter entries, not Copley. | Do not repeat except to verify the negative. |
 | FamilySearch `koha:268417` contains Order Book 1-A. | Checked negative for bound probate / fiduciary volumes | It contains court-record indexes and loose-paper court boxes, not Order Book 1-A, Probate Record P, Settlement Book 34, or appraisement books. | Use only if pursuing loose-paper court-index leads. |
 
@@ -48,21 +49,25 @@ These searches are useful as negatives or completed leads. Do not assign them ag
 | Wills/fiduciaries index, Film `819938` / DGS `7618825`, image 32 | Found Michael's index entry and follow-up citations. | Capturing a cleaner image or adjacent Copley entries. |
 | County Court Order Book v. 5 / v. 1 title-card checks | Confirmed ordinary volumes are labeled v. 5 and v. 1, not 1-A. | Checking a separate, new image path or archival label. |
 | FamilySearch `koha:268417` catalog survey | Negative for bound probate / fiduciary volumes. | Searching loose-paper court indexes, not bound probate volumes. |
+| Inventory Book 11 / Appraisement Book 11 p. 59 | Found at Film `825091` / DGS `7618832`, image 60; the old image 50-53 target was based on a bad page-image alignment. | Verifying the transcription, total, appraisers' names, or clerk filing date from a clearer courthouse copy. |
 | Lewis County Deed Book 42 online browse | Online deed books checked end before Book 42; index entry remains the path. | A new Book 42 DGS or offline-film lead appears. |
 
-## Current Online Task
+## Completed Online Appraisement Result
 
-Check Michael Copley Sr.'s Appraisement Book 11 reference:
+Michael Copley Sr.'s Appraisement Book 11 reference has been found:
 
 - Repository: FamilySearch.
 - Collection/catalog: Lewis County inventories / appraisements.
 - Target: Inventory Book 11 / Appraisement Book 11.
 - Film / DGS: Film `825091` / DGS `7618832`.
-- Start images: 50-53.
-- Indexed reference: Michael Copley / Copeley, Appraisement Book 11, p. 59.
-- If not found on images 50-53, expand only as needed to images 49-56.
+- Image / page: image `60` of 276, manuscript p. `59`.
+- ARK: `3QS7-99KQ-QHHX`.
+- URL: `https://www.familysearch.org/ark:/61903/3:1:3QS7-99KQ-QHHX?i=59`.
+- Indexed reference: image 7 of the same volume, `Copley Michael Dec. Appr. Bill - 59`.
 
-Capture exact image number, page number, ARK, names, roles, inventory items, values, appraisers, commissioners, administrators, sureties, neighbors, buyers, and any relationship or family-Bible language.
+The appraisement names **John Copley Executor** and appraisers read as **Cyrus Rafferty** or Hafferty, **George Leasure** or similar, and **Luther McInaney** or McElnaney. It lists horses, cows, yearling cattle, hogs, sheep, hay, farming utensils, and household / kitchen furniture. It does **not** name parents, spouse, children, Bible, notes, debts, or promissory notes.
+
+The old instruction to inspect images `50-53` is retired. Image 50 was later corrected to pp. 38-39 for the Skinner estate, not pp. 58-59.
 
 ## Courthouse Request Packet
 
@@ -101,8 +106,8 @@ Could your office please search for and provide copies or instructions for order
 1. Fiduciary / Probate Order Book 1-A, page 45, Michael Copley estate, 4 March 1897.
 2. Probate Record P, volume or book 4, page 155, if that is the meaning of the index continuation P 4/155.
 3. Settlement Book 34, page 176.
-4. Appraisement Book 11, page 59, if available from your office.
-5. Any estate packet, administrator's bond, inventory, sale bill, account, settlement, heirship paper, or related fiduciary file for Michael Copley / Copeley after March 1897.
+4. Any clearer courthouse copy of Appraisement Book 11, page 59, only if it can clarify the uncertain total, filing day, or appraisers' names.
+5. Any estate packet, administrator's bond, sale bill, account, settlement, heirship paper, or related fiduciary file for Michael Copley / Copeley after March 1897.
 
 I am especially interested in names of heirs, relationships, sureties, appraisers, commissioners, neighbors, land descriptions, Bible extracts, birthplace, or parent names.
 
@@ -142,8 +147,8 @@ Please check whether your holdings include any of the following Lewis County fid
 1. Order Book 1-A, page 45.
 2. Probate Record P, volume/book 4, page 155.
 3. Settlement Book 34, page 176.
-4. Appraisement Book 11, page 59.
-5. Any estate packet, administrator's bond, inventory, sale bill, account, or settlement for Michael Copley / Copeley after March 1897.
+4. Any clearer copy of Appraisement Book 11, page 59, if available.
+5. Any estate packet, administrator's bond, sale bill, account, or settlement for Michael Copley / Copeley after March 1897.
 
 Please report the exact volume title, page, date, image/frame number if applicable, names, roles, relationship language, sureties, appraisers, land descriptions, and any family-Bible or parentage language. I am happy to pay ordinary copy or reproduction fees after receiving a quote.
 ```
