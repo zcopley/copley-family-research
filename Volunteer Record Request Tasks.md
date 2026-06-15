@@ -629,7 +629,7 @@ Sincerely,
 
 **Best recipients:** NARA for the full pension file; county clerks or archives in the relevant Virginia and Illinois counties for marriage, probate, land, and tax records.
 
-**Current Partlow / Rude marriage status:** FamilySearch collection 1803970 and the Illinois statewide index are checked negative / gap-limited for the reported 10 Jun 1900 Clark County marriage. The last FamilySearch Clark County marriage reel, Film 1306062 / DGS 4539347, ends with 1899 records. The 1900 census found Frank N Partlow and Mary A Rude both single in Johnson Township, ED 8, at the 1 Jun reference date. A *Clark County Herald* notice dated 14 Jun 1900 reports a license issued under 8 Jun to `Frank Partlow, 25, Moonshine` and `Alice Rude, 19`; this proves license issuance and strongly supports the reported marriage but does not supply the ceremony return. Do not reassign a generic FamilySearch indexed search, generic 1900 census search, or broad Marshall-newspaper search unless a new source appears; the live path is the Clark County Clerk / Recorder for the original or reconstructed license / return, plus later death / obituary / cemetery evidence.
+**Current Partlow / Rude marriage status:** FamilySearch collection 1803970, the Illinois statewide index, Ancestry, and other online county-record paths are checked negative / gap-limited for the reported 10 Jun 1900 Clark County marriage. The last FamilySearch Clark County marriage reel, Film 1306062 / DGS 4539347, ends with 1899 records. The 1900 census found Frank N Partlow and Mary A Rude both single in Johnson Township, ED 8, at the 1 Jun reference date. A *Clark County Herald* notice dated 14 Jun 1900 reports a license issued under 8 Jun to `Frank Partlow, 25, Moonshine` and `Alice Rude, 19`; this proves license issuance and strongly supports the reported marriage but does not supply the ceremony return. Do not reassign a generic FamilySearch indexed search, generic 1900 census search, broad Ancestry search, or broad Marshall-newspaper search unless a new source appears; the live path is the Clark County Clerk / Recorder and Marshall Public Library genealogy collection for the original / reconstructed license, return, register, local extract, or fire-survival status, plus later death / obituary / cemetery evidence.
 
 ```text
 [Your Name]
@@ -663,7 +663,7 @@ Could you please advise whether your records include any of the following:
 - Land or tax records connecting Jacob Partlow to Benjamin Partlow
 - Records proving John H. Partlow as son of Jacob Partlow
 - Marriage record for Nollie Franklin / Frank Partlow and Alice Rude / Mary Alice Rude, reportedly 10 June 1900 in Clark County, Illinois; newspaper license notice found in the 14 June 1900 *Clark County Herald* says a license was issued under 8 June to Frank Partlow, age 25, Moonshine, and Alice Rude, age 19
-- If the 1900 Clark County marriage register was lost in the 30 December 1902 courthouse fire, any reconstructed marriage record, loose license file, application, return, affidavit, newspaper notice, or later copy
+- If the 1900 Clark County marriage register was lost in the 30 December 1902 courthouse fire, any reconstructed marriage record, loose license file, application, return, affidavit, local extract, or later copy
 - Death, obituary, cemetery, or later household records that explicitly connect Frank N. / Nollie Franklin Partlow with Mary A. / Mary Alice Rude Partlow
 
 I am especially interested in records that name spouses, children, heirs, parents, residences, military service, land descriptions, witnesses, or probate relationships.
@@ -676,6 +676,8 @@ Sincerely,
 
 [Your Name]
 ```
+
+**Parallel Marshall Public Library ask:** Email `jpoorman@marshallplib.com` or call 217-826-2535 and ask whether the Clark County Genealogical Society publication **Extract of marriages from Clark County, 1819-1900** or any local county-record volume includes the 8 Jun 1900 license notice / marriage entry for Frank Partlow and Alice Rude. Cite the *Clark County Herald* notice and ask for any license number, register volume/page, ceremony date, officiant, witnesses, or note about fire-damaged records.
 
 ## VR-09: Staunton-Parkersburg Turnpike and Irish Labor Records
 

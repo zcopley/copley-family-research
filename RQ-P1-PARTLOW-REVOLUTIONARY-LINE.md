@@ -137,6 +137,7 @@ What this search and later follow-up established:
 - FamilySearch collection 1803970 was checked and is also gap-limited because the last Clark County marriage film ends with 1899 records.
 - Illinois Department of Public Health says certified marriage copies are available only from the county clerk in the county where the marriage occurred; for a 1900 Clark County marriage, the practical target is the Clark County Clerk/Recorder in Marshall, Illinois.
 - Clark County's current clerk page says certified marriage-license copies may be ordered online or from the office. For this line, request/search wording should include: **Frank Partlow**, **Nollie Franklin Partlow**, **N. F. Partlow**, **Alice Rude**, **Mary Alice Rude**, the newspaper license date **8 Jun 1900**, and the reported family marriage date **10 Jun 1900**.
+- A later county-record access-path pass found no online original, reconstructed, or derivative county record. It identified two active offline contacts: Clark County Clerk / Recorder Laura H. Lee for any surviving county license / return / register / genealogy certificate, and Marshall Public Library for the Clark County Genealogical Society `Extract of marriages from Clark County, 1819-1900` and other local marriage/license volumes.
 - A ready-to-send request note has been created at [[References/Clark County Illinois Partlow Rude Marriage Request]].
 - The Clark County Genealogy Trails death index page for N/O/P/Q/R/S surnames includes several Partlow deaths from 1916-1947, but it does not solve Frank/Alice because the family-source dates put Frank's death in **1956** and Alice's in **1962**, outside that transcribed index window.
 - The 14 Jun 1900 *Clark County Herald* now supplies the key local notice: a license issued under **8 Jun 1900** to **Frank Partlow**, age 25, Moonshine, and **Alice Rude**, age 19.
@@ -161,7 +162,8 @@ Interpretation: the reported **10 Jun 1900** marriage falls in the post-1899 gap
 Current evidence path:
 
 1. Ask the Clark County Clerk / Recorder for the original or reconstructed license / return / register entry corresponding to the **8 Jun 1900** license notice.
-2. Continue death, obituary, cemetery, and family-record searches for name-variant proof.
+2. Ask Marshall Public Library to check the Clark County Genealogical Society `Extract of marriages from Clark County, 1819-1900` and local county-record volumes for Frank Partlow / Alice Rude.
+3. Continue death, obituary, cemetery, and family-record searches for name-variant proof.
 
 ## 1900 Census Neighborhood Check
 
@@ -188,6 +190,15 @@ Citation and result:
 - Under date heading **June 8**: `Frank Partlow, 25, Moonshine.` and `Alice Rude, 19.`
 
 Interpretation: this notice proves a Clark County marriage license was issued to **Frank Partlow** and **Alice Rude** on **8 Jun 1900**. It strongly supports the family-source marriage date of about **10 Jun 1900**, but it is not a ceremony return and does not give the exact ceremony date, officiant, witnesses, parents, or license number.
+
+## County Record Access Path Follow-Up
+
+A later online access-path pass did not locate any original, reconstructed, or derivative county record for the license or marriage in FamilySearch, the Illinois Statewide Marriage Index, Ancestry, the FamilySearch catalog, IRAD online pages, or Clark County's online order portal. See [[References/Clark County Illinois Partlow Rude County Record Access Path]] and the raw source note at [Partlow-Rude 1900 county-record access-path output](/static/sources/claude-partlow/partlow-rude-1900-county-record-access-path-claude-output.txt).
+
+The key practical finding is that record survival after the **30 Dec 1902** Clark County courthouse fire cannot be determined online. The fire is documented as causing **some** record loss or damage, not total loss. Therefore the next action is not another web search; it is direct contact with:
+
+- **Clark County Clerk / Recorder**, Laura H. Lee, for any surviving original, reconstructed, index, register, license return, or genealogy-certificate record.
+- **Marshall Public Library**, which holds former Clark County Genealogical Society materials and 300+ county-record volumes, especially the undigitized `Extract of marriages from Clark County, 1819-1900`.
 
 ## Pre-Revolution Partlow Lead
 
@@ -245,17 +256,18 @@ flowchart TD
     classDef action fill:#e7f5ff,stroke:#1971c2,color:#102a43;
 ```
 
-1. Send the Clark County Clerk / Recorder request for the original or reconstructed **8 Jun 1900** marriage license / return / register entry for Frank Partlow and Alice Rude; cite the *Clark County Herald* license notice and the checked FamilySearch / Illinois index gap.
-2. Search 1956 / 1962 death, obituary, cemetery, and later household records that may explicitly tie Frank N. / Nollie Franklin Partlow to Alice / Mary Alice Rude Partlow.
-3. Capture the original 1880 Johnson Township, Clark County, Illinois census image for Marion McDonald Partlow and son Frank, using the roll/ED/sheet/page targets in [[References/New England Ball Project Partlow Census Citation Extract]].
-4. Capture the original 1850 and 1860 Johnson Township, Clark County, Illinois census images for John H. Partlow, using the roll/page targets in [[References/New England Ball Project Partlow Census Citation Extract]].
-5. Open FamilySearch or Geneanet copies of *The Partlow family and connections* and search within the book for Benjamin, Jacob, John H., Marion, Frank, Rude, and Clark County.
-6. Search Clark County, Illinois probate for Marion McDonald Partlow, died 27 Mar 1922.
-7. Search probate, land, and tax records for Jacob Partlow / Jacob Newton Partlow and Benjamin Partlow.
-8. Search DAR GRS for Benjamin Partlow and, if present, note any ancestor number and approved child line.
-9. Obtain the full Benjamin Partlow Revolutionary War pension file.
-10. Obtain the original Spotsylvania County, Virginia Will Book A, p. 975 image for John Partlow to verify the Benjamin/Culpeper abstract.
-11. Continue targeted Jacob-to-Benjamin searches in compiled Partlow books, probate, land, and tax sources; broad public web search did not prove the link.
+1. Send the Clark County Clerk / Recorder request for the original or reconstructed **8 Jun 1900** marriage license / return / register entry for Frank Partlow and Alice Rude; cite the *Clark County Herald* license notice and the checked online gaps.
+2. Send the Marshall Public Library request for the Clark County Genealogical Society `Extract of marriages from Clark County, 1819-1900` and any local marriage/license volumes covering June 1900.
+3. Search 1956 / 1962 death, obituary, cemetery, and later household records that may explicitly tie Frank N. / Nollie Franklin Partlow to Alice / Mary Alice Rude Partlow.
+4. Capture the original 1880 Johnson Township, Clark County, Illinois census image for Marion McDonald Partlow and son Frank, using the roll/ED/sheet/page targets in [[References/New England Ball Project Partlow Census Citation Extract]].
+5. Capture the original 1850 and 1860 Johnson Township, Clark County, Illinois census images for John H. Partlow, using the roll/page targets in [[References/New England Ball Project Partlow Census Citation Extract]].
+6. Open FamilySearch or Geneanet copies of *The Partlow family and connections* and search within the book for Benjamin, Jacob, John H., Marion, Frank, Rude, and Clark County.
+7. Search Clark County, Illinois probate for Marion McDonald Partlow, died 27 Mar 1922.
+8. Search probate, land, and tax records for Jacob Partlow / Jacob Newton Partlow and Benjamin Partlow.
+9. Search DAR GRS for Benjamin Partlow and, if present, note any ancestor number and approved child line.
+10. Obtain the full Benjamin Partlow Revolutionary War pension file.
+11. Obtain the original Spotsylvania County, Virginia Will Book A, p. 975 image for John Partlow to verify the Benjamin/Culpeper abstract.
+12. Continue targeted Jacob-to-Benjamin searches in compiled Partlow books, probate, land, and tax sources; broad public web search did not prove the link.
 
 ## Sources
 
@@ -282,3 +294,4 @@ flowchart TD
 21. FamilySearch, "Illinois, County Marriages, 1810-1940," collection 1803970; Clark County Clerk, "Births, marriages, deaths, 1819-1913," catalog `koha:259330`; final Clark County marriage reel Film 1306062 / DGS 4539347.
 22. [[References/Clark County Illinois 1900 Partlow Rude Census Check]] - 1900 census check placing Frank N Partlow and Mary A Rude in Johnson Township, Clark County, Illinois, both single at the 1 Jun 1900 census reference date.
 23. [[References/Clark County Herald 1900 Partlow Rude Marriage License Notice]] - 14 Jun 1900 newspaper notice reporting the 8 Jun 1900 marriage license issued to Frank Partlow, 25, Moonshine, and Alice Rude, 19.
+24. [[References/Clark County Illinois Partlow Rude County Record Access Path]] - online access-path report finding no original / reconstructed county record online and identifying the Clark County Clerk plus Marshall Public Library as the active contacts.

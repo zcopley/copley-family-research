@@ -13,6 +13,8 @@ tags:
 
 Raw Claude for Chrome source note: [Partlow-Rude 1900 Clark County Herald marriage-license output](/static/sources/claude-partlow/partlow-rude-1900-clark-county-herald-marriage-license-claude-output.txt).
 
+Follow-up county-record access path: [[References/Clark County Illinois Partlow Rude County Record Access Path]].
+
 ## Purpose
 
 Preserve the newspaper notice found for the reported **10 Jun 1900** marriage of **Frank / Nollie Franklin Partlow** and **Alice / Mary Alice Rude** in Clark County, Illinois.
@@ -47,12 +49,14 @@ This is now the best located direct local evidence for the Partlow / Rude marria
 
 Remaining proof targets:
 
-1. Obtain the original Clark County license / return / register entry, if it survived or was reconstructed, because it may contain ceremony date, officiant, witnesses, license number, and possibly parental or residence data.
-2. Search death, obituary, cemetery, and later household records tying **Frank N. / Nollie Franklin Partlow** to **Alice / Mary Alice Rude Partlow**.
-3. Continue the upstream Partlow proof chain through Marion McDonald Partlow, John H. Partlow, Jacob Partlow, and Benjamin Partlow.
+1. Ask the Clark County Clerk / Recorder for the original or reconstructed license / return / register entry, if it survived, because it may contain ceremony date, officiant, witnesses, license number, and possibly parental or residence data.
+2. Ask Marshall Public Library to check the Clark County Genealogical Society `Extract of marriages from Clark County, 1819-1900` and any local marriage/license volumes.
+3. Search death, obituary, cemetery, and later household records tying **Frank N. / Nollie Franklin Partlow** to **Alice / Mary Alice Rude Partlow**.
+4. Continue the upstream Partlow proof chain through Marion McDonald Partlow, John H. Partlow, Jacob Partlow, and Benjamin Partlow.
 
 ## Sources
 
 1. *Clark County Herald* (Marshall, Illinois), 14 Jun 1900, p. 4, `Marriage Licenses` column, entry under `June 8` for Frank Partlow and Alice Rude; Digital Archives of the Marshall Public Library, Advantage Archives platform.
 2. [[References/Clark County Illinois 1900 Partlow Rude Census Check]].
 3. [[References/Clark County Illinois Partlow Rude Marriage Request]].
+4. [[References/Clark County Illinois Partlow Rude County Record Access Path]].
