@@ -53,7 +53,7 @@ Marshall, IL 62441
 Phone: 217-826-2535
 Email: `jpoorman@marshallplib.com`
 
-The library reports a Clark County Genealogy & Historical Collection with 300+ county-record volumes and former Clark County Genealogical Society publications. The key compiled title to ask about is **Extract of marriages from Clark County, 1819-1900**, which appears in the FamilySearch catalog but is not digitized online.
+The library reports a Clark County Genealogy & Historical Collection with 300+ county-record volumes and former Clark County Genealogical Society publications. The key compiled title to ask about is **Extract of marriages from Clark County, 1819-1900**, especially **volume 3, 1881-1900**. The publication appears in the FamilySearch catalog as `koha:279795` but is not digitized online; FamilySearch Library holds v. 3 at call no. `977.371 V25c` and microfilm 1036682 / DGS 7955859.
 
 ## Online Search Result
 
@@ -122,9 +122,11 @@ Re: Clark County Genealogical Society marriage extract - Frank Partlow and Alice
 
 I am researching a Clark County marriage license issued to Frank Partlow and Alice Rude in June 1900. The newspaper evidence is: Clark County Herald (Marshall, Illinois), 14 June 1900, page 4, Marriage Licenses column, under June 8: "Frank Partlow, 25, Moonshine. / Alice Rude, 19."
 
-Could you please check whether the Clark County Genealogical Society publication Extract of marriages from Clark County, 1819-1900, or any other marriage/license volume in your Clark County genealogy collection, includes an entry for this couple?
+Could you please check whether the Clark County Genealogical Society publication Extract of marriages from Clark County, 1819-1900, especially volume 3 (1881-1900), includes an entry for this couple under either Partlow or Rude in the index or text?
 
-I am looking for any original or compiled citation, including license number, register volume/page, ceremony date, officiant, witnesses, or notation about lost/damaged records after the 30 December 1902 courthouse fire.
+I am also looking for any original or compiled citation in other marriage/license volumes, ledger transcripts, index cards, or local notes, including license number, register volume/page, ceremony date, officiant, witnesses, or notation about lost/damaged records after the 30 December 1902 courthouse fire.
+
+FamilySearch Library lists the Extract of marriages as call no. 977.371 V25c v. 3, and microfilm 1036682 / DGS 7955859, but it is not available online. If your library does not hold a copy, I would appreciate any guidance on whether a lookup, photocopy, or interlibrary-loan route exists.
 
 I am happy to pay any applicable lookup or copy fee.
 ```

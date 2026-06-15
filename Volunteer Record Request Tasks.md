@@ -677,7 +677,7 @@ Sincerely,
 [Your Name]
 ```
 
-**Parallel Marshall Public Library ask:** Email `jpoorman@marshallplib.com` or call 217-826-2535 and ask whether the Clark County Genealogical Society publication **Extract of marriages from Clark County, 1819-1900** or any local county-record volume includes the 8 Jun 1900 license notice / marriage entry for Frank Partlow and Alice Rude. Cite the *Clark County Herald* notice and ask for any license number, register volume/page, ceremony date, officiant, witnesses, or note about fire-damaged records.
+**Parallel Marshall Public Library ask:** Email `jpoorman@marshallplib.com` or call 217-826-2535 and ask whether the Clark County Genealogical Society publication **Extract of marriages from Clark County, 1819-1900**, especially **volume 3, 1881-1900**, or any local county-record volume includes the 8 Jun 1900 license notice / marriage entry for Frank Partlow and Alice Rude. Cite the *Clark County Herald* notice and ask for any license number, register volume/page, ceremony date, officiant, witnesses, or note about fire-damaged records. If they do not hold the volume, note that FamilySearch Library holds v. 3 at call no. `977.371 V25c` and microfilm 1036682 / DGS 7955859, but no online copy was found.
 
 ## VR-09: Staunton-Parkersburg Turnpike and Irish Labor Records
 

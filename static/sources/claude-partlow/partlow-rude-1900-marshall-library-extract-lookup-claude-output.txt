@@ -1,0 +1,123 @@
+Research Report: Partlow-Rude Marriage, Clark County, Illinois (June 1900)
+
+Catalogs and Sites Searched
+
+Marshall Public Library Genealogy & History FAQ (marshallillibrary.com/GenealogyFAQs)
+Method: Read full page.
+Result: Confirms library holds 300+ volumes of county records; no online catalog of the genealogy collection itself.
+
+Marshall Public Library ILS / ILL Share IT (mshp.illshareit.com)
+Query: "Extract of marriages Clark County 1819 1900" in Library Catalog.
+Result: No results. Not in Marshall's own circulating catalog.
+
+Marshall Public Library Digital Archive (marshall.historyarchives.online)
+Searches: "Partlow", "Rude".
+Result: "Partlow" returns Clark County Herald items, including the June 14, 1900 license notice. "Rude" returns no separate marriage-record items.
+
+FamilySearch Catalog (familysearch.org/en/search/catalog)
+Query: Title "Extract of marriages" + Place Clark County, Illinois.
+Result: 1 result confirmed.
+
+FamilySearch Collection 1803970, Illinois County Marriages, 1810-1940
+Prior research per task.
+Result: Clark County films stop with 1899; June 1900 Partlow-Rude entry not found.
+
+Illinois State Archives Marriage Index (apps.ilsos.gov/isavital)
+Query: "Rude".
+Result: No records found.
+
+Google Books
+Query: "Extract of marriages" "Clark County" Illinois.
+Result: No direct digital text; one snippet in Adams Addenda-II (2000) citing Clark County Genealogical Library compiled records (1974) for late 1899-Jan 1900.
+
+Internet Archive
+Query: "extract of marriages" "Clark County" Illinois.
+Result: No digitized copy.
+
+HathiTrust Digital Library
+Query: same title.
+Result: No record found.
+
+WorldCat (search.worldcat.org)
+Query: same title.
+Result: Login wall blocked results; no OCLC number surfaced via Google site search.
+
+Library of Congress Catalog (search.catalog.loc.gov)
+Query: same title.
+Result: No result.
+
+Genealogy Trails, Clark County (genealogytrails.com/ill/clark/)
+Method: Marriage records pages.
+Result: Marriage record pages return 404; site is in legacy status, pages gone.
+
+The Publication: What It Is and Where It Physically Exists
+
+FamilySearch Catalog record: familysearch.org/en/search/catalog/koha:279795
+
+Full title: Extract of marriages from Clark County, 1819-1900.
+Author/compiler: Clark County Genealogical Society, Marshall, Illinois.
+Format: Book (3 volumes) + Microfilm 35 mm.
+Date of publication: not formally identified; based on other references, compiled circa 1975.
+Contents:
+- v. 1: 1819-1851
+- v. 2: 1851-1881
+- v. 3: 1881-1900. This is the volume containing any June 1900 entry.
+Includes index.
+Physical copies held at: FamilySearch Library, Salt Lake City, 3rd Floor Books, call numbers 977.371 V25c v. 1-2 and v. 3, listed as Available.
+Microfilm: Film Number 1036682, Items 6-8; Digital Group Number (DGS) 7955859; filmed by the Genealogical Society of Utah in 1978 on 1 reel, 35 mm. Also held at FamilySearch Library, U.S. & Canada B1 Floor Film.
+Online status: no camera icon; not available for online viewing.
+
+The Marshall Public Library's own catalog does not show a copy. However, the library's Genealogy FAQ states they hold "300+ volumes of county records" received from the former Clark County Genealogical Library, so a physical copy likely exists in their on-site genealogy room even if not in the public ILS.
+
+Online/Searchable Copy Status
+
+No online or remotely searchable copy exists. The publication is not on Internet Archive, HathiTrust, or Google Books; it is not accessible via FamilySearch's digital image viewer; and no verifiable OCLC number surfaced via WorldCat / Google.
+
+The only confirmed access route is the FamilySearch Library in Salt Lake City in person, or a lookup request from Marshall Public Library if their genealogy room holds the physical copy.
+
+No Partlow-Rude Entry Found Online
+
+No transcript or citation for Frank Partlow / Alice Rude has been located in any searchable online database. The only current documentary record of the couple's marriage activity is:
+
+Clark County Herald, Marshall, Illinois, 14 June 1900, page 4, Marriage Licenses column, under "June 8-": "Frank Partlow, 25, Moonshine." / "Alice Rude, 19."
+
+Critical Distinction: License Notice vs. Ceremony Proof
+
+Clark County Herald, 14 Jun 1900: proves a license was applied for / issued on June 8, 1900; notes ages and groom's township; does not prove ceremony, officiant, or return date.
+FamilySearch Collection 1803970: only covers Clark County marriages through 1899; proves nothing about the 1900 event.
+Extract of marriages, v. 3 (1881-1900), unverified for Partlow: would be a compiled extraction from county record volumes; completeness is unknown. County films stop at 1899, so the extract may also stop there or may have drawn from a physical ledger.
+MyHeritage entry, derivative: derivative of the newspaper notice, not independent primary evidence.
+
+The courthouse fire of 30 December 1902 adds uncertainty. If the original marriage return ledger covering 1900-1902 was damaged or destroyed, there may be no surviving official ceremony record, only the license newspaper notice.
+
+Ready-to-Send Email to Marshall Public Library
+
+To: jpoorman@marshallplib.com
+Subject: Genealogy lookup request - Partlow-Rude, Clark County marriage, June 1900
+
+Dear Ms. Poorman,
+
+I am researching the marriage of Frank Partlow (age 25, of Moonshine Township) and Alice Rude (age 19) in Clark County, Illinois. A marriage-license notice appears in the Clark County Herald, 14 June 1900, p. 4, "Marriage Licenses," dated June 8, 1900, but I have not been able to locate a marriage-return or ceremony record in any online source.
+
+I have three specific questions, and I would be grateful if a staff member or volunteer could check the following materials held in your Genealogy and Historical Collections:
+
+1. "Extract of marriages from Clark County, 1819-1900" (Clark County Genealogical Society, Marshall, Illinois; 3 volumes). Volume 3 covers 1881-1900. Please check the index and the text of volume 3 for any entry under "Partlow" or "Rude" dated 1900.
+
+2. Any county marriage-license or return volumes covering June-December 1900. The FamilySearch microfilm of Clark County marriage records (Film 1306062 / DGS 4539347) appears to end in 1899. I would like to know whether your collection includes original or photocopied ledger pages, transcripts, or index cards that cover the period June 1900-December 1902.
+
+3. Any documentation about records lost or damaged in the Clark County courthouse fire of 30 December 1902. Even a note about which record volumes survived would be helpful in understanding whether the absence of a return record reflects record loss or simply an unfiled/unlocated return.
+
+The FamilySearch Library in Salt Lake City holds the Extract of marriages (call no. 977.371 V25c v.3, 3rd Floor Books). If your library does not hold a copy, I would also welcome information about whether an interlibrary loan or photocopy service might be available.
+
+Any information you can share, including a simple "not found" result, would be very helpful. I am happy to pay any applicable photocopy fees ($0.15/page per your FAQ).
+
+Thank you very much for your time and assistance.
+
+Sincerely,
+[Your name]
+[Your email / phone]
+[Your mailing address if you wish copies sent by mail]
+
+Summary
+
+The Extract of marriages from Clark County, 1819-1900 (Clark County Genealogical Society, Marshall, IL) is a real confirmed publication in 3 volumes. Volume 3 (1881-1900) is relevant to the June 1900 Partlow-Rude license. The FamilySearch Library in Salt Lake City holds both the physical books and a microfilm copy (Film 1036682 / DGS 7955859), but the content is not available online. The Marshall Public Library's online catalog does not list it, though the library likely holds a physical copy in the on-site genealogy room since it inherited the Clark County Genealogical Library's collection. No online source contains a Partlow-Rude marriage entry. The newspaper notice proves only that a license was issued on June 8, 1900. It does not constitute proof of ceremony or legal return. The 1902 courthouse fire adds plausible grounds for a missing return record but cannot be confirmed without checking local holdings.
