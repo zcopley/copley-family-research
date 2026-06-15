@@ -12,6 +12,8 @@ tags:
 
 Raw Claude for Chrome source note: [Clark County Partlow-Rude FamilySearch negative search output](/static/sources/claude-partlow/clark-county-partlow-rude-marriage-familysearch-negative-claude-output.txt).
 
+Related census note: [[References/Clark County Illinois 1900 Partlow Rude Census Check]].
+
 ## Purpose
 
 Request the historical marriage record for the reported **10 Jun 1900** marriage of **Frank / Nollie Franklin Partlow** and **Alice / Mary Alice Rude** in Clark County, Illinois.
@@ -46,6 +48,10 @@ The FamilySearch route is now a bounded negative for this exact target. Logged-i
 
 The reported **10 Jun 1900** marriage therefore falls just after the surviving / filmed online series. The gap is consistent with the Clark County courthouse fire of **30 Dec 1902**, but the clerk should still be asked about reconstructed records, loose licenses, applications, or returns.
 
+## Census Context
+
+The 1900 federal census found both proposed spouses in **Johnson Township, Clark County, Illinois, ED 8**, but not as a married couple. **Frank N Partlow** appears single on sheet 7A, line 5, and **Mary A Rude** appears single in John A. Rude's household on sheet 7B, line 85. This is consistent with a reported **10 Jun 1900** marriage because the census reference date was **1 Jun 1900**. It does not prove the marriage, but it supports the timing and neighborhood context.
+
 ## Request Text
 
 ```text
@@ -79,7 +85,7 @@ This is for genealogical research. If available, an uncertified genealogical cop
 - FamilySearch collection 1803970 was searched and browsed; the Clark County marriage images stop with 1899.
 - Illinois Department of Public Health says certified marriage copies are available only from the county clerk in the county where the marriage occurred.
 - Search variants should include **Frank**, **Nollie**, **N. F.**, and **Franklin** for the groom, and **Alice Rude** / **Mary Alice Rude** for the bride.
-- If the clerk is negative, next search Marshall-area newspapers for the week around 10 Jun 1900 and the 1900 federal census for Frank / Nollie Partlow and the Rude family.
+- If the clerk is negative, next search Marshall-area newspapers for the week around 10 Jun 1900, then death / obituary / cemetery records for name-variant proof.
 
 ## Sources
 
@@ -88,3 +94,4 @@ This is for genealogical research. If available, an uncertified genealogical cop
 3. Illinois Statewide Marriage Index 1763-1900: https://www.ilsos.gov/departments/archives/databases/marriage.html
 4. Illinois Department of Public Health, Marriage Records: https://dph.illinois.gov/topics-services/birth-death-other-records/marriage-records.html
 5. FamilySearch, "Illinois, County Marriages, 1810-1940," collection 1803970; Clark County Clerk, "Births, marriages, deaths, 1819-1913," catalog `koha:259330`; final marriage film Film 1306062 / DGS 4539347.
+6. [[References/Clark County Illinois 1900 Partlow Rude Census Check]].

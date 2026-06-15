@@ -38,6 +38,13 @@ Maintain the public reader path, evidence-status pages, and master research queu
   - recorded that Clark County marriage films end with Film 1306062 / DGS 4539347, Vol. H 1890-1899, with image 660 as the last substantive 1899 page and image 664 as end of roll;
   - changed the live Partlow task to Clark County Clerk / reconstructed records, Marshall newspapers, and June 1900 census corroboration.
 
+- Integrated Zach's June 2026 1900 census report for Frank N Partlow and Mary A Rude:
+  - preserved the raw report at `static/sources/claude-partlow/partlow-rude-1900-census-johnson-township-claude-output.txt`;
+  - added `References/Clark County Illinois 1900 Partlow Rude Census Check.md`;
+  - recorded Frank N Partlow in Johnson Township, Clark County, Illinois, ED 8, sheet 7A, line 5, single, age 25, born Apr 1875, FamilySearch ARK `MSS6-B4P`;
+  - recorded Mary A Rude in John A. Rude's Johnson Township household, ED 8, sheet 7B, line 85, single, age 20, born Oct 1880, FamilySearch ARK `MSSD-C2Q`;
+  - interpreted the result as consistent with a 10 Jun 1900 marriage after the 1 Jun census reference date, but not direct marriage proof.
+
 - Integrated Zach's June 2026 Appraisement Book 11 result for Michael Copley Sr.:
   - preserved the raw report at `static/sources/claude-michael-parents/michael-copley-sr-appraisement-book11-page59-claude-output.txt`;
   - recorded the source as Lewis County, West Virginia, Inventories v. 11, Film 825091 / DGS 7618832, image 60 of 276, manuscript page 59, ARK `3QS7-99KQ-QHHX`;

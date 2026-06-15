@@ -16,6 +16,8 @@ Extract the exact census citation trail from the New England Ball Project pages 
 
 This does not replace original census images, but it gives the page, ED, sheet, and stamped-page targets needed to find the originals efficiently.
 
+Related found-record note: [[References/Clark County Illinois 1900 Partlow Rude Census Check]] now confirms the 1900 Johnson Township target for **Frank N Partlow** and separately locates **Mary A Rude** nearby in the same enumeration district.
+
 ## John Halleck Partlow and Lydia Bennett
 
 The New England Ball Project identifies **John Halleck Partlow** as a son of **Jacob Partlow** and **Mary (unknown)**, and husband of **Lydia Bennett**.
@@ -70,13 +72,14 @@ Research value:
 - These roll numbers pair with the New England Ball Project page/sheet targets above.
 - If using FamilySearch, Ancestry, HeritageQuest, Internet Archive, NARA, or a library microfilm catalog, search by the roll number first, then navigate to the township/ED/page target.
 - The 1880 and 1900 rolls are the highest priority for proving **Frank Partlow -> Marion McDonald Partlow**.
+- The 1900 Frank N Partlow target has now been found in FamilySearch as ED 8, sheet 7A, line 5, image 174 of 514, digital film `004113698`; use the found-record note above before reassigning that task.
 - The 1850 and 1860 rolls are the highest priority for proving **Marion McDonald Partlow -> John Halleck Partlow / Lydia Bennett**.
 
 ## Remaining Cautions
 
 - The New England Ball Project is a derivative compiled source. Use it as a map to original records, not as final proof.
 - The John -> Jacob relationship depends on a now-difficult RootsWeb database citation, **Glenna Inglis, "New American Stew"**, not on a census household relationship.
-- The Frank/Nollie identity problem remains unresolved until a marriage, death, obituary, cemetery, or later household record connects the name variants.
+- The 1900 census confirms Frank N Partlow and Mary A Rude were both single in Johnson Township on the 1 Jun 1900 census reference date, but the Frank/Nollie identity problem remains unresolved until a marriage, death, obituary, cemetery, or later household record connects the name variants.
 
 ## Sources
 
@@ -84,3 +87,4 @@ Research value:
 2. New England Ball Project, "Lydia Bennett," person page 2753: https://www.newenglandballproject.com/g2/p2753.htm
 3. New England Ball Project, "Marion McDonald Partlow," person page 3461: https://www.newenglandballproject.com/g3/p3461.htm
 4. USGenWeb Census Project, "Illinois - The USGenWeb Census Project," Clark County roll index: https://www.us-census.org/states/illinois/c-il.htm
+5. [[References/Clark County Illinois 1900 Partlow Rude Census Check]].
