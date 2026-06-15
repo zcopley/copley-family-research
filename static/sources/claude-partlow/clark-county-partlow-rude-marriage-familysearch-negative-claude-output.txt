@@ -1,0 +1,49 @@
+Search Report: Partlow-Rude Marriage, Clark County, Illinois, ca. June 1900
+
+Result: NOT FOUND in the indexed records of FamilySearch collection "Illinois, County Marriages, 1810-1940" / collection 1803970. The target marriage falls in a documented Clark County image gap: the FamilySearch Clark County marriage-film series ends with 1899 records, and no post-1899 Clark County marriage images exist in that digital collection.
+
+Searches performed while logged in as Zach3284:
+
+Groom searches, Clark County / Illinois:
+- Nollie Partlow, all Illinois, no date: 17 hits, all Boone, Will, or Coles Counties; none in Clark County.
+- Frank Partlow, Clark County, 1898-1902: 0 results.
+- Partlow, Clark County, 1895-1905: 30 results; most recent Clark County marriage was Malinda Partlow in 1899; no Nollie / Frank / Franklin Partlow.
+- Partlow, Clark County, all years: 96 results across five pages; no N. F. / Frank / Franklin Partlow in Clark County.
+
+Bride searches:
+- Alice Rude, Clark County, 1898-1902: 0 results.
+- Rude, Clark County, all years: 257 fuzzy statewide results; no Clark County Rude marriage in indexed records.
+
+Catalog / image browse:
+
+FamilySearch catalog koha:259330, "Births, marriages, deaths, 1819-1913," Clark County (Illinois) County Clerk, contains exactly five GSU microfilm reels for Clark County vital records:
+
+- Film 1306058 / DGS 4254982: marriage index 1819-1838 and marriage licenses / records 1819-1838.
+- Film 1306059 / DGS 4539344: marriage record index / license / record 1838-1845.
+- Film 1306060 / DGS 4539345: marriage record index / license / record 1845-ca. Sept. 1859.
+- Film 1306061 / DGS 4539346: marriage record Sept. 1859-1860; Vol. E 1860-1872; Vol. F 1872-1881.
+- Film 1306062 / DGS 4539347: Vol. G 1881-1890; Vol. H 1890-1899.
+
+Film 1306062 / DGS 4539347 is the final Clark County marriage reel in the FamilySearch collection.
+
+Direct browse findings for Film 1306062 / DGS 4539347:
+- Total images: 664.
+- Image 660 is the last substantive register page, Vol. H p. 558, with 1899 marriages only, including E. D. Stull, George R. Lambdin, Joseph Gallager, and George Newell.
+- Image 664 is "END OF ROLL."
+- The film contains no 1900 or later marriage register images.
+- No Vol. I or subsequent Clark County marriage film appears in the FamilySearch digital folder index for the Illinois county-marriages collection.
+
+Interpretation:
+
+The reported 10 June 1900 marriage of Frank / Nollie Franklin Partlow and Alice / Mary Alice Rude falls after the last imaged Clark County register volume. The gap is consistent with the Clark County courthouse fire of 30 December 1902, which likely destroyed post-1899 marriage registers or left only reconstructed / loose records outside the FamilySearch filming.
+
+Next steps:
+
+1. Contact the Clark County Clerk / Recorder in Marshall, Illinois, and ask whether any 1900 marriage register, license, application, return, reconstructed record, or loose license file survives for N. F. / Nollie Franklin / Frank / Franklin Partlow and Alice / Mary Alice Rude.
+2. Contact IRAD at Eastern Illinois University as a secondary repository, asking whether post-fire reconstructed Clark County marriage material exists even though the online index and known marriage holdings stop in 1899.
+3. Search Marshall-area newspapers for the week around 10 June 1900, especially any Marshall Daily Republican or Marshall Messenger marriage notices.
+4. Search the 1900 federal census for Nollie / Frank Partlow and the Rude family in Clark County, Illinois. Because enumeration occurred in June 1900, the census may corroborate whether the couple was already married and living together.
+
+Negative-search citation:
+
+"Illinois, County Marriages, 1810-1940," database with images, FamilySearch (familysearch.org, collection 1803970, accessed 15 June 2026): searched surname Partlow and surname Rude in Clark County with marriage date range 1898-1902; no record found. The most recent imaged Clark County marriage register page is Vol. H p. 558 on Film 1306062 / DGS 4539347, image 660, containing 1899 marriages; image 664 is end of roll. No subsequent Clark County marriage film exists in the collection. Underlying source: Clark County (Illinois) County Clerk, Births, marriages, deaths, 1819-1913, microfilm 5 reels, Genealogical Society of Utah, 1981, FamilySearch catalog koha:259330.
