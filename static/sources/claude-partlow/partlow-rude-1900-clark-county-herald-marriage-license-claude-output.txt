@@ -1,0 +1,56 @@
+Search Report: Partlow-Rude Marriage Notice, Clark County / Marshall, Illinois, June 1900
+
+Result:
+
+Marriage license notice found in the Clark County Herald, Marshall, Illinois.
+
+Citation:
+
+- Newspaper title: Clark County Herald
+- Publication place: Marshall, Clark County, Illinois
+- Date: Thursday, June 14, 1900
+- Page / column: Page 4, "Marriage Licenses" column, far right column, lower section
+- Database / repository: Digital Archives of the Marshall Public Library, Advantage Archives platform
+- Direct URL: https://marshall.historyarchives.online/viewer?fn=clark_county_herald_usa_illinois_marshall_19000614_english_4
+- Archive homepage: https://marshall.historyarchives.online/
+- Repository: Marshall Public Library, 612 Archer Avenue, Marshall, IL 62441, in partnership with Clark County Historical Society.
+
+Transcript:
+
+The "Marriage Licenses" section reads under the date heading "June 8-":
+
+Thos. H. Wade, 49, Greenup.
+Mrs. Melvina E. Bowen, 33, Bellair.
+Frank Partlow, 25, Moonshine.
+Alice Rude, 19.
+June 12-
+Claude A. Proctor, 24, Casey.
+Vinnie Wilson, 24. [partial / continued]
+
+The column header reads: "Marriage Licenses - Have been issued to the following couples since our last report:"
+
+Name spellings and details exactly as printed:
+
+- Frank Partlow
+- Alice Rude
+- Frank Partlow age: 25
+- Alice Rude age: 19
+- Residence / place for Frank: Moonshine
+- No residence printed for Alice Rude
+
+Repositories searched before the successful find:
+
+- Chronicling America: blocked / not indexed; no 1900-era Marshall or Clark County newspaper located through Google site search.
+- Illinois Digital Newspaper Collections: no 1900-era Marshall papers; only later Clark County Farm Bureau News identified.
+- Genealogy Trails Clark County Marriage News: negative.
+- Genealogy Trails Clark County site search: negative for Partlow + Rude.
+- Newspapers.com: no free access / no useful Google-indexed match.
+- GenealogyBank: no targeted Marshall, Illinois listing found.
+- Internet Archive: technical errors.
+- Clark County IL GenWeb: directed to Marshall Public Library Digital Archive.
+- Abraham Lincoln Presidential Library newspaper index: relevant Clark County holdings noted but not online there.
+- Community History Archives: blocked by bot detection.
+
+Evidentiary assessment:
+
+This notice confirms that a Clark County marriage license was issued on June 8, 1900, for Frank Partlow, age 25, of Moonshine, and Alice Rude, age 19. It strongly supports the reported marriage around June 10, 1900 and helps resolve the bride's working name variant toward Alice Rude in this local-license context. It is a license notice, not a ceremony report, and does not by itself give the exact ceremony date, officiant, witnesses, parents, or original license number.
