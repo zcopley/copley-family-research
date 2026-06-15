@@ -68,7 +68,7 @@ Current probate boundary: Michael's Appraisement Book 11 p. 59 is found at Film 
 
 **Partlow Revolutionary Line**
 
-The reported 10 Jun 1900 Clark County, Illinois marriage of Frank / Nollie Franklin Partlow and Alice / Mary Alice Rude was not found in FamilySearch collection 1803970 or the Illinois statewide marriage index. Clark County FamilySearch marriage films end with 1899 at Film 1306062 / DGS 4539347. The 1900 census places Frank N Partlow and Mary A Rude single in Johnson Township, ED 8, on the 1 Jun reference date, consistent with but not proof of a 10 Jun marriage. The next path is Clark County Clerk / Recorder, Marshall-area newspapers, and later death / obituary / cemetery evidence, not another generic FamilySearch indexed search or generic 1900 census search.
+The reported 10 Jun 1900 Clark County, Illinois marriage of Frank / Nollie Franklin Partlow and Alice / Mary Alice Rude was not found in FamilySearch collection 1803970 or the Illinois statewide marriage index. Clark County FamilySearch marriage films end with 1899 at Film 1306062 / DGS 4539347. The 1900 census places Frank N Partlow and Mary A Rude single in Johnson Township, ED 8, on the 1 Jun reference date. A *Clark County Herald* notice dated 14 Jun 1900 reports a license issued under 8 Jun to `Frank Partlow, 25, Moonshine` and `Alice Rude, 19`; this proves license issuance and strongly supports the reported marriage but does not supply the ceremony return. The next path is Clark County Clerk / Recorder for the original or reconstructed license / return, plus later death / obituary / cemetery evidence, not another generic FamilySearch indexed search, generic 1900 census search, or broad Marshall-newspaper search.
 
 ---
 

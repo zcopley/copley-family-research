@@ -13,6 +13,8 @@ tags:
 
 Raw Claude for Chrome source note: [Partlow-Rude 1900 Johnson Township census output](/static/sources/claude-partlow/partlow-rude-1900-census-johnson-township-claude-output.txt).
 
+Related newspaper notice: [[References/Clark County Herald 1900 Partlow Rude Marriage License Notice]].
+
 ## Purpose
 
 Check whether **Frank / Nollie Franklin Partlow** and **Alice / Mary Alice Rude** appear together in the 1900 U.S. federal census around the reported **10 Jun 1900** Clark County, Illinois marriage.
@@ -71,11 +73,11 @@ This is **circumstantial support**, not proof of marriage or identity. It shows 
 
 The direct proof targets remain:
 
-1. Clark County Clerk / Recorder search for any surviving or reconstructed marriage record, license, return, application, affidavit, or index card.
-2. Marshall-area newspapers for a marriage notice around 10 Jun 1900.
-3. Later death, obituary, cemetery, and household records tying **Frank N. / Nollie Franklin Partlow** to **Mary A. / Mary Alice Rude Partlow**.
+1. Clark County Clerk / Recorder search for any surviving or reconstructed marriage record, license, return, application, affidavit, or index card corresponding to the newspaper-reported **8 Jun 1900** license.
+2. Later death, obituary, cemetery, and household records tying **Frank N. / Nollie Franklin Partlow** to **Alice / Mary Alice Rude Partlow**.
 
 ## Sources
 
 1. "United States, Census, 1900," FamilySearch, Frank N Partlow, Johnson Township, Clark County, Illinois, ED 8, sheet 7A, line 5, dwelling/family 122; FamilySearch ARK `MSS6-B4P`; digital film `004113698`, image 174 of 514.
 2. "United States, Census, 1900," FamilySearch, Mary A Rude, Johnson Township, Clark County, Illinois, ED 8, sheet 7B, line 85, dwelling/family 138; FamilySearch ARK `MSSD-C2Q`; digital film `004113698`, image 175 of 514.
+3. [[References/Clark County Herald 1900 Partlow Rude Marriage License Notice]].

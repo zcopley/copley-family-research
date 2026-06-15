@@ -14,11 +14,15 @@ Raw Claude for Chrome source note: [Clark County Partlow-Rude FamilySearch negat
 
 Related census note: [[References/Clark County Illinois 1900 Partlow Rude Census Check]].
 
+Related newspaper notice: [[References/Clark County Herald 1900 Partlow Rude Marriage License Notice]].
+
 ## Purpose
 
 Request the historical marriage record for the reported **10 Jun 1900** marriage of **Frank / Nollie Franklin Partlow** and **Alice / Mary Alice Rude** in Clark County, Illinois.
 
 This is the nearest unresolved identity proof in [[RQ-P1-PARTLOW-REVOLUTIONARY-LINE]]. If the record names the groom as Frank, Nollie, N. F., or Franklin Partlow, it may prove that the family-manuscript **Frank Partlow** is the same person as the **Nollie Franklin Partlow** used in other family-tree leads.
+
+The best located local corroboration is now a **Clark County Herald** notice published 14 Jun 1900 reporting that a marriage license was issued **8 Jun 1900** to **Frank Partlow, 25, Moonshine** and **Alice Rude, 19**.
 
 ## Record Holder
 
@@ -52,6 +56,10 @@ The reported **10 Jun 1900** marriage therefore falls just after the surviving /
 
 The 1900 federal census found both proposed spouses in **Johnson Township, Clark County, Illinois, ED 8**, but not as a married couple. **Frank N Partlow** appears single on sheet 7A, line 5, and **Mary A Rude** appears single in John A. Rude's household on sheet 7B, line 85. This is consistent with a reported **10 Jun 1900** marriage because the census reference date was **1 Jun 1900**. It does not prove the marriage, but it supports the timing and neighborhood context.
 
+## Newspaper License Notice
+
+The Marshall Public Library digital archive contains the strongest located local evidence so far: *Clark County Herald* (Marshall, Illinois), 14 Jun 1900, p. 4, `Marriage Licenses`, under **June 8**, lists **Frank Partlow, 25, Moonshine** and **Alice Rude, 19**. This proves a license was issued and should be cited in any clerk request for the original license / return / register entry.
+
 ## Request Text
 
 ```text
@@ -59,7 +67,7 @@ Clark County Clerk/Recorder
 501 Archer Ave
 Marshall, IL 62441
 
-I am requesting a search/copy of a historical marriage record believed to have occurred in Clark County, Illinois on or about 10 June 1900.
+I am requesting a search/copy of a historical marriage record for a license issued in Clark County, Illinois on 8 June 1900, with the marriage reported by family sources as occurring on or about 10 June 1900.
 
 Groom name variants:
 - Frank Partlow
@@ -74,7 +82,10 @@ Bride name variants:
 Requested record:
 Marriage license, return, register entry, application, reconstructed record, loose license file, or any available citation including volume/page/license number.
 
-I understand that Clark County suffered a courthouse fire on 30 December 1902 and that the FamilySearch Clark County marriage films appear to end with Vol. H in 1899. If the regular 1900 register was lost, I would still appreciate a search for any reconstructed marriage record, license return, application, affidavit, index card, or later copy.
+Known newspaper notice:
+The Clark County Herald (Marshall, Illinois), 14 June 1900, page 4, Marriage Licenses column, reports under June 8: "Frank Partlow, 25, Moonshine. / Alice Rude, 19."
+
+I understand that Clark County suffered a courthouse fire on 30 December 1902 and that the FamilySearch Clark County marriage films appear to end with Vol. H in 1899. If the regular 1900 register was lost, I would still appreciate a search for any reconstructed marriage record, license return, application, affidavit, index card, or later copy matching this June 8, 1900 license notice.
 
 This is for genealogical research. If available, an uncertified genealogical copy is sufficient. Please let me know the fee, payment method, and whether the record includes any parent names, ages, residences, birthplaces, officiant, witnesses, or license/register citation.
 ```
@@ -85,7 +96,7 @@ This is for genealogical research. If available, an uncertified genealogical cop
 - FamilySearch collection 1803970 was searched and browsed; the Clark County marriage images stop with 1899.
 - Illinois Department of Public Health says certified marriage copies are available only from the county clerk in the county where the marriage occurred.
 - Search variants should include **Frank**, **Nollie**, **N. F.**, and **Franklin** for the groom, and **Alice Rude** / **Mary Alice Rude** for the bride.
-- If the clerk is negative, next search Marshall-area newspapers for the week around 10 Jun 1900, then death / obituary / cemetery records for name-variant proof.
+- The Marshall newspaper path is now found; if the clerk is negative, next search death / obituary / cemetery records for name-variant proof.
 
 ## Sources
 
@@ -95,3 +106,4 @@ This is for genealogical research. If available, an uncertified genealogical cop
 4. Illinois Department of Public Health, Marriage Records: https://dph.illinois.gov/topics-services/birth-death-other-records/marriage-records.html
 5. FamilySearch, "Illinois, County Marriages, 1810-1940," collection 1803970; Clark County Clerk, "Births, marriages, deaths, 1819-1913," catalog `koha:259330`; final marriage film Film 1306062 / DGS 4539347.
 6. [[References/Clark County Illinois 1900 Partlow Rude Census Check]].
+7. [[References/Clark County Herald 1900 Partlow Rude Marriage License Notice]].
