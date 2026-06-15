@@ -68,6 +68,7 @@ Do not repeat:
 
 Use [[Volunteer Record Request Tasks#VR-02: Michael Copley Sr. Probate Order and Estate Packet|VR-02]] for a volunteer-facing courthouse letter and the control sheet for archive wording. Ask for:
 
+- Primary channel: Lewis County Clerk Rebecca Carder, 110 Center Avenue, Weston, WV 26452; direct phone 304-269-8215; email `lewiscountyclerk@lewiscountywv.org`; estates by appointment only, so call first.
 - Order Book 1-A p. 45.
 - Probate Record `P 4/155`.
 - Settlement Book 34 p. 176.

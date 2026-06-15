@@ -32,6 +32,7 @@ The operational control sheet is [[References/Michael Copley Sr Parentage Eviden
 | Appraisement Book 11 p. 59 | Found | Names John Copley Executor and farm personal property; no parentage, spouse, children, Bible, notes, or debts. |
 | County Court Order Book v. 6 image 285 / p. 496 | Negative | Do not repeat as an active target. |
 | FamilySearch `koha:268417` | Negative for bound probate volumes | Use only for loose-paper court-index work. |
+| Order Book 1-A / Settlement Book 34 / Probate Record P online access | Negative in checked online paths | Treat as courthouse-first records; use WVRHC A&M 0062 bound-volume checklist only as secondary fallback. |
 
 ## Next Records
 
@@ -39,6 +40,8 @@ The operational control sheet is [[References/Michael Copley Sr Parentage Eviden
 2. ORT-003: Probate Record `P 4/155`.
 3. ORT-004: Settlement Book 34 p. 176.
 4. ORT-020: Naturalization records for Michael and Patrick Copley.
+
+Use one consolidated Lewis County Clerk request for the first three targets. Current channel: Rebecca Carder, Lewis County Clerk, 110 Center Avenue, Weston, WV 26452; direct phone 304-269-8215; email `lewiscountyclerk@lewiscountywv.org`; estates by appointment only, so call first.
 
 ## Guardrail
 

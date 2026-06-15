@@ -27,6 +27,12 @@ This note preserves Zach's June 2026 Claude for Chrome probate / estate search f
 
 [Download Order Book 1-A access map report](../static/sources/claude-michael-parents/michael-copley-sr-order-book-1a-access-map-claude-output.txt)
 
+[Download Order Book 1-A repository access-path report](../static/sources/claude-michael-parents/michael-copley-sr-order-book-1a-repository-access-path-claude-output.txt)
+
+[Download Settlement Book 34 / Probate Record P access-path report](../static/sources/claude-michael-parents/michael-copley-sr-settlement34-probate-p-access-path-claude-output.txt)
+
+[Download Lewis County Clerk request-channel verification](../static/sources/claude-michael-parents/lewis-county-clerk-michael-copley-probate-request-channel-claude-output.txt)
+
 [Download koha 268417 / Inventory Book 11 access report](../static/sources/claude-michael-parents/michael-copley-sr-koha268417-inventory11-access-map-claude-output.txt)
 
 [Download Appraisement Book 11 page 59 report](../static/sources/claude-michael-parents/michael-copley-sr-appraisement-book11-page59-claude-output.txt)
@@ -143,6 +149,64 @@ A follow-up Claude for Chrome report did **not** locate Order Book 1-A page 45 o
 
 The most likely interpretation is that `Order Book 1-A` is a separate probate / fiduciary / commissioner-of-accounts-style order-book label not exposed under that exact title in the checked FamilySearch catalog entries. A later report checked FamilySearch catalog **koha:268417** and found that it does **not** contain the bound fiduciary / probate order-book series.
 
+## Order Book 1-A Repository Access Path
+
+A later access-path report concluded that **Order Book 1-A** is best treated as a **Lewis County fiduciary / probate commissioner-of-accounts order-book series**, not the ordinary County Court order books and not the Circuit Court law order books.
+
+The report found no FamilySearch catalog entry for a Lewis County fiduciary order book or commissioner-of-accounts order-book series. The only online FamilySearch fiduciary hit remains the already-checked wills and fiduciaries index. Therefore **Order Book 1-A p. 45 is not an online FamilySearch target** unless a new catalog entry or DGS appears.
+
+Recommended repository order:
+
+| Priority | Repository | Why |
+|---|---|---|
+| 1 | Lewis County Clerk, Weston, WV | Most likely custodian of the unfilmed original fiduciary / probate volume. |
+| 2 | WVU West Virginia and Regional History Center, Lewis County Archives A&M 0062 | Collection description includes Lewis County court cases, county record volumes, and a bound-volume checklist. |
+| 3 | West Virginia State Archives | Possible county-record depository / WPA-era copy location, but no online Lewis County county-guide page was found. |
+| 4 | FamilySearch Library | Not useful unless a new unlisted film or catalog entry appears. |
+
+Contact details from the report, retrieved 13 June 2026:
+
+- **Lewis County Clerk / courthouse:** 110 Center Avenue, Weston, WV 26452; phone **304-269-8200** county main, ask for County Clerk; Monday-Friday, 8:00 a.m.-4:00 p.m.
+- **WVU WVRHC:** 1549 University Ave., P.O. Box 6069, Morgantown, WV 26506-6069; phone **304-293-3536**; reference email **wvrhcref@westvirginia.libanswers.com**; remote research form `https://westvirginia.libanswers.com/wvrhc`; ask specifically about **Lewis County Archives A&M 0062** and its bound-volume checklist.
+- **WV State Archives:** Archives and History Library, The Culture Center, 1900 Kanawha Blvd. E., Charleston, WV 25305-0300; phone **304-558-0230**; research requests by written letter with in-state / out-of-state fee.
+
+Use the request wording in [[References/Michael Copley Sr Parentage Evidence Audit and Request Packet|Michael Copley Sr Parentage Evidence Audit and Request Packet]] and [[Volunteer Record Request Tasks]] before asking for new browser work.
+
+## Settlement Book 34 and Probate Record P Access Path
+
+A later access-path report checked whether the remaining Michael Copley Sr. fiduciary targets are available online or in known microfilm:
+
+- **Settlement Book 34, p. 176**
+- **Probate Record P, 4/155** or Probate Record P, vol. / book 4, p. 155
+
+The report found **no online or FamilySearch-microfilmed access** for either record. FamilySearch probate-record catalog entries for Lewis County include wills, inventories / appraisements, the wills and fiduciaries index, and HRS copies, but no Settlement Books, Commissioner of Accounts books, Fiduciary Settlements, or Probate Record P series. The 1970 GSU filming appears to have skipped the settlement / fiduciary-continuation volumes.
+
+WVRHC A&M 0062 remains a possible secondary access path because the Lewis County Archives description includes county record volumes and a non-digitized bound-volumes checklist. ArchivesSpace keyword searching did not reveal Settlement Book 34 or Probate Record P, so the checklist or a reference-staff inquiry is still needed. WV State Archives remains a lower-probability written-inquiry fallback.
+
+The practical result is that all three remaining Michael probate targets now belong in **one Lewis County Clerk-first request packet**:
+
+1. Fiduciary / Probate Order Book 1-A, p. 45.
+2. Settlement Book 34, p. 176.
+3. Probate Record P, vol. / book 4, p. 155.
+
+## Verified Clerk Request Channel
+
+A June 14, 2026 contact check verified the current Lewis County Clerk route:
+
+| Field | Value |
+|---|---|
+| Clerk | Rebecca Carder |
+| Office | Lewis County Clerk |
+| Address | 110 Center Avenue, Weston, WV 26452 |
+| Direct phone | 304-269-8215 |
+| Email | `lewiscountyclerk@lewiscountywv.org` |
+| Fax | Not published on the official website |
+| Hours | Monday-Friday, 8:00 a.m.-4:00 p.m. |
+
+The official clerk page notes: **"Estates by appointment only. Please call (304) 269-8215 for more detailed information."** For this project, call first, then follow up by email or mail with the written request.
+
+Fee guidance: WV Code §59-1-10(d) sets statutory minimum copy/certification charges, but the Lewis County Clerk site does not publish a specific historical probate-copy schedule or search / handling fee. Ask for a fee quote before copies are made.
+
 ## Koha 268417 and Inventory Book 11 Access Map
 
 A subsequent Claude for Chrome report checked FamilySearch catalog **`koha:268417`**, `Court records, 1817-1875; court record index, 1817-1932`. It found 130 microfilm reels consisting of:
@@ -239,7 +303,7 @@ This is not parentage evidence, but it strengthens the next search path. The pub
 
 The will closes the immediate "find Michael's will" task. The next probate / estate targets are:
 
-- Find the Lewis County volume or film corresponding to **Order Book 1-A page 45** and read the 4 March 1897 Michael Copley administration / probate entry.
+- Call the Lewis County Clerk first at **304-269-8215**, then send the consolidated request for **Order Book 1-A p. 45**, **Settlement Book 34 p. 176**, and **Probate Record P 4/155**.
 - Treat FamilySearch catalog **koha:268417** as checked negative for bound fiduciary / probate order books; use it only if searching loose-paper court indexes.
 - Treat **Inventory Book 11 / Appraisement Book 11 p. 59** as found at Film 825091 / DGS 7618832, image 60; do not repeat the old images 50-53 target except to verify the image-location correction.
 - Use [[References/Michael Copley Sr Parentage Evidence Audit and Request Packet|Michael Copley Sr Parentage Evidence Audit and Request Packet]] for the ready-to-send courthouse / archive packets and the evidence-capture template.

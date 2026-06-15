@@ -148,7 +148,7 @@ Sincerely,
 
 **Claim tested:** Whether [[People/Michael Copley Sr|Michael Copley Sr.]] left estate records beyond the will that name heirs, sureties, appraisers, land divisions, Bible evidence, or parents.
 
-**Best recipient:** Start with Lewis County Clerk, 110 Center Avenue, Weston, WV 26452. If referred, contact the Lewis County Circuit Clerk.
+**Best recipient:** Start with Lewis County Clerk Rebecca Carder, 110 Center Avenue, Weston, WV 26452; direct phone 304-269-8215; email `lewiscountyclerk@lewiscountywv.org`. Estates are by appointment only, so call before sending the written request. If referred, ask whether WVRHC A&M 0062 or the WV State Archives holds the relevant fiduciary / settlement volumes.
 
 **Control sheet:** See [[References/Michael Copley Sr Parentage Evidence Audit and Request Packet|Michael Copley Sr Parentage Evidence Audit and Request Packet]] for the evidence table, do-not-repeat log, courthouse wording, archive wording, and result-capture template.
 
@@ -159,6 +159,8 @@ Known restricted / indexed probate targets:
 - Appraisement Book 11 p. 59 is found at Film 825091 / DGS 7618832, image 60; it names John Copley Executor but no parentage, spouse, children, Bible, notes, or debts.
 - Settlement Book 34 p. 176 remains a next target for estate details.
 - Order Book 1-A access-map status: not found online; DGS 8614117 is confirmed as County Court Order Book v. 5, not 1-A; `koha:268417` is checked negative for bound probate / fiduciary volumes.
+- Settlement Book 34 p. 176 and Probate Record P 4/155 are also not online or FamilySearch-microfilmed in the checked catalog paths; treat all three remaining probate targets as a single clerk-first request.
+- Verified request-channel status: Lewis County Clerk Rebecca Carder, direct phone 304-269-8215, email `lewiscountyclerk@lewiscountywv.org`; WV Code §59-1-10(d) gives copy-fee baselines, but ask the office for a current quote.
 - County Court Order Book v. 6, Film 825098 / DGS 8614118, image 285 / page 496 is checked and negative for Copley; do not repeat except as verification.
 
 ```text
@@ -171,6 +173,7 @@ Known restricted / indexed probate targets:
 Lewis County Clerk's Office
 110 Center Avenue
 Weston, WV 26452
+lewiscountyclerk@lewiscountywv.org
 
 Re: Probate and estate records request - Michael Copley, died 19 Jan 1897
 
@@ -197,8 +200,8 @@ I would like to request a search for:
 
 1. Order Book 1-A, page 45, for the 4 March 1897 Michael Copley probate / administrator qualification entry.
 2. The record corresponding to the index continuation `P 4/155`, if identifiable as Probate Record P, volume or book 4, page 155, or another local fiduciary / probate series.
-3. A clearer copy of Appraisement Book 11, page 59, only if needed to verify the uncertain total, filing date, or appraisers' names from Film 825091 / DGS 7618832 image 60.
-4. Settlement Book 34, page 176.
+3. Settlement Book 34, page 176.
+4. A clearer copy of Appraisement Book 11, page 59, only if needed to verify the uncertain total, filing date, or appraisers' names from Film 825091 / DGS 7618832 image 60.
 5. Any estate settlement, appraisement, inventory, administrator's bond, sale bill, personal-property account, estate packet, or related probate file for Michael Copley after March 1897.
 6. Any related index entries under Copley, Copeley, Copely, or Coopley.
 
@@ -626,6 +629,8 @@ Sincerely,
 
 **Best recipients:** NARA for the full pension file; county clerks or archives in the relevant Virginia and Illinois counties for marriage, probate, land, and tax records.
 
+**Current Partlow / Rude marriage status:** FamilySearch collection 1803970 and the Illinois statewide index are checked negative / gap-limited for the reported 10 Jun 1900 Clark County marriage. The last FamilySearch Clark County marriage reel, Film 1306062 / DGS 4539347, ends with 1899 records. Do not reassign a generic FamilySearch indexed search unless a new film or collection appears; the live path is the Clark County Clerk / Recorder, Marshall newspapers, and the June 1900 census.
+
 ```text
 [Your Name]
 [Your Mailing Address]
@@ -658,6 +663,7 @@ Could you please advise whether your records include any of the following:
 - Land or tax records connecting Jacob Partlow to Benjamin Partlow
 - Records proving John H. Partlow as son of Jacob Partlow
 - Marriage record for Nollie Franklin / Frank Partlow and Alice Rude / Mary Alice Rude, reportedly 10 June 1900 in Clark County, Illinois
+- If the 1900 Clark County marriage register was lost in the 30 December 1902 courthouse fire, any reconstructed marriage record, loose license file, application, return, affidavit, newspaper notice, or later copy
 
 I am especially interested in records that name spouses, children, heirs, parents, residences, military service, land descriptions, witnesses, or probate relationships.
 

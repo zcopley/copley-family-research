@@ -10,6 +10,17 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4ER - Probate Request Channels and Partlow Marriage Gap (June 15, 2026)
+
+**ACCESS-PATH UPDATE:** Integrated the latest Claude for Chrome reports for [[People/Michael Copley Sr|Michael Copley Sr.]] probate follow-up and the [[RQ-P1-PARTLOW-REVOLUTIONARY-LINE|Partlow Revolutionary Line]]. The Michael probate path now leads with a verified Lewis County Clerk request channel for Order Book 1-A p. 45, Settlement Book 34 p. 176, and Probate Record P 4/155. The Partlow / Rude marriage path is now a bounded online negative: FamilySearch collection 1803970 and the Illinois statewide index do not supply the reported 10 Jun 1900 Clark County marriage, and Clark County FamilySearch marriage films stop with 1899 at Film 1306062 / DGS 4539347.
+
+### Updated Pages
+
+- [[References/Claude for Chrome Michael Copley Sr Probate Estate Search|Claude for Chrome Michael Copley Sr Probate Estate Search]], [[References/Michael Copley Sr Parentage Evidence Audit and Request Packet|Michael Copley Sr Parentage Evidence Audit and Request Packet]], [[Open Record Targets]], [[Volunteer Record Request Tasks]], [[Research Priorities and Action Items]], [[Sources and Evidence Index]], and [[Search Index]] - added the Lewis County Clerk direct phone / email channel, the estate-appointment caveat, the WVRHC A&M 0062 bound-volume-checklist fallback, and the no-online boundary for Order Book 1-A, Settlement Book 34, and Probate Record P.
+- [[References/Clark County Illinois Partlow Rude Marriage Request|Clark County Illinois Partlow Rude Marriage Request]], [[RQ-P1-PARTLOW-REVOLUTIONARY-LINE|RQ-P1 Partlow Revolutionary Line]], [[Open Record Targets]], [[Volunteer Record Request Tasks]], [[Research Priorities and Action Items]], [[Sources and Evidence Index]], and [[Search Index]] - recorded the FamilySearch collection 1803970 negative, the Clark County marriage-film cutoff after 1899, and the current clerk / newspaper / June 1900 census path.
+- `CLAUDE.md`, `GEMINI.md`, and `.agents/AGENT_RESUME.md` - refreshed agent guidance so future work does not repeat the exhausted FamilySearch / generic index searches.
+- Raw source reports preserved at `static/sources/claude-michael-parents/michael-copley-sr-order-book-1a-repository-access-path-claude-output.txt`, `static/sources/claude-michael-parents/michael-copley-sr-settlement34-probate-p-access-path-claude-output.txt`, `static/sources/claude-michael-parents/lewis-county-clerk-michael-copley-probate-request-channel-claude-output.txt`, and `static/sources/claude-partlow/clark-county-partlow-rude-marriage-familysearch-negative-claude-output.txt`.
+
 ## Phase 4EQ - Michael Copley Appraisement Found (June 13, 2026)
 
 **PROBATE EVIDENCE UPDATE:** Integrated the Appraisement Book 11 result for [[People/Michael Copley Sr|Michael Copley Sr.]]. The appraisement is found at Lewis County, West Virginia, Inventories v. 11, Film `825091` / DGS `7618832`, image **60**, manuscript page **59**, ARK `3QS7-99KQ-QHHX`. It names **John Copley Executor** and lists farm personal property, but it does **not** name Michael's parents, spouse, children, Bible, notes, debts, or promissory notes. The prior image-location instruction was corrected: image 50 is not pp. 58-59 for the Copley estate; the Copley page is image 60.

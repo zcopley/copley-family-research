@@ -9,7 +9,7 @@ tags:
 
 # Agent Resume State
 
-Last updated: 2026-06-12
+Last updated: 2026-06-15
 
 ## Current Goal
 
@@ -25,6 +25,18 @@ Maintain the public reader path, evidence-status pages, and master research queu
 - When a historical handoff conflicts with this file, this file wins.
 
 ## What Was Just Completed
+
+- Integrated Zach's June 2026 Lewis County Clerk / Michael Copley probate access-path updates:
+  - preserved raw reports for Order Book 1-A, Settlement Book 34 / Probate Record P, and the verified clerk request channel under `static/sources/claude-michael-parents/`;
+  - recorded that Order Book 1-A p. 45, Settlement Book 34 p. 176, and Probate Record P 4/155 are not online or FamilySearch-cataloged in the checked paths;
+  - updated the live request channel to Lewis County Clerk Rebecca Carder, 110 Center Avenue, Weston, WV 26452, direct phone 304-269-8215, email `lewiscountyclerk@lewiscountywv.org`, with estate matters by appointment only;
+  - made WVRHC A&M 0062's bound-volumes checklist the best secondary inquiry if the Clerk refers the request.
+
+- Integrated Zach's June 2026 FamilySearch search report for the Clark County, Illinois Partlow / Rude marriage:
+  - preserved the raw report at `static/sources/claude-partlow/clark-county-partlow-rude-marriage-familysearch-negative-claude-output.txt`;
+  - recorded that FamilySearch collection 1803970 and the Illinois statewide marriage index are checked negative / gap-limited for the reported 10 Jun 1900 Frank / Nollie Franklin Partlow and Alice / Mary Alice Rude marriage;
+  - recorded that Clark County marriage films end with Film 1306062 / DGS 4539347, Vol. H 1890-1899, with image 660 as the last substantive 1899 page and image 664 as end of roll;
+  - changed the live Partlow task to Clark County Clerk / reconstructed records, Marshall newspapers, and June 1900 census corroboration.
 
 - Integrated Zach's June 2026 Appraisement Book 11 result for Michael Copley Sr.:
   - preserved the raw report at `static/sources/claude-michael-parents/michael-copley-sr-appraisement-book11-page59-claude-output.txt`;

@@ -64,6 +64,12 @@ Tom Copley's May 2026 email archive raises the unresolved possibility that **Joh
 
 **Highest-value proof path:** Lewis County probate, chancery, estate, heirship, and oil-title files after Michael's January 1897 death, especially any filings citing a family Bible. Also build [[People/Bridget Copley Reynolds|Bridget Copley Reynolds]] forward to test whether a Copley family Bible, transcript, or inherited correspondence survives in that line.
 
+Current probate boundary: Michael's Appraisement Book 11 p. 59 is found at Film 825091 / DGS 7618832 image 60 and names John Copley Executor but no parents. Order Book 1-A p. 45, Settlement Book 34 p. 176, and Probate Record P 4/155 are not online / FamilySearch-cataloged in checked paths. Use the Lewis County Clerk first: Rebecca Carder, 110 Center Avenue, Weston, WV 26452, direct phone 304-269-8215, email `lewiscountyclerk@lewiscountywv.org`; estate matters are by appointment only.
+
+**Partlow Revolutionary Line**
+
+The reported 10 Jun 1900 Clark County, Illinois marriage of Frank / Nollie Franklin Partlow and Alice / Mary Alice Rude was not found in FamilySearch collection 1803970 or the Illinois statewide marriage index. Clark County FamilySearch marriage films end with 1899 at Film 1306062 / DGS 4539347. The next path is Clark County Clerk / Recorder, Marshall-area newspapers, and the June 1900 census, not another generic FamilySearch indexed search.
+
 ---
 
 ## Known Pitfalls & "Same-Name" Mismatches

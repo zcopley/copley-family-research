@@ -10,6 +10,8 @@ tags:
 
 # Clark County Illinois Partlow Rude Marriage Request
 
+Raw Claude for Chrome source note: [Clark County Partlow-Rude FamilySearch negative search output](/static/sources/claude-partlow/clark-county-partlow-rude-marriage-familysearch-negative-claude-output.txt).
+
 ## Purpose
 
 Request the historical marriage record for the reported **10 Jun 1900** marriage of **Frank / Nollie Franklin Partlow** and **Alice / Mary Alice Rude** in Clark County, Illinois.
@@ -32,6 +34,18 @@ The Clark County clerk-fees page also lists **genealogy copies, 75 years or olde
 
 Fees page: https://www.clarkcountyil.org/clerk-fees
 
+## Online Search Result
+
+The FamilySearch route is now a bounded negative for this exact target. Logged-in search of **FamilySearch collection 1803970, "Illinois, County Marriages, 1810-1940,"** found no indexed Clark County marriage for the Partlow / Rude variants, and direct browsing of the Clark County marriage films showed why:
+
+- FamilySearch catalog `koha:259330`, "Births, marriages, deaths, 1819-1913," has five Clark County vital-record reels.
+- The last Clark County marriage reel is **Film 1306062 / DGS 4539347**, containing **Vol. G 1881-1890** and **Vol. H 1890-1899**.
+- Image 660 is the last substantive marriage-register page, **Vol. H p. 558**, with 1899 entries only.
+- Image 664 is the end of roll.
+- No Clark County **Vol. I** or other post-1899 marriage film exists in the FamilySearch digital folder index.
+
+The reported **10 Jun 1900** marriage therefore falls just after the surviving / filmed online series. The gap is consistent with the Clark County courthouse fire of **30 Dec 1902**, but the clerk should still be asked about reconstructed records, loose licenses, applications, or returns.
+
 ## Request Text
 
 ```text
@@ -52,17 +66,20 @@ Bride name variants:
 - Mary Alice Rude
 
 Requested record:
-Marriage license, return, register entry, application, or any available citation including volume/page/license number.
+Marriage license, return, register entry, application, reconstructed record, loose license file, or any available citation including volume/page/license number.
+
+I understand that Clark County suffered a courthouse fire on 30 December 1902 and that the FamilySearch Clark County marriage films appear to end with Vol. H in 1899. If the regular 1900 register was lost, I would still appreciate a search for any reconstructed marriage record, license return, application, affidavit, index card, or later copy.
 
 This is for genealogical research. If available, an uncertified genealogical copy is sufficient. Please let me know the fee, payment method, and whether the record includes any parent names, ages, residences, birthplaces, officiant, witnesses, or license/register citation.
 ```
 
 ## Search Notes
 
-- The Illinois Statewide Marriage Index is the right index for this record because it covers pre-1901 Illinois marriages and can cite original county volume/page or license details.
-- The Illinois Statewide Marriage Index search page requires JavaScript and did not return a usable direct command-line result.
+- The Illinois Statewide Marriage Index was checked separately and does not contain the target; Clark County coverage in that index appears to stop before the 10 Jun 1900 event.
+- FamilySearch collection 1803970 was searched and browsed; the Clark County marriage images stop with 1899.
 - Illinois Department of Public Health says certified marriage copies are available only from the county clerk in the county where the marriage occurred.
 - Search variants should include **Frank**, **Nollie**, **N. F.**, and **Franklin** for the groom, and **Alice Rude** / **Mary Alice Rude** for the bride.
+- If the clerk is negative, next search Marshall-area newspapers for the week around 10 Jun 1900 and the 1900 federal census for Frank / Nollie Partlow and the Rude family.
 
 ## Sources
 
@@ -70,3 +87,4 @@ This is for genealogical research. If available, an uncertified genealogical cop
 2. Clark County, Illinois clerk-fees page: https://www.clarkcountyil.org/clerk-fees
 3. Illinois Statewide Marriage Index 1763-1900: https://www.ilsos.gov/departments/archives/databases/marriage.html
 4. Illinois Department of Public Health, Marriage Records: https://dph.illinois.gov/topics-services/birth-death-other-records/marriage-records.html
+5. FamilySearch, "Illinois, County Marriages, 1810-1940," collection 1803970; Clark County Clerk, "Births, marriages, deaths, 1819-1913," catalog `koha:259330`; final marriage film Film 1306062 / DGS 4539347.
