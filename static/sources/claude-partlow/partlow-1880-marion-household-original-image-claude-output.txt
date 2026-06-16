@@ -1,0 +1,62 @@
+1880 U.S. Census — Marion McDonald Partlow Household: Complete Report
+
+Record URLs and ARKs
+
+- Marion Partlow (head), indexed record: https://www.familysearch.org/ark:/61903/1:1:MXNZ-S2M
+- Nollie Frank Partlow (son), indexed record: https://www.familysearch.org/ark:/61903/1:1:MXNZ-32S
+- Original image, image 425 of 834: https://www.familysearch.org/ark:/61903/3:1:33S7-9YB4-VPC
+- Image viewer linked to Marion entry: https://www.familysearch.org/ark:/61903/3:1:33S7-9YB4-VPC?view=index&personArk=%2Fark%3A%2F61903%2F1%3A1%3AMXNZ-S2M&cc=1417683&lang=en
+
+Full Census Citation
+
+"United States, Census, 1880," FamilySearch, entry for Marion Partlow and Marth Partlow, 1880.
+
+- NARA film: T9, Tenth Census of the United States, 1880, Volume 2
+- Enumeration district: ED 37
+- Township / county / state: Johnson Township, Clark County, Illinois
+- Sheet / side: Sheet 87, Side B, stamped page 87 back
+- Page number on image: 22
+- Image number in film: 425 of 834
+- Date enumerated: 11 Jun 1880
+- Collection: "United States, Census, 1880," FamilySearch Collection ID 1417683
+- FamilySearch catalog title: Illinois. Census Record Indexes 1880
+
+Household Transcript
+
+The image header reads: "SCHEDULE 1—Inhabitants in Johnson Township in the County of Clark, State of Illinois, enumerated by me on the 11 day of June, 1880."
+
+Dwelling / Family: 205 / 205
+
+| Line | Name as written | Race | Sex | Age | Relationship | Occupation | Birthplace | Father's birthplace | Mother's birthplace |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 | Partlow, Marion | W | M | 32 | Self | Farmer | Illinois | Ohio | Ohio |
+| 2 | Marth | W | F | 30 | Wife | Keeping House | Indiana | Ohio | Ohio |
+| 3 | Nollie Frank | W | M | 6 | Son | — | Illinois | — | — |
+| 4 | Henry | W | M | 4 | Son | — | Illinois | — | — |
+| 5 | Ora Dell | W | F | 1 | Daughter | — | Illinois | — | — |
+| 6 | Newton | W | M | 28 | Brother | Carpenter | Illinois | Ohio | Ohio |
+| 7 | John H. | W | M | 13 | Half Brother | Farmer | Illinois | — | Illinois |
+| 8 | Richard L. | W | M | 12 | Half Brother | Farmer | Illinois | — | Illinois |
+
+Immediately following household:
+
+- Henderson, J. H., white male, age 59, farmer, born Ohio, father Ireland, mother Maryland, with wife Reba and children.
+
+Spelling of Frank / Nollie Frank
+
+- As written in the original image: Nollie Frank.
+- As indexed by FamilySearch: Nollie Frank Partlow.
+- Nollie Frank's indexed entry is ARK 1:1:MXNZ-32S and is attached to FamilySearch Tree person K23C-KWG, Nollie Franklin Partlow, 1874-1956.
+- Marion's entry is attached to FamilySearch Tree person K26G-LQ5, Marion McDonald Partlow.
+
+Conclusion
+
+The original 1880 census image conclusively supports Nollie / Frank Partlow -> Marion McDonald Partlow. Marion Partlow, age 32, farmer, is head of household. His son Nollie Frank, age 6, born Illinois, is listed directly in the household with wife Marth / Martha and children Henry and Ora Dell. This matches known facts for Nollie Franklin "Frank" Partlow: born about 1874 in Illinois, son of Marion Partlow and Martha L. Bowles Partlow.
+
+Neighboring Partlow Households
+
+On the same page, Newton Partlow, John H. Partlow, and Richard L. Partlow are within Marion's household, not separate households. No separate Columbus Partlow household appears on the same image.
+
+Citation Template
+
+1880 U.S. Census, Clark County, Illinois, Johnson Township, ED 37, Sheet 87B, p. 22, dwelling 205, family 205, Marion Partlow household; NARA microfilm T9; digital image, FamilySearch, Marion Partlow indexed record ark:/61903/1:1:MXNZ-S2M and original image ark:/61903/3:1:33S7-9YB4-VPC, image 425 of 834. Household includes Marion Partlow, Marth / Martha Partlow, Nollie Frank Partlow, Henry Partlow, Ora Dell Partlow, Newton Partlow, John H. Partlow, and Richard L. Partlow.
