@@ -16,7 +16,10 @@ Extract the exact census citation trail from the New England Ball Project pages 
 
 This does not replace original census images, but it gives the page, ED, sheet, and stamped-page targets needed to find the originals efficiently.
 
-Related found-record note: [[References/Clark County Illinois 1900 Partlow Rude Census Check]] now confirms the 1900 Johnson Township target for **Frank N Partlow** and separately locates **Mary A Rude** nearby in the same enumeration district.
+Related found-record notes:
+
+- [[References/1880 Marion McDonald Partlow Household]] now confirms the 1880 Johnson Township original-image target for **Marion Partlow** and son **Nollie Frank**.
+- [[References/Clark County Illinois 1900 Partlow Rude Census Check]] confirms the 1900 Johnson Township target for **Frank N Partlow** and separately locates **Mary A Rude** nearby in the same enumeration district.
 
 ## John Halleck Partlow and Lydia Bennett
 
@@ -42,14 +45,14 @@ The New England Ball Project identifies **Marion McDonald Partlow** as a son of 
 |---|---:|---|---|---|
 | 1850 | 20 Oct 1850 | Johnson, Clark County, Illinois | "Momon", age 2, born Illinois, with parents | 1850 U.S. Census, Johnson, Clark Co., IL, p. 550, back of stamped p. 275 |
 | 1860 | 19 Jun 1860 | Johnson, Clark County, Illinois | "Marion M.", age 16, born Illinois, with parents | 1860 U.S. Census, Johnson, Clark Co., IL, p. 65 |
-| 1880 | 17 Jun 1880 | Johnson, Clark County, Illinois | "Marion", age 32, born Illinois, farmer; wife Martha; children Frank, Henry, and Ora; brother Columbus; half-brothers John and Richard | 1880 U.S. Census, Johnson, Clark Co., IL, ED 37, p. 22, back of stamped p. 87 |
+| 1880 | 11 Jun 1880 | Johnson, Clark County, Illinois | Original image reads `Marion`, age 32, farmer; wife `Marth`; son `Nollie Frank`, age 6; Henry; Ora Dell; brother Newton; half-brothers John H. and Richard L. | 1880 U.S. Census, Johnson, Clark Co., IL, ED 37, Sheet 87B, p. 22, dwelling/family 205; FamilySearch `MXNZ-S2M`, `MXNZ-32S`, image `33S7-9YB4-VPC` |
 | 1900 | 7 Jun 1900 | Johnson, Clark County, Illinois | "Marion", age 53, born Illinois, widower, farmer; sons Frank and Henry; living with brother Columbus | 1900 U.S. Census, Johnson, Clark Co., IL, ED 8, Sheet 7A, stamped p. 85 |
 | 1910 | 21 Apr 1910 | Johnson, Clark County, Illinois | "Marion", age 66, born Illinois; second wife Julia; son Henry | 1910 U.S. Census, Johnson, Clark Co., IL, ED 10, Sheet 8A, stamped p. 100 |
 | 1920 | 19 Jan 1920 | Casey, Clark County, Illinois | "Marion", age 73, born Illinois, widower, farmer; son Henry and family | 1920 U.S. Census, Casey, Clark Co., IL, ED 3, Sheet 7A, stamped p. 36 |
 
 Research value:
 
-- The 1880 and 1900 citations support **Frank Partlow -> Marion McDonald Partlow**.
+- The 1880 original image and 1900 citation support **Frank / Nollie Frank Partlow -> Marion McDonald Partlow**.
 - The 1850 and 1860 citations support **Marion McDonald Partlow -> John Halleck Partlow / Lydia Bennett**.
 - The 1910 and 1920 entries may help distinguish Marion's later household and should be captured, but they do not by themselves prove Zach's direct descent through Frank/Nollie.
 
@@ -71,15 +74,15 @@ Research value:
 
 - These roll numbers pair with the New England Ball Project page/sheet targets above.
 - If using FamilySearch, Ancestry, HeritageQuest, Internet Archive, NARA, or a library microfilm catalog, search by the roll number first, then navigate to the township/ED/page target.
-- The 1880 and 1900 rolls are the highest priority for proving **Frank Partlow -> Marion McDonald Partlow**.
-- The 1900 Frank N Partlow target has now been found in FamilySearch as ED 8, sheet 7A, line 5, image 174 of 514, digital film `004113698`; use the found-record note above before reassigning that task.
+- The 1880 target has now been found in FamilySearch as ED 37, Sheet 87B, p. 22, dwelling/family 205, image 425 of 834, with Nollie Frank directly listed as son of Marion Partlow.
+- The 1900 Frank N Partlow target has now been found in FamilySearch as ED 8, sheet 7A, line 5, image 174 of 514, digital film `004113698`; use the found-record notes above before reassigning either task.
 - The 1850 and 1860 rolls are the highest priority for proving **Marion McDonald Partlow -> John Halleck Partlow / Lydia Bennett**.
 
 ## Remaining Cautions
 
 - The New England Ball Project is a derivative compiled source. Use it as a map to original records, not as final proof.
 - The John -> Jacob relationship depends on a now-difficult RootsWeb database citation, **Glenna Inglis, "New American Stew"**, not on a census household relationship.
-- The 1900 census confirms Frank N Partlow and Mary A Rude were both single in Johnson Township on the 1 Jun 1900 census reference date, but the Frank/Nollie identity problem remains unresolved until a marriage, death, obituary, cemetery, or later household record connects the name variants.
+- The 1900 census confirms Frank N Partlow and Mary A Rude were both single in Johnson Township on the 1 Jun 1900 census reference date. The later [[References/Partlow Rude Online Identity Chain]] resolves the Frank / Nollie and Alice / Mary Alice identity problem for project purposes.
 
 ## Sources
 
@@ -88,3 +91,4 @@ Research value:
 3. New England Ball Project, "Marion McDonald Partlow," person page 3461: https://www.newenglandballproject.com/g3/p3461.htm
 4. USGenWeb Census Project, "Illinois - The USGenWeb Census Project," Clark County roll index: https://www.us-census.org/states/illinois/c-il.htm
 5. [[References/Clark County Illinois 1900 Partlow Rude Census Check]].
+6. [[References/1880 Marion McDonald Partlow Household]].
