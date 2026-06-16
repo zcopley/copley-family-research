@@ -48,9 +48,9 @@ Tom remembered her as central to the household and to the social side of Michael
 
 The Partlow family immigrated from **Wales** to Virginia before the Revolutionary War, then moved west to Indiana, then Illinois. They owned a large farm near **Casey, Illinois**. A Revolutionary War ancestor, **[[Benjamin Partlow]]**, served in the Virginia militia under Capt. Coxen and Capt. Rogers, guarding British prisoners at the Albemarle Barracks (Culpeper County, VA).
 
-- **Father:** Nollie Franklin / Frank Partlow (b. 8 Oct 1874, Johnson Township, Clark County, IL; d. 21 Nov 1956, Terre Haute, IN; buried Oak Point, Clark County, IL) — per Ancestry.com tree and local handwritten lineage; unverified by original records
-- **Mother:** Mary Alice / Alice Rude Partlow (b. 11 Oct 1880; d. 20 Jan 1962; buried Oak Point, Clark County, IL) — Ancestry.com tree gives Mary Alice Partlow; local handwritten lineage identifies her as Alice Rude Partlow; unverified by original records
-- **Paternal grandparents:** Marion M. Partlow and Martha L. Bowles — per Ancestry tree screenshot, unverified
+- **Father:** Nollie Franklin / Frank Partlow (b. 8 Oct 1874, Johnson Township, Clark County, IL; d. 21 Nov 1956, Terre Haute, IN; buried Oak Point, Clark County, IL) — Marion's father is proved by the 1920 / 1930 census chain and the June 2026 web identity-chain pass linking Frank N. / Frank to Nollie Franklin Partlow
+- **Mother:** Mary Alice / Alice Rude Partlow (b. 11 Oct 1880; d. 20 Jan 1962; buried Oak Point, Clark County, IL) — Alice / Mary Alice Rude identity is proved by convergent records, especially Ray Partlow's 1934 Indiana marriage record naming mother **Alice Rude**
+- **Paternal grandparents:** Marion M. Partlow and Martha L. Bowles — supported by the 1880 census / online Partlow source chain; original image capture still needed for source quality
 - **Maternal grandparents:** John Armstrong Rude and Mary Ellen J. Wade — per Ancestry tree screenshot, unverified
 - **Brothers:** Harry Partlow, Raymond Partlow, Lester ("Leck") Partlow
 - **Sisters:** Laura Partlow, Doris Partlow, Genevieve ("Gen") Partlow
@@ -59,7 +59,7 @@ The Partlow image set includes an Ancestry tree screenshot, refined by later onl
 
 **Marion Elizabeth Partlow** -> **Nollie Franklin / Frank Partlow** -> **Marion McDonald / M. Partlow** -> **John H. / John Halleck / Hallick Partlow** (1811/1812-1870?) and **Lydia Bennett** -> **Jacob Partlow / Jacob Newton Partlow** -> **Benjamin W. Partlow** (1762-1837?) -> earlier Virginia Partlows.
 
-The **Frank Partlow -> Marion McDonald Partlow** link is now supported by online citations to the 1880 and 1900 Johnson Township, Clark County, Illinois census entries. The **Marion McDonald Partlow -> John Halleck Partlow** link is supported by online citations to the 1850 and 1860 Johnson Township census entries. The unresolved issue is proving that Frank Partlow is the same person as **Nollie Franklin Partlow**. The 1977 handwritten lineage supports the full chain but remains family manuscript evidence until confirmed with census, probate, land, cemetery, and vital records. See [[RQ-P1-PARTLOW-REVOLUTIONARY-LINE|RQ-P1 Partlow Revolutionary Line]] and [[References/Harry C Partlow 1960 Letter and Handwritten Lineage]].
+The **Marion Elizabeth -> Frank / Nollie Franklin Partlow + Alice / Mary Alice Rude** identity chain is now proved for project purposes by web-accessible census, marriage, obituary, cemetery, and FamilySearch-linked records. The **Frank Partlow -> Marion McDonald Partlow** link is supported by online citations to the 1880 and 1900 Johnson Township, Clark County, Illinois census entries, and the **Marion McDonald Partlow -> John Halleck Partlow** link is supported by online citations to the 1850 and 1860 Johnson Township census entries. The remaining unresolved Partlow problem is upstream: proving **John H. Partlow -> Jacob Partlow** and **Jacob Partlow -> Benjamin Partlow** with original or strong derivative sources. The 1977 handwritten lineage supports the full chain but remains family manuscript evidence until confirmed with census, probate, land, cemetery, and vital records. See [[RQ-P1-PARTLOW-REVOLUTIONARY-LINE|RQ-P1 Partlow Revolutionary Line]], [[References/Partlow Rude Online Identity Chain]], and [[References/Harry C Partlow 1960 Letter and Handwritten Lineage]].
 
 ## Family Relationships
 
@@ -73,6 +73,7 @@ The **Frank Partlow -> Marion McDonald Partlow** link is now supported by online
 - Thomas Partlow Copley's middle name "Partlow" honors her maiden name.
 - Stephen's memoir material remembers Marion as the parent most visibly tied to gardening, music lessons, and the maintenance of extended Illinois family ties.
 - After Michael's retirement in 1968, Tom's family moved back to Berkeley to help care for their parents after Marion's death.
+- Find a Grave memorial `98397425` reportedly lists Marion's burial at Partlow Cemetery, Oak Point, Clark County, Illinois. This conflicts with the family-confirmed Sunset View Cemetery, El Cerrito, California burial used on this page, so the memorial's burial location should be treated as derivative conflicting data pending direct cemetery verification.
 - The photo on this page is identified by Tom Copley as a likely LaForce Christmas party snapshot, probably 1967-1968, showing Marion, [[People/Marian Agnes Hewetson|Marian Agnes Hewetson]] seated between Marion and [[Michael Joseph Copley]], and Michael partly visible. Marian Agnes Hewetson was [[Barbara Dee LaForce|Dee LaForce]]'s grandmother, known as "Grammy," and should not be confused with Marion Elizabeth Partlow; Tom noted that Marian used an `a` while Marion used an `o`. The exact event date and location should still be treated as family-photo identifications.
 
 ## Sources
@@ -83,3 +84,4 @@ The **Frank Partlow -> Marion McDonald Partlow** link is now supported by online
 4. [[RQ-P1-PARTLOW-REVOLUTIONARY-LINE]] — current online research log for the Partlow Revolutionary line.
 5. [[References/Harry C Partlow 1960 Letter and Handwritten Lineage]] — local family manuscript naming Marion E. Partlow Copley among the children of Frank and Alice Rude Partlow.
 6. [[References/Tom and Steve Copley June 2026 House and Origin Thread]] — sanitized June 2026 source note preserving the house-and-Marion PDF, Marion photo identification, and source cautions.
+7. [[References/Partlow Rude Online Identity Chain]] — web-only identity-chain report proving Frank / Nollie Franklin Partlow, Alice / Mary Alice Rude Partlow, and Marion Elizabeth Partlow's parentage through census, Indiana marriage, obituary, Find a Grave, and FamilySearch-linked records.

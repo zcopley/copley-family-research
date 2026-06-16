@@ -55,6 +55,8 @@ Email: `jpoorman@marshallplib.com`
 
 The library reports a Clark County Genealogy & Historical Collection with 300+ county-record volumes and former Clark County Genealogical Society publications. The key compiled title to ask about is **Extract of marriages from Clark County, 1819-1900**, especially **volume 3, 1881-1900**. The publication appears in the FamilySearch catalog as `koha:279795` but is not digitized online; FamilySearch Library holds v. 3 at call no. `977.371 V25c` and microfilm 1036682 / DGS 7955859.
 
+Status: the Marshall Public Library email request is drafted below, but it has **not yet been sent**.
+
 ## Online Search Result
 
 The FamilySearch route is now a bounded negative for this exact target. Logged-in search of **FamilySearch collection 1803970, "Illinois, County Marriages, 1810-1940,"** found no indexed Clark County marriage for the Partlow / Rude variants, and direct browsing of the Clark County marriage films showed why:

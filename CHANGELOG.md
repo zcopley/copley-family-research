@@ -10,6 +10,18 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4ES - Partlow Web Identity Chain Proven (June 16, 2026)
+
+**PARTLOW IDENTITY UPDATE:** Integrated the web-only identity-chain report for [[People/Marion Elizabeth Partlow|Marion Elizabeth Partlow]], **Frank / Nollie Franklin Partlow**, and **Alice / Mary Alice Rude Partlow**. The Marion -> Frank / Nollie + Alice / Mary Alice section is now proved for project purposes through 1900-1950 census records, Ray Partlow's 1934 Indiana marriage record naming parents **Frank Partlow** and **Alice Rude**, Find a Grave / obituary evidence, and FamilySearch-linked source clustering. The Clark County marriage return remains unlocated online, but it is now an optional ceremony-detail target rather than the identity-control target.
+
+**WEB-FIRST NEXT STEPS:** Updated the active [[RQ-P1-PARTLOW-REVOLUTIONARY-LINE|Partlow Revolutionary Line]] path to focus upstream: original 1880 / 1850 / 1860 census images, *The Partlow family and connections*, DAR GRS / pension / probate / land evidence for Benjamin and Jacob, and the original Spotsylvania Will Book A p. 975 image. The remaining proof gaps are **John H. Partlow -> Jacob Partlow** and **Jacob Partlow -> Benjamin Partlow**.
+
+### Updated Pages
+
+- [[References/Partlow Rude Online Identity Chain|Partlow Rude Online Identity Chain]] - added the new source note and preserved the raw report at `static/sources/claude-partlow/partlow-rude-online-identity-chain-claude-output.txt`.
+- [[RQ-P1-PARTLOW-REVOLUTIONARY-LINE|RQ-P1 Partlow Revolutionary Line]], [[People/Marion Elizabeth Partlow|Marion Elizabeth Partlow]], [[Open Record Targets]], [[Research Priorities and Action Items]], [[Sources and Evidence Index]], [[Source to Claim Matrix]], and [[Search Index]] - changed the Partlow status from a Frank / Nollie identity gap to a proved middle-generation chain with upstream Jacob / Benjamin gaps.
+- `CLAUDE.md`, `GEMINI.md`, and `.agents/AGENT_RESUME.md` - refreshed agent guidance so future web tasks do not repeat the completed generic FamilySearch / census / Ancestry / newspaper / Clerk-library identity paths.
+
 ## Phase 4ER - Probate Request Channels and Partlow Marriage Gap (June 15, 2026)
 
 **ACCESS-PATH UPDATE:** Integrated the latest Claude for Chrome reports for [[People/Michael Copley Sr|Michael Copley Sr.]] probate follow-up and the [[RQ-P1-PARTLOW-REVOLUTIONARY-LINE|Partlow Revolutionary Line]]. The Michael probate path now leads with a verified Lewis County Clerk request channel for Order Book 1-A p. 45, Settlement Book 34 p. 176, and Probate Record P 4/155. The Partlow / Rude marriage path is now a bounded online negative: FamilySearch collection 1803970 and the Illinois statewide index do not supply the reported 10 Jun 1900 Clark County marriage, and Clark County FamilySearch marriage films stop with 1899 at Film 1306062 / DGS 4539347.

@@ -16,16 +16,16 @@ tags:
 
 This page tracks the proof chain from [[People/Marion Elizabeth Partlow|Marion Elizabeth Partlow]] back to [[People/Benjamin Partlow|Benjamin Partlow]], the Revolutionary War pensioner in Culpeper County, Virginia.
 
-**Current status:** A plausible line is identified. Online sources support the middle Clark County, Illinois generation, and a local 1977 handwritten family lineage now supports the full proposed chain from Marion Elizabeth Partlow back to Benjamin Partlow. The chain is still not proved generation-by-generation with original records.
+**Current status:** A plausible line is identified. The Marion Elizabeth -> Frank / Nollie Franklin Partlow + Alice / Mary Alice Rude section is now proved for project purposes by web-accessible census, marriage, obituary, cemetery, and FamilySearch-linked records. A local 1977 handwritten family lineage supports the full proposed chain from Marion Elizabeth Partlow back to Benjamin Partlow, but the upstream chain is still not proved generation-by-generation with original records.
 
 ## Dashboard Snapshot
 
 | Question | Current answer |
 |---|---|
 | Is Benjamin Partlow's Revolutionary service supported? | Yes, by pension-cover / DAR-style leads, but the full pension file is still needed. |
-| Is the Marion Elizabeth Partlow -> Benjamin Partlow chain proved? | No. It is plausible and family-source supported, but original records are still needed generation by generation. |
-| Best immediate proof target | Original Clark County marriage license / return / register entry for Frank Partlow and Alice Rude. The newspaper license notice is now found and strongly supports the reported date. |
-| Critical middle gap | Prove Frank / Nollie identity and then prove Jacob Partlow -> Benjamin Partlow. |
+| Is the Marion Elizabeth Partlow -> Benjamin Partlow chain proved? | Partly. Marion -> Frank / Nollie + Alice is now proved; the upstream John H. -> Jacob and Jacob -> Benjamin links remain unproved. |
+| Best immediate web proof target | Capture original census images for 1880 / 1850 / 1860, search online Partlow compiled books, search DAR GRS / pension / probate / land paths for Benjamin and Jacob, and verify the Spotsylvania Will Book A p. 975 abstract. |
+| Critical middle gap | Prove John H. / Halleck Partlow -> Jacob Partlow, then Jacob Partlow -> Benjamin Partlow. |
 | Master queue | See [[Open Record Targets]] IDs ORT-007 through ORT-012. |
 
 ## Research Question
@@ -45,8 +45,8 @@ graph TD
     JP["Jacob Partlow / Jacob Newton Partlow<br/>1790-1868"]
     BP["Benjamin Partlow<br/>1762-1837?<br/>Virginia militia pensioner"]
 
-    ME -->|"family notes + 1977 lineage; needs original record"| NF
-    NF -->|"1880/1900 census citations for Frank; Nollie identity still needs proof"| MM
+    ME -->|"1920/1930 census + web identity chain; proved"| NF
+    NF -->|"1880 census + later identity chain; capture original image"| MM
     MM -->|"1850/1860 census lead + 1977 lineage"| JH
     JH -->|"1977 lineage + derivative online lead"| JP
     JP -->|"1977 lineage + Ancestry lead; critical proof gap"| BP
@@ -64,8 +64,8 @@ graph TD
 
 | Link | Current Evidence | Status | Next Action |
 |---|---|---|---|
-| Marion Elizabeth Partlow -> Nollie Franklin / Frank Partlow | Family notes, Ancestry tree screenshot, and 1977 handwritten lineage identify Marion E. Partlow Copley as a child of Frank/Alice Rude Partlow. | Strong family-source lead; needs original record. | Locate Marion's birth, marriage, death, or obituary record naming parents. |
-| Nollie Franklin / Frank Partlow -> Marion McDonald / M. Partlow | New England Ball Project's Marion McDonald Partlow page cites 1880 Johnson Township census with Marion, wife Martha, and children **Frank, Henry, and Ora**; it also cites 1900 Johnson Township census with widower Marion and sons **Frank and Henry**. The 1977 handwritten lineage also places Frank under Marion M. Partlow. The 1900 census image target now independently places **Frank N Partlow** in Johnson Township, ED 8, as a single nephew in or adjacent to the Columbus Partlow household. A 14 Jun 1900 *Clark County Herald* notice reports a marriage license issued 8 Jun 1900 to **Frank Partlow**, age 25, of Moonshine, and **Alice Rude**, age 19. | Frank -> Marion M. is census-supported online. The license notice proves Frank Partlow and Alice Rude obtained a Clark County marriage license, strongly supporting the reported 10 Jun 1900 marriage and the bride's Alice Rude name form. Still need original license / return or later records to tie Frank N. explicitly to Nollie Franklin. | Request the original Clark County marriage license / return / register entry if it survives, then use death, obituary, cemetery, and later household records to tie Frank, Nollie Franklin, and Alice Rude together. |
+| Marion Elizabeth Partlow -> Nollie Franklin / Frank Partlow + Alice / Mary Alice Rude | The 1920 census lists `Marian E Parttow` in the Nollie / Mary A Partlow household; the 1930 census lists `Marion Partlow` as daughter of Frank and Allee / Alice Partlow. The 1934 Indiana marriage record for Ray Partlow names parents Frank Partlow and Alice Rude. See [[References/Partlow Rude Online Identity Chain]]. | **Proven by near-original records and convergent web evidence.** | Keep the Clark County marriage return as an optional ceremony-detail target, not the identity-control target. |
+| Nollie Franklin / Frank Partlow -> Marion McDonald / M. Partlow | New England Ball Project's Marion McDonald Partlow page cites 1880 Johnson Township census with Marion, wife Martha, and children **Frank, Henry, and Ora**; it also cites 1900 Johnson Township census with widower Marion and sons **Frank and Henry**. The 1977 handwritten lineage also places Frank under Marion M. Partlow. The 1900 census independently places **Frank N Partlow** in Johnson Township, ED 8, as a single nephew in or adjacent to the Columbus Partlow household. The online identity-chain pass now ties Frank N / Frank to Nollie Franklin and Alice / Mary Alice across 1900-1956. | Frank / Nollie identity is now proved; Frank -> Marion M. is census-supported online, but the original 1880 census image should still be captured for source quality. | Capture the original 1880 Johnson Township census image for Marion McDonald Partlow and Nollie Frank / Frank. |
 | Marion McDonald / M. Partlow -> John H. / Halleck / Hallick Partlow | New England Ball Project cites 1850 and 1860 U.S. census entries for Johnson Township, Clark County, Illinois, showing John H. Partlow with wife Lydia and children including Marion; the Marion McDonald Partlow page repeats that Marion was son of John Halleck Partlow and Lydia Bennett. | Census-supported online lead plus family-source support; original images still need review. | Open original census images at FamilySearch/Ancestry and capture household details. |
 | John H. / Halleck / Hallick Partlow -> Jacob Partlow | 1977 handwritten lineage names Jacob Partlow as father of John H.; New England Ball Project also states John was son of Jacob Partlow and Mary, citing a RootsWeb-era database. | Family-source and derivative online lead; not yet original-record proof. | Find Jacob probate, land, cemetery, or compiled-genealogy support. |
 | Jacob Partlow / Jacob Newton Partlow -> Benjamin Partlow | 1977 handwritten lineage and Ancestry screenshot place Jacob as son of Benjamin Partlow. | Strong family-source lead; critical proof problem remains. | Search *The Partlow family and connections*, probate, tax, and land records. |
@@ -106,7 +106,7 @@ The New England Ball Project page for **Marion McDonald Partlow** materially imp
 - 1910 census: Johnson Township, Clark County, Illinois; Marion with second wife Julia and son Henry; cited target **ED 10, Sheet 8A, stamped p. 100**.
 - 1920 census: Casey, Clark County, Illinois; Marion as a widower with son Henry and family; cited target **ED 3, Sheet 7A, stamped p. 36**.
 
-This makes the **Frank Partlow -> Marion M. Partlow** link independently supported by online census citations. The unresolved issue is whether **Frank Partlow** in those records is the same person as **Nollie Franklin Partlow** in the Ancestry/family-tree lead and Zach's family line.
+This makes the **Frank Partlow -> Marion M. Partlow** link independently supported by online census citations. The later online identity-chain pass now resolves the earlier question of whether **Frank Partlow** is the same person as **Nollie Franklin Partlow** in Zach's family line; the original 1880 census image is still worth capturing for citation quality.
 
 See [[References/New England Ball Project Partlow Census Citation Extract]] for the consolidated census-target table.
 
@@ -127,22 +127,26 @@ Geneanet also has catalog pages for both volumes, which may be a second route to
 
 The Old Spanish Trail Chapter NSDAR page lists **Benjamin Partlow VA** among chapter members' patriot ancestors. That does not identify Zach's line, but it suggests at least one DAR application has been accepted through Benjamin Partlow and should be checked in the official DAR Genealogical Research System.
 
-## Immediate Online Search Pass: Frank / Nollie Partlow and Alice Rude
+## Online Identity Chain: Frank / Nollie Partlow and Alice Rude
 
-The closest unresolved problem is still the identity link **Frank Partlow = Nollie Franklin Partlow** and spouse link **Alice Rude = Mary Alice Rude/Partlow**. A public-web search pass on 28 Apr 2026 found no clean public obituary, cemetery page, or transcribed record that proves the name variants.
+The earlier identity problem **Frank Partlow = Nollie Franklin Partlow** and **Alice Rude = Mary Alice Rude/Partlow** is now resolved for project purposes. See [[References/Partlow Rude Online Identity Chain]] and the raw report at [Partlow-Rude online identity-chain output](/static/sources/claude-partlow/partlow-rude-online-identity-chain-claude-output.txt).
 
-What this search and later follow-up established:
+What the web chain establishes:
 
+- **Frank / Nollie identity:** the chain runs through `Frank N Partlow` in 1900; `Frank Partlow` in 1910, 1930, 1940, and 1950; FamilySearch PID `K23C-KWG`; and Find a Grave memorial `45403346` for **Nollie Franklin "Frank" Partlow**, whose obituary calls him Frank and names wife Alice.
+- **Alice / Mary Alice identity:** the chain runs through `Mary A Rude` in the 1900 census, `Alice Rude` in the 8 Jun 1900 license notice, `Alice Partlow` in 1910 / 1940 / 1950, `Mary A Parttow` in 1920, `Allee` / Alice Partlow in 1930, and the 1934 Indiana marriage record for Ray Partlow naming his mother **Alice Rude**.
+- **Marion parentage:** 1920 and 1930 census records place Marion / Marian E in the Frank / Nollie and Alice / Mary A household as their daughter.
+- The 1934 Indiana marriage record for Ray Partlow, FamilySearch ARK `27KF-ZB6`, is the strongest direct government-record bridge for the maiden name because it names Ray's parents as **Frank Partlow** and **Alice Rude**.
 - The official Illinois Statewide Marriage Index was checked and is gap-limited for this event because Clark County coverage ends in June 1899.
 - FamilySearch collection 1803970 was checked and is also gap-limited because the last Clark County marriage film ends with 1899 records.
-- Illinois Department of Public Health says certified marriage copies are available only from the county clerk in the county where the marriage occurred; for a 1900 Clark County marriage, the practical target is the Clark County Clerk/Recorder in Marshall, Illinois.
-- Clark County's current clerk page says certified marriage-license copies may be ordered online or from the office. For this line, request/search wording should include: **Frank Partlow**, **Nollie Franklin Partlow**, **N. F. Partlow**, **Alice Rude**, **Mary Alice Rude**, the newspaper license date **8 Jun 1900**, and the reported family marriage date **10 Jun 1900**.
+- Illinois Department of Public Health says certified marriage copies are available only from the county clerk in the county where the marriage occurred; for a 1900 Clark County marriage, the practical target remains the Clark County Clerk/Recorder in Marshall, Illinois if exact ceremony details are needed.
+- Clark County's current clerk page says certified marriage-license copies may be ordered online or from the office. For that optional ceremony-return search, request/search wording should include: **Frank Partlow**, **Nollie Franklin Partlow**, **N. F. Partlow**, **Alice Rude**, **Mary Alice Rude**, the newspaper license date **8 Jun 1900**, and the reported family marriage date **10 Jun 1900**.
 - A later county-record access-path pass found no online original, reconstructed, or derivative county record. It identified active offline contacts: Clark County Clerk / Recorder Laura H. Lee for any surviving county license / return / register / genealogy certificate; Marshall Public Library for the Clark County Genealogical Society `Extract of marriages from Clark County, 1819-1900`, especially v. 3, 1881-1900; and FamilySearch Library as a fallback because it holds v. 3 at call no. `977.371 V25c` plus microfilm 1036682 / DGS 7955859.
 - A ready-to-send request note has been created at [[References/Clark County Illinois Partlow Rude Marriage Request]].
 - The Clark County Genealogy Trails death index page for N/O/P/Q/R/S surnames includes several Partlow deaths from 1916-1947, but it does not solve Frank/Alice because the family-source dates put Frank's death in **1956** and Alice's in **1962**, outside that transcribed index window.
 - The 14 Jun 1900 *Clark County Herald* now supplies the key local notice: a license issued under **8 Jun 1900** to **Frank Partlow**, age 25, Moonshine, and **Alice Rude**, age 19.
 
-This still does not by itself prove the Frank/Nollie identity, but it narrows the next high-value action: obtain the original or reconstructed Clark County license / return / register entry behind the 8 Jun 1900 notice and pair it with later records that name Frank N. / Nollie Franklin and Alice / Mary Alice together.
+The marriage return remains useful for exact ceremony details, but it is no longer the controlling identity proof. The web-accessible record chain now supports moving the main Partlow proof work upstream to **John H. -> Jacob** and **Jacob -> Benjamin**.
 
 ## FamilySearch Clark County Marriage Gap
 
@@ -161,9 +165,9 @@ Interpretation: the reported **10 Jun 1900** marriage falls in the post-1899 gap
 
 Current evidence path:
 
-1. Ask the Clark County Clerk / Recorder for the original or reconstructed license / return / register entry corresponding to the **8 Jun 1900** license notice.
-2. Ask Marshall Public Library to check the Clark County Genealogical Society `Extract of marriages from Clark County, 1819-1900` and local county-record volumes for Frank Partlow / Alice Rude.
-3. Continue death, obituary, cemetery, and family-record searches for name-variant proof.
+1. Treat the Clark County marriage return as optional ceremony-detail work, not the identity-control target.
+2. If pursuing it anyway, ask the Clark County Clerk / Recorder for the original or reconstructed license / return / register entry corresponding to the **8 Jun 1900** license notice.
+3. If pursuing a local compiled extract, ask Marshall Public Library to check the Clark County Genealogical Society `Extract of marriages from Clark County, 1819-1900` and local county-record volumes for Frank Partlow / Alice Rude.
 
 ## 1900 Census Neighborhood Check
 
@@ -195,12 +199,14 @@ Interpretation: this notice proves a Clark County marriage license was issued to
 
 A later online access-path pass did not locate any original, reconstructed, or derivative county record for the license or marriage in FamilySearch, the Illinois Statewide Marriage Index, Ancestry, the FamilySearch catalog, IRAD online pages, or Clark County's online order portal. See [[References/Clark County Illinois Partlow Rude County Record Access Path]] and the raw source note at [Partlow-Rude 1900 county-record access-path output](/static/sources/claude-partlow/partlow-rude-1900-county-record-access-path-claude-output.txt).
 
-The key practical finding is that record survival after the **30 Dec 1902** Clark County courthouse fire cannot be determined online. The fire is documented as causing **some** record loss or damage, not total loss. Therefore the next action is not another web search; it is direct contact with:
+The key practical finding is that record survival after the **30 Dec 1902** Clark County courthouse fire cannot be determined online. The fire is documented as causing **some** record loss or damage, not total loss. Therefore the next ceremony-record action is not another web search; it is direct contact with:
 
 - **Clark County Clerk / Recorder**, Laura H. Lee, for any surviving original, reconstructed, index, register, license return, or genealogy-certificate record.
 - **Marshall Public Library**, which holds former Clark County Genealogical Society materials and 300+ county-record volumes, especially the undigitized `Extract of marriages from Clark County, 1819-1900`.
 
 A follow-up lookup pass confirmed that the extract is a real FamilySearch-cataloged three-volume publication at `koha:279795`. Volume 3 covers **1881-1900** and is the exact target for this case. FamilySearch Library holds the book at call no. `977.371 V25c` v. 3 and also holds microfilm **1036682**, Items 6-8 / DGS **7955859**, but there is no online camera access. Marshall Public Library's public ILS did not list the volume, so the genealogy-room collection must be asked directly.
+
+Status: the Marshall Public Library email lookup has been drafted, but it has **not been sent** from this repo workflow. This is now an optional ceremony-detail follow-up because the online identity chain has resolved the Frank / Nollie and Alice / Mary Alice proof problem.
 
 ## Pre-Revolution Partlow Lead
 
@@ -229,8 +235,8 @@ Interpretation:
 - The spelling varies: **Halleck** appears in the New England Ball Project; **Hallick** appears in the Ancestry screenshot.
 - The online John -> Jacob relationship is not census-proved, because John was already an adult by the 1850 census.
 - The Jacob -> Benjamin relationship remains the critical proof problem.
-- The local handwritten lineage and New England Ball Project use **Frank Partlow**, while other leads use **Nollie Franklin Partlow**. This is likely the same person, but it still needs proof from marriage, death, obituary, cemetery, or census records.
-- The local handwritten lineage identifies Frank's wife as **Alice Rude Partlow**, probably resolving the earlier "Mary Alice Partlow, nee unknown" lead as Mary Alice Rude.
+- The local handwritten lineage and New England Ball Project use **Frank Partlow**, while other leads use **Nollie Franklin Partlow**. The June 2026 online identity-chain pass now proves these name forms refer to the same man for project purposes.
+- The local handwritten lineage identifies Frank's wife as **Alice Rude Partlow**. The 1900 census, 1900 license notice, 1910-1950 census chain, 1934 Ray Partlow Indiana marriage record, and Find a Grave / obituary cluster now prove **Alice Rude = Mary Alice Rude Partlow** by convergent evidence.
 - The John Partlow II -> Benjamin Partlow link now has an online will-abstract lead, but the original Spotsylvania County will-book image must be checked before treating it as proved.
 
 ## Next Actions
@@ -238,8 +244,8 @@ Interpretation:
 ```mermaid
 flowchart TD
     A["Start from known family manuscript chain"]
-    B["Prove Frank Partlow = Nollie Franklin Partlow<br/>and Alice Rude = Mary Alice Rude"]
-    C["Capture original 1880-1920 census, marriage,<br/>death, obituary, and cemetery records"]
+    B["Frank/Nollie and Alice/Mary Alice identity<br/>chain now proved online"]
+    C["Capture original 1880 census image<br/>for Nollie Frank under Marion M."]
     D["Use 1850/1860 Johnson Township census images<br/>to document Marion M. as child of John H."]
     E["Test John H. -> Jacob with probate, land,<br/>cemetery, and compiled Partlow volume evidence"]
     F["Test Jacob -> Benjamin with Culpeper/Clark County<br/>probate, land, tax, and DAR application evidence"]
@@ -247,7 +253,7 @@ flowchart TD
     H["Line can be evaluated for DAR-style proof"]
 
     A --> B --> C --> D --> E --> F --> G --> H
-    B -. "current priority" .-> P["Best next record targets:<br/>original marriage license/return;<br/>1956/1962 death or obituary records"]
+    C -. "current web priority" .-> P["Best next web targets:<br/>Partlow books; DAR GRS;<br/>Spotsylvania will image"]
 
     class A,H goal
     class B,P priority
@@ -258,19 +264,16 @@ flowchart TD
     classDef action fill:#e7f5ff,stroke:#1971c2,color:#102a43;
 ```
 
-1. Send the Clark County Clerk / Recorder request for the original or reconstructed **8 Jun 1900** marriage license / return / register entry for Frank Partlow and Alice Rude; cite the *Clark County Herald* license notice and the checked online gaps.
-2. Send the Marshall Public Library request for volume 3 of the Clark County Genealogical Society `Extract of marriages from Clark County, 1819-1900` and any local marriage/license volumes covering June 1900.
-3. If Marshall Public Library cannot check the extract, assign a FamilySearch Library lookup for call no. `977.371 V25c` v. 3 or microfilm 1036682 / DGS 7955859.
-4. Search 1956 / 1962 death, obituary, cemetery, and later household records that may explicitly tie Frank N. / Nollie Franklin Partlow to Alice / Mary Alice Rude Partlow.
-5. Capture the original 1880 Johnson Township, Clark County, Illinois census image for Marion McDonald Partlow and son Frank, using the roll/ED/sheet/page targets in [[References/New England Ball Project Partlow Census Citation Extract]].
-6. Capture the original 1850 and 1860 Johnson Township, Clark County, Illinois census images for John H. Partlow, using the roll/page targets in [[References/New England Ball Project Partlow Census Citation Extract]].
-7. Open FamilySearch or Geneanet copies of *The Partlow family and connections* and search within the book for Benjamin, Jacob, John H., Marion, Frank, Rude, and Clark County.
-8. Search Clark County, Illinois probate for Marion McDonald Partlow, died 27 Mar 1922.
-9. Search probate, land, and tax records for Jacob Partlow / Jacob Newton Partlow and Benjamin Partlow.
-10. Search DAR GRS for Benjamin Partlow and, if present, note any ancestor number and approved child line.
-11. Obtain the full Benjamin Partlow Revolutionary War pension file.
-12. Obtain the original Spotsylvania County, Virginia Will Book A, p. 975 image for John Partlow to verify the Benjamin/Culpeper abstract.
-13. Continue targeted Jacob-to-Benjamin searches in compiled Partlow books, probate, land, and tax sources; broad public web search did not prove the link.
+1. Capture the original 1880 Johnson Township, Clark County, Illinois census image for Marion McDonald Partlow and Nollie Frank / Frank, using the roll/ED/sheet/page targets in [[References/New England Ball Project Partlow Census Citation Extract]].
+2. Capture the original 1850 and 1860 Johnson Township, Clark County, Illinois census images for John H. Partlow, using the roll/page targets in [[References/New England Ball Project Partlow Census Citation Extract]].
+3. Open FamilySearch or Geneanet copies of *The Partlow family and connections* and search within the book for Benjamin, Jacob, John H., Marion, Frank, Rude, and Clark County.
+4. Search official DAR GRS for Benjamin Partlow and, if present, note any ancestor number and approved child line.
+5. Search web-accessible probate, land, and tax records for Jacob Partlow / Jacob Newton Partlow and Benjamin Partlow.
+6. Obtain or browse the original Spotsylvania County, Virginia Will Book A, p. 975 image for John Partlow to verify the Benjamin/Culpeper abstract.
+7. Search Clark County, Illinois probate for Marion McDonald Partlow, died 27 Mar 1922.
+8. Obtain the full Benjamin Partlow Revolutionary War pension file if available through a web-accessible NARA / Fold3 / library route.
+9. Continue targeted Jacob-to-Benjamin searches in compiled Partlow books, probate, land, and tax sources; broad public web search did not prove the link.
+10. Optional offline / non-web follow-up: send the Clark County Clerk / Recorder and Marshall Public Library requests for the original or reconstructed **8 Jun 1900** marriage license / return / register entry and `Extract of marriages from Clark County, 1819-1900`, v. 3, for ceremony details.
 
 ## Sources
 
@@ -299,3 +302,4 @@ flowchart TD
 23. [[References/Clark County Herald 1900 Partlow Rude Marriage License Notice]] - 14 Jun 1900 newspaper notice reporting the 8 Jun 1900 marriage license issued to Frank Partlow, 25, Moonshine, and Alice Rude, 19.
 24. [[References/Clark County Illinois Partlow Rude County Record Access Path]] - online access-path report finding no original / reconstructed county record online and identifying the Clark County Clerk plus Marshall Public Library as the active contacts.
 25. [Partlow-Rude 1900 Marshall library extract lookup output](/static/sources/claude-partlow/partlow-rude-1900-marshall-library-extract-lookup-claude-output.txt) - confirms the FamilySearch catalog record for `Extract of marriages from Clark County, 1819-1900`, v. 3, Film 1036682 / DGS 7955859, and no online copy.
+26. [[References/Partlow Rude Online Identity Chain]] - web-only identity-chain report proving Frank / Nollie Franklin Partlow, Alice / Mary Alice Rude Partlow, and Marion Elizabeth Partlow's parentage through census, Indiana marriage, obituary, Find a Grave, and FamilySearch-linked records.

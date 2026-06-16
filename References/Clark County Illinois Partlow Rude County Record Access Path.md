@@ -30,6 +30,7 @@ No original, reconstructed, or derivative **county** record has been found onlin
 | Illinois Statewide Marriage Index, 1763-1900 | Negative for Frank Partlow and Alice Rude. Groom `Partlow` / Clark County search produced 14 entries, latest Partlow entry 20 Jun 1897; bride `Rude` / Clark County search produced no target. |
 | FamilySearch Catalog, Clark County vital records | Eight vital-record catalog entries reviewed. The five-reel county vital-record set ends with Vol. H, 1890-1899. The Clark County Genealogical Society item `Extract of marriages from Clark County, 1819-1900` is cataloged but not digitized. |
 | Marshall Public Library ILS / ILL Share IT | Keyword search for `Extract of marriages Clark County 1819 1900` returned no result in the circulating catalog; genealogy-room holdings may not be represented there. |
+| Marshall Public Library Genealogy & Historical Collections FAQ | Confirms the genealogy collection is housed at the library, includes 300+ county-record volumes, and accepts assistance requests by email to Head Librarian Jamie Poorman at `jpoorman@marshallplib.com`; the online form link reportedly returns 404. |
 | FamilySearch Catalog record `koha:279795` | Confirms `Extract of marriages from Clark County, 1819-1900`, Clark County Genealogical Society, 3 volumes, with v. 3 covering 1881-1900; physical books at FamilySearch Library and microfilm Film 1036682 / DGS 7955859, not viewable online. |
 | Google Books / Internet Archive / HathiTrust / WorldCat / Library of Congress | No searchable online copy or reliable public catalog access found; Google Books only surfaced a derivative snippet in another book citing Clark County Genealogical Library compiled records. |
 | Ancestry marriage / vital-record collections | No 1900 Clark County record found. A Frank D. Partlow / Boone County 1893 result is a different person. |
@@ -75,6 +76,15 @@ This volume is not itself proof until checked. It may include a June 1900 Partlo
 | Marshall Public Library, 612 Archer Avenue, Marshall, IL 62441; phone 217-826-2535; email `jpoorman@marshallplib.com` | Ask whether the Clark County Genealogical Society `Extract of marriages from Clark County, 1819-1900`, v. 3, index or text, includes Frank Partlow / Alice Rude, and whether any local marriage/license volumes cover June-Dec 1900. |
 | FamilySearch Library, Salt Lake City | Fallback in-person lookup for `Extract of marriages from Clark County, 1819-1900`, v. 3, call no. `977.371 V25c`, and microfilm 1036682 / DGS 7955859. |
 | IRAD at Eastern Illinois University, Booth Library, Charleston, IL; phone 217-581-6093 | Fallback if the Clerk or library reports transferred records or if a transfer inventory is needed. |
+
+## Request Status
+
+The Marshall Public Library lookup email has been drafted but **not sent** from this repo workflow. Zach needs to send it from his email account or assign a helper who can send it. The request text is preserved in [[References/Clark County Illinois Partlow Rude Marriage Request]] and asks the library to check:
+
+- the index and text of volume 3 under `Partlow` and `Rude`;
+- any local marriage-license or return volumes covering June-Dec 1900;
+- any ledger transcripts, index cards, or fire-loss notes;
+- whether the library can provide a photo / photocopy or a not-found result.
 
 ## Evidence Boundary
 
