@@ -19,6 +19,8 @@ Raw report: [Partlow upstream Revolutionary-line web search output](/static/sour
 
 ## Result
 
+**Later correction:** A subsequent primary-record pass found [[References/Rappahannock Partlow Chancery Case 1842-002]], whose bill of complaint names Benjamin Partlow's children / heirs and omits **Jacob / Jacob Newton / Nute Partlow**. Therefore the derivative **Benjamin -> Jacob** claim summarized below should be treated as contradicted or seriously weakened, not as a supported relationship. This note remains useful as a record of the derivative-source trail that led to the chancery target.
+
 The search substantially strengthens the upstream line with concordant online derivative sources, but it does not yet produce a primary online document that directly names **Jacob Newton Partlow** as a child or heir of **Benjamin Partlow**.
 
 Working chain after this pass:
@@ -110,7 +112,7 @@ The underlying University of Illinois OCR text URL was reported as returning 404
 
 ## Interpretation
 
-This pass changes the Partlow status from "upstream relationship not found online" to "upstream relationship strongly supported online by concordant derivative sources." The remaining problem is evidence quality: the core **Jacob Newton Partlow -> Benjamin Partlow** link still needs a primary record such as chancery, probate, deed, estate division, tax, Bible, or land transaction evidence.
+At the time of this broad web pass, the Partlow status appeared to move from "upstream relationship not found online" to "upstream relationship strongly supported online by concordant derivative sources." Later primary-record work changed that interpretation: [[References/Rappahannock Partlow Chancery Case 1842-002]] names Benjamin Partlow's children and heirs but omits Jacob / Jacob Newton / Nute. Use the derivative sources below as leads, not as proof of the **Jacob Newton Partlow -> Benjamin Partlow** link.
 
 The most important next online targets are:
 
@@ -122,4 +124,4 @@ The most important next online targets are:
 
 ## Caution
 
-Do not state the full line as DAR-ready primary proof yet. The downstream chain through John H. is now original-image supported, and the upstream line is much stronger after this pass, but the **Jacob -> Benjamin** relationship remains the weakest joint until a primary or near-primary online record is captured.
+Do not state the full line as DAR-ready primary proof. The downstream chain through John H. is original-image supported, but the **Jacob -> Benjamin** relationship is now disputed by the Rappahannock chancery heir list unless remaining chancery images, estate records, deeds, or another primary source explain the omission.

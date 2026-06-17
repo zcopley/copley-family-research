@@ -645,7 +645,7 @@ Re: Benjamin Partlow Revolutionary War pension / family proof request
 
 Dear Records Staff,
 
-I am researching the Partlow family line connected to Marion Elizabeth Partlow Copley. I am trying to verify the proposed line from Marion Elizabeth Partlow back to Revolutionary War veteran Benjamin Partlow.
+I am researching the Partlow family line connected to Marion Elizabeth Partlow Copley. I am trying to evaluate a proposed line from Marion Elizabeth Partlow back to Revolutionary War veteran Benjamin Partlow. A Rappahannock County chancery case naming Benjamin's heirs omits Jacob Partlow, so I am especially interested in records that prove or disprove Jacob Partlow's parents.
 
 The working line is:
 
@@ -662,6 +662,7 @@ Could you please advise whether your records include any of the following:
 - Probate or estate records for Benjamin Partlow or Jacob Partlow
 - Land or tax records connecting Jacob Partlow to Benjamin Partlow
 - Records proving John H. Partlow as son of Jacob Partlow
+- Any record explaining whether Jacob Partlow / Jacob Newton Partlow was or was not a child or heir of Benjamin Partlow
 - Marriage record for Nollie Franklin / Frank Partlow and Alice Rude / Mary Alice Rude, reportedly 10 June 1900 in Clark County, Illinois; newspaper license notice found in the 14 June 1900 *Clark County Herald* says a license was issued under 8 June to Frank Partlow, age 25, Moonshine, and Alice Rude, age 19
 - If the 1900 Clark County marriage register was lost in the 30 December 1902 courthouse fire, any reconstructed marriage record, loose license file, application, return, affidavit, local extract, or later copy
 - Death, obituary, cemetery, or later household records that explicitly connect Frank N. / Nollie Franklin Partlow with Mary A. / Mary Alice Rude Partlow

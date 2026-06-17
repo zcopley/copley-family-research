@@ -38,7 +38,7 @@ The scan focused on record-target terms: `Bible`, `heir`, `bond`, `consent`, `su
 | Murray / Murry FAN, tax, and marriage reports | `static/sources/claude-1870-fan-sweep/`, `static/sources/claude-tax-list/`, `static/sources/claude-marriage/` | Drive courthouse request for Luke / Anne bond and non-indexed county/church follow-up. |
 | Tom Copley May 2026 correction | `static/sources/tom-corrections/2026-05-25-murray-pronunciation-munday-correction.txt` | Keep Munday as preferred recorded surname and Murray as downgraded variant. |
 | Tom / Steve May 2026 parentage thread | `static/sources/tom-steve-emails/` and [[References/Tom and Steve Copley May 2026 Michael Parents Thread]] | Preserve family-memory leads without treating AI-derived Dolan claims as proof. |
-| Partlow manuscript note | [[References/Harry C Partlow 1960 Letter and Handwritten Lineage]] | Guide original-record proof chain from Marion Partlow to Benjamin Partlow. |
+| Partlow manuscript note | [[References/Harry C Partlow 1960 Letter and Handwritten Lineage]] | Preserve the family-source lead from Marion Partlow toward Benjamin Partlow, but treat the Benjamin link as disputed after [[References/Rappahannock Partlow Chancery Case 1842-002]]. |
 | Clark County Partlow request | [[References/Clark County Illinois Partlow Rude Marriage Request]] | Send the 1900 Frank / Nollie Partlow and Alice Rude request. |
 | Copley History source audit | [[References/Copley History Part 1 and Appendix Source Audit]] | Prioritize underused appendix and place-rich narrative details. |
 

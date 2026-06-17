@@ -58,10 +58,10 @@ This web pass resolves the earlier middle-generation identity problem:
 
 **Marion Elizabeth Partlow** -> **Frank / Nollie Franklin Partlow** and **Alice / Mary Alice Rude Partlow**
 
-The remaining Partlow Revolutionary-line proof work is upstream:
+The remaining Partlow Revolutionary-line proof work is upstream, but the proposed Benjamin connection has changed status after later primary-record work:
 
-1. Capture original 1880 census image for Nollie Frank / Frank in Marion McDonald Partlow's household.
-2. Capture original 1850 and 1860 Johnson Township census images for John H. Partlow and Marion M. Partlow.
-3. Search online copies of *The Partlow family and connections* and other compiled Partlow works for Jacob / Benjamin evidence.
-4. Search DAR GRS and public pension / probate / land paths for Benjamin Partlow and the Jacob -> Benjamin link.
+1. Treat the 1880 and 1850 / 1860 census-image tasks as completed downstream anchors.
+2. Keep **John H. Partlow -> Jacob Partlow** as a strong derivative-source lead needing a better full-page citation or primary support.
+3. Treat **Jacob Partlow -> Benjamin Partlow** as disputed because [[References/Rappahannock Partlow Chancery Case 1842-002]] names Benjamin Partlow's children and heirs while omitting Jacob / Jacob Newton / Nute.
+4. Search remaining Rappahannock chancery images 5-69, Rappahannock Will/Fiduciary Book A p. 223, Culpeper deeds, and public pension / probate / land paths for Jacob's correct parents or an explanation for the omission.
 5. Locate the original Spotsylvania County Will Book A p. 975 image for John Partlow before using the online abstract as proof.

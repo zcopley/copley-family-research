@@ -14,18 +14,18 @@ tags:
 
 # RQ-P1 Partlow Revolutionary Line
 
-This page tracks the proof chain from [[People/Marion Elizabeth Partlow|Marion Elizabeth Partlow]] back to [[People/Benjamin Partlow|Benjamin Partlow]], the Revolutionary War pensioner in Culpeper County, Virginia.
+This page tracks the proposed proof chain from [[People/Marion Elizabeth Partlow|Marion Elizabeth Partlow]] back to [[People/Benjamin Partlow|Benjamin Partlow]], the Revolutionary War pensioner in Culpeper / Rappahannock County, Virginia.
 
-**Current status:** A plausible line is now strongly supported through multiple web-accessible sources. Marion Elizabeth -> Frank / Nollie Franklin Partlow + Alice / Mary Alice Rude is proved for project purposes by census, marriage, obituary, cemetery, and FamilySearch-linked records; Frank / Nollie -> Marion M. and Marion M. -> John H. are supported by original census images. The upstream John H. -> Jacob -> Benjamin chain is now supported by concordant derivative sources, including a Google-indexed 1888 Clark County history passage, FamilySearch-hosted compiled genealogy text, Find a Grave, Geni, DAR ancestor leads, and a WikiTree transcript of John Partlow II's will. The remaining weak joint is primary-record proof that Jacob Newton Partlow was a child or heir of Benjamin Partlow.
+**Current status:** The downstream Partlow line from Marion Elizabeth back to **John H. / John Halleck Partlow** is now supported by original or near-original web records. The proposed upstream link **Jacob Newton Partlow -> Benjamin Partlow** is no longer merely unproved: the best online primary record found so far, **Rappahannock County Chancery Case 1842-002 / original no. 53**, names Benjamin Partlow's children and heirs after his 1837 intestate death and **does not include Jacob / Jacob Newton / Nute Partlow**. Treat the old Jacob-to-Benjamin line as contradicted or seriously weakened unless later pages or another primary record explains the omission.
 
 ## Dashboard Snapshot
 
 | Question | Current answer |
 |---|---|
-| Is Benjamin Partlow's Revolutionary service supported? | Yes. Pension S5871 / pension-roll snippets, the local pension-cover image, and DAR ancestor lead `A088405` support Benjamin Partlow of Culpeper / Rappahannock County, Virginia as the Revolutionary War pensioner. The full pension file is still useful for service details. |
-| Is the Marion Elizabeth Partlow -> Benjamin Partlow chain proved? | Substantially supported, but not yet primary-record complete. Marion -> Frank / Nollie + Alice and Frank / Nollie -> Marion M. -> John H. are supported by original or near-original records. John H. -> Jacob and Jacob -> Benjamin are now supported by concordant derivative online sources, but Jacob -> Benjamin still needs primary proof. |
-| Best immediate web proof target | Search Library of Virginia / FamilySearch-accessible primary records for Benjamin's estate and children: Culpeper chancery case #53, Culpeper Deed Book FF pp. 394-395 and nearby Partlow deeds, Rappahannock Will Book A p. 223, and the original Spotsylvania will-book image. |
-| Critical middle gap | Primary-record proof for Jacob Newton Partlow as Benjamin Partlow's child or heir. |
+| Is Benjamin Partlow's Revolutionary service supported? | Yes. Pension S5871 / pension-roll snippets, the local pension-cover image, and DAR ancestor lead `A088405` support Benjamin Partlow of Culpeper / Rappahannock County, Virginia as the Revolutionary War pensioner. |
+| Is the Marion Elizabeth Partlow -> Benjamin Partlow chain proved? | No. Marion -> Frank / Nollie + Alice -> Marion M. -> John H. is supported by original or near-original records, and John H. -> Jacob has derivative support. But the best online primary heir record for Benjamin Partlow omits Jacob from Benjamin's children / heirs. |
+| Best immediate web proof target | Read the remaining images 5-69 of Rappahannock Chancery Case `1842-002`, then check Rappahannock Will Book A p. 223, Culpeper Deed Book FF pp. 394-395 / nearby Partlow deeds, and the original Spotsylvania will image. |
+| Critical middle gap | Identify Jacob Newton Partlow's correct parents or find a primary record explaining why he is absent from Benjamin Partlow's heir list. |
 | Master queue | See [[Open Record Targets]] for the retired Partlow identity targets and the active primary-record targets. |
 
 ## Research Question
@@ -34,7 +34,11 @@ Can Marion Elizabeth Partlow's paternal line be documented back to Benjamin Part
 
 Working line:
 
+Former working line:
+
 **Marion Elizabeth Partlow** -> **Nollie Franklin / Frank Partlow** -> **Marion McDonald / M. Partlow** -> **John H. / John Halleck / Hallick Partlow** -> **Jacob Partlow / Jacob Newton Partlow** -> **Benjamin Partlow**.
+
+Corrective status: the line is currently supported through **John H. / John Halleck Partlow**, with derivative support for **John H. -> Jacob**, but the **Jacob -> Benjamin** link is now contradicted or seriously weakened by Benjamin's chancery heir list.
 
 ```mermaid
 graph TD
@@ -49,14 +53,16 @@ graph TD
     NF -->|"1880 original census image + later identity chain; proved"| MM
     MM -->|"1850/1860 original census images; proved"| JH
     JH -->|"1888 county history + compiled genealogy; derivative support"| JP
-    JP -->|"Find a Grave / Geni / FS compiled leads; primary gap"| BP
+    JP -. "derivative claim; contradicted by 1842 chancery heir list" .-> BP
 
     class ME,NF,MM,JH censusLead
-    class JP,BP proofGap
+    class JP proofGap
+    class BP contradicted
 
     classDef familySource fill:#fff3bf,stroke:#8a6d00,color:#1f1f1f;
     classDef censusLead fill:#d0ebff,stroke:#1864ab,color:#102a43;
     classDef proofGap fill:#ffe3e3,stroke:#c92a2a,color:#1f1f1f;
+    classDef contradicted fill:#ffd8a8,stroke:#e67700,color:#1f1f1f;
 ```
 
 ## Online Findings So Far
@@ -64,16 +70,47 @@ graph TD
 | Link | Current Evidence | Status | Next Action |
 |---|---|---|---|
 | Marion Elizabeth Partlow -> Nollie Franklin / Frank Partlow + Alice / Mary Alice Rude | The 1920 census lists `Marian E Parttow` in the Nollie / Mary A Partlow household; the 1930 census lists `Marion Partlow` as daughter of Frank and Allee / Alice Partlow. The 1934 Indiana marriage record for Ray Partlow names parents Frank Partlow and Alice Rude. See [[References/Partlow Rude Online Identity Chain]]. | **Proven by near-original records and convergent web evidence.** | Keep the Clark County marriage return as an optional ceremony-detail target, not the identity-control target. |
-| Nollie Franklin / Frank Partlow -> Marion McDonald / M. Partlow | The original 1880 Johnson Township census image, FamilySearch image `33S7-9YB4-VPC`, lists **Nollie Frank**, age 6, as son in the Marion Partlow / Marth household. New England Ball Project also cites 1900 Johnson Township census with widower Marion and sons **Frank and Henry**. The 1977 handwritten lineage places Frank under Marion M. Partlow, and the online identity-chain pass ties Frank N / Frank to Nollie Franklin and Alice / Mary Alice across 1900-1956. | **Proven by original-image census evidence plus later identity chain.** | Use the 1850 / 1860 result as the next anchor, then move upstream to John H. -> Jacob and Jacob -> Benjamin. |
-| Marion McDonald / M. Partlow -> John H. / Halleck / Hallick Partlow | The original 1850 census image, FamilySearch image `S3HY-DTN7-NYR`, shows John H. / `Jhn Hc.` Partlow with Lydia / Sydia and a child indexed as `Momore` / read as `Momon`, age 2, identified as Marion by continuity. The original 1860 image, `33SQ-GBF7-DF4`, clearly lists **Marion M**, age 16, in the John / Sydia Partlow household. See [[References/1850 and 1860 John Halleck Partlow Household]]. | **Proven by original-image census evidence.** | Move upstream to John H. -> Jacob and Jacob -> Benjamin. |
+| Nollie Franklin / Frank Partlow -> Marion McDonald / M. Partlow | The original 1880 Johnson Township census image, FamilySearch image `33S7-9YB4-VPC`, lists **Nollie Frank**, age 6, as son in the Marion Partlow / Marth household. New England Ball Project also cites 1900 Johnson Township census with widower Marion and sons **Frank and Henry**. The 1977 handwritten lineage places Frank under Marion M. Partlow, and the online identity-chain pass ties Frank N / Frank to Nollie Franklin and Alice / Mary Alice across 1900-1956. | **Proven by original-image census evidence plus later identity chain.** | Use this as a completed downstream anchor; do not repeat identity-chain work unless a conflict appears. |
+| Marion McDonald / M. Partlow -> John H. / Halleck / Hallick Partlow | The original 1850 census image, FamilySearch image `S3HY-DTN7-NYR`, shows John H. / `Jhn Hc.` Partlow with Lydia / Sydia and a child indexed as `Momore` / read as `Momon`, age 2, identified as Marion by continuity. The original 1860 image, `33SQ-GBF7-DF4`, clearly lists **Marion M**, age 16, in the John / Sydia Partlow household. See [[References/1850 and 1860 John Halleck Partlow Household]]. | **Proven by original-image census evidence.** | Move upstream to John H. -> Jacob and Jacob's correct parentage; the Benjamin link is now disputed. |
 | John H. / Halleck / Hallick Partlow -> Jacob Partlow | 1977 handwritten lineage names Jacob Partlow as father of John H.; New England Ball Project states John was son of Jacob Partlow and Mary, citing a RootsWeb-era database. The June 2026 upstream web pass found a Google-indexed 1888 *History of Clark County, Illinois* snippet stating John H. Partlow was a son of Jacob Partlow, plus a FamilySearch-hosted compiled genealogy excerpt naming **John Halleck Partlow** as a child of Jacob Newton Partlow and Mary Halleck. | Strong derivative support; primary image or full county-history page still needed for best citation. | Capture the full 1888 Clark County history page / OCR text and continue primary-record work for Jacob. |
-| Jacob Partlow / Jacob Newton Partlow -> Benjamin Partlow | 1977 handwritten lineage and Ancestry screenshot place Jacob as son of Benjamin Partlow. The June 2026 upstream web pass found Find a Grave memorial `139145744` listing **Jacob Newton "Nute" Partlow** as Benjamin's child, Geni listing Jacob among Benjamin's children, and FamilySearch / compiled-text snippets placing Jacob Newton in the same Culpeper-to-Clark County line. | Strong concordant derivative support; **critical primary proof gap remains**. | Search LVA / FamilySearch-accessible Culpeper chancery case #53, Culpeper deeds, and Rappahannock estate records for a child / heir statement naming Jacob. |
+| Jacob Partlow / Jacob Newton Partlow -> Benjamin Partlow | 1977 handwritten lineage and Ancestry screenshot place Jacob as son of Benjamin Partlow. The June 2026 upstream web pass found Find a Grave memorial `139145744`, Geni, and FamilySearch / compiled-text snippets placing Jacob in Benjamin's child group. The later primary-record pass found **Rappahannock County Chancery Case 1842-002 / original no. 53**, whose bill of complaint names Benjamin's children / heirs and omits Jacob / Jacob Newton / Nute. | **Not proved; contradicted or seriously weakened by primary heir-list evidence.** | Read images 5-69 of the chancery case for any later Jacob mention, then pivot to finding Jacob's correct parents if the omission holds. |
 | Benjamin Partlow -> Revolutionary War service | Pension cover sheet image confirms Benjamin Partlow of Culpeper County, Virginia, age 70, private, disabled by bodily infirmity, with more than six months service under Capt. Coxen and Capt. Rogers. The upstream web pass identifies pension **S5871**, derivative transcript snippets, and DAR ancestor lead `A088405`. | Service evidence strong; full pension file and directly viewable DAR GRS page still useful. | Obtain full NARA/Fold3 pension file and directly capture the DAR ancestor page if accessible. |
 | Benjamin Partlow -> John Partlow II | A Graves Family Association page and WikiTree transcript cite Spotsylvania County Will Book E / p. 975-976 for John Partlow, died 11 Dec 1789, and report that the will named son **Benjamin Partlow** and 250 acres in Culpeper County. | Strong derivative transcript / abstract support pointing to an original will record; original image still needed. | Obtain the original Spotsylvania will-book image or a reliable archive scan and compare it to Benjamin's Culpeper pension identity. |
 
-## Upstream Web Search Pass: Jacob, Benjamin, and John Partlow II
+## Corrective Primary Record: Benjamin Partlow Heirs Chancery Case
 
-The June 2026 web-only upstream pass is preserved at [[References/Partlow Upstream Revolutionary Line Web Search]]. It changed the status of the upper Partlow line from "family-source chain with derivative leads" to "strongly supported by concordant online derivative sources, with a primary-record gap at Jacob -> Benjamin."
+The June 2026 primary-record search found **Rappahannock County Chancery Case 1842-002**, original case number **53**, indexed as **John Partlow v. Heir(s) of Benjamin Partlow** at the Library of Virginia. See [[References/Rappahannock Partlow Chancery Case 1842-002]].
+
+Source:
+
+- Repository: Library of Virginia Chancery Records Index.
+- Case URL: https://old.lva.virginia.gov/chancery/case_detail.asp?CFN=157-1842-002
+- Locality: Rappahannock County, Virginia.
+- Images: 69 scanned images online.
+- Folder / worksheet title: `Partlow vs. Partlow`, no. 53, 1840-1841.
+
+This is almost certainly the "Culpeper County Chancery Papers #53" cited in earlier derivative literature. LVA indexes it under Rappahannock because Rappahannock County was formed from Culpeper County in 1833.
+
+The bill of complaint states that Benjamin Partlow died intestate on **23 Dec 1837** and names the children and heirs as:
+
+- John L. Partlow
+- Elisha Partlow
+- Sarah R. Morris
+- Lucy Menefee
+- Martha Behem
+- Clarissa Cornwell
+- the children of deceased daughter Catherine Menefee
+- Thomas P. Bowran, son of deceased daughter Mary Bowran
+
+**Jacob Partlow / Jacob Newton Partlow / Nute Partlow does not appear in the reported bill of complaint heir list or advancement list.**
+
+Interpretation: this is the best online primary record found so far for Benjamin Partlow's children. If Jacob Newton Partlow was alive until 1868, as the Clark County derivative line says, he should normally appear as a living child or heir if he were Benjamin's son. His omission materially changes the research conclusion. The derivative sources may be conflating two Benjamin Partlow families, placing Jacob under the wrong Benjamin, or skipping a generation.
+
+The remaining due diligence is to read images 5-69 of the chancery file for depositions, commissioner's reports, sale / distribution schedules, or collateral mentions. However, the bill's heir list already weighs against the direct **Benjamin -> Jacob** claim.
+
+## Earlier Upstream Web Search Pass: Jacob, Benjamin, and John Partlow II
+
+The June 2026 web-only upstream pass is preserved at [[References/Partlow Upstream Revolutionary Line Web Search]]. At the time, it appeared to move the upper Partlow line from "family-source chain with derivative leads" to "strongly supported by concordant online derivative sources, with a primary-record gap at Jacob -> Benjamin." The later Rappahannock chancery case supersedes that interpretation for the Benjamin link.
 
 Key results:
 
@@ -86,7 +123,7 @@ Key results:
 - A FamilySearch-hosted compiled genealogy snippet identifies **Jacob Newton Partlow**, born 1790 in Culpeper County and died 1868 in Clark County, Illinois, and names **John Halleck Partlow** as his child by Mary Halleck.
 - A Google-indexed 1888 *History of Clark County, Illinois* snippet directly states that **John H. Partlow** was a son of **Jacob Partlow** and that Jacob's descent runs back through Benjamin to John Partlow II.
 
-Interpretation: these sources are strong enough to use as a working upstream chain in research planning, but not enough to call the chain primary-proof complete. The next useful work is no longer broad web searching for the names; it is targeted primary-record retrieval.
+Interpretation after the chancery result: these sources remain useful clues for **Jacob -> John H.** and for identifying how derivative genealogies were built, but they can no longer be used alone to support **Benjamin -> Jacob**. The best online primary heir list for Benjamin omits Jacob.
 
 ## Local Family Manuscript Found
 
@@ -162,7 +199,7 @@ What the web chain establishes:
 - The Clark County Genealogy Trails death index page for N/O/P/Q/R/S surnames includes several Partlow deaths from 1916-1947, but it does not solve Frank/Alice because the family-source dates put Frank's death in **1956** and Alice's in **1962**, outside that transcribed index window.
 - The 14 Jun 1900 *Clark County Herald* now supplies the key local notice: a license issued under **8 Jun 1900** to **Frank Partlow**, age 25, Moonshine, and **Alice Rude**, age 19.
 
-The marriage return remains useful for exact ceremony details, but it is no longer the controlling identity proof. The web-accessible record chain now supports moving the main Partlow proof work upstream to **John H. -> Jacob** and **Jacob -> Benjamin**.
+The marriage return remains useful for exact ceremony details, but it is no longer the controlling identity proof. The web-accessible record chain now supports moving the main Partlow proof work upstream to **John H. -> Jacob** and to reassessing Jacob's correct parentage. A later primary-record pass found [[References/Rappahannock Partlow Chancery Case 1842-002]], whose bill of complaint names Benjamin Partlow's children and heirs but omits Jacob / Jacob Newton / Nute, so the proposed **Jacob -> Benjamin** link is disputed rather than merely unproved.
 
 ## FamilySearch Clark County Marriage Gap
 
@@ -246,10 +283,10 @@ Interpretation after the later June 2026 pass: broad public search did eventuall
 - The Ancestry screenshot appears to show **Mary Halleck** as John Halleck / Hallick Partlow's wife, but the New England Ball Project identifies his wife as **Lydia Bennett**. Treat Mary Halleck as either a tree error, misread, or different person until supported by records.
 - The spelling varies: **Halleck** appears in the New England Ball Project; **Hallick** appears in the Ancestry screenshot.
 - The online John -> Jacob relationship is not census-proved, because John was already an adult by the 1850 census.
-- The Jacob -> Benjamin relationship remains the critical **primary-record** proof problem, even though it is now strongly supported by derivative online sources.
+- The Jacob -> Benjamin relationship is no longer just a primary-record proof problem; it is now contradicted or seriously weakened by Rappahannock Chancery Case `1842-002`, whose bill of complaint names Benjamin's heirs and omits Jacob.
 - The local handwritten lineage and New England Ball Project use **Frank Partlow**, while other leads use **Nollie Franklin Partlow**. The June 2026 online identity-chain pass now proves these name forms refer to the same man for project purposes.
 - The local handwritten lineage identifies Frank's wife as **Alice Rude Partlow**. The 1900 census, 1900 license notice, 1910-1950 census chain, 1934 Ray Partlow Indiana marriage record, and Find a Grave / obituary cluster now prove **Alice Rude = Mary Alice Rude Partlow** by convergent evidence.
-- The John Partlow II -> Benjamin Partlow link now has online will-transcript / abstract support, but the original Spotsylvania County will-book image must be checked before treating it as primary-record proof.
+- The John Partlow II -> Benjamin Partlow link still has online will-transcript / abstract support, but the original Spotsylvania County will-book image must be checked before treating it as primary-record proof. This link does not solve Jacob's parentage.
 
 ## Next Actions
 
@@ -260,13 +297,13 @@ flowchart TD
     C["1880 original census image<br/>confirms Nollie Frank under Marion M."]
     D["1850/1860 original census images<br/>document Marion M. as child of John H."]
     E["Derivative web sources support<br/>John H. -> Jacob"]
-    F["Derivative web sources support<br/>Jacob -> Benjamin"]
-    G["Primary-record target:<br/>Culpeper chancery/deeds + Rappahannock estate"]
+    F["Primary chancery heir list<br/>omits Jacob from Benjamin's heirs"]
+    G["New target:<br/>find Jacob's correct parents<br/>or explain omission"]
     I["Obtain Benjamin's full Revolutionary War pension file"]
     H["Line can be evaluated for DAR-style proof"]
 
     A --> B --> C --> D --> E --> F --> G --> I --> H
-    F -. "current web priority" .-> P["Best next web targets:<br/>LVA chancery #53;<br/>Culpeper Deed Book FF;<br/>Rappahannock Will Book A p. 223;<br/>Spotsylvania will image"]
+    F -. "current web priority" .-> P["Best next web targets:<br/>Rappahannock chancery images 5-69;<br/>Rappahannock Will Book A p. 223;<br/>Culpeper Deed Book FF;<br/>Spotsylvania will image"]
 
     class A,H goal
     class B,P priority
@@ -277,15 +314,16 @@ flowchart TD
     classDef action fill:#e7f5ff,stroke:#1971c2,color:#102a43;
 ```
 
-1. Search the Library of Virginia Chancery Records Index for **Culpeper County Chancery Papers #53 (1840-1841)** and all Partlow variants. This is now the highest-value web target because WikiTree cites it as the best source for Benjamin's children.
-2. Search Culpeper County deed books and indexes, especially **Deed Book FF pp. 394-395** and nearby Partlow deeds around 1813, for Benjamin / Clary deeds to children or heirs, including any deed to Jacob.
-3. Search **Rappahannock County Will Book A p. 223** for Benjamin Partlow's February 1838 estate inventory and any related estate, appraisement, sale, or settlement pages.
+1. Read the remaining **images 5-69** of Rappahannock Chancery Case `1842-002`, focusing on depositions, commissioner's reports, sale bills, distribution schedules, and any collateral mentions of Jacob / Nute / Jacob Newton Partlow.
+2. Search **Rappahannock County Will Book A p. 223** and surrounding estate pages for Benjamin Partlow's administration, inventory, appraisement, sale, and settlement records.
+3. Search Culpeper County deed books and indexes, especially **Deed Book FF pp. 394-395** and nearby Partlow deeds around 1813, for Benjamin / Clary transfers to children and any mention of Jacob.
 4. Obtain or browse the original Spotsylvania County, Virginia **Will Book E / p. 975-976** image for John Partlow to verify the Benjamin/Culpeper transcript.
-5. Capture a stable full-text or page image for the Google-indexed **1888 History of Clark County, Illinois** passage that states John H. Partlow was a son of Jacob Partlow and traces Jacob back through Benjamin to John Partlow II.
-6. Directly capture the DAR GRS pages for Benjamin Partlow `A088405` and John Partlow `A088406`, if accessible, including any listed spouses, service, residence, children, and descendant-line warnings.
-7. Obtain the full Benjamin Partlow Revolutionary War pension file if available through a web-accessible NARA / Fold3 / library route.
-8. Search Clark County, Illinois probate for Marion McDonald Partlow, died 27 Mar 1922, as a lower-priority downstream corroboration path.
-9. Optional offline / non-web follow-up: send the Clark County Clerk / Recorder and Marshall Public Library requests for the original or reconstructed **8 Jun 1900** marriage license / return / register entry and `Extract of marriages from Clark County, 1819-1900`, v. 3, for ceremony details.
+5. Capture a stable full-text or page image for the Google-indexed **1888 History of Clark County, Illinois** passage that states John H. Partlow was a son of Jacob Partlow and traces Jacob back through Benjamin to John Partlow II; reassess that passage against the chancery heir list.
+6. Search for **Jacob Newton Partlow's correct parents** in Ohio / Indiana / Illinois / Virginia records, including probate, deeds, cemetery, county history, and family Bible / compiled-genealogy source trails.
+7. Directly capture the DAR GRS pages for Benjamin Partlow `A088405` and John Partlow `A088406`, if accessible, including any listed spouses, service, residence, children, descendant-line warnings, and whether Jacob appears or is absent.
+8. Obtain the full Benjamin Partlow Revolutionary War pension file if available through a web-accessible NARA / Fold3 / library route.
+9. Search Clark County, Illinois probate for Marion McDonald Partlow, died 27 Mar 1922, as a lower-priority downstream corroboration path.
+10. Optional offline / non-web follow-up: send the Clark County Clerk / Recorder and Marshall Public Library requests for the original or reconstructed **8 Jun 1900** marriage license / return / register entry and `Extract of marriages from Clark County, 1819-1900`, v. 3, for ceremony details.
 
 ## Sources
 
@@ -317,9 +355,11 @@ flowchart TD
 26. [[References/Partlow Rude Online Identity Chain]] - web-only identity-chain report proving Frank / Nollie Franklin Partlow, Alice / Mary Alice Rude Partlow, and Marion Elizabeth Partlow's parentage through census, Indiana marriage, obituary, Find a Grave, and FamilySearch-linked records.
 27. [[References/1880 Marion McDonald Partlow Household]] - original 1880 census image result for Marion Partlow, wife Marth / Martha, and son Nollie Frank, FamilySearch ARKs `MXNZ-S2M`, `MXNZ-32S`, and image `33S7-9YB4-VPC`.
 28. [[References/1850 and 1860 John Halleck Partlow Household]] - original 1850 and 1860 census image results for John H. / John Halleck Partlow and Lydia / Sydia Bennett Partlow, confirming Marion / Marion M. as their child and noting FamilySearch ARKs `M85V-23D`, `M85V-232`, `MXCM-3FC`, and `MXCM-3FX`.
-29. [[References/Partlow Upstream Revolutionary Line Web Search]] - web-only upstream search pass finding strong derivative support for John Partlow II -> Benjamin Partlow -> Jacob Newton Partlow -> John H. / John Halleck Partlow, while preserving Jacob -> Benjamin as the remaining primary-record proof gap.
+29. [[References/Partlow Upstream Revolutionary Line Web Search]] - web-only upstream search pass finding derivative support for John Partlow II -> Benjamin Partlow -> Jacob Newton Partlow -> John H. / John Halleck Partlow; later corrected by [[References/Rappahannock Partlow Chancery Case 1842-002]], which disputes the Jacob -> Benjamin link.
 30. WikiTree, "Benjamin Partlow (Partlow-163)," including DAR ancestor lead `A088405` and derivative Revolutionary War pension S5871 details: https://www.wikitree.com/wiki/Partlow-163
 31. WikiTree, "John Partlow (Partlow-164)," including a transcript citing Spotsylvania County, Virginia Will Book E, pp. 975-976: https://www.wikitree.com/wiki/Partlow-164
 32. Find a Grave memorial `139145744`, Benjamin Partlow, listing Jacob Newton "Nute" Partlow as child: https://www.findagrave.com/memorial/139145744/benjamin-partlow
 33. Geni, "Lucy Menefee," collaborative profile listing Jacob Newton Partlow among Benjamin Partlow's children: https://www.geni.com/people/Lucy-Menefee/6000000016000855001
 34. FamilySearch Ancestors, "Mary Abrams," `LBFC-WWK`, naming Jacob Newton Partlow and Clark County context: https://ancestors.familysearch.org/en/LBFC-WWK/mary-abrams-1791-1882
+35. [[References/Rappahannock Partlow Chancery Case 1842-002]] - primary-record search finding Rappahannock County Chancery Case `1842-002` / original no. `53`, whose bill of complaint names Benjamin Partlow's children and heirs but omits Jacob / Jacob Newton / Nute Partlow.
+36. Library of Virginia Chancery Records Index, Rappahannock County case `1842-002`, John Partlow v. Heir(s) of Benjamin Partlow: https://old.lva.virginia.gov/chancery/case_detail.asp?CFN=157-1842-002

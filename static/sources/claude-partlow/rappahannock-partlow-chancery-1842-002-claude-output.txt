@@ -1,0 +1,90 @@
+Primary-Record Search Report: Jacob Newton Partlow as Child/Heir of Benjamin Partlow
+
+TARGET 1 - LVA Chancery Records Index: Culpeper/Rappahannock County, "Partlow" cases
+
+Repository: Library of Virginia Chancery Records Index
+URL: https://www.lva.virginia.gov/chancery/
+Search terms: County = CULPEPER CO; Surname INCLUDES "Partlow" -> 4 hits, none before 1857.
+Then: County = RAPPAHANNOCK CO; Plaintiff Last Name INCLUDES "Partlow" -> 2 hits.
+
+PRIMARY FIND - Rappahannock County Chancery Case 1842-002
+
+Field | Value
+Repository | Library of Virginia Chancery Records Index
+LVA Index Number | 1842-002
+Original Case Number | 53
+Locality | RAPPAHANNOCK CO
+Plaintiff | John Partlow
+Defendant | HEIR(S) OF Benjamin Partlow
+Surnames in case | Barbee, Behem, Boran, Cornwell, Menefee, Morris, Partlow
+Format | Scanned - 69 images available online
+Case Index URL | https://old.lva.virginia.gov/chancery/case_detail.asp?CFN=157-1842-002
+
+This is the "Culpeper County Chancery Papers #53, ca. 1840-1841" cited in genealogical literature. The case is in fact a Rappahannock County record (Rappahannock was carved from Culpeper in 1833), filed 1840-41, with original case number 53. Researchers who cite it as "Culpeper" are relying on the pre-partition location. LVA correctly assigns it to Rappahannock. Originals are at the Rappahannock County Circuit Court Clerk's Office; LVA has digital scans.
+
+Documents Read from the 69-Page Case File
+
+Image 1 (folder cover): Handwritten label: "Rappahannock Co. - Chancery: Partlow vs. Partlow - #53 - 1840-41"
+
+Image 2 (Worksheet for Chancery Papers, prepared by E. Kidwell, July 11, 1995): Confirms title "Partlow vs. Partlow, chancery papers, 1840-1841, no. 0053." Scope note reads (partial): "Plaintiff - Benjamin & John L. Partlow; Defendant - Elisha Partlow. Benjamin Partlow's account against his children. Benjamin Partlow d. intestate 23 Dec 1837. Estate settlement - 4 tracts = 804 acres. Heirs: John L. Partlow, Elisha Partlow, Sarah R. Partlow m. Edmund Morris, Lucy Partlow m. John W. Menefee, Martha Partlow m. John Behem, Clarissa Partlow m. Isham Cornwell, Catherine dec'd m. -- Menefee [children listed], Mary Partlow dec'd m. -- [Bowran]; son Thomas."
+
+Image 3 (Bill of Complaint, page 1): Opens: "To the worshipful court of Rappahannock County in chancery sitting. Humbly complaining sheweth unto the court, your orators John L. Partlow one of the children and heirs at law of Benjamin Partlow dec'd and administrator of the said Benjamin Partlow, that the said Benjamin Partlow of the county of Rappahannock, died intestate in the said county on the 23rd day of December 1837, seized in fee simple of four several tracts of mountain land situated in the said county containing in the whole eight hundred and four acres..."
+
+Image 3 (mid-page), the heirs list: "...your orator John L. Partlow, Elisha Partlow, Sarah R. Morris (relict of Edmund Morris), Lucy Menefee (wife of John M. Menefee), Martha Behem (wife of John Behem), Clarissa Cornwell (wife of Isham Cornwell) all of whom are children of the said Benjamin Partlow, the children of Catherine Menefee a deceased daughter of the said Benjamin Partlow, to wit: Janet Menefee, Lucy Bole (wife of Robert Bolan), John Menefee, Isham Menefee...[Mary Menefee, Catherine Menefee, and Sarah Menefee - the last five of whom are infants under age of 21 years], and Thomas P. Bowran the son of Mary Bowran a deceased daughter of the said Benjamin Partlow."
+
+Image 4 (Bill, page 2), advancements list: Names children who received advancements from Benjamin in his lifetime: Sarah Morris (1803), Elisha Partlow (1809), Lucy Menefee (1809), William Menefee husband of Catherine Menefee (1811), Mary Bowran (on her marriage), Martha Behem (on her marriage), Clarissa Cornwell.
+
+Image 4 (Bill, page 2), prayer section: Lists defendants: Elisha Partlow, Sarah R. Morris, John M. Menefee & Lucy his wife, John Behem & Martha Behem his wife, Isham Cornwell & Clarissa Cornwell his wife, Janet Menefee, Robert Bolen & Lucy Bolen his wife, Thomas P. Bowran.
+
+Result regarding Jacob: Jacob Partlow / Jacob Newton Partlow / "Nute" Partlow does not appear anywhere in this case - not as a plaintiff, defendant, named heir, distributee, or recipient of advancements.
+
+TARGET 2 - Culpeper County Deed Book FF, pp. 394-395
+
+Repository: LVA Chancery Records Index (indirect check); direct deed records not searched via LVA deed database (would require LVA local-record access)
+Search: The Culpeper Chancery database was searched fully for all Partlow-surname cases 1803-1927. Results: 4 cases (1857-002, 1868-003, 1894-016, 1899-009). None involve Benjamin/Clary to Jacob.
+Deed Book FF access: Not directly accessible online via any free portal during this session. The LVA microfilm catalog lists Culpeper deed books, but digital images of pre-1900 Culpeper deeds are not publicly available on Virginia Memory without a login.
+Result: Not retrieved online this session. Remains a next-step target.
+
+TARGET 3 - Rappahannock County Probate, Will Book A, p. 223
+
+Repository checked: LVA Virginia Memory, FamilySearch (required login for Rappahannock probate images)
+Search: FamilySearch catalog redirected to login; LVA's local-records portal did not surface a free-access Rappahannock Will Book A image.
+Context from chancery case: The 1842-002 Bill of Complaint already confirms Benjamin Partlow "died intestate...on the 23rd day of December 1837." Administration was committed to John L. Partlow at the January 1838 Rappahannock County Court term. Benjamin died intestate - so there is no Benjamin Partlow will; the "Will Book A, p. 223" reference likely records his administration bond or estate inventory.
+Result: Will Book A image not retrieved online this session. However, the chancery bill supersedes the inventory for identifying heirs and contains substantially more information.
+
+TARGET 4 - Spotsylvania County Will Book E, pp. 975-976 (John Partlow's will)
+
+Repository: LVA Chancery Index checked; direct Spotsylvania will book access attempted
+Result: Spotsylvania County wills are not indexed in the LVA Chancery database. The LVA Chancery search for SPOTSYLVANIA CO with surname Partlow returned results, but the specific will-book image was not retrieved in this session (would require LVA local records or FamilySearch login). This target remains for a follow-up step.
+
+Summary Table
+
+Target | Repository | Search Terms | Result
+Rappahannock Chancery | LVA Chancery Index | RAPPAHANNOCK CO, Plaintiff INCLUDES "Partlow" | Case 1842-002 / #53 FOUND - 69 images online
+Culpeper Chancery | LVA Chancery Index | CULPEPER CO, Surname INCLUDES "Partlow" | 4 cases returned; none from 1840-41; #53 is in Rappahannock, not Culpeper
+Culpeper Deed Book FF | LVA local deeds | n/a (not freely accessible online) | Not retrieved
+Rappahannock Will Book A | FamilySearch / LVA | Required login | Not retrieved; bill of complaint proves intestacy
+Spotsylvania Will Book E | LVA / FamilySearch | Required login | Not retrieved
+
+Final Conclusion
+
+The best primary-record source found online - Rappahannock County Chancery Case 1842-002 (original case number 53, filed 1840-41), accessible in full as 69 scanned images at https://old.lva.virginia.gov/chancery/case_detail.asp?CFN=157-1842-002 - directly and exhaustively names all children and heirs of Benjamin Partlow (d. intestate 23 Dec 1837).
+
+The complete list of Benjamin Partlow's children/heirs as stated in the Bill of Complaint (image 3) is:
+John L. Partlow; Elisha Partlow; Sarah R. Morris (nee Partlow); Lucy Menefee (nee Partlow); Martha Behem (nee Partlow); Clarissa Cornwell (nee Partlow); Catherine Menefee (deceased daughter, represented by her children); Mary Bowran (deceased daughter, represented by Thomas P. Bowran)
+
+Jacob Newton Partlow, Jacob Partlow, and "Nute" Partlow do NOT appear anywhere in this case.
+
+This is the strongest online primary record available for identifying Benjamin Partlow's children. It does not prove Jacob as Benjamin's child; in fact, it affirmatively omits Jacob from a sworn Bill of Complaint naming the complete heir class.
+
+Next Specific Online Record Targets
+
+1. Rappahannock County Will/Fiduciary Book A, p. 223 - Estate inventory or administration bond, Feb 1838. Best current access path: FamilySearch collection "Virginia, County Court Records" (requires free login) -> Rappahannock County -> Wills 1833-1900. This may name additional heirs or creditors not in the chancery bill.
+
+2. Culpeper County Deed Book FF, pp. 394-395 - The 1813 Benjamin & Clary gift deed to son Elisha. Access via: FamilySearch collection "Virginia, Land Records" -> Culpeper County -> Deed Books (login required), or by requesting a copy from the Culpeper County Circuit Court Clerk. This deed would confirm Elisha as Benjamin's son and fix Clarissa/Clary as his wife's name, but will not name Jacob unless a parallel deed exists.
+
+3. Remaining pages of Rappahannock Chancery 1842-002 (images 5-69) - The deposition transcripts and commissioner's reports may name additional Partlow family members. Pages 5-69 are freely accessible online and could contain testimony that names a Jacob or references a child not listed in the bill. The advancements list and distributee accounts in later pages are the highest-priority sections.
+
+4. Spotsylvania County Will Book E, pp. 975-976 - John Partlow's will naming son Benjamin and Culpeper land. Access: FamilySearch "Virginia, County Court Records" -> Spotsylvania County -> Will Book E (login required). Anchors Benjamin to John Partlow II but does not link Jacob to Benjamin.
+
+The present evidence, from the best available online primary record, does not support Jacob Newton Partlow as a child of Benjamin Partlow; it points instead to a different Benjamin Partlow family tree or to Jacob being a child of one of Benjamin's children (i.e., a grandchild).
