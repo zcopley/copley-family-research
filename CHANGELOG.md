@@ -10,6 +10,18 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4ET - Partlow Upstream Web Proof Narrowed to Primary Records (June 17, 2026)
+
+**PARTLOW UPSTREAM UPDATE:** Integrated the web-only upstream search for [[RQ-P1-PARTLOW-REVOLUTIONARY-LINE|RQ-P1 Partlow Revolutionary Line]]. The broad web pass found strong derivative support for **John Partlow II -> Benjamin Partlow -> Jacob Newton Partlow -> John H. / John Halleck Partlow** through DAR ancestor leads `A088405` / `A088406`, Benjamin's pension S5871 snippets, a WikiTree transcript of John Partlow II's Spotsylvania will, Find a Grave, Geni, FamilySearch-hosted compiled genealogy text, and a Google-indexed 1888 *History of Clark County, Illinois* passage. The line is now strongly supported, but not primary-proof complete.
+
+**PRIMARY GAP NOW IS JACOB -> BENJAMIN:** The remaining weak joint is no longer broad identity discovery. It is primary-record proof that **Jacob Newton Partlow** was a child or heir of **Benjamin Partlow**. The live web targets are now Culpeper County chancery case #53, Culpeper Deed Book FF pp. 394-395 and nearby Partlow deeds, Rappahannock County Will Book A p. 223, the original Spotsylvania Will Book E pp. 975-976 image, and a stable 1888 Clark County history page image / text.
+
+### Updated Pages
+
+- [[References/Partlow Upstream Revolutionary Line Web Search|Partlow Upstream Revolutionary Line Web Search]] - added the new source note and preserved the raw report at `static/sources/claude-partlow/partlow-upstream-revolutionary-line-web-search-claude-output.txt`.
+- [[RQ-P1-PARTLOW-REVOLUTIONARY-LINE|RQ-P1 Partlow Revolutionary Line]], [[People/Benjamin Partlow|Benjamin Partlow]], [[Open Record Targets]], [[Research Priorities and Action Items]], [[Sources and Evidence Index]], [[Source to Claim Matrix]], and [[Search Index]] - updated Partlow evidence status from unresolved upstream links to strong derivative support with a primary-record gap at Jacob -> Benjamin; added ORT-025 through ORT-028 for the new primary-record targets.
+- `CLAUDE.md`, `GEMINI.md`, and `.agents/AGENT_RESUME.md` - refreshed agent guidance so future web work does not repeat broad Partlow / Rude, census, book-search, or generic Jacob / Benjamin tasks and instead starts with LVA / county-record targets.
+
 ## Phase 4ES - Partlow Web Identity Chain Proven (June 16, 2026)
 
 **PARTLOW IDENTITY UPDATE:** Integrated the web-only identity-chain report for [[People/Marion Elizabeth Partlow|Marion Elizabeth Partlow]], **Frank / Nollie Franklin Partlow**, and **Alice / Mary Alice Rude Partlow**. The Marion -> Frank / Nollie + Alice / Mary Alice section is now proved for project purposes through 1900-1950 census records, Ray Partlow's 1934 Indiana marriage record naming parents **Frank Partlow** and **Alice Rude**, Find a Grave / obituary evidence, and FamilySearch-linked source clustering. The Clark County marriage return remains unlocated online, but it is now an optional ceremony-detail target rather than the identity-control target.

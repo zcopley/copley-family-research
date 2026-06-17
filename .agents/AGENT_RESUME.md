@@ -26,6 +26,15 @@ Maintain the public reader path, evidence-status pages, and master research queu
 
 ## What Was Just Completed
 
+- Integrated Zach's June 2026 upstream Partlow Revolutionary-line web search:
+  - preserved the raw report at `static/sources/claude-partlow/partlow-upstream-revolutionary-line-web-search-claude-output.txt`;
+  - added `References/Partlow Upstream Revolutionary Line Web Search.md`;
+  - recorded that *The Partlow Family and Connections* is confirmed as a real two-part Thomas E. Partlow genealogy but no open online scan was found in the checked routes;
+  - recorded DAR ancestor leads `A088405` for Benjamin Partlow and `A088406` for John Partlow, plus pension S5871 derivative snippets for Benjamin;
+  - recorded WikiTree / Graves transcript support for John Partlow II's Spotsylvania County will naming Benjamin and Culpeper land;
+  - recorded Find a Grave, Geni, FamilySearch compiled snippets, and 1888 Clark County history snippets as strong derivative support for Benjamin -> Jacob Newton Partlow and Jacob -> John H. / John Halleck Partlow;
+  - changed the active Partlow proof target from broad web searching to primary-record retrieval: Culpeper chancery case #53, Culpeper Deed Book FF pp. 394-395 and nearby Partlow deeds, Rappahannock Will Book A p. 223, original Spotsylvania Will Book E pp. 975-976, and a stable 1888 Clark County history page image / text.
+
 - Integrated Zach's June 2026 Lewis County Clerk / Michael Copley probate access-path updates:
   - preserved raw reports for Order Book 1-A, Settlement Book 34 / Probate Record P, and the verified clerk request channel under `static/sources/claude-michael-parents/`;
   - recorded that Order Book 1-A p. 45, Settlement Book 34 p. 176, and Probate Record P 4/155 are not online or FamilySearch-cataloged in the checked paths;

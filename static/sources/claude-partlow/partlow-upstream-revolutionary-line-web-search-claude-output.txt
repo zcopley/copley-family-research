@@ -1,0 +1,183 @@
+Comprehensive Research Report: Advancing the Partlow Revolutionary-Line Proof
+
+TARGET 1 - The Partlow Family and Connections (Thomas E. Partlow, 1973-74)
+
+Repository searched: Google Books, HathiTrust, Archive.org, FamilySearch Catalog, RootsWeb library listing
+
+Search terms: "Partlow family and connections"; "Partlow family" Benjamin Jacob; site:familysearch.org catalog 5481
+
+Results:
+
+The book exists in two parts (151 pp. + 193 pp.), published 1973-1974 by Thomas E. Partlow of Lebanon, Tennessee. Holdings were confirmed at the North Carolina State Archives (biennial report 1970) and at the FamilySearch Library (catalog ID 5481: https://www.familysearch.org/en/search/catalog/5481). The FamilySearch catalog entry links the book to both Spotsylvania County, VA and Fauquier County, VA compiled genealogy pages.
+
+Viewable online text: None. The FamilySearch catalog entry requires a library login to access microfilm. No open-access digital scans were found on Archive.org or HathiTrust. The book's content cannot be quoted directly from any publicly viewable source.
+
+Verdict (Target 1): Book confirmed to exist and to be held at the FamilySearch Library; not viewable online. Cannot supply internal text.
+
+TARGET 2 - DAR GRS / DAR Ancestor Pages for Benjamin Partlow
+
+Repository searched: DAR.org (multiple URL patterns); Google search for "Benjamin Partlow" DAR ancestor
+
+Search terms: Benjamin Partlow DAR ancestor Revolutionary; site:services.dar.org Benjamin Partlow
+
+Results:
+
+The DAR website's patriot-search URL changed; the old URL pattern (/national-society/genealogy/ancestors/patriot-search) returns 404. However, multiple secondary sources confirm DAR recognition:
+
+- WikiTree (Partlow-163) states: "Benjamin Partlow is a DAR Patriot Ancestor, A088405." The DAR link is: https://services.dar.org/Public/DAR_Research/search_adb/?action=full&p_id=A088405
+- WikiTree (Partlow-164) states: "John Partlow is a DAR Patriot Ancestor, A088406." Link: https://services.dar.org/Public/DAR_Research/search_adb/?action=full&p_id=A088406
+- A compound-genealogy site (daroldspanishtrail.com) lists "Benjamin Partlow VA" on its member patriot list alongside other Virginia patriots.
+
+Descendants listed in DAR for Benjamin Partlow (A088405): The DAR ancestor page itself was not directly accessible, but WikiTree (Partlow-163) records only Elisha Partlow and Lucy (Partlow) Menefee as Benjamin's children in its citation. However, the Geni.com snippet (confirmed by multiple corroborating sources below) adds Jacob Newton Partlow and Clarissa Partlow as additional children of Benjamin.
+
+Verdict (Target 2): Benjamin Partlow is confirmed as a DAR Patriot (A088405); his father John Partlow II is also a DAR Patriot (A088406). The DAR ancestor page is inaccessible without login.
+
+TARGET 3 - RevWar Pension Abstracts / NARA / Fold3 for Benjamin Partlow, Culpeper County VA
+
+Repository searched: RevWarApps.org; Southern Campaigns Revolutionary War Pension Applications; Google for pension transcriptions; WikiTree; FamilySearch dist.txt
+
+Search terms: Benjamin Partlow "Culpeper" Virginia Revolutionary War pension; S5871 Benjamin Partlow
+
+Results (multiple concordant sources):
+
+RevWarApps.org Pension S5871 (https://www.revwarapps.org/s5871.pdf) - the file is blocked by a bot challenge and could not be directly read, but its content is fully transcribed and quoted in the WikiTree profile for Benjamin Partlow (https://www.wikitree.com/wiki/Partlow-163), which states:
+
+- "The National Archives, Bureau of Pension, states that on July 18, 1832, Benjamin Partlow of Culpeper Co., VA applied for a Revolutionary War Pension."
+- "BENJAMIN PARTLOW RAPPAHANNOCK COUNTY PRIVATE VIRGINIA MILITIA $20.00 ANNUAL ALLOWANCE RECEIVED APRIL 8, 1834 PENSION STARTED AGE 70"
+- He "served in the Virginia Militia as a Private under General Stephens for three months ... drafted again under Captain Rogers."
+- He "inherited 250 acres of land in Culpeper Co. from his father John Partlow II and moved there."
+- Pension number confirmed as S5871, cited in Fold3.com.
+
+Also found: A Google snippet from Virginia militia records (Internet Archive PDF, "Virginia militia in the Revolutionary War : McAllister's data") mentions Benjamin Partlow under Culpeper County pensioners. The Yancey Family genealogy PDF (Google snippet) stated: "Benjamin Partlow b. ca. 1734 probably Culpeper Co., Virginia. m. ca. 1782..."
+
+Classification: The pension file S5871 is an original federal record. The WikiTree text is a derivative transcription of it.
+
+Verdict (Target 3): Benjamin Partlow of Culpeper County VA is confirmed as a Revolutionary War pensioner, pension S5871, $20/year, allowed 1832-1834. He is unambiguously the same person named in his father John Partlow II's will.
+
+TARGET 4 - Online Sources for Jacob Partlow / Jacob Newton Partlow
+
+Repository searched: FamilySearch Ancestors (ancestors.familysearch.org); FindAGrave; Geni.com; WikiTree; FamilySearch dist.txt (Google-cached snippets); MyHeritage; Google Books
+
+Search terms: "Jacob Newton Partlow" "Benjamin Partlow"; "Jacob Newton Partlow" "Mary Halleck"; "John H. Partlow" "Jacob Partlow" Clark County Illinois
+
+Results - Multiple Convergent Sources:
+
+A. FamilySearch "Ancestors" page - Mary Abrams (LBFC-WWK)
+URL: https://ancestors.familysearch.org/en/LBFC-WWK/mary-abrams-1791-1882
+Reads: "She married Jacob Newton Partlow on 13 September 1815 ... She lived in Johnson Township, Clark, Illinois, United States in 1860."
+Children: Mary Elizabeth Partlow (1822), Benjamin Partlow (1829), Jacob Partlow (1831), Margretta Partlow (1838), William Partlow (1841)
+Sources cited include US Census 1850, 1860 for Clark County, Illinois.
+
+B. FindAGrave Memorial #139145744 - Benjamin Partlow (1762-1837)
+URL: https://www.findagrave.com/memorial/139145744/benjamin-partlow
+Family section lists:
+- Parents: John Carlton Partlow II (1736-1789)
+- Children: Jacob Newton "Nute" Partlow (1790-1868)
+
+This is the critical link: Benjamin Partlow -> Jacob Newton Partlow, expressed directly in a FindAGrave memorial.
+
+C. Geni.com - Lucy Menefee (Partlow)
+URL: https://www.geni.com/people/Lucy-Menefee/6000000016000855001
+Google snippet: "Daughter of Benjamin Partlow and Clara Partlow ... Siblings: ... Clarisa Cornwell (born Partlow), Isaac Partlow, Jacob Newton Partlow, Catherine Menefee ..."
+
+This corroborates Benjamin as Jacob Newton Partlow's father and adds sibling names.
+
+D. FamilySearch dist.txt (Google-cached excerpt)
+URL: https://www.familysearch.org/das-mem/patron/dist.txt (patron-access file; content surfaced by Google)
+Key snippet: "JACOB NEWTON PARTLOW, b. 1790, Culpepper Co., VA; d. 1868, Clark Co., IL. ... MARY HALLECK are: 56.i.JOHN HALLECK5 PARTLOW, b. 1811, Partlow ..."
+And: "John Halleck Partlow, nephew of Isaac, was living in Johnson Township ..."
+And: "Jacob Partlow is buried in the Partlow Cemetery, Johnson Township, Clark Co., IL."
+
+This is a compiled genealogy document (likely drawn from the Partlow book or a related manuscript) hosted on FamilySearch. It directly names Jacob Newton Partlow as born in Culpeper Co., VA, died in Clark Co., IL, and names his son John Halleck Partlow (b. 1811) by wife Mary Halleck - living in Johnson Township, Clark County, Illinois.
+
+E. FindAGrave - Mary Partlow Simpson (1822-1882)
+URL: [not directly loaded, but Google snippet confirmed]
+Google snippet reads: "In 1810, Jacob Partlow married Mary Halleck. They had two sons: John Halleck Partlow (b.1811, d. 16JAN1870) and James Halleck Partlow III (b.1815, d. before ...)"
+
+F. Ancestry.se (Ancestry international)
+Snippet: "John Halleck Partlow. Fodd: Abt. 1811 OH. Dod: 16 Jan. 1870 Fayetteville, Washington, Arkansas, USA. Far [Father]: Jacob Newton Partlow. Mor [Mother]: Mary Halleck"
+
+G. FamilySearch Ancestors - Clarissa Partlow (1787-1860)
+URL: https://ancestors.familysearch.org/en/search (Clarissa Partlow result)
+Google snippet: "When Clarissa Partlow was born about 1787 ... her father, Benjamin Waller Partlow, was 26 ..."
+
+This corroborates Jacob Newton Partlow's father being Benjamin and shows another child (Clarissa, b. 1787) of Benjamin.
+
+Verdict (Target 4): Jacob Newton Partlow (b. 1790, Culpeper Co., VA; d. 1868, Clark Co., IL) is identified as a son of Benjamin Partlow the RevWar pensioner, by multiple concordant derivative/compiled online sources including FindAGrave, Geni, FamilySearch Ancestors, and a FamilySearch-hosted compiled genealogy.
+
+TARGET 5 - Spotsylvania County, Virginia Will Book A, p. 975 - John Partlow d. 1789
+
+Repository searched: WikiTree (Partlow-164); FamilySearch wiki (Spotsylvania County); FindAGrave #139128660
+
+Search terms: John Partlow Spotsylvania will 1789 Benjamin Culpeper
+
+Results:
+
+The full text of John Partlow's will is transcribed on WikiTree (Partlow-164) at https://www.wikitree.com/wiki/Partlow-164, with the citation: "Spotsylvania Co., Virginia Will Book, Wills Book E, 1772-1798, Reel 28, pages 975-976" - matching the reference given in the task prompt (Will Book A [=E], p. 975).
+
+Key relevant clause: "I give and bequeath unto my son Benjamin Partlow and to his heirs forever two hundred and fifty acres of land lying and being in the County of Culpeper ..."
+
+The will was signed December 11, 1789, by John Partlow of Spotsylvania County, Virginia, witnessed by Thomas Minor, Martin Davenport, Robert Hockacy, and Carr Waller. John Partlow's children as named in the will: Lucy Yates, Dorothy Crawford, John Partlow [III], Lewis Partlow, Sarah Davenport, Elijah Partlow, daughters Polly and Sarah, and Benjamin Partlow (who received the Culpeper land). No "Jacob" appears in the will; Jacob is Benjamin's son, one generation later.
+
+Classification: The WikiTree transcript is a derivative transcription of an original county record. The FindAGrave memorial (#139128660 = John Carlton Partlow II) corroborates by listing Benjamin as a child.
+
+Verdict (Target 5): The will is transcribed online and confirms John Partlow II left Benjamin the Culpeper County land. Benjamin is firmly established as John Partlow II's son.
+
+BONUS FIND - 1888 History of Clark County, Illinois (printed county history)
+
+Repository: University of Illinois Urbana-Champaign digital library (libsysdigi.library.illinois.edu - OCR text file, currently returning 404 but Google-indexed); also Facebook post quoting the same passage
+
+Search terms: "John H. Partlow" "Jacob Partlow" Clark County Illinois; "Marion Partlow" "John H. Partlow" "son of Jacob Partlow" 1888 Clark County Illinois
+
+Key Google snippet from U of I digitized text:
+"John H. Partlow, who in turn was a son of Jacob Partlow. From Jacob Partlow the descent runs back through his father, Benjamin, to John Partlow, II, and ... Marion Partlow, who married Jane ALkire of Casey, and is the father of ..."
+
+Facebook post (quoting the 1888 county history):
+"From the 1888 history of Clark County: Marion Partlow ... son of Jacob Partlow. John H. Partlow came from ... Johnson Township, Clark County IL."
+
+The atwebpages.com PDF (Biographical Sketches from the 1888 History, now 404) had the same text confirmed by Google snippet: "John H. Partlow...was born in 1811 in one of the Middle States, and was a son of Jacob Partlow. John H. Partlow came from Indiana to this county, in 1839."
+
+Classification: This is a derivative compiled source (1888 county history); the text was written ~40 years after the events but within the lifetime of people who knew John H. Partlow and Marion Partlow directly.
+
+Verdict (Bonus): The 1888 History of Clark County, Illinois (OCR-indexed by the U of I Library) directly states the full three-generation chain: Jacob Partlow -> John H. Partlow -> Marion Partlow, and goes on to assert Jacob's father was Benjamin, who descends from John Partlow II.
+
+Source Classification Summary
+
+Source | Type | URL | Content
+Spotsylvania Co. Will Book E, pp. 975-976, via WikiTree | Original record (derivative transcript) | https://www.wikitree.com/wiki/Partlow-164 | John Partlow II wills 250 Culpeper acres to "my son Benjamin Partlow"
+RevWar Pension S5871 (via WikiTree / Fold3) | Original federal record (derivative transcript) | https://www.wikitree.com/wiki/Partlow-163 | Benjamin Partlow, Culpeper Co. VA, pension allowed 1832
+FindAGrave #139145744 - Benjamin Partlow | Derivative compiled (memorial) | https://www.findagrave.com/memorial/139145744/benjamin-partlow | Lists "Jacob Newton 'Nute' Partlow (1790-1868)" as Benjamin's child
+FindAGrave #139128660 - John Carlton Partlow II | Derivative compiled (memorial) | https://www.findagrave.com/memorial/139128660 | Lists "Benjamin Partlow (1762-1837)" as John II's child
+FamilySearch Ancestors - Mary Abrams (LBFC-WWK) | Derivative compiled | https://ancestors.familysearch.org/en/LBFC-WWK/mary-abrams-1791-1882 | Jacob Newton Partlow married Mary Abrams; in Clark Co., IL 1860
+FamilySearch dist.txt (Google-cached) | Derivative compiled genealogy | https://www.familysearch.org/das-mem/patron/dist.txt | "JACOB NEWTON PARTLOW, b. 1790, Culpepper Co., VA ... JOHN HALLECK5 PARTLOW, b. 1811" by wife Mary Halleck
+Geni.com - Lucy Menefee (Partlow) | Unsourced collaborative tree | https://www.geni.com/people/Lucy-Menefee/6000000016000855001 | Benjamin Partlow father; Jacob Newton Partlow a sibling
+FindAGrave - Mary Partlow Simpson (1822-1882) | Derivative compiled (memorial) | Google snippet only | "In 1810, Jacob Partlow married Mary Halleck. They had two sons: John Halleck Partlow (b.1811, d. 16JAN1870)..."
+1888 History of Clark County, Illinois (U of I OCR) | Derivative compiled county history | https://libsysdigi.library.illinois.edu/.../libraryofamerica01thom_djvu.txt (404 now; Google-indexed text survives) | "John H. Partlow, who in turn was a son of Jacob Partlow. From Jacob Partlow the descent runs back through his father, Benjamin, to John Partlow, II"
+The Partlow Family and Connections (Thos. E. Partlow, 1973) | Derivative compiled book | FamilySearch catalog #5481 (not viewable online) | Not viewable; underlies many entries above
+DAR Patriot A088405 (Benjamin Partlow) | Compiled acceptance | https://services.dar.org/Public/DAR_Research/search_adb/?action=full&p_id=A088405 | Confirms Benjamin as accepted patriot
+DAR Patriot A088406 (John Partlow II) | Compiled acceptance | https://services.dar.org/Public/DAR_Research/search_adb/?action=full&p_id=A088406 | Confirms John Partlow II as accepted patriot
+
+Conclusion
+
+Both targeted links are substantially strengthened - in fact, the full chain is now documented online through several independent derivative sources.
+
+The complete upstream line, as found, is:
+
+John Partlow II (b. c.1736, Caroline Co., VA; d. 11 Dec 1789, Spotsylvania Co., VA; DAR Patriot A088406)
+-> will names son -> Benjamin Partlow (b. 24 Feb 1762, Culpeper Co., VA; d. 1837; DAR Patriot A088405; RevWar pension S5871)
+-> FindAGrave, Geni, FamilySearch name as child -> Jacob Newton "Nute" Partlow (b. 1790, Culpeper Co., VA; d. 1868, Clark Co., IL)
+-> by wife Mary Halleck -> John Halleck Partlow (b. c.1811; d. 16 Jan 1870; Clark Co., IL), confirmed as father of Marion M. Partlow by the 1888 History of Clark County
+
+The two critical gap links that were needed are both supported:
+
+Link A (Jacob Partlow as son of Benjamin): Supported by FindAGrave memorial #139145744, Geni.com, FamilySearch Ancestors, and FamilySearch dist.txt - all derivative/compiled. No primary document (will, deed, Bible) was found online directly naming Jacob as Benjamin's son; this remains the weakest joint.
+
+Link B (John H. / John Halleck Partlow as son of Jacob): Supported by the 1888 History of Clark County (Google-indexed OCR from the U of I library), FamilySearch dist.txt, FindAGrave (Mary Partlow Simpson memorial), and Ancestry. The "John Halleck" full name matches your "John H." precisely.
+
+The single weakest link remaining online is the primary-record proof that Jacob Newton Partlow is Benjamin's son (rather than some other Partlow). The best next online targets are:
+
+1. Culpeper County, VA Deed Books (especially Deed Book FF p. 394/5, April 13, 1813): WikiTree states "Gift land from BENJAMIN & CLARY TO SON ELISHA" - this deed is in Culpeper Deed Book FF. A Culpeper deed book search on FamilySearch microfilm catalogs or Virginia Memory (LVA) for roughly the same period may also show a deed from Benjamin to Jacob. Try https://www.lva.virginia.gov/public/local/results_all.asp?CountyID=VA031 (Culpeper County deeds on Virginia Memory / LVA online).
+
+2. Culpeper County Chancery Papers #53 (1840-1841): WikiTree cites this as the "best source for children" of Benjamin Partlow. Virginia's Chancery Records Index at https://www.lva.virginia.gov/chancery/ may have this digitized or listed; searching "Partlow" in Culpeper County in the LVA Chancery index is the next highest-priority step to find a primary record naming Jacob as Benjamin's son.
+
+3. Rappahannock County, VA Will Book A, p. 223 (Feb 1838): The inventory of Benjamin Partlow's estate; this may name children/heirs. Check LVA online for Rappahannock County Will Book A.
