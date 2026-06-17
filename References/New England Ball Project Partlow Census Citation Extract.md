@@ -20,6 +20,7 @@ Related found-record notes:
 
 - [[References/1880 Marion McDonald Partlow Household]] now confirms the 1880 Johnson Township original-image target for **Marion Partlow** and son **Nollie Frank**.
 - [[References/Clark County Illinois 1900 Partlow Rude Census Check]] confirms the 1900 Johnson Township target for **Frank N Partlow** and separately locates **Mary A Rude** nearby in the same enumeration district.
+- [[References/1850 and 1860 John Halleck Partlow Household]] now confirms the 1850 and 1860 Johnson Township original-image targets for **John H. / John Partlow**, **Lydia / Sydia**, and **Marion / Marion M.**.
 
 ## John Halleck Partlow and Lydia Bennett
 
@@ -29,12 +30,12 @@ It cites the following census entries:
 
 | Year | Date | Place | Reported household detail | Citation target |
 |---|---:|---|---|---|
-| 1850 | 20 Oct 1850 | Johnson, Clark County, Illinois | "John H.", age 38, born Ohio, chair maker; wife Lydia; children Ann, Lucinda, Sophia, Charlotte, Rosanna/Rowan, Melissa, Marion, and Columbus | 1850 U.S. Census, Johnson, Clark Co., IL, p. 550, back of stamped p. 275 |
-| 1860 | 19 Jun 1860 | Johnson, Clark County, Illinois | "John", age 49, born Ohio, chair maker; wife Lydia; children Sophia, Charlotte, Rowan, Melissa, Marion, Columbus, Jacob, and Phebe | 1860 U.S. Census, Johnson, Clark Co., IL, p. 65 |
+| 1850 | 1850 | Johnson, Clark County, Illinois | Original image reads John H. / `Jhn Hc.` Partlow, age 38, born Ohio; wife Sydia / Lydia; children Ann Eliza, Lucinda, Sophia, Charlotte, Roan / Rowan, Melissa, Momon / Momore (= Marion), and Columbus; FamilySearch misindexed surname as `Partton` | 1850 U.S. Census, Johnson, Clark Co., IL, p. 550; FamilySearch `M85V-23D`, `M85V-232`, image `S3HY-DTN7-NYR` |
+| 1860 | 12 Jun 1860 | Johnson, Clark County, Illinois | Original image reads John Partlow, age 49, born Ohio; Sydia / Lydia; Sophia, Shatoty / Charlotte, Roan, Marion M, Melissa, Columbus N, Jacob P, Phebe, and John Larrison | 1860 U.S. Census, Johnson, Clark Co., IL, p. 135; FamilySearch `MXCM-3FC`, `MXCM-3FX`, image `33SQ-GBF7-DF4` |
 
 Research value:
 
-- These citations support **Marion McDonald Partlow -> John Halleck Partlow / Lydia Bennett**.
+- These original-image citations support **Marion McDonald Partlow -> John Halleck Partlow / Lydia Bennett**.
 - The **John Halleck Partlow -> Jacob Partlow** relationship is still derivative and comes from the cited RootsWeb database, not from the 1850/1860 census images.
 
 ## Marion McDonald Partlow
@@ -43,8 +44,8 @@ The New England Ball Project identifies **Marion McDonald Partlow** as a son of 
 
 | Year | Date | Place | Reported household detail | Citation target |
 |---|---:|---|---|---|
-| 1850 | 20 Oct 1850 | Johnson, Clark County, Illinois | "Momon", age 2, born Illinois, with parents | 1850 U.S. Census, Johnson, Clark Co., IL, p. 550, back of stamped p. 275 |
-| 1860 | 19 Jun 1860 | Johnson, Clark County, Illinois | "Marion M.", age 16, born Illinois, with parents | 1860 U.S. Census, Johnson, Clark Co., IL, p. 65 |
+| 1850 | 1850 | Johnson, Clark County, Illinois | `Momon` / `Momore`, age 2, born Illinois, with John H. / Sydia Partlow; FamilySearch misindexed surname as `Partton` | 1850 U.S. Census, Johnson, Clark Co., IL, p. 550; FamilySearch `M85V-232`, image `S3HY-DTN7-NYR` |
+| 1860 | 12 Jun 1860 | Johnson, Clark County, Illinois | `Marion M`, age 16, born Illinois, with John / Sydia Partlow | 1860 U.S. Census, Johnson, Clark Co., IL, p. 135; FamilySearch `MXCM-3FX`, image `33SQ-GBF7-DF4` |
 | 1880 | 11 Jun 1880 | Johnson, Clark County, Illinois | Original image reads `Marion`, age 32, farmer; wife `Marth`; son `Nollie Frank`, age 6; Henry; Ora Dell; brother Newton; half-brothers John H. and Richard L. | 1880 U.S. Census, Johnson, Clark Co., IL, ED 37, Sheet 87B, p. 22, dwelling/family 205; FamilySearch `MXNZ-S2M`, `MXNZ-32S`, image `33S7-9YB4-VPC` |
 | 1900 | 7 Jun 1900 | Johnson, Clark County, Illinois | "Marion", age 53, born Illinois, widower, farmer; sons Frank and Henry; living with brother Columbus | 1900 U.S. Census, Johnson, Clark Co., IL, ED 8, Sheet 7A, stamped p. 85 |
 | 1910 | 21 Apr 1910 | Johnson, Clark County, Illinois | "Marion", age 66, born Illinois; second wife Julia; son Henry | 1910 U.S. Census, Johnson, Clark Co., IL, ED 10, Sheet 8A, stamped p. 100 |
@@ -53,7 +54,7 @@ The New England Ball Project identifies **Marion McDonald Partlow** as a son of 
 Research value:
 
 - The 1880 original image and 1900 citation support **Frank / Nollie Frank Partlow -> Marion McDonald Partlow**.
-- The 1850 and 1860 citations support **Marion McDonald Partlow -> John Halleck Partlow / Lydia Bennett**.
+- The 1850 and 1860 original images support **Marion McDonald Partlow -> John Halleck Partlow / Lydia Bennett**.
 - The 1910 and 1920 entries may help distinguish Marion's later household and should be captured, but they do not by themselves prove Zach's direct descent through Frank/Nollie.
 
 ## Clark County Census Microfilm Roll Targets
@@ -76,7 +77,7 @@ Research value:
 - If using FamilySearch, Ancestry, HeritageQuest, Internet Archive, NARA, or a library microfilm catalog, search by the roll number first, then navigate to the township/ED/page target.
 - The 1880 target has now been found in FamilySearch as ED 37, Sheet 87B, p. 22, dwelling/family 205, image 425 of 834, with Nollie Frank directly listed as son of Marion Partlow.
 - The 1900 Frank N Partlow target has now been found in FamilySearch as ED 8, sheet 7A, line 5, image 174 of 514, digital film `004113698`; use the found-record notes above before reassigning either task.
-- The 1850 and 1860 rolls are the highest priority for proving **Marion McDonald Partlow -> John Halleck Partlow / Lydia Bennett**.
+- The 1850 and 1860 targets have now been found in FamilySearch. The 1850 household is misindexed under `Partton`; the 1860 NEBP page target differs from the original image, which shows page 135.
 
 ## Remaining Cautions
 
@@ -92,3 +93,4 @@ Research value:
 4. USGenWeb Census Project, "Illinois - The USGenWeb Census Project," Clark County roll index: https://www.us-census.org/states/illinois/c-il.htm
 5. [[References/Clark County Illinois 1900 Partlow Rude Census Check]].
 6. [[References/1880 Marion McDonald Partlow Household]].
+7. [[References/1850 and 1860 John Halleck Partlow Household]].

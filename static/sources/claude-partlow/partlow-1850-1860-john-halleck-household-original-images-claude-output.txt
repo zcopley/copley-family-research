@@ -1,0 +1,131 @@
+Complete Research Report: 1850 and 1860 Census Images for John H. / John Halleck Partlow
+
+1850 U.S. Census
+
+Indexed Record — John H. Partlow
+
+- Indexed name: John H Partton (surname misindexed as Partton instead of Partlow)
+- Indexed record ARK: ark:/61903/1:1:M85V-23D
+- URL: https://www.familysearch.org/ark:/61903/1:1:M85V-23D
+- FamilySearch tree attached to: John Halleck Partlow, 1811-1870, KXVY-H7Z
+- Collection: United States, Census, 1850, FamilySearch collection 1401638
+- Schedule type: 1850 Population
+- NARA series: M432, Roll 100, Illinois: Christian, Clark, Clay, Clinton counties
+
+Indexed Record — Marion M. Partlow
+
+- Indexed name: Momore Partton (given name misread as Momore; surname misindexed as Partton)
+- Indexed record ARK: ark:/61903/1:1:M85V-232
+- URL: https://www.familysearch.org/ark:/61903/1:1:M85V-232
+- Sex indexed as: Male
+- Age: 2 years
+- Estimated birth year: 1848
+
+Original Image
+
+- Image ARK: ark:/61903/3:1:S3HY-DTN7-NYR
+- Image viewer URL: https://www.familysearch.org/ark:/61903/3:1:S3HY-DTN7-NYR?view=index&cc=1401638
+- APID: TH-267-11596-150235-82
+- Image number: 309 of 545
+- Written page number: 550
+- New England Ball Project target: p. 550, back of stamped p. 275; page 550 confirmed
+- Township: Johnson Township
+- County/state: Clark County, Illinois
+- Date: 1850
+
+1850 Household Transcript
+
+Surname read from original deep-zoom tiles as Partlow. FamilySearch misindexed the surname as Partton.
+
+| Name as written / indexed | Sex | Age | Birthplace | Notes |
+|---|---|---:|---|---|
+| Jhn Hc. Partlow / John H Partton | M | 38 | Ohio | Head of household; household no. 1581 |
+| Sydia / Lydia Partlow | F | 37 | Ohio | Wife |
+| Ann Eliza Partlow | F | 14 | Ohio | Daughter |
+| Lucinda Partlow | F | 12 | Indiana | Daughter |
+| Sophia Partlow | F | 10 | Indiana | Daughter |
+| Charlotte Partlow | F | 8 | Illinois | Daughter |
+| Roan / Rowan Partlow | F | 6 | Illinois | Daughter |
+| Melissa Partlow | F | 4 | Illinois | Daughter |
+| Momon / Momore Partlow | M | 2 | Illinois | Marion McDonald Partlow |
+| Columbus Partlow | M | 1 | Illinois | Son |
+
+1850 Interpretation
+
+The original image strongly supports Marion McDonald Partlow as a child of John H. Partlow and Lydia Bennett Partlow. The child's written given name is difficult, with the best defensible reading Momon and the FamilySearch index reading Momore. New England Ball Project also noted Momon. The age, sex, birthplace, household, and later 1860 Marion M. record identify this child as Marion McDonald Partlow.
+
+Nearby Partlow household: Isaac Partlow appears seven pages earlier, image 302 / page 543, as a nearby relation. No other Partlow household appears on page 550 itself.
+
+1860 U.S. Census
+
+Indexed Record — John Partlow
+
+- Indexed name: John Partlow
+- Indexed record ARK: ark:/61903/1:1:MXCM-3FC
+- URL: https://www.familysearch.org/ark:/61903/1:1:MXCM-3FC
+- FamilySearch tree attached to: John Halleck Partlow, 1811-1870, KXVY-H7Z
+- Collection: United States, Census, 1860, FamilySearch collection 1473181
+- NARA series: M653
+
+Indexed Record — Marion M. Partlow
+
+- Indexed name: Marion M Partlow
+- Indexed record ARK: ark:/61903/1:1:MXCM-3FX
+- URL: https://www.familysearch.org/ark:/61903/1:1:MXCM-3FX
+- Sex indexed as: Male
+- Age: 16
+- Estimated birth year: 1844
+- Birthplace: Illinois
+- Page number: 135
+- FamilySearch tree attached to: Marion McDonald Partlow, male, 1844-1922, K26G-LQ5
+
+Original Image
+
+- Image ARK: ark:/61903/3:1:33SQ-GBF7-DF4
+- Image viewer URL: https://www.familysearch.org/ark:/61903/3:1:33SQ-GBF7-DF4?view=index&cc=1473181
+- APID: TH-1942-25655-11257-32
+- Image number: 139 of 636
+- Written page number: 135
+- New England Ball Project target: p. 65; does not match the original image / FamilySearch page number
+- Township: Johnson Township
+- County/state: Clark County, Illinois
+- Date enumerated: 12 Jun 1860
+- Post office: Barry
+
+1860 Household Transcript
+
+| Name as indexed | Name as written | Sex | Age | Birthplace |
+|---|---|---|---:|---|
+| John Partlow | John Pa[rtlow] | M | 49 | Ohio |
+| Lydia Partlow | Sydia [Partlow] | F | 47 | Ohio |
+| Sophia Partlow | Sophia | F | 21 | Indiana |
+| Shatoly Partlow | Shatoty | F | 19 | Illinois |
+| Roan Partlow | Roan | F | 17 | Illinois |
+| Marion M Partlow | Marion M | M | 16 | Illinois |
+| Melissa Partlow | Melissa | F | 15 | Illinois |
+| Columbus N Partlow | Columbus [N] | M | 11 | Illinois |
+| Jacob P Partlow | Jacob [P] | M | 6 | Illinois |
+| Phebe Partlow | Phebe | F | 4 | Illinois |
+| John Larrison | John Larrison | M | 20 | Illinois |
+
+1860 Interpretation
+
+The original image conclusively supports Marion McDonald Partlow as a child in the John Partlow / Lydia household. The name reads clearly as Marion M, age 16, born Illinois, in Johnson Township, Clark County, Illinois.
+
+Nearby Partlow household: Benjamin Partlow and Sarah An Partlow appear on the same page as a separate household immediately following John Partlow's household.
+
+Discrepancies and Notes
+
+- 1860 page number: New England Ball Project cited p. 65, but the original image and FamilySearch panel show page 135. This may be a different pagination system or a citation error.
+- 1850 surname indexing: FamilySearch misindexed the household as Partton; the image reads Partlow.
+- 1850 Marion given name: FamilySearch reads Momore; NEBP noted Momon. The original handwriting is difficult. The most defensible reading is Momon, an unusual rendering that is identified as Marion by household continuity and the 1860 Marion M entry.
+- Marion sex: both census records index Marion as male, consistent with Marion McDonald Partlow, 1844-1922.
+
+Permanent Citation URLs
+
+- 1850 John H. Partlow indexed record: https://www.familysearch.org/ark:/61903/1:1:M85V-23D
+- 1850 Momore / Marion Partlow indexed record: https://www.familysearch.org/ark:/61903/1:1:M85V-232
+- 1850 original image: https://www.familysearch.org/ark:/61903/3:1:S3HY-DTN7-NYR?view=index&cc=1401638
+- 1860 John Partlow indexed record: https://www.familysearch.org/ark:/61903/1:1:MXCM-3FC
+- 1860 Marion M. Partlow indexed record: https://www.familysearch.org/ark:/61903/1:1:MXCM-3FX
+- 1860 original image: https://www.familysearch.org/ark:/61903/3:1:33SQ-GBF7-DF4?view=index&cc=1473181
