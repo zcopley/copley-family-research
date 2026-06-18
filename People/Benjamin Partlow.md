@@ -17,7 +17,7 @@ tags:
 
 ## Biographical Profile
 
-[[Benjamin Partlow]] was long treated in family and derivative sources as an ancestor of [[Marion Elizabeth Partlow]], the wife of [[Michael Joseph Copley]]. He is an early documented Partlow family member and a **Revolutionary War veteran**. The direct line from Marion back to Benjamin is now in doubt: the best online primary record found so far for Benjamin's heirs omits **Jacob Newton Partlow**, the supposed connecting ancestor.
+[[Benjamin Partlow]] was long treated in family and derivative sources as an ancestor of [[Marion Elizabeth Partlow]], the wife of [[Michael Joseph Copley]]. He is an early documented Partlow family member and a **Revolutionary War veteran**. The direct line from Marion back to Benjamin is now contradicted at the supposed connecting generation: the complete Rappahannock chancery file for Benjamin's estate omits **Jacob Newton Partlow** from every heir, party, advancement, and distribution list.
 
 - **Born:** c. 1762 (pension cover sheet states he was "seventy")
 - **Residence at time of pension:** Culpeper County, Virginia
@@ -77,12 +77,12 @@ graph TD
     classDef descendant fill:#d3f9d8,stroke:#2b8a3e,color:#102a12;
 ```
 
-Treat this chain as a disputed research lead, not as a proved lineage. A Graves Family Association page and a WikiTree transcript cite **Spotsylvania County Will Book E, pp. 975-976** (also described in earlier notes as Will Book A, p. 975) for John Partlow, died 11 Dec 1789, and report that the will named son **Benjamin Partlow** and 250 acres in Culpeper County. That supports the pre-Revolution step from John Partlow II to Benjamin, but the original will-book image still needs review.
+Treat this chain as a contradicted research lead at **Benjamin -> Jacob**, not as a proved lineage. A Graves Family Association page and a WikiTree transcript cite **Spotsylvania County Will Book E, pp. 975-976** (also described in earlier notes as Will Book A, p. 975) for John Partlow, died 11 Dec 1789, and report that the will named son **Benjamin Partlow** and 250 acres in Culpeper County. That supports the pre-Revolution step from John Partlow II to Benjamin, but the original will-book image still needs review.
 
 The June 2026 upstream web search found derivative support for the two previously weak links:
 
 - **Jacob Newton Partlow -> John H. / John Halleck Partlow:** supported by a Google-indexed 1888 *History of Clark County, Illinois* snippet and a FamilySearch-hosted compiled genealogy excerpt naming John Halleck as Jacob's child.
-- **Benjamin Partlow -> Jacob Newton Partlow:** formerly supported by Find a Grave memorial `139145744`, Geni, FamilySearch Ancestors / snippets, and the same compiled genealogy cluster. This link is now contradicted or seriously weakened by [[References/Rappahannock Partlow Chancery Case 1842-002]], whose bill of complaint names Benjamin's children / heirs and omits Jacob / Jacob Newton / Nute.
+- **Benjamin Partlow -> Jacob Newton Partlow:** formerly supported by Find a Grave memorial `139145744`, Geni, FamilySearch Ancestors / snippets, and the same compiled genealogy cluster. This link is now contradicted by [[References/Rappahannock Partlow Chancery Case 1842-002]], whose complete 69-image file names Benjamin's eight child / heir lines and omits Jacob / Jacob Newton / Nute everywhere.
 
 The local handwritten lineage gives useful details for the direct proof search: Jacob Partlow was born in Culpeper County, Virginia and died in Clark County, Illinois; John H. Partlow came to Illinois in 1839 and reportedly died in Arkansas in 1870; Marion M. Partlow's first wife was Martha L. Bowles; and Frank Partlow married Alice Rude on 10 Jun 1900. See [[References/Harry C Partlow 1960 Letter and Handwritten Lineage]].
 
@@ -92,11 +92,11 @@ Family tradition holds the Partlows emigrated from **Wales** to Virginia before 
 
 1. Exact birth date and birthplace not established.
 2. Wife's name not confirmed.
-3. The proposed Benjamin -> Jacob Newton Partlow link is disputed; the Rappahannock chancery heir list omits Jacob.
+3. The proposed Benjamin -> Jacob Newton Partlow link is contradicted; the full Rappahannock chancery file omits Jacob and distributes Benjamin's estate through eight child-lines.
 4. Clarissa "Barnee" (shown as Benjamin's possible spouse in the Ancestry screenshot) needs independent confirmation.
 5. Pension file (NARA) may contain additional biographical detail.
 6. Original Spotsylvania County will record for John Partlow needs to be checked to verify the online transcript / abstract naming Benjamin.
-7. Remaining Rappahannock chancery images, Culpeper deeds, and Rappahannock estate records need to be checked to confirm whether Jacob is absent throughout or appears only as a collateral / non-heir.
+7. Rappahannock deeds, order books, administration bonds, and tax records may clarify Benjamin's collateral Partlow network, especially Henry B. and Benjamin L. Partlow as land-sale purchasers.
 
 ## Acquisition Strategy
 

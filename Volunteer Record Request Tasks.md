@@ -645,7 +645,7 @@ Re: Benjamin Partlow Revolutionary War pension / family proof request
 
 Dear Records Staff,
 
-I am researching the Partlow family line connected to Marion Elizabeth Partlow Copley. I am trying to evaluate a proposed line from Marion Elizabeth Partlow back to Revolutionary War veteran Benjamin Partlow. A Rappahannock County chancery case naming Benjamin's heirs omits Jacob Partlow, so I am especially interested in records that prove or disprove Jacob Partlow's parents.
+I am researching the Partlow family line connected to Marion Elizabeth Partlow Copley. I am trying to evaluate a proposed line from Marion Elizabeth Partlow back to Revolutionary War veteran Benjamin Partlow. A complete review of Rappahannock County Chancery Case 1842-002 names Benjamin's eight child / heir lines and omits Jacob Partlow, so I am especially interested in records that identify Jacob Partlow's correct parents.
 
 The working line is:
 

@@ -10,17 +10,29 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4EV - Complete Rappahannock Chancery Review Rejects Benjamin-to-Jacob Link (June 18, 2026)
+
+**PARTLOW PRIMARY-RECORD FOLLOW-UP:** Integrated the complete review of **Rappahannock County Chancery 1842-002**, original case no. **53**, `John Partlow v. Heir(s) of Benjamin Partlow`. The full 69-image file was reviewed. It names Benjamin Partlow's eight child / heir lines, distributes the estate through eight shares, and omits **Jacob / Jacob Newton / Nute Partlow** from every image. The only Jacob is **Jacob Menefee**, a grandson through Lucy Partlow Menefee. **Henry B. Partlow** and **Benjamin L. Partlow** appear as land-sale purchasers, not heirs.
+
+**STATUS CHANGE:** The proposed **Jacob Newton Partlow -> Benjamin Partlow** link is now treated as contradicted by primary-record evidence, not merely disputed or unproved. The Partlow line remains supported from [[People/Marion Elizabeth Partlow|Marion Elizabeth Partlow]] back to **John H. / John Halleck Partlow**, with derivative support for **John H. -> Jacob**. The live task is now identifying Jacob Newton Partlow's correct parents and the source trail behind the derivative Benjamin connection.
+
+### Updated Pages
+
+- [[References/Rappahannock Partlow Chancery Case 1842-002|Rappahannock Partlow Chancery Case 1842-002]] - added the full-file conclusion and preserved the complete images 5-69 review at `static/sources/claude-partlow/rappahannock-partlow-chancery-1842-002-images-5-69-claude-output.txt`.
+- [[RQ-P1-PARTLOW-REVOLUTIONARY-LINE|RQ-P1 Partlow Revolutionary Line]], [[People/Benjamin Partlow|Benjamin Partlow]], [[People/Marion Elizabeth Partlow|Marion Elizabeth Partlow]], [[Open Record Targets]], [[Research Priorities and Action Items]], [[Sources and Evidence Index]], [[Source to Claim Matrix]], and [[Search Index]] - updated the public evidence status to contradicted by complete chancery-file review.
+- `CLAUDE.md`, `GEMINI.md`, and `.agents/AGENT_RESUME.md` - refreshed agent guidance so future work does not reassign Rappahannock images 5-69 and instead targets Jacob Newton Partlow's correct parentage.
+
 ## Phase 4EU - Partlow Benjamin Link Disputed by Chancery Heir List (June 17, 2026)
 
 **PARTLOW PRIMARY-RECORD CORRECTION:** Integrated the Rappahannock County chancery result for [[RQ-P1-PARTLOW-REVOLUTIONARY-LINE|RQ-P1 Partlow Revolutionary Line]]. The Library of Virginia case **Rappahannock County Chancery 1842-002**, original case no. **53**, `John Partlow v. Heir(s) of Benjamin Partlow`, is online with 69 scanned images. The first-pass read of images 1-4 found the bill of complaint naming Benjamin Partlow's children / heirs and omitting **Jacob / Jacob Newton / Nute Partlow**.
 
-**STATUS CHANGE:** The Partlow line is now supported by original or near-original records from [[People/Marion Elizabeth Partlow|Marion Elizabeth Partlow]] back to **John H. / John Halleck Partlow**, and **John H. -> Jacob** still has derivative support. But the proposed **Jacob Newton Partlow -> Benjamin Partlow** link is now disputed / seriously weakened by primary heir-list evidence. Do not state Benjamin as Marion's proven ancestor unless a later primary record explains Jacob's omission.
+**STATUS CHANGE:** The Partlow line is now supported by original or near-original records from [[People/Marion Elizabeth Partlow|Marion Elizabeth Partlow]] back to **John H. / John Halleck Partlow**, and **John H. -> Jacob** still has derivative support. This phase first flagged the proposed **Jacob Newton Partlow -> Benjamin Partlow** link as a primary-record problem; Phase 4EV later completed the full-file review and changed the status to contradicted.
 
 ### Updated Pages
 
 - [[References/Rappahannock Partlow Chancery Case 1842-002|Rappahannock Partlow Chancery Case 1842-002]] - added the primary-record source note and preserved the raw report at `static/sources/claude-partlow/rappahannock-partlow-chancery-1842-002-claude-output.txt`.
 - [[References/Partlow Upstream Revolutionary Line Web Search|Partlow Upstream Revolutionary Line Web Search]] - added a correction banner noting that the later chancery case contradicts or seriously weakens the derivative Benjamin -> Jacob claim.
-- [[RQ-P1-PARTLOW-REVOLUTIONARY-LINE|RQ-P1 Partlow Revolutionary Line]], [[People/Benjamin Partlow|Benjamin Partlow]], [[Open Record Targets]], [[Research Priorities and Action Items]], [[Sources and Evidence Index]], [[Source to Claim Matrix]], and [[Search Index]] - changed the Partlow evidence status from "strong derivative support with a primary proof gap" to "Benjamin link disputed by primary heir-list evidence"; shifted the live task to Rappahannock chancery images 5-69, Rappahannock Will Book A p. 223, Culpeper Deed Book FF / nearby Partlow deeds, and Jacob Newton Partlow's correct parentage.
+- [[RQ-P1-PARTLOW-REVOLUTIONARY-LINE|RQ-P1 Partlow Revolutionary Line]], [[People/Benjamin Partlow|Benjamin Partlow]], [[Open Record Targets]], [[Research Priorities and Action Items]], [[Sources and Evidence Index]], [[Source to Claim Matrix]], and [[Search Index]] - changed the Partlow evidence status away from "strong derivative support"; Phase 4EV later retired the Rappahannock images 5-69 task after complete review.
 - `CLAUDE.md`, `GEMINI.md`, and `.agents/AGENT_RESUME.md` - refreshed agent guidance so future work does not claim Benjamin as Marion's proven ancestor or repeat broad Jacob / Benjamin searches.
 
 ## Phase 4ET - Partlow Upstream Web Proof Narrowed to Primary Records (June 17, 2026)
@@ -32,7 +44,7 @@ A running record of significant additions, corrections, and improvements to this
 ### Updated Pages
 
 - [[References/Partlow Upstream Revolutionary Line Web Search|Partlow Upstream Revolutionary Line Web Search]] - added the new source note and preserved the raw report at `static/sources/claude-partlow/partlow-upstream-revolutionary-line-web-search-claude-output.txt`.
-- [[RQ-P1-PARTLOW-REVOLUTIONARY-LINE|RQ-P1 Partlow Revolutionary Line]], [[People/Benjamin Partlow|Benjamin Partlow]], [[Open Record Targets]], [[Research Priorities and Action Items]], [[Sources and Evidence Index]], [[Source to Claim Matrix]], and [[Search Index]] - then updated Partlow evidence status from unresolved upstream links to apparent strong derivative support; Phase 4EU later changed that status to disputed by primary heir-list evidence.
+- [[RQ-P1-PARTLOW-REVOLUTIONARY-LINE|RQ-P1 Partlow Revolutionary Line]], [[People/Benjamin Partlow|Benjamin Partlow]], [[Open Record Targets]], [[Research Priorities and Action Items]], [[Sources and Evidence Index]], [[Source to Claim Matrix]], and [[Search Index]] - then updated Partlow evidence status from unresolved upstream links to apparent strong derivative support; later phases replaced that status after the Rappahannock chancery review.
 - `CLAUDE.md`, `GEMINI.md`, and `.agents/AGENT_RESUME.md` - refreshed agent guidance so future web work does not repeat broad Partlow / Rude, census, book-search, or generic Jacob / Benjamin tasks and instead starts with LVA / county-record targets.
 
 ## Phase 4ES - Partlow Web Identity Chain Proven (June 16, 2026)

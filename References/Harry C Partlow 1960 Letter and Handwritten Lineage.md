@@ -75,7 +75,7 @@ This is the strongest family-source support found so far for the exact line:
 
 **Marion Elizabeth Partlow Copley** -> **Frank / Nollie Franklin Partlow** -> **Marion M. Partlow** -> **John H. Partlow** -> **Jacob Partlow** -> **Benjamin Partlow**.
 
-Later primary-record work changed how this claim should be used. [[References/Rappahannock Partlow Chancery Case 1842-002]] names Benjamin Partlow's children and heirs in an 1840-1841 chancery suit but omits Jacob / Jacob Newton / Nute. Treat the 1977 lineage as a valuable family-source lead for targeted research, not as proof that Jacob was Benjamin's child.
+Later primary-record work changed how this claim should be used. [[References/Rappahannock Partlow Chancery Case 1842-002]] names Benjamin Partlow's eight child / heir lines in an 1840-1841 chancery suit and omits Jacob / Jacob Newton / Nute from all 69 images. Treat the 1977 lineage as a valuable family-source lead for targeted research, not as proof that Jacob was Benjamin's child.
 
 It also supplies targeted places and dates for follow-up research:
 

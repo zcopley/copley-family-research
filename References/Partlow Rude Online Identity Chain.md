@@ -62,6 +62,6 @@ The remaining Partlow Revolutionary-line proof work is upstream, but the propose
 
 1. Treat the 1880 and 1850 / 1860 census-image tasks as completed downstream anchors.
 2. Keep **John H. Partlow -> Jacob Partlow** as a strong derivative-source lead needing a better full-page citation or primary support.
-3. Treat **Jacob Partlow -> Benjamin Partlow** as disputed because [[References/Rappahannock Partlow Chancery Case 1842-002]] names Benjamin Partlow's children and heirs while omitting Jacob / Jacob Newton / Nute.
-4. Search remaining Rappahannock chancery images 5-69, Rappahannock Will/Fiduciary Book A p. 223, Culpeper deeds, and public pension / probate / land paths for Jacob's correct parents or an explanation for the omission.
+3. Treat **Jacob Partlow -> Benjamin Partlow** as contradicted because [[References/Rappahannock Partlow Chancery Case 1842-002]] names Benjamin Partlow's eight child / heir lines while omitting Jacob / Jacob Newton / Nute from all 69 images.
+4. Search for Jacob's correct parents and the source trail behind the derivative Benjamin connection; use Rappahannock deed / order / fiduciary / tax records only for Benjamin-family collateral context.
 5. Locate the original Spotsylvania County Will Book A p. 975 image for John Partlow before using the online abstract as proof.
