@@ -26,6 +26,14 @@ Maintain the public reader path, evidence-status pages, and master research queu
 
 ## What Was Just Completed
 
+- Integrated Zach's June 2026 Jacob Partlow probate-index / packet-search report:
+  - preserved the raw report at `static/sources/claude-partlow/jacob-partlow-probate-index-packet-search-claude-output.txt`;
+  - recorded the Clark County, Illinois `INDEX TO ESTATE PAPERS` entry at Ancestry collection 9048 record `1196688`, image `007655352_00192`, FamilySearch DGS `7655352`;
+  - recorded that `PARTLOW Jacob - 188` points to the already-found will-book entry, while **`PARTLOW Jacob - (CC) 166`** is the best new unresolved court / probate lead;
+  - recorded the separate `PARTLOW John M. - 1/28` index entry as unverified and not automatically equivalent to John H. Partlow;
+  - recorded that no digitized executor bond, letters testamentary, probate docket, inventory, sale bill, final settlement, receipts, distributions, guardianship, conservatorship, or loose probate packet was found in checked online images or free web paths;
+  - changed the live Partlow web task to resolving `(CC) 166`, browsing unsearched later sections of Ancestry collection 9048 / DGS `7655352`, and searching 1868-1872 Marshall / Clark County newspapers for estate-sale, executor, settlement, or notice language involving Jacob Partlow, William W. Willison, or `Partlow estate`.
+
 - Integrated Zach's June 2026 original Jacob Partlow will-book report:
   - replaced the prior derivative-only will lead in `References/Jacob Partlow Clark County Probate Will Lead.md`;
   - preserved the raw report at `static/sources/claude-partlow/jacob-partlow-clark-county-original-will-ancestry-claude-output.txt`;
@@ -33,7 +41,7 @@ Maintain the public reader path, evidence-status pages, and master research queu
   - recorded that Jacob's will was dated 3 Sep 1867 and proved 26 May 1868, names wife Polly, William, Polly Ritenhouse / Ridenhouse, executor William W. Willison, and witnesses Jacob Geffs and Roger S. Davis;
   - corrected the lawful-heirs wording from the earlier snippet's `$40` to the original will-book reading of **$50 each**;
   - recorded that the will does not name John H. Partlow, does not identify William as William Franklin, and does not name all lawful heirs;
-  - changed the live Partlow task from finding the original will-book entry to searching any separate probate packet, docket, bond, inventory, sale bill, settlement, and distribution receipts.
+  - initially changed the live Partlow task from finding the original will-book entry to searching any separate probate packet, docket, bond, inventory, sale bill, settlement, and distribution receipts; the later probate-index / packet-search report narrowed that further to `(CC) 166`, unsearched DGS `7655352` sections, and 1868-1872 estate notices.
 
 - Integrated Zach's June 2026 Jacob Partlow Clark County record-trail and probate/will updates:
   - added `References/1883 Perrin Marion Partlow Biography.md` and preserved the raw report at `static/sources/claude-partlow/1883-perrin-marion-partlow-biography-claude-output.txt`;
@@ -1138,6 +1146,7 @@ Maintain the public reader path, evidence-status pages, and master research queu
 - The Frank / Nollie -> Marion McDonald Partlow link is now original-image supported: `References/1880 Marion McDonald Partlow Household.md` records FamilySearch ARKs `MXNZ-S2M`, `MXNZ-32S`, and image `33S7-9YB4-VPC`, listing Nollie Frank, age 6, as son in the Marion / Marth Partlow household.
 - The Marion McDonald -> John H. / Lydia Partlow link is now original-image supported: `References/1850 and 1860 John Halleck Partlow Household.md` records the 1850 `Partton` misindex and difficult `Momon` / `Momore` child entry, plus the clear 1860 `Marion M` entry in the John / Sydia Partlow household.
 - The critical Partlow proof work is now John H. -> Jacob and Jacob's correct parentage. The complete Rappahannock chancery case names Benjamin Partlow's eight child / heir lines and omits Jacob / Jacob Newton / Nute, so the proposed Jacob -> Benjamin link is contradicted. The Clark County marriage return is optional ceremony-detail work, not the identity-control target.
+- Jacob Partlow's Clark County will-book entry and probate-index entry are now both found. Do not reassign the original-will or probate-index image search. The next Partlow web task is explicit: resolve **`PARTLOW Jacob - (CC) 166`** from the probate index, browse unsearched later sections of Ancestry collection 9048 / FamilySearch DGS `7655352`, search 1868-1872 Marshall / Clark County newspapers for estate notices involving Jacob Partlow / William W. Willison / `Partlow estate`, and only then pursue Mary Halleck / Isaac Partlow / Indiana marriage-register corroboration.
 - Public web searching did not find the original Clark County marriage return, but the 14 Jun 1900 *Clark County Herald* notice proves a license was issued under 8 Jun to Frank Partlow, age 25, Moonshine, and Alice Rude, age 19. A later online county-record access-path pass did not find an original or reconstructed record online. Do not make Clerk / Marshall Library lookup the next web task unless the user specifically wants ceremony details.
 - Public web searching initially surfaced only derivative/collateral support for Jacob Partlow = son of Benjamin Partlow. The later complete LVA Rappahannock chancery pass is now controlling: it omits Jacob from all 69 images and distributes Benjamin's estate through eight child-lines. Prioritize records identifying Jacob's correct parents and the source trail for the derivative error; use Rappahannock Will/Fiduciary Book A p. 223, deed books, order books, and tax lists only for Benjamin-family collateral context.
 - Tom Copley's May 2026 email archive is now integrated as a research-lead source, not proof. The death-register lead now supports **John Copley + Sarah Copley** as recorded parent names for Michael Copley Sr., but **Sarah Dolan** remains unresolved until direct or near-direct evidence gives Sarah's maiden surname.

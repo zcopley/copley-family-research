@@ -22,6 +22,8 @@ Earlier raw snippet report: [Jacob Partlow probate/will lead output](/static/sou
 
 Original will report: [Jacob Partlow original will Ancestry output](/static/sources/claude-partlow/jacob-partlow-clark-county-original-will-ancestry-claude-output.txt)
 
+Probate index / packet search report: [Jacob Partlow probate index and packet search output](/static/sources/claude-partlow/jacob-partlow-probate-index-packet-search-claude-output.txt)
+
 ## Citation
 
 Jacob Partlow will, 3 Sep 1867; Clark County, Illinois, Will Record, Book 1 (1859-1882), pp. approximately 158-159, image 280 of 1338; *Illinois, U.S., Wills and Probate Records, 1772-1999*, Ancestry.com, collection 9048, record ID `1196850`, image `007655352_00280`, https://www.ancestry.com/imageviewer/collections/9048/images/007655352_00280. Original microfilm: FamilySearch DGS `7655352` / Film `1308123`, "Probate, will, guardian, conservator and chancery records, 1840-1976," Illinois. County Court (Clark County), FamilySearch catalog `koha:317736`; microreproduction of original records at the Clark County Courthouse, Marshall, Illinois.
@@ -44,6 +46,39 @@ Jacob Partlow will, 3 Sep 1867; Clark County, Illinois, Will Record, Book 1 (185
 Jacob Partlow described himself as old but of sound mind and memory. He directed payment of funeral expenses and debts. He then gave **Polly my wife** all remaining estate for her life. After Polly's death and payment of her funeral expenses and debts, the will states that Jacob had given all his lawful heirs **fifty dollars apiece**. The residue of both personal and real estate was to go to **William**, except **Polly Ritenhouse / Ridenhouse** was to receive **a cow and bed**. Jacob appointed **William W. Willison** executor.
 
 The probate attestation says witnesses Jacob Geffs and Roger S. Davis subscribed as attesting witnesses at Jacob's request and in his presence on 3 Sep 1867. They swore in open court on 26 May 1868 that Jacob was of full age, sound mind and memory, and under no constraint.
+
+## Probate Index / Packet Search
+
+A follow-up search of Ancestry collection 9048 found a probate index page for Jacob Partlow but did **not** locate a digitized packet, bond, inventory, sale bill, settlement, or distribution paper.
+
+Index citation:
+
+- **Repository:** Ancestry.com, *Illinois, U.S., Wills and Probate Records, 1772-1999*, collection 9048.
+- **Record ID:** `1196688`.
+- **Image:** `007655352_00192`, image 192 of 1338.
+- **URL:** https://www.ancestry.com/imageviewer/collections/9048/images/007655352_00192?pid=1196688
+- **Source section:** Clark County, Illinois, `INDEX TO ESTATE PAPERS`, labeled on film / in metadata as Probate Index Book A.
+
+The relevant index entries on image 192 include:
+
+- `PARTLOW James` - Will Record page 43, Probate Court B, page 36.
+- `PARTLOW Jacob` - `(CC) 166`.
+- `PARTLOW Jacob` - `188`.
+- `PARTLOW John M.` - `1/28`.
+
+Interpretation:
+
+- The `188` entry points to the already-found Will Record Book 1 entry for Jacob's will.
+- The `(CC) 166` entry is a new lead, probably a County Court or related court/probate reference, but the exact book or case series was not identified on the digitized film.
+- The `PARTLOW John M. - 1/28` entry is separate and should not be assumed to be John H. without checking the underlying record.
+- The searched Ancestry film section contains probate index and will-record images; no loose estate packet, executor bond, letters testamentary, inventory, sale bill, final settlement, receipt, distribution, probate docket, or guardianship paper for Jacob Partlow was found online in the checked images.
+
+The report also identifies several FAN / collateral results:
+
+- **Roger S. Davis** is likely Roger Spencer Davis, a young Civil War veteran and Johnson Township / Oak Point community member, not known kin.
+- **William W. Willison** was a Bell Air / Bellair-area farmer and neighbor, a plausible trusted executor rather than proven kin.
+- **Jacob Geffs** appears to be a Bellair / Johnson Township neighbor from a Virginia-origin family.
+- **Polly Ritenhouse / Ridenhouse** appears in derivative reports as an approximately 10-year-old in Jacob's 1860 household. A Genealogy.com snippet points to a Rush County, Indiana marriage of Lavina Partlow to Wilson Reddinghause / Ridenhouse, making Polly plausibly a dependent granddaughter or grandniece, but this is not proven.
 
 ## Key Findings
 
@@ -89,6 +124,8 @@ This is an official Clark County will-book copy of Jacob Partlow's will and prob
 
 The will materially improves the research position by showing that Jacob had a broader lawful-heir class and that those heirs had received prior payments. The missing evidence is not the will text itself; it is any accompanying probate packet or settlement papers that may name the recipients.
 
+The probate-index follow-up improves the control map by confirming that Jacob appears in the Clark County estate-paper index, but it does not supply a packet number that has been found online. It adds `(CC) 166` as the best new courthouse / court-book pointer.
+
 ## Remaining Access Path
 
 The will-book image is online through Ancestry, and FamilySearch filmed the record as DGS `7655352` / Film `1308123`. The remaining packet search should target:
@@ -111,12 +148,14 @@ Primary repositories:
 - Clark County courthouse / clerk or circuit clerk, Marshall, Illinois.
 - IRAD-EIU, Booth Library, Eastern Illinois University, Charleston, Illinois; email `eiuirad@eiu.edu`.
 - Ancestry / FamilySearch catalog `koha:317736` for additional images from DGS `7655352`.
+- NewspaperArchive / Marshall-area newspapers for 1868-1872 estate sale or settlement notices.
 
 ## Next Research Targets
 
-1. Search the Ancestry image set / FamilySearch film around Jacob's will-book entry for any index, docket, bond, inventory, or estate-settlement sequence tied to Jacob Partlow.
-2. Search Clark County Probate Index, Book A, 1850-1960, for Jacob Partlow and note exact page / case / book references.
-3. Search for **William W. Willison**, **Jacob Geffs**, **Roger S. Davis**, and **Polly Ritenhouse / Ridenhouse** in Clark County census, deed, tax, and probate records.
-4. Continue the separate original-record search for the reported **Mary Halleck** first marriage and **Isaac Partlow** brother relationship.
-5. Retrieve the original Indiana marriage register entry for Jacob Partlow and Polly Abrams, 13 Sep 1815, FHL film `000549348`.
-
+1. Check the unbrowsed later sections of Ancestry collection 9048 / DGS `7655352`, especially images after the will books, for any guardian, conservator, chancery, or court-record section that might explain `(CC) 166` or name Polly Ritenhouse / Ridenhouse.
+2. Search 1868-1872 Marshall / Clark County newspapers, especially subscription paths such as NewspaperArchive, for estate sale, executor, settlement, or notice language involving **Jacob Partlow**, **William W. Willison**, or **Partlow estate**.
+3. Identify the underlying record behind the probate-index entry **`PARTLOW Jacob - (CC) 166`**.
+4. Identify the underlying record behind **`PARTLOW John M. - 1/28`** before treating it as related to John H. Partlow.
+5. Search for **William W. Willison**, **Jacob Geffs**, **Roger S. Davis**, and **Polly Ritenhouse / Ridenhouse** in Clark County census, deed, tax, and probate records.
+6. Continue the separate original-record search for the reported **Mary Halleck** first marriage and **Isaac Partlow** brother relationship.
+7. Retrieve the original Indiana marriage register entry for Jacob Partlow and Polly Abrams, 13 Sep 1815, FHL film `000549348`.

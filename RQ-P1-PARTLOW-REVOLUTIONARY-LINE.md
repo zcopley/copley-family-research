@@ -24,7 +24,7 @@ This page tracks the former proposed proof chain from [[People/Marion Elizabeth 
 |---|---|
 | Is Benjamin Partlow's Revolutionary service supported? | Yes. Pension S5871 / pension-roll snippets, the local pension-cover image, and DAR ancestor lead `A088405` support Benjamin Partlow of Culpeper / Rappahannock County, Virginia as the Revolutionary War pensioner. |
 | Is the Marion Elizabeth Partlow -> Benjamin Partlow chain proved? | No. Marion -> Frank / Nollie + Alice -> Marion M. -> John H. is supported by original or near-original records, and John H. -> Jacob has derivative support. But the complete Rappahannock chancery file for Benjamin Partlow omits Jacob from every heir, party, advancement, and distribution list. |
-| Best immediate proof target | Search for the separate Clark County, Illinois probate packet, docket, inventory, sale bill, settlement, distribution receipts, and executor papers for Jacob Partlow. The original will-book entry is now found; it names wife Polly, William, Polly Ritenhouse / Ridenhouse, executor William W. Willison, and witnesses Jacob Geffs and Roger S. Davis, but it leaves the other lawful heirs unnamed. |
+| Best immediate proof target | Resolve the new probate-index lead **`PARTLOW Jacob - (CC) 166`**, browse the unsearched portions of Ancestry collection 9048 / FamilySearch DGS `7655352` for guardian / conservator / chancery sections, and search 1868-1872 Marshall newspapers for estate notices. The found will and probate index still do not name John H. or all heirs. |
 | Critical middle gap | Identify Jacob Newton Partlow's correct parents and determine whether the compiled Mary Halleck / Isaac Partlow brother claims have original support. The Benjamin connection remains contradicted. |
 | Master queue | See [[Open Record Targets]] for the retired Partlow identity targets and the active primary-record targets. |
 
@@ -134,6 +134,8 @@ Citation and details:
 - Witnesses: **Jacob Geffs** and **Roger S. Davis**.
 
 Interpretation: the will-book entry is now an original-record anchor, but it still does **not** name John H. Partlow, does **not** name all heirs, does **not** identify William by middle name, and does **not** explain Polly Ritenhouse / Ridenhouse. The next target is the separate probate packet, docket, executor bond, inventory, sale bill, settlement, and distribution receipts, if they survive.
+
+The probate-index follow-up found Jacob in the Clark County `INDEX TO ESTATE PAPERS` at Ancestry collection 9048 record `1196688`, image `007655352_00192`. The entries are **`PARTLOW Jacob - (CC) 166`** and **`PARTLOW Jacob - 188`**. The `188` entry points to the will-book page already found; `(CC) 166` is a new unresolved court / county-court lead. The same index page includes **`PARTLOW John M. - 1/28`**, which should not be assumed to be John H. until checked. The packet search found no online executor bond, letters, inventory, sale bill, final settlement, receipt, distribution, or guardianship record in the checked image ranges.
 
 The same companion genealogy snippet reportedly separates Jacob's marriages into **Mary Halleck** about 1810, with children John Halleck Partlow and James Halleck Partlow III, and **Mary / Polly Abrams** in 1815 in Indiana. Treat this as a working compiled-source structure until the original Mary Halleck evidence is found. The indexed 1815 Polly Abrams marriage remains the stronger direct marriage record.
 
@@ -332,7 +334,7 @@ flowchart TD
     H["Line can be evaluated for DAR-style proof"]
 
     A --> B --> C --> D --> E --> F --> G --> I --> H
-    F -. "current priority" .-> P["Best next targets:<br/>Jacob probate packet / settlement;<br/>Mary Halleck / Isaac corroboration;<br/>Polly Abrams register;<br/>Rappahannock collateral records"]
+    F -. "current priority" .-> P["Best next targets:<br/>(CC) 166 probate-index lead;<br/>unbrowsed DGS 7655352 sections;<br/>1868-1872 estate notices;<br/>Mary Halleck / Isaac corroboration"]
 
     class A,H goal
     class B,P priority
@@ -343,16 +345,14 @@ flowchart TD
     classDef action fill:#e7f5ff,stroke:#1971c2,color:#102a43;
 ```
 
-1. Search for the **separate Clark County, Illinois probate packet / settlement papers for Jacob Partlow**, whose original will-book entry is now found.
-2. Search the packet, probate docket, executor bond, inventory, sale bill, settlement, distribution receipts, and related papers for named heirs and any reference to John H. Partlow, William Franklin Partlow, Mary / Polly Abrams, Polly Ritenhouse / Ridenhouse, or earlier advancements.
-3. Search for original corroboration of **Mary Halleck** as Jacob's first wife and **Isaac Partlow** as Jacob's brother.
-4. Search Rappahannock County deed books, order books, administration bonds, and tax lists for collateral context around Benjamin, Elisha, John L., Henry B., and Benjamin L. Partlow; treat these as Benjamin-family context, not as likely proof of Jacob as Benjamin's heir.
-5. Search Culpeper County deed books and indexes, especially **Deed Book FF pp. 394-395** and nearby Partlow deeds around 1813, for Benjamin / Clary transfers to children and collateral Partlow structure.
-6. Obtain or browse the original Spotsylvania County, Virginia **Will Book E / p. 975-976** image for John Partlow to verify the Benjamin/Culpeper transcript.
-7. Directly capture the DAR GRS pages for Benjamin Partlow `A088405` and John Partlow `A088406`, if accessible, including any listed spouses, service, residence, children, descendant-line warnings, and whether Jacob appears or is absent.
-8. Obtain the full Benjamin Partlow Revolutionary War pension file if available through a web-accessible NARA / Fold3 / library route.
-9. Search Clark County, Illinois probate for Marion McDonald Partlow, died 27 Mar 1922, as a lower-priority downstream corroboration path.
-10. Optional offline / non-web follow-up: send the Clark County Clerk / Recorder and Marshall Public Library requests for the original or reconstructed **8 Jun 1900** marriage license / return / register entry and `Extract of marriages from Clark County, 1819-1900`, v. 3, for ceremony details.
+1. Identify the underlying record behind **`PARTLOW Jacob - (CC) 166`** in the Clark County probate index, image `007655352_00192`.
+2. Browse the unsearched later sections of Ancestry collection 9048 / FamilySearch DGS `7655352`, especially possible guardian, conservator, chancery, or court-record sections after the will books.
+3. Search 1868-1872 Marshall / Clark County newspapers, especially NewspaperArchive if available, for estate-sale, executor, settlement, or notice language involving **Jacob Partlow**, **William W. Willison**, or `Partlow estate`.
+4. Identify the underlying record behind **`PARTLOW John M. - 1/28`** before treating it as connected to John H. Partlow.
+5. Continue FAN searches for **William W. Willison**, **Jacob Geffs**, **Roger S. Davis**, and **Polly Ritenhouse / Ridenhouse**.
+6. Search for original corroboration of **Mary Halleck** as Jacob's first wife and **Isaac Partlow** as Jacob's brother.
+7. Retrieve the original Indiana marriage register entry for Jacob Partlow and Polly Abrams, 13 Sep 1815, FHL film `000549348`.
+8. Use Rappahannock / Culpeper / Spotsylvania records for Benjamin-family collateral context, not as proof of Jacob as Benjamin's heir unless a new direct record appears.
 
 ## Sources
 
@@ -395,4 +395,4 @@ flowchart TD
 36. Library of Virginia Chancery Records Index, Rappahannock County case `1842-002`, John Partlow v. Heir(s) of Benjamin Partlow: https://old.lva.virginia.gov/chancery/case_detail.asp?CFN=157-1842-002
 38. [[References/1883 Perrin Marion Partlow Biography]] - located 1883 Perrin source passage for Marion Partlow; supports John H. -> Jacob and confirms no Benjamin claim in that source.
 39. [[References/Jacob Newton Partlow Clark County Record Trail]] - Clark County / Indiana record trail for Jacob Partlow, Mary / Polly Abrams, 1830-1860 census leads, and next targets.
-40. [[References/Jacob Partlow Clark County Probate Will Lead]] - original Clark County will-book entry for Jacob Partlow's 1867 will / 1868 probate plus the remaining probate-packet target.
+40. [[References/Jacob Partlow Clark County Probate Will Lead]] - original Clark County will-book entry for Jacob Partlow's 1867 will / 1868 probate, probate-index entries `PARTLOW Jacob - (CC) 166` and `PARTLOW Jacob - 188`, and remaining packet / newspaper / film-browse targets.

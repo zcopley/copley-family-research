@@ -1,0 +1,57 @@
+Jacob Partlow Probate Packet / Settlement Search - Claude Output
+Date integrated: 2026-06-22
+
+Summary:
+Ancestry collection 9048 / FamilySearch DGS 7655352 was searched for Jacob Partlow probate materials beyond the already-found will-book entry. The search found a probate index page but no digitized loose packet, bond, letters testamentary, inventory, sale bill, settlement, receipt, or distribution paper.
+
+Repositories searched:
+- Ancestry.com, Illinois, U.S., Wills and Probate Records, 1772-1999, collection 9048.
+- FamilySearch catalog item koha:317736 / DGS 7655352 / Film 1308123, indirectly via Ancestry because FamilySearch was CAPTCHA-blocked.
+- Google web searches for Jacob Partlow, William W. Willison, Roger S. Davis, Jacob Geffs, Polly Ritenhouse / Ridenhouse, and Clark County probate terms.
+- Clark County IL GenWeb tax and cemetery pages.
+- Find a Grave, WikiTree, Genealogy.com snippets, ATWEBPAGES snippets, and related web snippets.
+
+Main record found:
+Ancestry collection 9048, record ID 1196688, image 007655352_00192, image 192 of 1338:
+Clark County, Illinois, Index to Estate Papers / Probate Index Book A. The page includes:
+- PARTLOW James - Will Record page 43, Probate Court B, page 36.
+- PARTLOW Jacob - (CC) 166.
+- PARTLOW Jacob - 188.
+- PARTLOW John M. - 1/28.
+
+Interpretation:
+- PARTLOW Jacob - 188 points to the already-known Will Record Book 1 entry for Jacob's will.
+- PARTLOW Jacob - (CC) 166 is a new lead, likely County Court or a related court/probate reference, but the underlying book/case was not found online during this search.
+- PARTLOW John M. - 1/28 is a separate Partlow probate-index entry; do not assume it is John H. without checking the underlying record.
+
+Negative results:
+- No executor bond for William W. Willison found online.
+- No letters testamentary found online.
+- No probate docket or court-order entry found online.
+- No inventory found online.
+- No sale bill found online.
+- No final settlement found online.
+- No receipts or distributions found online.
+- No guardianship / conservatorship record for Polly Ritenhouse / Ridenhouse found online.
+- No freely accessible newspaper probate notice found; NewspaperArchive was identified as a likely subscription target.
+
+FAN / collateral findings:
+- Roger S. Davis is likely Roger Spencer Davis, a young Civil War veteran who married in Clark County in 1869 and lived in Johnson Township / Oak Point in 1870. He appears to be a community witness rather than known kin.
+- William W. Willison was a Bell Air / Bellair-area farmer and neighbor, a plausible executor because of proximity and reliability rather than proven kinship.
+- Jacob Geffs appears in Bellair / Johnson Township context and was likely a local neighbor from a Virginia-origin family.
+- Polly Ritenhouse / Ridenhouse appears in derivative reports as a 10-year-old in Jacob's 1860 household. A Genealogy.com snippet reports Lavina Partlow married Wilson Reddinghause / Ridenhouse in Rush County, Indiana, making Polly plausibly a dependent granddaughter or grandniece, but the relationship remains unproven.
+
+Answers:
+- Probate index entry found: yes, image 192; entries PARTLOW Jacob - (CC) 166 and PARTLOW Jacob - 188.
+- Packet / docket / bond / inventory / settlement found online: no.
+- John H. / John Halleck Partlow named in probate records: no; still named only by secondary/local-history sources.
+- William identified as William Franklin Partlow in the will: no; secondary sources identify him, but the will says only William.
+- Polly Ritenhouse / Ridenhouse identified: partially; likely a dependent Partlow-connected Ridenhouse child, not proven.
+- FAN associates: likely neighbors/community members, not proven kin.
+
+Best next web-accessible targets:
+1. Browse the unbrowsed later portions of DGS 7655352 / Ancestry collection 9048, especially images after the will books, for guardian, conservator, chancery, or court sections.
+2. Find the underlying record for PARTLOW Jacob - (CC) 166.
+3. Find the underlying record for PARTLOW John M. - 1/28.
+4. Search NewspaperArchive or other Marshall / Clark County newspaper images for 1868-1872 estate notices involving Jacob Partlow, William W. Willison, or Partlow estate.
+5. Continue FAN searches for William W. Willison, Jacob Geffs, Roger S. Davis, and Polly Ritenhouse / Ridenhouse.

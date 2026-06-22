@@ -10,6 +10,21 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4EY - Jacob Partlow Probate Index and Packet Search (June 22, 2026)
+
+**PROBATE-INDEX CONTROL POINT FOUND:** Integrated the follow-up search for Jacob Partlow's Clark County, Illinois probate packet / settlement papers. The Clark County `INDEX TO ESTATE PAPERS` entry is now recorded at Ancestry collection 9048 record `1196688`, image `007655352_00192`, FamilySearch DGS `7655352`.
+
+**KEY FINDING:** The index gives **`PARTLOW Jacob - 188`**, which points to the already-found will-book entry, and **`PARTLOW Jacob - (CC) 166`**, now the best new unresolved court / probate lead. The same page has **`PARTLOW John M. - 1/28`**, which must be checked before being treated as connected to John H. Partlow.
+
+**NEGATIVE RESULT:** No digitized executor bond, letters testamentary, probate docket, inventory, sale bill, final settlement, receipts, distributions, guardianship, conservatorship, or loose probate packet was found in checked online images or free web paths. The next web-accessible task is not to redo the will or index search; it is to resolve `(CC) 166`, browse unsearched later sections of Ancestry collection 9048 / DGS `7655352`, and search 1868-1872 Marshall / Clark County newspapers for estate notices involving Jacob Partlow, William W. Willison, or `Partlow estate`.
+
+### Updated Pages
+
+- [[References/Jacob Partlow Clark County Probate Will Lead|Jacob Partlow Clark County Probate Will Lead]] - added the probate-index / packet-search section, FAN-club notes, and concrete next targets; preserved raw source at `static/sources/claude-partlow/jacob-partlow-probate-index-packet-search-claude-output.txt`.
+- [[Open Record Targets|Open Record Targets]] - changed ORT-025 from a generic packet search to the specific `(CC) 166`, DGS `7655352`, and 1868-1872 newspaper-notice path.
+- [[RQ-P1-PARTLOW-REVOLUTIONARY-LINE|RQ-P1 Partlow Revolutionary Line]], [[Research Priorities and Action Items|Research Priorities and Action Items]], [[Sources and Evidence Index|Sources and Evidence Index]], [[Source to Claim Matrix|Source to Claim Matrix]], and [[Search Index|Search Index]] - updated the Partlow task status and no-repeat boundaries.
+- [[People/Benjamin Partlow|Benjamin Partlow]], [[People/Marion Elizabeth Partlow|Marion Elizabeth Partlow]], `CLAUDE.md`, `GEMINI.md`, and `.agents/AGENT_RESUME.md` - refreshed agent guidance so future Claude work starts with `(CC) 166`, unsearched DGS sections, and 1868-1872 estate notices.
+
 ## Phase 4EX - Jacob Partlow Original Will Found (June 22, 2026)
 
 **PARTLOW WILL STATUS UPGRADE:** Integrated the original Clark County, Illinois will-book entry for **Jacob Partlow**, replacing the earlier derivative-only snippet lead. The will was dated **3 Sep 1867** and proved **26 May 1868**, in Will Record Book 1, image 280 of 1338, Ancestry collection 9048 record `1196850`, FamilySearch DGS `7655352` / Film `1308123`.
