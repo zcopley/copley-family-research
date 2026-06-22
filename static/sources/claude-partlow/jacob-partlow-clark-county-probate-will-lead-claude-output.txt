@@ -1,0 +1,45 @@
+Research Report: Jacob Newton Partlow - Clark County, Illinois Probate / Estate Record
+
+Session date: 21 Jun 2026
+Task: Locate Jacob Partlow's probate / will records, Clark County, Illinois, ca. 1867-1875, and answer whether the record names John H. Partlow, Mary / Polly Abrams Partlow, children, or parentage clues.
+
+Major finding:
+A will for Jacob Partlow exists and has been partially transcribed online through two derivative sources: Find a Grave memorial 135126498 for Jacob Newton "Nute" Partlow and Harry C. Partlow's Clark County Illinois Partlows genealogy, formerly uploaded as a FamilySearch patron archive dist.txt file. The original will image is held at the Clark County courthouse, Marshall, Illinois, and was not obtained in this session.
+
+Reported will details:
+- Last Will and Testament of Jacob Partlow.
+- Will date: 3 Sep 1867.
+- Filed / probated: 26 May 1868, Clark County Clerk's Office, Marshall, Illinois.
+- Witnesses: Jacob Geffs and Royer S. Davis.
+- Executor: William W. Willison.
+
+Recovered will abstract from snippets:
+The will gives Jacob's wife Polly (Mary) "all for life" and states, "I have given to all my heirs $40.00 apiece. Now William is to have all both personal and real estate, except Polly Ritenhouse is to have a cow and an bed." Harry C. Partlow reportedly noted that the relationship of Polly Ritenhouse to Jacob was not determined.
+
+1860 household context:
+The associated memorial / compiled text places Jacob Partlow age 67, Mary / Polly Partlow age 67, William Partlow age 20, and Mary / Polly Ridenhouse age 10 in the 1860 household. Ritenhouse / Ridenhouse spellings vary.
+
+Question answers:
+1. Does the probate name John H. Partlow? No, not in the reconstructed will text. It names wife Polly / Mary, William, Polly Ritenhouse / Ridenhouse, and refers generally to "all my heirs" having already received $40 apiece.
+2. Does it name Mary / Polly Abrams Partlow? Yes, wife Polly / Mary is the life tenant. This is interpreted as Mary / Polly Abrams, tied to the 13 Sep 1815 Indiana marriage record to Jacob Partlow.
+3. Does it name children Mary Simpson, William Franklin Partlow, Jacob Partlow, or others? It names William directly. Mary Simpson and Jacob Partlow are linked as children through Find a Grave / compiled genealogy, not through the reconstructed will text.
+4. Does it give parentage or birthplace? No. The will is silent on Jacob's parents and birthplace.
+
+Companion compiled genealogy:
+Harry C. Partlow's Clark County Illinois Partlows reportedly separates Jacob's family into two marriages. First: Jacob Partlow and Mary Halleck, about 1810, with sons John Halleck Partlow (b. 1811, d. 16 Jan 1870) and James Halleck Partlow III (b. 1815, d. before 1857 in Illinois). Second: Jacob Partlow and Mary "Polly" Abrams, married 13 Sep 1815 in Franklin County, Indiana, with children including Mary Partlow Simpson, Jacob Partlow, and William Franklin Partlow. The genealogy also reportedly calls John Halleck Partlow a nephew of Isaac Partlow, consistent with Jacob and Isaac as brothers.
+
+Evidence caution:
+The will lead is important but still derivative until the original will image or probate packet is obtained. The Mary Halleck first-marriage structure and Isaac-brother claim are compiled-source claims needing original corroboration. The will does not name Benjamin Partlow and does not repair the contradicted Benjamin -> Jacob link.
+
+Access path:
+Primary repository: Clark County Circuit Clerk / Clark County courthouse, 501 Archer Avenue, Marshall, Illinois 62441, phone 217-826-2811.
+Request: Last Will and Testament of Jacob Partlow, will dated 3 Sep 1867, probated 26 May 1868; witnesses Jacob Geffs and Royer S. Davis; executor William W. Willison; seek will-book entry, probate packet, inventory, sale bill, settlement, and distribution papers.
+Secondary repository: IRAD Eastern Illinois University, Booth Library, Charleston, Illinois.
+FamilySearch catalog search for Clark County probate records remains a next online check when access is not blocked by hCaptcha.
+
+Next targets:
+1. Obtain original will image and probate packet.
+2. Search for Mary Halleck marriage / family evidence.
+3. Search 1870 census for William Franklin Partlow and Mary Partlow.
+4. Research Isaac Partlow's records as Jacob's reported brother.
+

@@ -10,6 +10,22 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4EW - Perrin 1883 and Jacob Partlow Will Lead (June 22, 2026)
+
+**PARTLOW JACOB-LEVEL UPDATE:** Integrated the corrected county-history source and the new Clark County will/probate lead for [[RQ-P1-PARTLOW-REVOLUTIONARY-LINE|RQ-P1 Partlow Revolutionary Line]]. The former "1888 History of Clark County" task is now closed and corrected to William Henry Perrin's 1883 *History of Crawford and Clark Counties, Illinois*, page 138. That passage explicitly says **John H. Partlow** was a son of **Jacob Partlow**, but it does **not** mention Benjamin Partlow or support **Jacob -> Benjamin**.
+
+**JACOB WILL LEAD FOUND:** Added a derivative lead for **Jacob Partlow's will**, reportedly dated **3 Sep 1867** and probated **26 May 1868** in Clark County, Illinois, with witnesses **Jacob Geffs** and **Royer S. Davis** and executor **William W. Willison**. The snippet trail names wife **Polly / Mary**, **William**, **Polly Ritenhouse / Ridenhouse**, and unnamed heirs already paid $40 each. Because this is reconstructed from Find a Grave / Google snippets and a removed FamilySearch patron upload, the original will image and probate packet remain the active target.
+
+**STATUS CHANGE:** The line now has strong local-history / compiled support for **John H. -> Jacob**, but still no primary probate proof naming John H. as Jacob's son. The **Jacob -> Benjamin** link remains contradicted by the complete Rappahannock chancery file. The next Partlow task is **Jacob Partlow's original Clark County will / probate packet**, followed by Mary Halleck / Isaac Partlow corroboration and the original Jacob Partlow / Polly Abrams Indiana marriage register.
+
+### Updated Pages
+
+- [[References/1883 Perrin Marion Partlow Biography|1883 Perrin Marion Partlow Biography]] - added the corrected source note and preserved the raw report at `static/sources/claude-partlow/1883-perrin-marion-partlow-biography-claude-output.txt`.
+- [[References/Jacob Newton Partlow Clark County Record Trail|Jacob Newton Partlow Clark County Record Trail]] - added the Clark County / Indiana record-trail source note and preserved the raw report at `static/sources/claude-partlow/jacob-newton-partlow-clark-county-record-trail-claude-output.txt`.
+- [[References/Jacob Partlow Clark County Probate Will Lead|Jacob Partlow Clark County Probate Will Lead]] - added the reported will / probate lead and preserved the raw report at `static/sources/claude-partlow/jacob-partlow-clark-county-probate-will-lead-claude-output.txt`.
+- [[RQ-P1-PARTLOW-REVOLUTIONARY-LINE|RQ-P1 Partlow Revolutionary Line]], [[Open Record Targets]], [[Research Priorities and Action Items]], [[Sources and Evidence Index]], [[Source to Claim Matrix]], [[People/Benjamin Partlow|Benjamin Partlow]], [[People/Marion Elizabeth Partlow|Marion Elizabeth Partlow]], and [[Search Index]] - updated the active evidence status and next record targets.
+- `CLAUDE.md`, `GEMINI.md`, and `.agents/AGENT_RESUME.md` - refreshed agent guidance so future work does not repeat the old 1888-history capture or generic Jacob probate search.
+
 ## Phase 4EV - Complete Rappahannock Chancery Review Rejects Benjamin-to-Jacob Link (June 18, 2026)
 
 **PARTLOW PRIMARY-RECORD FOLLOW-UP:** Integrated the complete review of **Rappahannock County Chancery 1842-002**, original case no. **53**, `John Partlow v. Heir(s) of Benjamin Partlow`. The full 69-image file was reviewed. It names Benjamin Partlow's eight child / heir lines, distributes the estate through eight shares, and omits **Jacob / Jacob Newton / Nute Partlow** from every image. The only Jacob is **Jacob Menefee**, a grandson through Lucy Partlow Menefee. **Henry B. Partlow** and **Benjamin L. Partlow** appear as land-sale purchasers, not heirs.

@@ -33,7 +33,7 @@ Evidence status:
 |---|---|
 | John Partlow II -> Benjamin Partlow | Strongly supported by an online transcript / abstract of the Spotsylvania County will and derivative memorial evidence. Original will-book image still needed before treating it as primary-proof complete. |
 | Benjamin Partlow -> Jacob Newton Partlow | Strengthened by multiple concordant derivative / collaborative sources, especially Find a Grave, Geni, FamilySearch Ancestors, and a FamilySearch-hosted compiled genealogy text. Still the weakest link because no primary document was found online directly naming Jacob as Benjamin's son. |
-| Jacob Newton Partlow -> John H. / John Halleck Partlow | Strongly supported by a Google-indexed 1888 Clark County history snippet and a FamilySearch-hosted compiled genealogy excerpt that names John Halleck as Jacob's son by Mary Halleck. Original county-history page image or full text should be captured if possible. |
+| Jacob Newton Partlow -> John H. / John Halleck Partlow | Strongly supported by the later-located 1883 Perrin county-history passage and by a FamilySearch-hosted / Harry C. Partlow compiled genealogy excerpt that names John Halleck as Jacob's son by Mary Halleck. Original probate or other primary relationship proof is still needed. |
 
 ## Online Sources Found
 
@@ -86,17 +86,16 @@ The search found multiple concordant derivative sources for Jacob Newton / Nute 
 
 The strongest online derivative claim for **Benjamin -> Jacob** is the Find a Grave memorial for Benjamin Partlow listing **Jacob Newton "Nute" Partlow (1790-1868)** as a child. Geni's Lucy Menefee page also lists Jacob Newton Partlow among Benjamin's children. These are not primary records.
 
-The strongest online derivative claim for **Jacob -> John H.** is the FamilySearch-hosted compiled genealogy snippet naming **John Halleck Partlow** as a child of Jacob Newton Partlow and Mary Halleck, and the 1888 Clark County history snippet discussed below.
+The strongest online derivative claim for **Jacob -> John H.** is the FamilySearch-hosted / Harry C. Partlow compiled genealogy snippet naming **John Halleck Partlow** as a child of Jacob Newton Partlow and Mary Halleck, plus the later-located 1883 Perrin county-history passage discussed below.
 
-### 1888 Clark County History
+### 1883 Perrin County History
 
-A Google-indexed snippet from the 1888 *History of Clark County, Illinois* / biographical sketches reports:
+A later follow-up located the actual source behind the old "1888 history" snippet: William Henry Perrin, ed., *History of Crawford and Clark Counties, Illinois* (Chicago: O. L. Baskin & Co., 1883), p. 138. See [[1883 Perrin Marion Partlow Biography]].
 
 - John H. Partlow was a son of Jacob Partlow.
-- The descent from Jacob runs through Benjamin to John Partlow II.
 - Marion Partlow is linked to this same chain.
 
-The underlying University of Illinois OCR text URL was reported as returning 404 during the search, so the snippet should be treated as a strong but incomplete derivative lead until the full page image or text is captured.
+The located Perrin passage does **not** say the descent from Jacob runs through Benjamin to John Partlow II. That Benjamin extension came from other derivative / compiled sources and is contradicted by the complete Rappahannock chancery heir file.
 
 ## Source Classification
 
@@ -108,7 +107,7 @@ The underlying University of Illinois OCR text URL was reported as returning 404
 | Find a Grave memorial `139145744` | Derivative memorial | Lists Jacob Newton "Nute" Partlow as Benjamin's child. |
 | Geni Lucy Menefee page | Collaborative tree | Lists Jacob Newton Partlow among Benjamin's children. |
 | FamilySearch Ancestors / compiled `dist.txt` | Derivative compiled genealogy | Names Jacob Newton Partlow, Mary Halleck, and John Halleck Partlow; supports Jacob -> John H. |
-| 1888 *History of Clark County, Illinois* snippet | Near-contemporary county history / derivative local history | Directly states John H. as son of Jacob and reports the descent through Benjamin to John Partlow II; full page still needed. |
+| 1883 Perrin county-history passage | Near-contemporary county history / derivative local history | Directly states John H. as son of Jacob and confirms Marion's immediate family. It does not mention Benjamin. |
 
 ## Interpretation
 
@@ -120,7 +119,7 @@ The most important next online targets are:
 2. **Culpeper County Deed Book FF, pages 394-395**, especially the reported 13 April 1813 gift deed from Benjamin and Clary to son Elisha. Search nearby deed indexes and pages for a comparable deed or distribution involving Jacob.
 3. **Rappahannock County Will Book A, page 223**, Benjamin Partlow's estate inventory, February 1838. This may identify heirs, estate administrator, or sale context.
 4. **Original Spotsylvania County Will Book E / p. 975-976 image** for John Partlow II's will, to replace online transcripts with an original or archive image.
-5. A stable full-text or page image for the **1888 History of Clark County, Illinois** biographical passage that names John H. as son of Jacob and ties Jacob to Benjamin.
+5. This broad-pass target is now complete and corrected by [[1883 Perrin Marion Partlow Biography]]. The live target is no longer the county-history page; it is Jacob Partlow's original Clark County will / probate packet and original support for the Mary Halleck / Isaac Partlow claims.
 
 ## Caution
 
