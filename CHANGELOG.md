@@ -10,13 +10,29 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4EX - Jacob Partlow Original Will Found (June 22, 2026)
+
+**PARTLOW WILL STATUS UPGRADE:** Integrated the original Clark County, Illinois will-book entry for **Jacob Partlow**, replacing the earlier derivative-only snippet lead. The will was dated **3 Sep 1867** and proved **26 May 1868**, in Will Record Book 1, image 280 of 1338, Ancestry collection 9048 record `1196850`, FamilySearch DGS `7655352` / Film `1308123`.
+
+**KEY FINDING:** The will names wife **Polly**, **William**, **Polly Ritenhouse / Ridenhouse**, executor **William W. Willison**, and witnesses **Jacob Geffs** and **Roger S. Davis**. It says unnamed lawful heirs had already received **$50 each**. It does **not** name John H. Partlow, does **not** identify William as William Franklin Partlow, and does **not** name all heirs.
+
+**TASK SHIFT:** The original will-book entry is no longer a live target. The next Partlow task is now the separate **probate packet / settlement**: executor bond, probate docket, inventory, sale bill, receipts, distribution, and final settlement, followed by Mary Halleck / Isaac Partlow corroboration and the original Jacob Partlow / Polly Abrams Indiana marriage register.
+
+### Updated Pages
+
+- [[References/Jacob Partlow Clark County Probate Will Lead|Jacob Partlow Clark County Probate Will Lead]] - upgraded from derivative lead to original will-book entry and remaining packet target; preserved raw source at `static/sources/claude-partlow/jacob-partlow-clark-county-original-will-ancestry-claude-output.txt`.
+- [[Open Record Targets|Open Record Targets]] - narrowed ORT-025 to probate packet / settlement papers and retired the generic original-will search.
+- [[RQ-P1-PARTLOW-REVOLUTIONARY-LINE|RQ-P1 Partlow Revolutionary Line]], [[Sources and Evidence Index|Sources and Evidence Index]], [[Source to Claim Matrix|Source to Claim Matrix]], and [[Research Priorities and Action Items|Research Priorities and Action Items]] - updated status, guardrails, and next actions.
+- [[People/Benjamin Partlow|Benjamin Partlow]] and [[People/Marion Elizabeth Partlow|Marion Elizabeth Partlow]] - updated the Partlow-line narrative and source notes.
+- [[Search Index|Search Index]], `CLAUDE.md`, `GEMINI.md`, and `.agents/AGENT_RESUME.md` - updated agent instructions and search keywords.
+
 ## Phase 4EW - Perrin 1883 and Jacob Partlow Will Lead (June 22, 2026)
 
 **PARTLOW JACOB-LEVEL UPDATE:** Integrated the corrected county-history source and the new Clark County will/probate lead for [[RQ-P1-PARTLOW-REVOLUTIONARY-LINE|RQ-P1 Partlow Revolutionary Line]]. The former "1888 History of Clark County" task is now closed and corrected to William Henry Perrin's 1883 *History of Crawford and Clark Counties, Illinois*, page 138. That passage explicitly says **John H. Partlow** was a son of **Jacob Partlow**, but it does **not** mention Benjamin Partlow or support **Jacob -> Benjamin**.
 
-**JACOB WILL LEAD FOUND:** Added a derivative lead for **Jacob Partlow's will**, reportedly dated **3 Sep 1867** and probated **26 May 1868** in Clark County, Illinois, with witnesses **Jacob Geffs** and **Royer S. Davis** and executor **William W. Willison**. The snippet trail names wife **Polly / Mary**, **William**, **Polly Ritenhouse / Ridenhouse**, and unnamed heirs already paid $40 each. Because this is reconstructed from Find a Grave / Google snippets and a removed FamilySearch patron upload, the original will image and probate packet remain the active target.
+**JACOB WILL LEAD FOUND:** Added the first derivative lead for **Jacob Partlow's will**, reportedly dated **3 Sep 1867** and probated **26 May 1868** in Clark County, Illinois. This lead was later superseded by Phase 4EX, which found the original will-book entry and corrected the witness / amount details.
 
-**STATUS CHANGE:** The line now has strong local-history / compiled support for **John H. -> Jacob**, but still no primary probate proof naming John H. as Jacob's son. The **Jacob -> Benjamin** link remains contradicted by the complete Rappahannock chancery file. The next Partlow task is **Jacob Partlow's original Clark County will / probate packet**, followed by Mary Halleck / Isaac Partlow corroboration and the original Jacob Partlow / Polly Abrams Indiana marriage register.
+**STATUS CHANGE:** The line now has strong local-history / compiled support for **John H. -> Jacob**, but still no primary probate proof naming John H. as Jacob's son. The **Jacob -> Benjamin** link remains contradicted by the complete Rappahannock chancery file. Phase 4EX later narrowed the next Partlow task to Jacob Partlow's separate probate packet / settlement papers, followed by Mary Halleck / Isaac Partlow corroboration and the original Jacob Partlow / Polly Abrams Indiana marriage register.
 
 ### Updated Pages
 

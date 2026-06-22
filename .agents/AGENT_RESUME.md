@@ -26,14 +26,23 @@ Maintain the public reader path, evidence-status pages, and master research queu
 
 ## What Was Just Completed
 
+- Integrated Zach's June 2026 original Jacob Partlow will-book report:
+  - replaced the prior derivative-only will lead in `References/Jacob Partlow Clark County Probate Will Lead.md`;
+  - preserved the raw report at `static/sources/claude-partlow/jacob-partlow-clark-county-original-will-ancestry-claude-output.txt`;
+  - recorded the original citation: Clark County, Illinois, Will Record Book 1, image 280 of 1338, Ancestry collection 9048 record `1196850`, FamilySearch DGS `7655352` / Film `1308123`;
+  - recorded that Jacob's will was dated 3 Sep 1867 and proved 26 May 1868, names wife Polly, William, Polly Ritenhouse / Ridenhouse, executor William W. Willison, and witnesses Jacob Geffs and Roger S. Davis;
+  - corrected the lawful-heirs wording from the earlier snippet's `$40` to the original will-book reading of **$50 each**;
+  - recorded that the will does not name John H. Partlow, does not identify William as William Franklin, and does not name all lawful heirs;
+  - changed the live Partlow task from finding the original will-book entry to searching any separate probate packet, docket, bond, inventory, sale bill, settlement, and distribution receipts.
+
 - Integrated Zach's June 2026 Jacob Partlow Clark County record-trail and probate/will updates:
   - added `References/1883 Perrin Marion Partlow Biography.md` and preserved the raw report at `static/sources/claude-partlow/1883-perrin-marion-partlow-biography-claude-output.txt`;
   - corrected the old "1888 Clark County history" lead to William Henry Perrin's 1883 *History of Crawford and Clark Counties, Illinois*, p. 138;
   - recorded that Perrin explicitly supports **John H. Partlow -> Jacob Partlow** but does **not** mention Benjamin Partlow;
   - added `References/Jacob Newton Partlow Clark County Record Trail.md` and preserved the raw report at `static/sources/claude-partlow/jacob-newton-partlow-clark-county-record-trail-claude-output.txt`;
   - added `References/Jacob Partlow Clark County Probate Will Lead.md` and preserved the raw report at `static/sources/claude-partlow/jacob-partlow-clark-county-probate-will-lead-claude-output.txt`;
-  - recorded the derivative snippet trail for Jacob Partlow's will, dated 3 Sep 1867 and reportedly probated 26 May 1868 in Clark County, Illinois, naming wife Polly / Mary, William, Polly Ritenhouse / Ridenhouse, and unnamed heirs already paid $40 each;
-  - changed the live Partlow target from generic Jacob probate searching to obtaining the original Jacob Partlow will / probate packet, then corroborating Mary Halleck, Isaac Partlow, and the original Jacob Partlow / Polly Abrams Indiana marriage register.
+  - initially recorded a derivative snippet trail for Jacob Partlow's will, later superseded by the original will-book entry now summarized above;
+  - changed the live Partlow target from generic Jacob probate searching to the original Jacob will path, which is now further narrowed to any separate probate packet / settlement, plus Mary Halleck, Isaac Partlow, and the original Jacob Partlow / Polly Abrams Indiana marriage register.
 
 - Integrated Zach's June 2026 primary-record check for Jacob Newton Partlow as a child / heir of Benjamin Partlow:
   - preserved the raw report at `static/sources/claude-partlow/rappahannock-partlow-chancery-1842-002-claude-output.txt`;

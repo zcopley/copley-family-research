@@ -58,7 +58,7 @@ That is enough to keep **John H. -> Jacob** as a strong working conclusion, but 
 
 ## Best Next Targets
 
-1. **Original Clark County, Illinois will and probate packet for Jacob Partlow**, will dated 3 Sep 1867 and reportedly probated 26 May 1868. The derivative snippet trail is now found, but the original will-book entry and packet are still needed.
+1. **Separate Clark County, Illinois probate packet / settlement papers for Jacob Partlow**, whose original will-book entry dated 3 Sep 1867 and proved 26 May 1868 is now found. The will-book entry names wife Polly, William, Polly Ritenhouse / Ridenhouse, executor William W. Willison, and witnesses Jacob Geffs and Roger S. Davis, but it does not name John H. or all heirs.
 2. **Original Indiana marriage register**, Jacob Partlow and Polly Abrams, 13 Sep 1815, FHL film `000549348`. The register may identify county, bondsman, witnesses, or other context.
 3. **Direct 1860 census image review** for Jacob / Mary / William Partlow, Johnson Township, page 136, NARA M653 roll 162.
 4. **1850 census browse for Jacob Partlow** near Johnson Township / John H. Partlow, since the indexed search did not return him.

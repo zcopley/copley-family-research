@@ -24,7 +24,7 @@ This page tracks the former proposed proof chain from [[People/Marion Elizabeth 
 |---|---|
 | Is Benjamin Partlow's Revolutionary service supported? | Yes. Pension S5871 / pension-roll snippets, the local pension-cover image, and DAR ancestor lead `A088405` support Benjamin Partlow of Culpeper / Rappahannock County, Virginia as the Revolutionary War pensioner. |
 | Is the Marion Elizabeth Partlow -> Benjamin Partlow chain proved? | No. Marion -> Frank / Nollie + Alice -> Marion M. -> John H. is supported by original or near-original records, and John H. -> Jacob has derivative support. But the complete Rappahannock chancery file for Benjamin Partlow omits Jacob from every heir, party, advancement, and distribution list. |
-| Best immediate proof target | Obtain the original Clark County, Illinois will / probate packet for Jacob Partlow, will dated 3 Sep 1867 and reportedly probated 26 May 1868. The online snippet trail reports wife Polly / Mary, William, Polly Ritenhouse / Ridenhouse, and unnamed heirs already paid $40 each, but the original is still needed. |
+| Best immediate proof target | Search for the separate Clark County, Illinois probate packet, docket, inventory, sale bill, settlement, distribution receipts, and executor papers for Jacob Partlow. The original will-book entry is now found; it names wife Polly, William, Polly Ritenhouse / Ridenhouse, executor William W. Willison, and witnesses Jacob Geffs and Roger S. Davis, but it leaves the other lawful heirs unnamed. |
 | Critical middle gap | Identify Jacob Newton Partlow's correct parents and determine whether the compiled Mary Halleck / Isaac Partlow brother claims have original support. The Benjamin connection remains contradicted. |
 | Master queue | See [[Open Record Targets]] for the retired Partlow identity targets and the active primary-record targets. |
 
@@ -72,7 +72,7 @@ graph TD
 | Marion Elizabeth Partlow -> Nollie Franklin / Frank Partlow + Alice / Mary Alice Rude | The 1920 census lists `Marian E Parttow` in the Nollie / Mary A Partlow household; the 1930 census lists `Marion Partlow` as daughter of Frank and Allee / Alice Partlow. The 1934 Indiana marriage record for Ray Partlow names parents Frank Partlow and Alice Rude. See [[References/Partlow Rude Online Identity Chain]]. | **Proven by near-original records and convergent web evidence.** | Keep the Clark County marriage return as an optional ceremony-detail target, not the identity-control target. |
 | Nollie Franklin / Frank Partlow -> Marion McDonald / M. Partlow | The original 1880 Johnson Township census image, FamilySearch image `33S7-9YB4-VPC`, lists **Nollie Frank**, age 6, as son in the Marion Partlow / Marth household. New England Ball Project also cites 1900 Johnson Township census with widower Marion and sons **Frank and Henry**. The 1977 handwritten lineage places Frank under Marion M. Partlow, and the online identity-chain pass ties Frank N / Frank to Nollie Franklin and Alice / Mary Alice across 1900-1956. | **Proven by original-image census evidence plus later identity chain.** | Use this as a completed downstream anchor; do not repeat identity-chain work unless a conflict appears. |
 | Marion McDonald / M. Partlow -> John H. / Halleck / Hallick Partlow | The original 1850 census image, FamilySearch image `S3HY-DTN7-NYR`, shows John H. / `Jhn Hc.` Partlow with Lydia / Sydia and a child indexed as `Momore` / read as `Momon`, age 2, identified as Marion by continuity. The original 1860 image, `33SQ-GBF7-DF4`, clearly lists **Marion M**, age 16, in the John / Sydia Partlow household. See [[References/1850 and 1860 John Halleck Partlow Household]]. | **Proven by original-image census evidence.** | Move upstream to John H. -> Jacob and Jacob's correct parentage; the Benjamin link is contradicted. |
-| John H. / Halleck / Hallick Partlow -> Jacob Partlow | 1977 handwritten lineage names Jacob Partlow as father of John H.; New England Ball Project states John was son of Jacob Partlow and Mary, citing a RootsWeb-era database. The located 1883 Perrin county-history biography of Marion Partlow explicitly says John H. Partlow was a son of Jacob Partlow. A compiled Harry C. Partlow / FamilySearch snippet trail reportedly names John Halleck Partlow as a child of Jacob Partlow and Mary Halleck, and describes John as a nephew of Isaac Partlow. | Strong derivative / local-history support; original probate or estate proof still needed. | Obtain Jacob Partlow's original Clark County will / probate packet and search for original Mary Halleck / Isaac-brother corroboration. |
+| John H. / Halleck / Hallick Partlow -> Jacob Partlow | 1977 handwritten lineage names Jacob Partlow as father of John H.; New England Ball Project states John was son of Jacob Partlow and Mary, citing a RootsWeb-era database. The located 1883 Perrin county-history biography of Marion Partlow explicitly says John H. Partlow was a son of Jacob Partlow. A compiled Harry C. Partlow / FamilySearch snippet trail reportedly names John Halleck Partlow as a child of Jacob Partlow and Mary Halleck, and describes John as a nephew of Isaac Partlow. Jacob's original will-book entry is now found but does not name John H. or all heirs. | Strong derivative / local-history support; the found will does not settle the heir list. | Search Jacob Partlow's probate packet / settlement papers and search for original Mary Halleck / Isaac-brother corroboration. |
 | Jacob Partlow / Jacob Newton Partlow -> Benjamin Partlow | 1977 handwritten lineage and Ancestry screenshot place Jacob as son of Benjamin Partlow. The June 2026 upstream web pass found Find a Grave memorial `139145744`, Geni, and FamilySearch / compiled-text snippets placing Jacob in Benjamin's child group. The later complete primary-record review found **Rappahannock County Chancery Case 1842-002 / original no. 53** names eight child / heir lines for Benjamin, distributes the estate in eight shares, and contains no Jacob / Jacob Newton / Nute Partlow in any image. | **Contradicted by complete primary-record file.** | Pivot to finding Jacob's correct parents and explaining the derivative-source error. |
 | Benjamin Partlow -> Revolutionary War service | Pension cover sheet image confirms Benjamin Partlow of Culpeper County, Virginia, age 70, private, disabled by bodily infirmity, with more than six months service under Capt. Coxen and Capt. Rogers. The upstream web pass identifies pension **S5871**, derivative transcript snippets, and DAR ancestor lead `A088405`. | Service evidence strong; full pension file and directly viewable DAR GRS page still useful. | Obtain full NARA/Fold3 pension file and directly capture the DAR ancestor page if accessible. |
 | Benjamin Partlow -> John Partlow II | A Graves Family Association page and WikiTree transcript cite Spotsylvania County Will Book E / p. 975-976 for John Partlow, died 11 Dec 1789, and report that the will named son **Benjamin Partlow** and 250 acres in Culpeper County. | Strong derivative transcript / abstract support pointing to an original will record; original image still needed. | Obtain the original Spotsylvania will-book image or a reliable archive scan and compare it to Benjamin's Culpeper pension identity. |
@@ -116,19 +116,24 @@ The biography of **Marion Partlow** states that Marion's father was **John H. Pa
 
 Interpretation: this is strong near-contemporary local-history testimony for **John H. Partlow -> Jacob Partlow** and for the Marion / Nollie family frame. It does **not** mention Benjamin Partlow and cannot be used for **Jacob -> Benjamin**.
 
-## Jacob Partlow Clark County Will Lead
+## Jacob Partlow Clark County Original Will
 
-A later June 2026 probate search located a derivative / snippet trail for **Jacob Partlow's will**. See [[References/Jacob Partlow Clark County Probate Will Lead]].
+A later June 2026 probate search first located a derivative / snippet trail for **Jacob Partlow's will**. A follow-up search then found the original will-book entry. See [[References/Jacob Partlow Clark County Probate Will Lead]].
 
-Reported details:
+Citation and details:
 
-- Will dated **3 Sep 1867**.
-- Filed / probated **26 May 1868** at Clark County Clerk's Office, Marshall, Illinois.
-- Witnesses: **Jacob Geffs** and **Royer S. Davis**.
+- Jacob Partlow will, dated **3 Sep 1867**, proved in open court **26 May 1868**.
+- Clark County, Illinois, Will Record Book 1, 1859-1882, pp. approximately 158-159, image 280 of 1338.
+- Ancestry collection 9048, record `1196850`, image `007655352_00280`.
+- FamilySearch DGS `7655352` / Film `1308123`, catalog `koha:317736`.
+- Wife **Polly** receives a life estate in all remaining property.
+- The will says Jacob had already given **all lawful heirs $50 each**.
+- **William** receives the residue after Polly's life estate, but the will does not identify him as William Franklin Partlow.
+- **Polly Ritenhouse / Ridenhouse** receives a cow and a bed; her relationship is not stated.
 - Executor: **William W. Willison**.
-- Reconstructed will language gives wife **Polly (Mary)** all for life; says all heirs had already received **$40.00 apiece**; gives the residue to **William**; and gives **Polly Ritenhouse / Ridenhouse** a cow and a bed.
+- Witnesses: **Jacob Geffs** and **Roger S. Davis**.
 
-Interpretation: the will lead is important because it appears to be Jacob's own estate record. However, the current text is reconstructed from Find a Grave / Google snippets and a removed FamilySearch patron upload. The original will image and probate packet are still required before upgrading any heir conclusion. The snippet does not name John H. Partlow, but the "all my heirs" clause may explain why adult or earlier-settled children were not listed in the residue.
+Interpretation: the will-book entry is now an original-record anchor, but it still does **not** name John H. Partlow, does **not** name all heirs, does **not** identify William by middle name, and does **not** explain Polly Ritenhouse / Ridenhouse. The next target is the separate probate packet, docket, executor bond, inventory, sale bill, settlement, and distribution receipts, if they survive.
 
 The same companion genealogy snippet reportedly separates Jacob's marriages into **Mary Halleck** about 1810, with children John Halleck Partlow and James Halleck Partlow III, and **Mary / Polly Abrams** in 1815 in Indiana. Treat this as a working compiled-source structure until the original Mary Halleck evidence is found. The indexed 1815 Polly Abrams marriage remains the stronger direct marriage record.
 
@@ -327,7 +332,7 @@ flowchart TD
     H["Line can be evaluated for DAR-style proof"]
 
     A --> B --> C --> D --> E --> F --> G --> I --> H
-    F -. "current priority" .-> P["Best next targets:<br/>original Jacob will/probate packet;<br/>Mary Halleck / Isaac corroboration;<br/>Polly Abrams register;<br/>Rappahannock collateral records"]
+    F -. "current priority" .-> P["Best next targets:<br/>Jacob probate packet / settlement;<br/>Mary Halleck / Isaac corroboration;<br/>Polly Abrams register;<br/>Rappahannock collateral records"]
 
     class A,H goal
     class B,P priority
@@ -338,8 +343,8 @@ flowchart TD
     classDef action fill:#e7f5ff,stroke:#1971c2,color:#102a43;
 ```
 
-1. Obtain the **original Clark County, Illinois will and probate packet for Jacob Partlow**, will dated 3 Sep 1867 and reportedly probated 26 May 1868.
-2. Search the original probate packet for named heirs, executor bond, inventory, sale bill, settlement, distribution, witness relationships, and any reference to John H. Partlow, William Franklin Partlow, Mary / Polly Abrams, Polly Ritenhouse / Ridenhouse, or earlier advancements.
+1. Search for the **separate Clark County, Illinois probate packet / settlement papers for Jacob Partlow**, whose original will-book entry is now found.
+2. Search the packet, probate docket, executor bond, inventory, sale bill, settlement, distribution receipts, and related papers for named heirs and any reference to John H. Partlow, William Franklin Partlow, Mary / Polly Abrams, Polly Ritenhouse / Ridenhouse, or earlier advancements.
 3. Search for original corroboration of **Mary Halleck** as Jacob's first wife and **Isaac Partlow** as Jacob's brother.
 4. Search Rappahannock County deed books, order books, administration bonds, and tax lists for collateral context around Benjamin, Elisha, John L., Henry B., and Benjamin L. Partlow; treat these as Benjamin-family context, not as likely proof of Jacob as Benjamin's heir.
 5. Search Culpeper County deed books and indexes, especially **Deed Book FF pp. 394-395** and nearby Partlow deeds around 1813, for Benjamin / Clary transfers to children and collateral Partlow structure.
@@ -390,4 +395,4 @@ flowchart TD
 36. Library of Virginia Chancery Records Index, Rappahannock County case `1842-002`, John Partlow v. Heir(s) of Benjamin Partlow: https://old.lva.virginia.gov/chancery/case_detail.asp?CFN=157-1842-002
 38. [[References/1883 Perrin Marion Partlow Biography]] - located 1883 Perrin source passage for Marion Partlow; supports John H. -> Jacob and confirms no Benjamin claim in that source.
 39. [[References/Jacob Newton Partlow Clark County Record Trail]] - Clark County / Indiana record trail for Jacob Partlow, Mary / Polly Abrams, 1830-1860 census leads, and next targets.
-40. [[References/Jacob Partlow Clark County Probate Will Lead]] - derivative snippet trail for Jacob Partlow's reported 1867 will / 1868 probate, with original will and probate packet still needed.
+40. [[References/Jacob Partlow Clark County Probate Will Lead]] - original Clark County will-book entry for Jacob Partlow's 1867 will / 1868 probate plus the remaining probate-packet target.
