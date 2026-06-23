@@ -10,20 +10,52 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4FA - Jacob Partlow Companion Probate Reels Checked (June 22, 2026)
+
+**ONLINE COMPANION REELS BOUNDED:** Integrated the DGS `7655347` / `7655349` follow-up for the Jacob Partlow probate problem. DGS `7655347` did **not** resolve `PARTLOW John M. - 1/28`; the Administrator-Guardian Index P section and candidate page-28 checks were negative for Partlow.
+
+**COLLATERAL FIND:** DGS `7655347`, image `007655347_00640`, page 8, has a collateral **James Partlow** executor bond, likely for an Elizabeth Partlow estate. This may help broader Clark County Partlow probate mapping, but it does not resolve Jacob's heirs.
+
+**GUARDIANSHIP RANGE CHECKED:** DGS `7655349`, Guardian Record Book B, has no front alphabetical index. Pages 1-41 / images `007655349_00387-00407` are checked negative for Partlow / Ridenhouse / Ritenhouse / Rittenhouse / Reddinghause.
+
+**TASK SHIFT:** The core Jacob proof still requires offline access to **Probate Journal vol. CC p. 166** and **estate packet box 46**. The only remaining web-only probate path is to continue Guardian Record Book B from image `007655349_00408` forward through about 1871.
+
+### Updated Pages
+
+- [[References/Jacob Partlow Clark County Probate Will Lead|Jacob Partlow Clark County Probate Will Lead]] - added the DGS `7655347` / `7655349` companion-reel follow-up and preserved raw source at `static/sources/claude-partlow/jacob-partlow-dgs7655347-7655349-followup-claude-output.txt`.
+- [[Open Record Targets|Open Record Targets]], [[RQ-P1-PARTLOW-REVOLUTIONARY-LINE|RQ-P1 Partlow Revolutionary Line]], [[Research Priorities and Action Items|Research Priorities and Action Items]], [[Sources and Evidence Index|Sources and Evidence Index]], [[Source to Claim Matrix|Source to Claim Matrix]], and [[Search Index|Search Index]] - updated the remaining online/offline target split.
+- `CLAUDE.md`, `GEMINI.md`, and `.agents/AGENT_RESUME.md` - refreshed no-repeat guidance for DGS `7655347` and Guardian Record Book B pages 1-41.
+
+## Phase 4EZ - Jacob Partlow CC 166 and Newspaper Follow-Up (June 22, 2026)
+
+**PROBATE-JOURNAL LEAD RESOLVED TO OFFLINE TARGET:** Integrated the follow-up report identifying **`PARTLOW Jacob - (CC) 166`** as **Clark County Probate Journal / Probate Order Book volume CC, page 166**, using the 1938 *Inventory of the County Archives of Illinois, No. 12 - Clark County (Marshall)*. The report also found that the Probate Journal volumes are **not** included in the online Ancestry / FamilySearch seven-reel set.
+
+**PACKET POINTER FOUND:** The Index to Estate Papers points **Partlow, Jacob** to **box 46**. The packet itself is not online in the checked collections.
+
+**NEWSPAPER NEGATIVE:** Web-searchable 1868-1872 newspaper paths, including the Marshall Public Library Digital Archive and Library of Congress newspaper search, did not find a Jacob Partlow estate notice, Willison executor notice, Ritenhouse / Ridenhouse notice, Geffs notice, or Roger S. Davis notice.
+
+**TASK SHIFT:** The core Jacob probate evidence now requires Clark County / IRAD-EIU access for **Probate Journal vol. CC p. 166** and **estate packet box 46**. This phase initially left DGS `7655347` and `7655349` as web-accessible targets; Phase 4FA later checked those enough to narrow the only remaining web-only probate path to Guardian Record Book B after image `007655349_00407`.
+
+### Updated Pages
+
+- [[References/Jacob Partlow Clark County Probate Will Lead|Jacob Partlow Clark County Probate Will Lead]] - added the CC 166 follow-up, box 46 pointer, newspaper negative, and corrected remaining task list; preserved raw source at `static/sources/claude-partlow/jacob-partlow-cc166-newspaper-followup-claude-output.txt`.
+- [[Open Record Targets|Open Record Targets]], [[RQ-P1-PARTLOW-REVOLUTIONARY-LINE|RQ-P1 Partlow Revolutionary Line]], [[Research Priorities and Action Items|Research Priorities and Action Items]], [[Sources and Evidence Index|Sources and Evidence Index]], [[Source to Claim Matrix|Source to Claim Matrix]], and [[Search Index|Search Index]] - updated the Partlow task status and no-repeat boundaries.
+- [[People/Benjamin Partlow|Benjamin Partlow]], [[People/Marion Elizabeth Partlow|Marion Elizabeth Partlow]], `CLAUDE.md`, `GEMINI.md`, and `.agents/AGENT_RESUME.md` - refreshed agent guidance so future Claude work does not repeat `CC 166` as an online target or repeat the checked newspaper paths.
+
 ## Phase 4EY - Jacob Partlow Probate Index and Packet Search (June 22, 2026)
 
 **PROBATE-INDEX CONTROL POINT FOUND:** Integrated the follow-up search for Jacob Partlow's Clark County, Illinois probate packet / settlement papers. The Clark County `INDEX TO ESTATE PAPERS` entry is now recorded at Ancestry collection 9048 record `1196688`, image `007655352_00192`, FamilySearch DGS `7655352`.
 
-**KEY FINDING:** The index gives **`PARTLOW Jacob - 188`**, which points to the already-found will-book entry, and **`PARTLOW Jacob - (CC) 166`**, now the best new unresolved court / probate lead. The same page has **`PARTLOW John M. - 1/28`**, which must be checked before being treated as connected to John H. Partlow.
+**KEY FINDING:** The index gives **`PARTLOW Jacob - 188`**, which points to the already-found will-book entry, and **`PARTLOW Jacob - (CC) 166`**, then the best new unresolved court / probate lead. The same page has **`PARTLOW John M. - 1/28`**, which must be checked before being treated as connected to John H. Partlow. Later phases identify CC 166 as Probate Journal vol. CC p. 166 and bound the John M. online search.
 
-**NEGATIVE RESULT:** No digitized executor bond, letters testamentary, probate docket, inventory, sale bill, final settlement, receipts, distributions, guardianship, conservatorship, or loose probate packet was found in checked online images or free web paths. The next web-accessible task is not to redo the will or index search; it is to resolve `(CC) 166`, browse unsearched later sections of Ancestry collection 9048 / DGS `7655352`, and search 1868-1872 Marshall / Clark County newspapers for estate notices involving Jacob Partlow, William W. Willison, or `Partlow estate`.
+**NEGATIVE RESULT:** No digitized executor bond, letters testamentary, probate docket, inventory, sale bill, final settlement, receipts, distributions, guardianship, conservatorship, or loose probate packet was found in checked online images or free web paths. Later phases supersede the immediate next-task wording here by identifying `(CC) 166` as offline and checking the searchable newspaper paths.
 
 ### Updated Pages
 
 - [[References/Jacob Partlow Clark County Probate Will Lead|Jacob Partlow Clark County Probate Will Lead]] - added the probate-index / packet-search section, FAN-club notes, and concrete next targets; preserved raw source at `static/sources/claude-partlow/jacob-partlow-probate-index-packet-search-claude-output.txt`.
 - [[Open Record Targets|Open Record Targets]] - changed ORT-025 from a generic packet search to the specific `(CC) 166`, DGS `7655352`, and 1868-1872 newspaper-notice path.
 - [[RQ-P1-PARTLOW-REVOLUTIONARY-LINE|RQ-P1 Partlow Revolutionary Line]], [[Research Priorities and Action Items|Research Priorities and Action Items]], [[Sources and Evidence Index|Sources and Evidence Index]], [[Source to Claim Matrix|Source to Claim Matrix]], and [[Search Index|Search Index]] - updated the Partlow task status and no-repeat boundaries.
-- [[People/Benjamin Partlow|Benjamin Partlow]], [[People/Marion Elizabeth Partlow|Marion Elizabeth Partlow]], `CLAUDE.md`, `GEMINI.md`, and `.agents/AGENT_RESUME.md` - refreshed agent guidance so future Claude work starts with `(CC) 166`, unsearched DGS sections, and 1868-1872 estate notices.
+- [[People/Benjamin Partlow|Benjamin Partlow]], [[People/Marion Elizabeth Partlow|Marion Elizabeth Partlow]], `CLAUDE.md`, `GEMINI.md`, and `.agents/AGENT_RESUME.md` - refreshed agent guidance; later phases superseded the `(CC) 166` / newspaper next-task wording with the offline CC / box 46 target and bounded companion-reel checks.
 
 ## Phase 4EX - Jacob Partlow Original Will Found (June 22, 2026)
 
