@@ -1,0 +1,49 @@
+Jacob Partlow -- Clark County Probate Follow-Up Research Report
+
+Session focus: verify the meaning of probate-index entry "PARTLOW Jacob - (CC) 166"; determine whether Probate Journal volume CC is online; check the separate "PARTLOW John M. - 1/28" lead; search 1868-1872 Clark County / Marshall newspapers.
+
+Key findings:
+
+- The 1938 Inventory of County Archives of Illinois, No. 12 -- Clark County (Marshall), entry 127, identifies the Probate Journal series, 1820-, also titled Probate Order Book or Probate Record.
+- Entry 127 describes a 43-volume series: numbered volumes 2-5, two unlabeled volumes, volume B, then the A-Z / later continuation sequence beginning 1860.
+- The probate-index notation "(CC) 166" is interpreted as Clark County Probate Journal / Probate Order Book volume CC, page 166.
+- Probate Journal volume CC is not included in the seven-reel FamilySearch / Ancestry set cataloged as FamilySearch koha:317736 / Ancestry collection 9048.
+- The seven reels include probate indexes, will records, guardian records, conservator records, administrator records, and some chancery books, but not the Probate Journal / Probate Order Book volume CC.
+- Therefore the underlying CC 166 entry requires Clark County courthouse or IRAD-EIU access unless a separate digitization is found.
+
+Ancestry / FamilySearch reel breakdown:
+
+- Film 1308123 / DGS 7655352: Probate Index Book A 1850-1960; Probate Index Book 1 1960-1976; Will Record Books 1-5, 1859-1916.
+- Film 1308124 / DGS 7655351: Will Books 5-9, 1916-1931.
+- Film 1308125 / DGS 7655350: Guardians Index; Guardians Report Record Books 1-5.
+- Film 1308126 / DGS 7655349: Conservators Record Books 4-5, 1934-1964; Guardians Record Books B-E, 1865-1921.
+- Film 1308127 / DGS 7655348: Guardians Record Books F-H, 1903-1964; Guardian's Inventory Record Books A-C, 1873-1935.
+- Film 1308128 / DGS 7655347: Administrator's Record Books M-N, 1935-1964; Administrator-Guardian Index 1876-1893; Guardian Fee Books 1-3, 1900-1976.
+- Film 1308129 / DGS 7655346: Chancery Record Books 62-65, 1975-1976; Chancery Book A 1837-1844; Book P 1880-1882.
+
+Estate-paper index details:
+
+- DGS 7655352 image 97, Index to Estate Papers, PA section, lists Partlow, Isaac, box 45; Partlow, John B., box 45; Partlow, Rachel, box 46; Partlow, Jacob, box 46.
+- This supplies a physical estate-packet pointer: Jacob Partlow estate file box 46.
+- Right-column Partlow entries include possible John H. / John M. readings at higher box numbers, but the image was not resolved conclusively.
+
+John M. / 1/28:
+
+- The "PARTLOW John M. - 1/28" notation uses a format different from the box-number style in the Index to Estate Papers.
+- It may refer to a volume/page in another probate or administrator-guardian index.
+- DGS 7655347 contains the Administrator-Guardian Index 1876-1893 and is online through Ancestry collection 9048; this remains the best next online target.
+- Do not equate John M. with John H. unless the underlying record proves it.
+
+Newspaper searches:
+
+- Library of Congress / Chronicling America newspaper search for Partlow, 1868-1872, Illinois and all states: no relevant hits.
+- Marshall Public Library Digital Archive / Advantage Archives, 1868-1872:
+  - Partlow: three hits, none for Jacob's estate. Two June 1869 William D. Crouch estate sale notices mention Nelson Partlow as grantee of a mill site; an 1871 delinquent tax list mentions Benjamin Partlow.
+  - Willison: one irrelevant 1872 item about a Miss Willison.
+  - Ritenhouse / Ridenhouse, Jacob Geffs, Roger S. Davis, and phrase "Partlow estate": no relevant hits.
+- No digitized 1868-1872 legal notice for Jacob Partlow's estate was found in the searched web-accessible newspaper paths.
+
+Remaining targets:
+
+- Offline / physical: Probate Journal volume CC, page 166; Jacob Partlow estate packet box 46; executor bond; letters testamentary; inventory; sale bill; final settlement; receipts; distribution papers.
+- Online: DGS 7655347 for Administrator-Guardian Index and "PARTLOW John M. - 1/28"; DGS 7655349 for Guardians Record Books B-E, 1865-1921, searching Partlow / Ritenhouse / Ridenhouse / Rittenhouse / Reddinghause.
