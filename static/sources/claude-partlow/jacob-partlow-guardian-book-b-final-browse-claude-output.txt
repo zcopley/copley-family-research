@@ -1,0 +1,49 @@
+Jacob Partlow Probate Web-Only Search -- Final Guardian Book B Report
+
+Scope:
+
+- Ancestry collection 9048 / FamilySearch DGS 7655349.
+- Clark County, Illinois, Guardians Records, Books B-E, 1865-1921.
+- Prior session checked images 00387-00407.
+- This session checked images 00408-00479 sequentially.
+- Image 00480 was used as a calibration endpoint and showed February 1871.
+
+Coverage:
+
+- Combined checked range: images 00387-00479.
+- Approximate page coverage: Guardian Record Book B pages 1-185.
+- Approximate date coverage: Dec. 1865 / Oct. 1865 through Jan.-Feb. 1871.
+- No alphabetical index, section divider, or table of contents was observed. The book is a continuous chronological appointment sequence.
+
+Search target names:
+
+- Partlow
+- Ritenhouse
+- Ridenhouse
+- Rittenhouse
+- Reddinghause
+- Polly Ridenhouse
+- Mary Ridenhouse
+- Polly Ritenhouse
+- Mary Ritenhouse
+
+Result:
+
+- No matching entry found in images 00408-00479.
+- Combined with the prior negative search of images 00387-00407, no matching entry appears in images 00387-00479 / pages 1-185.
+- No matching name was found as guardian, ward, or deceased ancestor.
+
+Negative-result highlights:
+
+- Image 408, pp. 43-44, Dec. 1866: Margaret Heath / Clark S. Hale, negative.
+- Images 409-415, pp. 45-56, Jan.-Jun. 1867: negative.
+- Images 416-429, pp. 57-83, Jun. 1867-Mar. 1868: negative.
+- Images 430-449, pp. 83-123, Mar. 1868-Oct. 1869: negative.
+- Images 450-454, pp. 124-132, Oct. 1869: negative.
+- Images 455-479, pp. 136-185, Nov. 1869-Feb. 1871: negative.
+
+Conclusion:
+
+- Guardian Record Book B is now checked through about February 1871 and is negative for Partlow / Ridenhouse variants.
+- The remaining core Jacob probate targets are offline: Probate Journal volume CC page 166 and estate packet box 46.
+- If continuing web-only work, the next possible avenue would be later Guardian Record Books C-E, but this is lower priority because Book B covers the most relevant post-1865 window for Polly / Mary Ridenhouse.

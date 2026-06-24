@@ -28,6 +28,8 @@ Probate journal / newspaper follow-up report: [Jacob Partlow CC 166 and newspape
 
 Companion reel follow-up report: [Jacob Partlow DGS 7655347 and 7655349 follow-up output](/static/sources/claude-partlow/jacob-partlow-dgs7655347-7655349-followup-claude-output.txt)
 
+Guardian Book B final browse report: [Jacob Partlow Guardian Book B final browse output](/static/sources/claude-partlow/jacob-partlow-guardian-book-b-final-browse-claude-output.txt)
+
 ## Citation
 
 Jacob Partlow will, 3 Sep 1867; Clark County, Illinois, Will Record, Book 1 (1859-1882), pp. approximately 158-159, image 280 of 1338; *Illinois, U.S., Wills and Probate Records, 1772-1999*, Ancestry.com, collection 9048, record ID `1196850`, image `007655352_00280`, https://www.ancestry.com/imageviewer/collections/9048/images/007655352_00280. Original microfilm: FamilySearch DGS `7655352` / Film `1308123`, "Probate, will, guardian, conservator and chancery records, 1840-1976," Illinois. County Court (Clark County), FamilySearch catalog `koha:317736`; microreproduction of original records at the Clark County Courthouse, Marshall, Illinois.
@@ -153,7 +155,23 @@ Findings:
 - Page 28 of Guardian's Record Book B, image `007655349_00401`, is the appointment of Eliza A. Sarcuello as guardian for Nancy E. and Charles W. Marcroft; no Partlow or Ridenhouse appears.
 - Images `00387-00407`, corresponding roughly to Book B pages 1-41 / Oct. 1865-Dec. 1866, were sampled or read for guardian and ward names. No Partlow, Ridenhouse, Ritenhouse, Rittenhouse, or Reddinghause entry was found in that range.
 
-Conclusion: the online guardian search is **partially checked negative** for Book B pages 1-41. If a guardianship for Polly / Mary Ridenhouse existed after 1866, the next web-only path is to continue browsing Guardian's Record Book B forward from image `007655349_00408` through the years before she reached majority, roughly 1867-1871. If no index exists, document image ranges carefully.
+This was the interim result from the companion-reel pass. The final browse below supersedes the earlier partial status: Guardian Record Book B images `00387-00479`, roughly pages 1-185, are now checked negative through about February 1871.
+
+## Guardian Record Book B Final Browse
+
+A final web-only pass continued DGS `7655349`, Guardian Record Book B, from image `007655349_00408` through image `007655349_00479`. Image `00480` was used only as a calibration endpoint and showed February 1871.
+
+Combined coverage now checked:
+
+- Prior pass: images `00387-00407`, roughly Book B pages 1-41 / Oct. 1865-Dec. 1866.
+- Final pass: images `00408-00479`, roughly Book B pages 43-185 / Dec. 1866-Feb. 1871.
+- Total checked: images `00387-00479`, 93 images, roughly Book B pages 1-185.
+
+No alphabetical index, section divider, or table of contents was observed. The book is a continuous chronological sequence of guardian appointments.
+
+Result: **no Partlow, Ritenhouse, Ridenhouse, Rittenhouse, Reddinghause, Polly Ridenhouse, Mary Ridenhouse, Polly Ritenhouse, or Mary Ritenhouse entry was found** in the checked range, whether as guardian, ward, or deceased ancestor.
+
+Conclusion: the online Guardian Record Book B search is now complete through about February 1871 and negative. Do not repeat DGS `7655349` images `00387-00479` unless working from a new citation or higher-resolution reread.
 
 ## Key Findings
 
@@ -199,7 +217,7 @@ This is an official Clark County will-book copy of Jacob Partlow's will and prob
 
 The will materially improves the research position by showing that Jacob had a broader lawful-heir class and that those heirs had received prior payments. The missing evidence is not the will text itself; it is any accompanying probate packet or settlement papers that may name the recipients.
 
-The probate-index and CC follow-ups improve the control map by confirming that Jacob appears in the Clark County estate-paper index, that `PARTLOW Jacob - 188` points to the found will, that `PARTLOW Jacob - (CC) 166` means Probate Journal volume CC page 166, and that Jacob's physical estate file is indexed to **box 46**. The Probate Journal and box 46 packet are not online in the checked Ancestry / FamilySearch reel set.
+The probate-index and CC follow-ups improve the control map by confirming that Jacob appears in the Clark County estate-paper index, that `PARTLOW Jacob - 188` points to the found will, that `PARTLOW Jacob - (CC) 166` means Probate Journal volume CC page 166, and that Jacob's physical estate file is indexed to **box 46**. The Probate Journal and box 46 packet are not online in the checked Ancestry / FamilySearch reel set. The web-accessible Guardian Record Book B search through February 1871 is now negative for Partlow / Ridenhouse variants.
 
 ## Remaining Access Path
 
@@ -230,8 +248,9 @@ Primary repositories:
 ## Next Research Targets
 
 1. **Offline / physical:** Request Probate Journal / Probate Order Book **volume CC, page 166** and estate packet **box 46** from Clark County or IRAD-EIU.
-2. **Online remainder:** Continue Guardian's Record Book B on DGS `7655349` from image `007655349_00408` forward through approximately 1871 for Partlow / Ritenhouse / Ridenhouse / Rittenhouse / Reddinghause entries. Pages 1-41 / images `00387-00407` are already checked negative.
-3. **Unresolved but bounded:** `PARTLOW John M. - 1/28` remains unresolved after checking the Administrator-Guardian Index P section and candidate page 28 bond / guardian-book records. Revisit only with a new candidate series or higher-resolution index reread.
-4. **Collateral lead:** Abstract the James Partlow executor bond at DGS `7655347`, image `007655347_00640`, if broader Clark County Partlow probate context becomes useful.
-5. Continue the separate original-record search for the reported **Mary Halleck** first marriage and **Isaac Partlow** brother relationship.
-6. Retrieve the original Indiana marriage register entry for Jacob Partlow and Polly Abrams, 13 Sep 1815, FHL film `000549348`.
+2. **Completed online negative:** Guardian Record Book B on DGS `7655349`, images `00387-00479`, is checked negative for Partlow / Ridenhouse variants through about February 1871.
+3. **Optional lower-priority web work:** Continue into later Guardian Record Books C-E only if pursuing a broad Ridenhouse / Partlow guardianship sweep beyond the likely window.
+4. **Unresolved but bounded:** `PARTLOW John M. - 1/28` remains unresolved after checking the Administrator-Guardian Index P section and candidate page 28 bond / guardian-book records. Revisit only with a new candidate series or higher-resolution index reread.
+5. **Collateral lead:** Abstract the James Partlow executor bond at DGS `7655347`, image `007655347_00640`, if broader Clark County Partlow probate context becomes useful.
+6. Continue the separate original-record search for the reported **Mary Halleck** first marriage and **Isaac Partlow** brother relationship.
+7. Retrieve the original Indiana marriage register entry for Jacob Partlow and Polly Abrams, 13 Sep 1815, FHL film `000549348`.

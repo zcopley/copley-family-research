@@ -24,7 +24,7 @@ This page tracks the former proposed proof chain from [[People/Marion Elizabeth 
 |---|---|
 | Is Benjamin Partlow's Revolutionary service supported? | Yes. Pension S5871 / pension-roll snippets, the local pension-cover image, and DAR ancestor lead `A088405` support Benjamin Partlow of Culpeper / Rappahannock County, Virginia as the Revolutionary War pensioner. |
 | Is the Marion Elizabeth Partlow -> Benjamin Partlow chain proved? | No. Marion -> Frank / Nollie + Alice -> Marion M. -> John H. is supported by original or near-original records, and John H. -> Jacob has derivative support. But the complete Rappahannock chancery file for Benjamin Partlow omits Jacob from every heir, party, advancement, and distribution list. |
-| Best immediate proof target | Request **Probate Journal vol. CC p. 166** and **estate packet box 46** offline. If staying web-only, continue DGS `7655349` Guardian Record Book B from image `00408` forward through about 1871 for Partlow / Ridenhouse clues; DGS `7655347` and Book B pages 1-41 are already checked negative for the current targets. |
+| Best immediate proof target | Request **Probate Journal vol. CC p. 166** and **estate packet box 46** from Clark County / IRAD-EIU. The online guardian-book path through Book B is now checked negative through about Feb. 1871. |
 | Critical middle gap | Identify Jacob Newton Partlow's correct parents and determine whether the compiled Mary Halleck / Isaac Partlow brother claims have original support. The Benjamin connection remains contradicted. |
 | Master queue | See [[Open Record Targets]] for the retired Partlow identity targets and the active primary-record targets. |
 
@@ -135,7 +135,7 @@ Citation and details:
 
 Interpretation: the will-book entry is now an original-record anchor, but it still does **not** name John H. Partlow, does **not** name all heirs, does **not** identify William by middle name, and does **not** explain Polly Ritenhouse / Ridenhouse. The next target is the separate probate packet, docket, executor bond, inventory, sale bill, settlement, and distribution receipts, if they survive.
 
-The probate-index follow-up found Jacob in the Clark County `INDEX TO ESTATE PAPERS` at Ancestry collection 9048 record `1196688`, image `007655352_00192`. The entries are **`PARTLOW Jacob - (CC) 166`** and **`PARTLOW Jacob - 188`**. The `188` entry points to the will-book page already found. A later check of the 1938 *Inventory of the County Archives of Illinois, No. 12 - Clark County (Marshall)* identifies `(CC) 166` as **Probate Journal / Probate Order Book volume CC, page 166**. That Probate Journal volume is not included in the online seven-reel FamilySearch / Ancestry set; it requires Clark County or IRAD-EIU access unless a new digitization is found. The same estate-paper index points **Partlow, Jacob** to **box 46**. The same index page includes **`PARTLOW John M. - 1/28`**; DGS `7655347` did not resolve it, and candidate page 28 checks in the bond book and Guardian Record Book B were negative. DGS `7655349` Guardian Record Book B pages 1-41 / images `00387-00407` were checked negative for Partlow / Ridenhouse variants.
+The probate-index follow-up found Jacob in the Clark County `INDEX TO ESTATE PAPERS` at Ancestry collection 9048 record `1196688`, image `007655352_00192`. The entries are **`PARTLOW Jacob - (CC) 166`** and **`PARTLOW Jacob - 188`**. The `188` entry points to the will-book page already found. A later check of the 1938 *Inventory of the County Archives of Illinois, No. 12 - Clark County (Marshall)* identifies `(CC) 166` as **Probate Journal / Probate Order Book volume CC, page 166**. That Probate Journal volume is not included in the online seven-reel FamilySearch / Ancestry set; it requires Clark County or IRAD-EIU access unless a new digitization is found. The same estate-paper index points **Partlow, Jacob** to **box 46**. The same index page includes **`PARTLOW John M. - 1/28`**; DGS `7655347` did not resolve it, and candidate page 28 checks in the bond book and Guardian Record Book B were negative. DGS `7655349` Guardian Record Book B images `00387-00479` / pages 1-185 were checked negative for Partlow / Ridenhouse variants through about Feb. 1871.
 
 The same companion genealogy snippet reportedly separates Jacob's marriages into **Mary Halleck** about 1810, with children John Halleck Partlow and James Halleck Partlow III, and **Mary / Polly Abrams** in 1815 in Indiana. Treat this as a working compiled-source structure until the original Mary Halleck evidence is found. The indexed 1815 Polly Abrams marriage remains the stronger direct marriage record.
 
@@ -334,7 +334,7 @@ flowchart TD
     H["Line can be evaluated for DAR-style proof"]
 
     A --> B --> C --> D --> E --> F --> G --> I --> H
-    F -. "current priority" .-> P["Best next targets:<br/>Probate Journal vol. CC p. 166;<br/>estate packet box 46;<br/>continue Guardian Book B after image 00407;<br/>Mary Halleck / Isaac corroboration"]
+    F -. "current priority" .-> P["Best next targets:<br/>Probate Journal vol. CC p. 166;<br/>estate packet box 46;<br/>Mary Halleck / Isaac corroboration"]
 
     class A,H goal
     class B,P priority
@@ -347,11 +347,10 @@ flowchart TD
 
 1. Request the underlying Probate Journal / Probate Order Book entry behind **`PARTLOW Jacob - (CC) 166`**: volume **CC**, page **166**, Clark County, Illinois.
 2. Request or inspect Jacob Partlow's estate packet indexed as **box 46**.
-3. If staying web-only, continue Ancestry collection 9048 / FamilySearch DGS `7655349`, Guardian Record Book B, from image `007655349_00408` forward through about 1871 for Partlow / Ritenhouse / Ridenhouse / Rittenhouse / Reddinghause entries.
-4. Do not repeat the checked DGS `7655347` P-section / candidate page-28 searches or Guardian Book B pages 1-41 unless working from a new citation or higher-resolution reread.
-5. Search for original corroboration of **Mary Halleck** as Jacob's first wife and **Isaac Partlow** as Jacob's brother.
-6. Retrieve the original Indiana marriage register entry for Jacob Partlow and Polly Abrams, 13 Sep 1815, FHL film `000549348`.
-7. Use Rappahannock / Culpeper / Spotsylvania records for Benjamin-family collateral context, not as proof of Jacob as Benjamin's heir unless a new direct record appears.
+3. Do not repeat the checked DGS `7655347` P-section / candidate page-28 searches or Guardian Book B images `00387-00479` unless working from a new citation or higher-resolution reread.
+4. Search for original corroboration of **Mary Halleck** as Jacob's first wife and **Isaac Partlow** as Jacob's brother.
+5. Retrieve the original Indiana marriage register entry for Jacob Partlow and Polly Abrams, 13 Sep 1815, FHL film `000549348`.
+6. Use Rappahannock / Culpeper / Spotsylvania records for Benjamin-family collateral context, not as proof of Jacob as Benjamin's heir unless a new direct record appears.
 
 ## Sources
 

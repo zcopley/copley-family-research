@@ -10,6 +10,20 @@ tags:
 
 A running record of significant additions, corrections, and improvements to this wiki. Most recent changes are listed first. For technical details, see the corresponding `AGENT_HANDOFF_PHASE_*.md` files.
 
+## Phase 4FB - Guardian Book B Checked Negative Through 1871 (June 24, 2026)
+
+**WEB-ONLY GUARDIANSHIP PATH COMPLETED:** Integrated the final Guardian Record Book B browse for the Jacob Partlow probate problem. DGS `7655349` images `007655349_00408-00479` were checked sequentially, with image `00480` used as the February 1871 endpoint. Combined with the earlier pass, Guardian Record Book B images `00387-00479` / pages 1-185 are now checked.
+
+**NEGATIVE RESULT:** No Partlow, Ritenhouse, Ridenhouse, Rittenhouse, Reddinghause, Polly / Mary Ridenhouse, or Polly / Mary Ritenhouse entry was found in any guardian, ward, or deceased-ancestor position through about February 1871.
+
+**TASK SHIFT:** The remaining Jacob probate proof target is now offline: **Probate Journal vol. CC p. 166** and **estate packet box 46**. Later Guardian Books C-E are optional lower-priority web-only work, not the current primary proof target.
+
+### Updated Pages
+
+- [[References/Jacob Partlow Clark County Probate Will Lead|Jacob Partlow Clark County Probate Will Lead]] - added the final Guardian Book B result and preserved raw source at `static/sources/claude-partlow/jacob-partlow-guardian-book-b-final-browse-claude-output.txt`.
+- [[Open Record Targets|Open Record Targets]], [[RQ-P1-PARTLOW-REVOLUTIONARY-LINE|RQ-P1 Partlow Revolutionary Line]], [[Research Priorities and Action Items|Research Priorities and Action Items]], [[Sources and Evidence Index|Sources and Evidence Index]], [[Source to Claim Matrix|Source to Claim Matrix]], and [[Search Index|Search Index]] - updated the Partlow task status and no-repeat boundaries.
+- `CLAUDE.md`, `GEMINI.md`, and `.agents/AGENT_RESUME.md` - refreshed no-repeat guidance for Guardian Record Book B images `00387-00479`.
+
 ## Phase 4FA - Jacob Partlow Companion Probate Reels Checked (June 22, 2026)
 
 **ONLINE COMPANION REELS BOUNDED:** Integrated the DGS `7655347` / `7655349` follow-up for the Jacob Partlow probate problem. DGS `7655347` did **not** resolve `PARTLOW John M. - 1/28`; the Administrator-Guardian Index P section and candidate page-28 checks were negative for Partlow.
@@ -18,13 +32,13 @@ A running record of significant additions, corrections, and improvements to this
 
 **GUARDIANSHIP RANGE CHECKED:** DGS `7655349`, Guardian Record Book B, has no front alphabetical index. Pages 1-41 / images `007655349_00387-00407` are checked negative for Partlow / Ridenhouse / Ritenhouse / Rittenhouse / Reddinghause.
 
-**TASK SHIFT:** The core Jacob proof still requires offline access to **Probate Journal vol. CC p. 166** and **estate packet box 46**. The only remaining web-only probate path is to continue Guardian Record Book B from image `007655349_00408` forward through about 1871.
+**TASK SHIFT:** The core Jacob proof still requires offline access to **Probate Journal vol. CC p. 166** and **estate packet box 46**. This phase left Guardian Record Book B after image `007655349_00407` as the remaining web-only probate path; Phase 4FB later completed that browse through image `007655349_00479` and found no Partlow / Ridenhouse variants.
 
 ### Updated Pages
 
 - [[References/Jacob Partlow Clark County Probate Will Lead|Jacob Partlow Clark County Probate Will Lead]] - added the DGS `7655347` / `7655349` companion-reel follow-up and preserved raw source at `static/sources/claude-partlow/jacob-partlow-dgs7655347-7655349-followup-claude-output.txt`.
 - [[Open Record Targets|Open Record Targets]], [[RQ-P1-PARTLOW-REVOLUTIONARY-LINE|RQ-P1 Partlow Revolutionary Line]], [[Research Priorities and Action Items|Research Priorities and Action Items]], [[Sources and Evidence Index|Sources and Evidence Index]], [[Source to Claim Matrix|Source to Claim Matrix]], and [[Search Index|Search Index]] - updated the remaining online/offline target split.
-- `CLAUDE.md`, `GEMINI.md`, and `.agents/AGENT_RESUME.md` - refreshed no-repeat guidance for DGS `7655347` and Guardian Record Book B pages 1-41.
+- `CLAUDE.md`, `GEMINI.md`, and `.agents/AGENT_RESUME.md` - refreshed no-repeat guidance for DGS `7655347` and the then-checked Guardian Record Book B pages 1-41; Phase 4FB later extended that no-repeat range through image `007655349_00479`.
 
 ## Phase 4EZ - Jacob Partlow CC 166 and Newspaper Follow-Up (June 22, 2026)
 
