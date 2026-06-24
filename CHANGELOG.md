@@ -12,16 +12,16 @@ A running record of significant additions, corrections, and improvements to this
 
 ## Phase 4FC - Jacob Partlow Probate Request Package Added (June 24, 2026)
 
-**OFFLINE REQUEST PACKAGE READY:** Added the IRAD-EIU / Clark County request package for the remaining Jacob Partlow probate targets: **Probate Journal / Probate Order Book vol. CC p. 166** and any surviving **estate packet / estate papers box 46**.
+**VERIFIED OFFLINE REQUEST PACKAGE READY:** Added and then refined the IRAD-EIU / Clark County request package for the remaining Jacob Partlow probate targets: **Probate Journal / Probate Order Book vol. CC p. 166** and any surviving **estate packet / estate papers box 46**.
 
-**CONTACT PATH RECORDED:** The package now directs outreach to IRAD at Eastern Illinois University first (`archives@eiu.edu`, `217-581-6093`), with Clark County Courthouse fallback contacts in Marshall: County Clerk / Recorder `217-826-8311` and Circuit Clerk `217-826-2811`.
+**CONTACT PATH VERIFIED:** The final package directs outreach to IRAD at Eastern Illinois University first (`archives@eiu.edu`, `217-581-6093`), with Clark County Courthouse fallback contacts in Marshall: County Clerk / Recorder `217-826-8311` and Circuit Clerk `217-826-2811`.
 
 **CITATION GUARDRAIL:** The wiki text keeps `CC 166` tied to the probate index image `007655352_00192` and the 1938 Clark County archives inventory, and phrases the entry as a **likely** probate journal / court-order entry until the page is seen. Packet language asks repositories to search for **any surviving** estate packet / estate papers and does not assume survival.
 
 ### Updated Pages
 
-- [[References/Jacob Partlow Clark County Probate Will Lead|Jacob Partlow Clark County Probate Will Lead]] - added the ready-to-send IRAD and Clark County request text, phone script, and contact table; preserved the package at `static/sources/claude-partlow/jacob-partlow-offline-probate-request-package-claude-output.txt`.
-- [[Open Record Targets|Open Record Targets]], [[RQ-P1-PARTLOW-REVOLUTIONARY-LINE|RQ-P1 Partlow Revolutionary Line]], and [[Research Priorities and Action Items|Research Priorities and Action Items]] - changed ORT-025 from "offline core target" to "offline request package ready."
+- [[References/Jacob Partlow Clark County Probate Will Lead|Jacob Partlow Clark County Probate Will Lead]] - added the ready-to-send IRAD and Clark County request text, phone script, and contact table; preserved the initial package at `static/sources/claude-partlow/jacob-partlow-offline-probate-request-package-claude-output.txt` and the final contact-verification package at `static/sources/claude-partlow/jacob-partlow-probate-contact-verification-final-request-claude-output.txt`.
+- [[Open Record Targets|Open Record Targets]], [[RQ-P1-PARTLOW-REVOLUTIONARY-LINE|RQ-P1 Partlow Revolutionary Line]], and [[Research Priorities and Action Items|Research Priorities and Action Items]] - changed ORT-025 from "offline core target" to "verified request package ready."
 - `CLAUDE.md`, `GEMINI.md`, and `.agents/AGENT_RESUME.md` - updated current instructions so the next action is repository outreach, not more Guardian Book B or generic web browsing.
 
 ## Phase 4FB - Guardian Book B Checked Negative Through 1871 (June 24, 2026)
