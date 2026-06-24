@@ -1,0 +1,64 @@
+Jacob Partlow Probate Records - Contact Verification and Final Offline Request Package
+
+Integrated June 24, 2026.
+
+Contact verification:
+
+IRAD-EIU, Booth Library, Eastern Illinois University:
+- Phone: 217-581-6093, confirmed current.
+- Email: archives@eiu.edu, confirmed current as the general archives contact.
+- Address: Room 1700, Booth Library, 600 Lincoln Ave., Charleston, IL 61920.
+- Hours: typically 9 a.m.-4 p.m., Mon-Fri; call ahead recommended because the archive is staffed by graduate interns and hours may vary.
+
+Clark County Courthouse fallback:
+- Address: Clark County Courthouse, 501 Archer Ave., Marshall, IL 62441.
+- Circuit Clerk: 217-826-2811.
+- County Clerk: 217-826-8311.
+- Recorder: 217-826-8311.
+- Note: clarkcountyil.gov was unreachable during the check, but the Illinois State Archives IRAD / Clark County page confirmed the phone numbers.
+
+Primary email:
+
+To: archives@eiu.edu
+Subject: Research Request - Clark County Probate Records, Jacob Partlow Estate, 1868
+
+Dear IRAD-EIU Staff,
+
+I am researching the estate of Jacob Partlow, whose estate was probated in Clark County, Illinois. His will was probated in Clark County on 26 May 1868, and the will itself, dated 3 September 1867, is recorded in Will Record Book 1, page 188. The executor was William W. Willison; the life tenant was his widow Polly Partlow.
+
+I have already located and reviewed the will image and the probate index entry through digitized Ancestry / FamilySearch records. I am now seeking the original court and estate documents that are not available online, and I believe your depository holds Clark County records that may include them.
+
+I have two specific targets:
+
+1. Probate Journal / Probate Order Book, vol. CC, page 166. Based on the probate index, there is likely a court-order or journal entry at this location recording the probate proceedings for this estate. I would be grateful for a photocopy or scan of that page, and any immediately surrounding pages if the entry runs over.
+
+2. Estate packet / estate papers, Box 46. The index suggests surviving estate papers may be filed in Box 46. Please search for any surviving estate packet or loose estate papers for the Jacob Partlow estate, probated May 1868, in that box. If found, I would appreciate copies of all documents in the packet.
+
+I am happy to pay any applicable research or copying fees. If you are able to confirm whether these records are held at your depository before proceeding, that would be very helpful. Please feel free to contact me at [YOUR EMAIL] or [YOUR PHONE].
+
+Thank you very much for your assistance.
+
+Sincerely,
+[Your Name]
+[Your Address]
+[Your Phone / Email]
+
+Fallback postal letter:
+
+Clark County Circuit Clerk
+Clark County Courthouse
+501 Archer Ave.
+Marshall, IL 62441
+Phone: 217-826-2811
+
+Subject: Records Request - Estate of Jacob Partlow, Clark County, probated May 1868
+
+Request copies of Probate Journal / Court Order Book volume CC, page 166, and any surviving estate papers / estate packet, Box 46, for Jacob Partlow, whose will dated 3 September 1867 was admitted to probate in Clark County on 26 May 1868. Will Record Book 1, page 188. Executor William W. Willison. Ask for page 166 plus continuation pages, and for any surviving loose estate papers such as inventory, claims, receipts, or administrator's reports. Offer to pay search and copy fees.
+
+Phone-script core:
+
+"Hello, my name is [Name], and I am a genealogical researcher. I am looking into the estate of a man named Jacob Partlow, P-A-R-T-L-O-W, who was probated in Clark County in May of 1868. The executor was William W. Willison. I am trying to locate two specific records: Probate Journal or Order Book volume CC, page 166, and a surviving estate packet or loose estate papers that may be in Box 46. Can you tell me whether you hold those records, and what the process would be to get copies? I am happy to pay any research or copy fees."
+
+Recommendation:
+
+Email IRAD-EIU first at archives@eiu.edu. If IRAD-EIU cannot locate the records or indicates the courthouse holds them, escalate to the Clark County Circuit Clerk at 217-826-2811 or send the postal letter.
