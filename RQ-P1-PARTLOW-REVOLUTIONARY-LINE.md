@@ -24,7 +24,7 @@ This page tracks the former proposed proof chain from [[People/Marion Elizabeth 
 |---|---|
 | Is Benjamin Partlow's Revolutionary service supported? | Yes. Pension S5871 / pension-roll snippets, the local pension-cover image, and DAR ancestor lead `A088405` support Benjamin Partlow of Culpeper / Rappahannock County, Virginia as the Revolutionary War pensioner. |
 | Is the Marion Elizabeth Partlow -> Benjamin Partlow chain proved? | No. Marion -> Frank / Nollie + Alice -> Marion M. -> John H. is supported by original or near-original records, and John H. -> Jacob has derivative support. But the complete Rappahannock chancery file for Benjamin Partlow omits Jacob from every heir, party, advancement, and distribution list. |
-| Best immediate proof target | Request **Probate Journal vol. CC p. 166** and **estate packet box 46** from Clark County / IRAD-EIU. The online guardian-book path through Book B is now checked negative through about Feb. 1871. |
+| Best immediate proof target | Send the prepared IRAD-EIU / Clark County request for **Probate Journal vol. CC p. 166** and any surviving **estate packet / estate papers box 46**. The online guardian-book path through Book B is now checked negative through about Feb. 1871. |
 | Critical middle gap | Identify Jacob Newton Partlow's correct parents and determine whether the compiled Mary Halleck / Isaac Partlow brother claims have original support. The Benjamin connection remains contradicted. |
 | Master queue | See [[Open Record Targets]] for the retired Partlow identity targets and the active primary-record targets. |
 
@@ -345,8 +345,8 @@ flowchart TD
     classDef action fill:#e7f5ff,stroke:#1971c2,color:#102a43;
 ```
 
-1. Request the underlying Probate Journal / Probate Order Book entry behind **`PARTLOW Jacob - (CC) 166`**: volume **CC**, page **166**, Clark County, Illinois.
-2. Request or inspect Jacob Partlow's estate packet indexed as **box 46**.
+1. Send the prepared request package to IRAD-EIU first: `archives@eiu.edu`, phone `217-581-6093`, asking for Probate Journal / Probate Order Book volume **CC**, page **166**, and any surviving Jacob Partlow estate packet / estate papers indexed as **box 46**.
+2. If IRAD-EIU does not hold the records, use the fallback Clark County Courthouse path in Marshall: County Clerk / Recorder `217-826-8311` or Circuit Clerk `217-826-2811`.
 3. Do not repeat the checked DGS `7655347` P-section / candidate page-28 searches or Guardian Book B images `00387-00479` unless working from a new citation or higher-resolution reread.
 4. Search for original corroboration of **Mary Halleck** as Jacob's first wife and **Isaac Partlow** as Jacob's brother.
 5. Retrieve the original Indiana marriage register entry for Jacob Partlow and Polly Abrams, 13 Sep 1815, FHL film `000549348`.
