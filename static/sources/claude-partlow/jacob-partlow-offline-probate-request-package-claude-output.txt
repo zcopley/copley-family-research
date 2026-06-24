@@ -1,0 +1,52 @@
+Jacob Partlow Probate Records - Final Offline Request Package
+
+Integrated June 24, 2026.
+
+Repository contacts from the offline request package:
+
+IRAD at Eastern Illinois University
+Illinois Regional Archives Depository
+Booth Library, Room 1700
+Eastern Illinois University
+600 Lincoln Avenue
+Charleston, IL 61920
+Phone: 217-581-6093
+General archives email: archives@eiu.edu
+Hours reported in the package: Mon-Fri, 9 a.m.-12 p.m. and 1-4 p.m., except state holidays.
+
+Clark County Courthouse
+501 Archer Avenue
+Marshall, IL 62441
+County Clerk: 217-826-8311
+Circuit Clerk: 217-826-2811
+Recorder: 217-826-8311
+No official county website email was confirmed in the package; use phone or postal mail.
+
+Corrected citation note:
+The request package correctly treats Probate Journal / Probate Order Book vol. CC, p. 166 as a likely court-order / probate-journal entry until the page is seen. In the wiki integration, the CC/166 lead is tied to the Clark County probate index image 007655352_00192 and the 1938 Inventory of the County Archives of Illinois, not to Guardian Book B image 007655349_00479.
+
+Key request identifiers:
+- Decedent: Jacob Partlow.
+- County: Clark County, Illinois.
+- Will date: 3 September 1867.
+- Probate date: 26 May 1868.
+- Will Record: Book 1, page 188.
+- Probate Journal / Probate Order Book lead: vol. CC, page 166.
+- Estate packet / estate papers lead: box 46.
+- Executor: William W. Willison.
+- Wife / life tenant: Polly Partlow.
+- Residuary heir named in the will: William.
+- Specific legatee: Polly Ritenhouse / Ridenhouse, cow and bed.
+- Will witnesses: Jacob Geffs and Roger S. Davis.
+
+Primary request wording:
+
+Ask IRAD-EIU to search Clark County Probate Journal / Probate Order Book volume CC, page 166, and to search for any surviving estate packet / estate papers for Jacob Partlow in box 46 or under his name. If any loose papers survive, request executor's bond, letters testamentary, inventory, appraisement, sale bill, creditor receipts, annual settlements, final account, distribution receipts, or related filed papers.
+
+Fallback request:
+
+If IRAD-EIU does not hold the volume or packet, contact Clark County Circuit Clerk / County Clerk in Marshall with the same request. Phrase all packet language as "please search for any surviving estate packet / estate papers"; do not assume the packet survives until a repository confirms it.
+
+Phone-script core:
+
+"Hello, my name is [Name], and I am a genealogical researcher. I am trying to locate older Clark County probate records for the estate of Jacob Partlow, with proceedings dating to about 1868 to 1872. I am looking for Probate Order Book or Probate Journal volume CC, page 166, and for any surviving estate packet or estate papers for Jacob Partlow, possibly indexed to box 46. Do you hold Clark County probate or county court records for that period, and what is the best way to request copies and pay any search or copy fees?"
